@@ -1,0 +1,48 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 167.55,
+            "fmt": "167.55"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {},
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {},
+          "debtToEquity": {},
+          "revenuePerShare": {},
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 310951700000,
+            "fmt": "310.95B",
+            "longFmt": "310,951,700,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {},
+          "ebitdaMargins": {},
+          "operatingMargins": {},
+          "profitMargins": {},
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

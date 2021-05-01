@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "532483",
+"exchange" : "BOM",
+"id": "683498",
+"t" : "532483",
+"e" : "BOM",
+"name" : "Canara Bank Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532483"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532483"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532483"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002705)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "19.76%",
+"annual" : "6.94%",
+"ttm" : "26.85%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "9.83%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "21.73%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.21%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.05%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "55,717",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-4.20",
+"l" : "309.60",
+"cp" : "-1.34",
+"ccol" : "chr",
+"op" : "315.00",
+"hi" : "315.40",
+"lo" : "308.35",
+"vo" : "166,139.00",
+"avvo" : "",
+"hi52" : "463.40",
+"lo52" : "280.50",
+"mc" : "185.28B",
+"pe" : "9.57",
+"fwpe" : "",
+"beta" : "",
+"eps" : "32.36",
+"dy" : "0.32",
+"ldiv" : "1.00",
+"shares" : "597.29M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "683498",
+"name" : "Canara Bank Ltd",
+"t" : "532483",
+"e" : "BOM",
+"l" : "309.60",
+"c" : "-4.20",
+"mc" : "185.28B",
+"cp" : "-1.34",
+"ccol" : "chr"
+}
+,
+{
+"id" : "237202",
+"name" : "Bank of India",
+"t" : "BANKINDIA",
+"e" : "NSE",
+"l" : "126.70",
+"c" : "-2.25",
+"mc" : "150.26B",
+"cp" : "-1.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "333651",
+"name" : "Punjab National Bank",
+"t" : "PNB",
+"e" : "NSE",
+"l" : "111.90",
+"c" : "-1.55",
+"mc" : "271.30B",
+"cp" : "-1.37",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6038505",
+"name" : "Dhanlaxmi Bank Limited",
+"t" : "DHANBANK",
+"e" : "NSE",
+"l" : "22.85",
+"c" : "-0.25",
+"mc" : "5.78B",
+"cp" : "-1.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13082940",
+"name" : "HDFC Bank Limited",
+"t" : "HDFCBANK",
+"e" : "NSE",
+"l" : "1,912.50",
+"c" : "+31.95",
+"mc" : "4.97T",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678082",
+"name" : "Kotak Mahindra Bank Ltd",
+"t" : "KOTAKBANK",
+"e" : "NSE",
+"l" : "1,105.00",
+"c" : "+24.15",
+"mc" : "2.10T",
+"cp" : "2.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1731931",
+"name" : "State Bank Of Travancore",
+"t" : "SBT",
+"e" : "NSE",
+"l" : "605.00",
+"c" : "",
+"mc" : "43.02B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "16345036",
+"name" : "ICICI Bank Ltd",
+"t" : "ICICIBANK",
+"e" : "NSE",
+"l" : "326.15",
+"c" : "+3.40",
+"mc" : "2.09T",
+"cp" : "1.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6735160",
+"name" : "State Bank of Bikaner and Jaipur",
+"t" : "SBBJ",
+"e" : "NSE",
+"l" : "770.00",
+"c" : "",
+"mc" : "53.90B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8677390",
+"name" : "Bank of Baroda Ltd",
+"t" : "BANKBARODA",
+"e" : "NSE",
+"l" : "143.35",
+"c" : "-2.20",
+"mc" : "329.17B",
+"cp" : "-1.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13564339",
+"name" : "State Bank of India",
+"t" : "SBIN",
+"e" : "NSE",
+"l" : "274.30",
+"c" : "-1.75",
+"mc" : "2.36T",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "112, Jayachamarajendra Road, BANGALORE, 560002, India",
+"phone": "+91-80-22100250",
+"fax": "+91-80-22248831",
+"url": "http:\u002F\u002Fwww.canarabank.com\u002Fenglish\u002F",
+"overview" : "Canara Bank Ltd. is an India-based bank. The Bank\u0027s segments include Treasury Operations, Retail Banking Operations, Wholesale Banking Operations and Other Banking Operations. The Bank provides personal banking, corporate banking, non-resident Indians banking, Internet banking, and micro, small and medium enterprises (MSME) banking services. Its retail lending operations include education loans and vehicle loans. Its other services include merchant banking\u003B depository services\u003B executor, trustee and taxation services, and online payment services. It handles various government business products consisting of direct and indirect tax collections\u003B payment of pensions of Central Government and State Government\u003B handling of postal transactions and State Government treasury transactions\u003B public provident fund scheme and senior citizens\u0027 saving scheme, and issue of inflation indexed bonds of Reserve Bank of India. It has approximately 5,850 branches, including over eight overseas branches."
+} ]
+, "management" : [
+{
+"name" : "Rakesh Sharma",
+"age" : "58",
+"title" : "Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "N. Sivasankaran",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "P. V. Bharathi",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Dina Bandhu Mohapatra",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Matam Venkata Rao",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "T. George Augustin",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Thothala Narayanasamy Manoharan",
+"title" : "Non-Official Director, Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Venkatachalam Ramakrishna Iyer",
+"title" : "Director"
+}
+,
+{
+"name" : "H. Krishnamurthy",
+"title" : "Director"
+}
+,
+{
+"name" : "Suchindra Misra",
+"title" : "Government Nominee Director"
+}
+]
+,"moreresources" : [
+]
+}]

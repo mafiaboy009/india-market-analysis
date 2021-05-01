@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "507490",
+"exchange" : "BOM",
+"id": "715318",
+"t" : "507490",
+"e" : "BOM",
+"name" : "Rana Sugars Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:507490"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:507490"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:507490"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-6.74%",
+"annual" : "-2.37%",
+"ttm" : "1.56%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.42%",
+"annual" : "4.55%",
+"ttm" : "9.18%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.12%",
+"ttm" : "11.89%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.88%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-14.04%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,050",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "6.16",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "6.10",
+"hi" : "6.20",
+"lo" : "6.08",
+"vo" : "35,866.00",
+"avvo" : "",
+"hi52" : "11.00",
+"lo52" : "6.01",
+"mc" : "958.34M",
+"pe" : "6.06",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.02",
+"dy" : "",
+"ldiv" : "",
+"shares" : "153.57M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715318",
+"name" : "Rana Sugars Ltd.",
+"t" : "507490",
+"e" : "BOM",
+"l" : "6.16",
+"c" : "0.00",
+"mc" : "958.34M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13114484",
+"name" : "Simbhaoli Sugars Ltd.",
+"t" : "SIMBHSUGAR",
+"e" : "NSE",
+"l" : "28.60",
+"c" : "",
+"mc" : "807.34M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3493013",
+"name" : "Ugar Sugar Works Limited",
+"t" : "UGARSUGAR",
+"e" : "NSE",
+"l" : "19.80",
+"c" : "-0.25",
+"mc" : "2.23B",
+"cp" : "-1.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4438161",
+"name" : "Bannari Amman Sugars Limited",
+"t" : "BANARISUG",
+"e" : "NSE",
+"l" : "1,800.00",
+"c" : "+30.00",
+"mc" : "22.57B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12172014",
+"name" : "Upper Ganges Sugar \u0026 Industries Ltd.",
+"t" : "UPERGANGES",
+"e" : "NSE",
+"l" : "376.60",
+"c" : "",
+"mc" : "4.37B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13914119",
+"name" : "Triveni Engineering \u0026 Industries Ltd.",
+"t" : "TRIVENI",
+"e" : "NSE",
+"l" : "63.45",
+"c" : "-0.40",
+"mc" : "16.38B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6592407",
+"name" : "E.I.D-Parry (India) Ltd",
+"t" : "EIDPARRY",
+"e" : "NSE",
+"l" : "315.65",
+"c" : "-4.05",
+"mc" : "55.85B",
+"cp" : "-1.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14034255",
+"name" : "Parrys Sugar Industries Ltd",
+"t" : "PARRYSUGAR",
+"e" : "NSE",
+"l" : "48.40",
+"c" : "",
+"mc" : "976.13M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8902314",
+"name" : "Kesar Enterprises Ltd",
+"t" : "KESARENT",
+"e" : "NSE",
+"l" : "57.95",
+"c" : "-1.15",
+"mc" : "578.73M",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10843935",
+"name" : "KM Sugar Mills Ltd.",
+"t" : "KMSUGAR",
+"e" : "NSE",
+"l" : "14.15",
+"c" : "-0.15",
+"mc" : "1.29B",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715557",
+"name" : "Jeypore Sugar Company Ltd",
+"t" : "590054",
+"e" : "BOM",
+"l" : "48.70",
+"c" : "",
+"mc" : "220.83M",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "SCO 49-50, Sector 8 C, Madhya Marg, CHANDIGARH, 160009, India",
+"phone": "+91-172-2540007",
+"fax": "+91-172-2546809",
+"url": "http:\u002F\u002Franagroup.com\u002Frsl\u002Findex.htm",
+"overview" : "Rana Sugars Limited is a sugar manufacturing company. The Company\u0027s segments include White Crystal Sugar, Power Generation and Distillery. Its geographical segments include Punjab and Uttar Pradesh. The Company\u0027s principal products\u002Fservices include Sugar, Spirit \u0026 Others, and Power. It manufactures various categories of sugar, including double refined white sulfurless sugar, plantation white sugar, raw sugar and sugar from sugar beet. Its distillery unit has a production capacity of 60 kiloliters per day (KLPD). The distillery unit manufactures various grades of alcohol, such as rectified spirit (RS) and potable grade extra neutral alcohol (ENA). It also operates in Punjab Medium Liquor (PML) sector. The Company has an installed capacity to produce 120.8 megawatts (MW) of power. Its sugar and power units are located in Amritsar District, Punjab\u003B Rampur District Uttar Pradesh, and Moradabad District, Uttar Pradesh. Its distillery unit is located in Tarn Taran District, Punjab."
+} ]
+, "management" : [
+{
+"name" : "Rana Ranjit Singh",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Manmohan K. Raina",
+"title" : "Company Secretary, Compliance Officer"
+}
+,
+{
+"name" : "Rana Inder Pratap Singh",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "S. A. S. Bajwa",
+"age" : "74",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Baljit Singh",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Balour Singh",
+"title" : "Non-Executive Director - Nominee of PEDA"
+}
+,
+{
+"name" : "M. P. Singh",
+"age" : "45",
+"title" : "Non-Executive Director - Nominee of PEDA"
+}
+,
+{
+"name" : "Rana Veer Pratap Singh",
+"age" : "30",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

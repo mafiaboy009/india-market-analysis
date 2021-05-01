@@ -1,0 +1,296 @@
+
+// [
+{
+"symbol" : "503837",
+"exchange" : "BOM",
+"id": "14166660",
+"t" : "503837",
+"e" : "BOM",
+"name" : "Shree Rajasthan Syntex Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SHRJ.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:503837"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:503837"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:503837"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-2.41%",
+"annual" : "-0.24%",
+"ttm" : "-1.05%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-0.63%",
+"annual" : "4.91%",
+"ttm" : "1.30%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.85%",
+"ttm" : "3.41%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.30%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-1.87%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,842",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.80",
+"l" : "17.30",
+"cp" : "4.85",
+"ccol" : "chg",
+"op" : "17.00",
+"hi" : "17.30",
+"lo" : "17.00",
+"vo" : "2,800.00",
+"avvo" : "",
+"hi52" : "21.70",
+"lo52" : "12.33",
+"mc" : "237.05M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-1.72",
+"dy" : "",
+"ldiv" : "",
+"shares" : "13.70M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "14166660",
+"name" : "Shree Rajasthan Syntex Ltd",
+"t" : "503837",
+"e" : "BOM",
+"l" : "17.30",
+"c" : "+0.80",
+"mc" : "237.05M",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12923600",
+"name" : "AYM Syntex Ltd",
+"t" : "508933",
+"e" : "BOM",
+"l" : "68.50",
+"c" : "+0.90",
+"mc" : "2.69B",
+"cp" : "1.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11730081",
+"name" : "Sumeet Industries Ltd",
+"t" : "SUMEETINDS",
+"e" : "NSE",
+"l" : "26.55",
+"c" : "+0.85",
+"mc" : "2.18B",
+"cp" : "3.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715247",
+"name" : "Maharaja Shree Umaid Mills Ltd.",
+"t" : "530059",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "11427267",
+"name" : "Uniworth Ltd",
+"t" : "514144",
+"e" : "BOM",
+"l" : "0.97",
+"c" : "0.00",
+"mc" : "32.97M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "709546",
+"name" : "Jagjanani Textiles Limited",
+"t" : "532825",
+"e" : "BOM",
+"l" : "0.55",
+"c" : "0.00",
+"mc" : "8.58M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7676883",
+"name" : "Century Enka Limited",
+"t" : "CENTENKA",
+"e" : "NSE",
+"l" : "350.55",
+"c" : "+2.15",
+"mc" : "7.65B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8942841",
+"name" : "Bengal Tea and Fabrics Ltd",
+"t" : "532230",
+"e" : "BOM",
+"l" : "60.00",
+"c" : "-0.10",
+"mc" : "541.26M",
+"cp" : "-0.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "579602034236301",
+"name" : "Lakhotia Polyesters (India) Ltd",
+"t" : "535387",
+"e" : "BOM",
+"l" : "8.76",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12076788",
+"name" : "Spentex Industries Ltd.",
+"t" : "SPENTEX",
+"e" : "NSE",
+"l" : "5.75",
+"c" : "-0.15",
+"mc" : "507.59M",
+"cp" : "-2.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1511298",
+"name" : "Gupta Synthetics Ltd",
+"t" : "514116",
+"e" : "BOM",
+"l" : "2.36",
+"c" : "0.00",
+"mc" : "17.35M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "SRSL HOUSE N.H. No.8, Pulla-Bhuwana Road, P.O. Box 209, UDAIPUR, 313004, India",
+"phone": "+91-294-2440334",
+"fax": "+91-294-2440632",
+"url": "http:\u002F\u002Fwww.srsl.in\u002F",
+"overview" : "Shree Rajasthan Syntex Limited is engaged in the production of textile products. The Company offers man-made fiber spun yarn. The Company is involved in producing textile raw materials, including synthetic spun yarns, cotton yarns and polypropylene yarns. Its products include Polyester-Viscose Blends, Acrylic Blends, 100% Polyester, 100% Viscose, Regenerated 100% Polyester, Low Shrinkage Automotive and Micro Danier SOFT\u002FSUPERSOFT Yarns. It also offers Karded Cotton for terry towel applications. Its product profile for polypropylene multifilament color yarns include Bulk Continuous Filament (BCF), Fully Drawn Yarn (FDY) and Partially Oriented Yarn (POY). The Company\u0027s end applications include suiting, shirting, sportswear, furnishings, upholstery, knits, blankets, velvets, chenille and seating. It is also engaged in power generation. It produces 2,500 million tons of yarn every month. Its plant has a capacity to produce 3,600 million tons of polypropylene multifilament yarn every year."
+} ]
+, "management" : [
+{
+"name" : "Vinod Kumar Ladia",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Vikas Ladia",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "N. K. Soni",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ravina Soni",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anubhav Ladia",
+"age" : "39",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Monika Ladia",
+"title" : "Special Executive"
+}
+,
+{
+"name" : "Neelima Khetan",
+"title" : "Women Director"
+}
+,
+{
+"name" : "N. N. Agrawala",
+"age" : "74",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Sunil Goyal",
+"age" : "57",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Susheel Jain",
+"age" : "50",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,379 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 8328838656,
+            "fmt": "8.33B",
+            "longFmt": "8,328,838,656"
+          },
+          "forwardPE": {
+            "raw": 20.02988,
+            "fmt": "20.03"
+          },
+          "profitMargins": {
+            "raw": 0.05901,
+            "fmt": "5.90%"
+          },
+          "floatShares": {
+            "raw": 14071574,
+            "fmt": "14.07M",
+            "longFmt": "14,071,574"
+          },
+          "sharesOutstanding": {
+            "raw": 87001200,
+            "fmt": "87M",
+            "longFmt": "87,001,200"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.010959,
+            "fmt": "0.01"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 37.89,
+            "fmt": "37.89"
+          },
+          "priceToBook": {
+            "raw": 2.6537347,
+            "fmt": "2.65"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1364688000,
+            "fmt": "2013-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.445,
+            "fmt": "-44.50%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 339839008,
+            "fmt": "339.84M",
+            "longFmt": "339,839,008"
+          },
+          "trailingEps": {
+            "raw": 3.91,
+            "fmt": "3.91"
+          },
+          "forwardEps": {
+            "raw": 5.02,
+            "fmt": "5.02"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "5/1",
+          "lastSplitDate": {
+            "raw": 1315267200,
+            "fmt": "2011-09-06"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.446,
+            "fmt": "1.45"
+          },
+          "enterpriseToEbitda": {
+            "raw": 12.731,
+            "fmt": "12.73"
+          },
+          "52WeekChange": {
+            "raw": 0.6359223,
+            "fmt": "63.59%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 1.18,
+                  "fmt": "1.18"
+                },
+                "estimate": {
+                  "raw": 1.11,
+                  "fmt": "1.11"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 5152182000,
+                  "fmt": "5.15B",
+                  "longFmt": "5,152,182,000"
+                },
+                "earnings": {
+                  "raw": 224955000,
+                  "fmt": "224.96M",
+                  "longFmt": "224,955,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 5449639000,
+                  "fmt": "5.45B",
+                  "longFmt": "5,449,639,000"
+                },
+                "earnings": {
+                  "raw": 219433000,
+                  "fmt": "219.43M",
+                  "longFmt": "219,433,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 5610707000,
+                  "fmt": "5.61B",
+                  "longFmt": "5,610,707,000"
+                },
+                "earnings": {
+                  "raw": 318693000,
+                  "fmt": "318.69M",
+                  "longFmt": "318,693,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 5759458000,
+                  "fmt": "5.76B",
+                  "longFmt": "5,759,458,000"
+                },
+                "earnings": {
+                  "raw": 339839000,
+                  "fmt": "339.84M",
+                  "longFmt": "339,839,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2012",
+                "revenue": {
+                  "raw": 1450738000,
+                  "fmt": "1.45B",
+                  "longFmt": "1,450,738,000"
+                },
+                "earnings": {
+                  "raw": 20618000,
+                  "fmt": "20.62M",
+                  "longFmt": "20,618,000"
+                }
+              },
+              {
+                "date": "3Q2012",
+                "revenue": {
+                  "raw": 1271198000,
+                  "fmt": "1.27B",
+                  "longFmt": "1,271,198,000"
+                },
+                "earnings": {
+                  "raw": 26509000,
+                  "fmt": "26.51M",
+                  "longFmt": "26,509,000"
+                }
+              },
+              {
+                "date": "4Q2012",
+                "revenue": {
+                  "raw": 1227571000,
+                  "fmt": "1.23B",
+                  "longFmt": "1,227,571,000"
+                },
+                "earnings": {
+                  "raw": 25290000,
+                  "fmt": "25.29M",
+                  "longFmt": "25,290,000"
+                }
+              },
+              {
+                "date": "1Q2013",
+                "revenue": {
+                  "raw": 1131574000,
+                  "fmt": "1.13B",
+                  "longFmt": "1,131,574,000"
+                },
+                "earnings": {
+                  "raw": 66698000,
+                  "fmt": "66.7M",
+                  "longFmt": "66,698,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "159, T.T.K. Road",
+          "address2": "Alwarpet",
+          "city": "Chennai",
+          "zip": "600018",
+          "country": "India",
+          "phone": "91 44 2498 3111",
+          "fax": "91 44 2498 2111",
+          "website": "http://www.nelcast.com",
+          "industry": "Metal Fabrication",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Nelcast Limited produces and sells ductile iron castings and grey iron castings worldwide. The company offers wheel hubs, brake drums, differential carriers and axle housing products, slide support products, shackles, and brackets for automobiles; and components for trailers consisting of foot mounting and torque rods. It also provides cylinder blocks, heads, fly wheels, fly wheel housing products, crank shafts, bearing caps, supporting products, and exhaust manifolds for engines. In addition, the company offers transmission cases, center housings, rear axle housings, and hydraulic lift covers for tractors; inserts/shoulders for concrete sleepers for use in railways; ductile iron pipe fittings; and cast iron driveline components. Nelcast Limited was incorporated in 1982 and is based in Chennai, India.",
+          "fullTimeEmployees": 1035,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 100.55,
+            "fmt": "100.55"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 503969984,
+            "fmt": "503.97M",
+            "longFmt": "503,969,984"
+          },
+          "totalCashPerShare": {
+            "raw": 5.793,
+            "fmt": "5.79"
+          },
+          "ebitda": {
+            "raw": 654212992,
+            "fmt": "654.21M",
+            "longFmt": "654,212,992"
+          },
+          "totalDebt": {
+            "raw": 893948992,
+            "fmt": "893.95M",
+            "longFmt": "893,948,992"
+          },
+          "quickRatio": {
+            "raw": 0.747,
+            "fmt": "0.75"
+          },
+          "currentRatio": {
+            "raw": 1.488,
+            "fmt": "1.49"
+          },
+          "totalRevenue": {
+            "raw": 5759457792,
+            "fmt": "5.76B",
+            "longFmt": "5,759,457,792"
+          },
+          "debtToEquity": {
+            "raw": 35.442,
+            "fmt": "35.44"
+          },
+          "revenuePerShare": {
+            "raw": 66.265,
+            "fmt": "66.26"
+          },
+          "returnOnAssets": {
+            "raw": 0.06143,
+            "fmt": "6.14%"
+          },
+          "returnOnEquity": {
+            "raw": 0.106529996,
+            "fmt": "10.65%"
+          },
+          "grossProfits": {
+            "raw": 3172207000,
+            "fmt": "3.17B",
+            "longFmt": "3,172,207,000"
+          },
+          "freeCashflow": {
+            "raw": 221818624,
+            "fmt": "221.82M",
+            "longFmt": "221,818,624"
+          },
+          "operatingCashflow": {
+            "raw": 330996992,
+            "fmt": "331M",
+            "longFmt": "330,996,992"
+          },
+          "earningsGrowth": {
+            "raw": -0.438,
+            "fmt": "-43.80%"
+          },
+          "revenueGrowth": {
+            "raw": -0.302,
+            "fmt": "-30.20%"
+          },
+          "grossMargins": {
+            "raw": 0.55078,
+            "fmt": "55.08%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.11359,
+            "fmt": "11.36%"
+          },
+          "operatingMargins": {
+            "raw": 0.09071,
+            "fmt": "9.07%"
+          },
+          "profitMargins": {
+            "raw": 0.05901,
+            "fmt": "5.90%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 10294374400,
+            "fmt": "10.29B",
+            "longFmt": "10,294,374,400"
+          },
+          "forwardPE": {
+            "raw": 53.0086,
+            "fmt": "53.01"
+          },
+          "profitMargins": {
+            "raw": 0.094239995,
+            "fmt": "9.42%"
+          },
+          "floatShares": {
+            "raw": 2351079,
+            "fmt": "2.35M",
+            "longFmt": "2,351,079"
+          },
+          "sharesOutstanding": {
+            "raw": 14617500,
+            "fmt": "14.62M",
+            "longFmt": "14,617,500"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.890662,
+            "fmt": "0.89"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 133.281,
+            "fmt": "133.28"
+          },
+          "priceToBook": {
+            "raw": 7.8589587,
+            "fmt": "7.86"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1175299200,
+            "fmt": "2007-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.092,
+            "fmt": "-9.20%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 332680000,
+            "fmt": "332.68M",
+            "longFmt": "332,680,000"
+          },
+          "trailingEps": {
+            "raw": 22.759,
+            "fmt": "22.76"
+          },
+          "forwardEps": {
+            "raw": 19.76,
+            "fmt": "19.76"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 2.916,
+            "fmt": "2.92"
+          },
+          "enterpriseToEbitda": {
+            "raw": 22.007,
+            "fmt": "22.01"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2015",
+                "actual": {
+                  "raw": 2.76,
+                  "fmt": "2.76"
+                },
+                "estimate": {
+                  "raw": 3.42,
+                  "fmt": "3.42"
+                }
+              },
+              {
+                "date": "2Q2016",
+                "actual": {
+                  "raw": 3.47,
+                  "fmt": "3.47"
+                },
+                "estimate": {
+                  "raw": 3.06,
+                  "fmt": "3.06"
+                }
+              },
+              {
+                "date": "4Q2016",
+                "actual": {
+                  "raw": 3.99,
+                  "fmt": "3.99"
+                },
+                "estimate": {
+                  "raw": 4.54,
+                  "fmt": "4.54"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 2787860000,
+                  "fmt": "2.79B",
+                  "longFmt": "2,787,860,000"
+                },
+                "earnings": {
+                  "raw": 190620000,
+                  "fmt": "190.62M",
+                  "longFmt": "190,620,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 3076280000,
+                  "fmt": "3.08B",
+                  "longFmt": "3,076,280,000"
+                },
+                "earnings": {
+                  "raw": 188670000,
+                  "fmt": "188.67M",
+                  "longFmt": "188,670,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 2920760000,
+                  "fmt": "2.92B",
+                  "longFmt": "2,920,760,000"
+                },
+                "earnings": {
+                  "raw": 201150000,
+                  "fmt": "201.15M",
+                  "longFmt": "201,150,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 3530300000,
+                  "fmt": "3.53B",
+                  "longFmt": "3,530,300,000"
+                },
+                "earnings": {
+                  "raw": 332680000,
+                  "fmt": "332.68M",
+                  "longFmt": "332,680,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2001",
+                "revenue": {
+                  "raw": 108590000,
+                  "fmt": "108.59M",
+                  "longFmt": "108,590,000"
+                },
+                "earnings": {
+                  "raw": 2770000,
+                  "fmt": "2.77M",
+                  "longFmt": "2,770,000"
+                }
+              },
+              {
+                "date": "3Q2001",
+                "revenue": {
+                  "raw": 108340000,
+                  "fmt": "108.34M",
+                  "longFmt": "108,340,000"
+                },
+                "earnings": {
+                  "raw": 740000,
+                  "fmt": "740k",
+                  "longFmt": "740,000"
+                }
+              },
+              {
+                "date": "1Q2006",
+                "revenue": {
+                  "raw": 273480000,
+                  "fmt": "273.48M",
+                  "longFmt": "273,480,000"
+                },
+                "earnings": {
+                  "raw": 34010000,
+                  "fmt": "34.01M",
+                  "longFmt": "34,010,000"
+                }
+              },
+              {
+                "date": "1Q2007",
+                "revenue": {
+                  "raw": 325420000,
+                  "fmt": "325.42M",
+                  "longFmt": "325,420,000"
+                },
+                "earnings": {
+                  "raw": 30880000,
+                  "fmt": "30.88M",
+                  "longFmt": "30,880,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "1001 Peninsula Towers",
+          "address2": "Peninsula Corporate Park Ganpatrao Kadam Marg Lower Parel",
+          "city": "Mumbai",
+          "zip": "400013",
+          "country": "India",
+          "phone": "91 22 6650 3900",
+          "website": "http://www.gmmpfaudler.com",
+          "industry": "Diversified Machinery",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "GMM Pfaudler Limited designs, manufactures, and sells corrosion resistant glass-lined equipment used primarily in the chemical, pharmaceutical, and allied industries in India and internationally. Its products include glass lined equipment comprising glass lined reactors, columns and vessels, conical dryer-blenders, pipes and fittings, glass steel, and polytetrafluoroethylene lined pipes and fittings, as well as accessories under the Glasteel name; and filtration and drying equipment, such as agitated nutsche filters and filter dryers, centrifugal disc filters, spherical dryers, and vacuum paddle dryers under the MAVAZWAG, Funda, Mavasphere, and Mavapad names. The company also offers mixing systems, including agitators for use in blending/heat transfer, suspension, emulsification, high viscosity blending, and gas dispersion under the Economix and Mavadrive brand names; and heavy engineering products comprising heat exchangers, as well as pressure vessels, which include Cr-Mo reactors, agitated reactors, column towers with internals, digesters, and scrubbers. In addition, it provides engineered systems, such as wiped film evaporators for use in the food processing, pharmaceutical, fine chemicals, polymers and resins, fats and oils, and petrochemical industries; and temperature control units for heating and cooling applications for the pharmaceutical, chemical, biotech, food, flavor and fragrance, and nutraceutical industries. Further, the company offers glass thickness measurement, glass integrity checks, and high voltage spark and conductivity tests, as well as preventive maintenance services. The company was formerly known as Gujarat Machinery Manufacturers Limited and changed its name to GMM Pfaudler Limited in 1999. The company was founded in 1962 and is based in Mumbai, India. GMM Pfaudler Limited is a subsidiary of Pfaudler Inc.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1047.45,
+            "fmt": "1,047.45"
+          },
+          "targetHighPrice": {
+            "raw": 252.0,
+            "fmt": "252.00"
+          },
+          "targetLowPrice": {
+            "raw": 252.0,
+            "fmt": "252.00"
+          },
+          "targetMeanPrice": {
+            "raw": 252.0,
+            "fmt": "252.00"
+          },
+          "targetMedianPrice": {
+            "raw": 252.0,
+            "fmt": "252.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 467769984,
+            "fmt": "467.77M",
+            "longFmt": "467,769,984"
+          },
+          "totalDebt": {},
+          "quickRatio": {
+            "raw": 1.373,
+            "fmt": "1.37"
+          },
+          "currentRatio": {
+            "raw": 2.226,
+            "fmt": "2.23"
+          },
+          "totalRevenue": {
+            "raw": 3530299904,
+            "fmt": "3.53B",
+            "longFmt": "3,530,299,904"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 241.512,
+            "fmt": "241.51"
+          },
+          "returnOnAssets": {
+            "raw": 0.085930005,
+            "fmt": "8.59%"
+          },
+          "returnOnEquity": {
+            "raw": 0.18398,
+            "fmt": "18.40%"
+          },
+          "grossProfits": {
+            "raw": 1685110000,
+            "fmt": "1.69B",
+            "longFmt": "1,685,110,000"
+          },
+          "freeCashflow": {
+            "raw": -42275000,
+            "fmt": "-42.27M",
+            "longFmt": "-42,275,000"
+          },
+          "operatingCashflow": {
+            "raw": 230350000,
+            "fmt": "230.35M",
+            "longFmt": "230,350,000"
+          },
+          "earningsGrowth": {
+            "raw": -0.093,
+            "fmt": "-9.30%"
+          },
+          "revenueGrowth": {
+            "raw": 0.19,
+            "fmt": "19.00%"
+          },
+          "grossMargins": {
+            "raw": 0.47733003,
+            "fmt": "47.73%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.1325,
+            "fmt": "13.25%"
+          },
+          "operatingMargins": {
+            "raw": 0.11191,
+            "fmt": "11.19%"
+          },
+          "profitMargins": {
+            "raw": 0.094239995,
+            "fmt": "9.42%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

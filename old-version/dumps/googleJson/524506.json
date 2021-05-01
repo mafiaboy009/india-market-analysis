@@ -1,0 +1,289 @@
+
+ [
+{
+"symbol" : "524506",
+"exchange" : "BOM",
+"id": "14985096",
+"t" : "524506",
+"e" : "BOM",
+"name" : "Coral Laboratories Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=CORL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:524506"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:524506"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:524506"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "11.13%",
+"annual" : "16.49%",
+"ttm" : "14.23%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.66%",
+"annual" : "24.89%",
+"ttm" : "17.82%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "26.79%",
+"ttm" : "19.60%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "14.77%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.17%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "151",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.60",
+"l" : "591.00",
+"cp" : "0.10",
+"ccol" : "chg",
+"op" : "590.30",
+"hi" : "594.00",
+"lo" : "590.00",
+"vo" : "246.00",
+"avvo" : "",
+"hi52" : "1,190.00",
+"lo52" : "570.00",
+"mc" : "2.11B",
+"pe" : "15.39",
+"fwpe" : "",
+"beta" : "",
+"eps" : "38.39",
+"dy" : "0.85",
+"ldiv" : "5.00",
+"shares" : "3.57M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "14985096",
+"name" : "Coral Laboratories Ltd",
+"t" : "524506",
+"e" : "BOM",
+"l" : "591.00",
+"c" : "+0.60",
+"mc" : "2.11B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11079050",
+"name" : "BDH Industries Ltd",
+"t" : "524828",
+"e" : "BOM",
+"l" : "77.00",
+"c" : "+1.15",
+"mc" : "444.19M",
+"cp" : "1.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "723347",
+"name" : "Ambalal Sarabhai Enterprises Ltd",
+"t" : "500009",
+"e" : "BOM",
+"l" : "12.65",
+"c" : "+0.44",
+"mc" : "962.32M",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5397679",
+"name" : "Gennex Laboratories Ltd",
+"t" : "531739",
+"e" : "BOM",
+"l" : "4.43",
+"c" : "-0.15",
+"mc" : "567.85M",
+"cp" : "-3.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7268066",
+"name" : "Auro Laboratories Ltd",
+"t" : "530233",
+"e" : "BOM",
+"l" : "99.50",
+"c" : "+0.95",
+"mc" : "622.66M",
+"cp" : "0.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "997802330873134",
+"name" : "Ortin Laboratories Ltd",
+"t" : "ORTINLABSS",
+"e" : "NSE",
+"l" : "20.60",
+"c" : "+0.45",
+"mc" : "346.39M",
+"cp" : "2.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3289388",
+"name" : "Medicamen Biotech Ltd",
+"t" : "531146",
+"e" : "BOM",
+"l" : "691.95",
+"c" : "+23.75",
+"mc" : "7.86B",
+"cp" : "3.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "289536",
+"name" : "Panchsheel Organics Ltd",
+"t" : "531726",
+"e" : "BOM",
+"l" : "89.80",
+"c" : "0.00",
+"mc" : "450.38M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2592931",
+"name" : "Medi Caps Ltd",
+"t" : "523144",
+"e" : "BOM",
+"l" : "25.65",
+"c" : "-0.70",
+"mc" : "321.07M",
+"cp" : "-2.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13868302",
+"name" : "Natural Capsules Ltd",
+"t" : "524654",
+"e" : "BOM",
+"l" : "116.00",
+"c" : "+5.05",
+"mc" : "722.99M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "111288288866817",
+"name" : "Sharon Bio-Medicine Ltd.",
+"t" : "SHARONBIO",
+"e" : "NSE",
+"l" : "6.80",
+"c" : "+0.10",
+"mc" : "808.76M",
+"cp" : "1.49",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "503, 5th Floor, Dalamal House Jamnalal Bajaj Marg, Nariman Point, MUMBAI, 400086, India",
+"phone": "+91-22-25008208",
+"fax": "+91-22-25004893",
+"url": "http:\u002F\u002Fwww.corallab.com\u002F",
+"overview" : "Coral Laboratories Limited is engaged in the formulation of medicine. The Company is engaged in the pharmaceutical business. The Company\u0027s dosage forms include Tablets, Capsules, Liquid Orals, B-Lactam, Dry Syrup, Meter Dose inhaler, Injectable, Sprays and Drops. The Company offers products in various categories, including ANTIBIOTICS\u002FANTIBACTERIAL, VITAMIN SUPPLEMENT, PROTEIN SUPPLEMENT, IRON SUPPLEMENT, ANTACID\u002FANTIULCER, ANTISPASMODIC, ANALGESIC\u002FANTIPYRETIC, ANALGESIC\u002FANTIPYRETIC\u002FANTI-INFLAMATORY, ANTIASTHMATIC, ANTHELMENTIC, ANTIDIABETIC, ANTIPROTOZOAL\u002FANTIAMOEBIC, COUGH SUPPRESSANT\u002FEXPECTORANT, ANTICOLD, CARDIAC MEDICINES, HERBAL MEDICINE, TOPICAL PREPARATIONS, APPETIZER, ORAL ANTISEPTIC PREPARATIONS, ANTIMALARIAL DRUGS, EAR DROPS, EYE DROPS, NASAL SPRAY, ANTI EMETIC, ANTI FUNGAL, MUSCLE RELAXANTS, ANTI FUNGAL and MOUTHWASH. Its manufacturing units are located in Daman, Dehradun and Vasai."
+} ]
+, "management" : [
+{
+"name" : "Chetan Doshi",
+"age" : "45",
+"title" : "Additional Chairman of the Board"
+}
+,
+{
+"name" : "Sushma Chinchane",
+"age" : "41",
+"title" : "Chief Financial Officer, Additional Director"
+}
+,
+{
+"name" : "Girish Dhameja",
+"age" : "36",
+"title" : "Additional Whole Time Director"
+}
+,
+{
+"name" : "Sheela R. Kamdar",
+"title" : "Director"
+}
+,
+{
+"name" : "Samir Anil Sheth",
+"age" : "46",
+"title" : "Director"
+}
+,
+{
+"name" : "Sanket Mehta",
+"age" : "36",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Priyush R. Dhedhi",
+"age" : "75",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rajesh R. Parikh",
+"age" : "40",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

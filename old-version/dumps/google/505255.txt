@@ -1,0 +1,281 @@
+
+// [
+{
+"symbol" : "505255",
+"exchange" : "BOM",
+"id": "715576",
+"t" : "505255",
+"e" : "BOM",
+"name" : "GMM Pfaudler Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GMMP.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:505255"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:505255"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:505255"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "9.42%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "11.20%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.53%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.58%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.40%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "375",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+5.20",
+"l" : "720.00",
+"cp" : "0.73",
+"ccol" : "chg",
+"op" : "720.25",
+"hi" : "730.00",
+"lo" : "710.00",
+"vo" : "1,542.00",
+"avvo" : "",
+"hi52" : "884.80",
+"lo52" : "501.85",
+"mc" : "10.47B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "0.56",
+"ldiv" : "0.70",
+"shares" : "14.62M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715576",
+"name" : "GMM Pfaudler Ltd.",
+"t" : "505255",
+"e" : "BOM",
+"l" : "720.00",
+"c" : "+5.20",
+"mc" : "10.47B",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9987857",
+"name" : "Stewarts and Lloyds of India Ltd",
+"t" : "504960",
+"e" : "BOM",
+"l" : "11.37",
+"c" : "0.00",
+"mc" : "34.11M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "259492578898635",
+"name" : "Mauria Udyog Ltd",
+"t" : "539219",
+"e" : "BOM",
+"l" : "174.35",
+"c" : "-1.90",
+"mc" : "2.32B",
+"cp" : "-1.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7697023",
+"name" : "Sarthak Industries Ltd",
+"t" : "SARTHAKIND",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "668320848296884",
+"name" : "A \u0026 M Febcon Ltd",
+"t" : "540697",
+"e" : "BOM",
+"l" : "14.80",
+"c" : "-0.70",
+"mc" : "",
+"cp" : "-4.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6289026",
+"name" : "Uttam Value Steels Ltd",
+"t" : "UVSL",
+"e" : "NSE",
+"l" : "0.20",
+"c" : "-0.05",
+"mc" : "1.32B",
+"cp" : "-20.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "770456",
+"name" : "Mazda Ltd",
+"t" : "523792",
+"e" : "BOM",
+"l" : "384.90",
+"c" : "+3.40",
+"mc" : "1.64B",
+"cp" : "0.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11777920",
+"name" : "Sobha Ltd",
+"t" : "SOBHA",
+"e" : "NSE",
+"l" : "558.00",
+"c" : "+5.15",
+"mc" : "53.01B",
+"cp" : "0.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9539343",
+"name" : "Thermax Limited",
+"t" : "THERMAX",
+"e" : "NSE",
+"l" : "1,174.00",
+"c" : "+20.50",
+"mc" : "139.95B",
+"cp" : "1.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2650589",
+"name" : "Jord Engineers India Ltd.",
+"t" : "500232",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "126099",
+"name" : "Isgec Heavy Engineering Ltd",
+"t" : "533033",
+"e" : "BOM",
+"l" : "6,905.35",
+"c" : "-143.80",
+"mc" : "51.28B",
+"cp" : "-2.04",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "1001, Peninsula Towers, Peninsula Corporate Park Ganpatrao Kadam Marg, MUMBAI, 400013, India",
+"phone": "+91-22-66503900",
+"fax": "+91-22-66503939",
+"url": "http:\u002F\u002Fwww.gmmpfaudler.com\u002F",
+"overview" : "GMM Pfaudler Limited manufactures glass-lined equipment, storage vessels and alloy steel equipment. The Company manufactures other special-purpose machinery. Its segments include Chemical Processing Equipment, Mixing Systems, and Filtration\u002FSeparation Equipment \u0026 Others. Its geographical segments include Within India and Outside India. Its glass-lined reactors include AE series, BE series, CE series, PHARMA SERIES and accessories. It offers glass lined Glasteel equipment. Its filtration and drying products include Mavazwag Agitated Nutsche Filters, Funda Centrifugal Disc Filter, Mavasphere Spherical Dryer and Mavapad Vacuum Paddle Dryer. It offers mixing systems, such as Economix and Mavadrive Magnetic drive agitators. Its engineered systems include Wiped Film Evaporators (WFE) and Temperature Control Units (TCU). Its heavy engineering equipment includes heat exchangers and pressure vessels. Its services include glass integrity checks, high voltage spark tests and conductivity tests."
+} ]
+, "management" : [
+{
+"name" : "Mittal Mehta",
+"title" : "Compliance Officer, Secretary, IR Contact Officer"
+}
+,
+{
+"name" : "Tarak A. Patel",
+"age" : "37",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "P. Krishnamurthy",
+"age" : "66",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Dominic Deller",
+"age" : "48",
+"title" : "Director"
+}
+,
+{
+"name" : "Thomas KehI",
+"title" : "Director"
+}
+,
+{
+"name" : "Khurshed Thanawalla",
+"title" : "Director - Nominee of Pfaudler, Inc. US"
+}
+,
+{
+"name" : "Ashok J. Patel",
+"age" : "67",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

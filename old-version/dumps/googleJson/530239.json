@@ -1,0 +1,284 @@
+
+ [
+{
+"symbol" : "530239",
+"exchange" : "BOM",
+"id": "699246",
+"t" : "530239",
+"e" : "BOM",
+"name" : "Suven Life Sciences Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530239"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530239"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530239"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.42%",
+"annual" : "16.01%",
+"ttm" : "14.38%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.26%",
+"annual" : "19.99%",
+"ttm" : "16.85%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "25.06%",
+"ttm" : "20.35%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.13%",
+"ttm" : "9.60%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.81%",
+"ttm" : "12.40%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "954",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.15",
+"l" : "191.85",
+"cp" : "1.13",
+"ccol" : "chg",
+"op" : "192.15",
+"hi" : "193.90",
+"lo" : "190.75",
+"vo" : "25,689.00",
+"avvo" : "",
+"hi52" : "250.80",
+"lo52" : "155.00",
+"mc" : "24.41B",
+"pe" : "33.98",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.65",
+"dy" : "0.78",
+"ldiv" : "1.50",
+"shares" : "127.28M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "699246",
+"name" : "Suven Life Sciences Ltd.",
+"t" : "530239",
+"e" : "BOM",
+"l" : "191.85",
+"c" : "+2.15",
+"mc" : "24.41B",
+"cp" : "1.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6286747",
+"name" : "Anuh Pharma Ltd",
+"t" : "506260",
+"e" : "BOM",
+"l" : "169.00",
+"c" : "-0.05",
+"mc" : "4.19B",
+"cp" : "-0.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6813187",
+"name" : "Nectar Lifesciences Ltd.",
+"t" : "NECLIFE",
+"e" : "NSE",
+"l" : "31.85",
+"c" : "-0.35",
+"mc" : "7.16B",
+"cp" : "-1.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2592931",
+"name" : "Medi Caps Ltd",
+"t" : "523144",
+"e" : "BOM",
+"l" : "25.65",
+"c" : "-0.70",
+"mc" : "321.07M",
+"cp" : "-2.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "729147",
+"name" : "Adinath Bio-Labs Limited",
+"t" : "590088",
+"e" : "BOM",
+"l" : "0.30",
+"c" : "",
+"mc" : "66.22M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5394531",
+"name" : "Neuland Laboratories Ltd.",
+"t" : "NEULANDLAB",
+"e" : "NSE",
+"l" : "707.35",
+"c" : "+0.70",
+"mc" : "6.28B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14964318",
+"name" : "Wockhardt Limited",
+"t" : "WOCKPHARMA",
+"e" : "NSE",
+"l" : "786.10",
+"c" : "+0.80",
+"mc" : "86.88B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11867337",
+"name" : "Samkrg Pistons And Rings Ltd",
+"t" : "520075",
+"e" : "BOM",
+"l" : "304.00",
+"c" : "+1.75",
+"mc" : "3.03B",
+"cp" : "0.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "363303879400780",
+"name" : "Oceanaa Biotek Industries Ltd",
+"t" : "538019",
+"e" : "BOM",
+"l" : "140.60",
+"c" : "-2.70",
+"mc" : "1.91B",
+"cp" : "-1.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5808074",
+"name" : "Gujarat State Fertilizers\u0026Chemicals Ltd",
+"t" : "GSFC",
+"e" : "NSE",
+"l" : "131.25",
+"c" : "+3.05",
+"mc" : "52.28B",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "986830",
+"name" : "Parabolic Drugs Limited",
+"t" : "PARABDRUGS",
+"e" : "NSE",
+"l" : "8.65",
+"c" : "-0.05",
+"mc" : "535.37M",
+"cp" : "-0.57",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "8 2 334, Sde Serene Chambers Road No 7, Banjara Hills HYDERABAD, HYDERABAD, 500034, India",
+"phone": "+91-40-23541142",
+"fax": "+91-40-23541152",
+"url": "http:\u002F\u002Fwww.suven.com\u002F",
+"overview" : "Suven Life Sciences Limited is a bio-pharmaceutical company. The Company is engaged in the business of manufacture and sale of bulk drugs and intermediaries. The Company\u0027s segments include Manufacturing (CRAMS), which develops and produces bulk drugs and intermediates under contract manufacturing services\u003B Services (DDDSS), which consists of collaborative research projects (CRP), clinical trials, and testing and analysis services, and Research and Development. Its products consist of active pharmaceutical ingredients (APIs), including Aripiprazole, Armodafinil, Calcium Acetate, Carprofen, Deferasirox, Doxofylline, Entacapone, Fenoprofen Calcium, Rosuvastatin Calcium, Sitagliptin Phosphate and Solifenacin succinate, and intermediates, including 2-nitro phenyl acetic acid and 3,4-dichlorobenzylamine. The Company is engaged in the drug discovery specializing in central nervous system (CNS)-based programs with over four of the molecules in pipeline under clinical phase of development."
+} ]
+, "management" : [
+{
+"name" : "Venkateswarlu Jasti",
+"age" : "66",
+"title" : "Executive Chairman of the Board, Chief Executive Officer"
+}
+,
+{
+"name" : "P. Subba Rao",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "K. Hanumantha Rao",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sudha Rani Jasti",
+"age" : "61",
+"title" : "Wholetime Director"
+}
+,
+{
+"name" : "M. Gopalakrishna",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Syed E. Hasnain PhD.",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "M. R. Naidu",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "D. G. Prasad",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

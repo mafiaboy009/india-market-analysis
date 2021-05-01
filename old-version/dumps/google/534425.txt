@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "534425",
+"exchange" : "BOM",
+"id": "84348177012581",
+"t" : "534425",
+"e" : "BOM",
+"name" : "Speciality Restaurants Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:534425"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:534425"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:534425"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-18.18%",
+"annual" : "-8.37%",
+"ttm" : "-8.37%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-21.06%",
+"annual" : "-11.20%",
+"ttm" : "-11.20%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-0.50%",
+"ttm" : "-0.50%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-7.61%",
+"ttm" : "-7.61%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-9.01%",
+"ttm" : "-9.01%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,796",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.90",
+"l" : "150.45",
+"cp" : "0.60",
+"ccol" : "chg",
+"op" : "152.00",
+"hi" : "154.00",
+"lo" : "150.30",
+"vo" : "3,895.00",
+"avvo" : "",
+"hi52" : "195.35",
+"lo52" : "59.50",
+"mc" : "7.03B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-5.61",
+"dy" : "",
+"ldiv" : "",
+"shares" : "46.96M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "84348177012581",
+"name" : "Speciality Restaurants Ltd",
+"t" : "534425",
+"e" : "BOM",
+"l" : "150.45",
+"c" : "+0.90",
+"mc" : "7.03B",
+"cp" : "0.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2883603",
+"name" : "Indage Restaurants and Leisure Ltd",
+"t" : "532264",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "52627568800895",
+"name" : "VIDLI RESTAURANTS Ltd",
+"t" : "539659",
+"e" : "BOM",
+"l" : "96.55",
+"c" : "0.00",
+"mc" : "418.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715433",
+"name" : "Galaxy Entertainment Corp Ltd",
+"t" : "506186",
+"e" : "BOM",
+"l" : "22.50",
+"c" : "+0.50",
+"mc" : "567.66M",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7053990",
+"name" : "Jubilant FoodWorks Ltd",
+"t" : "JUBLFOOD",
+"e" : "NSE",
+"l" : "2,004.00",
+"c" : "+0.70",
+"mc" : "132.20B",
+"cp" : "0.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6108380",
+"name" : "Advani Hotels \u0026 Resorts India Ltd.",
+"t" : "ADVANIHOTR",
+"e" : "NSE",
+"l" : "63.60",
+"c" : "+0.15",
+"mc" : "2.93B",
+"cp" : "0.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "679919707560379",
+"name" : "Coffee Day Enterprises Ltd",
+"t" : "COFFEEDAY",
+"e" : "NSE",
+"l" : "316.90",
+"c" : "-6.85",
+"mc" : "67.00B",
+"cp" : "-2.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10932338",
+"name" : "Westlife Development Ltd",
+"t" : "505533",
+"e" : "BOM",
+"l" : "334.50",
+"c" : "+3.65",
+"mc" : "52.18B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "498527690082554",
+"name" : "Adlabs Entertainment Ltd",
+"t" : "ADLABS",
+"e" : "NSE",
+"l" : "56.50",
+"c" : "-0.80",
+"mc" : "4.99B",
+"cp" : "-1.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "839692224082979",
+"name" : "Aditya Consumer Marketing Ltd",
+"t" : "540146",
+"e" : "BOM",
+"l" : "185.30",
+"c" : "-5.05",
+"mc" : "2.71B",
+"cp" : "-2.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12107747",
+"name" : "Viceroy Hotels Ltd.",
+"t" : "VICEROY",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "+0.05",
+"mc" : "674.26M",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "B\u002F25, 4th Floor Morya Landmark - 1 Off New Link Road Veera Industrial Estate, Andheri (West), MUMBAI, 400053, India",
+"phone": "+91-22-33416700",
+"fax": "+91-22-33416878",
+"url": "http:\u002F\u002Fwww.speciality.co.in\u002F",
+"overview" : "Speciality Restaurants Limited is engaged in restaurants and mobile food service activity. The Company has restaurants across India, Bangladesh and Tanzania. The Company\u0027s brands include Mainland China, Mainland China Asia Kitchen, Oh! Calcutta, Sigree Global Grill, Cafe Mezzuna, Sweet Bengal, Hoppipola, Sigree, Machaan, Haka, Flame \u0026 Grill and Mobifeast. Mainland China focuses on serving Chinese cuisine with contrasting flavors and spices. Oh! Calcutta offers Bengali food. Sigree Global Grill serves grilled flavors from Mediterranean, Oriental, Spanish, Mexican and Indian cuisine. Cafe Mezzuna offers European food, and serves dishes with Mediterranean, Moroccan, Spanish, French and Italian flavors with a bar menu. Sweet Bengal is a confectionary chain of Bengali sweets made with milk. The Company\u0027s other restaurants include Shacks, Zoodles and Kibbeh. It operates approximately 105 restaurants and 20 confectionaries."
+} ]
+, "management" : [
+{
+"name" : "Anjan Chatterjee",
+"age" : "54",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Rajesh Kumar Mohta",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Indraneil Palit",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Avinash Kinhikar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Indranil Ananda Chatterjee",
+"title" : "Director - Commercial Operations, Whole-Time Director"
+}
+,
+{
+"name" : "Suchhanda Chatterjee",
+"age" : "47",
+"title" : "Director - Interior and Design, Whole-time Director"
+}
+,
+{
+"name" : "Jayanta Chatterjee",
+"age" : "39",
+"title" : "Director - Business Development and Planning"
+}
+,
+{
+"name" : "Rajesh Dubey",
+"age" : "47",
+"title" : "Director - Food Production"
+}
+,
+{
+"name" : "Sanjay Goyal",
+"age" : "46",
+"title" : "Associate Vice President - Materials, Management \u0026 Control"
+}
+,
+{
+"name" : "Phiroz Savak Sadri",
+"title" : "Director - Operations and Brand Standards"
+}
+]
+,"moreresources" : [
+]
+}]

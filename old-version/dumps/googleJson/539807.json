@@ -1,0 +1,302 @@
+
+ [
+{
+"symbol" : "539807",
+"exchange" : "BOM",
+"id": "270916563478928",
+"t" : "539807",
+"e" : "BOM",
+"name" : "Infibeam Incorporation Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539807"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539807"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539807"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.44%",
+"annual" : "9.86%",
+"ttm" : "11.89%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "16.41%",
+"annual" : "10.08%",
+"ttm" : "13.62%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.17%",
+"ttm" : "19.12%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.85%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.10%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "753",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.85",
+"l" : "161.10",
+"cp" : "0.53",
+"ccol" : "chg",
+"op" : "161.90",
+"hi" : "161.90",
+"lo" : "159.90",
+"vo" : "817,284.00",
+"avvo" : "",
+"hi52" : "1,504.00",
+"lo52" : "87.00",
+"mc" : "88.02B",
+"pe" : "113.35",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.42",
+"dy" : "0.06",
+"ldiv" : "0.10",
+"shares" : "542.80M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "270916563478928",
+"name" : "Infibeam Incorporation Ltd",
+"t" : "539807",
+"e" : "BOM",
+"l" : "161.10",
+"c" : "+0.85",
+"mc" : "88.02B",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1060654550752948",
+"name" : "JLA Infraville Shoppers Ltd",
+"t" : "538765",
+"e" : "BOM",
+"l" : "3.16",
+"c" : "-0.01",
+"mc" : "",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9478771",
+"name" : "Intrasoft Technologies Ltd",
+"t" : "ISFT",
+"e" : "NSE",
+"l" : "615.20",
+"c" : "-2.25",
+"mc" : "9.05B",
+"cp" : "-0.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14457466",
+"name" : "iStreet Network Ltd",
+"t" : "524622",
+"e" : "BOM",
+"l" : "4.99",
+"c" : "+0.20",
+"mc" : "111.89M",
+"cp" : "4.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "93708796707697",
+"name" : "eDynamics Solutions Ltd",
+"t" : "535694",
+"e" : "BOM",
+"l" : "3.13",
+"c" : "0.00",
+"mc" : "79.99M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "469690494193792",
+"name" : "PC Jeweller Ltd",
+"t" : "PCJEWELLER",
+"e" : "NSE",
+"l" : "335.80",
+"c" : "+3.45",
+"mc" : "132.58B",
+"cp" : "1.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "555431429469324",
+"name" : "Ecs Biztech Ltd",
+"t" : "540063",
+"e" : "BOM",
+"l" : "8.44",
+"c" : "0.00",
+"mc" : "173.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4917539",
+"name" : "Shoppers Stop Limited",
+"t" : "SHOPERSTOP",
+"e" : "NSE",
+"l" : "534.95",
+"c" : "+7.05",
+"mc" : "46.60B",
+"cp" : "1.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705103",
+"name" : "Sancia Global Infraprojects Ltd.",
+"t" : "532836",
+"e" : "BOM",
+"l" : "0.30",
+"c" : "0.00",
+"mc" : "13.02M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8217290",
+"name" : "Linkson International Ltd",
+"t" : "508982",
+"e" : "BOM",
+"l" : "90.75",
+"c" : "0.00",
+"mc" : "291.15M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1058370",
+"name" : "Eastern Gases Ltd.",
+"t" : "540790",
+"e" : "BOM",
+"l" : "24.80",
+"c" : "+0.30",
+"mc" : "372.00M",
+"cp" : "1.22",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "9th Floor A-Wing, Gopal Palace, Nehrunagar, AHMEDABAD, 380015, India",
+"phone": "+91-79-40403601",
+"fax": "+91-79-40403636",
+"url": "http:\u002F\u002Fwww.infibeam.ooo\u002F",
+"overview" : "Infibeam Incorporation Limited is engaged in providing software development services, maintenance, Web development, e-commerce and other ancillary services. The Company\u0027s segments include sale of products, and sale of software and ecommerce related ancillary services. Its online selling solutions include BuildaBazaar and Infibeam.com. BuildaBazaar is an online selling platform that enables online e-commerce services for merchants to sell their products and services to customers. BuildaBazaar enables digital solutions, including online storefront, mobile applications, digital catalogue, content management, social media integrations, payment gateway and fulfillment services. Infibeam.com is a multi-category e-commerce Website that provides a range of products across approximately 40 product and service categories, including mobile and tablets, computer and accessories, electronics and cameras, housing and kitchen, books and magazines, fashion products, music, travel and gifts."
+} ]
+, "management" : [
+{
+"name" : "Hiren Padhya",
+"age" : "47",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Soumya Banerjee",
+"age" : "48",
+"title" : "Senior Vice President - Digital Department"
+}
+,
+{
+"name" : "Ajay B Chandra",
+"age" : "35",
+"title" : "Chief Technology Officer"
+}
+,
+{
+"name" : "Parag Raval",
+"age" : "63",
+"title" : "Chief Administrative Officer"
+}
+,
+{
+"name" : "Vijayakumar Subramanian",
+"age" : "38",
+"title" : "Chief Information Officer"
+}
+,
+{
+"name" : "Shyamal Trivedi",
+"age" : "37",
+"title" : "Compliance Officer, Company Secretary, IR Contact Officer"
+}
+,
+{
+"name" : "Kartik Jain",
+"age" : "34",
+"title" : "Vice President - Sales and Marketing"
+}
+,
+{
+"name" : "Ganpatsingh Rajput",
+"age" : "38",
+"title" : "Vice President - Software Technology Department"
+}
+,
+{
+"name" : "Vishal Mehta",
+"age" : "42",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Neeru Sharma",
+"age" : "36",
+"title" : "Head - Platform Department"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "533317",
+"exchange" : "BOM",
+"id": "10822646",
+"t" : "533317",
+"e" : "BOM",
+"name" : "Omkar Speciality Chemicals Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533317"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533317"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533317"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-25.06%",
+"annual" : "-7.41%",
+"ttm" : "5.69%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-8.87%",
+"annual" : "-4.07%",
+"ttm" : "5.47%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.64%",
+"ttm" : "8.53%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-5.97%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-19.35%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "253",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.05",
+"l" : "22.70",
+"cp" : "4.85",
+"ccol" : "chg",
+"op" : "22.70",
+"hi" : "22.70",
+"lo" : "21.70",
+"vo" : "190,862.00",
+"avvo" : "",
+"hi52" : "203.65",
+"lo52" : "16.25",
+"mc" : "445.67M",
+"pe" : "3.26",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.97",
+"dy" : "6.61",
+"ldiv" : "1.50",
+"shares" : "20.58M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10822646",
+"name" : "Omkar Speciality Chemicals Ltd",
+"t" : "533317",
+"e" : "BOM",
+"l" : "22.70",
+"c" : "+1.05",
+"mc" : "445.67M",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5585002",
+"name" : "Samrat Pharmachem Ltd",
+"t" : "530125",
+"e" : "BOM",
+"l" : "138.95",
+"c" : "-1.85",
+"mc" : "454.16M",
+"cp" : "-1.31",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8348637",
+"name" : "Tanfac Industries Limited",
+"t" : "506854",
+"e" : "BOM",
+"l" : "118.45",
+"c" : "-1.20",
+"mc" : "1.20B",
+"cp" : "-1.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10259468",
+"name" : "TGV SRAAC Ltd",
+"t" : "507753",
+"e" : "BOM",
+"l" : "38.40",
+"c" : "-1.25",
+"mc" : "3.64B",
+"cp" : "-3.15",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14931848",
+"name" : "BASF India Ltd",
+"t" : "BASF",
+"e" : "NSE",
+"l" : "1,965.05",
+"c" : "-34.85",
+"mc" : "87.31B",
+"cp" : "-1.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3360237",
+"name" : "Transpek Industry Ltd",
+"t" : "506687",
+"e" : "BOM",
+"l" : "1,500.00",
+"c" : "-33.70",
+"mc" : "8.41B",
+"cp" : "-2.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9480886",
+"name" : "Borax Morarji Ltd",
+"t" : "506315",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6169688",
+"name" : "Tyche Industries Ltd",
+"t" : "532384",
+"e" : "BOM",
+"l" : "101.35",
+"c" : "-1.00",
+"mc" : "1.02B",
+"cp" : "-0.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "140493067274050",
+"name" : "Vishnu Chemicals Ltd",
+"t" : "VISHNU",
+"e" : "NSE",
+"l" : "262.60",
+"c" : "-6.90",
+"mc" : "3.06B",
+"cp" : "-2.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "984439",
+"name" : "Shri Aster Silicates Ltd",
+"t" : "SHRIASTER",
+"e" : "NSE",
+"l" : "1.40",
+"c" : "",
+"mc" : "32.94M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13766193",
+"name" : "Lords Chemicals Ltd",
+"t" : "530039",
+"e" : "BOM",
+"l" : "3.69",
+"c" : "+0.03",
+"mc" : "48.10M",
+"cp" : "0.82",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "B-34, M.I.D.C., Badlapur (E), THANE, 421503, India",
+"phone": "+91-251-2690651",
+"fax": "+91-251-2697347",
+"url": "http:\u002F\u002Fomkarchemicals.com\u002F",
+"overview" : "Omkar Speciality Chemicals Limited is engaged in manufacturing and sale of chemicals. The Company is engaged in manufacture of organic and inorganic chemicals compounds, such as nitrogenous energetic compounds (n.e.c). Its segments include Iodine Derivatives, Selenium Derivatives, Resolving Agents, Intermediates and APIs. The Company offers a range of iodine derivatives, such as Methyl Iodide, Ethyl Iodide, n-propyl Iodide, 2-Ethylhexyl Iodide, Diiodomethane and Chloroiodomethane. Its selenium derivatives include Sodium Selenite, Diphenyl Diselenide, Sodium Selenite Pentahydrate, Cadmium Selenide and Zinc Selenite. It offers various resolving agents, including O,O\u0027-Di-p-Toluoyl-D-Tartaric Acid Monohydrate\u003B O,O\u0027-Di-p-Toluoyl-L-Tartaric Acid Anhydrous and O,O\u0027-Di-p-Toluoyl-L-Tartaric Acid Monohydrate. Its intermediates products include Vanadyl Sulphate, Benzeneseleninic Anhydride, Vanadyl Acetylacetonate, Cadmium Sulfide, Bromoform and Coumarin."
+} ]
+, "management" : [
+{
+"name" : "Pravin Shivdas Herlekar",
+"age" : "65",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sunny Pagare",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rishikesh P. Herlekar",
+"age" : "24",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Prakash Hangarkatta Rao",
+"age" : "54",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Laxmikant Ramprasad Kabra",
+"age" : "46",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Bhavana Parmanand Shewakramani",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Sanjivani S. Patare",
+"age" : "53",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sitendu K. Sharma",
+"age" : "46",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vikas N. Telvekar",
+"age" : "45",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "522294",
+"exchange" : "BOM",
+"id": "9704228",
+"t" : "522294",
+"e" : "BOM",
+"name" : "T \u0026 I Global Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=TIG.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:522294"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:522294"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:522294"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "12.14%",
+"annual" : "0.76%",
+"ttm" : "4.01%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-4.43%",
+"annual" : "4.02%",
+"ttm" : "0.16%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.49%",
+"ttm" : "0.88%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.23%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.81%",
+"ttm" : ""
+}
+]
+, "c" : "+0.95",
+"l" : "79.95",
+"cp" : "1.20",
+"ccol" : "chg",
+"op" : "81.80",
+"hi" : "81.80",
+"lo" : "77.40",
+"vo" : "2,002.00",
+"avvo" : "",
+"hi52" : "102.90",
+"lo52" : "39.20",
+"mc" : "390.34M",
+"pe" : "9.20",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.69",
+"dy" : "0.63",
+"ldiv" : "0.50",
+"shares" : "5.07M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9704228",
+"name" : "T \u0026 I Global Ltd",
+"t" : "522294",
+"e" : "BOM",
+"l" : "79.95",
+"c" : "+0.95",
+"mc" : "390.34M",
+"cp" : "1.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "235887",
+"name" : "AIA Engineering Ltd",
+"t" : "AIAENG",
+"e" : "NSE",
+"l" : "1,441.05",
+"c" : "-33.20",
+"mc" : "134.94B",
+"cp" : "-2.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "37790367019137",
+"name" : "Amba Enterprises Ltd",
+"t" : "539196",
+"e" : "BOM",
+"l" : "45.90",
+"c" : "+0.45",
+"mc" : "583.68M",
+"cp" : "0.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9104134",
+"name" : "Singer India Ltd",
+"t" : "505729",
+"e" : "BOM",
+"l" : "53.95",
+"c" : "-2.05",
+"mc" : "2.91B",
+"cp" : "-3.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13456257",
+"name" : "Walchandnagar Industries Ltd.",
+"t" : "WALCHANNAG",
+"e" : "NSE",
+"l" : "188.20",
+"c" : "-0.20",
+"mc" : "7.16B",
+"cp" : "-0.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715166",
+"name" : "EPC Industries Ltd.",
+"t" : "523754",
+"e" : "BOM",
+"l" : "156.95",
+"c" : "+0.45",
+"mc" : "4.35B",
+"cp" : "0.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7356167",
+"name" : "Kabra Extrusion Technik Limited",
+"t" : "KABRAEXTRU",
+"e" : "NSE",
+"l" : "126.25",
+"c" : "+0.45",
+"mc" : "4.00B",
+"cp" : "0.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3591831",
+"name" : "ELGI Rubber Co Ltd",
+"t" : "ELGIRUBCO",
+"e" : "NSE",
+"l" : "45.05",
+"c" : "+0.25",
+"mc" : "2.25B",
+"cp" : "0.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715576",
+"name" : "GMM Pfaudler Ltd.",
+"t" : "505255",
+"e" : "BOM",
+"l" : "720.00",
+"c" : "+5.20",
+"mc" : "10.47B",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715420",
+"name" : "Batliboi Ltd.",
+"t" : "522004",
+"e" : "BOM",
+"l" : "28.50",
+"c" : "-1.50",
+"mc" : "818.40M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2290301",
+"name" : "Lakshmi Machine Works Ltd",
+"t" : "LAXMIMACH",
+"e" : "NSE",
+"l" : "6,395.00",
+"c" : "+214.20",
+"mc" : "70.41B",
+"cp" : "3.47",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "4-A Auckland Square, 11, Jassal House, KOLKATA, 700017, India",
+"phone": "+91-33-22833613",
+"fax": "+91-33-22833612",
+"url": "http:\u002F\u002Fwww.tiglobal.com\u002F",
+"overview" : "T \u0026 I Global Limited is engaged in manufacturing and trading of tea processing machinery. The Company also manufactures cut-tear-curl (CTC) tea and green tea. The Company\u0027s segments include Tea Machinery and Tea. The Company offers CTC Tea Machinery, Orthodox Tea Machinery, Green Tea Machinery, Blending and Packing, and Harvesting Equipment. Its products include KAIZEN CTC Tea Processor, MATRIX Automatic Continuous Fermenting Machines, EVEREST-Vibratory Fluidized Bed Dryers, AXIS \u0026 Smart AXIS Automatic Milling \u0026 Chasing Machines, CONQUEST range of Dryers, and ROLLOMAX Orthodox \u0026 Green Tea Rolling Tables. It has two manufacturing facilities in India: Kolkata, West Bengal and Coimbatore, Tamil Nadu. It exports its products to in Sri Lanka, Bangladesh, Nepal, Burma, Australia, Indonesia, South Africa, Kenya, Uganda, Zimbabwe, Malawi, Ethiopia and Nigeria."
+} ]
+, "management" : [
+{
+"name" : "Sajjan Bagaria",
+"age" : "69",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Vishnu Baheti",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sourav Banerjee",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vineet Bagaria",
+"age" : "47",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Viraj Bagaria",
+"age" : "22",
+"title" : "Director"
+}
+,
+{
+"name" : "Ashish Tibrawalla",
+"age" : "49",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Shikha Bagaria",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Navendu Mathur",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Debi Prasad Bagrodia",
+"age" : "72",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

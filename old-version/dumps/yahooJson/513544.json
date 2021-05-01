@@ -1,0 +1,204 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 15996139,
+            "fmt": "16M",
+            "longFmt": "15,996,139"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -1.32886,
+            "fmt": "-132.89%"
+          },
+          "floatShares": {
+            "raw": 1779545,
+            "fmt": "1.78M",
+            "longFmt": "1,779,545"
+          },
+          "sharesOutstanding": {
+            "raw": 6948070,
+            "fmt": "6.95M",
+            "longFmt": "6,948,070"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 22.256,
+            "fmt": "22.26"
+          },
+          "priceToBook": {
+            "raw": 0.14827462,
+            "fmt": "0.15"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -6394219,
+            "fmt": "-6.39M",
+            "longFmt": "-6,394,219"
+          },
+          "trailingEps": {
+            "raw": -0.557,
+            "fmt": "-0.56"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 3.324,
+            "fmt": "3.32"
+          },
+          "enterpriseToEbitda": {
+            "raw": -2.106,
+            "fmt": "-2.11"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Unit No. 1304, Lodha Supremus",
+          "address2": "Senapati Bapat Marg Lower Parel (West)",
+          "city": "Mumbai",
+          "zip": "400013",
+          "country": "India",
+          "phone": "91 22 6625 1300",
+          "industry": "Metal Fabrication",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Mardia Samyoung Capillary Tubes Company Limited manufactures and sells non-ferrous metals in India. The company was incorporated in 1992 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 3.3,
+            "fmt": "3.30"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 1532000,
+            "fmt": "1.53M",
+            "longFmt": "1,532,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.22,
+            "fmt": "0.22"
+          },
+          "ebitda": {
+            "raw": -7595181,
+            "fmt": "-7.6M",
+            "longFmt": "-7,595,181"
+          },
+          "totalDebt": {
+            "raw": 55000,
+            "fmt": "55k",
+            "longFmt": "55,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 4811802,
+            "fmt": "4.81M",
+            "longFmt": "4,811,802"
+          },
+          "debtToEquity": {
+            "raw": 0.036,
+            "fmt": "0.04"
+          },
+          "revenuePerShare": {
+            "raw": 0.364,
+            "fmt": "0.36"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": -736,
+            "fmt": "-736",
+            "longFmt": "-736"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.47306,
+            "fmt": "47.31%"
+          },
+          "ebitdaMargins": {
+            "raw": -1.57845,
+            "fmt": "-157.84%"
+          },
+          "operatingMargins": {
+            "raw": -1.39817,
+            "fmt": "-139.82%"
+          },
+          "profitMargins": {
+            "raw": -1.32886,
+            "fmt": "-132.89%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

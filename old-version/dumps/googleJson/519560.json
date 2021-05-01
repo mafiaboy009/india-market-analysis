@@ -1,0 +1,266 @@
+
+ [
+{
+"symbol" : "519560",
+"exchange" : "BOM",
+"id": "723010",
+"t" : "519560",
+"e" : "BOM",
+"name" : "Neha International Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=NEHI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:519560"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:519560"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:519560"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-0.78%",
+"annual" : "0.26%",
+"ttm" : "0.38%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.64%",
+"annual" : "1.48%",
+"ttm" : "1.48%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.81%",
+"ttm" : "1.81%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.29%",
+"ttm" : "0.42%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.47%",
+"ttm" : "0.69%"
+}
+]
+, "c" : "-0.42",
+"l" : "7.15",
+"cp" : "-5.55",
+"ccol" : "chr",
+"op" : "6.86",
+"hi" : "7.55",
+"lo" : "6.86",
+"vo" : "10,351.00",
+"avvo" : "",
+"hi52" : "12.90",
+"lo52" : "4.60",
+"mc" : "202.91M",
+"pe" : "11.99",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.60",
+"dy" : "",
+"ldiv" : "",
+"shares" : "28.38M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "723010",
+"name" : "Neha International Ltd.",
+"t" : "519560",
+"e" : "BOM",
+"l" : "7.15",
+"c" : "-0.42",
+"mc" : "202.91M",
+"cp" : "-5.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5000295",
+"name" : "Elegant Flori and Agrotech India Ltd",
+"t" : "526473",
+"e" : "BOM",
+"l" : "4.66",
+"c" : "0.00",
+"mc" : "91.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13820623",
+"name" : "Karuturi Global Limited",
+"t" : "KGL",
+"e" : "NSE",
+"l" : "2.05",
+"c" : "-0.10",
+"mc" : "3.07B",
+"cp" : "-4.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "517423",
+"name" : "Pochiraju Industries Ltd",
+"t" : "POCHIRAJU",
+"e" : "NSE",
+"l" : "5.65",
+"c" : "+0.25",
+"mc" : "106.82M",
+"cp" : "4.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7344431",
+"name" : "SIP Industries Ltd",
+"t" : "523164",
+"e" : "BOM",
+"l" : "3.97",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5683713",
+"name" : "Alchemist Ltd.",
+"t" : "ALCHEM",
+"e" : "NSE",
+"l" : "11.65",
+"c" : "-0.10",
+"mc" : "157.97M",
+"cp" : "-0.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3759185",
+"name" : "Advanta Ltd",
+"t" : "ADVANTA",
+"e" : "NSE",
+"l" : "645.20",
+"c" : "",
+"mc" : "80.42B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7534003",
+"name" : "Jain Irrigation Systems Limited",
+"t" : "JISLJALEQS",
+"e" : "NSE",
+"l" : "120.00",
+"c" : "+2.00",
+"mc" : "60.71B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "335626138757736",
+"name" : "Eco Friendly Food Processing",
+"t" : "534839",
+"e" : "BOM",
+"l" : "18.30",
+"c" : "0.00",
+"mc" : "4.53B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "728720",
+"name" : "Mavens Biotech Ltd",
+"t" : "590083",
+"e" : "BOM",
+"l" : "0.47",
+"c" : "",
+"mc" : "51.66M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "715572",
+"name" : "Rajapalayam Mills Ltd.",
+"t" : "532503",
+"e" : "BOM",
+"l" : "1,170.00",
+"c" : "+34.95",
+"mc" : "8.62B",
+"cp" : "3.08",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "6-3-1090\u002FA\u002F12 \u0026 13, No 501 Manbhum Jade Towers Rajbhavan Road,Somajiguda Telangana,HYDERABAD, HYDERABAD, 500082, India",
+"phone": "+91-40-66364543",
+"fax": "+91-40-66363504",
+"url": "http:\u002F\u002Fwww.nehainternational.com\u002F",
+"overview" : "Neha International Limited is engaged in the business of floriculture, corporate farming, trading in agricultural commodities and growing cut roses. The Company\u0027s geographical segments include India and Ethiopia. The Company is engaged in merchandising, trading in flowers, machinery and other agri products, in addition to growing of flowers. It is engaged in sourcing, processing, transporting and distributing agricultural commodities. Its products in trading operations include maize, soya lentils, sun flower from India to Africa and other South East Asian countries. It also exports agri-machinery, such as bull dozers, rippers, land clearing rakes, cranes and excavators for building roads, land clearing and soil preparation. It exports machinery, such as grass cutters, disc ploughs cultivators, cassava planters and fertilizer applicators for upkeep of crops. It offers harvest equipment, such as harvesters for maize, and drainage machinery, general maintenance and measuring instruments."
+} ]
+, "management" : [
+{
+"name" : "G. Vinod Reddy",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "G. Kameshwar Rau",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "P. Srihari",
+"title" : "Vice President - Finance"
+}
+,
+{
+"name" : "G. Pramod M.D.",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "P. Sarath Kumar",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Anil G. Nair",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

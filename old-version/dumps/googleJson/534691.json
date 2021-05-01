@@ -1,0 +1,300 @@
+
+ [
+{
+"symbol" : "534691",
+"exchange" : "BOM",
+"id": "161105219561409",
+"t" : "534691",
+"e" : "BOM",
+"name" : "Comfort Commotrade Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=CMFC.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:534691"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:534691"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:534691"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.46%",
+"annual" : "9.70%",
+"ttm" : "9.70%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-3.80%",
+"annual" : "-0.20%",
+"ttm" : "-0.20%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.12%",
+"ttm" : "0.12%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.07%",
+"ttm" : "5.06%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.16%",
+"ttm" : "6.15%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.24",
+"l" : "11.79",
+"cp" : "-2.00",
+"ccol" : "chr",
+"op" : "11.79",
+"hi" : "11.79",
+"lo" : "11.79",
+"vo" : "3,217.00",
+"avvo" : "",
+"hi52" : "39.50",
+"lo52" : "11.20",
+"mc" : "118.14M",
+"pe" : "14.22",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.83",
+"dy" : "1.70",
+"ldiv" : "0.20",
+"shares" : "10.02M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "161105219561409",
+"name" : "Comfort Commotrade Ltd",
+"t" : "534691",
+"e" : "BOM",
+"l" : "11.79",
+"c" : "-0.24",
+"mc" : "118.14M",
+"cp" : "-2.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4778494",
+"name" : "Prithvi Exchange (India) Ltd",
+"t" : "PRITHVISOF",
+"e" : "NSE",
+"l" : "25.75",
+"c" : "",
+"mc" : "141.62M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "11031352",
+"name" : "Charms Industries Ltd",
+"t" : "531327",
+"e" : "BOM",
+"l" : "1.64",
+"c" : "0.00",
+"mc" : "6.73M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13678046",
+"name" : "Trinity Tradelink Ltd",
+"t" : "512417",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "128.65M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "888858652918568",
+"name" : "OP Chains Ltd",
+"t" : "539116",
+"e" : "BOM",
+"l" : "20.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3227891",
+"name" : "India Cements Capital Ltd",
+"t" : "511355",
+"e" : "BOM",
+"l" : "5.20",
+"c" : "-0.15",
+"mc" : "112.66M",
+"cp" : "-2.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16772206",
+"name" : "Wall Street Finance Ltd",
+"t" : "511147",
+"e" : "BOM",
+"l" : "36.20",
+"c" : "+0.20",
+"mc" : "418.90M",
+"cp" : "0.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "295181109999865",
+"name" : "Indian Energy Exchange Ltd",
+"t" : "IEX",
+"e" : "NSE",
+"l" : "1,454.00",
+"c" : "+1.70",
+"mc" : "43.96B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9432484",
+"name" : "Genus Commu-Trade Ltd",
+"t" : "531939",
+"e" : "BOM",
+"l" : "0.70",
+"c" : "0.00",
+"mc" : "6.78M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "722520",
+"name" : "Shree Global Tradefin Ltd",
+"t" : "512463",
+"e" : "BOM",
+"l" : "1.49",
+"c" : "0.00",
+"mc" : "1.70B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "519110",
+"name" : "Trans Corp International Ltd",
+"t" : "532410",
+"e" : "BOM",
+"l" : "34.40",
+"c" : "+0.40",
+"mc" : "874.66M",
+"cp" : "1.18",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "A-301 Hetal Arch, S.V Road, Malad (West), MUMBAI, 400064, India",
+"phone": "+91-22-28449765",
+"fax": "+91-22-28892527",
+"url": "http:\u002F\u002Fwww.comfortcommotrade.com\u002F",
+"overview" : "Comfort Commotrade Limited (CCL) is engaged in the business of commodity broking. The Company is involved in the business of trading in various commodities, such as bullion (gold, silver), energy (crude oil, natural gas), metals, food grains (rice, maize), spices, oil and oil seeds and others. The Company is also engaged in the business of buying, selling and trading in various kinds of commodities. CCL and group companies provide platforms for trading, such as National Stock Exchange (NSE), Bombay Stock Exchange (BSE), Multi Commodity Exchange (MCX), merchant banking and non banking finance activities covering primary market, investment solution, debt services, capital markets, equity, derivatives, currency derivatives, project financing, wholesale financing and other segments to the clients community. It serves retail customers, mutual fund houses, financial institutions, corporate clients and others. Its subsidiaries include Shyam Trade Link Pte. Ltd and Anjali Tradelink FZE."
+} ]
+, "management" : [
+{
+"name" : "Shrikant Tiwari",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Shruti Somani",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anil B. Agrawal",
+"age" : "50",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Nidhi Bapna",
+"age" : "37",
+"title" : "Administration Head"
+}
+,
+{
+"name" : "Annu A. Agrawal",
+"age" : "44",
+"title" : "Promoter Non-Executive Director"
+}
+,
+{
+"name" : "Bharat Nanubhai Shiroya",
+"age" : "42",
+"title" : "Non-Executive Non Independent Director"
+}
+,
+{
+"name" : "Jugal C. Thacker",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Devendra Lal Thakur",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Anilkumar Shivkaran Nevatia",
+"age" : "49",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Feb 12, 2018",
+"time": "",
+"future": 0,
+"desc": "Q3 2018 Comfort Commotrade Ltd Earnings Release (Estimated)"
+}
+]
+}]

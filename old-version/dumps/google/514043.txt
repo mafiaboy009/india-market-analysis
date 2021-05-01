@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "514043",
+"exchange" : "BOM",
+"id": "688590",
+"t" : "514043",
+"e" : "BOM",
+"name" : "Himatsingka Seide Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:514043"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:514043"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:514043"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.42%",
+"annual" : "8.52%",
+"ttm" : "8.67%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "16.77%",
+"annual" : "15.00%",
+"ttm" : "16.22%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "17.95%",
+"ttm" : "19.17%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.16%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.61%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,503",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.15",
+"l" : "355.15",
+"cp" : "0.04",
+"ccol" : "chg",
+"op" : "353.00",
+"hi" : "362.15",
+"lo" : "352.75",
+"vo" : "6,658.00",
+"avvo" : "",
+"hi52" : "444.35",
+"lo52" : "290.50",
+"mc" : "34.95B",
+"pe" : "17.76",
+"fwpe" : "",
+"beta" : "",
+"eps" : "20.00",
+"dy" : "0.70",
+"ldiv" : "2.50",
+"shares" : "98.46M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "688590",
+"name" : "Himatsingka Seide Limited",
+"t" : "514043",
+"e" : "BOM",
+"l" : "355.15",
+"c" : "+0.15",
+"mc" : "34.95B",
+"cp" : "0.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14757685",
+"name" : "GHCL Limited",
+"t" : "GHCL",
+"e" : "NSE",
+"l" : "293.00",
+"c" : "-2.25",
+"mc" : "28.67B",
+"cp" : "-0.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6926324",
+"name" : "Faze Three Ltd",
+"t" : "530079",
+"e" : "BOM",
+"l" : "73.00",
+"c" : "+0.40",
+"mc" : "1.78B",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2171282",
+"name" : "Eastern Silk Industries Ltd.",
+"t" : "EASTSILK",
+"e" : "NSE",
+"l" : "4.85",
+"c" : "+0.15",
+"mc" : "382.92M",
+"cp" : "3.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4513058",
+"name" : "Binayak Tex Processors Ltd",
+"t" : "523054",
+"e" : "BOM",
+"l" : "545.10",
+"c" : "0.00",
+"mc" : "387.73M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "402870",
+"name" : "KG Denim Ltd",
+"t" : "500239",
+"e" : "BOM",
+"l" : "60.75",
+"c" : "+1.30",
+"mc" : "1.54B",
+"cp" : "2.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3711845",
+"name" : "Vijay Textiles Ltd",
+"t" : "530151",
+"e" : "BOM",
+"l" : "56.45",
+"c" : "-0.10",
+"mc" : "748.18M",
+"cp" : "-0.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6734264",
+"name" : "K G Petro Chem Ltd",
+"t" : "531609",
+"e" : "BOM",
+"l" : "115.50",
+"c" : "+5.50",
+"mc" : "603.03M",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2241072",
+"name" : "Anjani Synthetics Ltd",
+"t" : "531223",
+"e" : "BOM",
+"l" : "33.15",
+"c" : "+0.35",
+"mc" : "487.48M",
+"cp" : "1.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6186502",
+"name" : "Shree Bhavya Fabrics Ltd",
+"t" : "521131",
+"e" : "BOM",
+"l" : "9.80",
+"c" : "+0.20",
+"mc" : "93.10M",
+"cp" : "2.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "643241767023853",
+"name" : "Bella Casa Fashion \u0026 Retail Ltd",
+"t" : "539399",
+"e" : "BOM",
+"l" : "204.00",
+"c" : "0.00",
+"mc" : "2.04B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "10\u002F24 Kumara Krupa Road, High Grounds, BANGALORE, 560001, India",
+"phone": "+91-80-22378000",
+"fax": "+91-80-22378074",
+"url": "http:\u002F\u002Fwww.himatsingka.com\u002F",
+"overview" : "Himatsingka Seide Limited is a home textile company, which is engaged in spinning, weaving and finishing of textiles, and manufacturing of other textiles. The Company is engaged in the business of manufacturing, marketing and distribution of textiles consisting of fabric and yarn. Its geographic segments include India, North America, Europe and others. The Company manufactures, retails and distributes bedding, bath, drapery, upholstery and lifestyle accessory products. Its portfolio of brands includes Calvin Klein Home, Barbara Barry, kelly wearstler, Beekman 1802, Pimacott, atmosphere and Esprit. The Company operates manufacturing facilities in India, and retail and distribution businesses across North America, Europe and Asia. Its drapery and upholstery unit is located at Bengaluru District, Karnataka, India. Its bed linen unit is located at Gorur Road, Hassan, Karnataka, India. The Company has a sheeting capacity of approximately 50 million meters per annum."
+} ]
+, "management" : [
+{
+"name" : "Dinesh K. Himatsingka",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Shrikant Himatsingka",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "K. P. Rangaraj",
+"title" : "President – Finance, Group Chief Financial Officer"
+}
+,
+{
+"name" : "Giuseppe Bellora",
+"title" : "President of Giuseppe Bellora SpA"
+}
+,
+{
+"name" : "Y. R. Wilson Maria Doss",
+"age" : "53",
+"title" : "President – Corporate HR (India)"
+}
+,
+{
+"name" : "David Greenstein",
+"title" : "President and Chief Executive Officer of Himatsingka America Inc., U.S.A"
+}
+,
+{
+"name" : "Vasudevan V.",
+"title" : "Executive Director - Manufacturing Operations"
+}
+,
+{
+"name" : "Aditya Himatsingka",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Jayshree Poddar",
+"age" : "56",
+"title" : "Head - Design, Additional Director"
+}
+,
+{
+"name" : "Ashok Sharma",
+"title" : "Asso. Vice President - Taxation, Treasury, Company Secretary, Compliance Officer,"
+}
+]
+,"moreresources" : [
+]
+}]

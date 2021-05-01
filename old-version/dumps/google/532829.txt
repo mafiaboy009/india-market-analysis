@@ -1,0 +1,290 @@
+
+// [
+{
+"symbol" : "532829",
+"exchange" : "BOM",
+"id": "714528",
+"t" : "532829",
+"e" : "BOM",
+"name" : "Lawreshwar Polymers Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=LAPO.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532829"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532829"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532829"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.15%",
+"annual" : "1.65%",
+"ttm" : "1.70%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.95%",
+"annual" : "7.05%",
+"ttm" : "7.67%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.50%",
+"ttm" : "10.99%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.20%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.76%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "179",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.95",
+"l" : "46.35",
+"cp" : "4.39",
+"ccol" : "chg",
+"op" : "44.00",
+"hi" : "47.50",
+"lo" : "43.35",
+"vo" : "7,790.00",
+"avvo" : "",
+"hi52" : "82.90",
+"lo52" : "31.90",
+"mc" : "625.56M",
+"pe" : "46.14",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.00",
+"dy" : "",
+"ldiv" : "",
+"shares" : "13.68M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "714528",
+"name" : "Lawreshwar Polymers Ltd",
+"t" : "532829",
+"e" : "BOM",
+"l" : "46.35",
+"c" : "+1.95",
+"mc" : "625.56M",
+"cp" : "4.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12288772",
+"name" : "Sarup Industries Ltd",
+"t" : "514412",
+"e" : "BOM",
+"l" : "67.25",
+"c" : "0.00",
+"mc" : "218.72M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4170139",
+"name" : "Krypton Industries Ltd",
+"t" : "523550",
+"e" : "BOM",
+"l" : "10.88",
+"c" : "+0.51",
+"mc" : "160.84M",
+"cp" : "4.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1229113",
+"name" : "Relaxo Footwears Ltd",
+"t" : "RELAXO",
+"e" : "NSE",
+"l" : "611.05",
+"c" : "+1.60",
+"mc" : "72.88B",
+"cp" : "0.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12698115",
+"name" : "Bata India Ltd",
+"t" : "BATAINDIA",
+"e" : "NSE",
+"l" : "727.50",
+"c" : "+9.30",
+"mc" : "93.40B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15563333",
+"name" : "Mayur Leather Products Ltd",
+"t" : "531680",
+"e" : "BOM",
+"l" : "20.15",
+"c" : "-0.55",
+"mc" : "97.42M",
+"cp" : "-2.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16000632",
+"name" : "Phoenix International Ltd",
+"t" : "526481",
+"e" : "BOM",
+"l" : "15.25",
+"c" : "+0.70",
+"mc" : "256.04M",
+"cp" : "4.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "686074473289138",
+"name" : "Superhouse Ltd",
+"t" : "SUPERHOUSE",
+"e" : "NSE",
+"l" : "157.45",
+"c" : "+0.45",
+"mc" : "1.73B",
+"cp" : "0.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8603694",
+"name" : "Super Tannery Ltd",
+"t" : "523842",
+"e" : "BOM",
+"l" : "6.56",
+"c" : "-0.94",
+"mc" : "727.71M",
+"cp" : "-12.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "193947",
+"name" : "Crew BOS products Ltd",
+"t" : "CREWBOS",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-5.20",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5277276",
+"name" : "Liberty Shoes Ltd.",
+"t" : "LIBERTSHOE",
+"e" : "NSE",
+"l" : "220.80",
+"c" : "+0.10",
+"mc" : "3.74B",
+"cp" : "0.05",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "A-243 (A), Road No. 6, V.K.I. Area, JAIPUR, 302013, India",
+"phone": "+91-141-4157777",
+"fax": "+91-141-4157766",
+"url": "http:\u002F\u002Fwww.leharfootwear.com\u002F",
+"overview" : "Lawreshwar Polymers Limited is engaged in the manufacturing of footwear. The Company manufactures various footwear, such as light weight fancy slippers, PVC and TPR footwear, synthetic leather chappals in addition to Hawai Chappals and canvas shoes. It offers products in various categories, such as PU BLISS, FLUROLITE, COBBLER, EVA WAVE, I STUDENT, PVC, LHR SHOES, CANVAX and I WAVE. Its products include Boss-01, Monitor-Kids, Ryder kids, Paro, Soniya, Soniya-Plus, Softtouch, Fiona, Kiara, Girl Deluxe Pu Sole, Monitor Girl Black, Monitor Girl White, S.T Girl White, S.T. Girl Deluxe Black, Smart Boy Black, Smart Boy Deluxe Black, Click, Cool, Fine-01, Ranger-01, Djumper-32, Jumper-40 and Jumper-52. The Company has an annual installed capacity of over 7.5 million pairs of Hawai Chappals, 4.5 million Pairs of PU, 1.2 million pairs of Canvas shoes, 1.59 million pairs of EVA and 0.6 million pairs of Sports shoes Injected footwear."
+} ]
+, "management" : [
+{
+"name" : "Ramesh Chand Agarwal",
+"age" : "62",
+"title" : "Non-Independent Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sanjay Agarwal",
+"title" : "Chief Executive Officer - Operations"
+}
+,
+{
+"name" : "Prateek Jain",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Geetika Bisht",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Raj Kumar Agarwal",
+"title" : "Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Naresh Agarwal",
+"age" : "43",
+"title" : "Whole TIme Director"
+}
+,
+{
+"name" : "Preeti Goyal",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Gauri Shankar Kandoi",
+"age" : "71",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Sidharth Singh",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

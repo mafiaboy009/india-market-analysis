@@ -1,0 +1,83 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 2.18,
+                  "fmt": "2.18"
+                },
+                "estimate": {
+                  "raw": 1.02,
+                  "fmt": "1.02"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [],
+            "quarterly": []
+          }
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {},
+          "targetHighPrice": {
+            "raw": 150.0,
+            "fmt": "150.00"
+          },
+          "targetLowPrice": {
+            "raw": 150.0,
+            "fmt": "150.00"
+          },
+          "targetMeanPrice": {
+            "raw": 150.0,
+            "fmt": "150.00"
+          },
+          "targetMedianPrice": {
+            "raw": 150.0,
+            "fmt": "150.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {},
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {},
+          "debtToEquity": {},
+          "revenuePerShare": {},
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {},
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {},
+          "ebitdaMargins": {},
+          "operatingMargins": {},
+          "profitMargins": {}
+        }
+      }
+    ],
+    "error": null
+  }
+}

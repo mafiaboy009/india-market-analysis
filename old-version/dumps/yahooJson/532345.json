@@ -1,0 +1,383 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 13975861248,
+            "fmt": "13.98B",
+            "longFmt": "13,975,861,248"
+          },
+          "forwardPE": {
+            "raw": 9.39523,
+            "fmt": "9.40"
+          },
+          "profitMargins": {
+            "raw": 0.03274,
+            "fmt": "3.27%"
+          },
+          "floatShares": {
+            "raw": 72084206,
+            "fmt": "72.08M",
+            "longFmt": "72,084,206"
+          },
+          "sharesOutstanding": {
+            "raw": 108347000,
+            "fmt": "108.35M",
+            "longFmt": "108,347,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.670495,
+            "fmt": "1.67"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 59.133,
+            "fmt": "59.13"
+          },
+          "priceToBook": {
+            "raw": 1.8652868,
+            "fmt": "1.87"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.414,
+            "fmt": "-41.40%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 553059968,
+            "fmt": "553.06M",
+            "longFmt": "553,059,968"
+          },
+          "trailingEps": {
+            "raw": 5.246,
+            "fmt": "5.25"
+          },
+          "forwardEps": {
+            "raw": 11.74,
+            "fmt": "11.74"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.827,
+            "fmt": "0.83"
+          },
+          "enterpriseToEbitda": {
+            "raw": 16.315,
+            "fmt": "16.32"
+          },
+          "52WeekChange": {
+            "raw": -0.18950874,
+            "fmt": "-18.95%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 2.01,
+                  "fmt": "2.01"
+                },
+                "estimate": {
+                  "raw": 0.98,
+                  "fmt": "0.98"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 0.29,
+                  "fmt": "0.29"
+                },
+                "estimate": {
+                  "raw": 1.75,
+                  "fmt": "1.75"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 14354490000,
+                  "fmt": "14.35B",
+                  "longFmt": "14,354,490,000"
+                },
+                "earnings": {
+                  "raw": 301220000,
+                  "fmt": "301.22M",
+                  "longFmt": "301,220,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 16481100000,
+                  "fmt": "16.48B",
+                  "longFmt": "16,481,100,000"
+                },
+                "earnings": {
+                  "raw": 412080000,
+                  "fmt": "412.08M",
+                  "longFmt": "412,080,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 16670260000,
+                  "fmt": "16.67B",
+                  "longFmt": "16,670,260,000"
+                },
+                "earnings": {
+                  "raw": 368330000,
+                  "fmt": "368.33M",
+                  "longFmt": "368,330,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 16909930000,
+                  "fmt": "16.91B",
+                  "longFmt": "16,909,930,000"
+                },
+                "earnings": {
+                  "raw": 295160000,
+                  "fmt": "295.16M",
+                  "longFmt": "295,160,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 4149430000,
+                  "fmt": "4.15B",
+                  "longFmt": "4,149,430,000"
+                },
+                "earnings": {
+                  "raw": 92960000,
+                  "fmt": "92.96M",
+                  "longFmt": "92,960,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 4266900000,
+                  "fmt": "4.27B",
+                  "longFmt": "4,266,900,000"
+                },
+                "earnings": {
+                  "raw": 175600000,
+                  "fmt": "175.6M",
+                  "longFmt": "175,600,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 4059700000,
+                  "fmt": "4.06B",
+                  "longFmt": "4,059,700,000"
+                },
+                "earnings": {
+                  "raw": 196500000,
+                  "fmt": "196.5M",
+                  "longFmt": "196,500,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 4504600000,
+                  "fmt": "4.5B",
+                  "longFmt": "4,504,600,000"
+                },
+                "earnings": {
+                  "raw": 29200000,
+                  "fmt": "29.2M",
+                  "longFmt": "29,200,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Plot No.20",
+          "address2": "Survey No.12 Kothaguda Kondapur",
+          "city": "Hyderabad",
+          "zip": "500084",
+          "country": "India",
+          "phone": "91 40 7120 4284",
+          "fax": "91 40 2311 2318",
+          "website": "http://www.gati.com",
+          "industry": "Air Delivery & Freight Services",
+          "sector": "Services",
+          "longBusinessSummary": "Gati Limited provides distribution and supply chain solutions to customers in various industry verticals in India and internationally. It operates through Express Distribution and Supply Chain, and Fuel Stations segments. The company offers road, rail, and air transportation services; surface cargo movement services for shipments; parcel train services; and special services. It also provides managed, re-engineering, upstream supply chain management, and warehousing services; and e-commerce business services through e-fulfillment centers, as well as owns online shopping portal for vendors to register and sell their products. In addition, the company offers air and ocean freight forwarding services; air and road freight management solutions; road and air movement to SAARC nations; warehousing solutions; customs clearance services; and in bound and out bound courier services. Further, it provides truck load services for long haul transportation; reefer fleet services for the food chain businesses; customized cold chain solutions; and organized retail services. Additionally, the company offers multi-modal logistics services, customs clearance, goods importation, and last-mile delivery services to the end-customer, as well as goods and services tax transport services. It serves e-commerce, hospitality, healthcare, computer peripherals and spare parts, consumer electronics, and automotive spares sectors. The company operates fuel stations, which deals in petrol, diesel, lubricants, etc. It operates approximately 5000 express fleets and 180 reefer trucks. Gati Limited has a strategic alliance with LightInTheBox Holding Co., Ltd. The company was founded in 1989 and is headquartered in Hyderabad, India.",
+          "fullTimeEmployees": 5000,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 110.3,
+            "fmt": "110.30"
+          },
+          "targetHighPrice": {
+            "raw": 135.0,
+            "fmt": "135.00"
+          },
+          "targetLowPrice": {
+            "raw": 135.0,
+            "fmt": "135.00"
+          },
+          "targetMeanPrice": {
+            "raw": 135.0,
+            "fmt": "135.00"
+          },
+          "targetMedianPrice": {
+            "raw": 135.0,
+            "fmt": "135.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 713100032,
+            "fmt": "713.1M",
+            "longFmt": "713,100,032"
+          },
+          "totalCashPerShare": {
+            "raw": 6.582,
+            "fmt": "6.58"
+          },
+          "ebitda": {
+            "raw": 856649984,
+            "fmt": "856.65M",
+            "longFmt": "856,649,984"
+          },
+          "totalDebt": {
+            "raw": 3328800000,
+            "fmt": "3.33B",
+            "longFmt": "3,328,800,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 16891129856,
+            "fmt": "16.89B",
+            "longFmt": "16,891,129,856"
+          },
+          "debtToEquity": {
+            "raw": 45.887,
+            "fmt": "45.89"
+          },
+          "revenuePerShare": {
+            "raw": 172.816,
+            "fmt": "172.82"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 12421130000,
+            "fmt": "12.42B",
+            "longFmt": "12,421,130,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.31,
+            "fmt": "-31.00%"
+          },
+          "revenueGrowth": {
+            "raw": 0.06,
+            "fmt": "6.00%"
+          },
+          "grossMargins": {
+            "raw": 0.71573997,
+            "fmt": "71.57%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.05072,
+            "fmt": "5.07%"
+          },
+          "operatingMargins": {
+            "raw": 0.03241,
+            "fmt": "3.24%"
+          },
+          "profitMargins": {
+            "raw": 0.03274,
+            "fmt": "3.27%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

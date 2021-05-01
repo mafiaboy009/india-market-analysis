@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "520021",
+"exchange" : "BOM",
+"id": "688595",
+"t" : "520021",
+"e" : "BOM",
+"name" : "Omax Autos Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:520021"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:520021"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:520021"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.14%",
+"annual" : "-0.16%",
+"ttm" : "-1.98%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.82%",
+"annual" : "0.86%",
+"ttm" : "-1.04%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.42%",
+"ttm" : "1.24%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.29%",
+"ttm" : "-3.76%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-0.74%",
+"ttm" : "-10.05%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,056",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.70",
+"l" : "173.80",
+"cp" : "0.99",
+"ccol" : "chg",
+"op" : "167.00",
+"hi" : "177.90",
+"lo" : "164.00",
+"vo" : "9,218.00",
+"avvo" : "",
+"hi52" : "215.90",
+"lo52" : "62.10",
+"mc" : "3.68B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-9.98",
+"dy" : "0.58",
+"ldiv" : "1.00",
+"shares" : "21.39M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "688595",
+"name" : "Omax Autos Limited",
+"t" : "520021",
+"e" : "BOM",
+"l" : "173.80",
+"c" : "+1.70",
+"mc" : "3.68B",
+"cp" : "0.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "702890",
+"name" : "KEW Industries Limited",
+"t" : "532758",
+"e" : "BOM",
+"l" : "1.05",
+"c" : "0.00",
+"mc" : "15.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11817741",
+"name" : "Talbros Automotive Components Ltd",
+"t" : "TALBROAUTO",
+"e" : "NSE",
+"l" : "293.75",
+"c" : "+0.50",
+"mc" : "3.62B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15111055",
+"name" : "Magna Electro Castings Ltd",
+"t" : "517449",
+"e" : "BOM",
+"l" : "180.00",
+"c" : "-0.35",
+"mc" : "831.02M",
+"cp" : "-0.19",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715564",
+"name" : "IST Ltd.",
+"t" : "508807",
+"e" : "BOM",
+"l" : "1,085.00",
+"c" : "+23.00",
+"mc" : "6.33B",
+"cp" : "2.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1090073",
+"name" : "Automotive Stampings and Assemblies Ltd",
+"t" : "ASAL",
+"e" : "NSE",
+"l" : "79.30",
+"c" : "-3.10",
+"mc" : "1.26B",
+"cp" : "-3.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9851757",
+"name" : "Jbm Auto Ltd",
+"t" : "JBMA",
+"e" : "NSE",
+"l" : "442.05",
+"c" : "+1.20",
+"mc" : "17.91B",
+"cp" : "0.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "704003",
+"name" : "Munjal Auto Industries Ltd",
+"t" : "MUNJALAU",
+"e" : "NSE",
+"l" : "79.50",
+"c" : "+2.70",
+"mc" : "7.86B",
+"cp" : "3.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2125922",
+"name" : "Lumax Automotive Systems Limited",
+"t" : "LUMAXAUTO",
+"e" : "NSE",
+"l" : "12.90",
+"c" : "",
+"mc" : "175.85M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10119664",
+"name" : "Lumax Auto Technologies Limited",
+"t" : "LUMAXTECH",
+"e" : "NSE",
+"l" : "868.00",
+"c" : "+39.65",
+"mc" : "11.71B",
+"cp" : "4.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7721986",
+"name" : "Autoline Industries Ltd",
+"t" : "AUTOIND",
+"e" : "NSE",
+"l" : "86.40",
+"c" : "-0.95",
+"mc" : "1.82B",
+"cp" : "-1.09",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "PLOT No 26 4 Bays Institutional Area, Sector 32, GURGAON, 122001, India",
+"phone": "+91-124-4343000",
+"fax": "+91-124-2580016",
+"url": "http:\u002F\u002Fwww.omaxauto.com\u002F",
+"overview" : "Omax Autos Limited is principally engaged in the sale of motor vehicle parts and accessories. The Company operates in the automotive components and parts segment in the two wheeler and four wheeler industry. The Company conducts its business in automotive, railways and heavy fabrication, and energy areas. The Company offers frame assembly, step pavilion and handle, among others for two wheelers. The Company offers connecting rod, coupling connection and frame side wishbone assembly, among others for three wheelers. The Company\u0027s passenger vehicle product range includes auxiliary cross membrane and cross member. The Company\u0027s commercial vehicles product range includes air cleaner mounting bracket and cross member. The Company\u0027s off highway product range includes front axle, clutch pedal and break pedal. Its railways and heavy fabrication products include coach building, fuel tank and retention tanks. The Company through energy business division promotes green energy generation."
+} ]
+, "management" : [
+{
+"name" : "Jatender Kumar Mehta",
+"age" : "66",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Pushpendra Kumar Bansal",
+"title" : "President"
+}
+,
+{
+"name" : "Ghan Shyam Dass",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Kishor Karnataki",
+"title" : "President \u0026 Chief Executive Officer - Commercial Vehicle"
+}
+,
+{
+"name" : "Naresh Chand Kaushik",
+"title" : "President and Chief Executive Officer - Two Wheeler"
+}
+,
+{
+"name" : "Sanjeeb Kumar Subudhi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ravinder Kumar Mehta",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Sakshi Kaura",
+"age" : "35",
+"title" : "Joint Managing Director, Director"
+}
+,
+{
+"name" : "Tavinder Singh",
+"title" : "Additional Whole-Time Director"
+}
+,
+{
+"name" : "Devashish Mehta",
+"title" : "Head - Marketing"
+}
+]
+,"moreresources" : [
+]
+}]

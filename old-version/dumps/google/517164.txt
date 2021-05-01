@@ -1,0 +1,260 @@
+
+// [
+{
+"symbol" : "517164",
+"exchange" : "BOM",
+"id": "715375",
+"t" : "517164",
+"e" : "BOM",
+"name" : "Zenith Computers Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ZENC.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:517164"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:517164"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:517164"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-600.77%",
+"ttm" : "-14044.49%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "-403.51%",
+"ttm" : "-14200.14%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-56.75%",
+"ttm" : "-13457.05%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-7.20%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "543",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "1.98",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "1.98",
+"hi" : "1.98",
+"lo" : "1.98",
+"vo" : "435.00",
+"avvo" : "",
+"hi52" : "2.69",
+"lo52" : "0.92",
+"mc" : "30.65M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-12.93",
+"dy" : "",
+"ldiv" : "",
+"shares" : "15.48M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715375",
+"name" : "Zenith Computers Ltd.",
+"t" : "517164",
+"e" : "BOM",
+"l" : "1.98",
+"c" : "0.00",
+"mc" : "30.65M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2964394",
+"name" : "Vintron Informatics Ltd",
+"t" : "517393",
+"e" : "BOM",
+"l" : "0.55",
+"c" : "0.00",
+"mc" : "43.10M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "712119",
+"name" : "Allied Computers International Asia Ltd",
+"t" : "532919",
+"e" : "BOM",
+"l" : "0.55",
+"c" : "0.00",
+"mc" : "104.37M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "333553226683248",
+"name" : "Cerebra Integrated Technologies Ltd",
+"t" : "CEREBRAINT",
+"e" : "NSE",
+"l" : "61.30",
+"c" : "-0.15",
+"mc" : "7.34B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10556525",
+"name" : "Noesis Industries Ltd",
+"t" : "NOESISIND",
+"e" : "NSE",
+"l" : "0.05",
+"c" : "0.00",
+"mc" : "1.32M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9055815",
+"name" : "Wipro Limited",
+"t" : "WIPRO",
+"e" : "NSE",
+"l" : "291.75",
+"c" : "-3.25",
+"mc" : "1.32T",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13507979",
+"name" : "PCS Technology Ltd",
+"t" : "517119",
+"e" : "BOM",
+"l" : "23.70",
+"c" : "-0.80",
+"mc" : "506.88M",
+"cp" : "-3.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5985018",
+"name" : "Encore Software Ltd",
+"t" : "531750",
+"e" : "BOM",
+"l" : "7.10",
+"c" : "0.00",
+"mc" : "44.01M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3962598",
+"name" : "HCL Infosystems Limited",
+"t" : "HCL-INSYS",
+"e" : "NSE",
+"l" : "62.90",
+"c" : "-1.00",
+"mc" : "20.79B",
+"cp" : "-1.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4593144",
+"name" : "Bharat Electronics Ltd",
+"t" : "BEL",
+"e" : "NSE",
+"l" : "155.45",
+"c" : "+4.50",
+"mc" : "381.18B",
+"cp" : "2.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "251885869418985",
+"name" : "Panache Digilife Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Zenith House 29 MIDC, Central Road,Andheri (E), MUMBAI, 400093, India",
+"phone": "+91-22-28377300",
+"fax": "+91-22-28364859",
+"overview" : "Zenith Computers Limited is an India-based company. The Company is engaged in the business of annual maintenance service contracts imbedded in the purchase orders."
+} ]
+, "management" : [
+{
+"name" : "Raj Kumar Saraf",
+"age" : "67",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Ramesh Shantilal Sanghvi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Manju Bhartia",
+"title" : "Director"
+}
+,
+{
+"name" : "Vijay Ram Mukhi",
+"age" : "54",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

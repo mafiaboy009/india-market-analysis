@@ -1,0 +1,301 @@
+
+// [
+{
+"symbol" : "540153",
+"exchange" : "BOM",
+"id": "495099495781028",
+"t" : "540153",
+"e" : "BOM",
+"name" : "Endurance Technologies Ltd (CN)"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:540153"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:540153"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:540153"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.95%",
+"annual" : "5.52%",
+"ttm" : "5.63%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.35%",
+"annual" : "7.76%",
+"ttm" : "8.17%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.62%",
+"ttm" : "13.45%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "9.72%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "20.78%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,455",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+26.45",
+"l" : "1,303.85",
+"cp" : "2.07",
+"ccol" : "chg",
+"op" : "1,282.05",
+"hi" : "1,317.35",
+"lo" : "1,274.10",
+"vo" : "2,465.00",
+"avvo" : "",
+"hi52" : "1,397.00",
+"lo52" : "682.95",
+"mc" : "183.58B",
+"pe" : "51.23",
+"fwpe" : "",
+"beta" : "",
+"eps" : "25.45",
+"dy" : "0.19",
+"ldiv" : "2.50",
+"shares" : "140.66M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "495099495781028",
+"name" : "Endurance Technologies Ltd (CN)",
+"t" : "540153",
+"e" : "BOM",
+"l" : "1,303.85",
+"c" : "+26.45",
+"mc" : "183.58B",
+"cp" : "2.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15375890",
+"name" : "India Motor Parts Limited",
+"t" : "IMPAL",
+"e" : "NSE",
+"l" : "1,112.50",
+"c" : "+4.15",
+"mc" : "9.28B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14794075",
+"name" : "Castex Technologies Ltd",
+"t" : "CASTEXTECH",
+"e" : "NSE",
+"l" : "4.95",
+"c" : "+0.10",
+"mc" : "1.87B",
+"cp" : "2.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5574558",
+"name" : "Menon Bearings Ltd",
+"t" : "523828",
+"e" : "BOM",
+"l" : "107.10",
+"c" : "+7.65",
+"mc" : "6.01B",
+"cp" : "7.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15774934",
+"name" : "Swaraj Engines Limited",
+"t" : "SWARAJENG",
+"e" : "NSE",
+"l" : "1,933.05",
+"c" : "-10.90",
+"mc" : "24.12B",
+"cp" : "-0.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13341724",
+"name" : "JMT Auto Ltd",
+"t" : "JMTAUTOLTD",
+"e" : "NSE",
+"l" : "5.05",
+"c" : "+0.05",
+"mc" : "2.54B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3070975",
+"name" : "Alicon Castalloy Ltd",
+"t" : "ALICON",
+"e" : "NSE",
+"l" : "617.95",
+"c" : "-5.85",
+"mc" : "8.22B",
+"cp" : "-0.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "618885383318163",
+"name" : "Precision Camshafts Ltd",
+"t" : "PRECAM",
+"e" : "NSE",
+"l" : "113.00",
+"c" : "+2.05",
+"mc" : "10.66B",
+"cp" : "1.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8527896",
+"name" : "Kirloskar Oil Engines Ltd",
+"t" : "KIRLOSENG",
+"e" : "NSE",
+"l" : "357.35",
+"c" : "+3.90",
+"mc" : "51.72B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10757396",
+"name" : "Harig Crankshafts Ltd",
+"t" : "500178",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-0.80",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "703781",
+"name" : "Greaves Cotton Ltd",
+"t" : "GREAVESCOT",
+"e" : "NSE",
+"l" : "126.05",
+"c" : "+2.30",
+"mc" : "30.63B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "E-92, MIDC Industrial Area, Waluj, AURANGABAD, 431136, India",
+"phone": "+91-240-2569600",
+"fax": "+91-240-2569703",
+"url": "https:\u002F\u002Fwww.endurancegroup.com\u002F",
+"overview" : "Endurance Technologies, Ltd., also known as Endurance Group, is an India-based company, which manufactures aluminium casting (including alloy wheels), suspension, transmission and braking products. The Companys products include aluminium casting, which offers high pressure die castings, low pressure die castings, gravity die castings, and alloy wheels\u003B , transmission which offers 2\u002F3 wheeler clutch assemblies, continuous variable transmissions (CVTs), and friction plates\u003B braking, which offers hydraulic disc brakes, tandem master cylinder assemblies, hydraulic drum brakes, and non asbestos brake shoes\u003B and suspension which offers 2\u002F3 wheeler shock absorbers, motorcycle front forks, and hydraulic \u0026 gas charged dampers, macpherson struts, gas springs for cars, LCVs, HCVs, etc."
+} ]
+, "management" : [
+{
+"name" : "Satrajit Ray",
+"age" : "57",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Massimo Venuti",
+"age" : "43",
+"title" : "Chief Executive Officer - Endurance Overseas Srl, Director"
+}
+,
+{
+"name" : "Biswajit Choudhury",
+"age" : "57",
+"title" : "President - Aftermarket and Export"
+}
+,
+{
+"name" : "Ramesh Gehaney",
+"age" : "56",
+"title" : "Chief Operating Officer, Executive Director"
+}
+,
+{
+"name" : "Ravindra Kharul",
+"age" : "52",
+"title" : "Chief Technology Officer"
+}
+,
+{
+"name" : "Sunil Lalai",
+"title" : "Company Secretary and Vice President - Legal and Compliance Officer"
+}
+,
+{
+"name" : "Anurang Jain",
+"age" : "54",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Makarand Deshpande",
+"age" : "53",
+"title" : "Chief People Officer"
+}
+,
+{
+"name" : "Sunil Kolhe",
+"age" : "54",
+"title" : "Chief Sourcing Officer"
+}
+,
+{
+"name" : "Asanka Haren Edirimuni Rodrigo",
+"age" : "45",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

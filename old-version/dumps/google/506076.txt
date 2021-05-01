@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "506076",
+"exchange" : "BOM",
+"id": "703906",
+"t" : "506076",
+"e" : "BOM",
+"name" : "Grindwell Norton Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:506076"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:506076"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:506076"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "11.01%",
+"annual" : "8.86%",
+"ttm" : "9.87%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.43%",
+"annual" : "11.07%",
+"ttm" : "12.77%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "14.17%",
+"ttm" : "15.93%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "10.49%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.42%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,850",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.00",
+"l" : "503.00",
+"cp" : "0.60",
+"ccol" : "chg",
+"op" : "517.95",
+"hi" : "517.95",
+"lo" : "503.00",
+"vo" : "253.00",
+"avvo" : "",
+"hi52" : "570.00",
+"lo52" : "326.80",
+"mc" : "55.49B",
+"pe" : "39.95",
+"fwpe" : "",
+"beta" : "",
+"eps" : "12.59",
+"dy" : "0.80",
+"ldiv" : "4.00",
+"shares" : "110.72M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703906",
+"name" : "Grindwell Norton Ltd",
+"t" : "506076",
+"e" : "BOM",
+"l" : "503.00",
+"c" : "+3.00",
+"mc" : "55.49B",
+"cp" : "0.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14172498",
+"name" : "Orient Abrasives Ltd.",
+"t" : "ORIENTABRA",
+"e" : "NSE",
+"l" : "44.90",
+"c" : "+2.05",
+"mc" : "5.33B",
+"cp" : "4.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1414659",
+"name" : "Carborundum Universal Ltd",
+"t" : "CARBORUNIV",
+"e" : "NSE",
+"l" : "358.35",
+"c" : "+1.45",
+"mc" : "67.68B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6504858",
+"name" : "3M India Ltd",
+"t" : "3MINDIA",
+"e" : "NSE",
+"l" : "20,651.05",
+"c" : "-82.75",
+"mc" : "233.15B",
+"cp" : "-0.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1443805",
+"name" : "Welcast Steels Ltd",
+"t" : "504988",
+"e" : "BOM",
+"l" : "936.00",
+"c" : "-13.15",
+"mc" : "589.34M",
+"cp" : "-1.39",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16667737",
+"name" : "HSIL Ltd",
+"t" : "HSIL",
+"e" : "NSE",
+"l" : "428.00",
+"c" : "+0.05",
+"mc" : "30.98B",
+"cp" : "0.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10458838",
+"name" : "Bombay Potteries \u0026 Tiles Ltd",
+"t" : "502216",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-2,505.30",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14999165",
+"name" : "Somany Ceramics Ltd",
+"t" : "SOMANYCERA",
+"e" : "NSE",
+"l" : "650.00",
+"c" : "-11.30",
+"mc" : "27.65B",
+"cp" : "-1.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8706499",
+"name" : "Cera Sanitaryware Ltd",
+"t" : "CERA",
+"e" : "NSE",
+"l" : "3,208.05",
+"c" : "-27.55",
+"mc" : "41.83B",
+"cp" : "-0.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4073776",
+"name" : "IFGL Refractories Ltd",
+"t" : "IFGLREFRAC",
+"e" : "NSE",
+"l" : "280.00",
+"c" : "",
+"mc" : "9.66B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3327918",
+"name" : "Ramco Cements Ltd",
+"t" : "RAMCOCEM",
+"e" : "NSE",
+"l" : "731.40",
+"c" : "+13.10",
+"mc" : "173.22B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Army \u0026 Navy Building 148, M G Road, MUMBAI, 400059, India",
+"phone": "+91-22-40212121",
+"fax": "+91-22-40212102",
+"url": "http:\u002F\u002Fwww.grindwellnorton.co.in\u002F",
+"overview" : "Grindwell Norton Limited is a holding company, which manufactures abrasives. The Company\u0027s segments include Abrasives, and Ceramics \u0026 Plastics. Its Abrasives segment offers bonded abrasives in the form of wheels and other shapes, such as segment and sticks, which are used for various applications ranging from polishing or lapping to removing high quantities of materials. Bonded Abrasives are used in precision applications, such as lapping, honing, super-finishing, race grinding, thread grinding, fluting, outside diameter (OD) grinding, internal and inside diameter (ID) grinding and surface grinding. They are also used in rough applications, such as snagging and weld preparation. Its Ceramics \u0026 Plastics segment includes Silicon Carbide, which are used as raw material in the manufacture of Abrasives\u003B High Performance Refractories, which are used for processing ferrous and non-ferrous metals, and Performance Plastics, which produces and markets standard and custom-made polymer products."
+} ]
+, "management" : [
+{
+"name" : "Deepak Chindarkar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "K. Visweswaran",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anand Yashavant Mahajan",
+"age" : "62",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Joseph Pereira",
+"title" : "Executive Director - Human Resources \u0026 Corporate Services"
+}
+,
+{
+"name" : "Pradip P. Shah Ph.D.",
+"age" : "62",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Laurent Guillot",
+"age" : "48",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Marie Armelle Chupin",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Patrick Millot",
+"age" : "48",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Mikhil Malvinder Narang",
+"age" : "34",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

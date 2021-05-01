@@ -1,0 +1,210 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 29128600,
+            "fmt": "29.13M",
+            "longFmt": "29,128,600"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.03954,
+            "fmt": "-3.95%"
+          },
+          "floatShares": {
+            "raw": 5202362,
+            "fmt": "5.2M",
+            "longFmt": "5,202,362"
+          },
+          "sharesOutstanding": {
+            "raw": 6814350,
+            "fmt": "6.81M",
+            "longFmt": "6,814,350"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -1.677239,
+            "fmt": "-1.68"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 2.378,
+            "fmt": "2.38"
+          },
+          "priceToBook": {
+            "raw": 1.471825,
+            "fmt": "1.47"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -551979,
+            "fmt": "-551.98k",
+            "longFmt": "-551,979"
+          },
+          "trailingEps": {
+            "raw": -0.082,
+            "fmt": "-0.08"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 2.087,
+            "fmt": "2.09"
+          },
+          "enterpriseToEbitda": {
+            "raw": 14.553,
+            "fmt": "14.55"
+          },
+          "52WeekChange": {
+            "raw": -0.22993493,
+            "fmt": "-22.99%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Village Bholapur",
+          "address2": "P.O. Sahabana Chandigarh Road",
+          "city": "Ludhiana",
+          "zip": "141123",
+          "country": "India",
+          "phone": "91 16 1657 4125",
+          "fax": "91 16 1268 5270",
+          "website": "http://www.adinathtextiles.com",
+          "industry": "Textile Industrial",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Adinath Textiles Limited manufactures and sells blended acrylic yarns in India. It also trades in unstitched suitings, shirtings, and dress materials. The company was incorporated in 1979 and is based in Ludhiana, India.",
+          "fullTimeEmployees": 59,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 3.5,
+            "fmt": "3.50"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 9167000,
+            "fmt": "9.17M",
+            "longFmt": "9,167,000"
+          },
+          "totalCashPerShare": {
+            "raw": 1.35,
+            "fmt": "1.35"
+          },
+          "ebitda": {
+            "raw": 2001586,
+            "fmt": "2M",
+            "longFmt": "2,001,586"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 13959486,
+            "fmt": "13.96M",
+            "longFmt": "13,959,486"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 2.067,
+            "fmt": "2.07"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 12435311,
+            "fmt": "12.44M",
+            "longFmt": "12,435,311"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.284,
+            "fmt": "-28.40%"
+          },
+          "grossMargins": {
+            "raw": 0.94827,
+            "fmt": "94.83%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.14338,
+            "fmt": "14.34%"
+          },
+          "operatingMargins": {
+            "raw": 0.0015,
+            "fmt": "0.15%"
+          },
+          "profitMargins": {
+            "raw": -0.03954,
+            "fmt": "-3.95%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,297 @@
+
+ [
+{
+"symbol" : "502157",
+"exchange" : "BOM",
+"id": "708064",
+"t" : "502157",
+"e" : "BOM",
+"name" : "Mangalam Cement Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:502157"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:502157"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:502157"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.93%",
+"annual" : "3.49%",
+"ttm" : "1.73%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-1.08%",
+"annual" : "7.73%",
+"ttm" : "5.42%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.58%",
+"ttm" : "9.27%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.05%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.48%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,067",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.75",
+"l" : "334.95",
+"cp" : "1.13",
+"ccol" : "chg",
+"op" : "331.20",
+"hi" : "335.00",
+"lo" : "311.00",
+"vo" : "5,538.00",
+"avvo" : "",
+"hi52" : "479.55",
+"lo52" : "298.25",
+"mc" : "8.99B",
+"pe" : "46.15",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.26",
+"dy" : "0.22",
+"ldiv" : "0.75",
+"shares" : "26.69M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "708064",
+"name" : "Mangalam Cement Ltd.",
+"t" : "502157",
+"e" : "BOM",
+"l" : "334.95",
+"c" : "+3.75",
+"mc" : "8.99B",
+"cp" : "1.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1608461",
+"name" : "Gujarat Sidhee Cement Ltd",
+"t" : "GSCLCEMENT",
+"e" : "NSE",
+"l" : "31.90",
+"c" : "-0.20",
+"mc" : "2.77B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11753233",
+"name" : "Birla Corporation Limited",
+"t" : "BIRLACORPN",
+"e" : "NSE",
+"l" : "894.50",
+"c" : "+23.00",
+"mc" : "69.00B",
+"cp" : "2.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "485003498717103",
+"name" : "Star Cement Ltd",
+"t" : "STARCEMENT",
+"e" : "NSE",
+"l" : "126.95",
+"c" : "-1.20",
+"mc" : "53.08B",
+"cp" : "-0.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7081694",
+"name" : "Heidelbergcement India Ltd",
+"t" : "HEIDELBERG",
+"e" : "NSE",
+"l" : "161.35",
+"c" : "+6.60",
+"mc" : "36.52B",
+"cp" : "4.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "20262114380913",
+"name" : "Orient Cement Ltd",
+"t" : "ORIENTCEM",
+"e" : "NSE",
+"l" : "164.00",
+"c" : "+15.65",
+"mc" : "33.66B",
+"cp" : "10.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5410484",
+"name" : "Chettinad Cement Corporation Pvt Ltd",
+"t" : "CHETTINAD",
+"e" : "NSE",
+"l" : "709.25",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3242375",
+"name" : "Sanghi Industries Ltd.",
+"t" : "SANGHIIND",
+"e" : "NSE",
+"l" : "120.50",
+"c" : "+5.50",
+"mc" : "26.70B",
+"cp" : "4.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14797552",
+"name" : "J K Cement Ltd",
+"t" : "JKCEMENT",
+"e" : "NSE",
+"l" : "1,005.00",
+"c" : "-24.20",
+"mc" : "70.36B",
+"cp" : "-2.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6118813",
+"name" : "Deccan Cements Ltd.",
+"t" : "DECCANCE",
+"e" : "NSE",
+"l" : "574.00",
+"c" : "-2.70",
+"mc" : "7.97B",
+"cp" : "-0.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "714540",
+"name" : "Panyam Cements \u0026 Mineral Industries Ltd.",
+"t" : "500322",
+"e" : "BOM",
+"l" : "47.70",
+"c" : "-0.85",
+"mc" : "803.45M",
+"cp" : "-1.75",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Birla Building 10th Floor, 9\u002F1, R.N. Mukherjee Road, KOLKATA, 700001, India",
+"phone": "+91-33-22438706",
+"fax": "+91-33-22438709",
+"url": "http:\u002F\u002Fwww.mangalamcement.com\u002F",
+"overview" : "Mangalam Cement Limited is a cement manufacturing company. The Company is engaged in producing cement in 43 grades, 53 grades and Portland Pozzolana Cement (PPC) using the dry process. PPC is special blended cement that has hydraulic binding properties. PPC is produced by inter-grinding higher strength cement clinker with processed fly ash. 43 Grade Cement is an Ordinary Portland Cement, which is used in all constructions, including plain and reinforced cement concrete, brick and stone masonry, floors and plastering. It is also used in the finishing of all types of buildings, bridges, culverts, roads, water retaining structures, among others. Its 53 Grade Cement is an Ordinary Portland Cement, which is produced from clinker ground with gypsum. The Company offers its products under the brand name, Birla Uttam Cement. The Company has its cement and coal-based power plant at Adityanagar, Kota district (Rajasthan), and wind power at Jaisalmer district (Rajasthan)."
+} ]
+, "management" : [
+{
+"name" : "Yaswant Mishra",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Kaushlesh Maheswari",
+"title" : "Additional President - Sales and Marketing"
+}
+,
+{
+"name" : "Anil Kumar Mandot",
+"title" : "Senior Joint President - Commercial"
+}
+,
+{
+"name" : "Swadesh K. Agrawal",
+"title" : "Chief Compliance Officer, Secretary"
+}
+,
+{
+"name" : "Anshuman Vikram Jalan",
+"age" : "38",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Vidula Jalan",
+"age" : "36",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Kamal Chand Jain",
+"age" : "75",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Gaurav Goel",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Nand Gopal Khaitan",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Aruna Makhan",
+"age" : "70",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

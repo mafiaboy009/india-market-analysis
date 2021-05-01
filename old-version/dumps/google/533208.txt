@@ -1,0 +1,293 @@
+
+// [
+{
+"symbol" : "533208",
+"exchange" : "BOM",
+"id": "14996868",
+"t" : "533208",
+"e" : "BOM",
+"name" : "Emami Paper Mills Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=EMAP.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533208"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533208"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533208"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.43%",
+"annual" : "2.28%",
+"ttm" : "1.34%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.67%",
+"annual" : "6.28%",
+"ttm" : "3.71%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.10%",
+"ttm" : "8.25%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.52%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.33%",
+"ttm" : ""
+}
+]
+, "c" : "+0.25",
+"l" : "195.00",
+"cp" : "0.13",
+"ccol" : "chg",
+"op" : "194.00",
+"hi" : "197.95",
+"lo" : "194.00",
+"vo" : "1,143.00",
+"avvo" : "",
+"hi52" : "269.00",
+"lo52" : "95.00",
+"mc" : "11.78B",
+"pe" : "106.21",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.84",
+"dy" : "0.62",
+"ldiv" : "1.20",
+"shares" : "60.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "14996868",
+"name" : "Emami Paper Mills Limited",
+"t" : "533208",
+"e" : "BOM",
+"l" : "195.00",
+"c" : "+0.25",
+"mc" : "11.78B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7697144",
+"name" : "Shree Bhawani Paper Mills Ltd",
+"t" : "502563",
+"e" : "BOM",
+"l" : "4.43",
+"c" : "0.00",
+"mc" : "154.28M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5792833",
+"name" : "Saffron Industries Ltd",
+"t" : "531436",
+"e" : "BOM",
+"l" : "7.80",
+"c" : "-0.15",
+"mc" : "56.04M",
+"cp" : "-1.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9826768",
+"name" : "Ellora Paper Mills Ltd",
+"t" : "502374",
+"e" : "BOM",
+"l" : "54.20",
+"c" : "0.00",
+"mc" : "119.56M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12964549",
+"name" : "Shree Rama Newsprint Ltd",
+"t" : "RAMANEWS",
+"e" : "NSE",
+"l" : "29.05",
+"c" : "+0.20",
+"mc" : "4.30B",
+"cp" : "0.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8459211",
+"name" : "Servalakshmi Paper Ltd",
+"t" : "SERVALL",
+"e" : "NSE",
+"l" : "1.45",
+"c" : "-0.05",
+"mc" : "62.51M",
+"cp" : "-3.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3601265",
+"name" : "Mohit Paper Mills Ltd",
+"t" : "530169",
+"e" : "BOM",
+"l" : "13.27",
+"c" : "0.00",
+"mc" : "185.78M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11653988",
+"name" : "Rama Pulp And Papers Ltd",
+"t" : "502587",
+"e" : "BOM",
+"l" : "52.50",
+"c" : "-0.10",
+"mc" : "567.79M",
+"cp" : "-0.19",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16192730",
+"name" : "Shree Krishna Paper Mills\u0026Industries Ltd",
+"t" : "500388",
+"e" : "BOM",
+"l" : "39.90",
+"c" : "+0.15",
+"mc" : "539.52M",
+"cp" : "0.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11888066",
+"name" : "South India Paper Mills Limited",
+"t" : "516108",
+"e" : "BOM",
+"l" : "121.00",
+"c" : "-4.00",
+"mc" : "1.82B",
+"cp" : "-3.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11199775",
+"name" : "Tamilnadu Newsprint \u0026 Papers Ltd",
+"t" : "TNPL",
+"e" : "NSE",
+"l" : "363.20",
+"c" : "-4.95",
+"mc" : "25.20B",
+"cp" : "-1.34",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "687, Anandapur ,4th Floor, E.M. Byepass, KOLKATA, 700107, India",
+"phone": "+91-33-66136264",
+"fax": "+91-33-66136400",
+"url": "http:\u002F\u002Femamipaper.in\u002F",
+"overview" : "Emami Paper Mills Limited is a newsprint manufacturer that has business interests in fast moving consumer goods (FMCG), edible oil, paper, writing instruments, healthcare, retail departmental stores and real estate. The Company specializes in the manufacture of newsprint and writing and printing paper. It operates through the Manufacture of Paper \u0026 Paper Board segment. Its writing and printing paper products include White Creamwove, Maplitho and Ledger Paper. It offers writing and printing paper for various applications, including exercise notebooks, question sheets, registers\u002Fledger books and other material. Its customers include newspaper establishments, government presses, and notebook manufacturers in Kolkata, New Delhi, Orissa, Ranchi and Raipur. It primarily operates in India. It has an installed capacity to manufacture approximately 145,000 tons per annum of newsprint, printing and writing paper. It has manufacturing facilities in Balasore (Orissa) and Kolkata (West Bengal)."
+} ]
+, "management" : [
+{
+"name" : "Aditya Vardhan Agarwal",
+"age" : "40",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "P. S. Patwari",
+"age" : "59",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "G. Saraf",
+"title" : "Compliance Officer, Vice President - Finance, Secretary"
+}
+,
+{
+"name" : "Manish Goenka",
+"age" : "39",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "M. B. S. Nair",
+"title" : "Director - Operations, Whole Time Director"
+}
+,
+{
+"name" : "Radhe Shyam Agarwal",
+"age" : "69",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sundaram Balasubramanian",
+"age" : "74",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "U. G. Bhat",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Jayant Narayan Godbole",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Jugal Kishore Khetawat",
+"age" : "75",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

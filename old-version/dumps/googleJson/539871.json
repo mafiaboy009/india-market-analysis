@@ -1,0 +1,301 @@
+
+ [
+{
+"symbol" : "539871",
+"exchange" : "BOM",
+"id": "513774464691544",
+"t" : "539871",
+"e" : "BOM",
+"name" : "Thyrocare Technologies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539871"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539871"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539871"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "25.60%",
+"annual" : "23.13%",
+"ttm" : "25.08%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "36.06%",
+"annual" : "32.70%",
+"ttm" : "34.48%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "38.69%",
+"ttm" : "40.70%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "16.79%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.38%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "808",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.15",
+"l" : "627.00",
+"cp" : "-0.02",
+"ccol" : "chr",
+"op" : "625.50",
+"hi" : "631.90",
+"lo" : "625.05",
+"vo" : "287.00",
+"avvo" : "",
+"hi52" : "779.90",
+"lo52" : "611.10",
+"mc" : "33.34B",
+"pe" : "38.71",
+"fwpe" : "",
+"beta" : "",
+"eps" : "16.20",
+"dy" : "2.13",
+"ldiv" : "5.00",
+"shares" : "53.72M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "513774464691544",
+"name" : "Thyrocare Technologies Ltd",
+"t" : "539871",
+"e" : "BOM",
+"l" : "627.00",
+"c" : "-0.15",
+"mc" : "33.34B",
+"cp" : "-0.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2863687",
+"name" : "Scandent Imaging Ltd",
+"t" : "516110",
+"e" : "BOM",
+"l" : "18.50",
+"c" : "+0.10",
+"mc" : "593.85M",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "278695766156198",
+"name" : "Aspira Pathlab \u0026 Diagnostics Ltd",
+"t" : "540788",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-11.32",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "666842744126268",
+"name" : "Dr. Lal PathLabs Ltd",
+"t" : "LALPATHLAB",
+"e" : "NSE",
+"l" : "912.00",
+"c" : "+6.40",
+"mc" : "75.63B",
+"cp" : "0.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3438678",
+"name" : "A D S Diagnostic Ltd",
+"t" : "523031",
+"e" : "BOM",
+"l" : "11.34",
+"c" : "0.00",
+"mc" : "24.43M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "111288288866817",
+"name" : "Sharon Bio-Medicine Ltd.",
+"t" : "SHARONBIO",
+"e" : "NSE",
+"l" : "6.80",
+"c" : "+0.10",
+"mc" : "808.76M",
+"cp" : "1.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "288966775187151",
+"name" : "Artemis Global Life Sciences Ltd",
+"t" : "AGLSL",
+"e" : "NSE",
+"l" : "111.00",
+"c" : "+5.35",
+"mc" : "7.39B",
+"cp" : "5.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12692899",
+"name" : "R Systems International Limited",
+"t" : "RSYSTEMS",
+"e" : "NSE",
+"l" : "39.65",
+"c" : "-1.40",
+"mc" : "4.96B",
+"cp" : "-3.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "29142411963098",
+"name" : "Kids Medical Systems Ltd",
+"t" : "540812",
+"e" : "BOM",
+"l" : "30.50",
+"c" : "+0.15",
+"mc" : "215.21M",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10227216",
+"name" : "Secunderabad Health Care Ltd",
+"t" : "524540",
+"e" : "BOM",
+"l" : "0.92",
+"c" : "0.00",
+"mc" : "77.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8302990",
+"name" : "Kerala Ayurveda Limited",
+"t" : "530163",
+"e" : "BOM",
+"l" : "90.10",
+"c" : "+4.25",
+"mc" : "948.30M",
+"cp" : "4.95",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "D-37\u002F1, Midc, Turbhe, Opp., Sandoz, NAVI MUMBAI, 400703, India",
+"phone": "+91-22-41252525",
+"fax": "+91-22-27682409",
+"url": "http:\u002F\u002Fwww.thyrocare.com\u002F",
+"overview" : "Thyrocare Technologies Limited is an India-based healthcare service provider. The Company operates with a centralized processing laboratory (CPL) in Mumbai, India for esoteric tests, and regional processing laboratory in metro cities of India and other parts of Asia. The Company offers technologies, including Chemiluminescence Immunoassay (CLIA), Enzyme Linked Immunosorbent Assay (ELISA), High Performance Liquid Chromatography (HPLC), Capillary Electrophoresis (CE), Ion Selective Electrode (ISE), Fluorescence Flow Cytometry, Nephelometry, Photometry, Liquid Chromatography Mass Spectrometry (LC-MS), Inductively Coupled Plasma-Mass Spectrometry (ICP-MS) and Cytogenetics. The Company offers cancer diagnosis and water testing through its brands Nueclear and Whaters, respectively. The Company tests cover varied age groups from offerings for prenatal screening, to screening for hormonal imbalance, nutritional deficiencies and tracking lifestyle disorders."
+} ]
+, "management" : [
+{
+"name" : "A. Velumani",
+"age" : "57",
+"title" : "Executive Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "A. Sundararaju",
+"age" : "57",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Ramjee Dorai",
+"age" : "59",
+"title" : "Company Secretary and Head Secretarial and Legal"
+}
+,
+{
+"name" : "M. Chandrasekhar",
+"age" : "32",
+"title" : "General Manager - Infrastructure"
+}
+,
+{
+"name" : "Sachin Salvi",
+"age" : "35",
+"title" : "General Manager - Finance"
+}
+,
+{
+"name" : "M. Santhosh",
+"age" : "34",
+"title" : "General Manager – Business Development"
+}
+,
+{
+"name" : "S. Krishnakumar",
+"age" : "45",
+"title" : "Senior Manager - Laboratory Processing"
+}
+,
+{
+"name" : "Rajkumar Kushawaha",
+"age" : "36",
+"title" : "Manager - Laboratory Processing"
+}
+,
+{
+"name" : "Caesar Sengupta",
+"age" : "41",
+"title" : "Manager - Laboratory"
+}
+,
+{
+"name" : "Indumati Gopinathan",
+"title" : "Non-Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

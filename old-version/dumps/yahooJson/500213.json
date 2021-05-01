@@ -1,0 +1,372 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 1121795328,
+            "fmt": "1.12B",
+            "longFmt": "1,121,795,328"
+          },
+          "forwardPE": {
+            "raw": 9.670079,
+            "fmt": "9.67"
+          },
+          "profitMargins": {
+            "raw": 0.04232,
+            "fmt": "4.23%"
+          },
+          "floatShares": {
+            "raw": 3761751,
+            "fmt": "3.76M",
+            "longFmt": "3,761,751"
+          },
+          "sharesOutstanding": {
+            "raw": 7994500,
+            "fmt": "7.99M",
+            "longFmt": "7,994,500"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.163298,
+            "fmt": "1.16"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 203.019,
+            "fmt": "203.02"
+          },
+          "priceToBook": {
+            "raw": 0.8373601,
+            "fmt": "0.84"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.68,
+            "fmt": "-68.00%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 86012024,
+            "fmt": "86.01M",
+            "longFmt": "86,012,024"
+          },
+          "trailingEps": {
+            "raw": 10.755,
+            "fmt": "10.76"
+          },
+          "forwardEps": {
+            "raw": 17.58,
+            "fmt": "17.58"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.552,
+            "fmt": "0.55"
+          },
+          "enterpriseToEbitda": {
+            "raw": 5.405,
+            "fmt": "5.41"
+          },
+          "52WeekChange": {
+            "raw": -0.25026947,
+            "fmt": "-25.03%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 1.44,
+                  "fmt": "1.44"
+                },
+                "estimate": {
+                  "raw": 3.9,
+                  "fmt": "3.90"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 1717009641,
+                  "fmt": "1.72B",
+                  "longFmt": "1,717,009,641"
+                },
+                "earnings": {
+                  "raw": 181075228,
+                  "fmt": "181.08M",
+                  "longFmt": "181,075,228"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1806293759,
+                  "fmt": "1.81B",
+                  "longFmt": "1,806,293,759"
+                },
+                "earnings": {
+                  "raw": 183783015,
+                  "fmt": "183.78M",
+                  "longFmt": "183,783,015"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 1959063065,
+                  "fmt": "1.96B",
+                  "longFmt": "1,959,063,065"
+                },
+                "earnings": {
+                  "raw": 96062425,
+                  "fmt": "96.06M",
+                  "longFmt": "96,062,425"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 2015419077,
+                  "fmt": "2.02B",
+                  "longFmt": "2,015,419,077"
+                },
+                "earnings": {
+                  "raw": 111724024,
+                  "fmt": "111.72M",
+                  "longFmt": "111,724,024"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 521746077,
+                  "fmt": "521.75M",
+                  "longFmt": "521,746,077"
+                },
+                "earnings": {
+                  "raw": 35392024,
+                  "fmt": "35.39M",
+                  "longFmt": "35,392,024"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 514560000,
+                  "fmt": "514.56M",
+                  "longFmt": "514,560,000"
+                },
+                "earnings": {
+                  "raw": 30290000,
+                  "fmt": "30.29M",
+                  "longFmt": "30,290,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 497049000,
+                  "fmt": "497.05M",
+                  "longFmt": "497,049,000"
+                },
+                "earnings": {
+                  "raw": 11477000,
+                  "fmt": "11.48M",
+                  "longFmt": "11,477,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 499071000,
+                  "fmt": "499.07M",
+                  "longFmt": "499,071,000"
+                },
+                "earnings": {
+                  "raw": 8857000,
+                  "fmt": "8.86M",
+                  "longFmt": "8,857,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Travel House",
+          "address2": "T-2, Community Centre Sheikh Sarai Phase - I",
+          "city": "New Delhi",
+          "zip": "110017",
+          "country": "India",
+          "phone": "91 11 2601 7808",
+          "fax": "91 11 2601 1543",
+          "website": "http://www.travelhouseindia.com",
+          "industry": "Recreational Goods, Other",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "International Travel House Limited provides travel related services in India. The company offers air ticketing, car rental, international and domestic holiday, inbound and outbound business travel, and destination management, as well as conference, exhibition, or event management services. It operates through a network of 10 International Air Transport Association travel offices, 16 car rental offices, and 15 travel counters in India. The company was founded in 1981 and is based in New Delhi, India.",
+          "fullTimeEmployees": 698,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 170.0,
+            "fmt": "170.00"
+          },
+          "targetHighPrice": {
+            "raw": 305.0,
+            "fmt": "305.00"
+          },
+          "targetLowPrice": {
+            "raw": 305.0,
+            "fmt": "305.00"
+          },
+          "targetMeanPrice": {
+            "raw": 305.0,
+            "fmt": "305.00"
+          },
+          "targetMedianPrice": {
+            "raw": 305.0,
+            "fmt": "305.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 324049984,
+            "fmt": "324.05M",
+            "longFmt": "324,049,984"
+          },
+          "totalCashPerShare": {
+            "raw": 40.611,
+            "fmt": "40.61"
+          },
+          "ebitda": {
+            "raw": 207547344,
+            "fmt": "207.55M",
+            "longFmt": "207,547,344"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 2032423040,
+            "fmt": "2.03B",
+            "longFmt": "2,032,423,040"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 254.133,
+            "fmt": "254.13"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1484382013,
+            "fmt": "1.48B",
+            "longFmt": "1,484,382,013"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.679,
+            "fmt": "-67.90%"
+          },
+          "revenueGrowth": {
+            "raw": -0.001,
+            "fmt": "-0.10%"
+          },
+          "grossMargins": {
+            "raw": 0.71722,
+            "fmt": "71.72%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.10212,
+            "fmt": "10.21%"
+          },
+          "operatingMargins": {
+            "raw": 0.04844,
+            "fmt": "4.84%"
+          },
+          "profitMargins": {
+            "raw": 0.04232,
+            "fmt": "4.23%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

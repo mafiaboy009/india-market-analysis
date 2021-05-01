@@ -1,0 +1,284 @@
+
+ [
+{
+"symbol" : "507747",
+"exchange" : "BOM",
+"id": "16382528",
+"t" : "507747",
+"e" : "BOM",
+"name" : "TTK Health Care Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:507747"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:507747"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:507747"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.39%",
+"annual" : "3.80%",
+"ttm" : "4.66%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.50%",
+"annual" : "5.28%",
+"ttm" : "5.76%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.54%",
+"ttm" : "8.26%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.84%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.68%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,853",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-5.95",
+"l" : "1,260.10",
+"cp" : "-0.47",
+"ccol" : "chr",
+"op" : "1,275.00",
+"hi" : "1,312.10",
+"lo" : "1,245.00",
+"vo" : "2,868.00",
+"avvo" : "",
+"hi52" : "1,457.65",
+"lo52" : "685.00",
+"mc" : "9.75B",
+"pe" : "38.62",
+"fwpe" : "",
+"beta" : "",
+"eps" : "32.63",
+"dy" : "0.40",
+"ldiv" : "5.00",
+"shares" : "7.77M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "16382528",
+"name" : "TTK Health Care Ltd",
+"t" : "507747",
+"e" : "BOM",
+"l" : "1,260.10",
+"c" : "-5.95",
+"mc" : "9.75B",
+"cp" : "-0.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "728937224794969",
+"name" : "Fervent Synergies Ltd",
+"t" : "533896",
+"e" : "BOM",
+"l" : "21.50",
+"c" : "-0.25",
+"mc" : "645.00M",
+"cp" : "-1.15",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1049537276557043",
+"name" : "Just Dial Ltd",
+"t" : "JUSTDIAL",
+"e" : "NSE",
+"l" : "461.40",
+"c" : "-2.80",
+"mc" : "31.23B",
+"cp" : "-0.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5451777",
+"name" : "Antarctica Ltd",
+"t" : "ANTGRAPHIC",
+"e" : "NSE",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "147.26M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1372968",
+"name" : "Mps Ltd",
+"t" : "MPSLTD",
+"e" : "NSE",
+"l" : "576.00",
+"c" : "-3.50",
+"mc" : "10.68B",
+"cp" : "-0.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10751448",
+"name" : "Albert David Ltd",
+"t" : "524075",
+"e" : "BOM",
+"l" : "370.00",
+"c" : "0.00",
+"mc" : "2.08B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9025089",
+"name" : "RPG Life Sciences Limited",
+"t" : "RPGLIFE",
+"e" : "NSE",
+"l" : "463.00",
+"c" : "+10.95",
+"mc" : "7.69B",
+"cp" : "2.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10030871",
+"name" : "Unichem Laboratories Limited",
+"t" : "UNICHEMLAB",
+"e" : "NSE",
+"l" : "320.95",
+"c" : "-9.05",
+"mc" : "29.26B",
+"cp" : "-2.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722680",
+"name" : "Avon Lifesciences Ltd",
+"t" : "531541",
+"e" : "BOM",
+"l" : "11.65",
+"c" : "-0.60",
+"mc" : "277.56M",
+"cp" : "-4.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "677258",
+"name" : "Sun Pharmaceutical Industries Limited",
+"t" : "SUNPHARMA",
+"e" : "NSE",
+"l" : "555.40",
+"c" : "-14.25",
+"mc" : "1.32T",
+"cp" : "-2.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "451765",
+"name" : "J B Chemicals and Pharmaceuticals Ltd",
+"t" : "JBCHEPHARM",
+"e" : "NSE",
+"l" : "315.00",
+"c" : "+9.35",
+"mc" : "26.32B",
+"cp" : "3.06",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "6, Cathedral Road, CHENNAI, 600086, India",
+"phone": "+91-44-28116108",
+"fax": "+91-44-28114307",
+"url": "http:\u002F\u002Fwww.ttkhealthcare.com\u002F",
+"overview" : "TTK Healthcare Limited is engaged in pharmaceuticals, consumer products, medical devices and foods businesses. The Company\u0027s segments include Pharmaceuticals, Medical Devices, Consumer Products, Foods and Others. Its Pharmaceuticals segment includes products for both human and veterinary use. It also includes over-the-counter brands, such as Woodward\u0027s Gripewater distributed by the Consumer Products division. The Woodward\u0027s Gripe Water brand offers products in the baby care category. The Medical Devices segment includes Artificial Heart Valves and Orthopedic Implants. Its Consumer Products segment consists of marketing and distribution of EVA range of Cosmetics, Good Home Range of Scrubbers and Air Fresheners (Own Brands), and also trading of branded condoms. The Eva range of personal care products includes talc, deodorant and skincare. The Foods segment consists of manufacturing and marketing of food products. Its Others segment includes printing and publishing of maps and atlases."
+} ]
+, "management" : [
+{
+"name" : "T. T. Raghunathan",
+"title" : "Executive Chairman of the Board, Chief Executive Officer"
+}
+,
+{
+"name" : "B. V. K. Durga Prasad",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "S. Kalyanaraman",
+"age" : "49",
+"title" : "Compliance Officer, Company Secretary, Additional Director"
+}
+,
+{
+"name" : "K. Shankaran",
+"age" : "61",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "S. Balasubramanian",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "N. Ramesh Rajan",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Girish Rao",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vandana R. Walvekar",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

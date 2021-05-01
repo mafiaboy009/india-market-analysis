@@ -1,0 +1,287 @@
+
+ [
+{
+"symbol" : "505036",
+"exchange" : "BOM",
+"id": "677068",
+"t" : "505036",
+"e" : "BOM",
+"name" : "Automobile Corp Of Goa Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ATOG.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:505036"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:505036"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:505036"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.28%",
+"annual" : "4.19%",
+"ttm" : "4.34%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.91%",
+"annual" : "4.97%",
+"ttm" : "5.45%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.09%",
+"ttm" : "5.93%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.28%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.88%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "565",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+50.20",
+"l" : "1,194.90",
+"cp" : "4.39",
+"ccol" : "chg",
+"op" : "1,188.50",
+"hi" : "1,201.90",
+"lo" : "1,156.05",
+"vo" : "2,247.00",
+"avvo" : "",
+"hi52" : "1,670.00",
+"lo52" : "600.00",
+"mc" : "7.66B",
+"pe" : "33.02",
+"fwpe" : "",
+"beta" : "",
+"eps" : "36.19",
+"dy" : "1.46",
+"ldiv" : "5.00",
+"shares" : "6.42M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677068",
+"name" : "Automobile Corp Of Goa Ltd",
+"t" : "505036",
+"e" : "BOM",
+"l" : "1,194.90",
+"c" : "+50.20",
+"mc" : "7.66B",
+"cp" : "4.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5996806",
+"name" : "Rasandik Engineering Industres India Ltd",
+"t" : "522207",
+"e" : "BOM",
+"l" : "192.00",
+"c" : "-8.75",
+"mc" : "897.14M",
+"cp" : "-4.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1989210",
+"name" : "Comerial Engirs \u0026 Bdy Blds Co Limited",
+"t" : "CEBBCO",
+"e" : "NSE",
+"l" : "15.95",
+"c" : "-0.55",
+"mc" : "876.34M",
+"cp" : "-3.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9851757",
+"name" : "Jbm Auto Ltd",
+"t" : "JBMA",
+"e" : "NSE",
+"l" : "442.05",
+"c" : "+1.20",
+"mc" : "17.91B",
+"cp" : "0.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7152373",
+"name" : "Maruti Suzuki India Ltd",
+"t" : "MARUTI",
+"e" : "NSE",
+"l" : "9,050.00",
+"c" : "+351.20",
+"mc" : "2.73T",
+"cp" : "4.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6565540",
+"name" : "Mahindra \u0026 Mahindra Limited",
+"t" : "M\u0026M",
+"e" : "NSE",
+"l" : "735.40",
+"c" : "+16.75",
+"mc" : "912.66B",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14302116",
+"name" : "Daewoo Motors India Ltd",
+"t" : "500100",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3952531",
+"name" : "Pennar Industries Ltd",
+"t" : "PENIND",
+"e" : "NSE",
+"l" : "61.50",
+"c" : "+2.15",
+"mc" : "7.40B",
+"cp" : "3.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "362071701943394",
+"name" : "Bansal Roofing Products Ltd",
+"t" : "538546",
+"e" : "BOM",
+"l" : "58.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13572853",
+"name" : "Sturdy Industries Ltd",
+"t" : "530611",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "143.69M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6810385",
+"name" : "Mahindra Ugine Steel Company Limited",
+"t" : "MAHINDUGIN",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-573.95",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Honda, Sattari, PANAJI, GOA 403530, India",
+"phone": "+91-832-6731218",
+"fax": "+91-832-6731262",
+"url": "http:\u002F\u002Fwww.acglgoa.com\u002F",
+"overview" : "Automobile Corporation of Goa Limited is engaged in the manufacture of pressed parts, components, sub-assemblies for various range of automobiles and manufacture of bus bodies and component parts thereof. The Company operates through two segments: Pressing Division and Bus body Building Division. The Pressing Division segment is engaged in the manufacture of pressed parts, components, sub-assemblies and assemblies. The Bus body Building Division segment is engaged in the manufacturing of bus bodies and component parts for bus bodies. The Company\u0027s products include staff transport application buses, luxury application buses, city application buses, defense application buses, airport application buses, school application buses, sleeper buses, special application vehicles and sheet metal products. The Company manufactures sheet metal components, assemblies and bus coaches at its factories situated at villages Honda and Bhuimpal, Goa."
+} ]
+, "management" : [
+{
+"name" : "Shrinivas V. Dempo",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "O. V. Ajay",
+"title" : "Chief Executive Officer, Additional Director"
+}
+,
+{
+"name" : "Raghwendra Singh Butola",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manisha Shirgaonkar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vaijayanti Pandit",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Ravindra Pisharody",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "R Ramakrishnan",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Abhay Bawale",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Girish Wagh",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,307 @@
+
+// [
+{
+"symbol" : "540115",
+"exchange" : "BOM",
+"id": "1025719345533959",
+"t" : "540115",
+"e" : "BOM",
+"name" : "L\u0026T Technology Services Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:540115"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:540115"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:540115"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "13.05%",
+"annual" : "13.08%",
+"ttm" : "12.67%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.83%",
+"annual" : "16.10%",
+"ttm" : "13.90%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "18.90%",
+"ttm" : "15.56%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "20.36%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "32.39%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "10,370",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+4.30",
+"l" : "1,401.00",
+"cp" : "0.31",
+"ccol" : "chg",
+"op" : "1,402.00",
+"hi" : "1,418.90",
+"lo" : "1,383.00",
+"vo" : "9,760.00",
+"avvo" : "",
+"hi52" : "1,547.00",
+"lo52" : "671.00",
+"mc" : "144.83B",
+"pe" : "33.34",
+"fwpe" : "",
+"beta" : "",
+"eps" : "42.02",
+"dy" : "0.57",
+"ldiv" : "4.00",
+"shares" : "102.25M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1025719345533959",
+"name" : "L\u0026T Technology Services Ltd",
+"t" : "540115",
+"e" : "BOM",
+"l" : "1,401.00",
+"c" : "+4.30",
+"mc" : "144.83B",
+"cp" : "0.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2519667",
+"name" : "AXISCADES Engineering Technologies Ltd",
+"t" : "AXISCADES",
+"e" : "NSE",
+"l" : "168.60",
+"c" : "-4.90",
+"mc" : "6.36B",
+"cp" : "-2.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8331198",
+"name" : "Reliance Infrastructure Ltd",
+"t" : "RELINFRA",
+"e" : "NSE",
+"l" : "465.70",
+"c" : "+11.15",
+"mc" : "122.62B",
+"cp" : "2.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11147810",
+"name" : "Petron Engineering Construction Ltd",
+"t" : "PETRONENGG",
+"e" : "NSE",
+"l" : "117.45",
+"c" : "-2.45",
+"mc" : "877.70M",
+"cp" : "-2.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8409548",
+"name" : "ATV Projects India Ltd",
+"t" : "500028",
+"e" : "BOM",
+"l" : "10.90",
+"c" : "-0.12",
+"mc" : "580.03M",
+"cp" : "-1.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9403325",
+"name" : "Consolidated Construction Consortium Ltd",
+"t" : "CCCL",
+"e" : "NSE",
+"l" : "5.00",
+"c" : "-0.25",
+"mc" : "1.99B",
+"cp" : "-4.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16558172",
+"name" : "Fusion Fittings I Ltd",
+"t" : "531760",
+"e" : "BOM",
+"l" : "11.22",
+"c" : "0.00",
+"mc" : "32.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7676383",
+"name" : "Praj Industries Ltd",
+"t" : "PRAJIND",
+"e" : "NSE",
+"l" : "90.10",
+"c" : "-0.85",
+"mc" : "16.30B",
+"cp" : "-0.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9321608",
+"name" : "MOLD-TEK Technologies Limited",
+"t" : "526263",
+"e" : "BOM",
+"l" : "61.00",
+"c" : "+1.00",
+"mc" : "1.67B",
+"cp" : "1.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9260292",
+"name" : "Ashoka Buildcon Ltd",
+"t" : "ASHOKA",
+"e" : "NSE",
+"l" : "223.00",
+"c" : "+1.20",
+"mc" : "41.70B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "328405273755235",
+"name" : "MITCON Consultancy \u0026 Engineering Svs Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "L\u0026T Knowledge City Special Economic Zone (IT\u002FITES) West Block-II, NH No. 8, Village Ankhol, VADODARA, 390019, India",
+"phone": "+91-265-6705000",
+"fax": "+91-265-6705955",
+"url": "http:\u002F\u002Fwww.lnttechservices.com\u002F",
+"overview" : "L\u0026T Technology Services Limited is an India-based engineering research and development services company. The Company is engaged in providing a range of engineering services and related technologies in the areas of embedded systems, mechanical and others. Its segments include Transportation, Process Engineering, Industrial Products, Medical devices and Telecom. The Company also acts as a service provider to companies in India and abroad. It offers services, including embedded system and applications\u003B engineering process services\u003B mechanical engineering\u003B product lifecycle management (PLM), and consulting services. It also offers solutions, including engineering analytics\u003B Internet of Things and machine to machine\u003B power electronics, and semiconductor Internet protocol (IP) solutions. The Company exports engineering and design services to North America, Europe, the Middle East, Japan, Korea and other Asia-Pacific (APAC) countries. The Company is a subsidiary of Larsen \u0026 Toubro Limited."
+} ]
+, "management" : [
+{
+"name" : "Keshab Panda",
+"age" : "57",
+"title" : "Chief Executive Officer, Managing Director, Whole-time Director"
+}
+,
+{
+"name" : "P. Ramakrishnan",
+"age" : "49",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Bhupendra Bhate",
+"title" : "Chief Operating Officer, Whole Time Director"
+}
+,
+{
+"name" : "Kapil Bhalla",
+"age" : "52",
+"title" : "Chief Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Amit Chadha",
+"age" : "43",
+"title" : "Whole-time Director and Chief Sales Officer"
+}
+,
+{
+"name" : "A. M. Naik",
+"age" : "74",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sekharipuram N. Subrahmanyan",
+"age" : "56",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sudip Banerjee",
+"age" : "57",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Samir Desai",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Arjun Gupta",
+"age" : "55",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+, "events" : [
+{
+"webcasturl" : "http:\u002F\u002Fwww.LntTechservices.com\u002Finvestors",
+"date": "Jan 23, 2018",
+"time": "6:30PM GMT+5:30",
+"future": 0,
+"desc": "Q3 2018 L\u0026T Technology Services Ltd Earnings Call"
+}
+]
+}]

@@ -1,0 +1,372 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 2342846208,
+            "fmt": "2.34B",
+            "longFmt": "2,342,846,208"
+          },
+          "forwardPE": {
+            "raw": 8.3594475,
+            "fmt": "8.36"
+          },
+          "profitMargins": {
+            "raw": 0.06277,
+            "fmt": "6.28%"
+          },
+          "floatShares": {
+            "raw": 1175644,
+            "fmt": "1.18M",
+            "longFmt": "1,175,644"
+          },
+          "sharesOutstanding": {
+            "raw": 6409500,
+            "fmt": "6.41M",
+            "longFmt": "6,409,500"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.269819,
+            "fmt": "-0.27"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 195.686,
+            "fmt": "195.69"
+          },
+          "priceToBook": {
+            "raw": 1.3904929,
+            "fmt": "1.39"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 16.619,
+            "fmt": "1,661.90%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 818049472,
+            "fmt": "818.05M",
+            "longFmt": "818,049,472"
+          },
+          "trailingEps": {
+            "raw": 133.077,
+            "fmt": "133.08"
+          },
+          "forwardEps": {
+            "raw": 32.55,
+            "fmt": "32.55"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.18,
+            "fmt": "0.18"
+          },
+          "enterpriseToEbitda": {
+            "raw": 6.243,
+            "fmt": "6.24"
+          },
+          "52WeekChange": {
+            "raw": 0.24725401,
+            "fmt": "24.73%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 4.52,
+                  "fmt": "4.52"
+                },
+                "estimate": {
+                  "raw": 5.65,
+                  "fmt": "5.65"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 8088964532,
+                  "fmt": "8.09B",
+                  "longFmt": "8,088,964,532"
+                },
+                "earnings": {
+                  "raw": 91752314,
+                  "fmt": "91.75M",
+                  "longFmt": "91,752,314"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 9243415594,
+                  "fmt": "9.24B",
+                  "longFmt": "9,243,415,594"
+                },
+                "earnings": {
+                  "raw": 116091612,
+                  "fmt": "116.09M",
+                  "longFmt": "116,091,612"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 10436995310,
+                  "fmt": "10.44B",
+                  "longFmt": "10,436,995,310"
+                },
+                "earnings": {
+                  "raw": 128285227,
+                  "fmt": "128.29M",
+                  "longFmt": "128,285,227"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 12435292700,
+                  "fmt": "12.44B",
+                  "longFmt": "12,435,292,700"
+                },
+                "earnings": {
+                  "raw": 121198468,
+                  "fmt": "121.2M",
+                  "longFmt": "121,198,468"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 3286491700,
+                  "fmt": "3.29B",
+                  "longFmt": "3,286,491,700"
+                },
+                "earnings": {
+                  "raw": 26084468,
+                  "fmt": "26.08M",
+                  "longFmt": "26,084,468"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 3625299000,
+                  "fmt": "3.63B",
+                  "longFmt": "3,625,299,000"
+                },
+                "earnings": {
+                  "raw": 33767000,
+                  "fmt": "33.77M",
+                  "longFmt": "33,767,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 2800134000,
+                  "fmt": "2.8B",
+                  "longFmt": "2,800,134,000"
+                },
+                "earnings": {
+                  "raw": 27784000,
+                  "fmt": "27.78M",
+                  "longFmt": "27,784,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 3326611000,
+                  "fmt": "3.33B",
+                  "longFmt": "3,326,611,000"
+                },
+                "earnings": {
+                  "raw": 730414000,
+                  "fmt": "730.41M",
+                  "longFmt": "730,414,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Competent House, F-14",
+          "address2": "Connaught Place",
+          "city": "New Delhi",
+          "zip": "110001",
+          "country": "India",
+          "phone": "91 11 4570 0000",
+          "fax": "91 11 2332 7640",
+          "website": "http://www.competent-maruti.com",
+          "industry": "Auto Dealerships",
+          "sector": "Services",
+          "longBusinessSummary": "Competent Automobiles Company Limited engages in trading and servicing Maruti Suzuki vehicles in India. It operates in two segments, Showroom and Services & Spares. The Showroom segment is involved in the purchase and sale of vehicles manufactured by Maruti Suzuki India Limited. The Services & Spares segment engages in servicing of Maruti vehicles, as well as the sale of its spare parts. The company operates five showrooms and three workshops in Delhi; two showrooms and a workshop in Haryana; and two showrooms and two workshops in Himachal Pradesh. Competent Automobiles Company Limited was incorporated in 1985 and is based in New Delhi, India.",
+          "fullTimeEmployees": 1762,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 272.1,
+            "fmt": "272.10"
+          },
+          "targetHighPrice": {
+            "raw": 141.0,
+            "fmt": "141.00"
+          },
+          "targetLowPrice": {
+            "raw": 141.0,
+            "fmt": "141.00"
+          },
+          "targetMeanPrice": {
+            "raw": 141.0,
+            "fmt": "141.00"
+          },
+          "targetMedianPrice": {
+            "raw": 141.0,
+            "fmt": "141.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 291007008,
+            "fmt": "291.01M",
+            "longFmt": "291,007,008"
+          },
+          "totalCashPerShare": {
+            "raw": 47.347,
+            "fmt": "47.35"
+          },
+          "ebitda": {
+            "raw": 375294016,
+            "fmt": "375.29M",
+            "longFmt": "375,294,016"
+          },
+          "totalDebt": {
+            "raw": 1096075008,
+            "fmt": "1.1B",
+            "longFmt": "1,096,075,008"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 13033497600,
+            "fmt": "13.03B",
+            "longFmt": "13,033,497,600"
+          },
+          "debtToEquity": {
+            "raw": 91.122,
+            "fmt": "91.12"
+          },
+          "revenuePerShare": {
+            "raw": 2120.24,
+            "fmt": "2,120.24"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1254878801,
+            "fmt": "1.25B",
+            "longFmt": "1,254,878,801"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 16.606,
+            "fmt": "1,660.60%"
+          },
+          "revenueGrowth": {
+            "raw": -0.083,
+            "fmt": "-8.30%"
+          },
+          "grossMargins": {
+            "raw": 0.10975,
+            "fmt": "10.98%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.028789999,
+            "fmt": "2.88%"
+          },
+          "operatingMargins": {
+            "raw": 0.024519999,
+            "fmt": "2.45%"
+          },
+          "profitMargins": {
+            "raw": 0.06277,
+            "fmt": "6.28%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

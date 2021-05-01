@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "530965",
+"exchange" : "BOM",
+"id": "678207",
+"t" : "530965",
+"e" : "BOM",
+"name" : "Indian Oil Corporation Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530965"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530965"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530965"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002706)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "13.85%",
+"annual" : "4.49%",
+"ttm" : "3.36%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "20.15%",
+"annual" : "6.05%",
+"ttm" : "4.78%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.56%",
+"ttm" : "5.73%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.07%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "20.67%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "33,135",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+8.10",
+"l" : "376.75",
+"cp" : "2.20",
+"ccol" : "chg",
+"op" : "372.00",
+"hi" : "381.45",
+"lo" : "370.20",
+"vo" : "259,597.00",
+"avvo" : "",
+"hi52" : "462.60",
+"lo52" : "361.85",
+"mc" : "1.83T",
+"pe" : "35.69",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.56",
+"dy" : "6.50",
+"ldiv" : "19.00",
+"shares" : "4.86B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "678207",
+"name" : "Indian Oil Corporation Limited",
+"t" : "530965",
+"e" : "BOM",
+"l" : "376.75",
+"c" : "+8.10",
+"mc" : "1.83T",
+"cp" : "2.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "561072630042219",
+"name" : "Jaihind Projects Limited",
+"t" : "JAIHINDPRO",
+"e" : "NSE",
+"l" : "5.35",
+"c" : "0.00",
+"mc" : "52.20M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "674868",
+"name" : "Oil \u0026 Natural Gas Corporation Limited",
+"t" : "ONGC",
+"e" : "NSE",
+"l" : "189.95",
+"c" : "+0.15",
+"mc" : "2.43T",
+"cp" : "0.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10639382",
+"name" : "Oil India Limited",
+"t" : "OIL",
+"e" : "NSE",
+"l" : "348.70",
+"c" : "+4.20",
+"mc" : "263.41B",
+"cp" : "1.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3563195",
+"name" : "Hindustan Petroleum Corporation Limited",
+"t" : "HINDPETRO",
+"e" : "NSE",
+"l" : "392.50",
+"c" : "+6.40",
+"mc" : "597.48B",
+"cp" : "1.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "173563087965749",
+"name" : "Castrol India Limited",
+"t" : "CASTROLIND",
+"e" : "NSE",
+"l" : "198.10",
+"c" : "+4.45",
+"mc" : "196.61B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "756546251615497",
+"name" : "Nagarjuna Oil Refinery Ltd",
+"t" : "NAGAROIL",
+"e" : "NSE",
+"l" : "4.10",
+"c" : "-0.05",
+"mc" : "1.76B",
+"cp" : "-1.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6038818",
+"name" : "Cairn India Limited",
+"t" : "CAIRN",
+"e" : "NSE",
+"l" : "285.00",
+"c" : "",
+"mc" : "535.28B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6561604",
+"name" : "Indraprastha Gas Limited",
+"t" : "IGL",
+"e" : "NSE",
+"l" : "297.00",
+"c" : "+1.50",
+"mc" : "207.55B",
+"cp" : "0.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "958932",
+"name" : "Adani Enterprises Ltd",
+"t" : "ADANIENT",
+"e" : "NSE",
+"l" : "205.35",
+"c" : "+1.00",
+"mc" : "225.96B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722529",
+"name" : "Confidence Petroleum India Ltd",
+"t" : "526829",
+"e" : "BOM",
+"l" : "33.95",
+"c" : "+1.50",
+"mc" : "8.77B",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Plot no.3079\u002F3 Sadiq Nagar, J.B. Tito Marg., NEW DELHI, 110049, India",
+"phone": "+91-11-26260101",
+"fax": "+91-11-26260100",
+"url": "http:\u002F\u002Fwww.iocl.com",
+"overview" : "Indian Oil Corporation Limited is engaged in refining business. The Company\u0027s segments include Sale of Petroleum Products, Sale of Petrochemicals and Other businesses. Its Other businesses segment includes sale of gas, explosives and cryogenics, wind mill and solar power generation, and oil and gas exploration activities. Its business interests span the entire hydrocarbon value-chain ranging from refining, pipeline transportation and marketing of petroleum products to exploration and production of crude oil and gas, marketing of natural gas and petrochemicals. It has a portfolio of energy brands that include Indane liquefied petroleum gas (LPG) cooking gas, SERVO lubricants, XTRAPREMIUM petrol, XTRAMILE diesel and PROPEL petrochemicals. It operates approximately 25,000 petrol and diesel stations, including over 6,200 Kisan Seva Kendra outlets in the rural markets. It owns and operates over 10 refineries with a combined refining capacity of over 80.7 million metric tons per annum."
+} ]
+, "management" : [
+{
+"name" : "Sanjiv Singh",
+"age" : "54",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "A. K. Sharma",
+"title" : "Director - Finance, Director"
+}
+,
+{
+"name" : "Kamal Kumar Gwalani",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Verghese Cherian",
+"title" : "Director - Human Resources"
+}
+,
+{
+"name" : "Anish Aggarwal",
+"title" : "Director - Pipelines, Director"
+}
+,
+{
+"name" : "S.S. V. Ramakumar",
+"title" : "Director - Research and Development, Director"
+}
+,
+{
+"name" : "G. K. Satish",
+"title" : "Director - Planning \u0026 Business Development"
+}
+,
+{
+"name" : "Ashutosh Jindal",
+"title" : "Director - Govt. Nominee"
+}
+,
+{
+"name" : "Parindu K. Bhagat",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Chitta Ranjan Biswal",
+"age" : "65",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

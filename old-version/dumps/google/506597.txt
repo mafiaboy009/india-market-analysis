@@ -1,0 +1,282 @@
+
+// [
+{
+"symbol" : "506597",
+"exchange" : "BOM",
+"id": "974617",
+"t" : "506597",
+"e" : "BOM",
+"name" : "Amal Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=AMAL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:506597"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:506597"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:506597"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "33.80%",
+"annual" : "30.99%",
+"ttm" : "25.37%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "39.98%",
+"annual" : "40.05%",
+"ttm" : "39.01%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "41.35%",
+"ttm" : "40.20%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "70.28%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+}
+]
+, "c" : "+3.50",
+"l" : "161.80",
+"cp" : "2.21",
+"ccol" : "chg",
+"op" : "158.00",
+"hi" : "161.95",
+"lo" : "156.20",
+"vo" : "3,970.00",
+"avvo" : "",
+"hi52" : "226.00",
+"lo52" : "97.20",
+"mc" : "1.54B",
+"pe" : "15.93",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.15",
+"dy" : "",
+"ldiv" : "",
+"shares" : "9.42M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "974617",
+"name" : "Amal Ltd",
+"t" : "506597",
+"e" : "BOM",
+"l" : "161.80",
+"c" : "+3.50",
+"mc" : "1.54B",
+"cp" : "2.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12868719",
+"name" : "Insilco Ltd",
+"t" : "500211",
+"e" : "BOM",
+"l" : "24.75",
+"c" : "+0.45",
+"mc" : "1.57B",
+"cp" : "1.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1722802",
+"name" : "Indo Borax and Chemicals Ltd",
+"t" : "524342",
+"e" : "BOM",
+"l" : "581.00",
+"c" : "+2.50",
+"mc" : "1.89B",
+"cp" : "0.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9046421",
+"name" : "Oriental Carbon and Chemicals Ltd",
+"t" : "506579",
+"e" : "BOM",
+"l" : "1,208.00",
+"c" : "+9.40",
+"mc" : "12.42B",
+"cp" : "0.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3360237",
+"name" : "Transpek Industry Ltd",
+"t" : "506687",
+"e" : "BOM",
+"l" : "1,260.90",
+"c" : "-7.05",
+"mc" : "7.10B",
+"cp" : "-0.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "140493067274050",
+"name" : "Vishnu Chemicals Ltd",
+"t" : "VISHNU",
+"e" : "NSE",
+"l" : "341.00",
+"c" : "-2.85",
+"mc" : "4.04B",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9480886",
+"name" : "Borax Morarji Ltd",
+"t" : "506315",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10259468",
+"name" : "TGV SRAAC Ltd",
+"t" : "507753",
+"e" : "BOM",
+"l" : "57.75",
+"c" : "-1.15",
+"mc" : "5.29B",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9790346",
+"name" : "Alufluoride Ltd",
+"t" : "524634",
+"e" : "BOM",
+"l" : "114.50",
+"c" : "+3.90",
+"mc" : "795.08M",
+"cp" : "3.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15729573",
+"name" : "Punjab Alkalies \u0026 Chemicals Ltd",
+"t" : "506852",
+"e" : "BOM",
+"l" : "23.05",
+"c" : "+0.10",
+"mc" : "635.28M",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5585002",
+"name" : "Samrat Pharmachem Ltd",
+"t" : "530125",
+"e" : "BOM",
+"l" : "156.20",
+"c" : "+6.30",
+"mc" : "471.60M",
+"cp" : "4.20",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Atul House, 310 B, Veer Savarkar Marg, MUMBAI, 400028, India",
+"phone": "+91-22-39876000",
+"fax": "+91-22-39876000",
+"url": "http:\u002F\u002Fwww.amal.co.in\u002F",
+"overview" : "Amal Ltd is an India-based company engaged in offering basic chemicals. The Company is engaged in manufacturing and marketing bulk chemicals, such as sulfuric acid and oleum and their downstream products, such as sulfur dioxide and sulfur trioxide. The plant is located in Ankleshwar, Gujarat, India. It has an installed capacity of 140 metric ton (mt) per day. The Company sells these chemicals locally. The Company offers products to the dyes, fertilizer, personal care, petrochemical, pharmaceutical and textile industries."
+} ]
+, "management" : [
+{
+"name" : "Yogesh Vyas",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ankit T. Mankodi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajeev Kumar",
+"age" : "44",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Sunil Siddhharth Lalbhai",
+"age" : "55",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Thirukonda Gopi R. Kannan",
+"age" : "57",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Abhay R. Jadeja",
+"age" : "32",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sujal A. Shah",
+"age" : "47",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Mahalakshmi Subramanian",
+"age" : "50",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

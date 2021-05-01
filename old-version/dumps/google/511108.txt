@@ -1,0 +1,280 @@
+
+// [
+{
+"symbol" : "511108",
+"exchange" : "BOM",
+"id": "715488",
+"t" : "511108",
+"e" : "BOM",
+"name" : "Shiva Texyarn Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:511108"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:511108"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:511108"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.15%",
+"annual" : "3.61%",
+"ttm" : "3.11%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.30%",
+"annual" : "9.46%",
+"ttm" : "8.88%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.37%",
+"ttm" : "11.70%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.03%",
+"ttm" : "3.54%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.93%",
+"ttm" : "10.18%"
+}
+]
+, "c" : "-7.35",
+"l" : "545.30",
+"cp" : "-1.33",
+"ccol" : "chr",
+"op" : "537.00",
+"hi" : "560.00",
+"lo" : "537.00",
+"vo" : "679.00",
+"avvo" : "",
+"hi52" : "655.00",
+"lo52" : "284.00",
+"mc" : "7.11B",
+"pe" : "39.26",
+"fwpe" : "",
+"beta" : "",
+"eps" : "13.89",
+"dy" : "0.29",
+"ldiv" : "1.60",
+"shares" : "12.96M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715488",
+"name" : "Shiva Texyarn Ltd",
+"t" : "511108",
+"e" : "BOM",
+"l" : "545.30",
+"c" : "-7.35",
+"mc" : "7.11B",
+"cp" : "-1.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5980140",
+"name" : "Bannari Amman Spinning Mills Ltd.",
+"t" : "BASML",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "+5.95",
+"mc" : "4.41B",
+"cp" : "2.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1761795",
+"name" : "Gokak Textiles Ltd",
+"t" : "532957",
+"e" : "BOM",
+"l" : "50.00",
+"c" : "0.00",
+"mc" : "324.97M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5004145",
+"name" : "Kallam Spinning Mills Ltd",
+"t" : "530201",
+"e" : "BOM",
+"l" : "31.50",
+"c" : "+0.75",
+"mc" : "1.35B",
+"cp" : "2.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715507",
+"name" : "Mohite Industries Ltd",
+"t" : "532140",
+"e" : "BOM",
+"l" : "16.45",
+"c" : "-0.80",
+"mc" : "344.62M",
+"cp" : "-4.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9534454",
+"name" : "Banswara Syntex Ltd.",
+"t" : "BANSWRAS",
+"e" : "NSE",
+"l" : "117.00",
+"c" : "+1.40",
+"mc" : "2.01B",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5896925",
+"name" : "Ambika Cotton Mills Ltd",
+"t" : "AMBIKCO",
+"e" : "NSE",
+"l" : "1,385.00",
+"c" : "+24.80",
+"mc" : "7.91B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11622556",
+"name" : "Willard India Ltd",
+"t" : "504227",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-7.57",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715572",
+"name" : "Rajapalayam Mills Ltd.",
+"t" : "532503",
+"e" : "BOM",
+"l" : "1,170.00",
+"c" : "+34.95",
+"mc" : "8.62B",
+"cp" : "3.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2708926",
+"name" : "Vippy Spin Pro Ltd",
+"t" : "514302",
+"e" : "BOM",
+"l" : "49.50",
+"c" : "+0.75",
+"mc" : "290.56M",
+"cp" : "1.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2805411",
+"name" : "Lambodhara Textiles Ltd",
+"t" : "590075",
+"e" : "BOM",
+"l" : "79.65",
+"c" : "+1.75",
+"mc" : "732.83M",
+"cp" : "2.25",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "252, Mettupalayam Road, COIMBATORE, 641043, India",
+"phone": "+91-422-2435555",
+"fax": "+91-422-2434446",
+"url": "http:\u002F\u002Fwww.shivatex.co.in\u002F",
+"overview" : "Shiva Texyarn Limited is a textile company. The Company\u0027s products\u002Fservices include Cotton Yarn and Grey Fabric. The Company is engaged in the business of manufacturing and marketing of cotton yarn and other textiles products, such as coated and laminated fabrics, home textiles and back bags. Its divisions include Spinning Mills Unit I, Spinning Mills Unit II, Knitting, Processing, Garments, Coating, Lamination, Bag Division and Windmill. Its Spinning Mills Unit I near Dindigul has an installed capacity of 39,072 spindles. Its Unit II near Coimbatore has an installed capacity of 52,416 spindles. Its Processing division is engaged in dyeing\u002Fprinting activities. Its Garments division offers products, such as work wear and military garments. Its coating product range includes artist canvas and digital canvas. Its Lamination division offers products, such as aero stat fabrics and decontamination systems. It has over 80 Windmills with an installed capacity of 28.795 megawatts."
+} ]
+, "management" : [
+{
+"name" : "C. Krishnakumar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "R. Srinivasan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "S. K. Sundararaman",
+"age" : "43",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "S. V. Alagappan",
+"age" : "73",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sujana Abirami",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "S. V. Kandasami",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "S. V. Arumugam",
+"age" : "64",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "S. Marusamy",
+"age" : "69",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,276 @@
+
+ [
+{
+"symbol" : "533176",
+"exchange" : "BOM",
+"id": "12620009",
+"t" : "533176",
+"e" : "BOM",
+"name" : "DQ Entertainment International Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533176"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533176"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533176"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-158.07%",
+"annual" : "-372.99%",
+"ttm" : "-606.47%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-7.50%",
+"annual" : "-379.58%",
+"ttm" : "-562.68%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-292.12%",
+"ttm" : "-575.20%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-35.84%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-105.30%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,220",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.05",
+"l" : "14.65",
+"cp" : "-0.34",
+"ccol" : "chr",
+"op" : "14.75",
+"hi" : "15.00",
+"lo" : "14.50",
+"vo" : "1.72M",
+"avvo" : "",
+"hi52" : "25.85",
+"lo52" : "11.50",
+"mc" : "1.17B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-40.50",
+"dy" : "",
+"ldiv" : "",
+"shares" : "79.28M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12620009",
+"name" : "DQ Entertainment International Ltd",
+"t" : "533176",
+"e" : "BOM",
+"l" : "14.65",
+"c" : "-0.05",
+"mc" : "1.17B",
+"cp" : "-0.34",
+"ccol" : "chr"
+}
+,
+{
+"id" : "698668",
+"name" : "UTV Software Communications Ltd",
+"t" : "UTVSOF",
+"e" : "BOM",
+"l" : "1,082.20",
+"c" : "",
+"mc" : "44.12B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5660961",
+"name" : "Crest Animation Studios Limited",
+"t" : "CRESTANI",
+"e" : "NSE",
+"l" : "3.90",
+"c" : "",
+"mc" : "172.43M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5901873",
+"name" : "Prime Focus Limited",
+"t" : "PFOCUS",
+"e" : "NSE",
+"l" : "101.50",
+"c" : "-1.85",
+"mc" : "30.46B",
+"cp" : "-1.79",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6945159",
+"name" : "Sphere Global Services Ltd",
+"t" : "532172",
+"e" : "BOM",
+"l" : "37.85",
+"c" : "+0.90",
+"mc" : "688.57M",
+"cp" : "2.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "307810",
+"name" : "SVP Global Ventures Ltd",
+"t" : "505590",
+"e" : "BOM",
+"l" : "380.00",
+"c" : "-6.75",
+"mc" : "4.80B",
+"cp" : "-1.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15829447",
+"name" : "Compudyne Winfosystems Ltd",
+"t" : "532306",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13970120",
+"name" : "Eros International Media Limited",
+"t" : "EROSMEDIA",
+"e" : "NSE",
+"l" : "200.00",
+"c" : "-2.15",
+"mc" : "18.92B",
+"cp" : "-1.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12540710",
+"name" : "Accel Transmatic Ltd",
+"t" : "517494",
+"e" : "BOM",
+"l" : "3.36",
+"c" : "0.00",
+"mc" : "37.09M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "684602",
+"name" : "Padmalaya Telefilms Limited",
+"t" : "532350",
+"e" : "BOM",
+"l" : "4.74",
+"c" : "-0.05",
+"mc" : "80.58M",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "720591",
+"name" : "Sanraa Media Limited",
+"t" : "531312",
+"e" : "BOM",
+"l" : "0.06",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "644 Aurora Colony, Road No 3, Banjara Hills, HYDERABAD, 500034, India",
+"phone": "+91-40-23553726",
+"fax": "+91-40-23552594",
+"url": "http:\u002F\u002Fwww.dataquestinfoway.com\u002Fwebsite\u002Ftest\u002Findex.shtml",
+"overview" : "DQ Entertainment (International) Limited is a holding company. The Company is engaged in the business of providing services relating to animation production for television and film production companies, and rendering training for acquiring skills for production services in relation to the production of animation television series and movies. The Company\u0027s segments include Animation and Distribution. Its geographical segments include America, Europe and Others. Its Animation segment includes production services rendered to production houses and training rendered for acquiring skills for production services in relation to the production of animation television series and movies. The Distribution segment includes revenue generated from the exploitation of the distribution rights of animated television series and movies acquired by the Company. The Company is also involved in the licensing of programmed distribution rights to broadcasters, television channels and home video distributors."
+} ]
+, "management" : [
+{
+"name" : "Tapaas Chakravarti",
+"age" : "57",
+"title" : "Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Rashida Adenwala",
+"age" : "49",
+"title" : "Professional Non Independent Director"
+}
+,
+{
+"name" : "Goutam Auknoor",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "B. N. Sirish",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Girish Nilkanth Kulkarni",
+"age" : "51",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "S. Sundar Srinivasa Raghavan",
+"age" : "52",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

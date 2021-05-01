@@ -1,0 +1,227 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 596767040,
+            "fmt": "596.77M",
+            "longFmt": "596,767,040"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.70432,
+            "fmt": "70.43%"
+          },
+          "floatShares": {
+            "raw": 1112750,
+            "fmt": "1.11M",
+            "longFmt": "1,112,750"
+          },
+          "sharesOutstanding": {
+            "raw": 6924600,
+            "fmt": "6.92M",
+            "longFmt": "6,924,600"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -1.084847,
+            "fmt": "-1.08"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 35.98,
+            "fmt": "35.98"
+          },
+          "priceToBook": {
+            "raw": 1.9316287,
+            "fmt": "1.93"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 3.176,
+            "fmt": "317.60%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 42052624,
+            "fmt": "42.05M",
+            "longFmt": "42,052,624"
+          },
+          "trailingEps": {
+            "raw": 6.067,
+            "fmt": "6.07"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 9.995,
+            "fmt": "9.99"
+          },
+          "enterpriseToEbitda": {
+            "raw": 10.437,
+            "fmt": "10.44"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Athena House",
+          "address2": "Row House No. 4 Rajnigandha, Gokuldham Goregaon (East)",
+          "city": "Mumbai",
+          "zip": "400063",
+          "country": "India",
+          "phone": "91 22 2842 5907",
+          "fax": "91 22 2840 6189",
+          "website": "http://www.abhinavcapital.com",
+          "industry": "Asset Management",
+          "sector": "Financial",
+          "longBusinessSummary": "Abhinav Capital Services Limited operates as a non-banking finance company in India. It provides finance for companies, corporate bodies, firms by way of advance, short term loans, etc.; and invests in shares and securities. The company was formerly known as Abhinav Homes & Resorts Limited and changed its name to Abhinav Capital Services Limited in 2006. Abhinav Capital Services Limited was incorporated in 1994 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 69.5,
+            "fmt": "69.50"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 618000,
+            "fmt": "618k",
+            "longFmt": "618,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.089,
+            "fmt": "0.09"
+          },
+          "ebitda": {
+            "raw": 57178888,
+            "fmt": "57.18M",
+            "longFmt": "57,178,888"
+          },
+          "totalDebt": {
+            "raw": 115450000,
+            "fmt": "115.45M",
+            "longFmt": "115,450,000"
+          },
+          "quickRatio": {
+            "raw": 2.058,
+            "fmt": "2.06"
+          },
+          "currentRatio": {
+            "raw": 2.314,
+            "fmt": "2.31"
+          },
+          "totalRevenue": {
+            "raw": 59706984,
+            "fmt": "59.71M",
+            "longFmt": "59,706,984"
+          },
+          "debtToEquity": {
+            "raw": 46.274,
+            "fmt": "46.27"
+          },
+          "revenuePerShare": {
+            "raw": 8.614,
+            "fmt": "8.61"
+          },
+          "returnOnAssets": {
+            "raw": 0.1105,
+            "fmt": "11.05%"
+          },
+          "returnOnEquity": {
+            "raw": 0.18406,
+            "fmt": "18.41%"
+          },
+          "grossProfits": {
+            "raw": 44047986,
+            "fmt": "44.05M",
+            "longFmt": "44,047,986"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 3.169,
+            "fmt": "316.90%"
+          },
+          "revenueGrowth": {
+            "raw": 2.815,
+            "fmt": "281.50%"
+          },
+          "grossMargins": {
+            "raw": 1.0,
+            "fmt": "100.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.95765996,
+            "fmt": "95.77%"
+          },
+          "operatingMargins": {
+            "raw": 0.9554,
+            "fmt": "95.54%"
+          },
+          "profitMargins": {
+            "raw": 0.70432,
+            "fmt": "70.43%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

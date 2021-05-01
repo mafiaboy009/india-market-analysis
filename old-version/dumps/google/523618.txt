@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "523618",
+"exchange" : "BOM",
+"id": "694706",
+"t" : "523618",
+"e" : "BOM",
+"name" : "Dredging Corporation of India Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:523618"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:523618"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:523618"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-18.78%",
+"annual" : "1.26%",
+"ttm" : "0.66%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-16.17%",
+"annual" : "2.97%",
+"ttm" : "2.85%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.97%",
+"ttm" : "23.26%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.27%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.49%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "503",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.20",
+"l" : "691.55",
+"cp" : "-0.03",
+"ccol" : "chr",
+"op" : "700.00",
+"hi" : "703.00",
+"lo" : "690.10",
+"vo" : "26,456.00",
+"avvo" : "",
+"hi52" : "920.00",
+"lo52" : "440.25",
+"mc" : "19.37B",
+"pe" : "506.83",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.36",
+"dy" : "0.43",
+"ldiv" : "3.00",
+"shares" : "28.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "694706",
+"name" : "Dredging Corporation of India Ltd.",
+"t" : "523618",
+"e" : "BOM",
+"l" : "691.55",
+"c" : "-0.20",
+"mc" : "19.37B",
+"cp" : "-0.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715353",
+"name" : "Starlog Enterprises Ltd",
+"t" : "520155",
+"e" : "BOM",
+"l" : "55.50",
+"c" : "+2.40",
+"mc" : "664.17M",
+"cp" : "4.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8893041",
+"name" : "Man Infraconstruction Ltd.",
+"t" : "MANINFRA",
+"e" : "NSE",
+"l" : "56.95",
+"c" : "+0.55",
+"mc" : "14.12B",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11055298",
+"name" : "Ge Power India Ltd",
+"t" : "GEPIL",
+"e" : "NSE",
+"l" : "830.00",
+"c" : "-10.60",
+"mc" : "55.31B",
+"cp" : "-1.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "687028981309241",
+"name" : "SAB Industries Ltd",
+"t" : "539112",
+"e" : "BOM",
+"l" : "71.00",
+"c" : "0.00",
+"mc" : "1.08B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7531875",
+"name" : "Pratibha Industries Limited",
+"t" : "PRATIBHA",
+"e" : "NSE",
+"l" : "7.40",
+"c" : "+0.10",
+"mc" : "1.74B",
+"cp" : "1.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3918227",
+"name" : "BGR Energy Systems Ltd",
+"t" : "BGRENERGY",
+"e" : "NSE",
+"l" : "119.30",
+"c" : "+0.40",
+"mc" : "8.59B",
+"cp" : "0.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2395899",
+"name" : "Kalindee Rail Nirman (Engineers) Ltd.",
+"t" : "KALINDEE",
+"e" : "NSE",
+"l" : "103.00",
+"c" : "",
+"mc" : "1.70B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "703979451517369",
+"name" : "Power Mech Projects Ltd",
+"t" : "POWERMECH",
+"e" : "NSE",
+"l" : "956.90",
+"c" : "+25.80",
+"mc" : "13.96B",
+"cp" : "2.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3353120",
+"name" : "ARSS Infrastructure Projects Ltd",
+"t" : "ARSSINFRA",
+"e" : "NSE",
+"l" : "50.90",
+"c" : "-0.90",
+"mc" : "1.15B",
+"cp" : "-1.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10115108",
+"name" : "Lanco Infratech Ltd",
+"t" : "LITL",
+"e" : "NSE",
+"l" : "1.35",
+"c" : "+0.05",
+"mc" : "4.47B",
+"cp" : "3.85",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Dredge House,, Port Area,, VISHAKHAPATNAM, 530035, India",
+"phone": "+91-891-2871298",
+"fax": "+91-891-2560581",
+"url": "http:\u002F\u002Fdredge-india.nic.in\u002F",
+"overview" : "Dredging Corporation of India Limited is engaged in dredging. The Company is engaged in maintenance dredging, capital dredging, beach nourishment, land reclamation, shallow water dredging, project management consultancy and marine construction. It owns a fleet consisting of approximately three Cutter Suction Dredgers and over 10 Trailer Suction Dredgers. Its Cutter suction Dredgers and Trailer Suction Hopper Dredgers, such as Dredge-XII, Dredge-XIV, Dredge-XVI, Dredge-XVII, Dredge-XIX, Dredge-XX and Dredge-XXI, are capable of reclamation purposes. Its Dredge-XII and Dredge-XIV are capable of shore pumping up to 2,400 meters (m), and Dredge-XVI, Dredge-XVII, Dredge-XIX, Dredge-XX and Dredge-XXI are capable of shore pumping up to 2,500 m and rain bowing facility. Its projects include maintenance dredging of Naval Channel at Ernakulam\u003B capital dredging to deepen the CICTPS, CB 1 and 2 berths and its approaches at Kamarar Port, and dredging in the Vanakbara Creek - Daman Diu."
+} ]
+, "management" : [
+{
+"name" : "Rajesh Tripathi",
+"age" : "54",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "S. Charles",
+"age" : "54",
+"title" : "Director - Finance, Additional Director"
+}
+,
+{
+"name" : "K. Aswini Sreekanth",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "P. Govindachari",
+"title" : "Chief Financial Officer, General Manager - Finance"
+}
+,
+{
+"name" : "M. S. Rao",
+"age" : "51",
+"title" : "Director - Operations \u0026 Technical, Additional Director"
+}
+,
+{
+"name" : "Pradeep Kumar",
+"age" : "56",
+"title" : "Additional Part-Time Official Director"
+}
+,
+{
+"name" : "Leena Nandan",
+"age" : "52",
+"title" : "Part-Time Official Director"
+}
+,
+{
+"name" : "Sheila Sangwan",
+"title" : "Non-Official Part-time Independent Director"
+}
+,
+{
+"name" : "Shobha Waghmare",
+"title" : "Non-Official Part-time Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

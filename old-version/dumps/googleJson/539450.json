@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "539450",
+"exchange" : "BOM",
+"id": "396607374759360",
+"t" : "539450",
+"e" : "BOM",
+"name" : "S H Kelkar And Company Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539450"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539450"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539450"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.60%",
+"annual" : "9.89%",
+"ttm" : "9.77%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.73%",
+"annual" : "14.03%",
+"ttm" : "13.62%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.86%",
+"ttm" : "16.80%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "10.05%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.72%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "806",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.15",
+"l" : "278.10",
+"cp" : "-0.41",
+"ccol" : "chr",
+"op" : "281.70",
+"hi" : "281.70",
+"lo" : "276.90",
+"vo" : "11,050.00",
+"avvo" : "",
+"hi52" : "333.00",
+"lo52" : "236.60",
+"mc" : "40.31B",
+"pe" : "40.08",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.94",
+"dy" : "0.63",
+"ldiv" : "1.75",
+"shares" : "144.62M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "396607374759360",
+"name" : "S H Kelkar And Company Ltd",
+"t" : "539450",
+"e" : "BOM",
+"l" : "278.10",
+"c" : "-1.15",
+"mc" : "40.31B",
+"cp" : "-0.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8499677",
+"name" : "Diamines And Chemicals Ltd",
+"t" : "500120",
+"e" : "BOM",
+"l" : "108.00",
+"c" : "+2.40",
+"mc" : "1.06B",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12339328",
+"name" : "Deepak Nitrite Ltd.",
+"t" : "DEEPAKNTR",
+"e" : "NSE",
+"l" : "260.30",
+"c" : "+3.05",
+"mc" : "34.02B",
+"cp" : "1.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "217120701046015",
+"name" : "Camlin Fine Sciences Ltd",
+"t" : "CAMLINFINE",
+"e" : "NSE",
+"l" : "121.00",
+"c" : "+7.85",
+"mc" : "14.64B",
+"cp" : "6.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11758121",
+"name" : "Navin Fluorine International Limited",
+"t" : "NAVINFLUOR",
+"e" : "NSE",
+"l" : "800.00",
+"c" : "+39.25",
+"mc" : "39.36B",
+"cp" : "5.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10233196",
+"name" : "Paushak Ltd",
+"t" : "532742",
+"e" : "BOM",
+"l" : "1,450.00",
+"c" : "+16.05",
+"mc" : "4.66B",
+"cp" : "1.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1009034",
+"name" : "Resonance Specialties Ltd",
+"t" : "524218",
+"e" : "BOM",
+"l" : "34.65",
+"c" : "+2.10",
+"mc" : "401.23M",
+"cp" : "6.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1095394",
+"name" : "Fairchem Speciality Ltd",
+"t" : "530117",
+"e" : "BOM",
+"l" : "408.35",
+"c" : "-8.80",
+"mc" : "15.38B",
+"cp" : "-2.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11109412",
+"name" : "Camphor and Allied Products Ltd",
+"t" : "500078",
+"e" : "BOM",
+"l" : "1,030.00",
+"c" : "+1.30",
+"mc" : "5.28B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "364451205232528",
+"name" : "Vikas Ecotech Ltd",
+"t" : "VIKASECO",
+"e" : "NSE",
+"l" : "38.25",
+"c" : "+0.70",
+"mc" : "10.61B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1015557336788398",
+"name" : "Vadivarhe Speciality Chemicals Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Lal Bahadur Shastri Marg Near Balrajeshwar Temple, Mulund (West), MUMBAI, 400080, India",
+"phone": "+91-22-21649163",
+"fax": "+91-22-22081204",
+"url": "https:\u002F\u002Fwww.keva.co.in\u002Four-group",
+"overview" : "S H Kelkar and Company Limited is a fragrance manufacturer in India. The Company operates in two segments: Fragrances, which manufactures\u002Ftrades in Fragrances and aroma ingredients for Fragrances, and Flavours, which manufactures\u002Ftrades in Flavors. It offers fragrances in various categories, such as personal care, hair care, skincare and cosmetics, fabric care, household products and fine fragrances. The Company offers flavors in various categories, such as dairy products, beverages, confectionery, bakery products and pharmaceuticals. It provides a range of services, which include Bio Technology Research Service, Cosmetic Research Service, Cosmetic Testing Laboratory and Custom Synthesis Services. The Company\u0027s manufacturing facilities are located at Vashivali, Vapi and Mulund in India, and Barneveld in the Netherlands. It conducts consultancy, formulation and efficacy studies in cosmetics and pharma products, and problem solving services for domestic and international markets."
+} ]
+, "management" : [
+{
+"name" : "Kedar Ramesh Vaze",
+"age" : "41",
+"title" : "Group Chief Executive Officer, Whole Time Director"
+}
+,
+{
+"name" : "Ratul Bhaduri",
+"title" : "Group Chief Financial Officer, Executive Vice President"
+}
+,
+{
+"name" : "Indrajit Chatterjee",
+"title" : "Executive Vice President \u0026 Group CHRO"
+}
+,
+{
+"name" : "Pramod Davray",
+"title" : "Executive Vice President - Fragrance India"
+}
+,
+{
+"name" : "Poulus Spierings",
+"title" : "Executive Vice President - Aroma Ingredients"
+}
+,
+{
+"name" : "Mohan Sapre",
+"title" : "Senior Vice President - International Fragrances"
+}
+,
+{
+"name" : "Deepti Chandratre",
+"title" : "Company Secretary, Compliance Officer and Manager Legal"
+}
+,
+{
+"name" : "Makarand Patwardhan",
+"title" : "Vice President - Operations \u0026 SCM (F \u0026 F)"
+}
+,
+{
+"name" : "Ramesh Vinayak Vaze",
+"age" : "74",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Anurag Yadava",
+"title" : "General Manager – Flavours"
+}
+]
+,"moreresources" : [
+]
+}]

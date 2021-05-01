@@ -1,0 +1,290 @@
+
+// [
+{
+"symbol" : "532721",
+"exchange" : "BOM",
+"id": "704098",
+"t" : "532721",
+"e" : "BOM",
+"name" : "Visa Steel Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532721"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532721"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532721"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-60.27%",
+"annual" : "-7.05%",
+"ttm" : "-50.60%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-13.81%",
+"annual" : "-5.32%",
+"ttm" : "-12.64%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.48%",
+"ttm" : "-1.29%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-3.11%",
+"ttm" : "-17.05%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,101",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.30",
+"l" : "18.90",
+"cp" : "1.61",
+"ccol" : "chg",
+"op" : "19.50",
+"hi" : "19.50",
+"lo" : "18.25",
+"vo" : "3,666.00",
+"avvo" : "",
+"hi52" : "30.20",
+"lo52" : "14.55",
+"mc" : "2.23B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-57.64",
+"dy" : "",
+"ldiv" : "",
+"shares" : "115.79M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "704098",
+"name" : "Visa Steel Limited",
+"t" : "532721",
+"e" : "BOM",
+"l" : "18.90",
+"c" : "+0.30",
+"mc" : "2.23B",
+"cp" : "1.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "187423",
+"name" : "Prakash Industries Limited",
+"t" : "PRAKASH",
+"e" : "NSE",
+"l" : "217.00",
+"c" : "+0.75",
+"mc" : "33.50B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5761084",
+"name" : "Texmaco Rail and Engineering Ltd",
+"t" : "TEXRAIL",
+"e" : "NSE",
+"l" : "95.00",
+"c" : "+0.65",
+"mc" : "20.83B",
+"cp" : "0.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14744034",
+"name" : "Sarda Energy \u0026 Minerals Limited",
+"t" : "SARDAEN",
+"e" : "NSE",
+"l" : "502.00",
+"c" : "+4.00",
+"mc" : "18.02B",
+"cp" : "0.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1253345",
+"name" : "Rohit Ferro-Tech Limited",
+"t" : "ROHITFERRO",
+"e" : "NSE",
+"l" : "3.60",
+"c" : "-0.10",
+"mc" : "409.59M",
+"cp" : "-2.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3078945",
+"name" : "SAL Steel Ltd.",
+"t" : "SALSTEEL",
+"e" : "NSE",
+"l" : "7.25",
+"c" : "+0.30",
+"mc" : "620.47M",
+"cp" : "4.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6774107",
+"name" : "Monnet Ispat \u0026 Energy Ltd.",
+"t" : "MONNETISPA",
+"e" : "NSE",
+"l" : "27.35",
+"c" : "+0.85",
+"mc" : "5.45B",
+"cp" : "3.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11539104",
+"name" : "Tata Steel Limited",
+"t" : "TATASTEEL",
+"e" : "NSE",
+"l" : "681.40",
+"c" : "+3.65",
+"mc" : "769.66B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7019095",
+"name" : "Vikash Metal \u0026 Power Ltd.",
+"t" : "VIKASHMET",
+"e" : "NSE",
+"l" : "4.45",
+"c" : "0.00",
+"mc" : "316.80M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13928461",
+"name" : "Garg Furnace Ltd",
+"t" : "530615",
+"e" : "BOM",
+"l" : "10.69",
+"c" : "+0.08",
+"mc" : "42.53M",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "VISA House 8\u002F10, Alipore Road, KOLKATA, 700027, India",
+"phone": "+91-33-30519000",
+"fax": "+91-33-30119002",
+"url": "http:\u002F\u002Fwww.visasteel.com\u002F",
+"overview" : "VISA Steel Limited is an India-based mineral, metal and energy company. The Company is engaged in the manufacturing of iron and steel products, including pig iron, sponge iron, special steel and high carbon ferro chrome with captive power plant at Kalinganagar, Odisha. The Company\u0027s segments include Special Steel and Ferro Chrome. The Special Steel segment includes bar and wire rods, billets and blooms, pig iron and sponge iron, and other allied products. The Ferro Chrome segment includes Ferro Chrome and captive power. The Company\u0027s products include special steel-long products, Ferro Chrome and Coke. Its Ferro Chrome is used for manufacturing of special steel and stainless steel. The Company operates approximately six submerged arc furnaces with a capacity of 180,000 tons per annum (TPA) high carbon Ferro Chrome. Its coke business comprises a 400,000 TPA coke oven plant. The Company\u0027s facilities include VISA Steel, Odisha\u003B VISA SunCoke, Odisha, and VISA Steel, Chhattisgarh."
+} ]
+, "management" : [
+{
+"name" : "Vishambhar Saran",
+"age" : "67",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Vishal Agarwal",
+"title" : "Executive Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Manoj Kumar Digga",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sudhir Kumar Banthiya",
+"title" : "Company Secretary and Compliance Officer"
+}
+,
+{
+"name" : "Manoj Kumar",
+"title" : "Director - Kalinganagar, Whole Time Director"
+}
+,
+{
+"name" : "Pratip Chaudhuri",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Rupanjana De",
+"title" : "Additional Woman Independent Director"
+}
+,
+{
+"name" : "Kishore Kumar Mehrotra",
+"age" : "62",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sheo Raj Rai",
+"age" : "61",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

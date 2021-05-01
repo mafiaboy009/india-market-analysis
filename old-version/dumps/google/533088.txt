@@ -1,0 +1,284 @@
+
+// [
+{
+"symbol" : "533088",
+"exchange" : "BOM",
+"id": "721403",
+"t" : "533088",
+"e" : "BOM",
+"name" : "Mahindra Holidays \u0026 Resorts India Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533088"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533088"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533088"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002707)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "19.56%",
+"annual" : "6.38%",
+"ttm" : "18.31%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "28.08%",
+"annual" : "9.49%",
+"ttm" : "26.56%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "14.13%",
+"ttm" : "30.38%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "11.35%",
+"annual" : "3.84%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "77.08%",
+"annual" : "26.93%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,615",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.95",
+"l" : "296.50",
+"cp" : "-1.31",
+"ccol" : "chr",
+"op" : "308.80",
+"hi" : "308.80",
+"lo" : "295.05",
+"vo" : "16,452.00",
+"avvo" : "",
+"hi52" : "469.00",
+"lo52" : "268.77",
+"mc" : "39.46B",
+"pe" : "86.21",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.44",
+"dy" : "1.12",
+"ldiv" : "3.33",
+"shares" : "133.25M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "721403",
+"name" : "Mahindra Holidays \u0026 Resorts India Ltd.",
+"t" : "533088",
+"e" : "BOM",
+"l" : "296.50",
+"c" : "-3.95",
+"mc" : "39.46B",
+"cp" : "-1.31",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8276809",
+"name" : "Cox \u0026 Kings Ltd",
+"t" : "COX\u0026KINGS",
+"e" : "NSE",
+"l" : "241.00",
+"c" : "+1.25",
+"mc" : "42.51B",
+"cp" : "0.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13981377",
+"name" : "India Tourism Development Corp Ltd",
+"t" : "532189",
+"e" : "BOM",
+"l" : "430.50",
+"c" : "+11.20",
+"mc" : "36.68B",
+"cp" : "2.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "681116",
+"name" : "Thomas Cook India Ltd",
+"t" : "500413",
+"e" : "BOM",
+"l" : "247.40",
+"c" : "+11.25",
+"mc" : "89.78B",
+"cp" : "4.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3227891",
+"name" : "India Cements Capital Ltd",
+"t" : "511355",
+"e" : "BOM",
+"l" : "5.20",
+"c" : "-0.15",
+"mc" : "112.66M",
+"cp" : "-2.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "373957779752490",
+"name" : "Ace Tours Worldwide Ltd",
+"t" : "536492",
+"e" : "BOM",
+"l" : "2.08",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "799691",
+"name" : "S \u0026 T Corp Ltd",
+"t" : "514197",
+"e" : "BOM",
+"l" : "28.85",
+"c" : "-0.15",
+"mc" : "183.67M",
+"cp" : "-0.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "726600898392511",
+"name" : "Aspinwall \u0026 Co Ltd",
+"t" : "ASPINWALL",
+"e" : "NSE",
+"l" : "420.00",
+"c" : "-0.45",
+"mc" : "3.23B",
+"cp" : "-0.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8892177",
+"name" : "Panoramic Universal Ltd",
+"t" : "PANORAMUNI",
+"e" : "NSE",
+"l" : "9.10",
+"c" : "-0.05",
+"mc" : "715.30M",
+"cp" : "-0.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715471",
+"name" : "Sterling Holiday Resorts India Ltd.",
+"t" : "523363",
+"e" : "BOM",
+"l" : "250.30",
+"c" : "0.00",
+"mc" : "22.56B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7864646",
+"name" : "Blue Dart Express Limited",
+"t" : "BLUEDART",
+"e" : "NSE",
+"l" : "4,264.00",
+"c" : "+70.90",
+"mc" : "100.50B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Mahindra Towers, 2nd Floor 17\u002F18, Patullos Road, Mount Road, CHENNAI, 600002, India",
+"phone": "+91-44-39881000",
+"fax": "+91-44-30277778",
+"url": "http:\u002F\u002Fwww.clubmahindra.com\u002F",
+"overview" : "Mahindra Holidays \u0026 Resorts India Limited operates in leisure hospitality industry. The Company is engaged in the business of sale of Vacation Ownership and other related services in India. The Company\u0027s principal activities include income from sale of vacation ownership (VO)\u003B annual subscription fee from VO members, and income from sale of food and beverages. It offers vacation ownership products that provide holiday entitlements to its members over the life of the product. Apart from providing rooms in the form of furnished apartments and cottages at resorts, the Company offers its members various amenities, including dining, holiday activities, spa and wellness facilities. Club Mahindra is the Company\u0027s product in the vacation ownership business, which entitles its members a week\u0027s holiday every year for a period of 10 or 25 years depending upon the membership. The Company offers Heart-to-Heart, a member engagement initiative in their hometowns."
+} ]
+, "management" : [
+{
+"name" : "Akhila Balachandar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Dinesh Shetty",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kavinder Singh",
+"title" : "Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "Arun Kumar Nanda",
+"age" : "66",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Vineet Nayyar",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "V. S. Parthasarathy",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Radhika Shastry",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Sanjeev Aga",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

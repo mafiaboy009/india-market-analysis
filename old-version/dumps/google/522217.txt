@@ -1,0 +1,272 @@
+
+// [
+{
+"symbol" : "522217",
+"exchange" : "BOM",
+"id": "2466606",
+"t" : "522217",
+"e" : "BOM",
+"name" : "Gujarat Apollo Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:522217"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:522217"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:522217"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002709)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "11.60%",
+"annual" : "24.43%",
+"ttm" : "12.25%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "16.45%",
+"annual" : "-30.53%",
+"ttm" : "17.21%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-25.94%",
+"ttm" : "18.07%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.05%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.51%",
+"ttm" : ""
+}
+]
+, "c" : "+8.60",
+"l" : "223.00",
+"cp" : "4.01",
+"ccol" : "chg",
+"op" : "220.00",
+"hi" : "229.30",
+"lo" : "220.00",
+"vo" : "1,734.00",
+"avvo" : "",
+"hi52" : "307.95",
+"lo52" : "136.50",
+"mc" : "2.85B",
+"pe" : "12.26",
+"fwpe" : "",
+"beta" : "",
+"eps" : "18.18",
+"dy" : "1.12",
+"ldiv" : "2.50",
+"shares" : "12.66M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2466606",
+"name" : "Gujarat Apollo Industries Ltd",
+"t" : "522217",
+"e" : "BOM",
+"l" : "223.00",
+"c" : "+8.60",
+"mc" : "2.85B",
+"cp" : "4.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15853858",
+"name" : "TIL Limited",
+"t" : "TIL",
+"e" : "NSE",
+"l" : "512.35",
+"c" : "+2.45",
+"mc" : "5.14B",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715314",
+"name" : "DISA India Ltd",
+"t" : "500068",
+"e" : "BOM",
+"l" : "6,210.00",
+"c" : "+29.00",
+"mc" : "9.02B",
+"cp" : "0.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "749485",
+"name" : "Killick Nixon Ltd",
+"t" : "501316",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10827648",
+"name" : "Revathi Equipment Ltd",
+"t" : "REVATHI",
+"e" : "NSE",
+"l" : "634.00",
+"c" : "-1.80",
+"mc" : "2.00B",
+"cp" : "-0.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13341724",
+"name" : "JMT Auto Ltd",
+"t" : "JMTAUTOLTD",
+"e" : "NSE",
+"l" : "5.05",
+"c" : "+0.05",
+"mc" : "2.54B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4330041",
+"name" : "TRF Ltd.",
+"t" : "TRF",
+"e" : "NSE",
+"l" : "223.00",
+"c" : "-0.45",
+"mc" : "2.46B",
+"cp" : "-0.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10556357",
+"name" : "BEML Ltd",
+"t" : "BEML",
+"e" : "NSE",
+"l" : "1,252.00",
+"c" : "+19.50",
+"mc" : "52.32B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "707721",
+"name" : "Eimco Elecon Ltd.",
+"t" : "EIMCOELECO",
+"e" : "NSE",
+"l" : "486.00",
+"c" : "-6.35",
+"mc" : "2.79B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6690180",
+"name" : "Action Construction Equipment Limited",
+"t" : "ACE",
+"e" : "NSE",
+"l" : "188.50",
+"c" : "+6.15",
+"mc" : "22.16B",
+"cp" : "3.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "713850",
+"name" : "Skyline Millars Ltd",
+"t" : "505650",
+"e" : "BOM",
+"l" : "3.55",
+"c" : "-0.11",
+"mc" : "142.80M",
+"cp" : "-3.01",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Parishram, 5-B Rashmi Society Mithakhali, Navrangpura, AHMEDABAD, 380009, India",
+"phone": "+91-79-26444597",
+"fax": "+91-79-26564705",
+"url": "http:\u002F\u002Fapollo.co.in\u002F",
+"overview" : "Gujarat Apollo Industries Limited is an India-based company engaged in the manufacture of machinery for mining, quarrying and construction. The Company offers construction equipment and maintenance machineries. The Company is focused on the crushing and screening equipment business. The Company offers crushing, screening and recycling equipment, such as jaw crushers, cone crushers, primary shaft impact crushers, secondary shaft impact crushers, vertical shaft impact crusher and bucket crusher. The Company offers integrated static and mobile crushing and screening solutions and other allied equipment. The Company manufactures a range of equipment to serve construction and mining industry. The Company\u0027s plant is located at Mehsana, Gujarat. The Company\u0027s subsidiaries include Apollo Earthmovers Limited, Apollo Maschinenbau GmbH and Apollo FBC Crushing Equipments Limited, which are engaged in equipment manufacturing."
+} ]
+, "management" : [
+{
+"name" : "Neha Chikani Shah",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Asit Anil Patel",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Anilbhai T. Patel",
+"age" : "69",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Anand A. Patel",
+"title" : "Director"
+}
+,
+{
+"name" : "Nayna Asit Patel",
+"title" : "Director"
+}
+,
+{
+"name" : "Manibhai V. Patel",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Naman Patel",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

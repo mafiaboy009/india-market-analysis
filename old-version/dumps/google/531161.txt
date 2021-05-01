@@ -1,0 +1,273 @@
+
+// [
+{
+"symbol" : "531161",
+"exchange" : "BOM",
+"id": "3291323",
+"t" : "531161",
+"e" : "BOM",
+"name" : "ABM Knowledgeware Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ABMK.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531161"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531161"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531161"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "18.08%",
+"annual" : "20.04%",
+"ttm" : "22.68%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "25.39%",
+"annual" : "27.93%",
+"ttm" : "31.42%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "29.70%",
+"ttm" : "33.78%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "16.07%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "17.24%",
+"ttm" : ""
+}
+]
+, "c" : "-1.65",
+"l" : "98.00",
+"cp" : "-1.66",
+"ccol" : "chr",
+"op" : "99.50",
+"hi" : "100.00",
+"lo" : "96.20",
+"vo" : "11,078.00",
+"avvo" : "",
+"hi52" : "159.50",
+"lo52" : "95.80",
+"mc" : "1.96B",
+"pe" : "12.87",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.61",
+"dy" : "1.28",
+"ldiv" : "1.25",
+"shares" : "20.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "3291323",
+"name" : "ABM Knowledgeware Ltd",
+"t" : "531161",
+"e" : "BOM",
+"l" : "98.00",
+"c" : "-1.65",
+"mc" : "1.96B",
+"cp" : "-1.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "759816835270826",
+"name" : "Jointeca Education Solutions Ltd",
+"t" : "534659",
+"e" : "BOM",
+"l" : "7.00",
+"c" : "0.00",
+"mc" : "70.11M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10627180",
+"name" : "HCL Technologies Ltd",
+"t" : "HCLTECH",
+"e" : "NSE",
+"l" : "948.95",
+"c" : "-6.65",
+"mc" : "1.32T",
+"cp" : "-0.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14848096",
+"name" : "CMC Limited (Parent)",
+"t" : "CMC",
+"e" : "NSE",
+"l" : "2,030.00",
+"c" : "",
+"mc" : "61.58B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10405902",
+"name" : "Vama Industries Ltd",
+"t" : "512175",
+"e" : "BOM",
+"l" : "25.20",
+"c" : "0.00",
+"mc" : "1.31B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16609548",
+"name" : "Geodesic Limited",
+"t" : "GEODESIC",
+"e" : "NSE",
+"l" : "4.45",
+"c" : "",
+"mc" : "401.96M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5369207",
+"name" : "Virinchi Ltd",
+"t" : "532372",
+"e" : "BOM",
+"l" : "120.55",
+"c" : "+2.55",
+"mc" : "3.25B",
+"cp" : "2.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7832604",
+"name" : "Blue Star Infotech Ltd.",
+"t" : "BLUESTINFO",
+"e" : "NSE",
+"l" : "290.00",
+"c" : "",
+"mc" : "3.13B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "1848126",
+"name" : "Satyam Computer Services Limited",
+"t" : "SATYAMCOMP",
+"e" : "NSE",
+"l" : "116.25",
+"c" : "",
+"mc" : "136.88B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6852507",
+"name" : "aurionPro Solutions Limited",
+"t" : "AURIONPRO",
+"e" : "NSE",
+"l" : "219.90",
+"c" : "+1.50",
+"mc" : "5.19B",
+"cp" : "0.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16510553",
+"name" : "MPS Infotecnics Ltd",
+"t" : "VISESHINFO",
+"e" : "NSE",
+"l" : "0.20",
+"c" : "-0.05",
+"mc" : "754.89M",
+"cp" : "-20.00",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "ABM House, Plot No. 268 Linking Road, Bandra (West), MUMBAI, 400050, India",
+"phone": "+91-22-42909700",
+"fax": "+91-22-42909701",
+"url": "http:\u002F\u002Fwww.abmindia.com\u002F",
+"overview" : "ABM Knowledgeware Limited (ABM) is an information technology (IT) company, which offers software and services. The Company is engaged in computer programming, consultancy and related activities. The Company is focused on providing e-governance solutions. The Company\u0027s products include ABM MAINet, ABM CARE, ABM MOIS 2000, Customer Relationship Management (CRM) solutions and ABM GRP. ABM MAINet Enterprise is an integrated suite of application products to manage the working of a municipal corporation. ABM CARE is a browser-based system for complaint acceptance. ABM MOIS 2000 is a tool, which facilitates the task done by any government or semi-government organization to manage and work on a range of letters and cases\u002Ffiles every day. Its CRM solutions are Web-based serving power sector as a dual channel service delivery model. ABM GRP is an enterprise resource planning for government. ABM GRP is an integrated office automation system for government and other government bodies."
+} ]
+, "management" : [
+{
+"name" : "Paresh Golatkar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Prakash B. Rane",
+"age" : "46",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Sarika Ghanekar",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Supriya P. Rane",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sumit Chowdhury",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Sharadchandra D. Abhyankar",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "M. N. Ahmed",
+"age" : "59",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

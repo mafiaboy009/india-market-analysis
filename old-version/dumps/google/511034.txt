@@ -1,0 +1,278 @@
+
+// [
+{
+"symbol" : "511034",
+"exchange" : "BOM",
+"id": "716771",
+"t" : "511034",
+"e" : "BOM",
+"name" : "Jindal Drilling Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:511034"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:511034"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:511034"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "92.53%",
+"annual" : "21.46%",
+"ttm" : "21.46%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-13.01%",
+"annual" : "1.90%",
+"ttm" : "1.90%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.38%",
+"ttm" : "4.38%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.23%",
+"ttm" : "4.23%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.81%",
+"ttm" : "4.81%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "547",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.15",
+"l" : "168.30",
+"cp" : "-1.26",
+"ccol" : "chr",
+"op" : "171.65",
+"hi" : "171.80",
+"lo" : "166.25",
+"vo" : "7,317.00",
+"avvo" : "",
+"hi52" : "235.00",
+"lo52" : "137.05",
+"mc" : "4.92B",
+"pe" : "6.10",
+"fwpe" : "",
+"beta" : "",
+"eps" : "27.59",
+"dy" : "0.30",
+"ldiv" : "0.50",
+"shares" : "28.98M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "716771",
+"name" : "Jindal Drilling Industries Ltd",
+"t" : "511034",
+"e" : "BOM",
+"l" : "168.30",
+"c" : "-2.15",
+"mc" : "4.92B",
+"cp" : "-1.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3302534",
+"name" : "Aban Offshore Ltd",
+"t" : "ABAN",
+"e" : "NSE",
+"l" : "175.25",
+"c" : "+2.25",
+"mc" : "10.23B",
+"cp" : "1.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7348660",
+"name" : "GOL Offshore Ltd",
+"t" : "GTOFFSHORE",
+"e" : "NSE",
+"l" : "10.05",
+"c" : "",
+"mc" : "792.67M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "9605998",
+"name" : "Essar Shipping Ltd",
+"t" : "ESSARSHPNG",
+"e" : "NSE",
+"l" : "25.40",
+"c" : "+0.05",
+"mc" : "5.26B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6038818",
+"name" : "Cairn India Limited",
+"t" : "CAIRN",
+"e" : "NSE",
+"l" : "285.00",
+"c" : "",
+"mc" : "535.28B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5102306",
+"name" : "Svogl Oil Gas and Energy Ltd",
+"t" : "SVOGL",
+"e" : "NSE",
+"l" : "2.50",
+"c" : "",
+"mc" : "320.94M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12834092",
+"name" : "Oil Country Tubular Ltd",
+"t" : "OILCOUNTUB",
+"e" : "NSE",
+"l" : "43.15",
+"c" : "+0.30",
+"mc" : "1.91B",
+"cp" : "0.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11213880",
+"name" : "United Drilling Tools Ltd",
+"t" : "522014",
+"e" : "BOM",
+"l" : "267.80",
+"c" : "+7.85",
+"mc" : "2.74B",
+"cp" : "3.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "726427",
+"name" : "Asian Oilfield Services Ltd",
+"t" : "530355",
+"e" : "BOM",
+"l" : "231.50",
+"c" : "-2.40",
+"mc" : "6.82B",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12256140",
+"name" : "Global Offshore Services Ltd",
+"t" : "GLOBOFFS",
+"e" : "NSE",
+"l" : "32.15",
+"c" : "+1.50",
+"mc" : "801.57M",
+"cp" : "4.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "126470821454406",
+"name" : "South West Pinnacle Exploration Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Plot No. 30, Institutional Sector - 44, GURGAON, 122002, India",
+"phone": "+91-11-42531111",
+"fax": "+91-124-2574327",
+"url": "http:\u002F\u002Fwww.jindal.com\u002F",
+"overview" : "Jindal Drilling \u0026 Industries Limited is engaged in providing services to entities involved in exploration of oil and gas. The Company is engaged in providing drilling and related services. The Company offers various services, such as offshore drilling, directional\u002Fhorizontal drilling, measurement while drilling (MWD) services and mud logging services. The Company\u0027s MWD tools provide information about the conditions at the drill bit, such as rotational speed of the drillstring, mud flow volume and downhole temperature. Its software and mud logging equipment have integrated facilities for acquisition, monitoring and recording of the geological and drilling data during the drilling of oil and gas wells. It operates a jack up rig and approximately 20 directional drilling units, as well as split units on call and over 10 mud logging units. Its rigs and directional drilling equipment operate at Mumbai offshore. It offers various types of rigs, such as drilling barges and drill ships."
+} ]
+, "management" : [
+{
+"name" : "Pawan Kumar Rustagi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rajeev Ranjan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Dharam Pal Jindal",
+"age" : "65",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Saroj Bhartia",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Raghav Jindal",
+"age" : "36",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Vijay Kaushik",
+"age" : "59",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "K. K. Khandelwal",
+"age" : "74",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,374 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 12021798912,
+            "fmt": "12.02B",
+            "longFmt": "12,021,798,912"
+          },
+          "forwardPE": {
+            "raw": 21.629969,
+            "fmt": "21.63"
+          },
+          "profitMargins": {
+            "raw": 0.11635,
+            "fmt": "11.64%"
+          },
+          "floatShares": {
+            "raw": 1472191,
+            "fmt": "1.47M",
+            "longFmt": "1,472,191"
+          },
+          "sharesOutstanding": {
+            "raw": 6000000,
+            "fmt": "6M",
+            "longFmt": "6,000,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.083848,
+            "fmt": "0.08"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 304.468,
+            "fmt": "304.47"
+          },
+          "priceToBook": {
+            "raw": 4.968667,
+            "fmt": "4.97"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 1.585,
+            "fmt": "158.50%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 480499008,
+            "fmt": "480.5M",
+            "longFmt": "480,499,008"
+          },
+          "trailingEps": {
+            "raw": 80.078,
+            "fmt": "80.08"
+          },
+          "forwardEps": {
+            "raw": 69.94,
+            "fmt": "69.94"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 2.911,
+            "fmt": "2.91"
+          },
+          "enterpriseToEbitda": {
+            "raw": 21.659,
+            "fmt": "21.66"
+          },
+          "52WeekChange": {
+            "raw": -0.34508324,
+            "fmt": "-34.51%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 15.05,
+                  "fmt": "15.05"
+                },
+                "estimate": {
+                  "raw": 7.65,
+                  "fmt": "7.65"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 3141210000,
+                  "fmt": "3.14B",
+                  "longFmt": "3,141,210,000"
+                },
+                "earnings": {
+                  "raw": 362462000,
+                  "fmt": "362.46M",
+                  "longFmt": "362,462,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 3541991000,
+                  "fmt": "3.54B",
+                  "longFmt": "3,541,991,000"
+                },
+                "earnings": {
+                  "raw": 341352000,
+                  "fmt": "341.35M",
+                  "longFmt": "341,352,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 3851299000,
+                  "fmt": "3.85B",
+                  "longFmt": "3,851,299,000"
+                },
+                "earnings": {
+                  "raw": 306486000,
+                  "fmt": "306.49M",
+                  "longFmt": "306,486,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 4015866000,
+                  "fmt": "4.02B",
+                  "longFmt": "4,015,866,000"
+                },
+                "earnings": {
+                  "raw": 326399000,
+                  "fmt": "326.4M",
+                  "longFmt": "326,399,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 1193666000,
+                  "fmt": "1.19B",
+                  "longFmt": "1,193,666,000"
+                },
+                "earnings": {
+                  "raw": 107099000,
+                  "fmt": "107.1M",
+                  "longFmt": "107,099,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 1028900000,
+                  "fmt": "1.03B",
+                  "longFmt": "1,028,900,000"
+                },
+                "earnings": {
+                  "raw": 89000000,
+                  "fmt": "89M",
+                  "longFmt": "89,000,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 904000000,
+                  "fmt": "904M",
+                  "longFmt": "904,000,000"
+                },
+                "earnings": {
+                  "raw": 90300000,
+                  "fmt": "90.3M",
+                  "longFmt": "90,300,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 1036700000,
+                  "fmt": "1.04B",
+                  "longFmt": "1,036,700,000"
+                },
+                "earnings": {
+                  "raw": 197200000,
+                  "fmt": "197.2M",
+                  "longFmt": "197,200,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Empire Complex",
+          "address2": "414 Senapati Bapat Marg Lower Parel",
+          "city": "Mumbai",
+          "zip": "400013",
+          "country": "India",
+          "phone": "91 22 6655 5453",
+          "fax": "91 22 2493 9143",
+          "website": "http://www.empiremumbai.com",
+          "industry": "Packaging & Containers",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Empire Industries Limited engages in the manufacture and sale of amber glass bottles for the pharmaceutical industry worldwide. It offers support and engineering consultancy services to manufacturers of metal forming presses, furnaces, welding equipment, and metrology machinery; and sells heavy duty and high precision portal milling machines, mill turn centers, high precision five axis machining centers, horizontal boring machines, gear cutting machines, grinding machines for cylindrical and profile applications, centers less grinding machines, special application grinding centers, and high precision and profile broaching machines for defense, aerospace and aircraft, railways, heavy engineering, automobile, energy and power, tool rooms, steel, fabricators, and machine tools manufacturers. The company also provides packaged solutions for fuel storage tanks and terminals, and fire and safety equipment and systems; and engages in renewable power, and water and waste management activities. In addition, it owns commercial properties and IT spaces; and provides vending machines under the Grabbit brand that offer snacks, beverages, perishables, stationery, coins, sanitary pads, personal care, and PPE's. Further, the company markets and distributes frozen and chilled food, including marine foods and meat products to hotels, restaurants, and catering and retail chains; and builds and manages flexible and customized furnished offices, as well as provides business support services, and meeting and conference room facilities. Additionally, it develops residential, commercial, and industrial galas on the land admeasuring to 35 acres at Ambernath. Empire Industries Limited was incorporated in 1900 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1512.8,
+            "fmt": "1,512.80"
+          },
+          "targetHighPrice": {
+            "raw": 1820.95,
+            "fmt": "1,820.95"
+          },
+          "targetLowPrice": {
+            "raw": 1820.95,
+            "fmt": "1,820.95"
+          },
+          "targetMeanPrice": {
+            "raw": 1820.95,
+            "fmt": "1,820.95"
+          },
+          "targetMedianPrice": {
+            "raw": 1820.95,
+            "fmt": "1,820.95"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 958182976,
+            "fmt": "958.18M",
+            "longFmt": "958,182,976"
+          },
+          "totalCashPerShare": {
+            "raw": 159.713,
+            "fmt": "159.71"
+          },
+          "ebitda": {
+            "raw": 555038272,
+            "fmt": "555.04M",
+            "longFmt": "555,038,272"
+          },
+          "totalDebt": {
+            "raw": 1337564032,
+            "fmt": "1.34B",
+            "longFmt": "1,337,564,032"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 4129865984,
+            "fmt": "4.13B",
+            "longFmt": "4,129,865,984"
+          },
+          "debtToEquity": {
+            "raw": 73.219,
+            "fmt": "73.22"
+          },
+          "revenuePerShare": {
+            "raw": 688.265,
+            "fmt": "688.27"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 2351259000,
+            "fmt": "2.35B",
+            "longFmt": "2,351,259,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 1.584,
+            "fmt": "158.40%"
+          },
+          "revenueGrowth": {
+            "raw": 0.042,
+            "fmt": "4.20%"
+          },
+          "grossMargins": {
+            "raw": 0.60463,
+            "fmt": "60.46%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.1344,
+            "fmt": "13.44%"
+          },
+          "operatingMargins": {
+            "raw": 0.11705,
+            "fmt": "11.70%"
+          },
+          "profitMargins": {
+            "raw": 0.11635,
+            "fmt": "11.64%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

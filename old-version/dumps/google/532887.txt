@@ -1,0 +1,280 @@
+
+// [
+{
+"symbol" : "532887",
+"exchange" : "BOM",
+"id": "718770",
+"t" : "532887",
+"e" : "BOM",
+"name" : "Neueon Towers Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532887"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532887"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532887"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002715)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.16%",
+"annual" : "-197.34%",
+"ttm" : "0.15%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "19.25%",
+"annual" : "-66.97%",
+"ttm" : "10.18%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-28.79%",
+"ttm" : "11.40%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-12.88%",
+"ttm" : "0.09%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-90.36%",
+"ttm" : "0.38%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "139",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.12",
+"l" : "3.83",
+"cp" : "-3.04",
+"ccol" : "chr",
+"op" : "3.81",
+"hi" : "4.12",
+"lo" : "3.81",
+"vo" : "5,831.00",
+"avvo" : "",
+"hi52" : "8.86",
+"lo52" : "3.48",
+"mc" : "219.31M",
+"pe" : "5.77",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.66",
+"dy" : "",
+"ldiv" : "",
+"shares" : "56.54M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "718770",
+"name" : "Neueon Towers Ltd",
+"t" : "532887",
+"e" : "BOM",
+"l" : "3.83",
+"c" : "-0.12",
+"mc" : "219.31M",
+"cp" : "-3.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "255437299298490",
+"name" : "Bharti Infratel Ltd",
+"t" : "INFRATEL",
+"e" : "NSE",
+"l" : "344.55",
+"c" : "+4.15",
+"mc" : "637.66B",
+"cp" : "1.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12319999",
+"name" : "GTL Infrastructure Limited",
+"t" : "GTLINFRA",
+"e" : "NSE",
+"l" : "5.15",
+"c" : "+0.05",
+"mc" : "63.06B",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9964748",
+"name" : "Jyoti Structures Limited",
+"t" : "JYOTISTRUC",
+"e" : "NSE",
+"l" : "10.75",
+"c" : "+0.50",
+"mc" : "1.17B",
+"cp" : "4.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15284677",
+"name" : "Kalpataru Power Transmission Limited",
+"t" : "KALPATPOWR",
+"e" : "NSE",
+"l" : "483.00",
+"c" : "+22.35",
+"mc" : "73.82B",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10762689",
+"name" : "Expo Gas Containers Ltd",
+"t" : "526614",
+"e" : "BOM",
+"l" : "11.00",
+"c" : "+0.01",
+"mc" : "209.40M",
+"cp" : "0.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8350602",
+"name" : "Veer Energy \u0026 Infrastructure Ltd",
+"t" : "503657",
+"e" : "BOM",
+"l" : "30.30",
+"c" : "+0.75",
+"mc" : "338.86M",
+"cp" : "2.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4100224",
+"name" : "Om Metals Infraprojects Ltd.",
+"t" : "OMMETALS",
+"e" : "NSE",
+"l" : "62.35",
+"c" : "+0.50",
+"mc" : "5.99B",
+"cp" : "0.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "189075724368911",
+"name" : "Tarini International Ltd",
+"t" : "538496",
+"e" : "BOM",
+"l" : "29.90",
+"c" : "0.00",
+"mc" : "388.64M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "571281",
+"name" : "Premier Energy and Infrastructure Ltd",
+"t" : "533100",
+"e" : "BOM",
+"l" : "4.60",
+"c" : "0.00",
+"mc" : "190.21M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10407021",
+"name" : "Shriram EPC Limited",
+"t" : "SHRIRAMEPC",
+"e" : "NSE",
+"l" : "32.00",
+"c" : "+2.55",
+"mc" : "31.19B",
+"cp" : "8.66",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Plot No:18, Nagarjuna Hills, Punjagutta, HYDERABAD, 500082, India",
+"phone": "+91-40-23351882",
+"fax": "+91-40-23358499",
+"url": "http:\u002F\u002Fstl.sujana.com\u002F",
+"overview" : "Neueon Towers Limited, formerly Sujana Towers Limited, focuses on power transmission and telecom infrastructure industry. The Company\u0027s products and services include Telecom Towers, Transmission Towers, and Engineering Procurement and Construction (EPC). It has an installed capacity of approximately 120, 000 tons to manufacture structural steel, which is used to manufacture galvanized tower parts. Its project division turnkey contract services include surveying\u003B laying of civil foundations\u003B supply and erection towers\u003B stringing facilities for transmission industry, and fixing of telecom equipment on the tower. It offers services, such as engineering and consultation, including structural analysis and design, structural specifications and design reviews. It offers clients development and\u002For implementation solutions from conceptual planning to project implementation. The Company provides structural analysis, engineering reports and shop drawings, for site plan preparations."
+} ]
+, "management" : [
+{
+"name" : "N. C. Krishna",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "G. Srinivasa Raju",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "M. V. Bhaskara Rao",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Anil Ratanpal",
+"title" : "Director - Nominee of IDBI Bank Ltd."
+}
+,
+{
+"name" : "S. Hanumantha Rao",
+"age" : "66",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "G, Uma Devi",
+"age" : "41",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "A. S. Anand Kumar",
+"age" : "64",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

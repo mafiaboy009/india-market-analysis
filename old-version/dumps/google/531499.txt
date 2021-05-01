@@ -1,0 +1,274 @@
+
+// [
+{
+"symbol" : "531499",
+"exchange" : "BOM",
+"id": "10918993",
+"t" : "531499",
+"e" : "BOM",
+"name" : "Sybly Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SYBL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531499"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531499"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531499"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002710)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.14%",
+"annual" : "0.25%",
+"ttm" : "4.28%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.26%",
+"annual" : "-0.47%",
+"ttm" : "3.40%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.02%",
+"ttm" : "7.15%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.20%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.41%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "94",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.84",
+"l" : "5.05",
+"cp" : "19.95",
+"ccol" : "chg",
+"op" : "4.00",
+"hi" : "5.05",
+"lo" : "4.00",
+"vo" : "212,528.00",
+"avvo" : "",
+"hi52" : "8.08",
+"lo52" : "3.85",
+"mc" : "206.11M",
+"pe" : "3.38",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.49",
+"dy" : "",
+"ldiv" : "",
+"shares" : "40.72M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10918993",
+"name" : "Sybly Industries Ltd",
+"t" : "531499",
+"e" : "BOM",
+"l" : "5.05",
+"c" : "+0.84",
+"mc" : "206.11M",
+"cp" : "19.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5004145",
+"name" : "Kallam Spinning Mills Ltd",
+"t" : "530201",
+"e" : "BOM",
+"l" : "31.50",
+"c" : "+0.75",
+"mc" : "1.35B",
+"cp" : "2.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7304025",
+"name" : "Suryalata Spinning Mills Ltd",
+"t" : "514138",
+"e" : "BOM",
+"l" : "159.00",
+"c" : "-1.20",
+"mc" : "678.45M",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14211316",
+"name" : "P B M Polytex Ltd",
+"t" : "514087",
+"e" : "BOM",
+"l" : "90.65",
+"c" : "+0.35",
+"mc" : "746.07M",
+"cp" : "0.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2708926",
+"name" : "Vippy Spin Pro Ltd",
+"t" : "514302",
+"e" : "BOM",
+"l" : "49.50",
+"c" : "+0.75",
+"mc" : "290.56M",
+"cp" : "1.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6442081",
+"name" : "Supertex Industries Ltd",
+"t" : "526133",
+"e" : "BOM",
+"l" : "6.05",
+"c" : "-0.15",
+"mc" : "68.61M",
+"cp" : "-2.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2342348",
+"name" : "APM Industries Ltd",
+"t" : "523537",
+"e" : "BOM",
+"l" : "58.85",
+"c" : "+0.35",
+"mc" : "1.28B",
+"cp" : "0.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6910601",
+"name" : "Himachal Fibres Ltd",
+"t" : "514010",
+"e" : "BOM",
+"l" : "6.28",
+"c" : "+0.20",
+"mc" : "531.17M",
+"cp" : "3.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2475626",
+"name" : "H P Cotton Textile Mills Ltd",
+"t" : "502873",
+"e" : "BOM",
+"l" : "36.55",
+"c" : "0.00",
+"mc" : "139.26M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7933976",
+"name" : "Deepak Spinners Ltd",
+"t" : "514030",
+"e" : "BOM",
+"l" : "85.80",
+"c" : "-3.45",
+"mc" : "616.85M",
+"cp" : "-3.87",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14208119",
+"name" : "Soma Textiles and Industries Ltd",
+"t" : "SOMATEX",
+"e" : "NSE",
+"l" : "14.25",
+"c" : "-0.15",
+"mc" : "467.47M",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Near Canal, Pawan Puri, MURADNAGAR, 201206, India",
+"phone": "+91-1232-261765",
+"fax": "+91-1232-261288",
+"url": "http:\u002F\u002Fsybly.com\u002F",
+"overview" : "Sybly Industries Limited is an India-based company, which is engaged in the manufacturing of polyester yarn and trading in fabrics. The principal business activities of the Company include wholesale of textiles, clothing and footwear, and preparation and spinning of textiles fibers. The Company manufactures a range of polyester yarn ranging from coarse counts to finer counts in both hank and cones. The Company also manufactures single warp qualities and various polyester hosiery yarns, auto coned in varieties. The Company offers single yarn in the range of 15\u0027s, 20\u0027s, 24\u0027s and 30\u0027s. The Company offers Cabled and Plied Yarn in cones in the range 2\u002F8s, 3\u002F8s\u003B 3\u002F12s, 4\u002F12s\u003B 3\u002F15s\u003B 8\u002F20sRT, 3\u002F20sRT, and 2\u002F30sRT. The Company also offers Cabled and Plied Yarn in hanks in the range 2\u002F20sRT, 3\u002F20sRT\u003B 2\u002F30sRT, 3\u002F25sRT, 2\u002F26sRT\u003B 2\u002F45sRT (SHT)\u003B 3\u002F56sRT (SHT), and 3\u002F65s RT (SHT). The Company has manufacturing facilities at Pawan Puri, Muradnagar in Ghaziabad, Uttar Pradesh."
+} ]
+, "management" : [
+{
+"name" : "Nishant Mittal",
+"title" : "Chief Financial Officer, Whole Time Director"
+}
+,
+{
+"name" : "Rakesh Verma",
+"title" : "Compliance Officer, Deputy General Manager - Finance"
+}
+,
+{
+"name" : "Priya Tyagi",
+"title" : "Company Secretary and Compliance Officer"
+}
+,
+{
+"name" : "Mahesh Chand Mittal",
+"age" : "61",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Virendra Pratap Mishra",
+"age" : "61",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Lallan Tripathi",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

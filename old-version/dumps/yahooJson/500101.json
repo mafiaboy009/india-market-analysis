@@ -1,0 +1,413 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 132887609344,
+            "fmt": "132.89B",
+            "longFmt": "132,887,609,344"
+          },
+          "forwardPE": {
+            "raw": 19.350132,
+            "fmt": "19.35"
+          },
+          "profitMargins": {
+            "raw": 0.029059999,
+            "fmt": "2.91%"
+          },
+          "floatShares": {
+            "raw": 145863431,
+            "fmt": "145.86M",
+            "longFmt": "145,863,431"
+          },
+          "sharesOutstanding": {
+            "raw": 258616992,
+            "fmt": "258.62M",
+            "longFmt": "258,616,992"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.218306,
+            "fmt": "1.22"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 140.612,
+            "fmt": "140.61"
+          },
+          "priceToBook": {
+            "raw": 2.5940175,
+            "fmt": "2.59"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.045,
+            "fmt": "4.50%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 2931300096,
+            "fmt": "2.93B",
+            "longFmt": "2,931,300,096"
+          },
+          "trailingEps": {
+            "raw": 11.318,
+            "fmt": "11.32"
+          },
+          "forwardEps": {
+            "raw": 18.85,
+            "fmt": "18.85"
+          },
+          "pegRatio": {
+            "raw": 1.3,
+            "fmt": "1.30"
+          },
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.317,
+            "fmt": "1.32"
+          },
+          "enterpriseToEbitda": {
+            "raw": 15.435,
+            "fmt": "15.44"
+          },
+          "52WeekChange": {
+            "raw": -0.0407905,
+            "fmt": "-4.08%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 3.94,
+                  "fmt": "3.94"
+                },
+                "estimate": {
+                  "raw": 4.98,
+                  "fmt": "4.98"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 2.55,
+                  "fmt": "2.55"
+                },
+                "estimate": {
+                  "raw": 3.83,
+                  "fmt": "3.83"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 2.57,
+                  "fmt": "2.57"
+                },
+                "estimate": {
+                  "raw": 2.6,
+                  "fmt": "2.60"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 3.46,
+                  "fmt": "3.46"
+                },
+                "estimate": {
+                  "raw": 3.63,
+                  "fmt": "3.63"
+                }
+              }
+            ],
+            "currentQuarterEstimate": {
+              "raw": 5.16,
+              "fmt": "5.16"
+            },
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 68621200000,
+                  "fmt": "68.62B",
+                  "longFmt": "68,621,200,000"
+                },
+                "earnings": {
+                  "raw": 3538900000,
+                  "fmt": "3.54B",
+                  "longFmt": "3,538,900,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 78514000000,
+                  "fmt": "78.51B",
+                  "longFmt": "78,514,000,000"
+                },
+                "earnings": {
+                  "raw": 3411000000,
+                  "fmt": "3.41B",
+                  "longFmt": "3,411,000,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 78959500000,
+                  "fmt": "78.96B",
+                  "longFmt": "78,959,500,000"
+                },
+                "earnings": {
+                  "raw": 3141900000,
+                  "fmt": "3.14B",
+                  "longFmt": "3,141,900,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 90488300000,
+                  "fmt": "90.49B",
+                  "longFmt": "90,488,300,000"
+                },
+                "earnings": {
+                  "raw": 3138400000,
+                  "fmt": "3.14B",
+                  "longFmt": "3,138,400,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 22781100000,
+                  "fmt": "22.78B",
+                  "longFmt": "22,781,100,000"
+                },
+                "earnings": {
+                  "raw": 931600000,
+                  "fmt": "931.6M",
+                  "longFmt": "931,600,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 24750300000,
+                  "fmt": "24.75B",
+                  "longFmt": "24,750,300,000"
+                },
+                "earnings": {
+                  "raw": 597300000,
+                  "fmt": "597.3M",
+                  "longFmt": "597,300,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 26284600000,
+                  "fmt": "26.28B",
+                  "longFmt": "26,284,600,000"
+                },
+                "earnings": {
+                  "raw": 617700000,
+                  "fmt": "617.7M",
+                  "longFmt": "617,700,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 27057500000,
+                  "fmt": "27.06B",
+                  "longFmt": "27,057,500,000"
+                },
+                "earnings": {
+                  "raw": 790000000,
+                  "fmt": "790M",
+                  "longFmt": "790,000,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Naroda Road",
+          "city": "Ahmedabad",
+          "zip": "380025",
+          "country": "India",
+          "phone": "91 79 3013 8000",
+          "fax": "91 79 3013 8671",
+          "website": "http://www.arvind.com",
+          "industry": "Textile Industrial",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Arvind Limited, together with its subsidiaries, manufactures and supplies fabrics worldwide. It operates through Textiles, Branded Apparels, Arvind Internet, and Other segments. It offers denim; woven and knit fabrics; long cloths, dress materials, and blouse materials using cotton, polyester viscose blend, polyester cotton blend, etc.; and a range of advanced materials, such as coated fabrics, protective wear, composites, etc. for general industrial manufacturing and processing, infrastructure, transport, and energy and personal protection. The company also provides fiber reinforced polymers for construction, power and renewable/alternate energy sources, oil and gas, mass transportation, industrial, telecom, electronics and electricals, and other industries. In addition, it operates specialty retail stores that offer garments under various brand names, such as Mainstream, Excalibur Gant, and Flying Machine, as well as other licensed brands. Further, the company offers EPABX and one to many radio solutions; and heat exchangers, pressure vessels, reactors, DE aerators, columns and towers, economizers, oxygen/nitrogen/chlorine storage, centrifuges, dished ends, and expansion bellows for refineries, gas plant suppliers, petrochemicals, chemicals, dyes intermediaries, drugs and pharmaceuticals, power plants, and aluminum and copper industries. Additionally, it supplies water and waste water treatment plants for industrial process, and waste water and zero liquid discharge solutions; and produces and supplies organic pulses in Europe, the United States, and India, as well as engages in e-commerce business. Arvind Limited was founded in 1931 and is headquartered in Ahmedabad, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 364.75,
+            "fmt": "364.75"
+          },
+          "targetHighPrice": {
+            "raw": 624.0,
+            "fmt": "624.00"
+          },
+          "targetLowPrice": {
+            "raw": 311.0,
+            "fmt": "311.00"
+          },
+          "targetMeanPrice": {
+            "raw": 485.35,
+            "fmt": "485.35"
+          },
+          "targetMedianPrice": {
+            "raw": 493.0,
+            "fmt": "493.00"
+          },
+          "recommendationMean": {
+            "raw": 2.1,
+            "fmt": "2.10"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 17,
+            "fmt": "17",
+            "longFmt": "17"
+          },
+          "totalCash": {
+            "raw": 1676400000,
+            "fmt": "1.68B",
+            "longFmt": "1,676,400,000"
+          },
+          "totalCashPerShare": {
+            "raw": 6.493,
+            "fmt": "6.49"
+          },
+          "ebitda": {
+            "raw": 8609224704,
+            "fmt": "8.61B",
+            "longFmt": "8,609,224,704"
+          },
+          "totalDebt": {
+            "raw": 33219399680,
+            "fmt": "33.22B",
+            "longFmt": "33,219,399,680"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 100873502720,
+            "fmt": "100.87B",
+            "longFmt": "100,873,502,720"
+          },
+          "debtToEquity": {
+            "raw": 85.103,
+            "fmt": "85.10"
+          },
+          "revenuePerShare": {
+            "raw": 389.893,
+            "fmt": "389.89"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 46722400000,
+            "fmt": "46.72B",
+            "longFmt": "46,722,400,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.045,
+            "fmt": "4.50%"
+          },
+          "revenueGrowth": {
+            "raw": 0.159,
+            "fmt": "15.90%"
+          },
+          "grossMargins": {
+            "raw": 0.49412,
+            "fmt": "49.41%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.08535,
+            "fmt": "8.53%"
+          },
+          "operatingMargins": {
+            "raw": 0.055370003,
+            "fmt": "5.54%"
+          },
+          "profitMargins": {
+            "raw": 0.029059999,
+            "fmt": "2.91%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

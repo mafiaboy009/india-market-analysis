@@ -1,0 +1,207 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 65890520,
+            "fmt": "65.89M",
+            "longFmt": "65,890,520"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.21209,
+            "fmt": "21.21%"
+          },
+          "floatShares": {
+            "raw": 2010791,
+            "fmt": "2.01M",
+            "longFmt": "2,010,791"
+          },
+          "sharesOutstanding": {
+            "raw": 6761130,
+            "fmt": "6.76M",
+            "longFmt": "6,761,130"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -1.893918,
+            "fmt": "-1.89"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 18.787,
+            "fmt": "18.79"
+          },
+          "priceToBook": {
+            "raw": 0.37046894,
+            "fmt": "0.37"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.067,
+            "fmt": "-6.70%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 14369367,
+            "fmt": "14.37M",
+            "longFmt": "14,369,367"
+          },
+          "trailingEps": {
+            "raw": 2.125,
+            "fmt": "2.12"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.973,
+            "fmt": "0.97"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": -0.18936872,
+            "fmt": "-18.94%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "26, Industrial Area",
+          "address2": "Gandhi Nagar",
+          "city": "Bhilwara",
+          "zip": "311001",
+          "country": "India",
+          "phone": "91 14 8224 6601",
+          "industry": "Textile Industrial",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Bhilwara Spinners Limited engages in the trading of yarns and fabrics in India. The company was incorporated in 1980 and is based in Bhilwara, India. Bhilwara Spinners Limited is a subsidiary of Ahinsa Infrastructure And Developers Limited.",
+          "fullTimeEmployees": 2,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 6.96,
+            "fmt": "6.96"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 2397604,
+            "fmt": "2.4M",
+            "longFmt": "2,397,604"
+          },
+          "totalCashPerShare": {
+            "raw": 0.355,
+            "fmt": "0.35"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 7623239,
+            "fmt": "7.62M",
+            "longFmt": "7,623,239"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 67751264,
+            "fmt": "67.75M",
+            "longFmt": "67,751,264"
+          },
+          "debtToEquity": {
+            "raw": 5.992,
+            "fmt": "5.99"
+          },
+          "revenuePerShare": {
+            "raw": 10.02,
+            "fmt": "10.02"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1152023,
+            "fmt": "1.15M",
+            "longFmt": "1,152,023"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.062,
+            "fmt": "-6.20%"
+          },
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.02332,
+            "fmt": "2.33%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": -0.1379,
+            "fmt": "-13.79%"
+          },
+          "profitMargins": {
+            "raw": 0.21209,
+            "fmt": "21.21%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

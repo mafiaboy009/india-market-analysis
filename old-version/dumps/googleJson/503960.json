@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "503960",
+"exchange" : "BOM",
+"id": "704004",
+"t" : "503960",
+"e" : "BOM",
+"name" : "Bharat Bijlee Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:503960"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:503960"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:503960"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.24%",
+"annual" : "2.96%",
+"ttm" : "2.84%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.20%",
+"annual" : "1.25%",
+"ttm" : "2.77%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "2.74%",
+"ttm" : "3.98%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.96%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.94%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "922",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+80.40",
+"l" : "1,524.20",
+"cp" : "5.57",
+"ccol" : "chg",
+"op" : "1,450.00",
+"hi" : "1,535.05",
+"lo" : "1,447.05",
+"vo" : "9,856.00",
+"avvo" : "",
+"hi52" : "1,593.05",
+"lo52" : "805.00",
+"mc" : "8.66B",
+"pe" : "38.49",
+"fwpe" : "",
+"beta" : "",
+"eps" : "39.60",
+"dy" : "",
+"ldiv" : "",
+"shares" : "5.65M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "704004",
+"name" : "Bharat Bijlee Ltd.",
+"t" : "503960",
+"e" : "BOM",
+"l" : "1,524.20",
+"c" : "+80.40",
+"mc" : "8.66B",
+"cp" : "5.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3888975",
+"name" : "Ge T\u0026D India Ltd",
+"t" : "GET\u0026D",
+"e" : "NSE",
+"l" : "408.00",
+"c" : "-5.10",
+"mc" : "105.24B",
+"cp" : "-1.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5296497",
+"name" : "ABB India Ltd",
+"t" : "ABB",
+"e" : "NSE",
+"l" : "1,520.00",
+"c" : "-3.25",
+"mc" : "321.75B",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9928106",
+"name" : "ECE Industries Ltd",
+"t" : "ECEIND",
+"e" : "NSE",
+"l" : "362.85",
+"c" : "+10.80",
+"mc" : "2.65B",
+"cp" : "3.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1659606",
+"name" : "Marsons Ltd",
+"t" : "517467",
+"e" : "BOM",
+"l" : "4.72",
+"c" : "-0.14",
+"mc" : "117.04M",
+"cp" : "-2.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15490302",
+"name" : "Emco Ltd.",
+"t" : "EMCO",
+"e" : "NSE",
+"l" : "17.25",
+"c" : "-0.30",
+"mc" : "1.17B",
+"cp" : "-1.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8257960",
+"name" : "Tarapur Transformers Ltd",
+"t" : "TARAPUR",
+"e" : "NSE",
+"l" : "6.45",
+"c" : "-0.05",
+"mc" : "125.78M",
+"cp" : "-0.77",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15338302",
+"name" : "Indo Tech Transformers Limited",
+"t" : "INDOTECH",
+"e" : "NSE",
+"l" : "198.80",
+"c" : "+1.45",
+"mc" : "2.11B",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1104016979417339",
+"name" : "Schneider Electric Infrastructure Ltd",
+"t" : "SCHNEIDER",
+"e" : "NSE",
+"l" : "112.50",
+"c" : "-1.25",
+"mc" : "26.84B",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5491482",
+"name" : "Ujaas Energy Ltd",
+"t" : "UJAAS",
+"e" : "NSE",
+"l" : "20.70",
+"c" : "+0.40",
+"mc" : "4.14B",
+"cp" : "1.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6476162",
+"name" : "R T S Power Corpn Ltd",
+"t" : "531215",
+"e" : "BOM",
+"l" : "58.00",
+"c" : "+1.00",
+"mc" : "473.77M",
+"cp" : "1.75",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "No. 2 MIDC Thane-Belapur Road, Airoli, MUMBAI, 400025, India",
+"phone": "+91-22-24306237",
+"fax": "+91-22-24370624",
+"url": "http:\u002F\u002Fwww.bharatbijlee.com\u002F",
+"overview" : "Bharat Bijlee Limited offers electric motors and transformers. The Company\u0027s segments are Power Systems and Industrial Systems. The Company focuses on the electrical engineering industry in India. The Power Systems segment consists of the design, commissioning and marketing of power transformers, and engineering, procurement and construction (EPC) projects for electrical substations, including delivery, rectification, commissioning, and servicing of transformers and marketing of maintenance products. The Industrial Systems segment consists of the development, marketing and manufacture of a range of standard and customized electric motors, and magnet technology machines and the engineering and supply of alternating current (AC) variable-speed drives and drive systems. Its Projects Division focuses on the design, engineering supply, installation, testing and commissioning of turnkey projects for power system study, illumination systems, and testing and commissioning."
+} ]
+, "management" : [
+{
+"name" : "Nikhil Jaisingh Danani",
+"title" : "Executive Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Nakul Prahlad Mehta",
+"title" : "Executive Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Durgesh N. Nagarkar",
+"title" : "Company Secretary, Senior General Manager - Legal, Compliance Officer"
+}
+,
+{
+"name" : "Sandeep M. Tilak",
+"title" : "Vice President - Finance \u0026 Corporate Strategy"
+}
+,
+{
+"name" : "Shome N. Danani",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Prakash Vasantlal Mehta",
+"age" : "73",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Mahnaz A. Curmally",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Ravishanker Prasad",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sanjiv N. Shah",
+"age" : "57",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Jairaj C. Thacker",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

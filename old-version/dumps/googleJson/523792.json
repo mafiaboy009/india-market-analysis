@@ -1,0 +1,297 @@
+
+ [
+{
+"symbol" : "523792",
+"exchange" : "BOM",
+"id": "770456",
+"t" : "523792",
+"e" : "BOM",
+"name" : "Mazda Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=MAZD.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:523792"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:523792"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:523792"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.11%",
+"annual" : "10.77%",
+"ttm" : "10.53%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.14%",
+"annual" : "9.42%",
+"ttm" : "9.70%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.81%",
+"ttm" : "12.85%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.89%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.27%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "211",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.40",
+"l" : "384.90",
+"cp" : "0.89",
+"ccol" : "chg",
+"op" : "385.00",
+"hi" : "390.00",
+"lo" : "378.00",
+"vo" : "7,366.00",
+"avvo" : "",
+"hi52" : "525.15",
+"lo52" : "305.20",
+"mc" : "1.64B",
+"pe" : "16.36",
+"fwpe" : "",
+"beta" : "",
+"eps" : "23.52",
+"dy" : "1.90",
+"ldiv" : "7.30",
+"shares" : "4.26M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "770456",
+"name" : "Mazda Ltd",
+"t" : "523792",
+"e" : "BOM",
+"l" : "384.90",
+"c" : "+3.40",
+"mc" : "1.64B",
+"cp" : "0.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "850904612182548",
+"name" : "MR.Organisation Ltd",
+"t" : "MRO",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7841120",
+"name" : "Ingersoll Rand India Limited",
+"t" : "INGERRAND",
+"e" : "NSE",
+"l" : "722.95",
+"c" : "-6.20",
+"mc" : "22.77B",
+"cp" : "-0.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "324729",
+"name" : "ELGI Equipments Ltd",
+"t" : "ELGIEQUIP",
+"e" : "NSE",
+"l" : "313.80",
+"c" : "+3.55",
+"mc" : "49.76B",
+"cp" : "1.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12975418",
+"name" : "Kirloskar Brothers Limited",
+"t" : "KIRLOSBROS",
+"e" : "NSE",
+"l" : "327.50",
+"c" : "-4.65",
+"mc" : "25.98B",
+"cp" : "-1.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7534003",
+"name" : "Jain Irrigation Systems Limited",
+"t" : "JISLJALEQS",
+"e" : "NSE",
+"l" : "120.00",
+"c" : "+2.00",
+"mc" : "60.71B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715576",
+"name" : "GMM Pfaudler Ltd.",
+"t" : "505255",
+"e" : "BOM",
+"l" : "720.00",
+"c" : "+5.20",
+"mc" : "10.47B",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8955381",
+"name" : "GlaxoSmithKline Consumer Healthcare Ltd",
+"t" : "GSKCONS",
+"e" : "NSE",
+"l" : "6,800.00",
+"c" : "+11.35",
+"mc" : "285.50B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705514",
+"name" : "Kirloskar Pneumatic Company Ltd",
+"t" : "505283",
+"e" : "BOM",
+"l" : "880.10",
+"c" : "-5.90",
+"mc" : "11.30B",
+"cp" : "-0.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8274595",
+"name" : "Roto Pumps Limited",
+"t" : "517500",
+"e" : "BOM",
+"l" : "98.25",
+"c" : "-0.50",
+"mc" : "1.51B",
+"cp" : "-0.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15667599",
+"name" : "KSB Pumps Limited",
+"t" : "KSBPUMPS",
+"e" : "NSE",
+"l" : "799.00",
+"c" : "+7.75",
+"mc" : "27.89B",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "650\u002F1, Panchwati Second Lane, Ambawadi, AHMEDABAD, 380006, India",
+"phone": "+91-79-40007000",
+"fax": "+91-79-26565605",
+"url": "http:\u002F\u002Fwww.mazdalimited.com\u002F",
+"overview" : "Mazda Limited is an India-based engineering company. The Company is engaged in the manufacture of Engineering Goods and the manufacturing of food products, such as food color, and various fruit jams and fruit mix powders. The Company operates through two segments: Engineering Division and Food division. The Company is also engaged in the business of manufacturing and sales of Vacuum Systems, Condensers, Steam Jet Ejectors, low pressure (L.P.) Heaters, high pressure (H.P.) Heaters, Evaporators and Pollution Control Equipments. The Company\u0027s geographical segments include Domestic and Overseas. The Company specializes in supplying equipments to various Industries, such as Power, Fertilizers, Chemicals and Bulk Drugs. The Company also caters to the needs of Refineries\u003B Sugar and Food industries\u003B Pulp and Paper, and others. The Company sells its products in the domestic, as well as export markets. The Company has four manufacturing plants, which are located in Ahmedabad, Gujarat State."
+} ]
+, "management" : [
+{
+"name" : "Nishith C. Kayasth",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sorab R. Mody",
+"age" : "66",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Cyrus J. Bhagwagar",
+"title" : "Financial Controller"
+}
+,
+{
+"name" : "Percy X. Avari",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Shanaya Mody Khatua",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Mohib Nomanbhai Khericha",
+"age" : "62",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Houtoxi F. Contractor",
+"age" : "59",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Samuel W. Croll III",
+"age" : "63",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sheila S. Mody",
+"age" : "65",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Nilesh C. Mankiwala",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

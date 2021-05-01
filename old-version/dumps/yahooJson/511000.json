@@ -1,0 +1,196 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 12277046,
+            "fmt": "12.28M",
+            "longFmt": "12,277,046"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.63466,
+            "fmt": "-63.47%"
+          },
+          "floatShares": {
+            "raw": 182390,
+            "fmt": "182.39k",
+            "longFmt": "182,390"
+          },
+          "sharesOutstanding": {
+            "raw": 2552640,
+            "fmt": "2.55M",
+            "longFmt": "2,552,640"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 65.54,
+            "fmt": "65.54"
+          },
+          "priceToBook": {
+            "raw": 0.087122366,
+            "fmt": "0.09"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -1196845,
+            "fmt": "-1.2M",
+            "longFmt": "-1,196,845"
+          },
+          "trailingEps": {
+            "raw": -0.444,
+            "fmt": "-0.44"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 6.51,
+            "fmt": "6.51"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.1593206,
+            "fmt": "15.93%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "37, National Storage Building",
+          "address2": "Plot No. 424-B Nr. Johnson & Johnson Building S. B. Road, Mahim (West)",
+          "city": "Mumbai",
+          "zip": "400016",
+          "country": "India",
+          "industry": "Investment Brokerage - National",
+          "sector": "Financial",
+          "longBusinessSummary": "Madhusudan Securities Limited engages in securities trading business. The company was incorporated in 1983 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 5.71,
+            "fmt": "5.71"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 86870,
+            "fmt": "86.87k",
+            "longFmt": "86,870"
+          },
+          "totalCashPerShare": {
+            "raw": 0.054,
+            "fmt": "0.05"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 3235624,
+            "fmt": "3.24M",
+            "longFmt": "3,235,624"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1885816,
+            "fmt": "1.89M",
+            "longFmt": "1,885,816"
+          },
+          "debtToEquity": {
+            "raw": 1.858,
+            "fmt": "1.86"
+          },
+          "revenuePerShare": {
+            "raw": 0.699,
+            "fmt": "0.70"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 58501,
+            "fmt": "58.5k",
+            "longFmt": "58,501"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.975,
+            "fmt": "-97.50%"
+          },
+          "grossMargins": {
+            "raw": 0.022880001,
+            "fmt": "2.29%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": -0.71356004,
+            "fmt": "-71.36%"
+          },
+          "profitMargins": {
+            "raw": -0.63466,
+            "fmt": "-63.47%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

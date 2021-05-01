@@ -1,0 +1,291 @@
+
+// [
+{
+"symbol" : "532796",
+"exchange" : "BOM",
+"id": "713696",
+"t" : "532796",
+"e" : "BOM",
+"name" : "Lumax Auto Technologies Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532796"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532796"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532796"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.37%",
+"annual" : "3.85%",
+"ttm" : "4.76%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.78%",
+"annual" : "4.46%",
+"ttm" : "5.99%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.07%",
+"ttm" : "8.34%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.88%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.58%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "723",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+45.20",
+"l" : "869.75",
+"cp" : "5.48",
+"ccol" : "chg",
+"op" : "830.50",
+"hi" : "876.85",
+"lo" : "825.00",
+"vo" : "3,992.00",
+"avvo" : "",
+"hi52" : "931.85",
+"lo52" : "420.00",
+"mc" : "11.89B",
+"pe" : "28.07",
+"fwpe" : "",
+"beta" : "",
+"eps" : "30.98",
+"dy" : "0.54",
+"ldiv" : "4.70",
+"shares" : "13.63M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "713696",
+"name" : "Lumax Auto Technologies Limited",
+"t" : "532796",
+"e" : "BOM",
+"l" : "869.75",
+"c" : "+45.20",
+"mc" : "11.89B",
+"cp" : "5.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6425462",
+"name" : "LML Limited",
+"t" : "LML",
+"e" : "NSE",
+"l" : "8.70",
+"c" : "-0.15",
+"mc" : "709.26M",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2125922",
+"name" : "Lumax Automotive Systems Limited",
+"t" : "LUMAXAUTO",
+"e" : "NSE",
+"l" : "12.90",
+"c" : "",
+"mc" : "175.85M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8564924",
+"name" : "Dynamatic Technologies Limited",
+"t" : "DYNAMATECH",
+"e" : "NSE",
+"l" : "1,914.00",
+"c" : "-33.65",
+"mc" : "12.14B",
+"cp" : "-1.73",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12351206",
+"name" : "Competent Automobiles Co Ltd",
+"t" : "531041",
+"e" : "BOM",
+"l" : "274.00",
+"c" : "+3.50",
+"mc" : "1.68B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13340222",
+"name" : "Omax Autos Limited",
+"t" : "OMAXAUTO",
+"e" : "NSE",
+"l" : "170.00",
+"c" : "-1.95",
+"mc" : "3.61B",
+"cp" : "-1.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "704003",
+"name" : "Munjal Auto Industries Ltd",
+"t" : "MUNJALAU",
+"e" : "NSE",
+"l" : "79.50",
+"c" : "+2.70",
+"mc" : "7.86B",
+"cp" : "3.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14599486",
+"name" : "Rico Auto Industries Limited",
+"t" : "RICOAUTO",
+"e" : "NSE",
+"l" : "82.60",
+"c" : "-0.40",
+"mc" : "11.13B",
+"cp" : "-0.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10142329",
+"name" : "Sundaram-Clayton Limited (Parent)",
+"t" : "SUNCLAYLTD",
+"e" : "NSE",
+"l" : "4,921.00",
+"c" : "+86.10",
+"mc" : "100.54B",
+"cp" : "1.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9851757",
+"name" : "Jbm Auto Ltd",
+"t" : "JBMA",
+"e" : "NSE",
+"l" : "442.05",
+"c" : "+1.20",
+"mc" : "17.91B",
+"cp" : "0.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6937233",
+"name" : "Machino Plastics Limited",
+"t" : "523248",
+"e" : "BOM",
+"l" : "232.50",
+"c" : "+1.60",
+"mc" : "1.44B",
+"cp" : "0.69",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "W 230, S Block, M I D C Bhosari, PUNE, 411026, India",
+"phone": "+91-20-66304617",
+"fax": "+91-20-66304624",
+"url": "http:\u002F\u002Fwww.lumaxautotech.com\u002F",
+"overview" : "Lumax Auto Technologies Limited is an automotive company, which is engaged in the aftermarket sales of automotive parts. The Company is engaged in the business of dealing and manufacturing of automotive lighting equipment and automotive components. The Company\u0027s principal products\u002Fservices include automotive lamps, plastic moulded parts, and frame chassis. It manufactures automotive parts, including sheet metal parts, fabricated assemblies and tubular parts, for two wheeler and three wheeler industries. It supplies its products to original equipment manufacturers (OEMs) in India and across the world. It manufactures various products, which include head lamp, tail lamp, seat frame and adjustor motor. The Company also offers silencers for scooter and scooterette\u003B petrol tanks for scooter and scooterette\u003B sheet metal and tubular welded parts, such as handle bar assy, side stand, main stand, footrest assy, fork assy and number plate\u003B gear shift lever\u003B parking brake, and lighting parts."
+} ]
+, "management" : [
+{
+"name" : "Dhanesh Kumar Jain",
+"title" : "Whole-Time Chairman of the Board"
+}
+,
+{
+"name" : "Swapnal Patane",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anmol Jain",
+"age" : "35",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Ashish Dubey",
+"title" : "Head - Finance"
+}
+,
+{
+"name" : "Deepak Jain",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Usha Jain",
+"age" : "66",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Roop Salotra",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Sandeep Dinodia",
+"age" : "52",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Dhiraj Dhar Gupta",
+"age" : "64",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

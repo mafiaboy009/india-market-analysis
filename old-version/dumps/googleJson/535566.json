@@ -1,0 +1,234 @@
+
+ [
+{
+"symbol" : "535566",
+"exchange" : "BOM",
+"id": "1064394467381701",
+"t" : "535566",
+"e" : "BOM",
+"name" : "KIFS Financial Services Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KIFS.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:535566"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:535566"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:535566"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "47.85%",
+"annual" : "39.53%",
+"ttm" : "44.47%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "88.52%",
+"annual" : "91.27%",
+"ttm" : "88.18%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "93.03%",
+"ttm" : "90.05%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.54%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.81%",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "101.00",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "135.00",
+"lo52" : "26.05",
+"mc" : "1.09B",
+"pe" : "33.19",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.04",
+"dy" : "0.89",
+"ldiv" : "0.90",
+"shares" : "10.82M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1064394467381701",
+"name" : "KIFS Financial Services Ltd",
+"t" : "535566",
+"e" : "BOM",
+"l" : "101.00",
+"c" : "0.00",
+"mc" : "1.09B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "318591033937195",
+"name" : "Econo Trade India Ltd",
+"t" : "538708",
+"e" : "BOM",
+"l" : "10.14",
+"c" : "0.00",
+"mc" : "189.31M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4903645",
+"name" : "Visagar Financial Services Ltd",
+"t" : "531025",
+"e" : "BOM",
+"l" : "0.87",
+"c" : "0.00",
+"mc" : "28.28M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3445325",
+"name" : "Adinath Exim Resources Ltd",
+"t" : "532056",
+"e" : "BOM",
+"l" : "30.00",
+"c" : "-1.05",
+"mc" : "123.12M",
+"cp" : "-3.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "138715870326043",
+"name" : "Money Masters Leasing and Finance Ltd",
+"t" : "535910",
+"e" : "BOM",
+"l" : "4.55",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "455734863058654",
+"name" : "SPS Finquest Ltd",
+"t" : "538382",
+"e" : "BOM",
+"l" : "64.15",
+"c" : "0.00",
+"mc" : "793.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8456050",
+"name" : "Unisys Softwares and Holding Indus",
+"t" : "531831",
+"e" : "BOM",
+"l" : "22.90",
+"c" : "0.00",
+"mc" : "526.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "809162493859917",
+"name" : "Muthoot Capital Services Ltd",
+"t" : "MUTHOOTCAP",
+"e" : "NSE",
+"l" : "764.80",
+"c" : "+15.35",
+"mc" : "12.62B",
+"cp" : "2.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16199947",
+"name" : "Can Fin Homes Ltd",
+"t" : "CANFINHOME",
+"e" : "NSE",
+"l" : "539.00",
+"c" : "+15.35",
+"mc" : "71.54B",
+"cp" : "2.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1026704",
+"name" : "Magma Fincorp Ltd",
+"t" : "MAGMA",
+"e" : "NSE",
+"l" : "165.05",
+"c" : "+3.15",
+"mc" : "39.09B",
+"cp" : "1.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11124528",
+"name" : "SREI Infrastructure Finance Limited",
+"t" : "SREINFRA",
+"e" : "NSE",
+"l" : "83.25",
+"c" : "+1.55",
+"mc" : "41.73B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": ", AHMEDABAD, 380006, India",
+"phone": "+91-79-30000320",
+"fax": "+91-79-26403717",
+"overview" : "KIFS Financial Services Limited is an India-based non banking financial company. The Company is engaged in the loan financing activities. Its products and services include interest income. Interest income includes initial public offering (IPO) retail funding and loan against shares."
+} ]
+,"moreresources" : [
+]
+}]

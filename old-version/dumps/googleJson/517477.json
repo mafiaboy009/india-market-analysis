@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "517477",
+"exchange" : "BOM",
+"id": "7067660",
+"t" : "517477",
+"e" : "BOM",
+"name" : "Elnet Technologies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:517477"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:517477"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:517477"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002713)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "23.27%",
+"annual" : "34.63%",
+"ttm" : "25.47%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "31.85%",
+"annual" : "43.18%",
+"ttm" : "35.48%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "57.73%",
+"ttm" : "50.89%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "10.22%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.87%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "14",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+6.20",
+"l" : "165.75",
+"cp" : "3.89",
+"ccol" : "chg",
+"op" : "162.45",
+"hi" : "168.50",
+"lo" : "155.00",
+"vo" : "2,433.00",
+"avvo" : "",
+"hi52" : "204.00",
+"lo52" : "105.30",
+"mc" : "266.95M",
+"pe" : "12.30",
+"fwpe" : "",
+"beta" : "",
+"eps" : "13.47",
+"dy" : "0.84",
+"ldiv" : "1.40",
+"shares" : "4.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7067660",
+"name" : "Elnet Technologies Ltd",
+"t" : "517477",
+"e" : "BOM",
+"l" : "165.75",
+"c" : "+6.20",
+"mc" : "266.95M",
+"cp" : "3.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "595279738366813",
+"name" : "HEC Infra Projects Ltd",
+"t" : "HECINFRA",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "2491429",
+"name" : "Venus Universal Ltd",
+"t" : "530769",
+"e" : "BOM",
+"l" : "0.17",
+"c" : "0.00",
+"mc" : "8.15M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11425233",
+"name" : "Linaks Microelectronics Ltd",
+"t" : "517463",
+"e" : "BOM",
+"l" : "0.50",
+"c" : "0.00",
+"mc" : "8.67M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "209384034512125",
+"name" : "Kaarya Facilities \u0026 Services Ltd",
+"t" : "540756",
+"e" : "BOM",
+"l" : "59.00",
+"c" : "-1.65",
+"mc" : "274.25M",
+"cp" : "-2.72",
+"ccol" : "chr"
+}
+,
+{
+"id" : "341021779340070",
+"name" : "Arambhan Hospitality Services Ltd",
+"t" : "539403",
+"e" : "BOM",
+"l" : "39.15",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9928106",
+"name" : "ECE Industries Ltd",
+"t" : "ECEIND",
+"e" : "NSE",
+"l" : "362.85",
+"c" : "+10.80",
+"mc" : "2.65B",
+"cp" : "3.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6698190",
+"name" : "Bajaj Electricals Ltd",
+"t" : "BAJAJELEC",
+"e" : "NSE",
+"l" : "531.40",
+"c" : "+25.80",
+"mc" : "54.21B",
+"cp" : "5.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3061589",
+"name" : "Power Grid Corporation of India Limited",
+"t" : "POWERGRID",
+"e" : "NSE",
+"l" : "196.05",
+"c" : "+2.80",
+"mc" : "1.03T",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15380646",
+"name" : "Nu Tek India Limited",
+"t" : "NUTEK",
+"e" : "NSE",
+"l" : "1.10",
+"c" : "0.00",
+"mc" : "162.58M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5572234",
+"name" : "Spice Mobility Ltd",
+"t" : "SPICEMOBI",
+"e" : "NSE",
+"l" : "18.10",
+"c" : "-0.35",
+"mc" : "4.16B",
+"cp" : "-1.90",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Ts 140 Block 2 \u0026 9 Rajiv Gandhi Salai, Taramani, CHENNAI, 600113, India",
+"phone": "+91-44-22541337",
+"fax": "+91-44-22541955",
+"url": "http:\u002F\u002Fwww.elnettechnologies.com\u002F",
+"overview" : "Elnet Technologies Limited is an India-based company, which is engaged in providing infrastructure services to software and business process outsourcing industries. The Company also provides renting of office space. The Company is engaged in developing and managing Software Technology Park in India and also provides infrastructure to information technology (IT) and IT enabled service (ITES) industry. The Company monitors and controls air-conditioning\u003B elevators\u003B fire protection system with hydrant and smoke detectors\u003B power back up\u003B centralized uninterruptible power system (UPS) support for the entire system operation\u003B peripheral security-man power, building security-closed circuit television (CCTV) and access control, housekeeping, automated multilevel car parking facility, around the clock maintenance, cafeteria and public call office (PCO). The Company\u0027s subsidiary is Elnet Software City Limited."
+} ]
+, "management" : [
+{
+"name" : "R. Sudalaikannan",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "E. Kamakshi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "T. Joswa Johnson",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Unnamalai Thiagarajan",
+"age" : "57",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "B. Evanesan",
+"title" : "Director"
+}
+,
+{
+"name" : "K. Padmanaban",
+"age" : "55",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "C. Ramachandran",
+"age" : "77",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "J. Ravi",
+"age" : "60",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "G. Chellakrishna",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

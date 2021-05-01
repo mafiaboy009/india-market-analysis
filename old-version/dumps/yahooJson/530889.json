@@ -1,0 +1,202 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 111665000,
+            "fmt": "111.67M",
+            "longFmt": "111,665,000"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "floatShares": {
+            "raw": 298488420,
+            "fmt": "298.49M",
+            "longFmt": "298,488,420"
+          },
+          "sharesOutstanding": {
+            "raw": 500000000,
+            "fmt": "500M",
+            "longFmt": "500,000,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.022882,
+            "fmt": "1.02"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 0.748,
+            "fmt": "0.75"
+          },
+          "priceToBook": {
+            "raw": 0.25401068,
+            "fmt": "0.25"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -67833952,
+            "fmt": "-67.83M",
+            "longFmt": "-67,833,952"
+          },
+          "trailingEps": {
+            "raw": -0.12,
+            "fmt": "-0.12"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 16.481,
+            "fmt": "16.48"
+          },
+          "enterpriseToEbitda": {
+            "raw": -30.66,
+            "fmt": "-30.66"
+          },
+          "52WeekChange": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Morya Landmark II",
+          "address2": "No. 102, First Floor Off New Link Road Andheri (West)",
+          "city": "Mumbai",
+          "zip": "400053",
+          "country": "India",
+          "phone": "91 22 4972 0369",
+          "website": "http://www.alkaindia.com",
+          "industry": "Textile Industrial",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Alka India Limited provides textile products. The company textile products comprise cotton, yarn, fabrics, etc. Alka India Limited was incorporated in 1993 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 0.19,
+            "fmt": "0.19"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 1480000,
+            "fmt": "1.48M",
+            "longFmt": "1,480,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.002,
+            "fmt": "0"
+          },
+          "ebitda": {
+            "raw": -3642030,
+            "fmt": "-3.64M",
+            "longFmt": "-3,642,030"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 6775292,
+            "fmt": "6.78M",
+            "longFmt": "6,775,292"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.012,
+            "fmt": "0.01"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 672882,
+            "fmt": "672.88k",
+            "longFmt": "672,882"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.06448,
+            "fmt": "6.45%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.53755003,
+            "fmt": "-53.76%"
+          },
+          "operatingMargins": {
+            "raw": -0.68146,
+            "fmt": "-68.15%"
+          },
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

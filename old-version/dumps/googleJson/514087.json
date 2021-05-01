@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "514087",
+"exchange" : "BOM",
+"id": "14211316",
+"t" : "514087",
+"e" : "BOM",
+"name" : "P B M Polytex Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=PBMP.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:514087"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:514087"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:514087"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q2 (Jun \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-0.25%",
+"annual" : "3.67%",
+"ttm" : "1.89%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "0.63%",
+"annual" : "4.19%",
+"ttm" : "3.59%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.15%",
+"ttm" : "5.68%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.23%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.07%",
+"ttm" : ""
+}
+]
+, "c" : "+0.35",
+"l" : "90.65",
+"cp" : "0.39",
+"ccol" : "chg",
+"op" : "91.60",
+"hi" : "91.60",
+"lo" : "88.55",
+"vo" : "4,284.00",
+"avvo" : "",
+"hi52" : "123.80",
+"lo52" : "77.05",
+"mc" : "746.07M",
+"pe" : "36.56",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.48",
+"dy" : "3.31",
+"ldiv" : "3.00",
+"shares" : "8.13M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "14211316",
+"name" : "P B M Polytex Ltd",
+"t" : "514087",
+"e" : "BOM",
+"l" : "90.65",
+"c" : "+0.35",
+"mc" : "746.07M",
+"cp" : "0.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5004145",
+"name" : "Kallam Spinning Mills Ltd",
+"t" : "530201",
+"e" : "BOM",
+"l" : "31.50",
+"c" : "+0.75",
+"mc" : "1.35B",
+"cp" : "2.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15905202",
+"name" : "Gtn Textiles Ltd",
+"t" : "GTNTEX",
+"e" : "NSE",
+"l" : "20.05",
+"c" : "+0.60",
+"mc" : "229.85M",
+"cp" : "3.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5980140",
+"name" : "Bannari Amman Spinning Mills Ltd.",
+"t" : "BASML",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "+5.95",
+"mc" : "4.41B",
+"cp" : "2.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7304025",
+"name" : "Suryalata Spinning Mills Ltd",
+"t" : "514138",
+"e" : "BOM",
+"l" : "159.00",
+"c" : "-1.20",
+"mc" : "678.45M",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3091778",
+"name" : "Patspin India Ltd",
+"t" : "PATSPINLTD",
+"e" : "NSE",
+"l" : "21.85",
+"c" : "+0.30",
+"mc" : "681.93M",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7933976",
+"name" : "Deepak Spinners Ltd",
+"t" : "514030",
+"e" : "BOM",
+"l" : "85.80",
+"c" : "-3.45",
+"mc" : "616.85M",
+"cp" : "-3.87",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12609898",
+"name" : "Alps Industries Ltd.",
+"t" : "ALPSINDUS",
+"e" : "NSE",
+"l" : "4.40",
+"c" : "-0.20",
+"mc" : "170.25M",
+"cp" : "-4.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14208119",
+"name" : "Soma Textiles and Industries Ltd",
+"t" : "SOMATEX",
+"e" : "NSE",
+"l" : "14.25",
+"c" : "-0.15",
+"mc" : "467.47M",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2031304",
+"name" : "Sri Ganapathy Mills Company Ltd",
+"t" : "521236",
+"e" : "BOM",
+"l" : "3.08",
+"c" : "0.00",
+"mc" : "20.32M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2805411",
+"name" : "Lambodhara Textiles Ltd",
+"t" : "590075",
+"e" : "BOM",
+"l" : "79.65",
+"c" : "+1.75",
+"mc" : "732.83M",
+"cp" : "2.25",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "8th floor Rama Krishna Chambers, Productivity Road Alkapuri Baroda, Baroda, 300007, India",
+"phone": "+91-265-2333586",
+"fax": "+91-265-2338979",
+"url": "http:\u002F\u002Fpbmpolytex.com\u002F",
+"overview" : "PBM Polytex Limited is an India-based company, which is engaged in the business of manufacturing and processing of yarn. The Company also generates power at windmills. The Company offers Cotton Yarn. The Company manufactures a range of products from Ne 24\u0027s to Ne 80\u0027s, both single and two-for-one (TFO) doubled yarns from approximately 25 raw material mixes. The Company offers raw cotton, such as Shankar 6, and imported varieties, such as Egyptian-Giza, Californian Acala SJV, USA Pima, Israel Pima, Peruvian PIMA, Sudan VS, Australian, Central American SJV, West African and Turkish. Its yarns are used in applications, such as knitting, weaving, gassing and mercerizing. The Company\u0027s manufacturing units are located in Anand, Gujarat, and Chhindwara, Madhya Pradesh. The Company has approximately three windmills located in Jamnagar, Gujarat. It also has a windmill located in Kutch, Gujarat."
+} ]
+, "management" : [
+{
+"name" : "Vikash Patodia",
+"title" : "Senior President"
+}
+,
+{
+"name" : "Amit Patodia",
+"title" : "Senior President, Chief Executive Officer"
+}
+,
+{
+"name" : "Mukesh Prajapat",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Gopal Patodia",
+"age" : "67",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Mohan Kumar Patodia",
+"age" : "66",
+"title" : "Chief Financial Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Krishan Kumar Patodia",
+"age" : "69",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Vinita S. Modi",
+"title" : "Director"
+}
+,
+{
+"name" : "Hari Prasad Siotia",
+"age" : "80",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "M. L. Bagaria",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Brijbhushanlal Kabra",
+"age" : "77",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

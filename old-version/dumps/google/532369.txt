@@ -1,0 +1,284 @@
+
+// [
+{
+"symbol" : "532369",
+"exchange" : "BOM",
+"id": "715532",
+"t" : "532369",
+"e" : "BOM",
+"name" : "Ramco Industries Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532369"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532369"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532369"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.38%",
+"annual" : "5.80%",
+"ttm" : "6.10%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.08%",
+"annual" : "9.71%",
+"ttm" : "7.07%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.47%",
+"ttm" : "8.40%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.75%",
+"ttm" : "2.72%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.82%",
+"ttm" : "12.28%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,273",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.25",
+"l" : "256.95",
+"cp" : "0.49",
+"ccol" : "chg",
+"op" : "266.80",
+"hi" : "266.80",
+"lo" : "251.00",
+"vo" : "19,724.00",
+"avvo" : "",
+"hi52" : "326.10",
+"lo52" : "197.00",
+"mc" : "22.34B",
+"pe" : "10.12",
+"fwpe" : "",
+"beta" : "",
+"eps" : "25.40",
+"dy" : "0.19",
+"ldiv" : "0.50",
+"shares" : "86.66M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715532",
+"name" : "Ramco Industries Ltd.",
+"t" : "532369",
+"e" : "BOM",
+"l" : "256.95",
+"c" : "+1.25",
+"mc" : "22.34B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13087651",
+"name" : "Everest Industries Limited",
+"t" : "EVERESTIND",
+"e" : "NSE",
+"l" : "560.00",
+"c" : "+11.45",
+"mc" : "8.71B",
+"cp" : "2.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3089151",
+"name" : "IVP Ltd",
+"t" : "IVP",
+"e" : "NSE",
+"l" : "217.20",
+"c" : "+7.70",
+"mc" : "2.24B",
+"cp" : "3.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13137259",
+"name" : "Time Technoplast Limited",
+"t" : "TIMETECHNO",
+"e" : "NSE",
+"l" : "182.20",
+"c" : "-1.15",
+"mc" : "41.40B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2134116",
+"name" : "SPML Infra Ltd",
+"t" : "SPMLINFRA",
+"e" : "NSE",
+"l" : "114.05",
+"c" : "-4.80",
+"mc" : "4.21B",
+"cp" : "-4.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "362071701943394",
+"name" : "Bansal Roofing Products Ltd",
+"t" : "538546",
+"e" : "BOM",
+"l" : "58.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "372507512887208",
+"name" : "A Infrastructure Ltd",
+"t" : "539620",
+"e" : "BOM",
+"l" : "66.00",
+"c" : "+3.00",
+"mc" : "703.65M",
+"cp" : "4.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15829063",
+"name" : "Indian Hume Pipe Company Ltd",
+"t" : "INDIANHUME",
+"e" : "NSE",
+"l" : "380.00",
+"c" : "-0.20",
+"mc" : "18.32B",
+"cp" : "-0.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715166",
+"name" : "EPC Industries Ltd.",
+"t" : "523754",
+"e" : "BOM",
+"l" : "156.95",
+"c" : "+0.45",
+"mc" : "4.35B",
+"cp" : "0.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14881101",
+"name" : "Century Textile and Industries Ltd",
+"t" : "CENTURYTEX",
+"e" : "NSE",
+"l" : "1,216.05",
+"c" : "+21.35",
+"mc" : "135.82B",
+"cp" : "1.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10700680",
+"name" : "Kesoram Industries Limited",
+"t" : "KESORAMIND",
+"e" : "NSE",
+"l" : "132.55",
+"c" : "-0.40",
+"mc" : "16.59B",
+"cp" : "-0.30",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Auras Corporate Centre 98-A, Dr. Radhakrishnan Rd, Mylapore, CHENNAI, 600103, India",
+"phone": "+91-44-28478585",
+"fax": "+91-44-28478597",
+"url": "http:\u002F\u002Fwww.ramcoindltd.com\u002F",
+"overview" : "Ramco Industries Limited is an India-based company, which manufactures Fiber Cement (FC) sheets and Calcium Silicate Boards (CSBs). The Company\u0027s segments are building products, textile and power generation from wind mills. The Company\u0027s cement clinker grinding (CCG) plant is located at Kharagpur, West Bengal. The Company operates approximately 10 wind mills with a total installed capacity of approximately 16.73 megawatts (MW). The Company\u0027s cotton yard division produces approximately 30.54 lakh kilograms of cotton yarn per year. Its subsidiaries include Sudharsanam Investments Ltd, Sri Ramko Lanka (Private) Ltd and Sri Ramco Roofings Lanka (Private) Ltd."
+} ]
+, "management" : [
+{
+"name" : "P. R. Venketrama Raja",
+"age" : "53",
+"title" : "Executive Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "S. Balamurugasundaram",
+"title" : "Compliance Officer, General Manager - Legal , Company Secretary"
+}
+,
+{
+"name" : "P. V. Abinav Ramasubramaniam Raja",
+"title" : "Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "V. Santhanaraman",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "S. S. Ramachandra Raja",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Chitra Venkataraman",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "R. S. Agarwal",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "N. K. Shrikantan Raja",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

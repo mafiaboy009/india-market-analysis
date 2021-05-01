@@ -1,0 +1,349 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 39337799680,
+            "fmt": "39.34B",
+            "longFmt": "39,337,799,680"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.02098,
+            "fmt": "2.10%"
+          },
+          "floatShares": {
+            "raw": 15676550,
+            "fmt": "15.68M",
+            "longFmt": "15,676,550"
+          },
+          "sharesOutstanding": {
+            "raw": 299166016,
+            "fmt": "299.17M",
+            "longFmt": "299,166,016"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.003579,
+            "fmt": "1"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 18.619,
+            "fmt": "18.62"
+          },
+          "priceToBook": {
+            "raw": 4.78812,
+            "fmt": "4.79"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 487640000,
+            "fmt": "487.64M",
+            "longFmt": "487,640,000"
+          },
+          "trailingEps": {
+            "raw": 2.307,
+            "fmt": "2.31"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "10/1",
+          "lastSplitDate": {
+            "raw": 1288310400,
+            "fmt": "2010-10-29"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.693,
+            "fmt": "1.69"
+          },
+          "enterpriseToEbitda": {
+            "raw": 11.027,
+            "fmt": "11.03"
+          },
+          "52WeekChange": {
+            "raw": -0.21334505,
+            "fmt": "-21.33%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 8442526871,
+                  "fmt": "8.44B",
+                  "longFmt": "8,442,526,871"
+                },
+                "earnings": {
+                  "raw": 157328878,
+                  "fmt": "157.33M",
+                  "longFmt": "157,328,878"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 15379744586,
+                  "fmt": "15.38B",
+                  "longFmt": "15,379,744,586"
+                },
+                "earnings": {
+                  "raw": -2922228303,
+                  "fmt": "-2.92B",
+                  "longFmt": "-2,922,228,303"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 19010212000,
+                  "fmt": "19.01B",
+                  "longFmt": "19,010,212,000"
+                },
+                "earnings": {
+                  "raw": -4971056000,
+                  "fmt": "-4.97B",
+                  "longFmt": "-4,971,056,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 21536200000,
+                  "fmt": "21.54B",
+                  "longFmt": "21,536,200,000"
+                },
+                "earnings": {
+                  "raw": 1274400000,
+                  "fmt": "1.27B",
+                  "longFmt": "1,274,400,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 6537130000,
+                  "fmt": "6.54B",
+                  "longFmt": "6,537,130,000"
+                },
+                "earnings": {
+                  "raw": 387074000,
+                  "fmt": "387.07M",
+                  "longFmt": "387,074,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 5135216000,
+                  "fmt": "5.14B",
+                  "longFmt": "5,135,216,000"
+                },
+                "earnings": {
+                  "raw": 9491000,
+                  "fmt": "9.49M",
+                  "longFmt": "9,491,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 5472530000,
+                  "fmt": "5.47B",
+                  "longFmt": "5,472,530,000"
+                },
+                "earnings": {
+                  "raw": 177626000,
+                  "fmt": "177.63M",
+                  "longFmt": "177,626,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 6096051000,
+                  "fmt": "6.1B",
+                  "longFmt": "6,096,051,000"
+                },
+                "earnings": {
+                  "raw": -86551000,
+                  "fmt": "-86.55M",
+                  "longFmt": "-86,551,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Prime Focus House",
+          "address2": "Linking Road Opposite Citi Bank Khar (West)",
+          "city": "Mumbai",
+          "zip": "400052",
+          "country": "India",
+          "phone": "91 22 6715 5000",
+          "fax": "91 22 6715 5001",
+          "website": "http://www.primefocus.com",
+          "industry": "Entertainment - Diversified",
+          "sector": "Services",
+          "longBusinessSummary": "Prime Focus Limited, together with its subsidiaries, provides media and entertainment services for studios, and the broadcast and advertising industries in India, the United Kingdom, the United States, Canada, and internationally. The company offers creative services, including visual effects, stereo 3D conversion, and animation; camera equipment rental services; and post production services, such as digital intermediate/color grading, sound, and picture post services. It also provides technology products comprising CLEAR, a hybrid cloud-enabled media enterprise resource planning suite that includes cloud MAM, operations cloud, broadcast cloud, and DAX production cloud modules, as well as cloud media services for broadcasters, studios, brands, sports, and digital businesses. In addition, the company offers technical and other media services on cloud, which comprise closed captioning, subtitling, dubbing, and descriptive video localization services; digital packaging and delivery, 4K remastering and upconversion, quality check, and production and post-production services; and metadata tagging and cataloging, and other services. Further, it is involved in the media and other investment activities; provision of digital asset management, restoration, and administrative services; and operation of a training institute. The company was founded in 1997 and is headquartered in Mumbai, India.",
+          "fullTimeEmployees": 9000,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 89.15,
+            "fmt": "89.15"
+          },
+          "targetHighPrice": {
+            "raw": 130.0,
+            "fmt": "130.00"
+          },
+          "targetLowPrice": {
+            "raw": 130.0,
+            "fmt": "130.00"
+          },
+          "targetMeanPrice": {
+            "raw": 130.0,
+            "fmt": "130.00"
+          },
+          "targetMedianPrice": {
+            "raw": 130.0,
+            "fmt": "130.00"
+          },
+          "recommendationMean": {
+            "raw": 1.0,
+            "fmt": "1.00"
+          },
+          "recommendationKey": "strong_buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 5461917184,
+            "fmt": "5.46B",
+            "longFmt": "5,461,917,184"
+          },
+          "totalCashPerShare": {
+            "raw": 15.146,
+            "fmt": "15.15"
+          },
+          "ebitda": {
+            "raw": 3567480320,
+            "fmt": "3.57B",
+            "longFmt": "3,567,480,320"
+          },
+          "totalDebt": {
+            "raw": 11333328896,
+            "fmt": "11.33B",
+            "longFmt": "11,333,328,896"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 23240927232,
+            "fmt": "23.24B",
+            "longFmt": "23,240,927,232"
+          },
+          "debtToEquity": {
+            "raw": 159.022,
+            "fmt": "159.02"
+          },
+          "revenuePerShare": {
+            "raw": 115.825,
+            "fmt": "115.82"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 20676600000,
+            "fmt": "20.68B",
+            "longFmt": "20,676,600,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.202,
+            "fmt": "20.20%"
+          },
+          "grossMargins": {
+            "raw": 0.95883006,
+            "fmt": "95.88%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.1535,
+            "fmt": "15.35%"
+          },
+          "operatingMargins": {
+            "raw": 0.09932,
+            "fmt": "9.93%"
+          },
+          "profitMargins": {
+            "raw": 0.02098,
+            "fmt": "2.10%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

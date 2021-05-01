@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "MUNJALSHOW",
+"exchange" : "NSE",
+"id": "677072",
+"t" : "MUNJALSHOW",
+"e" : "NSE",
+"name" : "Munjal Showa Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=MNJL.NS",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=NSE:MUNJALSHOW"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=NSE:MUNJALSHOW"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=NSE:MUNJALSHOW"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.18%",
+"annual" : "3.87%",
+"ttm" : "3.77%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.27%",
+"annual" : "4.51%",
+"ttm" : "4.12%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.50%",
+"ttm" : "5.98%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.83%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.75%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,058",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.95",
+"l" : "223.40",
+"cp" : "-1.74",
+"ccol" : "chr",
+"op" : "229.00",
+"hi" : "230.90",
+"lo" : "223.15",
+"vo" : "25,827.00",
+"avvo" : "",
+"hi52" : "312.00",
+"lo52" : "184.10",
+"mc" : "8.91B",
+"pe" : "15.27",
+"fwpe" : "",
+"beta" : "",
+"eps" : "14.63",
+"dy" : "1.79",
+"ldiv" : "4.00",
+"shares" : "40.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677072",
+"name" : "Munjal Showa Limited",
+"t" : "MUNJALSHOW",
+"e" : "NSE",
+"l" : "223.40",
+"c" : "-3.95",
+"mc" : "8.91B",
+"cp" : "-1.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715310",
+"name" : "ZF Steering Gear (India) Ltd",
+"t" : "505163",
+"e" : "BOM",
+"l" : "1,130.75",
+"c" : "+30.05",
+"mc" : "10.16B",
+"cp" : "2.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8504101",
+"name" : "Gabriel India Limited",
+"t" : "GABRIEL",
+"e" : "NSE",
+"l" : "158.00",
+"c" : "+4.15",
+"mc" : "22.67B",
+"cp" : "2.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2566408",
+"name" : "ANG Industries Ltd.",
+"t" : "ANGIND",
+"e" : "NSE",
+"l" : "5.95",
+"c" : "+0.20",
+"mc" : "94.10M",
+"cp" : "3.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11817741",
+"name" : "Talbros Automotive Components Ltd",
+"t" : "TALBROAUTO",
+"e" : "NSE",
+"l" : "293.75",
+"c" : "+0.50",
+"mc" : "3.62B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5845409",
+"name" : "Sona Koyo Steering Systems Limited",
+"t" : "SONASTEER",
+"e" : "NSE",
+"l" : "103.55",
+"c" : "-0.65",
+"mc" : "20.62B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9156721",
+"name" : "Jay Ushin Ltd",
+"t" : "513252",
+"e" : "BOM",
+"l" : "648.80",
+"c" : "+18.05",
+"mc" : "2.51B",
+"cp" : "2.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5996806",
+"name" : "Rasandik Engineering Industres India Ltd",
+"t" : "522207",
+"e" : "BOM",
+"l" : "192.00",
+"c" : "-8.75",
+"mc" : "897.14M",
+"cp" : "-4.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1090073",
+"name" : "Automotive Stampings and Assemblies Ltd",
+"t" : "ASAL",
+"e" : "NSE",
+"l" : "79.30",
+"c" : "-3.10",
+"mc" : "1.26B",
+"cp" : "-3.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11783675",
+"name" : "Brakes Auto (India) Ltd",
+"t" : "520115",
+"e" : "BOM",
+"l" : "0.93",
+"c" : "0.00",
+"mc" : "19.62M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "84135840067224",
+"name" : "Endurance Technologies Ltd (CN)",
+"t" : "ENDURANCE",
+"e" : "NSE",
+"l" : "1,312.00",
+"c" : "+34.95",
+"mc" : "185.57B",
+"cp" : "2.74",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "9-11, Maruti Industrial Area, GURGAON, 122015, India",
+"phone": "+91-124-4783000",
+"fax": "+91-124-2341359",
+"url": "http:\u002F\u002Fwww.munjalshowa.net\u002F",
+"overview" : "Munjal Showa Limited is engaged in the manufacture of shock absorbers and struts. The Company operates as an ancillary and manufactures auto components for the two-wheeler and four-wheeler industry, primary products being front forks, shock absorbers, struts, gas springs and window balancers for sale in domestic market. It supplies shock absorbers to auto companies in India, Japan, Germany, the United States and the United Kingdom, among other markets. Its products serve as original equipment to a range of Maruti Suzuki cars and export models, Honda City car, a range of Hero Honda Motorcycles, Kawasaki Bajaj Motorcycles, Kinetic Scooters and Hero range of mini-motorcycles and mopeds, and Honda Motorcycles and Scooters India (Pvt) Limited. Its shock absorbers, front fork, struts and window balancers\u002Fgas springs are used in two and four wheeled vehicles. It has over three manufacturing locations, approximately two in the state of Haryana and over one in the state of Uttarakhand."
+} ]
+, "management" : [
+{
+"name" : "Yogesh Chander Munjal",
+"age" : "76",
+"title" : "Chairman of the Board, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Pankaj Gupta",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Saurabh Agrawal",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Shigeki Kobayashi",
+"title" : "Joint Managing Director, Additional Director"
+}
+,
+{
+"name" : "Teruyoshi Sato",
+"age" : "57",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Katsuhiko Matsuura",
+"age" : "55",
+"title" : "Non-Executive Director - Nominee of M\u002Fs Showa Corporation, Japan"
+}
+,
+{
+"name" : "Ashok Kumar Munjal",
+"age" : "61",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Charu Munjal",
+"age" : "43",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Pankaj Munjal",
+"age" : "47",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

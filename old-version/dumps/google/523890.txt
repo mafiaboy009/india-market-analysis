@@ -1,0 +1,270 @@
+
+// [
+{
+"symbol" : "523890",
+"exchange" : "BOM",
+"id": "705901",
+"t" : "523890",
+"e" : "BOM",
+"name" : "D S Kulkarni Developers Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:523890"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:523890"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:523890"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002708)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.59%",
+"annual" : "-2.73%",
+"ttm" : "6.80%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.57%",
+"annual" : "2.77%",
+"ttm" : "9.18%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.32%",
+"ttm" : "9.30%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.16%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-0.75%",
+"ttm" : ""
+}
+]
+, "c" : "+0.75",
+"l" : "16.50",
+"cp" : "4.76",
+"ccol" : "chg",
+"op" : "16.50",
+"hi" : "16.50",
+"lo" : "16.50",
+"vo" : "9,325.00",
+"avvo" : "",
+"hi52" : "69.75",
+"lo52" : "14.65",
+"mc" : "421.66M",
+"pe" : "1.14",
+"fwpe" : "",
+"beta" : "",
+"eps" : "14.49",
+"dy" : "7.58",
+"ldiv" : "1.25",
+"shares" : "25.80M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "705901",
+"name" : "D S Kulkarni Developers Ltd",
+"t" : "523890",
+"e" : "BOM",
+"l" : "16.50",
+"c" : "+0.75",
+"mc" : "421.66M",
+"cp" : "4.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "704049",
+"name" : "B.L. Kashyap and Sons Limited",
+"t" : "BLKASHYAP",
+"e" : "NSE",
+"l" : "45.30",
+"c" : "+0.05",
+"mc" : "9.71B",
+"cp" : "0.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15060174",
+"name" : "Brigade Enterprises Limited",
+"t" : "BRIGADE",
+"e" : "NSE",
+"l" : "280.45",
+"c" : "-1.40",
+"mc" : "38.01B",
+"cp" : "-0.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12481414",
+"name" : "Superspace Infrastructure Ltd",
+"t" : "512311",
+"e" : "BOM",
+"l" : "99.40",
+"c" : "0.00",
+"mc" : "20.73B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16148160",
+"name" : "Phoenix Mills Limited",
+"t" : "PHOENIXLTD",
+"e" : "NSE",
+"l" : "579.00",
+"c" : "+9.95",
+"mc" : "88.58B",
+"cp" : "1.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9249511",
+"name" : "HB Estate Developers Ltd",
+"t" : "532334",
+"e" : "BOM",
+"l" : "22.80",
+"c" : "+1.05",
+"mc" : "365.43M",
+"cp" : "4.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1015554",
+"name" : "Nitesh Estates Limited",
+"t" : "NITESHEST",
+"e" : "NSE",
+"l" : "13.50",
+"c" : "+0.60",
+"mc" : "1.97B",
+"cp" : "4.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12003421",
+"name" : "Conart Engineers Ltd",
+"t" : "522231",
+"e" : "BOM",
+"l" : "44.80",
+"c" : "-0.15",
+"mc" : "134.40M",
+"cp" : "-0.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5884673",
+"name" : "Kings Infra Ventures Ltd",
+"t" : "530215",
+"e" : "BOM",
+"l" : "20.10",
+"c" : "0.00",
+"mc" : "472.60M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6663614",
+"name" : "Unity Infraprojects Limited",
+"t" : "UNITY",
+"e" : "NSE",
+"l" : "5.50",
+"c" : "-0.25",
+"mc" : "659.09M",
+"cp" : "-4.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1072114149252838",
+"name" : "Univastu India Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "1187\u002F60, J. M. Road, Shivajinagar, PUNE, 411005, India",
+"phone": "+91-20-66047100",
+"fax": "+91-20-25535772",
+"url": "http:\u002F\u002Fwww.dskdl.com\u002F",
+"overview" : "D.S. Kulkarni Developers Limited is an India-based holding company. The Company\u0027s principal business activity includes construction of buildings. It operates through Domestic and Foreign segments. It is also engaged in the business of real estate development in India. Its projects include DSK Mangla Apartments, DSK Dnyaneshwar Nagri, DSK Surya Lok Nagri, DSK Saraswati Vinayak, DSK Keshav Apartments, DSK Saurabh Apartments, DSK Parvati Mahadeo, DSK Shri Ganesh Chaitanya, DSK Gomrai Villa, DSK Sushila Nagari-II, DSK Neel Kanth Apartments, DSK Sundarban and DSK Vanashree. Its subsidiaries include DSK Southern Projects Pvt. Ltd., DSK Infra Pvt. Ltd., DSK Developers Corporation and DSK Woods LLC. DSK Developers Corporation and DSK Woods, LLC are engaged in the business of construction and development. DSK Southern Projects Pvt. Ltd. in association with M\u002Fs Mantri Dwellings Pvt. Ltd. is developing a residential project of 42 storied apartments at Bangalore named Mantri DSK Pinnacle."
+} ]
+, "management" : [
+{
+"name" : "Shirish Deepak Kulkarni",
+"age" : "31",
+"title" : "Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Vinaykumar Badagandi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rohit Purandare",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "D. S. Kulkarni",
+"age" : "67",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sahindra Jagannath Bhawale",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Shanmukha Someswara Rao Durvasula",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Vijaykumar Jagtap",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

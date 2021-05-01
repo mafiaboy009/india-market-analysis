@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "533293",
+"exchange" : "BOM",
+"id": "10162530",
+"t" : "533293",
+"e" : "BOM",
+"name" : "Kirloskar Oil Engines Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533293"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533293"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533293"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.26%",
+"annual" : "6.03%",
+"ttm" : "6.26%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.20%",
+"annual" : "6.12%",
+"ttm" : "5.29%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.96%",
+"ttm" : "10.45%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.40%",
+"ttm" : "8.48%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.36%",
+"ttm" : "11.88%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,394",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+7.60",
+"l" : "360.80",
+"cp" : "2.15",
+"ccol" : "chg",
+"op" : "358.00",
+"hi" : "361.20",
+"lo" : "356.00",
+"vo" : "527.00",
+"avvo" : "",
+"hi52" : "450.00",
+"lo52" : "325.00",
+"mc" : "52.39B",
+"pe" : "31.54",
+"fwpe" : "",
+"beta" : "",
+"eps" : "11.44",
+"dy" : "0.69",
+"ldiv" : "2.50",
+"shares" : "144.61M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10162530",
+"name" : "Kirloskar Oil Engines Ltd",
+"t" : "533293",
+"e" : "BOM",
+"l" : "360.80",
+"c" : "+7.60",
+"mc" : "52.39B",
+"cp" : "2.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5574558",
+"name" : "Menon Bearings Ltd",
+"t" : "523828",
+"e" : "BOM",
+"l" : "107.10",
+"c" : "+7.65",
+"mc" : "6.01B",
+"cp" : "7.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "703781",
+"name" : "Greaves Cotton Ltd",
+"t" : "GREAVESCOT",
+"e" : "NSE",
+"l" : "126.05",
+"c" : "+2.30",
+"mc" : "30.63B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16529291",
+"name" : "Bosch Ltd",
+"t" : "BOSCHLTD",
+"e" : "NSE",
+"l" : "19,070.05",
+"c" : "+149.45",
+"mc" : "581.93B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13341724",
+"name" : "JMT Auto Ltd",
+"t" : "JMTAUTOLTD",
+"e" : "NSE",
+"l" : "5.05",
+"c" : "+0.05",
+"mc" : "2.54B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15774934",
+"name" : "Swaraj Engines Limited",
+"t" : "SWARAJENG",
+"e" : "NSE",
+"l" : "1,933.05",
+"c" : "-10.90",
+"mc" : "24.12B",
+"cp" : "-0.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "618885383318163",
+"name" : "Precision Camshafts Ltd",
+"t" : "PRECAM",
+"e" : "NSE",
+"l" : "113.00",
+"c" : "+2.05",
+"mc" : "10.66B",
+"cp" : "1.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "84135840067224",
+"name" : "Endurance Technologies Ltd (CN)",
+"t" : "ENDURANCE",
+"e" : "NSE",
+"l" : "1,312.00",
+"c" : "+34.95",
+"mc" : "185.57B",
+"cp" : "2.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15375890",
+"name" : "India Motor Parts Limited",
+"t" : "IMPAL",
+"e" : "NSE",
+"l" : "1,112.50",
+"c" : "+4.15",
+"mc" : "9.28B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3070975",
+"name" : "Alicon Castalloy Ltd",
+"t" : "ALICON",
+"e" : "NSE",
+"l" : "617.95",
+"c" : "-5.85",
+"mc" : "8.22B",
+"cp" : "-0.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10757396",
+"name" : "Harig Crankshafts Ltd",
+"t" : "500178",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-0.80",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "13, Laxmanrao Kirloskar Road, Khadki, PUNE, 411003, India",
+"phone": "+91-20-25810341",
+"fax": "+91-20-25813208",
+"url": "http:\u002F\u002Fwww.koel.co.in\u002F",
+"overview" : "Kirloskar Oil Engines Limited is engaged in manufacturing of diesel engines, agricultural pumpsets and generating sets. The Company is involved in the manufacture of internal combustion engines, generating sets and parts, which are used for various applications, such as agriculture, industrial, stationery power plants and construction equipment, among others. The Company\u0027s businesses include power generation domestic, industrial engines, agriculture, large engines and international business power generation. It specializes in the manufacture of both air-cooled and liquid-cooled diesel engines and generating sets across a range of power output from 5 kilo-volt-ampere (kVA) to 3,000kVA. The Company also offers engines operating on alternative fuels, such as bio-diesel, natural gas, biogas and straight vegetable oil (SVO). It manufactures and markets diesel engines from 2,400 horsepower (hp) to 11,000 hp. The Company\u0027s brands include KOEL Green and KOEL Chhota Chilli (KCC)."
+} ]
+, "management" : [
+{
+"name" : "Atul Chandrakant Kirloskar",
+"age" : "60",
+"title" : "Executive Chairman of the Board, Whole Time Director"
+}
+,
+{
+"name" : "T. Vinodkumar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Smita A. Raichurkar",
+"title" : "Compliance Officer, Assistant Company Secretary"
+}
+,
+{
+"name" : "Rajendra R. Deshpande",
+"title" : "Joint Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Nihal Gautam Kulkarni",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Mahesh R. Chhabria",
+"title" : "Managing Director, Non-Independent Director"
+}
+,
+{
+"name" : "Gauri Kirloskar",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rahul Chandrakant Kirloskar",
+"title" : "Non-Executive Non Independent Director"
+}
+,
+{
+"name" : "Vinesh Kumar Jairath",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Satish Jamdar",
+"age" : "65",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

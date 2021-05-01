@@ -1,0 +1,296 @@
+
+ [
+{
+"symbol" : "505200",
+"exchange" : "BOM",
+"id": "677553",
+"t" : "505200",
+"e" : "BOM",
+"name" : "Eicher Motors Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:505200"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:505200"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:505200"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "22.94%",
+"annual" : "21.00%",
+"ttm" : "22.19%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "28.31%",
+"annual" : "25.63%",
+"ttm" : "27.12%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "27.57%",
+"ttm" : "29.41%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "27.95%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "37.05%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,274",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+556.70",
+"l" : "27,274.05",
+"cp" : "2.08",
+"ccol" : "chg",
+"op" : "27,000.00",
+"hi" : "27,290.00",
+"lo" : "26,749.25",
+"vo" : "1,891.00",
+"avvo" : "",
+"hi52" : "33,483.95",
+"lo52" : "22,990.00",
+"mc" : "742.30B",
+"pe" : "38.02",
+"fwpe" : "",
+"beta" : "",
+"eps" : "717.37",
+"dy" : "0.37",
+"ldiv" : "100.00",
+"shares" : "27.24M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677553",
+"name" : "Eicher Motors Ltd",
+"t" : "505200",
+"e" : "BOM",
+"l" : "27,274.05",
+"c" : "+556.70",
+"mc" : "742.30B",
+"cp" : "2.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15581912",
+"name" : "TVS Motor Company Limited",
+"t" : "TVSMOTOR",
+"e" : "NSE",
+"l" : "684.50",
+"c" : "+16.65",
+"mc" : "325.86B",
+"cp" : "2.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11224188",
+"name" : "Hindustan Motors Limited",
+"t" : "HINDMOTORS",
+"e" : "NSE",
+"l" : "9.20",
+"c" : "-0.10",
+"mc" : "1.91B",
+"cp" : "-1.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7147553",
+"name" : "Ashok Leyland Ltd",
+"t" : "ASHOKLEY",
+"e" : "NSE",
+"l" : "137.10",
+"c" : "+2.70",
+"mc" : "399.82B",
+"cp" : "2.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9708440",
+"name" : "Tata Motors Limited",
+"t" : "TATAMOTORS",
+"e" : "NSE",
+"l" : "372.80",
+"c" : "+12.60",
+"mc" : "1.18T",
+"cp" : "3.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "677050",
+"name" : "Kinetic Engineering Ltd",
+"t" : "500240",
+"e" : "BOM",
+"l" : "78.50",
+"c" : "-1.65",
+"mc" : "1.30B",
+"cp" : "-2.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14634662",
+"name" : "Maharashtra Scooters Ltd.",
+"t" : "MAHSCOOTER",
+"e" : "NSE",
+"l" : "2,384.20",
+"c" : "-3.35",
+"mc" : "27.43B",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "778537154937652",
+"name" : "Tube Investments of India Ltd",
+"t" : "TIINDIA",
+"e" : "NSE",
+"l" : "260.05",
+"c" : "-3.25",
+"mc" : "48.89B",
+"cp" : "-1.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12447389",
+"name" : "Shivam Autotech Ltd",
+"t" : "SHIVAMAUTO",
+"e" : "NSE",
+"l" : "80.50",
+"c" : "+1.30",
+"mc" : "7.97B",
+"cp" : "1.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "60272",
+"name" : "Hero Motocorp Ltd",
+"t" : "HEROMOTOCO",
+"e" : "NSE",
+"l" : "3,541.90",
+"c" : "+47.20",
+"mc" : "707.33B",
+"cp" : "1.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13748826",
+"name" : "Atlas Cycles (Haryana) Ltd",
+"t" : "ATLASCYCLE",
+"e" : "NSE",
+"l" : "196.80",
+"c" : "+9.35",
+"mc" : "1.27B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "#96, Sector 32, GURGAON, 122001, India",
+"phone": "+91-124-4415600",
+"fax": "+91-11-414377700",
+"url": "http:\u002F\u002Fwww.eicher.in\u002F",
+"overview" : "Eicher Motors Limited is a parent of Royal Enfiled that offers middleweight motorcycles in India. Royal Enfield operates in India, and over 40 countries around the world. The Company is engaged in manufacturing automobile products and related components. The Company operates in business verticals, including motorcycles, commercial vehicles and personal utility vehicles. The Company, through its joint venture, Volvo Eicher Commercial Vehicles Limited (VECV), designs, manufactures and markets trucks and buses from five-49 tonnes, and its manufacturing plant in Pithampur, Madhya Pradesh is the hub for medium duty five and eight litre engines for Volvo Group. VECV includes Eicher Trucks and Buses, Volvo Trucks India, Eicher Engineering Components, Eicher Engineering Solutions, VE Powertrain and Bus Body Plant. The Company, through Eicher Polaris Pvt Limited (EPPL), offers Multix three in one vehicle, built for the independent businessman."
+} ]
+, "management" : [
+{
+"name" : "Siddhartha Lal",
+"age" : "44",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Lalit Malik",
+"age" : "48",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Vinod Aggarwal",
+"age" : "58",
+"title" : "Chief Executive Officer, VECV"
+}
+,
+{
+"name" : "R.S. Sachdeva",
+"title" : "COO - Eicher Trucks \u0026 Buses"
+}
+,
+{
+"name" : "Rudratej Singh",
+"title" : "President, Royal Enfield"
+}
+,
+{
+"name" : "Manhar Kapoor",
+"title" : "General Counsel, Company Secretary"
+}
+,
+{
+"name" : "Sudhakar Bhagavatula",
+"title" : "Chief Information Officer, Royal Enfield"
+}
+,
+{
+"name" : "B. Govindarajan",
+"title" : "Chief Operating Officer, Royal Enfield"
+}
+,
+{
+"name" : "Rajeev Sharma",
+"title" : "Chief Human Resource officer, Royal Enfield"
+}
+,
+{
+"name" : "Srinivasan Sandilya",
+"age" : "69",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+]
+,"moreresources" : [
+]
+}]

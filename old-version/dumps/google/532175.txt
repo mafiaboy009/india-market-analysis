@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "532175",
+"exchange" : "BOM",
+"id": "677789",
+"t" : "532175",
+"e" : "BOM",
+"name" : "Cyient Ltd (Parent)"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532175"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532175"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532175"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.86%",
+"annual" : "9.42%",
+"ttm" : "9.46%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.96%",
+"annual" : "9.86%",
+"ttm" : "9.93%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.23%",
+"ttm" : "13.51%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "10.84%",
+"annual" : "11.58%",
+"ttm" : "11.60%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "15.69%",
+"annual" : "17.42%",
+"ttm" : "16.80%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "13,732",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+14.00",
+"l" : "636.30",
+"cp" : "2.25",
+"ccol" : "chg",
+"op" : "640.00",
+"hi" : "640.00",
+"lo" : "625.00",
+"vo" : "13,712.00",
+"avvo" : "",
+"hi52" : "685.00",
+"lo52" : "435.05",
+"mc" : "71.59B",
+"pe" : "19.67",
+"fwpe" : "",
+"beta" : "",
+"eps" : "32.35",
+"dy" : "1.41",
+"ldiv" : "4.00",
+"shares" : "112.59M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677789",
+"name" : "Cyient Ltd (Parent)",
+"t" : "532175",
+"e" : "BOM",
+"l" : "636.30",
+"c" : "+14.00",
+"mc" : "71.59B",
+"cp" : "2.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14985921",
+"name" : "Infomedia Press Ltd",
+"t" : "INFOMEDIA",
+"e" : "NSE",
+"l" : "3.45",
+"c" : "-0.15",
+"mc" : "173.17M",
+"cp" : "-4.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12420846",
+"name" : "Scanpoint Geomatics Ltd",
+"t" : "526544",
+"e" : "BOM",
+"l" : "22.15",
+"c" : "-1.10",
+"mc" : "1.01B",
+"cp" : "-4.73",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14805179",
+"name" : "Rolta India Limited",
+"t" : "ROLTA",
+"e" : "NSE",
+"l" : "71.00",
+"c" : "-0.30",
+"mc" : "11.75B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11512478",
+"name" : "Cni Research Ltd",
+"t" : "512018",
+"e" : "BOM",
+"l" : "3.45",
+"c" : "+0.06",
+"mc" : "396.08M",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3067816",
+"name" : "Genesys International Corp Ltd",
+"t" : "GENESYS",
+"e" : "NSE",
+"l" : "289.55",
+"c" : "+17.30",
+"mc" : "8.84B",
+"cp" : "6.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9747293",
+"name" : "Mukand Engineers Limited",
+"t" : "MUKANDENGG",
+"e" : "NSE",
+"l" : "42.75",
+"c" : "+0.90",
+"mc" : "538.11M",
+"cp" : "2.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "726427",
+"name" : "Asian Oilfield Services Ltd",
+"t" : "530355",
+"e" : "BOM",
+"l" : "231.50",
+"c" : "-2.40",
+"mc" : "6.82B",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2778818",
+"name" : "Alphageo (India) Ltd",
+"t" : "ALPHAGEO",
+"e" : "NSE",
+"l" : "801.70",
+"c" : "-12.75",
+"mc" : "5.12B",
+"cp" : "-1.57",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11778873",
+"name" : "Trigyn Technologies Ltd",
+"t" : "TRIGYN",
+"e" : "NSE",
+"l" : "149.45",
+"c" : "+0.50",
+"mc" : "4.47B",
+"cp" : "0.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "126470821454406",
+"name" : "South West Pinnacle Exploration Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Rain Center, 34, Srinagar Colony, HYDERABAD, 500081, India",
+"phone": "+91-40-67641000",
+"fax": "+91-40-66624368",
+"url": "http:\u002F\u002Fwww.cyient.com\u002F",
+"overview" : "Cyient Limited, formerly Infotech Enterprises Limited, is engaged in providing software-enabled engineering and geographic information system (GIS) services. The Company\u0027s segments include Data \u0026 Network Operations (DNO)\u003B Engineering, Manufacturing, Industrial Products (EMI), and Product Realisation (PR). DNO vertical services industries, such as power, gas, telecom, transportation and local government, and offers data conversion, data maintenance, photogrammetry and information technology (IT) services to the DNO vertical. EMI vertical services customers in industries, such as aerospace, automotive, off-highway transportation and industrial and commercial products, engineering design, embedded software, IT Solutions, manufacturing support, technical publications and other strategic customers. PR vertical services is engaged in providing electronic manufacturing solutions in the fields of medical, industrial, automotive, telecommunications, defense and aerospace applications."
+} ]
+, "management" : [
+{
+"name" : "B. V. R. Mohan Reddy Ph.D.",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Krishna Bodanapu",
+"title" : "Chief Executive Officer, Managing Director, Additional Director"
+}
+,
+{
+"name" : "Ajay Aggarwal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Thomas Edwards",
+"title" : "President – North America"
+}
+,
+{
+"name" : "John Patrick Renard",
+"title" : "President – EMEA"
+}
+,
+{
+"name" : "Katie Cook",
+"title" : "Senior Vice President - North America Sales"
+}
+,
+{
+"name" : "Sunil Kumar Makkena",
+"title" : "Senior Vice President - Data Transformations, Networks \u0026 Operations"
+}
+,
+{
+"name" : "P. N. S. V. Narasimham",
+"title" : "Senior Vice President, Global Head - Human Resources"
+}
+,
+{
+"name" : "Anand Parameswaran",
+"title" : "Senior Vice President - Human Resources"
+}
+,
+{
+"name" : "Rajendra Velagapudi",
+"title" : "Senior Vice President - Engineering"
+}
+]
+,"moreresources" : [
+]
+}]

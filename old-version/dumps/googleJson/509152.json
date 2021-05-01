@@ -1,0 +1,277 @@
+
+ [
+{
+"symbol" : "509152",
+"exchange" : "BOM",
+"id": "9655864",
+"t" : "509152",
+"e" : "BOM",
+"name" : "GRP Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GRPI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:509152"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:509152"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:509152"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "2.25%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "3.86%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.58%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.84%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.57%",
+"ttm" : ""
+}
+]
+, "c" : "+6.25",
+"l" : "1,365.00",
+"cp" : "0.46",
+"ccol" : "chg",
+"op" : "1,377.95",
+"hi" : "1,388.00",
+"lo" : "1,351.00",
+"vo" : "74.00",
+"avvo" : "",
+"hi52" : "1,802.00",
+"lo52" : "1,110.00",
+"mc" : "1.79B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "0.73",
+"ldiv" : "10.00",
+"shares" : "1.33M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9655864",
+"name" : "GRP Ltd",
+"t" : "509152",
+"e" : "BOM",
+"l" : "1,365.00",
+"c" : "+6.25",
+"mc" : "1.79B",
+"cp" : "0.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4458694",
+"name" : "JK Tyre \u0026 Industries Ltd.",
+"t" : "JKTYRE",
+"e" : "NSE",
+"l" : "149.35",
+"c" : "-3.80",
+"mc" : "33.91B",
+"cp" : "-2.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12683381",
+"name" : "Dewan Rubber Industries Ltd",
+"t" : "523051",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "111449",
+"name" : "Indag Rubber Ltd",
+"t" : "509162",
+"e" : "BOM",
+"l" : "168.00",
+"c" : "+0.20",
+"mc" : "4.43B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7439571",
+"name" : "Eastern Treads Ltd",
+"t" : "531346",
+"e" : "BOM",
+"l" : "95.00",
+"c" : "-3.00",
+"mc" : "478.02M",
+"cp" : "-3.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1515884",
+"name" : "Govind Rubber Ltd",
+"t" : "509148",
+"e" : "BOM",
+"l" : "17.70",
+"c" : "+0.25",
+"mc" : "389.89M",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9640278",
+"name" : "TVS Srichakra Limited",
+"t" : "TVSSRICHAK",
+"e" : "NSE",
+"l" : "3,732.20",
+"c" : "+66.50",
+"mc" : "28.62B",
+"cp" : "1.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5885777",
+"name" : "MRF Limited",
+"t" : "MRF",
+"e" : "NSE",
+"l" : "72,670.00",
+"c" : "+196.60",
+"mc" : "306.83B",
+"cp" : "0.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "700493",
+"name" : "Balkrishna Industries Limited",
+"t" : "BALKRISIND",
+"e" : "NSE",
+"l" : "1,085.70",
+"c" : "-9.15",
+"mc" : "209.71B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3719300",
+"name" : "Duncan Engineering Ltd",
+"t" : "504908",
+"e" : "BOM",
+"l" : "73.10",
+"c" : "-3.65",
+"mc" : "270.18M",
+"cp" : "-4.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13445274",
+"name" : "Ceat Limited (Parent)",
+"t" : "CEATLTD",
+"e" : "NSE",
+"l" : "1,613.50",
+"c" : "-4.10",
+"mc" : "65.41B",
+"cp" : "-0.25",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "510 \u0022A\u0022 Wing Kohinoor City Commercial -I Kirol Road Off. L.B.Shastri Marg Kurla (W), MUMBAI, 400070, India",
+"phone": "+91-22-67082600",
+"fax": "+91-22-67082599",
+"url": "http:\u002F\u002Fwww.grpweb.com\u002F",
+"overview" : "GRP Limited is an India-based company, which is engaged in manufacturing of Reclaim Rubber. The Company\u0027s other business includes power generation from windmill, manufacturing of thermo plastic elastomers, and punch and split products. The Company\u0027s segments include Reclaim Rubber, Power and Others. The Reclaim Rubber segment includes crumb rubber, punch and split products. The Others segment includes thermo plastic elastomers. It serves Reclaim Rubber sheets for tire and non-tire rubber goods industries. The Company has Windmill at Kuchhadi in Gujarat. It offers a range of products, such as Reclaim Rubber, including natural rubber reclaim, synthetic rubber reclaim, polycoat\u002Fcrumb rubber and reprocessed neoprene\u003B industrial polymer, including nylon grades, thermoplastic elastomers, additive master batch and custom compounds, and custom die forms, which include GRPmats and GRPpads. The Company has manufacturing plants in India and sales in domestic, as well as international market."
+} ]
+, "management" : [
+{
+"name" : "Rajendra V. Gandhi",
+"age" : "66",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Ganesh A. Ghangurde",
+"title" : "President, Chief Financial Officer, Company Secretary"
+}
+,
+{
+"name" : "Harsh R. Gandhi",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Nayna R. Gandhi",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Mahesh Vadilal Gandhi",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Alpana Parida",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Saurabh Shah",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Rajeev M. Pandia",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

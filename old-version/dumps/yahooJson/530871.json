@@ -1,0 +1,354 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 3530780416,
+            "fmt": "3.53B",
+            "longFmt": "3,530,780,416"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.03338,
+            "fmt": "3.34%"
+          },
+          "floatShares": {
+            "raw": 3114185,
+            "fmt": "3.11M",
+            "longFmt": "3,114,185"
+          },
+          "sharesOutstanding": {
+            "raw": 13448300,
+            "fmt": "13.45M",
+            "longFmt": "13,448,300"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.684168,
+            "fmt": "0.68"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 190.792,
+            "fmt": "190.79"
+          },
+          "priceToBook": {
+            "raw": 1.7563629,
+            "fmt": "1.76"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 4.17,
+            "fmt": "417.00%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 97098000,
+            "fmt": "97.1M",
+            "longFmt": "97,098,000"
+          },
+          "trailingEps": {
+            "raw": 6.836,
+            "fmt": "6.84"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1473120000,
+            "fmt": "2016-09-06"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.214,
+            "fmt": "1.21"
+          },
+          "enterpriseToEbitda": {
+            "raw": 19.913,
+            "fmt": "19.91"
+          },
+          "52WeekChange": {
+            "raw": 0.44358635,
+            "fmt": "44.36%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 2744596000,
+                  "fmt": "2.74B",
+                  "longFmt": "2,744,596,000"
+                },
+                "earnings": {
+                  "raw": 77968000,
+                  "fmt": "77.97M",
+                  "longFmt": "77,968,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 3002285000,
+                  "fmt": "3B",
+                  "longFmt": "3,002,285,000"
+                },
+                "earnings": {
+                  "raw": 124115000,
+                  "fmt": "124.11M",
+                  "longFmt": "124,115,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 2710471000,
+                  "fmt": "2.71B",
+                  "longFmt": "2,710,471,000"
+                },
+                "earnings": {
+                  "raw": 1536593000,
+                  "fmt": "1.54B",
+                  "longFmt": "1,536,593,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 2805240000,
+                  "fmt": "2.81B",
+                  "longFmt": "2,805,240,000"
+                },
+                "earnings": {
+                  "raw": 77579000,
+                  "fmt": "77.58M",
+                  "longFmt": "77,579,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 718995000,
+                  "fmt": "719M",
+                  "longFmt": "718,995,000"
+                },
+                "earnings": {
+                  "raw": 19379000,
+                  "fmt": "19.38M",
+                  "longFmt": "19,379,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 714232000,
+                  "fmt": "714.23M",
+                  "longFmt": "714,232,000"
+                },
+                "earnings": {
+                  "raw": 51335000,
+                  "fmt": "51.34M",
+                  "longFmt": "51,335,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 745730000,
+                  "fmt": "745.73M",
+                  "longFmt": "745,730,000"
+                },
+                "earnings": {
+                  "raw": 41734000,
+                  "fmt": "41.73M",
+                  "longFmt": "41,734,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 793541000,
+                  "fmt": "793.54M",
+                  "longFmt": "793,541,000"
+                },
+                "earnings": {
+                  "raw": 57730000,
+                  "fmt": "57.73M",
+                  "longFmt": "57,730,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "EL-71, Chembond Centre",
+          "address2": "MIDC, Mahape",
+          "city": "Navi Mumbai",
+          "zip": "400710",
+          "country": "India",
+          "phone": "91 22 3921 3000",
+          "fax": "91 22 2768 1294",
+          "website": "http://www.chembondindia.com",
+          "industry": "Specialty Chemicals",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Chembond Chemicals Limited manufactures and sells specialty chemicals in India and internationally. It offers boiler water treatment chemicals, membrane treatment chemicals, raw water and effluent treatment polymers, and defoamers; and chemical, equipment, and bio-remediation solutions for steel, power, refining, fertilizer, paper, chemical and petrochemical industries, as well as for food, pharmaceutical, beverage, cement, institutional, and small industrial segments. The company also provides construction chemicals used in construction and civil repair industry; coatings, including surface tolerant, food grade, anti-carbonation, elastomeric, electrostatic dissipation floor, chemical resistance flooring, anti-fungal and anti-bacterial wall, etc. for use in industrial and commercial sectors. In addition, it offers animal nutrition products, including bio-security products, vitamins and minerals for supplementing dairy animal and poultry diet, and enzymes; and enzymes for use in textile processing and distillery applications; Further, the company provides specialty polymer products used in industries and everyday life; and industrial hygiene and cleaning products and solutions to the food processing, alcoholic and non-alcoholic beverage, and dairy markets. Additionally, it distributes specialty chemicals for construction chemical, paints and coatings, water treatment chemicals, and paper chemical manufacturers, as well as automotive sealant systems suppliers. The company offers its products through online store. Chembond Chemicals Limited was founded in 1973 and is based in Navi Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 335.1,
+            "fmt": "335.10"
+          },
+          "targetHighPrice": {
+            "raw": 460.0,
+            "fmt": "460.00"
+          },
+          "targetLowPrice": {
+            "raw": 460.0,
+            "fmt": "460.00"
+          },
+          "targetMeanPrice": {
+            "raw": 460.0,
+            "fmt": "460.00"
+          },
+          "targetMedianPrice": {
+            "raw": 460.0,
+            "fmt": "460.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 514028992,
+            "fmt": "514.03M",
+            "longFmt": "514,028,992"
+          },
+          "totalCashPerShare": {
+            "raw": 41.315,
+            "fmt": "41.31"
+          },
+          "ebitda": {
+            "raw": 177311744,
+            "fmt": "177.31M",
+            "longFmt": "177,311,744"
+          },
+          "totalDebt": {
+            "raw": 75872000,
+            "fmt": "75.87M",
+            "longFmt": "75,872,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 2908558080,
+            "fmt": "2.91B",
+            "longFmt": "2,908,558,080"
+          },
+          "debtToEquity": {
+            "raw": 3.204,
+            "fmt": "3.20"
+          },
+          "revenuePerShare": {
+            "raw": 204.764,
+            "fmt": "204.76"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 983844000,
+            "fmt": "983.84M",
+            "longFmt": "983,844,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 4.659,
+            "fmt": "465.90%"
+          },
+          "revenueGrowth": {
+            "raw": 0.157,
+            "fmt": "15.70%"
+          },
+          "grossMargins": {
+            "raw": 0.36672002,
+            "fmt": "36.67%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.060960002,
+            "fmt": "6.10%"
+          },
+          "operatingMargins": {
+            "raw": 0.04778,
+            "fmt": "4.78%"
+          },
+          "profitMargins": {
+            "raw": 0.03338,
+            "fmt": "3.34%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

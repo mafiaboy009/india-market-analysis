@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "517380",
+"exchange" : "BOM",
+"id": "715311",
+"t" : "517380",
+"e" : "BOM",
+"name" : "Igarashi Motors India Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:517380"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:517380"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:517380"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "15.07%",
+"annual" : "14.83%",
+"ttm" : "14.63%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.95%",
+"annual" : "19.40%",
+"ttm" : "16.95%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "23.74%",
+"ttm" : "22.12%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "15.39%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "22.72%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "617",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.80",
+"l" : "826.05",
+"cp" : "0.22",
+"ccol" : "chg",
+"op" : "826.55",
+"hi" : "831.00",
+"lo" : "825.60",
+"vo" : "448.00",
+"avvo" : "",
+"hi52" : "1,125.00",
+"lo52" : "752.50",
+"mc" : "25.35B",
+"pe" : "36.55",
+"fwpe" : "",
+"beta" : "",
+"eps" : "22.60",
+"dy" : "0.80",
+"ldiv" : "6.61",
+"shares" : "30.61M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715311",
+"name" : "Igarashi Motors India Ltd.",
+"t" : "517380",
+"e" : "BOM",
+"l" : "826.05",
+"c" : "+1.80",
+"mc" : "25.35B",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13659974",
+"name" : "Majestic Auto Ltd",
+"t" : "500267",
+"e" : "BOM",
+"l" : "161.20",
+"c" : "-2.35",
+"mc" : "1.68B",
+"cp" : "-1.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "417348",
+"name" : "PPAP Automotive Ltd",
+"t" : "PPAP",
+"e" : "NSE",
+"l" : "550.00",
+"c" : "+8.70",
+"mc" : "7.72B",
+"cp" : "1.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13309952",
+"name" : "Motherson Sumi Systems Limited",
+"t" : "MOTHERSUMI",
+"e" : "NSE",
+"l" : "328.95",
+"c" : "+10.05",
+"mc" : "690.37B",
+"cp" : "3.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6715972",
+"name" : "REIL Electricals India Ltd",
+"t" : "505817",
+"e" : "BOM",
+"l" : "230.00",
+"c" : "0.00",
+"mc" : "868.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "149556745650340",
+"name" : "Minda Corp Ltd",
+"t" : "MINDACORP",
+"e" : "NSE",
+"l" : "192.55",
+"c" : "-3.25",
+"mc" : "40.20B",
+"cp" : "-1.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12232770",
+"name" : "Denso India Pvt Ltd",
+"t" : "DENSO",
+"e" : "NSE",
+"l" : "142.75",
+"c" : "0.00",
+"mc" : "3.98B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8999255",
+"name" : "Remsons Industries Ltd",
+"t" : "REMSONSIND",
+"e" : "NSE",
+"l" : "86.30",
+"c" : "+0.75",
+"mc" : "493.06M",
+"cp" : "0.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16541201",
+"name" : "Minda Industries Ltd",
+"t" : "MINDAIND",
+"e" : "NSE",
+"l" : "1,122.00",
+"c" : "+17.70",
+"mc" : "97.07B",
+"cp" : "1.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2055807",
+"name" : "India Nippon Electricals Ltd",
+"t" : "INDNIPPON",
+"e" : "NSE",
+"l" : "1,000.00",
+"c" : "+3.70",
+"mc" : "11.34B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3425782",
+"name" : "CG Power and Industrial Solutions Ltd(P)",
+"t" : "CGPOWER",
+"e" : "NSE",
+"l" : "82.45",
+"c" : "-0.20",
+"mc" : "51.64B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Plot No.B-12 B-15, Phase-II, MEPZ, Tambaram, CHENNAI, 600045, India",
+"phone": "+91-44-42298100",
+"fax": "+91-44-22628143",
+"url": "http:\u002F\u002Fwww.jp-igarashi.com",
+"overview" : "Igarashi Motors India Limited is engaged in the business of auto components for automobiles. The Company offers electric micro motors and motor components. The Company is engaged in the production and export of permanent magnet direct current (DC) motors for automotive sector specifically for passenger cars. The Company\u0027s DC motors include SQ-2846, SQ3264, SQ3657, SQ3365, SQ-3655, SQ-2848, SQ-3458, 3657 and 3665. The Company\u0027s products\u0027 primary application is Electronic Throttle Control (ETC). The Company has produced over 500 million DC motors for usage in actuator application\u002Fsystems in passenger cars. The Company\u0027s holding company is Agile Electric Sub Assembly Private Limited. The Company\u0027s ultimate holding company is Igarashi Electric Works Limited."
+} ]
+, "management" : [
+{
+"name" : "P. Dinakara Babu",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "P. Mukund",
+"age" : "56",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "R. Chandrasekaran",
+"title" : "Head - Finance"
+}
+,
+{
+"name" : "Akhil Awasthi",
+"age" : "49",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Eva Maria Rosa Schork",
+"age" : "51",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Hemant Madhusudan Nerurkar",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "K. K. Nohria",
+"age" : "83",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "S. Radhakrishnan",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

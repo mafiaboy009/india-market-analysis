@@ -1,0 +1,290 @@
+
+ [
+{
+"symbol" : "524727",
+"exchange" : "BOM",
+"id": "722859",
+"t" : "524727",
+"e" : "BOM",
+"name" : "Span Divergent Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SPAN.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:524727"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:524727"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:524727"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-132.51%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "-185.85%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-159.12%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-7.22%",
+"ttm" : "5.63%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-8.12%",
+"ttm" : "5.91%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "523",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.20",
+"l" : "38.25",
+"cp" : "3.24",
+"ccol" : "chg",
+"op" : "38.25",
+"hi" : "38.25",
+"lo" : "38.25",
+"vo" : "857.00",
+"avvo" : "",
+"hi52" : "69.45",
+"lo52" : "35.20",
+"mc" : "208.91M",
+"pe" : "6.32",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.06",
+"dy" : "",
+"ldiv" : "",
+"shares" : "5.46M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "722859",
+"name" : "Span Divergent Ltd",
+"t" : "524727",
+"e" : "BOM",
+"l" : "38.25",
+"c" : "+1.20",
+"mc" : "208.91M",
+"cp" : "3.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715464",
+"name" : "Transgene Biotek Ltd",
+"t" : "526139",
+"e" : "BOM",
+"l" : "2.39",
+"c" : "0.00",
+"mc" : "181.09M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13439600",
+"name" : "Ahlcon Parenterals India Ltd",
+"t" : "524448",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13151881",
+"name" : "Colinz Laboratories Ltd",
+"t" : "531210",
+"e" : "BOM",
+"l" : "15.00",
+"c" : "0.00",
+"mc" : "68.56M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1657364",
+"name" : "Abbott India Limited",
+"t" : "ABBOTINDIA",
+"e" : "NSE",
+"l" : "5,756.00",
+"c" : "-55.30",
+"mc" : "121.84B",
+"cp" : "-0.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6809657",
+"name" : "Aarti Drugs Ltd.",
+"t" : "AARTIDRUGS",
+"e" : "NSE",
+"l" : "608.05",
+"c" : "-5.10",
+"mc" : "14.53B",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "757975463377003",
+"name" : "Mahavir Advanced Remedies Ltd",
+"t" : "531689",
+"e" : "BOM",
+"l" : "150.65",
+"c" : "0.00",
+"mc" : "1.65B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11018234",
+"name" : "Syncom Formulations India Ltd",
+"t" : "524470",
+"e" : "BOM",
+"l" : "1.53",
+"c" : "-0.04",
+"mc" : "1.19B",
+"cp" : "-2.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6346721",
+"name" : "Glenmark Pharmaceuticals Ltd",
+"t" : "GLENMARK",
+"e" : "NSE",
+"l" : "537.00",
+"c" : "+2.70",
+"mc" : "151.37B",
+"cp" : "0.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14022907",
+"name" : "F D C Ltd (Parent)",
+"t" : "FDC",
+"e" : "NSE",
+"l" : "285.10",
+"c" : "-3.45",
+"mc" : "50.62B",
+"cp" : "-1.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13313409",
+"name" : "GlaxoSmithKline Pharmaceuticals Limited",
+"t" : "GLAXO",
+"e" : "NSE",
+"l" : "2,399.00",
+"c" : "-5.70",
+"mc" : "204.03B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "173-B, New Industrial Estate Road No. 6-G Udhna, SURAT, 395007, India",
+"phone": "+91-261-2663232",
+"fax": "+91-261-2665757",
+"url": "http:\u002F\u002Fwww.span.co.in\u002F",
+"overview" : "Span Divergent Limited, formerly Span Diagnostics Limited, is engaged in manufacturing and trading activity of food and healthcare products, information technology (IT) enabled technologies and gaming products. The Company operates through the Diagnostic products segment. The Company\u0027s subsidiaries include Span Diagnostics SA (Pty) Limited, Aranya Agri Biotech LLP, Biospan Scientific LLP, Dryfruit Factory LLP and Span Diagnostics Products LLP. The Company operates in India."
+} ]
+, "management" : [
+{
+"name" : "Sujata V. Desai",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Veeral Pradipkumar Desai",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Viral P. Desai",
+"title" : "Managing Director"
+}
+,
+{
+"name" : "Samiksha Kansara",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Needamangalam Gopalaswami",
+"age" : "69",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Lataben P. Desai",
+"title" : "Director"
+}
+,
+{
+"name" : "Pranav S. Desai",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shyamal Ghosh",
+"age" : "74",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Sanjay N. Mehta",
+"age" : "63",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

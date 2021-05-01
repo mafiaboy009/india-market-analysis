@@ -1,0 +1,293 @@
+
+// [
+{
+"symbol" : "532187",
+"exchange" : "BOM",
+"id": "5659785",
+"t" : "532187",
+"e" : "BOM",
+"name" : "Indusind Bank Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532187"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532187"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532187"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "28.44%",
+"annual" : "28.02%",
+"ttm" : "29.26%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "42.99%",
+"annual" : "42.60%",
+"ttm" : "44.40%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "58.56%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.78%",
+"ttm" : "1.81%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.96%",
+"ttm" : "16.14%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "25,314",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+48.35",
+"l" : "1,691.25",
+"cp" : "2.94",
+"ccol" : "chg",
+"op" : "1,647.00",
+"hi" : "1,700.20",
+"lo" : "1,646.40",
+"vo" : "41,078.00",
+"avvo" : "",
+"hi52" : "1,818.00",
+"lo52" : "1,288.05",
+"mc" : "1.01T",
+"pe" : "42.11",
+"fwpe" : "",
+"beta" : "",
+"eps" : "40.16",
+"dy" : "0.35",
+"ldiv" : "6.00",
+"shares" : "600.11M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5659785",
+"name" : "Indusind Bank Ltd",
+"t" : "532187",
+"e" : "BOM",
+"l" : "1,691.25",
+"c" : "+48.35",
+"mc" : "1.01T",
+"cp" : "2.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6038505",
+"name" : "Dhanlaxmi Bank Limited",
+"t" : "DHANBANK",
+"e" : "NSE",
+"l" : "22.85",
+"c" : "-0.25",
+"mc" : "5.78B",
+"cp" : "-1.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13082940",
+"name" : "HDFC Bank Limited",
+"t" : "HDFCBANK",
+"e" : "NSE",
+"l" : "1,912.50",
+"c" : "+31.95",
+"mc" : "4.97T",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15355585",
+"name" : "Andhra Bank",
+"t" : "ANDHRABANK",
+"e" : "NSE",
+"l" : "45.95",
+"c" : "+0.10",
+"mc" : "39.76B",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7445850",
+"name" : "LKP Finance Ltd",
+"t" : "507912",
+"e" : "BOM",
+"l" : "118.00",
+"c" : "+2.65",
+"mc" : "1.43B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9113181",
+"name" : "Geojit Financial Services Ltd",
+"t" : "GEOJITFSL",
+"e" : "NSE",
+"l" : "98.55",
+"c" : "+0.20",
+"mc" : "23.07B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16215470",
+"name" : "Aarya Global Shares and Securities Ltd",
+"t" : "531731",
+"e" : "BOM",
+"l" : "0.46",
+"c" : "0.00",
+"mc" : "9.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3227891",
+"name" : "India Cements Capital Ltd",
+"t" : "511355",
+"e" : "BOM",
+"l" : "5.20",
+"c" : "-0.15",
+"mc" : "112.66M",
+"cp" : "-2.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "333651",
+"name" : "Punjab National Bank",
+"t" : "PNB",
+"e" : "NSE",
+"l" : "111.90",
+"c" : "-1.55",
+"mc" : "271.30B",
+"cp" : "-1.37",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5674106",
+"name" : "Yes Bank Limited",
+"t" : "YESBANK",
+"e" : "NSE",
+"l" : "324.35",
+"c" : "+0.90",
+"mc" : "746.27B",
+"cp" : "0.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678082",
+"name" : "Kotak Mahindra Bank Ltd",
+"t" : "KOTAKBANK",
+"e" : "NSE",
+"l" : "1,105.00",
+"c" : "+24.15",
+"mc" : "2.10T",
+"cp" : "2.23",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "8th Floor, Tower 1, One Indbls Ctr 841, Senapati Bapat Marg,Elphinstn Rd(W), MUMBAI, 400013, India",
+"phone": "+91-22-24231999",
+"fax": "+91-22-24231998",
+"url": "http:\u002F\u002Fwww.indusind.com",
+"overview" : "IndusInd Bank Limited (the Bank) is engaged in banking and para-banking services. The Bank is involved in accepting deposits, such as savings accounts, current accounts and fixed deposits, and banking solutions. The Bank is engaged in granting loans to various segments, such as industries and businesses, and retail loans\u003B financing a range of vehicles or equipment to individuals, and priority sector lending. The Bank\u0027s segments include Treasury, Corporate\u002FWholesale Banking, Retail Banking and Other Banking Operations. The Treasury segment includes investment portfolios, profit or loss on sale of investments, profit or loss on foreign exchange transactions, equities, income from derivatives and money market operations. The Corporate\u002FWholesale Banking segment includes lending to and deposits from corporate customers. The Retail Banking segment includes lending to and deposits from retail customers. The Bank operates approximately 1,000 branches. The Company has operations in India."
+} ]
+, "management" : [
+{
+"name" : "Romesh Sobti",
+"age" : "67",
+"title" : "Chief Executive Officer, Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "S. V. Zaregaonkar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Paul Abraham",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "K. S. Sridhar",
+"title" : "Senior Executive Vice President"
+}
+,
+{
+"name" : "Ramaswamy Meyyappan",
+"title" : "Chief Risk Officer"
+}
+,
+{
+"name" : "Sanjeev Anand",
+"title" : "Country Head - Commercial Banking \u0026 Deputy Head - Corporate \u0026 Commercial Banking"
+}
+,
+{
+"name" : "Suhail Chander",
+"title" : "Head - Corporate \u0026 Commercial Banking"
+}
+,
+{
+"name" : "Ramesh Ganesan",
+"title" : "Head - Transaction Banking"
+}
+,
+{
+"name" : "Sumant Kathpalia",
+"title" : "Head - Consumer Banking"
+}
+,
+{
+"name" : "Arun Khurana",
+"title" : "Head - Global Markets Group"
+}
+]
+,"moreresources" : [
+]
+}]

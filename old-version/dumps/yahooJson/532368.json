@@ -1,0 +1,97 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2014",
+                "actual": {
+                  "raw": 0.74,
+                  "fmt": "0.74"
+                },
+                "estimate": {
+                  "raw": 1.74,
+                  "fmt": "1.74"
+                }
+              },
+              {
+                "date": "1Q2015",
+                "actual": {
+                  "raw": 1.62,
+                  "fmt": "1.62"
+                },
+                "estimate": {
+                  "raw": 1.65,
+                  "fmt": "1.65"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2015
+          },
+          "financialsChart": {
+            "yearly": [],
+            "quarterly": []
+          }
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 0.0,
+            "fmt": "0.00"
+          },
+          "targetHighPrice": {
+            "raw": 53.0,
+            "fmt": "53.00"
+          },
+          "targetLowPrice": {
+            "raw": 53.0,
+            "fmt": "53.00"
+          },
+          "targetMeanPrice": {
+            "raw": 53.0,
+            "fmt": "53.00"
+          },
+          "targetMedianPrice": {
+            "raw": 53.0,
+            "fmt": "53.00"
+          },
+          "recommendationMean": {
+            "raw": 1.0,
+            "fmt": "1.00"
+          },
+          "recommendationKey": "strong_buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {},
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {},
+          "debtToEquity": {},
+          "revenuePerShare": {},
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {},
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {},
+          "ebitdaMargins": {},
+          "operatingMargins": {},
+          "profitMargins": {}
+        }
+      }
+    ],
+    "error": null
+  }
+}

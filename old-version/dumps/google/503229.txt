@@ -1,0 +1,287 @@
+
+// [
+{
+"symbol" : "503229",
+"exchange" : "BOM",
+"id": "258405",
+"t" : "503229",
+"e" : "BOM",
+"name" : "Simplex Realty Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SIMP.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:503229"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:503229"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:503229"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-4.25%",
+"annual" : "-66.24%",
+"ttm" : "-34.57%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-40.69%",
+"annual" : "-157.24%",
+"ttm" : "-84.43%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-90.74%",
+"ttm" : "-43.38%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-4.84%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-5.33%",
+"ttm" : ""
+}
+]
+, "c" : "+0.15",
+"l" : "113.00",
+"cp" : "0.13",
+"ccol" : "chg",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "132.15",
+"lo52" : "85.30",
+"mc" : "337.58M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-17.18",
+"dy" : "0.71",
+"ldiv" : "0.80",
+"shares" : "2.99M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "258405",
+"name" : "Simplex Realty Ltd",
+"t" : "503229",
+"e" : "BOM",
+"l" : "113.00",
+"c" : "+0.15",
+"mc" : "337.58M",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11428734",
+"name" : "Godrej Properties Ltd",
+"t" : "GODREJPROP",
+"e" : "NSE",
+"l" : "785.00",
+"c" : "+4.10",
+"mc" : "169.48B",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11871803",
+"name" : "Manjeera Constructions Limited",
+"t" : "MANJEERA",
+"e" : "NSE",
+"l" : "62.20",
+"c" : "",
+"mc" : "778.02M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "9868297",
+"name" : "Shervani Industrial Syndicate Ltd",
+"t" : "526117",
+"e" : "BOM",
+"l" : "659.00",
+"c" : "+21.50",
+"mc" : "2.12B",
+"cp" : "3.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "610997127697210",
+"name" : "Samruddhi Realty Ltd",
+"t" : "535466",
+"e" : "BOM",
+"l" : "8.77",
+"c" : "+0.79",
+"mc" : "",
+"cp" : "9.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2034883",
+"name" : "Ritesh Properties and Industries Ltd",
+"t" : "526407",
+"e" : "BOM",
+"l" : "10.00",
+"c" : "+0.07",
+"mc" : "115.91M",
+"cp" : "0.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "874836",
+"name" : "Alpine Housing Development Corp Ltd",
+"t" : "526519",
+"e" : "BOM",
+"l" : "33.40",
+"c" : "+0.40",
+"mc" : "433.97M",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "424289626030902",
+"name" : "AGI Infra Ltd",
+"t" : "539042",
+"e" : "BOM",
+"l" : "195.00",
+"c" : "0.00",
+"mc" : "1.99B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1759904",
+"name" : "Kamanwala Housing Construction Ltd.",
+"t" : "511131",
+"e" : "BOM",
+"l" : "15.20",
+"c" : "+0.70",
+"mc" : "214.22M",
+"cp" : "4.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715451",
+"name" : "Shree Ram Urban Infrastructure Ltd",
+"t" : "503205",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "-1.00",
+"mc" : "1.65B",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "90502775190717",
+"name" : "Dhanuka Realty Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "30, Keshav Rao Khadye Marg Sant Gadge Maharaj Chowk Mahalaxmi (East), MUMBAI, 400011, India",
+"phone": "+91-22-23082951",
+"fax": "+91-22-23072773",
+"url": "http:\u002F\u002Fwww.simplex-group.com\u002F",
+"overview" : "Simplex Realty Limited, formerly The Simplex Mills Company Limited, is engaged in the business of construction and real estate development. The Company\u0027s project, Simplex KhushAangan, is a cluster of residential and commercial space located in the western suburbs of Mumbai. Simplex KhushAangan comprises of over two stories of commercial space on the front side and the rear side has approximately 20 stories residential tower, which offers two, three, and three and one\u002Ftwo bedroom hall kitchen (BHK) flats with amenities, including swimming pool, club house, gym, garden and others. The Company is engaged in developing medium\u002Fhigh end residential and commercial projects in Mumbai, Thane, Bangalore and Pune. The Company\u0027s project, Planet Godrej, covers an area of approximately 6.51 lacs square feet and consists of approximately five towers having over 45 floors each. Planet Godrej project consists of two BHK apartments, three BKH apartments, duplex and penthouses."
+} ]
+, "management" : [
+{
+"name" : "Nandan Damani",
+"age" : "61",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Surendra Kabra",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Shekher R. Singh",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sanjay N. Damani",
+"age" : "25",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Sandhya R. Kini",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "T. C. Suseel Kumar",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shabhapati Girijashankar Shukla",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Vishnubhai B. Haribhakti",
+"age" : "85",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Vijay S. Jindal",
+"title" : "Independent Additional Non-Executive Director"
+}
+,
+{
+"name" : "Surendra Kumar Somany",
+"age" : "84",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

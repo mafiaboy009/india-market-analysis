@@ -1,0 +1,414 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 116190437376,
+            "fmt": "116.19B",
+            "longFmt": "116,190,437,376"
+          },
+          "forwardPE": {
+            "raw": 28.06984,
+            "fmt": "28.07"
+          },
+          "profitMargins": {
+            "raw": 0.17296,
+            "fmt": "17.30%"
+          },
+          "floatShares": {
+            "raw": 26844343,
+            "fmt": "26.84M",
+            "longFmt": "26,844,343"
+          },
+          "sharesOutstanding": {
+            "raw": 94320400,
+            "fmt": "94.32M",
+            "longFmt": "94,320,400"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.816575,
+            "fmt": "0.82"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 301.269,
+            "fmt": "301.27"
+          },
+          "priceToBook": {
+            "raw": 4.856125,
+            "fmt": "4.86"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.035,
+            "fmt": "-3.50%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 4062718976,
+            "fmt": "4.06B",
+            "longFmt": "4,062,718,976"
+          },
+          "trailingEps": {
+            "raw": 43.077,
+            "fmt": "43.08"
+          },
+          "forwardEps": {
+            "raw": 52.12,
+            "fmt": "52.12"
+          },
+          "pegRatio": {
+            "raw": 0.53,
+            "fmt": "0.53"
+          },
+          "lastSplitFactor": "5/1",
+          "lastSplitDate": {
+            "raw": 1223856000,
+            "fmt": "2008-10-13"
+          },
+          "enterpriseToRevenue": {
+            "raw": 4.947,
+            "fmt": "4.95"
+          },
+          "enterpriseToEbitda": {
+            "raw": 21.763,
+            "fmt": "21.76"
+          },
+          "52WeekChange": {
+            "raw": -0.049010217,
+            "fmt": "-4.90%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 12.2,
+                  "fmt": "12.20"
+                },
+                "estimate": {
+                  "raw": 13.2,
+                  "fmt": "13.20"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 9.38,
+                  "fmt": "9.38"
+                },
+                "estimate": {
+                  "raw": 11.46,
+                  "fmt": "11.46"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 9.17,
+                  "fmt": "9.17"
+                },
+                "estimate": {
+                  "raw": 9.53,
+                  "fmt": "9.53"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 11.7,
+                  "fmt": "11.70"
+                },
+                "estimate": {
+                  "raw": 10.01,
+                  "fmt": "10.01"
+                }
+              }
+            ],
+            "currentQuarterEstimate": {
+              "raw": 11.26,
+              "fmt": "11.26"
+            },
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 20800783000,
+                  "fmt": "20.8B",
+                  "longFmt": "20,800,783,000"
+                },
+                "earnings": {
+                  "raw": 3249698000,
+                  "fmt": "3.25B",
+                  "longFmt": "3,249,698,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 21836369000,
+                  "fmt": "21.84B",
+                  "longFmt": "21,836,369,000"
+                },
+                "earnings": {
+                  "raw": 4309393000,
+                  "fmt": "4.31B",
+                  "longFmt": "4,309,393,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 20983914000,
+                  "fmt": "20.98B",
+                  "longFmt": "20,983,914,000"
+                },
+                "earnings": {
+                  "raw": 4568729000,
+                  "fmt": "4.57B",
+                  "longFmt": "4,568,729,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 22460140000,
+                  "fmt": "22.46B",
+                  "longFmt": "22,460,140,000"
+                },
+                "earnings": {
+                  "raw": 4567693000,
+                  "fmt": "4.57B",
+                  "longFmt": "4,567,693,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 6476112000,
+                  "fmt": "6.48B",
+                  "longFmt": "6,476,112,000"
+                },
+                "earnings": {
+                  "raw": 1150950000,
+                  "fmt": "1.15B",
+                  "longFmt": "1,150,950,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 5699721000,
+                  "fmt": "5.7B",
+                  "longFmt": "5,699,721,000"
+                },
+                "earnings": {
+                  "raw": 884924000,
+                  "fmt": "884.92M",
+                  "longFmt": "884,924,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 5591459000,
+                  "fmt": "5.59B",
+                  "longFmt": "5,591,459,000"
+                },
+                "earnings": {
+                  "raw": 865086000,
+                  "fmt": "865.09M",
+                  "longFmt": "865,086,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 5721643000,
+                  "fmt": "5.72B",
+                  "longFmt": "5,721,643,000"
+                },
+                "earnings": {
+                  "raw": 1161525000,
+                  "fmt": "1.16B",
+                  "longFmt": "1,161,525,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "11-12, Sigma Corporates",
+          "address2": "Behind HOF, Sindhubhavan Road Off. S. G. Highway Bodakdev",
+          "city": "Ahmedabad",
+          "zip": "380058",
+          "country": "India",
+          "phone": "91 79 6604 7800",
+          "fax": "91 79 6604 7848",
+          "website": "http://www.aiaengineering.com",
+          "industry": "Diversified Machinery",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "AIA Engineering Limited designs, develops, manufactures, installs, and services high chromium wear, corrosion, and abrasion resistant castings for use in cement, mining, and thermal power generation industries in India and internationally. The company manufactures and supplies grinding media and shell liners, as well as diaphragms, such as partition walls, discharge diaphragms, drying chamber diaphragms, and dopple rotator diaphragms for tube mill applications; and grinding tables and rolls for vertical mill applications. It also provides castings for pre heaters, kilns, and coolers; and wear parts for cone crushers, hammer crushers, impellor crushers, and vertical shaft impact crushers. In addition, the company offers tube mill and rod mill internal products, including grinding media, inlet/outlet head liners, shell liners, and diaphragms; and wear components for mining applications. Further, it provides tube mill internals, vertical mill parts, and high performance milling systems; and installation and commissioning supervision, and mill optimization technical services for the power industry, as well as wear components for the aggregates industry. Additionally, the company offers mill audit, turnkey installation and commissioning, stock assessment and management, and performance monitoring services. AIA Engineering Limited was founded in 1979 and is based in Ahmedabad, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1463.0,
+            "fmt": "1,463.00"
+          },
+          "targetHighPrice": {
+            "raw": 2417.0,
+            "fmt": "2,417.00"
+          },
+          "targetLowPrice": {
+            "raw": 1350.0,
+            "fmt": "1,350.00"
+          },
+          "targetMeanPrice": {
+            "raw": 1565.75,
+            "fmt": "1,565.75"
+          },
+          "targetMedianPrice": {
+            "raw": 1517.5,
+            "fmt": "1,517.50"
+          },
+          "recommendationMean": {
+            "raw": 2.5,
+            "fmt": "2.50"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 16,
+            "fmt": "16",
+            "longFmt": "16"
+          },
+          "totalCash": {
+            "raw": 12561761280,
+            "fmt": "12.56B",
+            "longFmt": "12,561,761,280"
+          },
+          "totalCashPerShare": {
+            "raw": 133.131,
+            "fmt": "133.13"
+          },
+          "ebitda": {
+            "raw": 5338985472,
+            "fmt": "5.34B",
+            "longFmt": "5,338,985,472"
+          },
+          "totalDebt": {
+            "raw": 1456227968,
+            "fmt": "1.46B",
+            "longFmt": "1,456,227,968"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 23488933888,
+            "fmt": "23.49B",
+            "longFmt": "23,488,933,888"
+          },
+          "debtToEquity": {
+            "raw": 5.109,
+            "fmt": "5.11"
+          },
+          "revenuePerShare": {
+            "raw": 249.055,
+            "fmt": "249.05"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 15069994000,
+            "fmt": "15.07B",
+            "longFmt": "15,069,994,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.035,
+            "fmt": "-3.50%"
+          },
+          "revenueGrowth": {
+            "raw": -0.03,
+            "fmt": "-3.00%"
+          },
+          "grossMargins": {
+            "raw": 0.61357,
+            "fmt": "61.36%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.22729999,
+            "fmt": "22.73%"
+          },
+          "operatingMargins": {
+            "raw": 0.19453,
+            "fmt": "19.45%"
+          },
+          "profitMargins": {
+            "raw": 0.17296,
+            "fmt": "17.30%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

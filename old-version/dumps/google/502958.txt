@@ -1,0 +1,283 @@
+
+// [
+{
+"symbol" : "502958",
+"exchange" : "BOM",
+"id": "715416",
+"t" : "502958",
+"e" : "BOM",
+"name" : "Lakshmi Mills Company Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=LKML.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:502958"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:502958"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:502958"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.57%",
+"annual" : "0.51%",
+"ttm" : "0.92%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.49%",
+"annual" : "2.95%",
+"ttm" : "2.33%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.93%",
+"ttm" : "6.66%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.48%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.85%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,050",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+50.00",
+"l" : "3,500.00",
+"cp" : "1.45",
+"ccol" : "chg",
+"op" : "3,450.00",
+"hi" : "3,514.45",
+"lo" : "3,450.00",
+"vo" : "48.00",
+"avvo" : "",
+"hi52" : "4,299.00",
+"lo52" : "2,300.00",
+"mc" : "2.43B",
+"pe" : "117.79",
+"fwpe" : "",
+"beta" : "",
+"eps" : "29.71",
+"dy" : "0.26",
+"ldiv" : "9.00",
+"shares" : "695,550.00",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715416",
+"name" : "Lakshmi Mills Company Ltd",
+"t" : "502958",
+"e" : "BOM",
+"l" : "3,500.00",
+"c" : "+50.00",
+"mc" : "2.43B",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14208119",
+"name" : "Soma Textiles and Industries Ltd",
+"t" : "SOMATEX",
+"e" : "NSE",
+"l" : "14.25",
+"c" : "-0.15",
+"mc" : "467.47M",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9534454",
+"name" : "Banswara Syntex Ltd.",
+"t" : "BANSWRAS",
+"e" : "NSE",
+"l" : "117.00",
+"c" : "+1.40",
+"mc" : "2.01B",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10132733",
+"name" : "Vardhman Polytex Ltd.",
+"t" : "VARDMNPOLY",
+"e" : "NSE",
+"l" : "23.85",
+"c" : "+0.60",
+"mc" : "524.87M",
+"cp" : "2.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6458958",
+"name" : "Mk Exim india Ltd",
+"t" : "538890",
+"e" : "BOM",
+"l" : "8.60",
+"c" : "-0.45",
+"mc" : "61.75M",
+"cp" : "-4.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1631719",
+"name" : "Arvind Limited",
+"t" : "ARVIND",
+"e" : "NSE",
+"l" : "416.85",
+"c" : "+6.15",
+"mc" : "107.59B",
+"cp" : "1.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5980140",
+"name" : "Bannari Amman Spinning Mills Ltd.",
+"t" : "BASML",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "+5.95",
+"mc" : "4.41B",
+"cp" : "2.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10814901",
+"name" : "Sel Manufacturing Company Ltd",
+"t" : "SELMCL",
+"e" : "NSE",
+"l" : "2.45",
+"c" : "-0.05",
+"mc" : "795.88M",
+"cp" : "-2.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11965403",
+"name" : "Aarvee Denims \u0026 Exports Ltd.",
+"t" : "AARVEEDEN",
+"e" : "NSE",
+"l" : "49.10",
+"c" : "-0.35",
+"mc" : "1.15B",
+"cp" : "-0.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16647924",
+"name" : "Suryavanshi Spinning Mills Ltd",
+"t" : "514140",
+"e" : "BOM",
+"l" : "6.10",
+"c" : "-0.21",
+"mc" : "29.94M",
+"cp" : "-3.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "391965885079385",
+"name" : "Supreme (India) Impex Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "686, Avanashi Road, Coimbatore, COIMBATORE, 641037, India",
+"phone": "+91-422-2245461",
+"fax": "+91-422-2246508",
+"url": "http:\u002F\u002Fwww.lakshmimills.com\u002F",
+"overview" : "The Lakshmi Mills Company Limited is engaged in the manufacturing of yarn and trading in cloth and garments. The Company\u0027s main products\u002Fservices include cotton yarn, cotton blended yarn and man-made fibre blended yarn. It operates through textile intermediary products segment. The Company manufactures 100% combed cotton yarns in English number (NE) 50s to NE 120s and polyester cotton blended yarns in NE 40s to NE 100s. In addition, it manufactures 100% Lenzing Micro Modal\u002FModal\u002FTencel yarns, Micro Modal\u002FModal Cotton Blended yarns, 100% Micro Tencel yarn, Tencel\u002FCotton Blended yarn in counts NE 30s to 100s and X-Static Yarns in counts NE 20s to 40s. Its range includes single and doubled yarns for knitting and weaving. It sells fabrics and made-ups to domestic and export market. Its products include grey cloth, dyed and processed fabrics, school and industrial uniforms, and fabrics\u002Fmade-ups for hospital industry. Its plants are located at Palladam and Kovilpatti."
+} ]
+, "management" : [
+{
+"name" : "S. Pathy",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Aditya Krishna Pathy",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "N. Singaravel",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "R. Santharam",
+"age" : "77",
+"title" : "Non-Executive Vice Non - Independent Vice Chairman of the Board"
+}
+,
+{
+"name" : "Suguna Ravichandran",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sanjay Jayavarthanavelu",
+"age" : "45",
+"title" : "Non-Executive Non Independent Director"
+}
+,
+{
+"name" : "Satish Ajmera",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "V. Jagannathan",
+"age" : "82",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

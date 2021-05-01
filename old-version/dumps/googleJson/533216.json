@@ -1,0 +1,287 @@
+
+ [
+{
+"symbol" : "533216",
+"exchange" : "BOM",
+"id": "6600547",
+"t" : "533216",
+"e" : "BOM",
+"name" : "Technofab Engineering"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533216"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533216"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533216"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002711)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.48%",
+"annual" : "2.16%",
+"ttm" : "8.83%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.45%",
+"annual" : "8.39%",
+"ttm" : "13.70%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.64%",
+"ttm" : "14.10%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.68%",
+"ttm" : "12.31%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.68%",
+"ttm" : "26.80%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "392",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.15",
+"l" : "232.20",
+"cp" : "0.06",
+"ccol" : "chg",
+"op" : "232.10",
+"hi" : "232.20",
+"lo" : "232.10",
+"vo" : "145.00",
+"avvo" : "",
+"hi52" : "339.40",
+"lo52" : "177.30",
+"mc" : "2.39B",
+"pe" : "8.74",
+"fwpe" : "",
+"beta" : "",
+"eps" : "26.58",
+"dy" : "",
+"ldiv" : "",
+"shares" : "10.49M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "6600547",
+"name" : "Technofab Engineering",
+"t" : "533216",
+"e" : "BOM",
+"l" : "232.20",
+"c" : "+0.15",
+"mc" : "2.39B",
+"cp" : "0.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9964748",
+"name" : "Jyoti Structures Limited",
+"t" : "JYOTISTRUC",
+"e" : "NSE",
+"l" : "10.75",
+"c" : "+0.50",
+"mc" : "1.17B",
+"cp" : "4.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15759472",
+"name" : "ICSA (India) Ltd",
+"t" : "ICSA",
+"e" : "NSE",
+"l" : "3.45",
+"c" : "+0.15",
+"mc" : "166.08M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15284677",
+"name" : "Kalpataru Power Transmission Limited",
+"t" : "KALPATPOWR",
+"e" : "NSE",
+"l" : "483.00",
+"c" : "+22.35",
+"mc" : "73.82B",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715522",
+"name" : "Techno Electric \u0026 Engineering. Co., Ltd.",
+"t" : "TECHNO",
+"e" : "NSE",
+"l" : "367.00",
+"c" : "+7.60",
+"mc" : "41.29B",
+"cp" : "2.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4804197",
+"name" : "A2z Infra Engineering Ltd",
+"t" : "A2ZINFRA",
+"e" : "NSE",
+"l" : "34.85",
+"c" : "+1.05",
+"mc" : "5.07B",
+"cp" : "3.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15510598",
+"name" : "KEC International Ltd",
+"t" : "KEC",
+"e" : "NSE",
+"l" : "427.70",
+"c" : "+26.45",
+"mc" : "109.76B",
+"cp" : "6.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "189075724368911",
+"name" : "Tarini International Ltd",
+"t" : "538496",
+"e" : "BOM",
+"l" : "29.90",
+"c" : "0.00",
+"mc" : "388.64M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "28179114825360",
+"name" : "Sharika Enterprises Ltd",
+"t" : "540786",
+"e" : "BOM",
+"l" : "55.25",
+"c" : "+3.75",
+"mc" : "598.08M",
+"cp" : "7.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "730951",
+"name" : "BS Ltd",
+"t" : "BSLIMITED",
+"e" : "NSE",
+"l" : "1.30",
+"c" : "+0.05",
+"mc" : "552.10M",
+"cp" : "4.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9747293",
+"name" : "Mukand Engineers Limited",
+"t" : "MUKANDENGG",
+"e" : "NSE",
+"l" : "42.75",
+"c" : "+0.90",
+"mc" : "538.11M",
+"cp" : "2.15",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Plot 5, Sector 27-C, Mathura Road, FARIDABAD, 121003, India",
+"phone": "+91-129-2270202",
+"fax": "+91-129-2270201",
+"url": "http:\u002F\u002Fwww.technofabengineering.com\u002F",
+"overview" : "Technofab Engineering Limited is engaged in providing long-distance pipelines, communication and power line (cables) and construction services. The Company is also engaged in the business of providing engineering, procurement and construction services for auxiliary\u002Fbalance of plant systems on turnkey basis. Its project categories include industrial, utility and low pressure piping systems\u003B fuel oil, unloading, storage and handling systems\u003B fire detection, alarm and protection systems\u003B water, wastewater and effluent treatment and recycling systems\u003B tankages\u003B raw\u002Fsea water intake systems, and plant electrification\u002Ftransmission and distribution\u002Frural electrification. The Company serves customers, both domestic and overseas, operating in sectors, such as thermal power, nuclear power, water\u002Fwaste water, electrical, oil and gas, and industrial. Its operations outside India include operations in several countries in sub Saharan Africa, such as Ethiopia, Ghana, Kenya, Malawi and Zambia."
+} ]
+, "management" : [
+{
+"name" : "Avinash Chander Gupta",
+"age" : "76",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sandeep Kumar Vij",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Suman Kumar Verma",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Arjun Gupta",
+"age" : "47",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Nakul Gupta",
+"age" : "46",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Pawan Chopra",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Viresh Shankar Mathur",
+"age" : "69",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Arun Mitter",
+"age" : "54",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

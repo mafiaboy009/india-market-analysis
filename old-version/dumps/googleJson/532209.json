@@ -1,0 +1,281 @@
+
+ [
+{
+"symbol" : "532209",
+"exchange" : "BOM",
+"id": "686642",
+"t" : "532209",
+"e" : "BOM",
+"name" : "Jammu \u0026 Kashmir Bank Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532209"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532209"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532209"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-7.35%",
+"annual" : "-54.25%",
+"ttm" : "12.85%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-2.32%",
+"annual" : "-50.05%",
+"ttm" : "21.41%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-44.08%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "-0.30%",
+"annual" : "-2.01%",
+"ttm" : "0.53%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "-3.59%",
+"annual" : "-27.01%",
+"ttm" : "6.61%"
+}
+]
+, "c" : "+1.95",
+"l" : "68.00",
+"cp" : "2.95",
+"ccol" : "chg",
+"op" : "66.10",
+"hi" : "68.20",
+"lo" : "66.00",
+"vo" : "30,143.00",
+"avvo" : "",
+"hi52" : "95.65",
+"lo52" : "64.25",
+"mc" : "37.87B",
+"pe" : "7.96",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.54",
+"dy" : "2.57",
+"ldiv" : "1.75",
+"shares" : "556.86M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "686642",
+"name" : "Jammu \u0026 Kashmir Bank Limited",
+"t" : "532209",
+"e" : "BOM",
+"l" : "68.00",
+"c" : "+1.95",
+"mc" : "37.87B",
+"cp" : "2.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12992794",
+"name" : "Bank of Maharashtra Ltd",
+"t" : "MAHABANK",
+"e" : "NSE",
+"l" : "16.85",
+"c" : "+0.10",
+"mc" : "23.11B",
+"cp" : "0.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "237202",
+"name" : "Bank of India",
+"t" : "BANKINDIA",
+"e" : "NSE",
+"l" : "126.70",
+"c" : "-2.25",
+"mc" : "150.26B",
+"cp" : "-1.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6735160",
+"name" : "State Bank of Bikaner and Jaipur",
+"t" : "SBBJ",
+"e" : "NSE",
+"l" : "770.00",
+"c" : "",
+"mc" : "53.90B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "1731931",
+"name" : "State Bank Of Travancore",
+"t" : "SBT",
+"e" : "NSE",
+"l" : "605.00",
+"c" : "",
+"mc" : "43.02B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "16358183",
+"name" : "Golden Legend Leasing \u0026 Finance Ltd",
+"t" : "509024",
+"e" : "BOM",
+"l" : "109.80",
+"c" : "0.00",
+"mc" : "1.56B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14269401",
+"name" : "Syndicate Bank Ltd.",
+"t" : "SYNDIBANK",
+"e" : "NSE",
+"l" : "60.30",
+"c" : "-0.30",
+"mc" : "62.74B",
+"cp" : "-0.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10731161",
+"name" : "Allahabad Bank",
+"t" : "ALBK",
+"e" : "NSE",
+"l" : "52.10",
+"c" : "-0.10",
+"mc" : "41.57B",
+"cp" : "-0.19",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6461367",
+"name" : "State Bank of Mysore",
+"t" : "MYSOREBANK",
+"e" : "NSE",
+"l" : "604.05",
+"c" : "",
+"mc" : "29.00B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6775936",
+"name" : "Canara Bank Ltd",
+"t" : "CANBK",
+"e" : "NSE",
+"l" : "309.80",
+"c" : "-4.05",
+"mc" : "185.13B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "236042",
+"name" : "Union Bank of India",
+"t" : "UNIONBANK",
+"e" : "NSE",
+"l" : "107.65",
+"c" : "-0.95",
+"mc" : "92.16B",
+"cp" : "-0.87",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "M. A. Road, SRINAGAR, 190001, India",
+"phone": "+91-194-2481930",
+"fax": "+91-194-2481928",
+"url": "http:\u002F\u002Fjkbank.net",
+"overview" : "The Jammu \u0026 Kashmir Bank Limited is engaged in the banking business. The Company offers a range of products and services, such as loans, insurance, tax products\u002Fplanning, savings and deposits, cards, mutual funds and non-resident banking. Its segments include Treasury Operations, Corporate\u002FWhole sale banking, Retail Banking and Other Banking Business. It operates through over 857 branches, which include approximately 45 metro branches, over 193 urban branches, approximately 157 semi-urban branches and over 462 rural branches, which are spread over 20 states and a union territory. It operates over 1,010 automated teller machines. It provides loans, such as Educational Finance, Agriculture Finance and Automobile Finance. It provides savings and deposits, such as Salary Accounts, Current Accounts and Term Bank Deposits. The Company also provides non-resident banking services, such as Non Resident External (NRE) Rupee Deposits and Non Resident Ordinary (NRO) Rupee Deposits."
+} ]
+, "management" : [
+{
+"name" : "Parvez Ahmad",
+"title" : "Chairman of the Board, Chief Executive Officer"
+}
+,
+{
+"name" : "Vagish Chander",
+"title" : "Executive President"
+}
+,
+{
+"name" : "S. K. Bhat",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Mohammad Shafi Mir",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sanjiv Agarwal Ph.D.",
+"title" : "Director"
+}
+,
+{
+"name" : "Rahul Bansal",
+"title" : "Director"
+}
+,
+{
+"name" : "Sunil Chandiramani",
+"title" : "Director"
+}
+,
+{
+"name" : "Navin Kumar Choudhary",
+"title" : "Non-Independent Director"
+}
+,
+{
+"name" : "Yogesh Kumar Dayal",
+"title" : "Director"
+}
+]
+,"moreresources" : [
+]
+}]

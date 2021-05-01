@@ -1,0 +1,285 @@
+
+// [
+{
+"symbol" : "504959",
+"exchange" : "BOM",
+"id": "5411987",
+"t" : "504959",
+"e" : "BOM",
+"name" : "Stovec Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=STOV.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:504959"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:504959"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:504959"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002713)",
+"kr_annual_date" : "2016",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.98%",
+"annual" : "12.82%",
+"ttm" : "13.69%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.48%",
+"annual" : "18.26%",
+"ttm" : "15.18%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "20.94%",
+"ttm" : "17.11%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "18.58%",
+"ttm" : "15.81%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "30.67%",
+"ttm" : "22.53%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "177",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-25.00",
+"l" : "2,935.00",
+"cp" : "-0.84",
+"ccol" : "chr",
+"op" : "2,999.00",
+"hi" : "2,999.80",
+"lo" : "2,935.00",
+"vo" : "661.00",
+"avvo" : "",
+"hi52" : "3,874.95",
+"lo52" : "1,999.10",
+"mc" : "6.13B",
+"pe" : "57.92",
+"fwpe" : "",
+"beta" : "",
+"eps" : "50.68",
+"dy" : "1.06",
+"ldiv" : "31.00",
+"shares" : "2.09M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5411987",
+"name" : "Stovec Industries Ltd",
+"t" : "504959",
+"e" : "BOM",
+"l" : "2,935.00",
+"c" : "-25.00",
+"mc" : "6.13B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14662864",
+"name" : "Veejay Lakshmi Engineering Works Ltd",
+"t" : "522267",
+"e" : "BOM",
+"l" : "55.00",
+"c" : "+0.50",
+"mc" : "278.85M",
+"cp" : "0.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11870079",
+"name" : "Integra Engineering India Ltd",
+"t" : "505358",
+"e" : "BOM",
+"l" : "56.30",
+"c" : "-0.05",
+"mc" : "1.94B",
+"cp" : "-0.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1118451748450639",
+"name" : "Meera Industries Ltd",
+"t" : "540519",
+"e" : "BOM",
+"l" : "311.00",
+"c" : "+5.00",
+"mc" : "1.22B",
+"cp" : "1.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9464775",
+"name" : "Chandni Textiles Engineering Indstrs Ltd",
+"t" : "522292",
+"e" : "BOM",
+"l" : "43.10",
+"c" : "+2.05",
+"mc" : "689.64M",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2290301",
+"name" : "Lakshmi Machine Works Ltd",
+"t" : "LAXMIMACH",
+"e" : "NSE",
+"l" : "6,395.00",
+"c" : "+214.20",
+"mc" : "70.41B",
+"cp" : "3.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6509278",
+"name" : "Seasons Furnishings Ltd",
+"t" : "521182",
+"e" : "BOM",
+"l" : "6.50",
+"c" : "+0.25",
+"mc" : "48.06M",
+"cp" : "4.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715420",
+"name" : "Batliboi Ltd.",
+"t" : "522004",
+"e" : "BOM",
+"l" : "28.50",
+"c" : "-1.50",
+"mc" : "818.40M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6515568",
+"name" : "Shilp Gravures Ltd",
+"t" : "513709",
+"e" : "BOM",
+"l" : "139.80",
+"c" : "-0.35",
+"mc" : "859.74M",
+"cp" : "-0.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2489274",
+"name" : "MPIL Corporation Ltd",
+"t" : "500450",
+"e" : "BOM",
+"l" : "250.00",
+"c" : "+11.00",
+"mc" : "142.89M",
+"cp" : "4.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15522659",
+"name" : "Krishna Engineering Works Ltd",
+"t" : "KRISHNAENG",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "N.I.D.C Near Lambha Village, Post Narol, AHMEDABAD, 382405, India",
+"phone": "+91-79-30412300",
+"fax": "+91-79-25710406",
+"overview" : "Stovec Industries Limited (Stovec) is an India-based company, which is engaged in the development and production of consumables for their use in textile and graphic printing industry. The Company\u0027s products and services include perforated rotary screens and automatic rotary screen printing machine. The Company has three segments: Textile Consumables and Textile Machinery, Graphics Product and Galvanic. The Textile Consumables and Textile Machinery segment includes laquer and auxiliary machinery chemicals, engraving equipment, components and spares. The Graphics Product segment includes anilox rollers, rotamesh screens and RotaPlate. The Galvanic segment includes galvano consumables. The Company is engaged in the business of printing machines supply, installation and after sales support. Stovec operates in a range of verticals, including textile printing, graphics printing and sugar filtration. The Company offers digital ink and sugar screens. Stovec is a part of SPGPrints Group."
+} ]
+, "management" : [
+{
+"name" : "Girish Deshpande",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Varsha Adhikari",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Shailesh Wani",
+"age" : "47",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "K. M. Thanawalla",
+"age" : "72",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Guillaume Cornelis Gerardus Roncken",
+"age" : "49",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Dirk W. Joustra",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Everdina Herma Slijkhis",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Marco Philippus Ardeshir Wadia",
+"age" : "59",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

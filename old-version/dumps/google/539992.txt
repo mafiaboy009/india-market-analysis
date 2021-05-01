@@ -1,0 +1,235 @@
+
+// [
+{
+"symbol" : "539992",
+"exchange" : "BOM",
+"id": "844130990508719",
+"t" : "539992",
+"e" : "BOM",
+"name" : "Lloyds Steels Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:539992"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:539992"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:539992"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.05%",
+"annual" : "1.09%",
+"ttm" : "1.22%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-0.39%",
+"annual" : "-5.31%",
+"ttm" : "0.22%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-3.93%",
+"ttm" : "1.25%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.16%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.89%",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "1.60",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "1.65",
+"hi" : "1.66",
+"lo" : "1.52",
+"vo" : "1.04M",
+"avvo" : "",
+"hi52" : "4.48",
+"lo52" : "1.25",
+"mc" : "1.44B",
+"pe" : "177.19",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.01",
+"dy" : "",
+"ldiv" : "",
+"shares" : "898.70M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "844130990508719",
+"name" : "Lloyds Steels Industries Ltd",
+"t" : "539992",
+"e" : "BOM",
+"l" : "1.60",
+"c" : "0.00",
+"mc" : "1.44B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "272373390138041",
+"name" : "Manaksia Steels Ltd",
+"t" : "MANAKSTEEL",
+"e" : "NSE",
+"l" : "33.50",
+"c" : "-1.55",
+"mc" : "2.19B",
+"cp" : "-4.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4769187",
+"name" : "Shah Alloys Ltd.",
+"t" : "SHAHALLOYS",
+"e" : "NSE",
+"l" : "27.20",
+"c" : "+1.25",
+"mc" : "538.49M",
+"cp" : "4.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "354352498132282",
+"name" : "Vardhman Special Steels Ltd",
+"t" : "VSSL",
+"e" : "NSE",
+"l" : "156.20",
+"c" : "-10.95",
+"mc" : "4.97B",
+"cp" : "-6.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8542662",
+"name" : "Gontermann Peipers India Ltd.",
+"t" : "504701",
+"e" : "BOM",
+"l" : "7.50",
+"c" : "+0.07",
+"mc" : "160.92M",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3952531",
+"name" : "Pennar Industries Ltd",
+"t" : "PENIND",
+"e" : "NSE",
+"l" : "61.50",
+"c" : "+2.15",
+"mc" : "7.40B",
+"cp" : "3.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "22371944242314",
+"name" : "SVP Housing Ltd",
+"t" : "539041",
+"e" : "BOM",
+"l" : "24.80",
+"c" : "-0.30",
+"mc" : "277.25M",
+"cp" : "-1.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15105252",
+"name" : "Sanghvi Forging and Engineering Ltd",
+"t" : "SANGHVIFOR",
+"e" : "NSE",
+"l" : "35.85",
+"c" : "-0.30",
+"mc" : "536.11M",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722448",
+"name" : "Rajkumar Forge limited",
+"t" : "513369",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "+1.60",
+"mc" : "437.58M",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4647349",
+"name" : "Nova Iron and Steel Ltd",
+"t" : "513566",
+"e" : "BOM",
+"l" : "8.13",
+"c" : "+0.10",
+"mc" : "2.45B",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12747058",
+"name" : "Tata Sponge Iron Ltd",
+"t" : "TATASPONGE",
+"e" : "NSE",
+"l" : "1,066.00",
+"c" : "+31.30",
+"mc" : "16.46B",
+"cp" : "3.03",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": ", MUMBAI, 400013, India",
+"phone": "+91-22-30418111",
+"fax": "+91-22-30418260",
+"url": "http:\u002F\u002Fwww.lloydsengg.in\u002F",
+"overview" : "Lloyds Steels Industries Limited is engaged in manufacturing of engineering and capital equipment products. The main business of the Company is design, engineering, manufacturing, fabrication, supply, erection and commissioning of all types of mechanical, hydraulic, structural, process plants, metallurgical, chemical plants equipment, including marine loading\u002Funloading arms, truck\u002Fwagon loading\u002Funloading arms, columns, pressure vessels, dryers, boilers, power plant, steel plant equipment, and execution of turn-key and engineering procurement construction (EPC) projects. The Company offers Hot Rolled Products, Cold Rolled Full Hard Products and Galvanised Products. Its Engineering Division designs and manufactures heavy equipment, machines for hydro carbon, oil and gas, steel plants, power plants, boilers and turn-key projects. Its steel plant equipment includes Ball Grinding Mills and Rotary Dryers, Equipment for Steel Melting Shop and Hot Rolling Mill Equipment."
+} ]
+,"moreresources" : [
+]
+}]

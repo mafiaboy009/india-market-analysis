@@ -1,0 +1,375 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 2093260288,
+            "fmt": "2.09B",
+            "longFmt": "2,093,260,288"
+          },
+          "forwardPE": {
+            "raw": 4.9786325,
+            "fmt": "4.98"
+          },
+          "profitMargins": {
+            "raw": 0.05487,
+            "fmt": "5.49%"
+          },
+          "floatShares": {
+            "raw": 26930055,
+            "fmt": "26.93M",
+            "longFmt": "26,930,055"
+          },
+          "sharesOutstanding": {
+            "raw": 89133104,
+            "fmt": "89.13M",
+            "longFmt": "89,133,104"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -1.271378,
+            "fmt": "-1.27"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 14.735,
+            "fmt": "14.73"
+          },
+          "priceToBook": {
+            "raw": 1.581269,
+            "fmt": "1.58"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 10.72,
+            "fmt": "1,072.00%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 295096992,
+            "fmt": "295.1M",
+            "longFmt": "295,096,992"
+          },
+          "trailingEps": {
+            "raw": 3.299,
+            "fmt": "3.30"
+          },
+          "forwardEps": {
+            "raw": 4.68,
+            "fmt": "4.68"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.389,
+            "fmt": "0.39"
+          },
+          "enterpriseToEbitda": {
+            "raw": 3.623,
+            "fmt": "3.62"
+          },
+          "52WeekChange": {
+            "raw": -0.010121465,
+            "fmt": "-1.01%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 0.75,
+                  "fmt": "0.75"
+                },
+                "estimate": {
+                  "raw": 0.83,
+                  "fmt": "0.83"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 5321386000,
+                  "fmt": "5.32B",
+                  "longFmt": "5,321,386,000"
+                },
+                "earnings": {
+                  "raw": 72593000,
+                  "fmt": "72.59M",
+                  "longFmt": "72,593,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 5416292000,
+                  "fmt": "5.42B",
+                  "longFmt": "5,416,292,000"
+                },
+                "earnings": {
+                  "raw": 145745000,
+                  "fmt": "145.75M",
+                  "longFmt": "145,745,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 5392101000,
+                  "fmt": "5.39B",
+                  "longFmt": "5,392,101,000"
+                },
+                "earnings": {
+                  "raw": 299339000,
+                  "fmt": "299.34M",
+                  "longFmt": "299,339,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 4683126000,
+                  "fmt": "4.68B",
+                  "longFmt": "4,683,126,000"
+                },
+                "earnings": {
+                  "raw": 340397000,
+                  "fmt": "340.4M",
+                  "longFmt": "340,397,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 1363326000,
+                  "fmt": "1.36B",
+                  "longFmt": "1,363,326,000"
+                },
+                "earnings": {
+                  "raw": 77097000,
+                  "fmt": "77.1M",
+                  "longFmt": "77,097,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 1190900000,
+                  "fmt": "1.19B",
+                  "longFmt": "1,190,900,000"
+                },
+                "earnings": {
+                  "raw": 32500000,
+                  "fmt": "32.5M",
+                  "longFmt": "32,500,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 1322000000,
+                  "fmt": "1.32B",
+                  "longFmt": "1,322,000,000"
+                },
+                "earnings": {
+                  "raw": 67000000,
+                  "fmt": "67M",
+                  "longFmt": "67,000,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 1457000000,
+                  "fmt": "1.46B",
+                  "longFmt": "1,457,000,000"
+                },
+                "earnings": {
+                  "raw": 117200000,
+                  "fmt": "117.2M",
+                  "longFmt": "117,200,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "M-14, Connaught Circus",
+          "address2": "Middle Circle",
+          "city": "New Delhi",
+          "zip": "110001",
+          "country": "India",
+          "phone": "91 11 4762 7400",
+          "fax": "91 11 4762 7497",
+          "website": "http://www.pasupatiacrylon.com",
+          "industry": "Textile Industrial",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Pasupati Acrylon Limited manufactures and sells acrylic fibers in India. It offers regular, shrinkable, and high shrinkable acrylic staple fibers; and Hydrolon, a specialty fiber for apparel wear, sport wear, polo-shirts, T-shirts, summer and spring wear, socks, towels, bath-mats, bed-spreads, etc. The company also provides regular and shrinkable acrylic tows; and non-shrinkable, high shrinkable, and high bulk acrylic tops. It also exports its products to various countries, such as China, South America, Israel, Bangladesh, Indonesia, the Middle East, Turkey, Europe, etc. Pasupati Acrylon Limited was incorporated in 1982 and is based in New Delhi, India.",
+          "fullTimeEmployees": 487,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 23.3,
+            "fmt": "23.30"
+          },
+          "targetHighPrice": {
+            "raw": 10.0,
+            "fmt": "10.00"
+          },
+          "targetLowPrice": {
+            "raw": 10.0,
+            "fmt": "10.00"
+          },
+          "targetMeanPrice": {
+            "raw": 10.0,
+            "fmt": "10.00"
+          },
+          "targetMedianPrice": {
+            "raw": 10.0,
+            "fmt": "10.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 344400000,
+            "fmt": "344.4M",
+            "longFmt": "344,400,000"
+          },
+          "totalCashPerShare": {
+            "raw": 3.85,
+            "fmt": "3.85"
+          },
+          "ebitda": {
+            "raw": 577820736,
+            "fmt": "577.82M",
+            "longFmt": "577,820,736"
+          },
+          "totalDebt": {
+            "raw": 120500000,
+            "fmt": "120.5M",
+            "longFmt": "120,500,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 5378425856,
+            "fmt": "5.38B",
+            "longFmt": "5,378,425,856"
+          },
+          "debtToEquity": {
+            "raw": 9.154,
+            "fmt": "9.15"
+          },
+          "revenuePerShare": {
+            "raw": 60.124,
+            "fmt": "60.12"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1642210000,
+            "fmt": "1.64B",
+            "longFmt": "1,642,210,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 10.909,
+            "fmt": "1,090.90%"
+          },
+          "revenueGrowth": {
+            "raw": 0.468,
+            "fmt": "46.80%"
+          },
+          "grossMargins": {
+            "raw": 0.28962,
+            "fmt": "28.96%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.10743,
+            "fmt": "10.74%"
+          },
+          "operatingMargins": {
+            "raw": 0.10082,
+            "fmt": "10.08%"
+          },
+          "profitMargins": {
+            "raw": 0.05487,
+            "fmt": "5.49%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

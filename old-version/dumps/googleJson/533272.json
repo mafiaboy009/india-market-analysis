@@ -1,0 +1,268 @@
+
+ [
+{
+"symbol" : "533272",
+"exchange" : "BOM",
+"id": "15697576",
+"t" : "533272",
+"e" : "BOM",
+"name" : "Comerial Engirs \u0026 Bdy Blds Co Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533272"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533272"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533272"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-24.72%",
+"annual" : "-31.19%",
+"ttm" : "-44.30%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-2.52%",
+"annual" : "-9.03%",
+"ttm" : "-13.42%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.89%",
+"ttm" : "0.13%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-14.23%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "286",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "16.10",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "16.05",
+"hi" : "16.75",
+"lo" : "16.05",
+"vo" : "30,665.00",
+"avvo" : "",
+"hi52" : "24.00",
+"lo52" : "10.00",
+"mc" : "884.58M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-6.49",
+"dy" : "",
+"ldiv" : "",
+"shares" : "54.94M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15697576",
+"name" : "Comerial Engirs \u0026 Bdy Blds Co Limited",
+"t" : "533272",
+"e" : "BOM",
+"l" : "16.10",
+"c" : "0.00",
+"mc" : "884.58M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5996806",
+"name" : "Rasandik Engineering Industres India Ltd",
+"t" : "522207",
+"e" : "BOM",
+"l" : "192.00",
+"c" : "-8.75",
+"mc" : "897.14M",
+"cp" : "-4.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "677068",
+"name" : "Automobile Corp Of Goa Ltd",
+"t" : "505036",
+"e" : "BOM",
+"l" : "1,194.90",
+"c" : "+50.20",
+"mc" : "7.66B",
+"cp" : "4.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7152373",
+"name" : "Maruti Suzuki India Ltd",
+"t" : "MARUTI",
+"e" : "NSE",
+"l" : "9,050.00",
+"c" : "+351.20",
+"mc" : "2.73T",
+"cp" : "4.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "702890",
+"name" : "KEW Industries Limited",
+"t" : "532758",
+"e" : "BOM",
+"l" : "1.05",
+"c" : "0.00",
+"mc" : "15.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9851757",
+"name" : "Jbm Auto Ltd",
+"t" : "JBMA",
+"e" : "NSE",
+"l" : "442.05",
+"c" : "+1.20",
+"mc" : "17.91B",
+"cp" : "0.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "717002",
+"name" : "OK Play India Ltd",
+"t" : "526415",
+"e" : "BOM",
+"l" : "108.75",
+"c" : "-3.00",
+"mc" : "2.03B",
+"cp" : "-2.68",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3788609",
+"name" : "Premier Limited",
+"t" : "PREMIER",
+"e" : "NSE",
+"l" : "29.10",
+"c" : "-0.15",
+"mc" : "896.10M",
+"cp" : "-0.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "778537154937652",
+"name" : "Tube Investments of India Ltd",
+"t" : "TIINDIA",
+"e" : "NSE",
+"l" : "260.05",
+"c" : "-3.25",
+"mc" : "48.89B",
+"cp" : "-1.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15748892",
+"name" : "SML Isuzu Ltd",
+"t" : "SMLISUZU",
+"e" : "NSE",
+"l" : "816.00",
+"c" : "+17.45",
+"mc" : "11.79B",
+"cp" : "2.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9051848",
+"name" : "Scooters India Ltd",
+"t" : "505141",
+"e" : "BOM",
+"l" : "47.60",
+"c" : "-0.55",
+"mc" : "4.06B",
+"cp" : "-1.14",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "124,Napier Town, JABALPUR, 482001, India",
+"phone": "+91-761-4085924",
+"fax": "+91-761-2407009",
+"url": "http:\u002F\u002Fwww.cebbco.com\u002F",
+"overview" : "Commercial Engineers \u0026 Body Builders Co Limited is a manufacturer of vehicle bodies for commercial vehicles. The principal business of the Company is sheet metal fabrication and bodybuilding. It produces vehicle and locomotive bodies for diverse applications for road and railways transportation. It also conducts refurbishment of wagons, as well as engaged in designing and manufacturing of components for wagons and locomotives in the railways division. It fabricates steel structures and support columns for power plants and electrostatic precipitators. Its Goods Transportation products include Cargo load Bodies, Refrigerated and insulated containers, Trailer Bodies and Petroleum Tankers. Its Solid Waste Management products include Skip-Loaders and Garbage-Bin Collectors. Its Municipal Application products include light recovery vehicle bodies, garbage tippers and fire tenders. Its Defense products include Troop Carrier Vehicle Bodies, Prison Van Bodies and Water Bowser Bodies."
+} ]
+, "management" : [
+{
+"name" : "Abhishek Jaiswal",
+"title" : "Chief Executive Officer, Additional Executive Director"
+}
+,
+{
+"name" : "Amit Kumar Jain",
+"title" : "Chief Financial Officer, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kailash Chand Gupta",
+"age" : "69",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Prakash Gurav",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Manchi Venkatraja Rao",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

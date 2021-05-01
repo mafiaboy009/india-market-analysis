@@ -1,0 +1,286 @@
+
+ [
+{
+"symbol" : "524654",
+"exchange" : "BOM",
+"id": "13868302",
+"t" : "524654",
+"e" : "BOM",
+"name" : "Natural Capsules Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=NACP.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:524654"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:524654"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:524654"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.46%",
+"annual" : "1.22%",
+"ttm" : "0.68%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.03%",
+"annual" : "-4.26%",
+"ttm" : "-5.08%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.28%",
+"ttm" : "3.74%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.82%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.09%",
+"ttm" : ""
+}
+]
+, "c" : "+5.05",
+"l" : "116.00",
+"cp" : "4.55",
+"ccol" : "chg",
+"op" : "115.55",
+"hi" : "116.45",
+"lo" : "112.70",
+"vo" : "8,998.00",
+"avvo" : "",
+"hi52" : "158.90",
+"lo52" : "57.10",
+"mc" : "722.99M",
+"pe" : "202.50",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.57",
+"dy" : "0.86",
+"ldiv" : "1.00",
+"shares" : "6.23M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "13868302",
+"name" : "Natural Capsules Ltd",
+"t" : "524654",
+"e" : "BOM",
+"l" : "116.00",
+"c" : "+5.05",
+"mc" : "722.99M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2592931",
+"name" : "Medi Caps Ltd",
+"t" : "523144",
+"e" : "BOM",
+"l" : "25.65",
+"c" : "-0.70",
+"mc" : "321.07M",
+"cp" : "-2.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "260021",
+"name" : "NGL Fine-Chem Ltd",
+"t" : "524774",
+"e" : "BOM",
+"l" : "392.65",
+"c" : "+5.65",
+"mc" : "2.43B",
+"cp" : "1.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8874121",
+"name" : "Gujarat Themis Biosyn Ltd",
+"t" : "506879",
+"e" : "BOM",
+"l" : "43.30",
+"c" : "-3.05",
+"mc" : "625.72M",
+"cp" : "-6.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11460194",
+"name" : "Nutraplus India Ltd",
+"t" : "524764",
+"e" : "BOM",
+"l" : "36.00",
+"c" : "0.00",
+"mc" : "1.23B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3285351",
+"name" : "Shamrock Industrial Co Ltd",
+"t" : "531240",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-3.44",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5397679",
+"name" : "Gennex Laboratories Ltd",
+"t" : "531739",
+"e" : "BOM",
+"l" : "4.43",
+"c" : "-0.15",
+"mc" : "567.85M",
+"cp" : "-3.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9025089",
+"name" : "RPG Life Sciences Limited",
+"t" : "RPGLIFE",
+"e" : "NSE",
+"l" : "463.00",
+"c" : "+10.95",
+"mc" : "7.69B",
+"cp" : "2.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "451765",
+"name" : "J B Chemicals and Pharmaceuticals Ltd",
+"t" : "JBCHEPHARM",
+"e" : "NSE",
+"l" : "315.00",
+"c" : "+9.35",
+"mc" : "26.32B",
+"cp" : "3.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "677258",
+"name" : "Sun Pharmaceutical Industries Limited",
+"t" : "SUNPHARMA",
+"e" : "NSE",
+"l" : "555.40",
+"c" : "-14.25",
+"mc" : "1.32T",
+"cp" : "-2.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6010110",
+"name" : "Amrutanjan Health Care Ltd",
+"t" : "AMRUTANJAN",
+"e" : "NSE",
+"l" : "577.00",
+"c" : "-5.75",
+"mc" : "8.44B",
+"cp" : "-0.99",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "102, \u0022Shreshta Bhumi\u0022 No. 87 K.R. Road, BANGALORE, 560004, India",
+"phone": "+91-80-26671571",
+"fax": "+91-80-26671562",
+"url": "http:\u002F\u002Fwww.naturalcapsules.com\u002F",
+"overview" : "Natural Capsules Limited operates a manufacturing plant to manufacture hard gelatin capsule shells, hard cellulose capsule shells and pharmaceutical dosage forms in capsule dosage form. The Company\u0027s capsules are sold in domestic and are also exported to various countries. The Company is also engaged in formulating the pharmaceutical dosage forms in capsule dosage form, both pharma and neutraceutical products. The Company\u0027s principal products\u002Fservices include empty hard gelatin (EHG) capsules. Its products include bovine spongiform encephalopathy\u002Ftransmissible spongiform encephalopathy (BSE\u002FTSE) free gelatin capsule shells, shiny gelatin capsule shells, sodium lauryl sulfate (SLS) free gelatin capsule shells, halal certified gelatin capsule shells, fortified gelatin capsule shells, sweet gelatin capsule shells, fast release gelatin capsule shells, printed gelatin\u002Fcellulose capsule shells, vegetarian capsule shells and enteric capsule shells."
+} ]
+, "management" : [
+{
+"name" : "Prasanna Junnarkar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Skandan P. Jain",
+"title" : "Compliance Officer, Assistant Company Secretary"
+}
+,
+{
+"name" : "Sunil L. Mundra",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Laxminarayan Moondra",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Satyanarayan Mundra",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Srirangam Gopalan",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Jyothi Mundra",
+"title" : "Director"
+}
+,
+{
+"name" : "Sushil Kumar Mundra",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "C. M. Gurumurthy",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "C. P. Rangachar",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

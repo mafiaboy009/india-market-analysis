@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "533137",
+"exchange" : "BOM",
+"id": "4253187",
+"t" : "533137",
+"e" : "BOM",
+"name" : "DEN Networks Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533137"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533137"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533137"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.53%",
+"annual" : "-16.22%",
+"ttm" : "-5.20%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.46%",
+"annual" : "-11.06%",
+"ttm" : "-0.99%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.45%",
+"ttm" : "21.59%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-7.03%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-23.37%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "668",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.05",
+"l" : "103.60",
+"cp" : "0.05",
+"ccol" : "chg",
+"op" : "105.40",
+"hi" : "105.45",
+"lo" : "103.20",
+"vo" : "8,580.00",
+"avvo" : "",
+"hi52" : "149.55",
+"lo52" : "65.00",
+"mc" : "20.35B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-4.57",
+"dy" : "",
+"ldiv" : "",
+"shares" : "195.32M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "4253187",
+"name" : "DEN Networks Ltd",
+"t" : "533137",
+"e" : "BOM",
+"l" : "103.60",
+"c" : "+0.05",
+"mc" : "20.35B",
+"cp" : "0.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13999780",
+"name" : "Hathway Bhawani Cabletel and Datacom Ltd",
+"t" : "509073",
+"e" : "BOM",
+"l" : "3.00",
+"c" : "0.00",
+"mc" : "24.30M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "963843452994658",
+"name" : "Ortel Communications Ltd",
+"t" : "ORTEL",
+"e" : "NSE",
+"l" : "28.00",
+"c" : "+0.40",
+"mc" : "859.58M",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1385443",
+"name" : "Hathway Cable and Datacom Limited",
+"t" : "HATHWAY",
+"e" : "NSE",
+"l" : "38.05",
+"c" : "-0.20",
+"mc" : "31.68B",
+"cp" : "-0.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13511109",
+"name" : "Siti Networks Ltd",
+"t" : "SITINET",
+"e" : "NSE",
+"l" : "19.05",
+"c" : "-0.25",
+"mc" : "16.66B",
+"cp" : "-1.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "415253417873177",
+"name" : "GTPL Hathway Ltd",
+"t" : "GTPL",
+"e" : "NSE",
+"l" : "164.00",
+"c" : "-1.80",
+"mc" : "18.42B",
+"cp" : "-1.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6692527",
+"name" : "Hinduja Ventures Ltd (Parent)",
+"t" : "HINDUJAVEN",
+"e" : "NSE",
+"l" : "835.00",
+"c" : "+51.20",
+"mc" : "17.12B",
+"cp" : "6.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "720700",
+"name" : "Sea TV Network Ltd.",
+"t" : "533268",
+"e" : "BOM",
+"l" : "4.56",
+"c" : "-0.24",
+"mc" : "54.81M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15677407",
+"name" : "Dish TV India Limited",
+"t" : "DISHTV",
+"e" : "NSE",
+"l" : "73.50",
+"c" : "-0.75",
+"mc" : "78.25B",
+"cp" : "-1.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9075590",
+"name" : "Reliance Communications Ltd",
+"t" : "RCOM",
+"e" : "NSE",
+"l" : "29.65",
+"c" : "+2.05",
+"mc" : "82.15B",
+"cp" : "7.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6969117",
+"name" : "ADC India Communications Limited",
+"t" : "523411",
+"e" : "BOM",
+"l" : "233.95",
+"c" : "+1.45",
+"mc" : "1.08B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "236,Okhla Industrial Estate,, Phase-III, NEW DELHI, 110020, India",
+"phone": "+91-11-40522200",
+"fax": "+91-11-40522203",
+"url": "http:\u002F\u002Fwww.dennetworks.com\u002F",
+"overview" : "DEN Networks Limited is a cable television company. The Company is engaged in distribution of television channels through analog and digital cable distribution network, and provision of broadband service. Its segments include Cable, which consists of distribution and promotion of television channels and Broadband, which consists of providing Internet services. Its geographical segments include within India and overseas. The Company\u0027s products and services include cable television, such as DEN Digi View, DEN DigiI View HD, personalized customer care and DEN Excite! Value Added Services, and broadband, such as DEN Boomband. DEN Digi View is a digital cable service with all channels in digital versatile disc (DVD) like picture and stereophonic sound. DEN DigiI View HD is a high definition cable service with 1080i video resolution and Dolby Digital. Its DEN Excite! Value Added Services include multi-genre digital music service. blog.telly, City Bytes and events search guide, and games."
+} ]
+, "management" : [
+{
+"name" : "Sameer Manchanda",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Shailender Nath Sharma",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Mohammad Ghulam Azhar",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Navroz Behramfram",
+"title" : "Chief Technology Officer"
+}
+,
+{
+"name" : "Jatin Mahajan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ankur Sahu",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Krishnakumar P.T Gangadharan",
+"age" : "45",
+"title" : "Additional Non-Executive Nominee Director (IL\u0026FS Investment Managers Ltd)"
+}
+,
+{
+"name" : "Ajaya Chand",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Archana Niranjan Hingorani",
+"age" : "52",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Atul Sharma",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

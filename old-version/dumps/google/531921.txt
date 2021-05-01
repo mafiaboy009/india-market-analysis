@@ -1,0 +1,287 @@
+
+// [
+{
+"symbol" : "531921",
+"exchange" : "BOM",
+"id": "12215287",
+"t" : "531921",
+"e" : "BOM",
+"name" : "Agarwal Industrial Corporation Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531921"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531921"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531921"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.21%",
+"annual" : "2.99%",
+"ttm" : "3.30%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.60%",
+"annual" : "6.63%",
+"ttm" : "6.45%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.55%",
+"ttm" : "8.47%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.16%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.86%",
+"ttm" : ""
+}
+]
+, "c" : "-17.90",
+"l" : "340.20",
+"cp" : "-5.00",
+"ccol" : "chr",
+"op" : "340.20",
+"hi" : "344.00",
+"lo" : "340.20",
+"vo" : "1,453.00",
+"avvo" : "",
+"hi52" : "792.00",
+"lo52" : "340.20",
+"mc" : "3.50B",
+"pe" : "28.34",
+"fwpe" : "",
+"beta" : "",
+"eps" : "12.00",
+"dy" : "0.44",
+"ldiv" : "1.50",
+"shares" : "10.16M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12215287",
+"name" : "Agarwal Industrial Corporation Ltd",
+"t" : "531921",
+"e" : "BOM",
+"l" : "340.20",
+"c" : "-17.90",
+"mc" : "3.50B",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715295",
+"name" : "Andhra Petrochemicals Ltd",
+"t" : "500012",
+"e" : "BOM",
+"l" : "57.80",
+"c" : "-0.60",
+"mc" : "4.88B",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13666462",
+"name" : "Panama Petrochem Ltd.",
+"t" : "PANAMAPET",
+"e" : "NSE",
+"l" : "192.00",
+"c" : "+5.20",
+"mc" : "11.60B",
+"cp" : "2.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7627463",
+"name" : "Oricon Enterprises Ltd",
+"t" : "513121",
+"e" : "BOM",
+"l" : "61.90",
+"c" : "-0.35",
+"mc" : "9.73B",
+"cp" : "-0.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8277447",
+"name" : "Manali Petrochemicals Ltd",
+"t" : "MANALIPETC",
+"e" : "NSE",
+"l" : "38.40",
+"c" : "+1.85",
+"mc" : "6.60B",
+"cp" : "5.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7973849",
+"name" : "Kavit Industries Ltd",
+"t" : "524444",
+"e" : "BOM",
+"l" : "17.60",
+"c" : "+0.35",
+"mc" : "1.05B",
+"cp" : "2.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12466469",
+"name" : "Kothari Petrochemicals Ltd",
+"t" : "KOTHARIPET",
+"e" : "NSE",
+"l" : "24.80",
+"c" : "+0.20",
+"mc" : "1.45B",
+"cp" : "0.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11585637",
+"name" : "Dharamsi Morarji Chemical Co Ltd",
+"t" : "506405",
+"e" : "BOM",
+"l" : "105.05",
+"c" : "+0.50",
+"mc" : "2.66B",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15259127",
+"name" : "Mysore Petro Chemicals Ltd",
+"t" : "506734",
+"e" : "BOM",
+"l" : "133.95",
+"c" : "+5.50",
+"mc" : "877.76M",
+"cp" : "4.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1095394",
+"name" : "Fairchem Speciality Ltd",
+"t" : "530117",
+"e" : "BOM",
+"l" : "408.35",
+"c" : "-8.80",
+"mc" : "15.38B",
+"cp" : "-2.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "217120701046015",
+"name" : "Camlin Fine Sciences Ltd",
+"t" : "CAMLINFINE",
+"e" : "NSE",
+"l" : "121.00",
+"c" : "+7.85",
+"mc" : "14.64B",
+"cp" : "6.94",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "201\u002F202 Eastern Court Sion Trombay Road, Chembur, MUMBAI, 400071, India",
+"phone": "+91-22-25291149",
+"fax": "+91-22-25291147",
+"url": "http:\u002F\u002Fwww.aicltd.in\u002F",
+"overview" : "Agarwal Industrial Corporation Limited is principally engaged in the businesses of trading and manufacturing of petrochemicals, including bituminous and bituminous products, logistics of bitumen and liquid petroleum gas (LPG) and energy generation through windmills. The Company is engaged in the transportation and service center activities. Its segments include Petrochemicals (Bituminous Products), Transportation and Windmill. The Company manufactures various products, which include paving grade bitumen, industrial grade bitumen, bitumen emulsions for road construction, crumb rubber modified bitumen (CRMB), polymer modified bitumen (PMB), byproducts\u002Fwaterproofing materials, bitufelt (type 3 grade 1) and bituminous expansion jointing boards. The Company\u0027s windmills are located in Rajasthan and Maharashtra. Bituminex Cochin Pvt.Ltd. is the Company\u0027s subsidiary, which is also involved in manufacturing and trading of bituminous products."
+} ]
+, "management" : [
+{
+"name" : "Sunanda Gaikwad",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Jaiprakash Agarwal",
+"title" : "Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Lalit Agarwal",
+"age" : "44",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Ramchandra Agarwal",
+"age" : "56",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Mahendra Agarwal",
+"age" : "49",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Alok Bharara",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rajkumar Mehta",
+"age" : "55",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Harikrishna Patni",
+"age" : "41",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Bhavin A. Shah",
+"age" : "46",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

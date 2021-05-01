@@ -1,0 +1,284 @@
+
+// [
+{
+"symbol" : "523672",
+"exchange" : "BOM",
+"id": "5466813",
+"t" : "523672",
+"e" : "BOM",
+"name" : "Flex Foods Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=FLXF.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:523672"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:523672"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:523672"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.23%",
+"annual" : "9.21%",
+"ttm" : "10.04%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.55%",
+"annual" : "16.73%",
+"ttm" : "17.44%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "22.44%",
+"ttm" : "22.80%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.62%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.58%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "516",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.25",
+"l" : "130.65",
+"cp" : "-1.69",
+"ccol" : "chr",
+"op" : "135.60",
+"hi" : "136.90",
+"lo" : "130.30",
+"vo" : "7,550.00",
+"avvo" : "",
+"hi52" : "169.15",
+"lo52" : "88.00",
+"mc" : "1.63B",
+"pe" : "17.46",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.48",
+"dy" : "1.91",
+"ldiv" : "2.50",
+"shares" : "12.45M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5466813",
+"name" : "Flex Foods Ltd",
+"t" : "523672",
+"e" : "BOM",
+"l" : "130.65",
+"c" : "-2.25",
+"mc" : "1.63B",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "720161",
+"name" : "Temptation Foods Ltd.",
+"t" : "519228",
+"e" : "BOM",
+"l" : "4.05",
+"c" : "+0.03",
+"mc" : "160.83M",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "723013",
+"name" : "Himalya International Ltd.",
+"t" : "526899",
+"e" : "BOM",
+"l" : "38.85",
+"c" : "+1.85",
+"mc" : "2.25B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "668906262029285",
+"name" : "Manpasand Beverages Ltd",
+"t" : "539207",
+"e" : "BOM",
+"l" : "385.50",
+"c" : "-3.45",
+"mc" : "44.10B",
+"cp" : "-0.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16211204",
+"name" : "Foods And Inns Ltd",
+"t" : "507552",
+"e" : "BOM",
+"l" : "1,445.00",
+"c" : "-22.10",
+"mc" : "2.31B",
+"cp" : "-1.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14484118",
+"name" : "Chordia Food Products Ltd",
+"t" : "519475",
+"e" : "BOM",
+"l" : "160.00",
+"c" : "+2.00",
+"mc" : "476.82M",
+"cp" : "1.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2345324",
+"name" : "Tai Industries Ltd",
+"t" : "519483",
+"e" : "BOM",
+"l" : "19.30",
+"c" : "-1.00",
+"mc" : "119.33M",
+"cp" : "-4.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7534003",
+"name" : "Jain Irrigation Systems Limited",
+"t" : "JISLJALEQS",
+"e" : "NSE",
+"l" : "120.00",
+"c" : "+2.00",
+"mc" : "60.71B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12954185",
+"name" : "Vadilal Industries Ltd",
+"t" : "VADILALIND",
+"e" : "NSE",
+"l" : "928.50",
+"c" : "+41.50",
+"mc" : "6.68B",
+"cp" : "4.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5603578",
+"name" : "Agro Tech Foods Ltd",
+"t" : "ATFL",
+"e" : "NSE",
+"l" : "638.00",
+"c" : "+7.65",
+"mc" : "15.56B",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6650254",
+"name" : "Kohinoor Foods Ltd",
+"t" : "KOHINOOR",
+"e" : "NSE",
+"l" : "71.45",
+"c" : "+2.65",
+"mc" : "2.51B",
+"cp" : "3.85",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "A-108, Sector - 4, NOIDA, 201301, India",
+"phone": "+91-120-4012345",
+"fax": "+91-120-2442909",
+"url": "http:\u002F\u002Fwww.flexfoodsltd.com\u002F",
+"overview" : "Flex Foods Limited is engaged primarily in the business of cultivation and processing of mushrooms, herbs, fruits and vegetables in freeze-dried, air-dried and individually quick-frozen form. The Company sells its products mainly to the European and the United States markets. Its principal products\u002Fservices include freeze-dried mushroom, herbs, vegetables and fruit\u003B frozen\u002Findividual quick frozen fruits, vegetables, mushroom and herbs, and processed food namely mushroom fresh and processed (including canned). Its products include thyme, basil, parsley, dill, mint and oregano. The Company deals in its own captive mushroom growing facility with fully equipped mushroom spawn and compost preparation facilities. It has operations in the United States, Europe, Asia and others. The Company has an export oriented unit (EOU) for vacuum freeze-dried vegetables mainly mushroom and culinary herbs with a total processing capacity of 2,000 metric tons per annum. It is part of the Uflex Group."
+} ]
+, "management" : [
+{
+"name" : "Naval Duseja",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rajesh Dheer",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Madan Mohan Varshney",
+"age" : "52",
+"title" : "Vice President - Operations"
+}
+,
+{
+"name" : "A. Raghvendra Rao",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Ashok Chaturvedi",
+"age" : "56",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Anupam Ahuja",
+"title" : "Director"
+}
+,
+{
+"name" : "Paresh Sharma",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Rajendra Kumar Mishra",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

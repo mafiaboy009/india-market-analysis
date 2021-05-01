@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "533228",
+"exchange" : "BOM",
+"id": "1381321",
+"t" : "533228",
+"e" : "BOM",
+"name" : "Bharat Financial Inclusion Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533228"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533228"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533228"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "32.29%",
+"annual" : "18.65%",
+"ttm" : "0.58%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "24.32%",
+"annual" : "1.16%",
+"ttm" : "-9.48%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.99%",
+"ttm" : "-8.71%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.30%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "15.13%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "14,755",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+27.85",
+"l" : "1,026.00",
+"cp" : "2.79",
+"ccol" : "chg",
+"op" : "998.00",
+"hi" : "1,045.00",
+"lo" : "998.00",
+"vo" : "35,936.00",
+"avvo" : "",
+"hi52" : "1,094.90",
+"lo52" : "650.60",
+"mc" : "142.17B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.18",
+"dy" : "",
+"ldiv" : "",
+"shares" : "139.05M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1381321",
+"name" : "Bharat Financial Inclusion Ltd",
+"t" : "533228",
+"e" : "BOM",
+"l" : "1,026.00",
+"c" : "+27.85",
+"mc" : "142.17B",
+"cp" : "2.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "262799661975200",
+"name" : "Satin Creditcare Network Ltd",
+"t" : "SATIN",
+"e" : "NSE",
+"l" : "448.00",
+"c" : "-2.20",
+"mc" : "21.37B",
+"cp" : "-0.49",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7977316",
+"name" : "L\u0026T Finance Holdings Ltd",
+"t" : "L\u0026TFH",
+"e" : "NSE",
+"l" : "168.00",
+"c" : "+5.80",
+"mc" : "305.14B",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2203016",
+"name" : "Manappuram Finance Ltd",
+"t" : "MANAPPURAM",
+"e" : "NSE",
+"l" : "109.50",
+"c" : "+1.25",
+"mc" : "92.11B",
+"cp" : "1.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "103655299141511",
+"name" : "Equitas Holdings Ltd",
+"t" : "EQUITAS",
+"e" : "NSE",
+"l" : "147.75",
+"c" : "+6.50",
+"mc" : "50.24B",
+"cp" : "4.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "106894415246267",
+"name" : "Acme Resources Ltd",
+"t" : "539391",
+"e" : "BOM",
+"l" : "20.00",
+"c" : "-0.80",
+"mc" : "514.88M",
+"cp" : "-3.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "557538143932497",
+"name" : "MAS Financial Services Ltd",
+"t" : "MASFIN",
+"e" : "NSE",
+"l" : "597.05",
+"c" : "-3.95",
+"mc" : "32.64B",
+"cp" : "-0.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "600444315970641",
+"name" : "Crescent Leasing Ltd",
+"t" : "539131",
+"e" : "BOM",
+"l" : "60.85",
+"c" : "-4.65",
+"mc" : "241.93M",
+"cp" : "-7.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3383863",
+"name" : "Silicon Valley Infotech Ltd",
+"t" : "531738",
+"e" : "BOM",
+"l" : "0.03",
+"c" : "0.00",
+"mc" : "3.89M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "809162493859917",
+"name" : "Muthoot Capital Services Ltd",
+"t" : "MUTHOOTCAP",
+"e" : "NSE",
+"l" : "764.80",
+"c" : "+15.35",
+"mc" : "12.62B",
+"cp" : "2.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14153912",
+"name" : "IDFC Ltd",
+"t" : "IDFC",
+"e" : "NSE",
+"l" : "53.45",
+"c" : "+0.45",
+"mc" : "84.92B",
+"cp" : "0.85",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "3210 21st St., HYDERABAD, 500016, India",
+"phone": "+91-40-44526000",
+"fax": "+91-22-26592375",
+"url": "http:\u002F\u002Fwww.bfil.co.in\u002F",
+"overview" : "Bharat Financial Inclusion Limited, formerly SKS Microfinance Limited, is a non-banking financial company-micro finance institution (NBFC-MFI). The Company is engaged in providing micro finance services to women in the rural areas of India enrolled as members and organized as Joint Liability Groups. In addition to its business of providing micro-credit, the Company uses its distribution channel to provide other financial products and services to the members. Programs in this regard primarily relate to providing of loans to the members for the purchase of mobile handsets, solar lamps, bicycle and sewing machines, among others. The Company provides door step delivery of its services through center meetings in villages. The Company offers loans mainly for income generating activities and not for personal consumption. The Company has presence across approximately 20 states, covering over 100,000 villages and catering to approximately 69.7 lakh women members."
+} ]
+, "management" : [
+{
+"name" : "M. Ramachandra Rao",
+"age" : "50",
+"title" : "President, Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "Ashish Damani",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "K. V. Rao",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Sudershan Pallap",
+"title" : "Secretary"
+}
+,
+{
+"name" : "Puranam Hayagreeva Ravikumar",
+"age" : "66",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Ashish Lakhanpal",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "S. Balachandran",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Rajender Mohan Malla",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Punita Kumar Sinha",
+"title" : "Independent Additional Director"
+}
+]
+,"moreresources" : [
+]
+}]

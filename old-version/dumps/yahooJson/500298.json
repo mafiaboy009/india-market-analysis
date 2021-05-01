@@ -1,0 +1,326 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 13671825408,
+            "fmt": "13.67B",
+            "longFmt": "13,671,825,408"
+          },
+          "forwardPE": {
+            "raw": 26.711819,
+            "fmt": "26.71"
+          },
+          "profitMargins": {
+            "raw": 0.18877001,
+            "fmt": "18.88%"
+          },
+          "floatShares": {
+            "raw": 1321695,
+            "fmt": "1.32M",
+            "longFmt": "1,321,695"
+          },
+          "sharesOutstanding": {
+            "raw": 5747000,
+            "fmt": "5.75M",
+            "longFmt": "5,747,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.148747,
+            "fmt": "0.15"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 473.821,
+            "fmt": "473.82"
+          },
+          "priceToBook": {
+            "raw": 9.239353,
+            "fmt": "9.24"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {},
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 483097984,
+            "fmt": "483.1M",
+            "longFmt": "483,097,984"
+          },
+          "trailingEps": {
+            "raw": 84.061,
+            "fmt": "84.06"
+          },
+          "forwardEps": {
+            "raw": 163.89,
+            "fmt": "163.89"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 5.342,
+            "fmt": "5.34"
+          },
+          "enterpriseToEbitda": {
+            "raw": 20.378,
+            "fmt": "20.38"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 20.47,
+                  "fmt": "20.47"
+                },
+                "estimate": {
+                  "raw": 15.85,
+                  "fmt": "15.85"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 36.05,
+                  "fmt": "36.05"
+                },
+                "estimate": {
+                  "raw": 25.77,
+                  "fmt": "25.77"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 2358624000,
+                  "fmt": "2.36B",
+                  "longFmt": "2,358,624,000"
+                },
+                "earnings": {
+                  "raw": 399431000,
+                  "fmt": "399.43M",
+                  "longFmt": "399,431,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1967530000,
+                  "fmt": "1.97B",
+                  "longFmt": "1,967,530,000"
+                },
+                "earnings": {
+                  "raw": 66753000,
+                  "fmt": "66.75M",
+                  "longFmt": "66,753,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 2339912000,
+                  "fmt": "2.34B",
+                  "longFmt": "2,339,912,000"
+                },
+                "earnings": {
+                  "raw": 184489000,
+                  "fmt": "184.49M",
+                  "longFmt": "184,489,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 2559168000,
+                  "fmt": "2.56B",
+                  "longFmt": "2,559,168,000"
+                },
+                "earnings": {
+                  "raw": 483098000,
+                  "fmt": "483.1M",
+                  "longFmt": "483,098,000"
+                }
+              }
+            ],
+            "quarterly": []
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "C-1, Wadia International Center",
+          "address2": "Pandurang Budhkar Marg Worli",
+          "city": "Mumbai",
+          "zip": "400025",
+          "country": "India",
+          "phone": "91 22 6662 0000",
+          "fax": "91 22 6619 3421",
+          "website": "http://www.naperol.com",
+          "industry": "Chemicals - Major Diversified",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "National Peroxide Limited manufactures and sells peroxygens in India. The company operates in two segments, Manufacturing of Peroxygens and Hydrogen Gas; and Others. It offers hydrogen peroxide that is used in various industries for bleaching, chemical synthesis, environmental control/effluent treatment, sterilization, etc.; compressed hydrogen gas; per acetic acid; and sodium perborate. The company is also involved in the investment activities. National Peroxide Limited was founded in 1954 and is headquartered in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 4377.8,
+            "fmt": "4,377.80"
+          },
+          "targetHighPrice": {
+            "raw": 579.0,
+            "fmt": "579.00"
+          },
+          "targetLowPrice": {
+            "raw": 579.0,
+            "fmt": "579.00"
+          },
+          "targetMeanPrice": {
+            "raw": 579.0,
+            "fmt": "579.00"
+          },
+          "targetMedianPrice": {
+            "raw": 579.0,
+            "fmt": "579.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 670904000,
+            "fmt": "670.9M",
+            "longFmt": "670,904,000"
+          },
+          "totalDebt": {},
+          "quickRatio": {
+            "raw": 2.285,
+            "fmt": "2.29"
+          },
+          "currentRatio": {
+            "raw": 4.192,
+            "fmt": "4.19"
+          },
+          "totalRevenue": {
+            "raw": 2559168000,
+            "fmt": "2.56B",
+            "longFmt": "2,559,168,000"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 445.305,
+            "fmt": "445.30"
+          },
+          "returnOnAssets": {
+            "raw": 0.11058,
+            "fmt": "11.06%"
+          },
+          "returnOnEquity": {
+            "raw": 0.19468,
+            "fmt": "19.47%"
+          },
+          "grossProfits": {
+            "raw": 1841321000,
+            "fmt": "1.84B",
+            "longFmt": "1,841,321,000"
+          },
+          "freeCashflow": {
+            "raw": 432358240,
+            "fmt": "432.36M",
+            "longFmt": "432,358,240"
+          },
+          "operatingCashflow": {
+            "raw": 597449984,
+            "fmt": "597.45M",
+            "longFmt": "597,449,984"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.71949995,
+            "fmt": "71.95%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.26216,
+            "fmt": "26.22%"
+          },
+          "operatingMargins": {
+            "raw": 0.22726999,
+            "fmt": "22.73%"
+          },
+          "profitMargins": {
+            "raw": 0.18877001,
+            "fmt": "18.88%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

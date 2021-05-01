@@ -1,0 +1,279 @@
+
+ [
+{
+"symbol" : "506222",
+"exchange" : "BOM",
+"id": "715392",
+"t" : "506222",
+"e" : "BOM",
+"name" : "INEOS Styrolution India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:506222"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:506222"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:506222"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.16%",
+"annual" : "4.15%",
+"ttm" : "3.37%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.31%",
+"annual" : "7.11%",
+"ttm" : "5.03%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.63%",
+"ttm" : "6.37%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.00%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.44%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "463",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+30.60",
+"l" : "938.85",
+"cp" : "3.37",
+"ccol" : "chg",
+"op" : "916.30",
+"hi" : "950.00",
+"lo" : "916.30",
+"vo" : "739.00",
+"avvo" : "",
+"hi52" : "1,168.80",
+"lo52" : "600.30",
+"mc" : "16.43B",
+"pe" : "25.91",
+"fwpe" : "",
+"beta" : "",
+"eps" : "36.23",
+"dy" : "0.43",
+"ldiv" : "4.00",
+"shares" : "17.59M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715392",
+"name" : "INEOS Styrolution India Ltd",
+"t" : "506222",
+"e" : "BOM",
+"l" : "938.85",
+"c" : "+30.60",
+"mc" : "16.43B",
+"cp" : "3.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9530323",
+"name" : "Plastiblend India Ltd.",
+"t" : "PLASTIBLEN",
+"e" : "NSE",
+"l" : "200.00",
+"c" : "+8.60",
+"mc" : "5.16B",
+"cp" : "4.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12061497",
+"name" : "Amines and Plasticizers Ltd",
+"t" : "506248",
+"e" : "BOM",
+"l" : "77.95",
+"c" : "+0.10",
+"mc" : "4.29B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11109412",
+"name" : "Camphor and Allied Products Ltd",
+"t" : "500078",
+"e" : "BOM",
+"l" : "1,030.00",
+"c" : "+1.30",
+"mc" : "5.28B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11594297",
+"name" : "Trans Asia Corporation Ltd",
+"t" : "530783",
+"e" : "BOM",
+"l" : "3.04",
+"c" : "0.00",
+"mc" : "15.84M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "464854086063232",
+"name" : "Abm International Ltd",
+"t" : "ABMINTLTD",
+"e" : "NSE",
+"l" : "55.50",
+"c" : "0.00",
+"mc" : "108.78M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "679942",
+"name" : "Garware Polyester Ltd",
+"t" : "500655",
+"e" : "BOM",
+"l" : "175.25",
+"c" : "+3.90",
+"mc" : "4.08B",
+"cp" : "2.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7530859",
+"name" : "Kingfa Science and Technolgy (India) Ltd",
+"t" : "KINGFA",
+"e" : "NSE",
+"l" : "982.00",
+"c" : "-2.05",
+"mc" : "11.92B",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1106946571288653",
+"name" : "Ram Minerals and Chemicals Ltd",
+"t" : "534734",
+"e" : "BOM",
+"l" : "6.08",
+"c" : "0.00",
+"mc" : "1.25B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14746350",
+"name" : "Laffans Petrochemicals Ltd",
+"t" : "524522",
+"e" : "BOM",
+"l" : "27.00",
+"c" : "-0.25",
+"mc" : "214.69M",
+"cp" : "-0.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3089151",
+"name" : "IVP Ltd",
+"t" : "IVP",
+"e" : "NSE",
+"l" : "217.20",
+"c" : "+7.70",
+"mc" : "2.24B",
+"cp" : "3.68",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "ABS Tower, Old Padra Rd., VADODARA, 390007, India",
+"phone": "+91-265-2355861",
+"fax": "+91-265-2303203",
+"url": "http:\u002F\u002Fwww.styrolutionabsindia.com\u002F",
+"overview" : "INEOS Styrolution India Limited is engaged in manufacturing, trading and selling of engineering thermoplastics. The Company is a styrenics supplier with a focus on styrene monomer, polystyrene, acrylonitrile butadiene styrene (ABS) standard and styrenics specialties. It provides styrenic applications for various products across a range of industries, including automotive, electronics, household, healthcare and packaging. It manufactures and sells ABS resins, styrene acrylonitrile copolymers (SAN) resins and polystyrene. It manufactures ABS under two brands, such as Absolac, which is a plastic resin produced from acrylonitrile, butadiene and styrene, and Novodur, which is a brand of ABS copolymers. Absolan is its brand of polymerized plastic resin, which is produced from styrene and acrylonitrile. Its Luran S products are acrylonitrile styrene acrylate (ASA) and ASA\u002Fpolycarbonate (ASA\u002FPC). It also manufactures general purpose polystyrene (GPPS) and high impact polystyrene (HIPS)."
+} ]
+, "management" : [
+{
+"name" : "Stephen Mark Harrington",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Sanjiv Vasudeva",
+"title" : "Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "Haresh Khilnani",
+"title" : "Compliance Officer, Company Secretary \u0026 Head–Legal"
+}
+,
+{
+"name" : "Nitankumar Duggal",
+"title" : "Additional Whole Time Director"
+}
+,
+{
+"name" : "Ryna Karani",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Anil Shankar",
+"age" : "57",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Jal Ratanshaw Patel",
+"age" : "78",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

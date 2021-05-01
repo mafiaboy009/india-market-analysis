@@ -1,0 +1,271 @@
+
+// [
+{
+"symbol" : "526853",
+"exchange" : "BOM",
+"id": "703857",
+"t" : "526853",
+"e" : "BOM",
+"name" : "Bilcare Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=BIL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:526853"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:526853"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:526853"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-17.21%",
+"annual" : "-2.98%",
+"ttm" : "-7.82%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-9.09%",
+"annual" : "3.11%",
+"ttm" : "-3.93%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.10%",
+"ttm" : "3.52%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.22%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-12.75%",
+"ttm" : ""
+}
+]
+, "c" : "+2.85",
+"l" : "64.50",
+"cp" : "4.62",
+"ccol" : "chg",
+"op" : "61.15",
+"hi" : "64.70",
+"lo" : "61.15",
+"vo" : "23,551.00",
+"avvo" : "",
+"hi52" : "91.65",
+"lo52" : "44.00",
+"mc" : "1.51B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-91.36",
+"dy" : "",
+"ldiv" : "",
+"shares" : "23.55M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703857",
+"name" : "Bilcare Ltd",
+"t" : "526853",
+"e" : "BOM",
+"l" : "64.50",
+"c" : "+2.85",
+"mc" : "1.51B",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6140498",
+"name" : "Fenoplast Ltd",
+"t" : "526689",
+"e" : "BOM",
+"l" : "82.40",
+"c" : "+3.80",
+"mc" : "379.04M",
+"cp" : "4.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4199041",
+"name" : "Glory Films Ltd",
+"t" : "GLORY",
+"e" : "NSE",
+"l" : "0.50",
+"c" : "",
+"mc" : "29.73M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "15581307",
+"name" : "Uflex Ltd",
+"t" : "UFLEX",
+"e" : "NSE",
+"l" : "373.00",
+"c" : "+7.80",
+"mc" : "26.73B",
+"cp" : "2.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8292616",
+"name" : "Xpro India Limited",
+"t" : "XPROINDIA",
+"e" : "NSE",
+"l" : "54.40",
+"c" : "+1.85",
+"mc" : "642.65M",
+"cp" : "3.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14712036",
+"name" : "Cosmo Films Ltd",
+"t" : "COSMOFILMS",
+"e" : "NSE",
+"l" : "290.00",
+"c" : "+0.65",
+"mc" : "5.59B",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7934627",
+"name" : "Essel Propack Ltd",
+"t" : "ESSELPACK",
+"e" : "NSE",
+"l" : "274.65",
+"c" : "+3.85",
+"mc" : "43.15B",
+"cp" : "1.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715381",
+"name" : "Caprihans India Limited",
+"t" : "509486",
+"e" : "BOM",
+"l" : "94.60",
+"c" : "0.00",
+"mc" : "1.23B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15693653",
+"name" : "Shree Rama Multi Tech Ltd",
+"t" : "SHREERAMA",
+"e" : "NSE",
+"l" : "13.50",
+"c" : "-0.25",
+"mc" : "853.71M",
+"cp" : "-1.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15398212",
+"name" : "Biopac India Corp Ltd",
+"t" : "532330",
+"e" : "BOM",
+"l" : "28.15",
+"c" : "+1.20",
+"mc" : "485.59M",
+"cp" : "4.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3874594",
+"name" : "Ess Dee Aluminium Limited",
+"t" : "ESSDEE",
+"e" : "NSE",
+"l" : "65.00",
+"c" : "+0.30",
+"mc" : "2.07B",
+"cp" : "0.46",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "601, ICC Trade Tower, PUNE, 411016, India",
+"phone": "+91-20-30257700",
+"fax": "+91-20-30257701",
+"url": "http:\u002F\u002Fwww.bilcare.com\u002F",
+"overview" : "Bilcare Limited is engaged in offering pharmaceutical packaging research solutions. The Company\u0027s portfolio of products and services include articles of plastics and polymer\u003B aluminium and aluminium products, and global clinical services. The Company offers pharmaceutical packaging solutions consisting of a range of specialty polymer films and aluminum foils that are used for packaging of solid dosage pharmaceutical products. It provides global clinical material supplies for new drug discovery projects. The Company provides track and trace, authentication and anti-counterfeit nonclonableID (nCID) solutions for product and people identity (ID) authentication and security. The Company\u0027s other packaging films solutions cater to various industries, which includes ID card industry, specialty films applications and food packaging. The Company\u0027s manufacturing plant is located at Pune, India. The Company has operations in India, Singapore, Germany and the United States."
+} ]
+, "management" : [
+{
+"name" : "Mohan H. Bhandari",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Anil Tikekar",
+"title" : "Chief Financial Officer, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Nutan Mohan Bhandari",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Pawan G. Chandak",
+"title" : "Director"
+}
+,
+{
+"name" : "Sankarshan Easu",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Surendranath Dhundiraj Gupta",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Avinash S. Joshi",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

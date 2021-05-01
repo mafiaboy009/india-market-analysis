@@ -1,0 +1,280 @@
+
+// [
+{
+"symbol" : "524288",
+"exchange" : "BOM",
+"id": "4012268",
+"t" : "524288",
+"e" : "BOM",
+"name" : "Aimco Pesticides Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=AMCP.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524288"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524288"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524288"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002714)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-2.47%",
+"annual" : "11.42%",
+"ttm" : "0.28%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-1.21%",
+"annual" : "10.04%",
+"ttm" : "1.51%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.64%",
+"ttm" : "1.76%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "-7.06%",
+"annual" : "19.40%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "-360.07%",
+"annual" : "82.16%",
+"ttm" : ""
+}
+]
+, "c" : "+10.95",
+"l" : "185.00",
+"cp" : "6.29",
+"ccol" : "chg",
+"op" : "180.00",
+"hi" : "189.75",
+"lo" : "175.00",
+"vo" : "6,540.00",
+"avvo" : "",
+"hi52" : "271.00",
+"lo52" : "76.00",
+"mc" : "1.72B",
+"pe" : "433.70",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.43",
+"dy" : "",
+"ldiv" : "",
+"shares" : "9.24M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "4012268",
+"name" : "Aimco Pesticides Ltd",
+"t" : "524288",
+"e" : "BOM",
+"l" : "185.00",
+"c" : "+10.95",
+"mc" : "1.72B",
+"cp" : "6.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2619771",
+"name" : "Bhagiradha Chemicals \u0026 Industries Ltd",
+"t" : "531719",
+"e" : "BOM",
+"l" : "300.00",
+"c" : "+3.00",
+"mc" : "2.34B",
+"cp" : "1.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5377429",
+"name" : "Super Crop Safe Ltd",
+"t" : "530883",
+"e" : "BOM",
+"l" : "26.55",
+"c" : "-0.65",
+"mc" : "1.01B",
+"cp" : "-2.39",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10584496",
+"name" : "Sabero Organics Gujarat Limited",
+"t" : "SABERORGAN",
+"e" : "NSE",
+"l" : "174.70",
+"c" : "-0.15",
+"mc" : "5.92B",
+"cp" : "-0.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4379280",
+"name" : "Phyto Chem India Ltd",
+"t" : "524808",
+"e" : "BOM",
+"l" : "61.10",
+"c" : "-1.35",
+"mc" : "263.80M",
+"cp" : "-2.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715547",
+"name" : "NACL Industries Ltd",
+"t" : "524709",
+"e" : "BOM",
+"l" : "44.30",
+"c" : "+0.90",
+"mc" : "6.91B",
+"cp" : "2.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16584397",
+"name" : "Kilpest India Ltd",
+"t" : "532067",
+"e" : "BOM",
+"l" : "137.55",
+"c" : "-2.85",
+"mc" : "903.31M",
+"cp" : "-2.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4631886",
+"name" : "Dhanuka Agritech Ltd",
+"t" : "DHANUKA",
+"e" : "NSE",
+"l" : "643.00",
+"c" : "+2.40",
+"mc" : "31.49B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "439959355334624",
+"name" : "Rallis India Limited",
+"t" : "RALLIS",
+"e" : "NSE",
+"l" : "231.00",
+"c" : "+3.15",
+"mc" : "44.87B",
+"cp" : "1.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10347650",
+"name" : "Bharat Rasayan Ltd",
+"t" : "BHARATRAS",
+"e" : "NSE",
+"l" : "4,591.80",
+"c" : "+18.95",
+"mc" : "19.39B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14390123",
+"name" : "Excel Crop Care Limited",
+"t" : "EXCELCROP",
+"e" : "NSE",
+"l" : "3,302.00",
+"c" : "-36.65",
+"mc" : "36.43B",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Akhand Jyoti, 8th Road, Santacruz (East), MUMBAI, 400055, India",
+"phone": "+91-22-67604000",
+"fax": "+91-22-67604060",
+"url": "http:\u002F\u002Fwww.aimcopesticides.com\u002F",
+"overview" : "Aimco Pesticides Limited is engaged in the business of manufacturing and trading of agrochemical products. The principal business activity of the Company is manufacturing and export of pesticides. The Company\u0027s geographical segments include India and outside India. The Company is a manufacturer of various technical grade pesticides. The Company offers insecticides, herbicides, fungicides and others in India and throughout the world. The Company\u0027s products include Chlorpyrifos, including Ethyl and Methyl\u003B Temephos\u003B Cypermethrin\u003B Permethrin\u003B Hexaconazole\u003B Glyphosate\u003B Triclopyr, and Fluroxypyr. It offers a range of pesticide formulations, such as liquids, wettable powders, dusting powders, suspension concentrates and dry flowables. The Company markets its products under the brand name AIMCO. The Company\u0027s other products include pesticides intermediates, fine chemicals and plant growth regulators. The Company caters to both domestic and international markets."
+} ]
+, "management" : [
+{
+"name" : "Pradeep P. Dave",
+"age" : "60",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Ashit P. Dave",
+"age" : "42",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Ninad Sahasrabuddhe",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Priya Surati",
+"title" : "Compliance Officer, Account Manager"
+}
+,
+{
+"name" : "Elizabeth Shrivastava",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Samir P. Dave",
+"age" : "46",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "B. B. Bhawsar",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ramgopal Kaja",
+"age" : "48",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,355 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 4214811136,
+            "fmt": "4.21B",
+            "longFmt": "4,214,811,136"
+          },
+          "forwardPE": {
+            "raw": 7.2940826,
+            "fmt": "7.29"
+          },
+          "profitMargins": {
+            "raw": 0.18202,
+            "fmt": "18.20%"
+          },
+          "floatShares": {
+            "raw": 3043680,
+            "fmt": "3.04M",
+            "longFmt": "3,043,680"
+          },
+          "sharesOutstanding": {
+            "raw": 15238300,
+            "fmt": "15.24M",
+            "longFmt": "15,238,300"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.943013,
+            "fmt": "0.94"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 120.131,
+            "fmt": "120.13"
+          },
+          "priceToBook": {
+            "raw": 3.0371013,
+            "fmt": "3.04"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.096,
+            "fmt": "-9.60%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 627400000,
+            "fmt": "627.4M",
+            "longFmt": "627,400,000"
+          },
+          "trailingEps": {
+            "raw": 40.981,
+            "fmt": "40.98"
+          },
+          "forwardEps": {
+            "raw": 50.02,
+            "fmt": "50.02"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.223,
+            "fmt": "1.22"
+          },
+          "enterpriseToEbitda": {
+            "raw": 6.273,
+            "fmt": "6.27"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 11.22,
+                  "fmt": "11.22"
+                },
+                "estimate": {
+                  "raw": 11.91,
+                  "fmt": "11.91"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 1996200000,
+                  "fmt": "2B",
+                  "longFmt": "1,996,200,000"
+                },
+                "earnings": {
+                  "raw": -249900000,
+                  "fmt": "-249.9M",
+                  "longFmt": "-249,900,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1508600000,
+                  "fmt": "1.51B",
+                  "longFmt": "1,508,600,000"
+                },
+                "earnings": {
+                  "raw": -140600000,
+                  "fmt": "-140.6M",
+                  "longFmt": "-140,600,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 2333800000,
+                  "fmt": "2.33B",
+                  "longFmt": "2,333,800,000"
+                },
+                "earnings": {
+                  "raw": 309400000,
+                  "fmt": "309.4M",
+                  "longFmt": "309,400,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 3228000000,
+                  "fmt": "3.23B",
+                  "longFmt": "3,228,000,000"
+                },
+                "earnings": {
+                  "raw": 614500000,
+                  "fmt": "614.5M",
+                  "longFmt": "614,500,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 805000000,
+                  "fmt": "805M",
+                  "longFmt": "805,000,000"
+                },
+                "earnings": {
+                  "raw": 154100000,
+                  "fmt": "154.1M",
+                  "longFmt": "154,100,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 842400000,
+                  "fmt": "842.4M",
+                  "longFmt": "842,400,000"
+                },
+                "earnings": {
+                  "raw": 151000000,
+                  "fmt": "151M",
+                  "longFmt": "151,000,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 912200000,
+                  "fmt": "912.2M",
+                  "longFmt": "912,200,000"
+                },
+                "earnings": {
+                  "raw": 170900000,
+                  "fmt": "170.9M",
+                  "longFmt": "170,900,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 887200000,
+                  "fmt": "887.2M",
+                  "longFmt": "887,200,000"
+                },
+                "earnings": {
+                  "raw": 151800000,
+                  "fmt": "151.8M",
+                  "longFmt": "151,800,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "46B, Velachery Main Road",
+          "address2": "Velachery",
+          "city": "Chennai",
+          "zip": "600042",
+          "country": "India",
+          "phone": "91 44 4299 7070",
+          "fax": "91 44 2244 7077",
+          "website": "http://www.allsectech.com",
+          "industry": "Business Services",
+          "sector": "Services",
+          "longBusinessSummary": "Allsec Technologies Limited provides information technology (IT) enabled services in India, the United States, the United Kingdom, and internationally. Its services include data verification, processing of orders received through telephone calls, telemarketing, monitoring quality of calls of other call centers, customer services, HR, and payroll processing. The company also provides Web development, Web design, search engine optimization, strategic teleservices, customer care, and quality management services. In addition, it offers anti-money laundering review services; and outsourced solutions in customer engagement, sales and retention, and quality assurance for businesses, such as BFSI, mortgage, telecommunication, retail, healthcare, energy and utilities, and technology. Allsec Technologies Limited was founded in 1998 and is based in Chennai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 364.85,
+            "fmt": "364.85"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 1091800064,
+            "fmt": "1.09B",
+            "longFmt": "1,091,800,064"
+          },
+          "totalCashPerShare": {
+            "raw": 72.499,
+            "fmt": "72.5"
+          },
+          "ebitda": {
+            "raw": 671900032,
+            "fmt": "671.9M",
+            "longFmt": "671,900,032"
+          },
+          "totalDebt": {
+            "raw": 3400000,
+            "fmt": "3.4M",
+            "longFmt": "3,400,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 3446799872,
+            "fmt": "3.45B",
+            "longFmt": "3,446,799,872"
+          },
+          "debtToEquity": {
+            "raw": 0.186,
+            "fmt": "0.19"
+          },
+          "revenuePerShare": {
+            "raw": 225.143,
+            "fmt": "225.14"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1162800000,
+            "fmt": "1.16B",
+            "longFmt": "1,162,800,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.085,
+            "fmt": "-8.50%"
+          },
+          "revenueGrowth": {
+            "raw": 0.011,
+            "fmt": "1.10%"
+          },
+          "grossMargins": {
+            "raw": 0.34249002,
+            "fmt": "34.25%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.19493,
+            "fmt": "19.49%"
+          },
+          "operatingMargins": {
+            "raw": 0.18451999,
+            "fmt": "18.45%"
+          },
+          "profitMargins": {
+            "raw": 0.18202,
+            "fmt": "18.20%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

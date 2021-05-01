@@ -1,0 +1,282 @@
+
+// [
+{
+"symbol" : "538595",
+"exchange" : "BOM",
+"id": "728728",
+"t" : "538595",
+"e" : "BOM",
+"name" : "Gloster Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GLOT.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:538595"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:538595"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:538595"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.83%",
+"annual" : "9.25%",
+"ttm" : "6.13%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.93%",
+"annual" : "11.97%",
+"ttm" : "8.46%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.70%",
+"ttm" : "10.54%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "9.96%",
+"ttm" : "5.21%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.07%",
+"ttm" : "6.95%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,493",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-8.10",
+"l" : "658.00",
+"cp" : "-1.22",
+"ccol" : "chr",
+"op" : "685.00",
+"hi" : "685.00",
+"lo" : "658.00",
+"vo" : "346.00",
+"avvo" : "",
+"hi52" : "793.90",
+"lo52" : "485.00",
+"mc" : "6.88B",
+"pe" : "18.21",
+"fwpe" : "",
+"beta" : "",
+"eps" : "36.14",
+"dy" : "0.76",
+"ldiv" : "5.00",
+"shares" : "10.47M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "728728",
+"name" : "Gloster Ltd",
+"t" : "538595",
+"e" : "BOM",
+"l" : "658.00",
+"c" : "-8.10",
+"mc" : "6.88B",
+"cp" : "-1.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "716770",
+"name" : "Jai Corp Ltd",
+"t" : "512237",
+"e" : "BOM",
+"l" : "164.70",
+"c" : "+2.75",
+"mc" : "29.44B",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10814901",
+"name" : "Sel Manufacturing Company Ltd",
+"t" : "SELMCL",
+"e" : "NSE",
+"l" : "2.45",
+"c" : "-0.05",
+"mc" : "795.88M",
+"cp" : "-2.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1432072",
+"name" : "Neo Corp International Ltd",
+"t" : "523820",
+"e" : "BOM",
+"l" : "3.01",
+"c" : "0.00",
+"mc" : "114.45M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4085136",
+"name" : "Gujarat Raffia Industries Ltd(NDA)",
+"t" : "GUJRAFFIA",
+"e" : "NSE",
+"l" : "57.70",
+"c" : "-2.00",
+"mc" : "288.20M",
+"cp" : "-3.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4406719",
+"name" : "Aadi Industries Limited",
+"t" : "530027",
+"e" : "BOM",
+"l" : "1.03",
+"c" : "0.00",
+"mc" : "10.30M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11726545",
+"name" : "Rishi Techtex Ltd",
+"t" : "523021",
+"e" : "BOM",
+"l" : "66.50",
+"c" : "-4.00",
+"mc" : "491.50M",
+"cp" : "-5.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "706098",
+"name" : "Polyspin Exports Ltd.",
+"t" : "539354",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "0.00",
+"mc" : "520.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2136769",
+"name" : "Jumbo Bag Ltd",
+"t" : "JUMBO",
+"e" : "NSE",
+"l" : "4.30",
+"c" : "",
+"mc" : "36.01M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8607562",
+"name" : "Ludlow Jute \u0026 Specialities Ltd",
+"t" : "526179",
+"e" : "BOM",
+"l" : "98.30",
+"c" : "+1.10",
+"mc" : "1.05B",
+"cp" : "1.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "719858",
+"name" : "Kanpur Plastipack Limited",
+"t" : "507779",
+"e" : "BOM",
+"l" : "138.50",
+"c" : "-2.30",
+"mc" : "1.65B",
+"cp" : "-1.63",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "21 Strand Road, KOLKATA, 700001, India",
+"phone": "+91-33-22309601",
+"fax": "+91-33-22106167",
+"url": "http:\u002F\u002Fwww.glosterjute.com\u002F",
+"overview" : "Gloster Limited is a holding company. The Company is a manufacturer and exporter of jute and jute allied products. The Company manufactures and exports woven and non-woven jute geotextiles, treated fabric rot-proof, fire retardant, jute products for interior decoration and packaging of industrial and agricultural produce. The Company also produces jute and cotton shopping bags, floor covering, and traditional jute products, including yarn and twin. The Company\u0027s products include hessian cloth\u002Fbags, sacking cloth\u002Fbags, spirally sewn bags, fine yarn, blended yarn, carpet weft yarn, dyed yarn, twines\u002Fropes, chemical treated fabric, woven flatbed carpet and rugs. The Company has approximately two business units. The Company\u0027s manufacturing facilities are located at Bauria on the banks of Holy Ganges in West Bengal. The Company\u0027s subsidiaries include Gloster Lifestyle Limited and Gloster Specialities Limited."
+} ]
+, "management" : [
+{
+"name" : "Hemant Bangur",
+"age" : "43",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Ajay Agarwal",
+"title" : "Compliance Officer, Company Secretary, Manager - Finance"
+}
+,
+{
+"name" : "Dharam Chand Baheti",
+"age" : "65",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "S. N. Bhattacharya",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Krutibas Mahapatra",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Prabir Ray Ph.D.",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Nandita Sen",
+"age" : "77",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

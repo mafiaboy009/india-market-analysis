@@ -1,0 +1,281 @@
+
+ [
+{
+"symbol" : "533302",
+"exchange" : "BOM",
+"id": "7809702",
+"t" : "533302",
+"e" : "BOM",
+"name" : "Kalyani Investment Co Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533302"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533302"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533302"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "98.20%",
+"annual" : "77.79%",
+"ttm" : "62.41%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "98.23%",
+"annual" : "78.76%",
+"ttm" : "62.44%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "81.19%",
+"ttm" : "94.79%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.68%",
+"ttm" : "6.18%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.19%",
+"ttm" : "9.78%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+52.30",
+"l" : "2,393.30",
+"cp" : "2.23",
+"ccol" : "chg",
+"op" : "2,341.00",
+"hi" : "2,500.00",
+"lo" : "2,331.05",
+"vo" : "237.00",
+"avvo" : "",
+"hi52" : "2,955.00",
+"lo52" : "1,499.55",
+"mc" : "10.41B",
+"pe" : "28.44",
+"fwpe" : "",
+"beta" : "",
+"eps" : "84.17",
+"dy" : "",
+"ldiv" : "",
+"shares" : "4.37M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7809702",
+"name" : "Kalyani Investment Co Ltd",
+"t" : "533302",
+"e" : "BOM",
+"l" : "2,393.30",
+"c" : "+52.30",
+"mc" : "10.41B",
+"cp" : "2.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5306284",
+"name" : "BF Investment Ltd",
+"t" : "BFINVEST",
+"e" : "NSE",
+"l" : "332.10",
+"c" : "+3.20",
+"mc" : "12.53B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10268223",
+"name" : "Sanblue Corporation Ltd",
+"t" : "521222",
+"e" : "BOM",
+"l" : "3.88",
+"c" : "+0.18",
+"mc" : "19.40M",
+"cp" : "4.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "607679393625766",
+"name" : "Reliance Nippon Life Ast Mgmt Ltd",
+"t" : "RNAM",
+"e" : "NSE",
+"l" : "277.40",
+"c" : "+3.90",
+"mc" : "168.84B",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10935294",
+"name" : "Nagreeka Capital and Infrastructure Ltd",
+"t" : "NAGREEKCAP",
+"e" : "NSE",
+"l" : "43.15",
+"c" : "-1.90",
+"mc" : "544.35M",
+"cp" : "-4.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4291565",
+"name" : "IL \u0026 FS Investment Managers Ltd",
+"t" : "IVC",
+"e" : "NSE",
+"l" : "21.50",
+"c" : "+0.20",
+"mc" : "6.77B",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "650780664270002",
+"name" : "Vibrant Global Capital Ltd",
+"t" : "538732",
+"e" : "BOM",
+"l" : "68.25",
+"c" : "-0.70",
+"mc" : "1.56B",
+"cp" : "-1.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "259728309896975",
+"name" : "Escorp Asset Management Ltd",
+"t" : "540455",
+"e" : "BOM",
+"l" : "15.50",
+"c" : "+0.05",
+"mc" : "",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "374785",
+"name" : "Reliance Capital Limited",
+"t" : "RELCAPITAL",
+"e" : "NSE",
+"l" : "484.60",
+"c" : "+14.80",
+"mc" : "122.24B",
+"cp" : "3.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "391939974702447",
+"name" : "Sagar Productions Ltd",
+"t" : "532092",
+"e" : "BOM",
+"l" : "13.73",
+"c" : "0.00",
+"mc" : "551.15M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9747640",
+"name" : "Tata Investment Corporation Limited",
+"t" : "TATAINVEST",
+"e" : "NSE",
+"l" : "807.00",
+"c" : "-4.00",
+"mc" : "44.52B",
+"cp" : "-0.49",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Corporate Building, 2nd Floor, Mundhwa, PUNE, 411036, India",
+"phone": "+91-20-26821124",
+"fax": "+91-20-26821124",
+"url": "http:\u002F\u002Fwww.kalyani-investment.com\u002F",
+"overview" : "Kalyani Investment Company Limited is a Non-Deposit taking Core Investment company. The Company offers investments and loans. The Company holds an investment portfolio consisting of listed and unlisted companies, which are in various sectors, including forging, steel, power generation, chemicals and banking. The Company is a subsidiary of Sundaram Trading and Investment Private Limited."
+} ]
+, "management" : [
+{
+"name" : "Sanjay V. Yewale",
+"title" : "Chief Executive Officer, Chief Financial Officer"
+}
+,
+{
+"name" : "Adwait S. Joshi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Amit B. Kalyani",
+"age" : "42",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Deeksha A. Kalyani",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Ravindra Kumar Goyal",
+"age" : "56",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "B. B. Hattarki",
+"age" : "72",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "S. S. Vaidya",
+"age" : "59",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

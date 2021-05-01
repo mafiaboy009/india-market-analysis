@@ -1,0 +1,360 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {},
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.075500004,
+            "fmt": "7.55%"
+          },
+          "floatShares": {
+            "raw": 907087,
+            "fmt": "907.09k",
+            "longFmt": "907,087"
+          },
+          "sharesOutstanding": {
+            "raw": 8758000,
+            "fmt": "8.76M",
+            "longFmt": "8,758,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.643546,
+            "fmt": "1.64"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 38.603,
+            "fmt": "38.60"
+          },
+          "priceToBook": {
+            "raw": 6.2572856,
+            "fmt": "6.26"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 1.851,
+            "fmt": "185.10%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 128483000,
+            "fmt": "128.48M",
+            "longFmt": "128,483,000"
+          },
+          "trailingEps": {
+            "raw": 14.667,
+            "fmt": "14.67"
+          },
+          "forwardEps": {
+            "raw": 10.7,
+            "fmt": "10.7"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "10/1",
+          "lastSplitDate": {
+            "raw": 1509494400,
+            "fmt": "2017-11-01"
+          },
+          "enterpriseToRevenue": {},
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": 1.7244341,
+            "fmt": "172.44%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "4Q2016",
+                "actual": {
+                  "raw": 1.72,
+                  "fmt": "1.72"
+                },
+                "estimate": {
+                  "raw": 3.17,
+                  "fmt": "3.17"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 3.84,
+                  "fmt": "3.84"
+                },
+                "estimate": {
+                  "raw": 3.22,
+                  "fmt": "3.22"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 899308000,
+                  "fmt": "899.31M",
+                  "longFmt": "899,308,000"
+                },
+                "earnings": {
+                  "raw": 31432000,
+                  "fmt": "31.43M",
+                  "longFmt": "31,432,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1122186000,
+                  "fmt": "1.12B",
+                  "longFmt": "1,122,186,000"
+                },
+                "earnings": {
+                  "raw": 33430000,
+                  "fmt": "33.43M",
+                  "longFmt": "33,430,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 1222701000,
+                  "fmt": "1.22B",
+                  "longFmt": "1,222,701,000"
+                },
+                "earnings": {
+                  "raw": 50238000,
+                  "fmt": "50.24M",
+                  "longFmt": "50,238,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 1473509000,
+                  "fmt": "1.47B",
+                  "longFmt": "1,473,509,000"
+                },
+                "earnings": {
+                  "raw": 57148000,
+                  "fmt": "57.15M",
+                  "longFmt": "57,148,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 342114000,
+                  "fmt": "342.11M",
+                  "longFmt": "342,114,000"
+                },
+                "earnings": {
+                  "raw": 5831000,
+                  "fmt": "5.83M",
+                  "longFmt": "5,831,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 437240000,
+                  "fmt": "437.24M",
+                  "longFmt": "437,240,000"
+                },
+                "earnings": {
+                  "raw": 29720000,
+                  "fmt": "29.72M",
+                  "longFmt": "29,720,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 426837000,
+                  "fmt": "426.84M",
+                  "longFmt": "426,837,000"
+                },
+                "earnings": {
+                  "raw": 33640000,
+                  "fmt": "33.64M",
+                  "longFmt": "33,640,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 462455000,
+                  "fmt": "462.45M",
+                  "longFmt": "462,455,000"
+                },
+                "earnings": {
+                  "raw": 42869000,
+                  "fmt": "42.87M",
+                  "longFmt": "42,869,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "802 Narnarayan Complex",
+          "address2": "Opposite Navrangpura Post Office Navrangpura",
+          "city": "Ahmedabad",
+          "zip": "380009",
+          "country": "India",
+          "phone": "91 79 2656 5792",
+          "fax": "91 79 2656 0115",
+          "website": "http://www.shrijagdamba.com",
+          "industry": "Packaging & Containers",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Shri Jagdamba Polymers Limited engages in the manufacture and sale of woven polypropylene/polyethylene fabrics in India. The company operates through three segments: Technical Textiles/Woven Sacks, Woven Fabrics/Packaging Products, and Wind Mill Power Generation Income. It also offers PP/PE woven bags and fabrics, flexible intermediate bulk containers, box bags, and lumber covers. In addition, the company provides silt fence, a black color woven fabric used in the construction industry; geotextile, a polypropylene woven fabric; and groundcover, a black woven polypropylene fabric, which is used under the ground for weed control. Further, it generates wind power. The company exports its products to the United States, Europe, and internationally. Shri Jagdamba Polymers Limited was incorporated in 1985 and is based in Ahmedabad, India.",
+          "fullTimeEmployees": 849,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 241.55,
+            "fmt": "241.55"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 58519000,
+            "fmt": "58.52M",
+            "longFmt": "58,519,000"
+          },
+          "totalCashPerShare": {
+            "raw": 6.675,
+            "fmt": "6.68"
+          },
+          "ebitda": {
+            "raw": 289174496,
+            "fmt": "289.17M",
+            "longFmt": "289,174,496"
+          },
+          "totalDebt": {
+            "raw": 196556992,
+            "fmt": "196.56M",
+            "longFmt": "196,556,992"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1701723008,
+            "fmt": "1.7B",
+            "longFmt": "1,701,723,008"
+          },
+          "debtToEquity": {
+            "raw": 58.138,
+            "fmt": "58.14"
+          },
+          "revenuePerShare": {
+            "raw": 194.268,
+            "fmt": "194.27"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 643230000,
+            "fmt": "643.23M",
+            "longFmt": "643,230,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 1.848,
+            "fmt": "184.80%"
+          },
+          "revenueGrowth": {
+            "raw": 0.448,
+            "fmt": "44.80%"
+          },
+          "grossMargins": {
+            "raw": 0.46785,
+            "fmt": "46.78%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.16993,
+            "fmt": "16.99%"
+          },
+          "operatingMargins": {
+            "raw": 0.14931,
+            "fmt": "14.93%"
+          },
+          "profitMargins": {
+            "raw": 0.075500004,
+            "fmt": "7.55%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

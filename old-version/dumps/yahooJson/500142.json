@@ -1,0 +1,210 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": -22251668,
+            "fmt": "-22.25M",
+            "longFmt": "-22,251,668"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.4104,
+            "fmt": "-41.04%"
+          },
+          "floatShares": {
+            "raw": 6081783,
+            "fmt": "6.08M",
+            "longFmt": "6,081,783"
+          },
+          "sharesOutstanding": {
+            "raw": 11895100,
+            "fmt": "11.9M",
+            "longFmt": "11,895,100"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.742794,
+            "fmt": "-0.74"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 3.119,
+            "fmt": "3.12"
+          },
+          "priceToBook": {
+            "raw": 0.40397564,
+            "fmt": "0.40"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -535161,
+            "fmt": "-535.16k",
+            "longFmt": "-535,161"
+          },
+          "trailingEps": {
+            "raw": -0.044,
+            "fmt": "-0.04"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": -17.064,
+            "fmt": "-17.06"
+          },
+          "enterpriseToEbitda": {
+            "raw": 2.542,
+            "fmt": "2.54"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Commercial Union House",
+          "address2": "9, Wallace Street Fort",
+          "city": "Mumbai",
+          "zip": "400001",
+          "country": "India",
+          "phone": "91 22 2207 0273",
+          "fax": "91 22 2200 8074",
+          "website": "http://www.fgpltd.in",
+          "industry": "Property Management",
+          "sector": "Financial",
+          "longBusinessSummary": "FGP Limited engages in the provision of business center facilities in Mumbai, India. It provides office space to the corporate customers. The company was incorporated in 1962 and is based in Mumbai, India.",
+          "fullTimeEmployees": 2,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1.26,
+            "fmt": "1.26"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 35060000,
+            "fmt": "35.06M",
+            "longFmt": "35,060,000"
+          },
+          "totalCashPerShare": {
+            "raw": 2.902,
+            "fmt": "2.9"
+          },
+          "ebitda": {
+            "raw": -8753612,
+            "fmt": "-8.75M",
+            "longFmt": "-8,753,612"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1304000,
+            "fmt": "1.3M",
+            "longFmt": "1,304,000"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.106,
+            "fmt": "0.11"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": -3790158,
+            "fmt": "-3.79M",
+            "longFmt": "-3,790,158"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.092,
+            "fmt": "9.20%"
+          },
+          "grossMargins": {
+            "raw": -1.59905,
+            "fmt": "-159.91%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": -6.7248797,
+            "fmt": "-672.49%"
+          },
+          "profitMargins": {
+            "raw": -0.4104,
+            "fmt": "-41.04%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

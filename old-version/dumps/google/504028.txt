@@ -1,0 +1,290 @@
+
+// [
+{
+"symbol" : "504028",
+"exchange" : "BOM",
+"id": "13927066",
+"t" : "504028",
+"e" : "BOM",
+"name" : "GEE Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GEE.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:504028"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:504028"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:504028"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.93%",
+"annual" : "1.75%",
+"ttm" : "0.41%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.03%",
+"annual" : "5.14%",
+"ttm" : "2.38%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.79%",
+"ttm" : "3.93%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.43%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.40%",
+"ttm" : ""
+}
+]
+, "c" : "-0.30",
+"l" : "47.15",
+"cp" : "-0.63",
+"ccol" : "chr",
+"op" : "46.00",
+"hi" : "47.50",
+"lo" : "46.00",
+"vo" : "5,107.00",
+"avvo" : "",
+"hi52" : "69.60",
+"lo52" : "37.65",
+"mc" : "1.11B",
+"pe" : "125.79",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.37",
+"dy" : "",
+"ldiv" : "0.30",
+"shares" : "23.63M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "13927066",
+"name" : "GEE Ltd",
+"t" : "504028",
+"e" : "BOM",
+"l" : "47.15",
+"c" : "-0.30",
+"mc" : "1.11B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7609072",
+"name" : "D \u0026 H India Ltd",
+"t" : "517514",
+"e" : "BOM",
+"l" : "25.80",
+"c" : "-0.70",
+"mc" : "190.92M",
+"cp" : "-2.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8702951",
+"name" : "Esab India Limited (Parent)",
+"t" : "ESABINDIA",
+"e" : "NSE",
+"l" : "798.00",
+"c" : "-8.10",
+"mc" : "12.33B",
+"cp" : "-1.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9166134",
+"name" : "Ador Welding Ltd.",
+"t" : "ADORWELD",
+"e" : "NSE",
+"l" : "431.00",
+"c" : "+3.20",
+"mc" : "5.90B",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7167561",
+"name" : "Ador Fontech Ltd",
+"t" : "530431",
+"e" : "BOM",
+"l" : "121.95",
+"c" : "+2.75",
+"mc" : "2.13B",
+"cp" : "2.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10018194",
+"name" : "Sam Industries Ltd",
+"t" : "532005",
+"e" : "BOM",
+"l" : "17.50",
+"c" : "-0.90",
+"mc" : "194.05M",
+"cp" : "-4.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2042500",
+"name" : "Larsen \u0026 Toubro Limited",
+"t" : "LT",
+"e" : "NSE",
+"l" : "1,344.00",
+"c" : "+42.30",
+"mc" : "1.88T",
+"cp" : "3.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6351214",
+"name" : "Rishi Laser Ltd.",
+"t" : "526861",
+"e" : "BOM",
+"l" : "33.25",
+"c" : "-1.75",
+"mc" : "305.65M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2963084",
+"name" : "Nitin Castings Ltd",
+"t" : "508875",
+"e" : "BOM",
+"l" : "126.70",
+"c" : "-5.90",
+"mc" : "325.70M",
+"cp" : "-4.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2020032",
+"name" : "Shivalik Bimetal Controls Ltd",
+"t" : "513097",
+"e" : "BOM",
+"l" : "124.85",
+"c" : "+1.40",
+"mc" : "4.77B",
+"cp" : "1.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5114155",
+"name" : "Rishabh Digha Steel\u0026Allied Products Ltd",
+"t" : "531539",
+"e" : "BOM",
+"l" : "48.00",
+"c" : "+0.10",
+"mc" : "263.35M",
+"cp" : "0.21",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Plot No E-1Road No 7 Wagle Industrial Estate, THANE, 400604, India",
+"phone": "+91-22-25821277",
+"fax": "+91-22-25828938",
+"url": "http:\u002F\u002Fwww.geelimited.com",
+"overview" : "Gee Limited is engaged in the manufacturing of manual metal arc welding\u002Fbrazing electrodes and continuous welding electrodes. The Company manufactures cored wire base of metal for electric arc welding, copper-coated wires, flux cored wires and welding fluxes. Its segments include Overseas Operations and Domestic Operations. Its product categories include Shielded Metal Arc Welding, Gas Tungsten Arc Welding, Brazing Wires and Fluxes, Gas Metal Arc Welding, Flux Cored Wire, Submerged Arc Welding and Low Heat Input Electrodes. Its Shielded Metal Arc Welding includes hardfacing, cellulosic, cast iron and stainless steel\u003B Gas Tungsten Arc Welding includes nickel and nickel alloys, copper and copper alloys, aluminum and aluminum alloys, and bronze\u003B Brazing Wires and Fluxes category includes silver brazing alloys\u003B Gas Metal Arc Welding includes low Alloy, nickel and nickel alloys, and stainless steel, and Flux Cored Wire includes low alloy, hardfacing and low hydrogen."
+} ]
+, "management" : [
+{
+"name" : "Satish Utekar",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Payal Agarwal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Umesh Agarwal",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Om Prakash Agarwal",
+"age" : "38",
+"title" : "Chief Marketing Officer"
+}
+,
+{
+"name" : "M. P. Dhanuka",
+"age" : "72",
+"title" : "Executive Director - Marketing, Whole Time Director"
+}
+,
+{
+"name" : "Sanwarmal M. Agarwal",
+"title" : "Executive Non - Independent Director"
+}
+,
+{
+"name" : "Shankarlal L. Agarwal",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Govind Kumar Saraf",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Sujit Sen",
+"age" : "60",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "K. M. Panthaki",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

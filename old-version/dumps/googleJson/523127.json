@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "523127",
+"exchange" : "BOM",
+"id": "715423",
+"t" : "523127",
+"e" : "BOM",
+"name" : "EIH Associated Hotels Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:523127"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:523127"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:523127"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "23.40%",
+"annual" : "16.23%",
+"ttm" : "15.33%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "33.55%",
+"annual" : "22.51%",
+"ttm" : "19.58%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "27.90%",
+"ttm" : "24.93%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "12.70%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.34%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "746",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-24.80",
+"l" : "540.00",
+"cp" : "-4.39",
+"ccol" : "chr",
+"op" : "561.75",
+"hi" : "561.75",
+"lo" : "537.05",
+"vo" : "2,230.00",
+"avvo" : "",
+"hi52" : "635.00",
+"lo52" : "300.00",
+"mc" : "16.33B",
+"pe" : "40.54",
+"fwpe" : "",
+"beta" : "",
+"eps" : "13.32",
+"dy" : "0.83",
+"ldiv" : "4.50",
+"shares" : "30.47M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715423",
+"name" : "EIH Associated Hotels Ltd.",
+"t" : "523127",
+"e" : "BOM",
+"l" : "540.00",
+"c" : "-24.80",
+"mc" : "16.33B",
+"cp" : "-4.39",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13884504",
+"name" : "EIH Limited",
+"t" : "EIHOTEL",
+"e" : "NSE",
+"l" : "166.35",
+"c" : "-2.45",
+"mc" : "95.28B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9837592",
+"name" : "Hotel Leela Venture Limited",
+"t" : "HOTELEELA",
+"e" : "NSE",
+"l" : "19.15",
+"c" : "-0.20",
+"mc" : "12.11B",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715246",
+"name" : "UP Hotels Ltd.",
+"t" : "509960",
+"e" : "BOM",
+"l" : "297.70",
+"c" : "0.00",
+"mc" : "1.54B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "729172",
+"name" : "CHL Limited",
+"t" : "532992",
+"e" : "BOM",
+"l" : "17.05",
+"c" : "-0.60",
+"mc" : "934.65M",
+"cp" : "-3.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13782415",
+"name" : "Royal Orchid Hotels Limited",
+"t" : "ROHLTD",
+"e" : "NSE",
+"l" : "201.10",
+"c" : "+2.10",
+"mc" : "5.53B",
+"cp" : "1.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10395475",
+"name" : "Asian Hotels West Ltd",
+"t" : "AHLWEST",
+"e" : "NSE",
+"l" : "260.00",
+"c" : "0.00",
+"mc" : "2.98B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7982422",
+"name" : "Mac Charles (India) Ltd",
+"t" : "507836",
+"e" : "BOM",
+"l" : "374.00",
+"c" : "-0.35",
+"mc" : "4.90B",
+"cp" : "-0.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14443658",
+"name" : "Howard Hotels Ltd",
+"t" : "526761",
+"e" : "BOM",
+"l" : "7.30",
+"c" : "+0.34",
+"mc" : "66.53M",
+"cp" : "4.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10415540",
+"name" : "Taj GVK Hotels \u0026 Resorts Limited",
+"t" : "TAJGVK",
+"e" : "NSE",
+"l" : "167.00",
+"c" : "-0.90",
+"mc" : "10.50B",
+"cp" : "-0.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6108380",
+"name" : "Advani Hotels \u0026 Resorts India Ltd.",
+"t" : "ADVANIHOTR",
+"e" : "NSE",
+"l" : "63.60",
+"c" : "+0.15",
+"mc" : "2.93B",
+"cp" : "0.24",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "C\u002Fo. EIH Limited, 7, Sham Nath Marg, DELHI, 110054, India",
+"phone": "+91-11-23890505",
+"fax": "+91-11-23890575",
+"url": "http:\u002F\u002Fwww.eihassociatedhotels.in\u002F",
+"overview" : "EIH Associated Hotels Limited is engaged in hotels business. The Company is involved in the ownership, management and operation of over five star deluxe and five star hotels in tourist destinations across India. The Company\u0027s hotels include The Oberoi Cecil, which is located in Shimla, and The Oberoi Rajvilas, which is located in Jaipur. The Oberoi Cecil offers services, which consist of rooms and suites, including features, such as bathrooms with vanity counter, bathtub and ayurvedic toiletries\u003B dining, including outdoor restaurant, and meetings, including venues for board meetings and small conferences. The Company operates Trident Hotels in Agra, Bhubaneswar, Chennai, Cochin, Jaipur and Udaipur. Trident Hotels offer features, such as over 130 rooms and approximately two suites\u003B dining, which consists of restaurant and bar, and meetings, including over two meeting rooms for meetings and conferences with facilities, such as overhead projector, television and video cassette recorder."
+} ]
+, "management" : [
+{
+"name" : "Samidh Das",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Indrani Ray",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vikram S. Oberoi",
+"age" : "52",
+"title" : "Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Prithviraj Singh Oberoi",
+"age" : "84",
+"title" : "Non-Executive Non-Independent Chairman of the Board"
+}
+,
+{
+"name" : "Radhika Haribhakti",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Surin Shailesh Kapadia",
+"title" : "Director"
+}
+,
+{
+"name" : "S. S. Mukherji",
+"age" : "64",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Akshay Raheja",
+"title" : "Non-Executive Non-Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

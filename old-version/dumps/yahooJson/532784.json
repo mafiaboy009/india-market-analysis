@@ -1,0 +1,432 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 62684037120,
+            "fmt": "62.68B",
+            "longFmt": "62,684,037,120"
+          },
+          "forwardPE": {
+            "raw": 21.611336,
+            "fmt": "21.61"
+          },
+          "profitMargins": {
+            "raw": 0.076570004,
+            "fmt": "7.66%"
+          },
+          "floatShares": {
+            "raw": 32853352,
+            "fmt": "32.85M",
+            "longFmt": "32,853,352"
+          },
+          "sharesOutstanding": {
+            "raw": 94845904,
+            "fmt": "94.85M",
+            "longFmt": "94,845,904"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.543948,
+            "fmt": "0.54"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 284.631,
+            "fmt": "284.63"
+          },
+          "priceToBook": {
+            "raw": 1.8754106,
+            "fmt": "1.88"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.355,
+            "fmt": "35.50%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1984530048,
+            "fmt": "1.98B",
+            "longFmt": "1,984,530,048"
+          },
+          "trailingEps": {
+            "raw": 20.68,
+            "fmt": "20.68"
+          },
+          "forwardEps": {
+            "raw": 24.7,
+            "fmt": "24.7"
+          },
+          "pegRatio": {
+            "raw": 1.85,
+            "fmt": "1.85"
+          },
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 2.419,
+            "fmt": "2.42"
+          },
+          "enterpriseToEbitda": {
+            "raw": 12.296,
+            "fmt": "12.30"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 4.88,
+                  "fmt": "4.88"
+                },
+                "estimate": {
+                  "raw": 4.56,
+                  "fmt": "4.56"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 4.95,
+                  "fmt": "4.95"
+                },
+                "estimate": {
+                  "raw": 4.87,
+                  "fmt": "4.87"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 5.22,
+                  "fmt": "5.22"
+                },
+                "estimate": {
+                  "raw": 4.86,
+                  "fmt": "4.86"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 5.62,
+                  "fmt": "5.62"
+                },
+                "estimate": {
+                  "raw": 5.62,
+                  "fmt": "5.62"
+                }
+              }
+            ],
+            "currentQuarterEstimate": {
+              "raw": 5.78,
+              "fmt": "5.78"
+            },
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 21734340000,
+                  "fmt": "21.73B",
+                  "longFmt": "21,734,340,000"
+                },
+                "earnings": {
+                  "raw": 2350430000,
+                  "fmt": "2.35B",
+                  "longFmt": "2,350,430,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 24405610000,
+                  "fmt": "24.41B",
+                  "longFmt": "24,405,610,000"
+                },
+                "earnings": {
+                  "raw": 2380130000,
+                  "fmt": "2.38B",
+                  "longFmt": "2,380,130,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 19431980000,
+                  "fmt": "19.43B",
+                  "longFmt": "19,431,980,000"
+                },
+                "earnings": {
+                  "raw": 1380650000,
+                  "fmt": "1.38B",
+                  "longFmt": "1,380,650,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 22290570000,
+                  "fmt": "22.29B",
+                  "longFmt": "22,290,570,000"
+                },
+                "earnings": {
+                  "raw": 1607530000,
+                  "fmt": "1.61B",
+                  "longFmt": "1,607,530,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 5717570000,
+                  "fmt": "5.72B",
+                  "longFmt": "5,717,570,000"
+                },
+                "earnings": {
+                  "raw": 470530000,
+                  "fmt": "470.53M",
+                  "longFmt": "470,530,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 6749000000,
+                  "fmt": "6.75B",
+                  "longFmt": "6,749,000,000"
+                },
+                "earnings": {
+                  "raw": 477000000,
+                  "fmt": "477M",
+                  "longFmt": "477,000,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 6466000000,
+                  "fmt": "6.47B",
+                  "longFmt": "6,466,000,000"
+                },
+                "earnings": {
+                  "raw": 503000000,
+                  "fmt": "503M",
+                  "longFmt": "503,000,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 6919000000,
+                  "fmt": "6.92B",
+                  "longFmt": "6,919,000,000"
+                },
+                "earnings": {
+                  "raw": 534000000,
+                  "fmt": "534M",
+                  "longFmt": "534,000,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "SOBHA",
+          "address2": "Sarjapur-Marathahalli Outer Ring Road Devarabisanahalli Bellandur Post",
+          "city": "Bengaluru",
+          "zip": "560103",
+          "country": "India",
+          "phone": "91 80 4932 0000",
+          "fax": "91 80 4932 0444",
+          "website": "http://www.sobha.com",
+          "industry": "Real Estate Development",
+          "sector": "Financial",
+          "longBusinessSummary": "Sobha Limited engages in the construction, development, sale, management, and operation of residential and commercial projects primarily in India. Its residential projects include luxury and super luxury apartments, villas, row houses, plotted developments, and aspirational homes; and contractual projects for corporate entities comprise offices, convention centers, software development blocks, multiplex theatres, hostel facilities, hotels, guest houses, food courts, restaurants, research centers, club houses, and factory buildings. The company also manufactures doors and door frames; fitted and loose furniture for hotels and serviced apartments; panelings, partitions, discussion tables, office workstations, reception desks, lift claddings, etc.; and modular kitchens, wardrobes, sofas, dining tables, exclusive chairs, etc. In addition, it undertakes contracts for corporate interiors for offices and hospitals; manufactures wood and wood-based products; manufactures and markets aluminum doors, windows, structural glazing, aluminum composite panels and SS cladding, and pre-engineered buildings; and undertakes other architectural metal works. Further, it manufactures concrete products, such as concrete blocks, pavers, kerbs, water drainage channels, paving slabs, and landscape products; and mattresses under the Restoplus brand. The company was formerly known as Sobha Developers Limited and changed its name to Sobha Limited in August 2014. Sobha Limited was founded in 1995 and is headquartered in Bengaluru, India.",
+          "fullTimeEmployees": 2698,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 533.8,
+            "fmt": "533.80"
+          },
+          "targetHighPrice": {
+            "raw": 760.0,
+            "fmt": "760.00"
+          },
+          "targetLowPrice": {
+            "raw": 363.0,
+            "fmt": "363.00"
+          },
+          "targetMeanPrice": {
+            "raw": 559.56,
+            "fmt": "559.56"
+          },
+          "targetMedianPrice": {
+            "raw": 581.0,
+            "fmt": "581.00"
+          },
+          "recommendationMean": {
+            "raw": 2.4,
+            "fmt": "2.40"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 18,
+            "fmt": "18",
+            "longFmt": "18"
+          },
+          "totalCash": {
+            "raw": 9715999744,
+            "fmt": "9.72B",
+            "longFmt": "9,715,999,744"
+          },
+          "totalCashPerShare": {
+            "raw": 102.255,
+            "fmt": "102.25"
+          },
+          "ebitda": {
+            "raw": 5097930240,
+            "fmt": "5.1B",
+            "longFmt": "5,097,930,240"
+          },
+          "totalDebt": {
+            "raw": 24149999616,
+            "fmt": "24.15B",
+            "longFmt": "24,149,999,616"
+          },
+          "quickRatio": {
+            "raw": 0.218,
+            "fmt": "0.22"
+          },
+          "currentRatio": {
+            "raw": 1.348,
+            "fmt": "1.35"
+          },
+          "totalRevenue": {
+            "raw": 25916569600,
+            "fmt": "25.92B",
+            "longFmt": "25,916,569,600"
+          },
+          "debtToEquity": {
+            "raw": 89.296,
+            "fmt": "89.30"
+          },
+          "revenuePerShare": {
+            "raw": 270.067,
+            "fmt": "270.07"
+          },
+          "returnOnAssets": {
+            "raw": 0.03079,
+            "fmt": "3.08%"
+          },
+          "returnOnEquity": {
+            "raw": 0.07486,
+            "fmt": "7.49%"
+          },
+          "grossProfits": {
+            "raw": 9030750000,
+            "fmt": "9.03B",
+            "longFmt": "9,030,750,000"
+          },
+          "freeCashflow": {
+            "raw": -1945397504,
+            "fmt": "-1.95B",
+            "longFmt": "-1,945,397,504"
+          },
+          "operatingCashflow": {
+            "raw": 3513829888,
+            "fmt": "3.51B",
+            "longFmt": "3,513,829,888"
+          },
+          "earningsGrowth": {
+            "raw": 0.374,
+            "fmt": "37.40%"
+          },
+          "revenueGrowth": {
+            "raw": 0.275,
+            "fmt": "27.50%"
+          },
+          "grossMargins": {
+            "raw": 0.39337003,
+            "fmt": "39.34%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.19670999,
+            "fmt": "19.67%"
+          },
+          "operatingMargins": {
+            "raw": 0.17436,
+            "fmt": "17.44%"
+          },
+          "profitMargins": {
+            "raw": 0.076570004,
+            "fmt": "7.66%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

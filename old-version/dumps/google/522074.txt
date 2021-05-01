@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "522074",
+"exchange" : "BOM",
+"id": "703942",
+"t" : "522074",
+"e" : "BOM",
+"name" : "ELGI Equipments Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:522074"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:522074"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:522074"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.70%",
+"annual" : "5.04%",
+"ttm" : "5.63%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.66%",
+"annual" : "6.58%",
+"ttm" : "7.33%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.68%",
+"ttm" : "10.48%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.48%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.82%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,013",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.90",
+"l" : "314.95",
+"cp" : "1.25",
+"ccol" : "chg",
+"op" : "311.75",
+"hi" : "318.00",
+"lo" : "311.75",
+"vo" : "616.00",
+"avvo" : "",
+"hi52" : "350.00",
+"lo52" : "199.00",
+"mc" : "49.78B",
+"pe" : "56.15",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.61",
+"dy" : "0.32",
+"ldiv" : "1.00",
+"shares" : "158.45M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703942",
+"name" : "ELGI Equipments Ltd",
+"t" : "522074",
+"e" : "BOM",
+"l" : "314.95",
+"c" : "+3.90",
+"mc" : "49.78B",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "850904612182548",
+"name" : "MR.Organisation Ltd",
+"t" : "MRO",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7841120",
+"name" : "Ingersoll Rand India Limited",
+"t" : "INGERRAND",
+"e" : "NSE",
+"l" : "722.95",
+"c" : "-6.20",
+"mc" : "22.77B",
+"cp" : "-0.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "770456",
+"name" : "Mazda Ltd",
+"t" : "523792",
+"e" : "BOM",
+"l" : "384.90",
+"c" : "+3.40",
+"mc" : "1.64B",
+"cp" : "0.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705514",
+"name" : "Kirloskar Pneumatic Company Ltd",
+"t" : "505283",
+"e" : "BOM",
+"l" : "880.10",
+"c" : "-5.90",
+"mc" : "11.30B",
+"cp" : "-0.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12975418",
+"name" : "Kirloskar Brothers Limited",
+"t" : "KIRLOSBROS",
+"e" : "NSE",
+"l" : "327.50",
+"c" : "-4.65",
+"mc" : "25.98B",
+"cp" : "-1.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12700566",
+"name" : "Subros Limited",
+"t" : "SUBROS",
+"e" : "NSE",
+"l" : "348.10",
+"c" : "+14.45",
+"mc" : "20.86B",
+"cp" : "4.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4012093",
+"name" : "Wabco India Ltd",
+"t" : "WABCOINDIA",
+"e" : "NSE",
+"l" : "7,691.00",
+"c" : "+550.25",
+"mc" : "147.51B",
+"cp" : "7.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "55087070199103",
+"name" : "Sharda Motor Industries Ltd",
+"t" : "535602",
+"e" : "BOM",
+"l" : "2,216.00",
+"c" : "-49.40",
+"mc" : "13.14B",
+"cp" : "-2.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715420",
+"name" : "Batliboi Ltd.",
+"t" : "522004",
+"e" : "BOM",
+"l" : "28.50",
+"c" : "-1.50",
+"mc" : "818.40M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5736517",
+"name" : "Polar Industries Ltd",
+"t" : "POLARIND",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-2.00",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Elgi Industrial Complex III Trichy Road, Singanallur, COIMBATORE, 641005, India",
+"phone": "+91-422-2589555",
+"fax": "+91-422-2573697",
+"url": "http:\u002F\u002Fwww.elgi.com\u002F",
+"overview" : "Elgi Equipments Limited is a holding company and an air compressor manufacturer. The Company\u0027s segments include Compressors, Automotive Equipments and Others. It offers a range of compressed air solutions from oil-lubricated and oil-free rotary screw compressors, oil-lubricated and oil-free reciprocating compressors, and centrifugal compressors, to dryers, filters and downstream accessories. Its products include piston compressors, electric lubricated screw compressors, electric oil-free screw compressors, portable compressors, railway compressors and air accessories. Its portfolio of over 400 products has application across various industries, including food processing, pharmaceutical, automotive garages, wood working, textiles, paper, cement, steel making, electronics, air separation, water well drilling and quarry. Its products are used either in their production, maintenance or usage. It offers coolants and lubricants, air audit, energy saving products and customer care services."
+} ]
+, "management" : [
+{
+"name" : "Srinivas Sriram",
+"age" : "56",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "P. M. Vaishnavi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Jairam Varadaraj",
+"age" : "54",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Madhavi Gopinath",
+"age" : "49",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Harjeet Singh Wahan",
+"age" : "66",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "T. Balaji Naidu",
+"age" : "68",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sudarsan Varadaraj",
+"age" : "57",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Ganesh Devaraj",
+"age" : "47",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

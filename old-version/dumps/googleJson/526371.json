@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "526371",
+"exchange" : "BOM",
+"id": "696615",
+"t" : "526371",
+"e" : "BOM",
+"name" : "NMDC Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:526371"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:526371"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:526371"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002714)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "50.36%",
+"annual" : "29.26%",
+"ttm" : "53.19%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "63.64%",
+"annual" : "38.49%",
+"ttm" : "63.58%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "40.91%",
+"ttm" : "64.50%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.83%",
+"ttm" : "20.62%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.83%",
+"ttm" : "22.18%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5,572",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.35",
+"l" : "131.85",
+"cp" : "1.03",
+"ccol" : "chg",
+"op" : "131.50",
+"hi" : "132.90",
+"lo" : "130.70",
+"vo" : "194,536.00",
+"avvo" : "",
+"hi52" : "162.55",
+"lo52" : "102.80",
+"mc" : "414.45B",
+"pe" : "8.20",
+"fwpe" : "",
+"beta" : "",
+"eps" : "16.07",
+"dy" : "3.91",
+"ldiv" : "1.00",
+"shares" : "3.16B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "696615",
+"name" : "NMDC Limited",
+"t" : "526371",
+"e" : "BOM",
+"l" : "131.85",
+"c" : "+1.35",
+"mc" : "414.45B",
+"cp" : "1.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1361228",
+"name" : "Resurgere Mines \u0026 Minerals India Limited",
+"t" : "RMMIL",
+"e" : "NSE",
+"l" : "0.40",
+"c" : "",
+"mc" : "79.55M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6037069",
+"name" : "Orissa Minerals Development Company Ltd",
+"t" : "ORISSAMINE",
+"e" : "NSE",
+"l" : "1,695.10",
+"c" : "-1.65",
+"mc" : "10.15B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "726637",
+"name" : "SVC Resources Limited",
+"t" : "512449",
+"e" : "BOM",
+"l" : "14.95",
+"c" : "0.00",
+"mc" : "103.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11033843",
+"name" : "Godawari Power and Ispat Limited",
+"t" : "GPIL",
+"e" : "NSE",
+"l" : "521.70",
+"c" : "+24.80",
+"mc" : "18.38B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4196813",
+"name" : "Sandur Manganese \u0026 Iron Ores Ltd.",
+"t" : "504918",
+"e" : "BOM",
+"l" : "1,263.90",
+"c" : "+22.40",
+"mc" : "11.15B",
+"cp" : "1.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "730951",
+"name" : "BS Ltd",
+"t" : "BSLIMITED",
+"e" : "NSE",
+"l" : "1.30",
+"c" : "+0.05",
+"mc" : "552.10M",
+"cp" : "4.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13927346",
+"name" : "Greenearth Resources and Projects Ltd",
+"t" : "AUSTRAL",
+"e" : "NSE",
+"l" : "0.35",
+"c" : "-0.05",
+"mc" : "101.60M",
+"cp" : "-12.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3016532",
+"name" : "Nagreeka Exports Limited",
+"t" : "NAGREEKEXP",
+"e" : "NSE",
+"l" : "36.95",
+"c" : "+0.55",
+"mc" : "463.78M",
+"cp" : "1.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6237839",
+"name" : "Rapicut Carbides Ltd",
+"t" : "500360",
+"e" : "BOM",
+"l" : "71.60",
+"c" : "-1.65",
+"mc" : "389.10M",
+"cp" : "-2.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1694733",
+"name" : "Vedanta Ltd",
+"t" : "VEDL",
+"e" : "NSE",
+"l" : "342.00",
+"c" : "+4.10",
+"mc" : "1.27T",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Khanij Bhavan, Masab Tank, HYDERABAD, 500028, India",
+"phone": "+91-40-23538713",
+"fax": "+91-40-23538711",
+"url": "http:\u002F\u002Fwww.nmdc.co.in\u002F",
+"overview" : "NMDC Limited is an India-based company engaged in mining of iron ore. The Company\u0027s segments include Iron Ore, and Other minerals \u0026 services. It is also engaged in the production and sale of diamond, sponge iron and wind power. Its projects under construction include Bailadila Deposit-11\u002FB, Kumaraswamy Iron Ore Project, 1.2 million tons per annum (MTPA) Pellet Plant at Donimalai, 3.0 million tons per annum (MTPA) Integrated Steel Plant in Chhattisgarh, Panthal Magnesite Project, Screening Plant III at Kirandul Complex, Screening Plant II at Donimalai Complex, doubling of Railway Line between Kirandul and Jagdalpur, Steel Plant at Bellary and Rail Link between Dalli-Rajhara-Rowghat-Jagdalpur Railway Line Project. It proposes to diversify into other commodities, such as steel making raw materials (coking coal, manganese ore nickel)\u003B fertilizer raw materials (rock phosphate potash), and thermal coal. It also proposes to invest in raw materials, such as tungsten and rare earth minerals."
+} ]
+, "management" : [
+{
+"name" : "N. Baijendra Kumar",
+"age" : "57",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Devinder Singh Ahluwalia",
+"title" : "Director - Finance, Director"
+}
+,
+{
+"name" : "A. S. Pardha Saradhi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajasekhar ..",
+"title" : "General Manager - Pellet Plant, DIOM, Donimalai"
+}
+,
+{
+"name" : "T.S. Cherian",
+"title" : "General Manager - BIOM, Kirandul Complex"
+}
+,
+{
+"name" : "Prashant Das",
+"title" : "General Manager - Tech. NISP"
+}
+,
+{
+"name" : "Sumit Deb",
+"title" : "General Manager - Comml, Head Office"
+}
+,
+{
+"name" : "E.R. Sree Kumar",
+"title" : "General Manager - Cont. Head Office"
+}
+,
+{
+"name" : "V.S. Prabhakar",
+"title" : "General Manager - Proj, NISP"
+}
+,
+{
+"name" : "D.V.G. Lakshmana Rao",
+"title" : "General Manager - Fin, Head Office"
+}
+]
+,"moreresources" : [
+]
+}]

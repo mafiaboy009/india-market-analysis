@@ -1,0 +1,300 @@
+
+// [
+{
+"symbol" : "520077",
+"exchange" : "BOM",
+"id": "698521",
+"t" : "520077",
+"e" : "BOM",
+"name" : "Amtek Auto Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:520077"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:520077"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:520077"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q2 (Jun \u002708)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.98%",
+"annual" : "-128.81%",
+"ttm" : "9.98%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "16.09%",
+"annual" : "-46.64%",
+"ttm" : "16.09%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.05%",
+"ttm" : "20.61%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-9.90%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-62.11%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,356",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.15",
+"l" : "24.30",
+"cp" : "4.97",
+"ccol" : "chg",
+"op" : "24.10",
+"hi" : "24.30",
+"lo" : "24.05",
+"vo" : "70,552.00",
+"avvo" : "",
+"hi52" : "43.80",
+"lo52" : "21.25",
+"mc" : "6.02B",
+"pe" : "1.02",
+"fwpe" : "",
+"beta" : "",
+"eps" : "23.81",
+"dy" : "",
+"ldiv" : "",
+"shares" : "248.26M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "698521",
+"name" : "Amtek Auto Ltd",
+"t" : "520077",
+"e" : "BOM",
+"l" : "24.30",
+"c" : "+1.15",
+"mc" : "6.02B",
+"cp" : "4.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "388331",
+"name" : "IP Rings Limited",
+"t" : "IPRINGLTD",
+"e" : "NSE",
+"l" : "139.00",
+"c" : "",
+"mc" : "971.11M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "842984",
+"name" : "Menon Pistons Limited",
+"t" : "531727",
+"e" : "BOM",
+"l" : "29.70",
+"c" : "+1.20",
+"mc" : "1.48B",
+"cp" : "4.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2371222",
+"name" : "Ucal Fuel Systems Limited",
+"t" : "UCALFUEL",
+"e" : "NSE",
+"l" : "275.00",
+"c" : "+5.15",
+"mc" : "6.08B",
+"cp" : "1.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9043051",
+"name" : "Rane (Madras) Limited",
+"t" : "RML",
+"e" : "NSE",
+"l" : "868.00",
+"c" : "+46.00",
+"mc" : "10.15B",
+"cp" : "5.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11867337",
+"name" : "Samkrg Pistons And Rings Ltd",
+"t" : "520075",
+"e" : "BOM",
+"l" : "304.00",
+"c" : "+1.75",
+"mc" : "3.03B",
+"cp" : "0.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9429204",
+"name" : "Federal-Mogul Goetze (India) Limited",
+"t" : "FMGOETZE",
+"e" : "NSE",
+"l" : "487.00",
+"c" : "+1.45",
+"mc" : "27.12B",
+"cp" : "0.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "752068",
+"name" : "Kar Mobiles Limited",
+"t" : "590053",
+"e" : "BOM",
+"l" : "380.00",
+"c" : "",
+"mc" : "851.42M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "30688",
+"name" : "Triton Valves Limited",
+"t" : "505978",
+"e" : "BOM",
+"l" : "1,884.00",
+"c" : "-19.30",
+"mc" : "1.87B",
+"cp" : "-1.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6931017",
+"name" : "Rane Engine Valve Ltd",
+"t" : "RANEENGINE",
+"e" : "NSE",
+"l" : "530.00",
+"c" : "+3.70",
+"mc" : "3.56B",
+"cp" : "0.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13341724",
+"name" : "JMT Auto Ltd",
+"t" : "JMTAUTOLTD",
+"e" : "NSE",
+"l" : "5.05",
+"c" : "+0.05",
+"mc" : "2.54B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "3 L.S.C. Pamposh Enclave, Greater Kailash-I, NEW DELHI, 110048, India",
+"phone": "+91-11-42344444",
+"fax": "+91-11-42344400",
+"url": "http:\u002F\u002Fwww.amtek.com\u002Faal.php",
+"overview" : "Amtek Auto Limited is an integrated component manufacturer. The Company is engaged in forging, grey and ductile iron casting, gravity and high-pressure aluminum die casting, and machining and sub-assembly. The Company\u0027s businesses include automotive and joint ventures. Its automotive business includes forging division, cold forging division, iron casting division, aluminum casting division and automotive machining division. The Company\u0027s product portfolio includes flywheel ring gears, starter ring gear, flywheel assemblies, steering knuckles, ladder frames, hubs, spindles, connecting rods, crankshaft, housings, steering levers, gear shifter forks, propeller fork shafts, front axle beam, transmission cases, timing chain covers, mounting brackets, transmission housings, trumpet casings, intake and exhaust manifolds, turbo charger, and flywheels and flywheel housings. It has facilities across India, Japan, Thailand, Germany, Hungary, Italy and Romania, among others."
+} ]
+, "management" : [
+{
+"name" : "Sanjiv Bhasin",
+"age" : "59",
+"title" : "President"
+}
+,
+{
+"name" : "John Ernest Flintham",
+"age" : "64",
+"title" : "President"
+}
+,
+{
+"name" : "Kunal Sabharwal",
+"title" : "Group Chief Financial Officer"
+}
+,
+{
+"name" : "Rajeev Raj Kumar",
+"title" : "Compliance Officer, Deputy General Manager - Legal, Company Secretary"
+}
+,
+{
+"name" : "Gautam Malhotra",
+"age" : "38",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Arvind Dham",
+"age" : "54",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Mukes Kumar Gupta",
+"age" : "54",
+"title" : "Director - Nominee of LIC"
+}
+,
+{
+"name" : "Sanjay Chhabra",
+"age" : "55",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rajeev Kumar Thakur",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Madhu Vij",
+"age" : "60",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,257 @@
+
+// [
+{
+"symbol" : "531343",
+"exchange" : "BOM",
+"id": "3484200",
+"t" : "531343",
+"e" : "BOM",
+"name" : "India Infraspace Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=INDC.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531343"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531343"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531343"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.22%",
+"annual" : "0.04%",
+"ttm" : "0.27%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "0.22%",
+"annual" : "-0.19%",
+"ttm" : "0.08%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-0.19%",
+"ttm" : "0.08%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.05%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.19%",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "11.21",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "23.90",
+"lo52" : "11.21",
+"mc" : "31.39M",
+"pe" : "35.51",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.32",
+"dy" : "",
+"ldiv" : "",
+"shares" : "2.80M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "3484200",
+"name" : "India Infraspace Ltd",
+"t" : "531343",
+"e" : "BOM",
+"l" : "11.21",
+"c" : "0.00",
+"mc" : "31.39M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5820065",
+"name" : "Unitech Limited",
+"t" : "UNITECH",
+"e" : "NSE",
+"l" : "7.40",
+"c" : "+0.25",
+"mc" : "19.36B",
+"cp" : "3.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4751607",
+"name" : "Atlanta Devcon Ltd",
+"t" : "526843",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "13.36M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3309213",
+"name" : "NCC Ltd",
+"t" : "NCC",
+"e" : "NSE",
+"l" : "126.15",
+"c" : "+0.85",
+"mc" : "69.88B",
+"cp" : "0.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "721465",
+"name" : "Ramky Infrastructure Limited",
+"t" : "RAMKY",
+"e" : "NSE",
+"l" : "199.70",
+"c" : "-0.25",
+"mc" : "11.45B",
+"cp" : "-0.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15619196",
+"name" : "Shristi Infrastructure Developt Corp Ltd",
+"t" : "511411",
+"e" : "BOM",
+"l" : "294.95",
+"c" : "+14.95",
+"mc" : "6.55B",
+"cp" : "5.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2660539",
+"name" : "Asahi Infrastructure And Projects Ltd",
+"t" : "512535",
+"e" : "BOM",
+"l" : "1.35",
+"c" : "0.00",
+"mc" : "47.36M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12003421",
+"name" : "Conart Engineers Ltd",
+"t" : "522231",
+"e" : "BOM",
+"l" : "44.80",
+"c" : "-0.15",
+"mc" : "134.40M",
+"cp" : "-0.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5723387",
+"name" : "Kaushalya Infrastructure Development Cor",
+"t" : "KAUSHALYA",
+"e" : "NSE",
+"l" : "3.00",
+"c" : "-0.15",
+"mc" : "103.89M",
+"cp" : "-4.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9676982",
+"name" : "Scope Industries (India) Limited",
+"t" : "531886",
+"e" : "BOM",
+"l" : "1.52",
+"c" : "0.00",
+"mc" : "16.63M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13129157",
+"name" : "RPP Infra Projects Ltd",
+"t" : "RPPINFRA",
+"e" : "NSE",
+"l" : "295.00",
+"c" : "-0.50",
+"mc" : "6.68B",
+"cp" : "-0.17",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "A Wing, Ashoka Chambers, 7th Floor, Rasala Marg, Ellisbridge, AHMEDABAD, 380006, India",
+"phone": "+91-79-65450463",
+"fax": "+91-79-65450463",
+"url": "http:\u002F\u002Fwww.indiainfraspace.com\u002F",
+"overview" : "India Infraspace Limited is an India-based integrated construction, infrastructure development and management company. The Company\u0027s segments include Steel Trading, Information Technology Services, Trading of Goods, Infrastructure \u0026 Allied Services, and Others. The Company focuses on executing construction and infrastructure projects in various sectors, such as water and waste water, transportation, irrigation, industrial construction and parks (including special economic zones (SEZs)), power transmission and distribution, and residential, commercial and retail property in and around the state of Gujarat. The Company is also engaged in the business of trading of various steel products and electronic products. In addition, the Company offers various information technology enabled services."
+} ]
+, "management" : [
+{
+"name" : "Pradip B. Shah",
+"title" : "Managing Director, Non-Executive Director"
+}
+,
+{
+"name" : "Naresh B. Shah",
+"age" : "58",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Vishnubhai Chauhan",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Chetna Kapadia",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

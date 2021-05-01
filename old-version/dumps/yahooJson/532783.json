@@ -1,0 +1,374 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 36852371456,
+            "fmt": "36.85B",
+            "longFmt": "36,852,371,456"
+          },
+          "forwardPE": {
+            "raw": 15.4137335,
+            "fmt": "15.41"
+          },
+          "profitMargins": {
+            "raw": 0.03846,
+            "fmt": "3.85%"
+          },
+          "floatShares": {
+            "raw": 106257783,
+            "fmt": "106.26M",
+            "longFmt": "106,257,783"
+          },
+          "sharesOutstanding": {
+            "raw": 319844992,
+            "fmt": "319.84M",
+            "longFmt": "319,844,992"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.478369,
+            "fmt": "0.48"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 27.153,
+            "fmt": "27.15"
+          },
+          "priceToBook": {
+            "raw": 3.2243216,
+            "fmt": "3.22"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.214,
+            "fmt": "21.40%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1350818048,
+            "fmt": "1.35B",
+            "longFmt": "1,350,818,048"
+          },
+          "trailingEps": {
+            "raw": 5.024,
+            "fmt": "5.02"
+          },
+          "forwardEps": {
+            "raw": 5.68,
+            "fmt": "5.68"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "10/1",
+          "lastSplitDate": {
+            "raw": 1486425600,
+            "fmt": "2017-02-07"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.049,
+            "fmt": "1.05"
+          },
+          "enterpriseToEbitda": {
+            "raw": 9.409,
+            "fmt": "9.41"
+          },
+          "52WeekChange": {
+            "raw": 0.34527445,
+            "fmt": "34.53%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "4Q2016",
+                "actual": {
+                  "raw": 1.11,
+                  "fmt": "1.11"
+                },
+                "estimate": {
+                  "raw": 1.04,
+                  "fmt": "1.04"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 24742942000,
+                  "fmt": "24.74B",
+                  "longFmt": "24,742,942,000"
+                },
+                "earnings": {
+                  "raw": 783253000,
+                  "fmt": "783.25M",
+                  "longFmt": "783,253,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 27348428000,
+                  "fmt": "27.35B",
+                  "longFmt": "27,348,428,000"
+                },
+                "earnings": {
+                  "raw": 724865000,
+                  "fmt": "724.87M",
+                  "longFmt": "724,865,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 29737342000,
+                  "fmt": "29.74B",
+                  "longFmt": "29,737,342,000"
+                },
+                "earnings": {
+                  "raw": 721092000,
+                  "fmt": "721.09M",
+                  "longFmt": "721,092,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 32869155000,
+                  "fmt": "32.87B",
+                  "longFmt": "32,869,155,000"
+                },
+                "earnings": {
+                  "raw": 1174279000,
+                  "fmt": "1.17B",
+                  "longFmt": "1,174,279,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 9625159000,
+                  "fmt": "9.63B",
+                  "longFmt": "9,625,159,000"
+                },
+                "earnings": {
+                  "raw": 337309000,
+                  "fmt": "337.31M",
+                  "longFmt": "337,309,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 7619270000,
+                  "fmt": "7.62B",
+                  "longFmt": "7,619,270,000"
+                },
+                "earnings": {
+                  "raw": 325587000,
+                  "fmt": "325.59M",
+                  "longFmt": "325,587,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 8530990000,
+                  "fmt": "8.53B",
+                  "longFmt": "8,530,990,000"
+                },
+                "earnings": {
+                  "raw": 339763000,
+                  "fmt": "339.76M",
+                  "longFmt": "339,763,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 9409297000,
+                  "fmt": "9.41B",
+                  "longFmt": "9,409,297,000"
+                },
+                "earnings": {
+                  "raw": 361566000,
+                  "fmt": "361.57M",
+                  "longFmt": "361,566,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "MVL-I Park",
+          "address2": "4th Floor Sector-15 Near 32nd Milestone",
+          "city": "Gurgaon",
+          "zip": "122001",
+          "country": "India",
+          "phone": "91 12 4305 5100",
+          "fax": "91 12 4305 5199",
+          "website": "http://www.ltoverseas.com",
+          "industry": "Food - Major Diversified",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "LT Foods Limited engages in the milling, processing, marketing, storage, packing, and distribution of branded and non-branded basmati rice, and rice food products worldwide. The company's rice product portfolio comprises basmati and non-basmati rice, brown rice, white rice, steamed rice, parboiled rice, organic rice, quick cooking rice, value added rice, and flavored rice. It also offers organic rice, pulses, soya, and spices; and other value-added products, such as wheat flour, refined flour, flattened rice, chickpea flour, and semolina, as well as oil seeds, cereal grains, nuts, and fruits and vegetables. In addition, the company provides staples, such as besan, suji, poha, maida, and daliya. LT Foods Limited offers its food products primarily under the Daawat, Royal, Ecolife, Devaaya, and Heritage brand names. The company was formerly known as LT Overseas. The company was founded in 1990 and is based in Gurgaon, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 87.55,
+            "fmt": "87.55"
+          },
+          "targetHighPrice": {
+            "raw": 90.0,
+            "fmt": "90.00"
+          },
+          "targetLowPrice": {
+            "raw": 90.0,
+            "fmt": "90.00"
+          },
+          "targetMeanPrice": {
+            "raw": 90.0,
+            "fmt": "90.00"
+          },
+          "targetMedianPrice": {
+            "raw": 90.0,
+            "fmt": "90.00"
+          },
+          "recommendationMean": {
+            "raw": 1.5,
+            "fmt": "1.50"
+          },
+          "recommendationKey": "strong_buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 706140032,
+            "fmt": "706.14M",
+            "longFmt": "706,140,032"
+          },
+          "totalCashPerShare": {
+            "raw": 2.647,
+            "fmt": "2.65"
+          },
+          "ebitda": {
+            "raw": 3916617216,
+            "fmt": "3.92B",
+            "longFmt": "3,916,617,216"
+          },
+          "totalDebt": {
+            "raw": 14338379776,
+            "fmt": "14.34B",
+            "longFmt": "14,338,379,776"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 35125846016,
+            "fmt": "35.13B",
+            "longFmt": "35,125,846,016"
+          },
+          "debtToEquity": {
+            "raw": 185.203,
+            "fmt": "185.20"
+          },
+          "revenuePerShare": {
+            "raw": 130.804,
+            "fmt": "130.80"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 8817258000,
+            "fmt": "8.82B",
+            "longFmt": "8,817,258,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.297,
+            "fmt": "29.70%"
+          },
+          "revenueGrowth": {
+            "raw": 0.189,
+            "fmt": "18.90%"
+          },
+          "grossMargins": {
+            "raw": 0.2705,
+            "fmt": "27.05%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.111499995,
+            "fmt": "11.15%"
+          },
+          "operatingMargins": {
+            "raw": 0.09729999,
+            "fmt": "9.73%"
+          },
+          "profitMargins": {
+            "raw": 0.03846,
+            "fmt": "3.85%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

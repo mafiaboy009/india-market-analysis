@@ -1,0 +1,260 @@
+
+ [
+{
+"symbol" : "534060",
+"exchange" : "BOM",
+"id": "673613763327962",
+"t" : "534060",
+"e" : "BOM",
+"name" : "PMC Fincorp Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=PRMF.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:534060"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:534060"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:534060"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "38.67%",
+"annual" : "9.81%",
+"ttm" : "18.15%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "38.67%",
+"annual" : "14.77%",
+"ttm" : "22.84%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.79%",
+"ttm" : "23.37%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.61%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.24%",
+"ttm" : ""
+}
+]
+, "c" : "+0.02",
+"l" : "0.62",
+"cp" : "3.33",
+"ccol" : "chg",
+"op" : "0.63",
+"hi" : "0.63",
+"lo" : "0.57",
+"vo" : "2.74M",
+"avvo" : "",
+"hi52" : "0.75",
+"lo52" : "0.32",
+"mc" : "301.67M",
+"pe" : "21.74",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.03",
+"dy" : "",
+"ldiv" : "",
+"shares" : "509.06M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "673613763327962",
+"name" : "PMC Fincorp Ltd",
+"t" : "534060",
+"e" : "BOM",
+"l" : "0.62",
+"c" : "+0.02",
+"mc" : "301.67M",
+"cp" : "3.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11363801",
+"name" : "Keynote Corporate Services Ltd",
+"t" : "KEYCORPSER",
+"e" : "NSE",
+"l" : "57.30",
+"c" : "-5.70",
+"mc" : "402.15M",
+"cp" : "-9.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "29126",
+"name" : "Sanmitra Commercial Ltd",
+"t" : "512062",
+"e" : "BOM",
+"l" : "9.99",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "858511",
+"name" : "SMIFS Capital Markets Ltd",
+"t" : "508905",
+"e" : "BOM",
+"l" : "55.25",
+"c" : "+1.15",
+"mc" : "309.14M",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3363326",
+"name" : "Stanrose Mafatlal Investment\u0026Finance Ltd",
+"t" : "506105",
+"e" : "BOM",
+"l" : "156.00",
+"c" : "+0.20",
+"mc" : "630.32M",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16629800",
+"name" : "Interface Financial Services Ltd",
+"t" : "530519",
+"e" : "BOM",
+"l" : "0.18",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11138731",
+"name" : "Edelweiss Capital Limited",
+"t" : "EDELWEISS",
+"e" : "NSE",
+"l" : "264.65",
+"c" : "+4.05",
+"mc" : "241.74B",
+"cp" : "1.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6327012",
+"name" : "Industrial \u0026 Prudential Investment",
+"t" : "501298",
+"e" : "BOM",
+"l" : "1,250.00",
+"c" : "+0.05",
+"mc" : "2.18B",
+"cp" : "0.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1634519",
+"name" : "HB Stockholdings Ltd",
+"t" : "HBSTOCK",
+"e" : "NSE",
+"l" : "43.65",
+"c" : "-0.10",
+"mc" : "1.04B",
+"cp" : "-0.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722530",
+"name" : "Shardul Securities Limited",
+"t" : "512393",
+"e" : "BOM",
+"l" : "46.00",
+"c" : "0.00",
+"mc" : "787.80M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14613139",
+"name" : "Swastika Investmart Ltd",
+"t" : "530585",
+"e" : "BOM",
+"l" : "172.00",
+"c" : "-2.60",
+"mc" : "513.78M",
+"cp" : "-1.49",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "14\u002F5, Old Rajender Nagar,, NEW DELHI, 110060, India",
+"phone": "+91-11-42436849",
+"fax": "+91-11-25818446",
+"url": "http:\u002F\u002Fwww.pmcfinance.in\u002F",
+"overview" : "PMC Fincorp Limited is a non-banking financial company. The Company is engaged in the business of financing activities, investment in securities of listed and unlisted companies, and fee-based advisory services in the field of money market. The Company is engaged in various activities, including corporate and personal finance\u003B debt syndication\u003B private placement, arranger\u003B distribution and marketing of financial products, and dealing and investment in stock market. The Company operates in India."
+} ]
+, "management" : [
+{
+"name" : "Raj Kumar Modi",
+"age" : "47",
+"title" : "Compliance Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Rekha Modi",
+"age" : "44",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "V. B. Aggarwal",
+"age" : "53",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Pramod Gupta",
+"age" : "52",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

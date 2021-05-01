@@ -1,0 +1,290 @@
+
+ [
+{
+"symbol" : "532356",
+"exchange" : "BOM",
+"id": "706260",
+"t" : "532356",
+"e" : "BOM",
+"name" : "Triveni Engineering \u0026 Industries Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532356"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532356"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532356"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.78%",
+"annual" : "7.76%",
+"ttm" : "7.70%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.28%",
+"annual" : "12.81%",
+"ttm" : "11.52%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "18.08%",
+"ttm" : "15.66%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.53%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "35.57%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,057",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.45",
+"l" : "63.60",
+"cp" : "-0.70",
+"ccol" : "chr",
+"op" : "64.75",
+"hi" : "64.75",
+"lo" : "63.20",
+"vo" : "37,368.00",
+"avvo" : "",
+"hi52" : "107.90",
+"lo52" : "57.00",
+"mc" : "16.38B",
+"pe" : "5.83",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.92",
+"dy" : "0.39",
+"ldiv" : "0.25",
+"shares" : "257.90M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "706260",
+"name" : "Triveni Engineering \u0026 Industries Ltd.",
+"t" : "532356",
+"e" : "BOM",
+"l" : "63.60",
+"c" : "-0.45",
+"mc" : "16.38B",
+"cp" : "-0.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14034255",
+"name" : "Parrys Sugar Industries Ltd",
+"t" : "PARRYSUGAR",
+"e" : "NSE",
+"l" : "48.40",
+"c" : "",
+"mc" : "976.13M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12172014",
+"name" : "Upper Ganges Sugar \u0026 Industries Ltd.",
+"t" : "UPERGANGES",
+"e" : "NSE",
+"l" : "376.60",
+"c" : "",
+"mc" : "4.37B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "715557",
+"name" : "Jeypore Sugar Company Ltd",
+"t" : "590054",
+"e" : "BOM",
+"l" : "48.70",
+"c" : "",
+"mc" : "220.83M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4438161",
+"name" : "Bannari Amman Sugars Limited",
+"t" : "BANARISUG",
+"e" : "NSE",
+"l" : "1,800.00",
+"c" : "+30.00",
+"mc" : "22.57B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14089507",
+"name" : "Rana Sugars Ltd.",
+"t" : "RANASUG",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "-0.05",
+"mc" : "952.12M",
+"cp" : "-0.81",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6592407",
+"name" : "E.I.D-Parry (India) Ltd",
+"t" : "EIDPARRY",
+"e" : "NSE",
+"l" : "315.65",
+"c" : "-4.05",
+"mc" : "55.85B",
+"cp" : "-1.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3493013",
+"name" : "Ugar Sugar Works Limited",
+"t" : "UGARSUGAR",
+"e" : "NSE",
+"l" : "19.80",
+"c" : "-0.25",
+"mc" : "2.23B",
+"cp" : "-1.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13114484",
+"name" : "Simbhaoli Sugars Ltd.",
+"t" : "SIMBHSUGAR",
+"e" : "NSE",
+"l" : "28.60",
+"c" : "",
+"mc" : "807.34M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10843935",
+"name" : "KM Sugar Mills Ltd.",
+"t" : "KMSUGAR",
+"e" : "NSE",
+"l" : "14.15",
+"c" : "-0.15",
+"mc" : "1.29B",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8902314",
+"name" : "Kesar Enterprises Ltd",
+"t" : "KESARENT",
+"e" : "NSE",
+"l" : "57.95",
+"c" : "-1.15",
+"mc" : "578.73M",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "8th Floor, Express Trade Towers Plot No. 15-16, Sector -16A, NOIDA, 201301, India",
+"phone": "+91-120-4308000",
+"fax": "+91-120-4311010",
+"url": "http:\u002F\u002Fwww.trivenigroup.com\u002F",
+"overview" : "Triveni Engineering and Industries Limited is engaged in the manufacturing of sugar. The Company\u0027s segments include Sugar, Engineering and Others. Its Sugar Business consists of sugar, co-generation and distillery. Its Engineering Business comprises its operations in high-speed gears, and water and waste-water management segments. The Other segment includes execution of a turnkey project relating to installation of steam turbine-based power evacuation system, trading of various packaged fast moving consumer goods under its brand name, and retailing of diesel\u002Fpetrol through a Company-operated fuel station. It manufactures white crystal sugar and has approximately seven manufacturing plants in the State of Uttar Pradesh. It has installed capacity of 68-megawatt spread over Khatauli and Deoband sugar mills. It manufactures high-speed gears and gear boxes at the manufacturing facility located at Mysore, Karnataka. It provides engineered-to-order process equipment and solutions."
+} ]
+, "management" : [
+{
+"name" : "Dhruv M. Sawhney",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Tarun Sawhney",
+"age" : "41",
+"title" : "Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Suresh Taneja",
+"title" : "Group Chief Financial Officer"
+}
+,
+{
+"name" : "Geeta Bhalla",
+"title" : "Chief Compliance Officer, Group General Manager, Secretary"
+}
+,
+{
+"name" : "Santosh Pande",
+"age" : "65",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Nikhil Sawhney",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sudipto Sarkar",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Homai Ardeshir Daruwalla",
+"age" : "68",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Shekhar Datta",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

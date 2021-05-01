@@ -1,0 +1,283 @@
+
+// [
+{
+"symbol" : "536170",
+"exchange" : "BOM",
+"id": "904778186118092",
+"t" : "536170",
+"e" : "BOM",
+"name" : "Kushal Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KUSH.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:536170"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:536170"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:536170"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.02%",
+"annual" : "5.94%",
+"ttm" : "5.09%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.99%",
+"annual" : "6.79%",
+"ttm" : "6.12%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.81%",
+"ttm" : "6.14%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "13.02%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "73.85%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "44",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.05",
+"l" : "160.95",
+"cp" : "-0.03",
+"ccol" : "chr",
+"op" : "161.50",
+"hi" : "162.15",
+"lo" : "160.65",
+"vo" : "359,879.00",
+"avvo" : "",
+"hi52" : "229.60",
+"lo52" : "105.55",
+"mc" : "38.19B",
+"pe" : "29.04",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.54",
+"dy" : "0.59",
+"ldiv" : "0.10",
+"shares" : "237.27M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "904778186118092",
+"name" : "Kushal Ltd",
+"t" : "536170",
+"e" : "BOM",
+"l" : "160.95",
+"c" : "-0.05",
+"mc" : "38.19B",
+"cp" : "-0.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6197630",
+"name" : "Arms Paper Ltd",
+"t" : "532397",
+"e" : "BOM",
+"l" : "1.27",
+"c" : "0.00",
+"mc" : "14.46M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16215923",
+"name" : "Sarda Papers Ltd",
+"t" : "516032",
+"e" : "BOM",
+"l" : "7.02",
+"c" : "0.00",
+"mc" : "21.89M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5031099",
+"name" : "Karur KCP Packkagings Ltd",
+"t" : "531363",
+"e" : "BOM",
+"l" : "46.50",
+"c" : "0.00",
+"mc" : "544.83M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4238278",
+"name" : "Gopala Polyplast Ltd",
+"t" : "526717",
+"e" : "BOM",
+"l" : "156.30",
+"c" : "-3.40",
+"mc" : "1.42B",
+"cp" : "-2.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "453132322286604",
+"name" : "V-Mart Retail Ltd",
+"t" : "VMART",
+"e" : "NSE",
+"l" : "1,593.05",
+"c" : "-4.30",
+"mc" : "28.95B",
+"cp" : "-0.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7150786265096",
+"name" : "Satia Industries Ltd",
+"t" : "539201",
+"e" : "BOM",
+"l" : "202.20",
+"c" : "0.00",
+"mc" : "2.02B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11433408",
+"name" : "Sirpur Paper Mills Ltd",
+"t" : "SIRPAPER",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3077214",
+"name" : "Linc Pen and Plastics Ltd",
+"t" : "531241",
+"e" : "BOM",
+"l" : "465.00",
+"c" : "+4.15",
+"mc" : "7.00B",
+"cp" : "0.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "143870367718332",
+"name" : "Gautam Exim Ltd",
+"t" : "540613",
+"e" : "BOM",
+"l" : "55.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14822301",
+"name" : "Alexander Stamps and Coin Ltd",
+"t" : "511463",
+"e" : "BOM",
+"l" : "19.30",
+"c" : "+0.15",
+"mc" : "136.47M",
+"cp" : "0.78",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Plot No. 43, B\u002FS Navneet Prakashan Press B\u002FH Govt \u0027G\u0027 Colony, Sukhramnagar Gomtipur, AHMEDABAD, 380009, India",
+"phone": "+91-79-26408027",
+"fax": "+91-79-26404027",
+"url": "http:\u002F\u002Fwww.kushaltradelink.com\u002F",
+"overview" : "Kushal Limited, formerly Kushal Tradelink Limited, is an India-based company engaged in trading, manufacturing and supply of paper and paper products. The Company also provides a ready supply of coal, agricultural products, drug application program interface (APIs), readymade garments, paper and paper products, base oils, electronic items and accessories, steel products and homes to customers in India and across the globe. Its business includes trading, manufacturing and infrastructure development. Its trading business includes paper, agricultural products, pharmaceuticals ingredients, chemicals, plastics, textile and readymade garments, electronics and accessories, metals and mining, and capital goods. Its manufacturing division manufactures a wide variety of Kraft paper in a range of bursting factor (BF), grams per square (GSM) and color mixes. The Company’s infrastructure division develops residential, commercial and industrial infrastructures."
+} ]
+, "management" : [
+{
+"name" : "Sandeep Agrawal",
+"title" : "Executive Chairperson of the Board, Managing Director"
+}
+,
+{
+"name" : "Vimal Shah",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Khushboo Surana",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kushal Agrawal",
+"title" : "Additional Executive Director"
+}
+,
+{
+"name" : "Manoj Tulsiram Agrawal",
+"title" : "Additional Executive Director"
+}
+,
+{
+"name" : "Anil Soni",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Dharmendra Bhuchhada",
+"age" : "32",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kavita Jain",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

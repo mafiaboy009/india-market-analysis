@@ -1,0 +1,216 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 366933344,
+            "fmt": "366.93M",
+            "longFmt": "366,933,344"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.34384,
+            "fmt": "-34.38%"
+          },
+          "floatShares": {
+            "raw": 1057994,
+            "fmt": "1.06M",
+            "longFmt": "1,057,994"
+          },
+          "sharesOutstanding": {
+            "raw": 4908580,
+            "fmt": "4.91M",
+            "longFmt": "4,908,580"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.452117,
+            "fmt": "0.45"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -14.888,
+            "fmt": "-14.89"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1506729600,
+            "fmt": "2017-09-30"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -147828000,
+            "fmt": "-147.83M",
+            "longFmt": "-147,828,000"
+          },
+          "trailingEps": {
+            "raw": -30.116,
+            "fmt": "-30.12"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.853,
+            "fmt": "0.85"
+          },
+          "enterpriseToEbitda": {
+            "raw": -5.637,
+            "fmt": "-5.64"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Surya Towers",
+          "address2": "6th Floor 105, Sardar Patel Road",
+          "city": "Secunderabad",
+          "zip": "500003",
+          "country": "India",
+          "phone": "91 40 3051 2700",
+          "fax": "91 40 3051 2725",
+          "website": "http://www.suryavanshi.com",
+          "industry": "Textile Industrial",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Suryavanshi Spinning Mills Limited manufactures and sells polyester yarns, polyester-viscose blended yarns, medical textiles, absorbent bleached cotton, and readymade garments in India. The company also exports its products to the United States, Europe, Japan, China, Korea, Vietnam, Hong Kong, Bangladesh, Italy, Egypt, etc. Suryavanshi Spinning Mills Limited was founded in 1978 and is based in Secunderabad, India.",
+          "fullTimeEmployees": 331,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 4.4,
+            "fmt": "4.40"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 2652000,
+            "fmt": "2.65M",
+            "longFmt": "2,652,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.54,
+            "fmt": "0.54"
+          },
+          "ebitda": {
+            "raw": -65091500,
+            "fmt": "-65.09M",
+            "longFmt": "-65,091,500"
+          },
+          "totalDebt": {
+            "raw": 335617984,
+            "fmt": "335.62M",
+            "longFmt": "335,617,984"
+          },
+          "quickRatio": {
+            "raw": 0.053,
+            "fmt": "0.05"
+          },
+          "currentRatio": {
+            "raw": 0.331,
+            "fmt": "0.33"
+          },
+          "totalRevenue": {
+            "raw": 429935008,
+            "fmt": "429.94M",
+            "longFmt": "429,935,008"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 87.589,
+            "fmt": "87.59"
+          },
+          "returnOnAssets": {
+            "raw": -0.10456,
+            "fmt": "-10.46%"
+          },
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 107218000,
+            "fmt": "107.22M",
+            "longFmt": "107,218,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.589,
+            "fmt": "-58.90%"
+          },
+          "grossMargins": {
+            "raw": 0.045679998,
+            "fmt": "4.57%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.1514,
+            "fmt": "-15.14%"
+          },
+          "operatingMargins": {
+            "raw": -0.19496,
+            "fmt": "-19.50%"
+          },
+          "profitMargins": {
+            "raw": -0.34384,
+            "fmt": "-34.38%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

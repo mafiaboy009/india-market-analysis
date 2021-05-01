@@ -1,0 +1,274 @@
+
+// [
+{
+"symbol" : "513693",
+"exchange" : "BOM",
+"id": "15239521",
+"t" : "513693",
+"e" : "BOM",
+"name" : "K I C Metaliks Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KICM.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:513693"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:513693"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:513693"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.09%",
+"annual" : "1.27%",
+"ttm" : "2.22%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.80%",
+"annual" : "3.05%",
+"ttm" : "3.65%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.00%",
+"ttm" : "5.40%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.22%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.99%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "270",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.75",
+"l" : "184.95",
+"cp" : "-1.99",
+"ccol" : "chr",
+"op" : "185.00",
+"hi" : "185.00",
+"lo" : "184.95",
+"vo" : "275.00",
+"avvo" : "",
+"hi52" : "222.30",
+"lo52" : "110.75",
+"mc" : "1.31B",
+"pe" : "12.45",
+"fwpe" : "",
+"beta" : "",
+"eps" : "14.85",
+"dy" : "",
+"ldiv" : "",
+"shares" : "7.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15239521",
+"name" : "K I C Metaliks Ltd",
+"t" : "513693",
+"e" : "BOM",
+"l" : "184.95",
+"c" : "-3.75",
+"mc" : "1.31B",
+"cp" : "-1.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15110548",
+"name" : "Srikalahasthi Pipes Ltd",
+"t" : "SRIPIPES",
+"e" : "NSE",
+"l" : "358.25",
+"c" : "+2.25",
+"mc" : "16.70B",
+"cp" : "0.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1433939",
+"name" : "Electrosteel Steels Ltd",
+"t" : "ESL",
+"e" : "NSE",
+"l" : "3.45",
+"c" : "-0.15",
+"mc" : "8.31B",
+"cp" : "-4.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8542662",
+"name" : "Gontermann Peipers India Ltd.",
+"t" : "504701",
+"e" : "BOM",
+"l" : "7.50",
+"c" : "+0.07",
+"mc" : "160.92M",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13928461",
+"name" : "Garg Furnace Ltd",
+"t" : "530615",
+"e" : "BOM",
+"l" : "10.69",
+"c" : "+0.08",
+"mc" : "42.53M",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16000145",
+"name" : "N R International Ltd",
+"t" : "532623",
+"e" : "BOM",
+"l" : "5.76",
+"c" : "0.00",
+"mc" : "61.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "722448",
+"name" : "Rajkumar Forge limited",
+"t" : "513369",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "+1.60",
+"mc" : "437.58M",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4777716",
+"name" : "Steel Authority of India Limited",
+"t" : "SAIL",
+"e" : "NSE",
+"l" : "86.40",
+"c" : "-0.65",
+"mc" : "355.24B",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10700680",
+"name" : "Kesoram Industries Limited",
+"t" : "KESORAMIND",
+"e" : "NSE",
+"l" : "132.55",
+"c" : "-0.40",
+"mc" : "16.59B",
+"cp" : "-0.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3198942",
+"name" : "Bhuwalka Steel Industries Ltd",
+"t" : "513333",
+"e" : "BOM",
+"l" : "4.46",
+"c" : "0.00",
+"mc" : "46.27M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "4TH FLOOR ROOM NO 2, 3B, LAL BAZAR STREET, KOLKATA, 700001, India",
+"phone": "+91-33-30688681",
+"fax": "+91-33-40019636",
+"url": "http:\u002F\u002Fwww.kicmetaliks.com",
+"overview" : "KIC Metaliks Limited is an India-based pig iron manufacturing company. The Company is engaged in offering steel, coke and coal. The Company is engaged in manufacturing foundry grade and basic grade pig iron and Portland slag cement. The Company also manufactures and supplies granulated blast furnace slag for cement plants. The Company offers various pig iron scrap, such as pig casting machine (PCM) scrap, pig iron runner, pig iron skull and pig iron chips. The Company has a pig iron manufacturing capacity of 165,000 metric tons per annum. The Company has a sinter manufacturing capacity of 336,600 metric tons per annum. The Company has a captive power production capacity of 4.7 megawatts. The Company\u0027s plant is located at Raturia at Angadpur, Durgapur in West Bengal. The Company\u0027s plant is spread in an area of approximately 80 acres."
+} ]
+, "management" : [
+{
+"name" : "Radhey Shyam Jalan",
+"age" : "32",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Mukesh Bengani",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ruchika Dhanuka",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Laxmi Narayan Sharma",
+"title" : "Director"
+}
+,
+{
+"name" : "Sayantony Banerjee",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Suresh Kumar Singhal",
+"age" : "48",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

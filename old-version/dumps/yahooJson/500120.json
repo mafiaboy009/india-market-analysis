@@ -1,0 +1,344 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 980219712,
+            "fmt": "980.22M",
+            "longFmt": "980,219,712"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.16422,
+            "fmt": "16.42%"
+          },
+          "floatShares": {
+            "raw": 2689429,
+            "fmt": "2.69M",
+            "longFmt": "2,689,429"
+          },
+          "sharesOutstanding": {
+            "raw": 9783240,
+            "fmt": "9.78M",
+            "longFmt": "9,783,240"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.587974,
+            "fmt": "-0.59"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 35.028,
+            "fmt": "35.03"
+          },
+          "priceToBook": {
+            "raw": 5.204408,
+            "fmt": "5.20"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 1.573,
+            "fmt": "157.30%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 62882152,
+            "fmt": "62.88M",
+            "longFmt": "62,882,152"
+          },
+          "trailingEps": {
+            "raw": 6.432,
+            "fmt": "6.43"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "3/2",
+          "lastSplitDate": {
+            "raw": 1311033600,
+            "fmt": "2011-07-19"
+          },
+          "enterpriseToRevenue": {
+            "raw": 2.56,
+            "fmt": "2.56"
+          },
+          "enterpriseToEbitda": {
+            "raw": 8.622,
+            "fmt": "8.62"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 439388486,
+                  "fmt": "439.39M",
+                  "longFmt": "439,388,486"
+                },
+                "earnings": {
+                  "raw": 3888415,
+                  "fmt": "3.89M",
+                  "longFmt": "3,888,415"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 390929391,
+                  "fmt": "390.93M",
+                  "longFmt": "390,929,391"
+                },
+                "earnings": {
+                  "raw": -15943382,
+                  "fmt": "-15.94M",
+                  "longFmt": "-15,943,382"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 355763530,
+                  "fmt": "355.76M",
+                  "longFmt": "355,763,530"
+                },
+                "earnings": {
+                  "raw": 2483011,
+                  "fmt": "2.48M",
+                  "longFmt": "2,483,011"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 348129792,
+                  "fmt": "348.13M",
+                  "longFmt": "348,129,792"
+                },
+                "earnings": {
+                  "raw": 42769153,
+                  "fmt": "42.77M",
+                  "longFmt": "42,769,153"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 105724000,
+                  "fmt": "105.72M",
+                  "longFmt": "105,724,000"
+                },
+                "earnings": {
+                  "raw": 5000000,
+                  "fmt": "5M",
+                  "longFmt": "5,000,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 85170000,
+                  "fmt": "85.17M",
+                  "longFmt": "85,170,000"
+                },
+                "earnings": {
+                  "raw": 25080000,
+                  "fmt": "25.08M",
+                  "longFmt": "25,080,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 85170000,
+                  "fmt": "85.17M",
+                  "longFmt": "85,170,000"
+                },
+                "earnings": {
+                  "raw": 25080000,
+                  "fmt": "25.08M",
+                  "longFmt": "25,080,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 96440000,
+                  "fmt": "96.44M",
+                  "longFmt": "96,440,000"
+                },
+                "earnings": {
+                  "raw": 17840000,
+                  "fmt": "17.84M",
+                  "longFmt": "17,840,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Plot No. 13",
+          "address2": "PCC Area PO Petrochemicals",
+          "city": "Vadodara",
+          "zip": "391346",
+          "country": "India",
+          "phone": "91 26 5392 0200",
+          "fax": "91 26 5223 0218",
+          "website": "http://www.dacl.co.in",
+          "industry": "Chemicals - Major Diversified",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Diamines and Chemicals Limited manufactures and sells organic chemical compounds in India. The company operates through two segments, Speciality Chemicals and Power Generation. Its products include piperazine anhydrous, piperazine, ethylenediamine, diethylenetriamine, amino ethyl piperazine, polyamines mix, monoethanolamine, triethylenediamine, bitumen emulsifiers, acid corrosion inhibitors, anti-stripping agents, ethylene diamine acid phosphate, rust inhibitors, triethylene tetramine, and tetraethylene pentamine. The company is also involved in the development of piperazine derivatives and other products. Its products are used in pharmaceuticals, agro-chemicals, resins and coatings, water treatment chemicals, oilfield chemicals, and others. In addition, the company generates electric power using other non-conventional sources, including windmill. Diamines and Chemicals Limited also exports its products. The company was incorporated in 1976 and is based in Vadodara, India.",
+          "fullTimeEmployees": 92,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 182.3,
+            "fmt": "182.30"
+          },
+          "targetHighPrice": {
+            "raw": 33.0,
+            "fmt": "33.00"
+          },
+          "targetLowPrice": {
+            "raw": 33.0,
+            "fmt": "33.00"
+          },
+          "targetMeanPrice": {
+            "raw": 33.0,
+            "fmt": "33.00"
+          },
+          "targetMedianPrice": {
+            "raw": 33.0,
+            "fmt": "33.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 113694064,
+            "fmt": "113.69M",
+            "longFmt": "113,694,064"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 382903808,
+            "fmt": "382.9M",
+            "longFmt": "382,903,808"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 39.169,
+            "fmt": "39.17"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 187854039,
+            "fmt": "187.85M",
+            "longFmt": "187,854,039"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 1.563,
+            "fmt": "156.30%"
+          },
+          "revenueGrowth": {
+            "raw": 0.31,
+            "fmt": "31.00%"
+          },
+          "grossMargins": {
+            "raw": 0.58309,
+            "fmt": "58.31%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.29692,
+            "fmt": "29.69%"
+          },
+          "operatingMargins": {
+            "raw": 0.25136998,
+            "fmt": "25.14%"
+          },
+          "profitMargins": {
+            "raw": 0.16422,
+            "fmt": "16.42%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

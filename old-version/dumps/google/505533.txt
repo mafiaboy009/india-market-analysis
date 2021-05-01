@@ -1,0 +1,277 @@
+
+// [
+{
+"symbol" : "505533",
+"exchange" : "BOM",
+"id": "10932338",
+"t" : "505533",
+"e" : "BOM",
+"name" : "Westlife Development Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=WEST.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:505533"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:505533"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:505533"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.54%",
+"annual" : "-1.30%",
+"ttm" : "0.48%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.22%",
+"annual" : "-3.14%",
+"ttm" : "-1.22%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.73%",
+"ttm" : "5.02%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.41%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-2.27%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "7,805",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.65",
+"l" : "334.50",
+"cp" : "1.10",
+"ccol" : "chg",
+"op" : "333.00",
+"hi" : "336.95",
+"lo" : "327.10",
+"vo" : "37,994.00",
+"avvo" : "",
+"hi52" : "388.85",
+"lo52" : "201.00",
+"mc" : "52.18B",
+"pe" : "1,029.83",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.32",
+"dy" : "",
+"ldiv" : "",
+"shares" : "155.58M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10932338",
+"name" : "Westlife Development Ltd",
+"t" : "505533",
+"e" : "BOM",
+"l" : "334.50",
+"c" : "+3.65",
+"mc" : "52.18B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7053990",
+"name" : "Jubilant FoodWorks Ltd",
+"t" : "JUBLFOOD",
+"e" : "NSE",
+"l" : "2,004.00",
+"c" : "+0.70",
+"mc" : "132.20B",
+"cp" : "0.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "679919707560379",
+"name" : "Coffee Day Enterprises Ltd",
+"t" : "COFFEEDAY",
+"e" : "NSE",
+"l" : "316.90",
+"c" : "-6.85",
+"mc" : "67.00B",
+"cp" : "-2.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2966518",
+"name" : "Mount Shivalik Industries Ltd",
+"t" : "507522",
+"e" : "BOM",
+"l" : "5.25",
+"c" : "0.00",
+"mc" : "31.75M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12107747",
+"name" : "Viceroy Hotels Ltd.",
+"t" : "VICEROY",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "+0.05",
+"mc" : "674.26M",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "52627568800895",
+"name" : "VIDLI RESTAURANTS Ltd",
+"t" : "539659",
+"e" : "BOM",
+"l" : "96.55",
+"c" : "0.00",
+"mc" : "418.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715433",
+"name" : "Galaxy Entertainment Corp Ltd",
+"t" : "506186",
+"e" : "BOM",
+"l" : "22.50",
+"c" : "+0.50",
+"mc" : "567.66M",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2883603",
+"name" : "Indage Restaurants and Leisure Ltd",
+"t" : "532264",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "122256069717203",
+"name" : "Speciality Restaurants Ltd",
+"t" : "SPECIALITY",
+"e" : "NSE",
+"l" : "151.00",
+"c" : "+1.25",
+"mc" : "7.07B",
+"cp" : "0.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715842",
+"name" : "Country Club Hospitality \u0026 Holidays Ltd",
+"t" : "526550",
+"e" : "BOM",
+"l" : "13.60",
+"c" : "-0.20",
+"mc" : "2.26B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715551",
+"name" : "Graviss Hospitality Ltd",
+"t" : "509546",
+"e" : "BOM",
+"l" : "19.50",
+"c" : "0.00",
+"mc" : "1.38B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "1001, Tower-3, 10th Floor, Indiabulls Fi Indiabulls Finance Centre,Elphinstone Rd Senapati Bapat Marg, MUMBAI, 400013, India",
+"phone": "+91-22-49135000",
+"fax": "+91-22-49135001",
+"url": "http:\u002F\u002Fwww.westlife.co.in\u002F",
+"overview" : "Westlife Development Limited is engaged in letting out of property and trading in goods. The Company\u0027s segments include Trading and Leasing. The Trading segment is engaged in trading of steel, textile and other materials. The Leasing segment provides office premises on operating lease basis. The Company focuses on putting up and operating quick service restaurants (QSR) in India through its subsidiary, Hardcastle Restaurants Pvt. Ltd. (HRPL). Its restaurant categories include freestanding, food court, in-store and mall stores. The Company operates a chain of McDonald\u0027s restaurants in west and south India. The Company, through its subsidiary HRPL, operates McDonald\u0027s through approximately 240 restaurants across over 30 cities. Its service formats and brand extensions consist of restaurants, Breakfast, McDelivery and kiosks at various transit points. The Company has operations in Telangana, Gujarat, Karnataka, Maharashtra, Tamil Nadu, Kerala and parts of Madhya Pradesh."
+} ]
+, "management" : [
+{
+"name" : "Shatadru Sengupta",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Banwari Lal Jatia",
+"age" : "70",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Amit Jatia",
+"age" : "47",
+"title" : "Non-Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Achal Jatia",
+"age" : "43",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Smita Jatia",
+"age" : "44",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Padmanabh R. Barpande",
+"age" : "66",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

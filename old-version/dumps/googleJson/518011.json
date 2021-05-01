@@ -1,0 +1,276 @@
+
+ [
+{
+"symbol" : "518011",
+"exchange" : "BOM",
+"id": "14274367",
+"t" : "518011",
+"e" : "BOM",
+"name" : "Keerthi Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KERI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:518011"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:518011"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:518011"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-3.17%",
+"annual" : "6.93%",
+"ttm" : "4.92%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.30%",
+"annual" : "12.27%",
+"ttm" : "11.74%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.84%",
+"ttm" : "18.36%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.32%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.85%",
+"ttm" : ""
+}
+]
+, "c" : "+5.05",
+"l" : "135.00",
+"cp" : "3.89",
+"ccol" : "chg",
+"op" : "124.50",
+"hi" : "135.00",
+"lo" : "124.50",
+"vo" : "527.00",
+"avvo" : "",
+"hi52" : "214.00",
+"lo52" : "124.50",
+"mc" : "1.09B",
+"pe" : "14.19",
+"fwpe" : "",
+"beta" : "",
+"eps" : "9.51",
+"dy" : "",
+"ldiv" : "",
+"shares" : "8.02M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "14274367",
+"name" : "Keerthi Industries Ltd",
+"t" : "518011",
+"e" : "BOM",
+"l" : "135.00",
+"c" : "+5.05",
+"mc" : "1.09B",
+"cp" : "3.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6078754",
+"name" : "Kakatiya Cement Sugar And Industries Ltd",
+"t" : "KAKATCEM",
+"e" : "NSE",
+"l" : "298.00",
+"c" : "+3.65",
+"mc" : "2.33B",
+"cp" : "1.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1318246",
+"name" : "KCP Ltd",
+"t" : "KCP",
+"e" : "NSE",
+"l" : "130.90",
+"c" : "+0.25",
+"mc" : "16.90B",
+"cp" : "0.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4519199",
+"name" : "Anjani Portland Cement Ltd",
+"t" : "518091",
+"e" : "BOM",
+"l" : "198.40",
+"c" : "+6.90",
+"mc" : "5.05B",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "714540",
+"name" : "Panyam Cements \u0026 Mineral Industries Ltd.",
+"t" : "500322",
+"e" : "BOM",
+"l" : "47.70",
+"c" : "-0.85",
+"mc" : "803.45M",
+"cp" : "-1.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "705329",
+"name" : "Bheema Cements Ltd",
+"t" : "518017",
+"e" : "BOM",
+"l" : "9.10",
+"c" : "0.00",
+"mc" : "250.73M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715550",
+"name" : "Shree Digvijay Cement Company Ltd.",
+"t" : "502180",
+"e" : "BOM",
+"l" : "25.60",
+"c" : "-0.35",
+"mc" : "3.61B",
+"cp" : "-1.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3770372",
+"name" : "JK Lakshmi Cement Limited",
+"t" : "JKLAKSHMI",
+"e" : "NSE",
+"l" : "433.55",
+"c" : "+7.75",
+"mc" : "51.24B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16255299",
+"name" : "UltraTech Cement Ltd",
+"t" : "ULTRACEMCO",
+"e" : "NSE",
+"l" : "4,142.00",
+"c" : "+25.60",
+"mc" : "1.14T",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715348",
+"name" : "Saurashtra Cement Ltd.",
+"t" : "502175",
+"e" : "BOM",
+"l" : "80.05",
+"c" : "-0.40",
+"mc" : "5.44B",
+"cp" : "-0.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15601450",
+"name" : "Shri Keshav Cements \u0026 Infra Limited",
+"t" : "530977",
+"e" : "BOM",
+"l" : "164.00",
+"c" : "+3.00",
+"mc" : "840.37M",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Plot No. 40, IDA, Balanagar, HYDERABAD, 500037, India",
+"phone": "+91-40-23078748",
+"fax": "+91-40-23079867",
+"url": "http:\u002F\u002Fwww.keerthiindustries.com\u002F",
+"overview" : "Keerthi Industries Limited is engaged in the manufacturing of cement. The Company\u0027s segments include Cement Division, Wind Mill and Electronics Division. The Cement Division located at Mellacheruvu (Village and Mandal), Nalgonda district is specialized in manufacturing of 43 and 53 grade Ordinary Portland Cement (OPC) and Portland Pozzolana cement (PPC) cement under the brand of Suvarna and sold in the entire south India. The Company manufactures flexible and rigid printed circuits. The Electronics Division is located at Balanagar, Industrial Development Area, Hyderabad, India. The Company also operates Sugar Division and Power Division. An integrated sugar project of 3,500 tons of cane per day (TCD) sugar plant, with 26 megawatt (MW) cozen power plant and 50 kilo liters per day (KLPD) distillery is set up in Yadagir district, Karnataka. The Company has invested in wind power of the capacity of 1,500 kilo-volt-ampere (KVA) project in Hassan district of Karnataka state."
+} ]
+, "management" : [
+{
+"name" : "Triveni Jasti",
+"age" : "52",
+"title" : "Executive Chairperson of the Board"
+}
+,
+{
+"name" : "Seshagiri Rao Jasti",
+"age" : "66",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "J. Sarada Govardhini",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Rajesh Kumar Yadav",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sivaram Prasad Jetty",
+"age" : "57",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Harishchandra Prasad Kanuri",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Boddu Venkata Subbaiah",
+"age" : "87",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

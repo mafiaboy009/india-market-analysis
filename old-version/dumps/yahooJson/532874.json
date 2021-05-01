@@ -1,0 +1,209 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 134669664,
+            "fmt": "134.67M",
+            "longFmt": "134,669,664"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.27605,
+            "fmt": "-27.61%"
+          },
+          "floatShares": {
+            "raw": 113179378,
+            "fmt": "113.18M",
+            "longFmt": "113,179,378"
+          },
+          "sharesOutstanding": {
+            "raw": 149632992,
+            "fmt": "149.63M",
+            "longFmt": "149,632,992"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.210577,
+            "fmt": "1.21"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 6.725,
+            "fmt": "6.72"
+          },
+          "priceToBook": {
+            "raw": 0.09516729,
+            "fmt": "0.10"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {},
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -271776192,
+            "fmt": "-271.78M",
+            "longFmt": "-271,776,192"
+          },
+          "trailingEps": {
+            "raw": -1.816,
+            "fmt": "-1.82"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.137,
+            "fmt": "0.14"
+          },
+          "enterpriseToEbitda": {
+            "raw": -6.914,
+            "fmt": "-6.91"
+          },
+          "52WeekChange": {
+            "raw": -0.71493214,
+            "fmt": "-71.49%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Suryachakra House",
+          "address2": "Plot No. 304-L-III Road No. 78 Jubilee Hills",
+          "city": "Hyderabad",
+          "zip": "500096",
+          "country": "India",
+          "phone": "91 40 3082 3000",
+          "fax": "91 40 2354 1339",
+          "website": "http://www.suryachakra.in",
+          "industry": "Electric Utilities",
+          "sector": "Utilities",
+          "longBusinessSummary": "Suryachakra Power Corporation Limited, together with its subsidiaries, generates and sells electricity in India. The company operates various power plants, which generate electricity using diesel/biomass fuels. It also trades in coal. Suryachakra Power Corporation Limited was incorporated in 1995 and is headquartered in Hyderabad, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 0.64,
+            "fmt": "0.64"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": -19479204,
+            "fmt": "-19.48M",
+            "longFmt": "-19,479,204"
+          },
+          "totalDebt": {},
+          "quickRatio": {
+            "raw": 0.44,
+            "fmt": "0.44"
+          },
+          "currentRatio": {
+            "raw": 1.924,
+            "fmt": "1.92"
+          },
+          "totalRevenue": {
+            "raw": 984500736,
+            "fmt": "984.5M",
+            "longFmt": "984,500,736"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 6.579,
+            "fmt": "6.58"
+          },
+          "returnOnAssets": {
+            "raw": -0.01272,
+            "fmt": "-1.27%"
+          },
+          "returnOnEquity": {
+            "raw": -0.23795,
+            "fmt": "-23.79%"
+          },
+          "grossProfits": {
+            "raw": 16969628,
+            "fmt": "16.97M",
+            "longFmt": "16,969,628"
+          },
+          "freeCashflow": {
+            "raw": 22979384,
+            "fmt": "22.98M",
+            "longFmt": "22,979,384"
+          },
+          "operatingCashflow": {
+            "raw": 3680474,
+            "fmt": "3.68M",
+            "longFmt": "3,680,474"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.017239999,
+            "fmt": "1.72%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.01978,
+            "fmt": "-1.98%"
+          },
+          "operatingMargins": {
+            "raw": -0.04048,
+            "fmt": "-4.05%"
+          },
+          "profitMargins": {
+            "raw": -0.27605,
+            "fmt": "-27.61%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

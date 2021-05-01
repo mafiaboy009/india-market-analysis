@@ -1,0 +1,388 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 9846805504,
+            "fmt": "9.85B",
+            "longFmt": "9,846,805,504"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.22464001,
+            "fmt": "22.46%"
+          },
+          "floatShares": {
+            "raw": 12670805,
+            "fmt": "12.67M",
+            "longFmt": "12,670,805"
+          },
+          "sharesOutstanding": {
+            "raw": 81500000,
+            "fmt": "81.5M",
+            "longFmt": "81,500,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 2.137593,
+            "fmt": "2.14"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 91.13,
+            "fmt": "91.13"
+          },
+          "priceToBook": {
+            "raw": 0.7664874,
+            "fmt": "0.77"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1238457600,
+            "fmt": "2009-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.944,
+            "fmt": "94.40%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 572303936,
+            "fmt": "572.3M",
+            "longFmt": "572,303,936"
+          },
+          "trailingEps": {
+            "raw": 7.02,
+            "fmt": "7.02"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "5/1",
+          "lastSplitDate": {
+            "raw": 1289174400,
+            "fmt": "2010-11-08"
+          },
+          "enterpriseToRevenue": {
+            "raw": 3.865,
+            "fmt": "3.87"
+          },
+          "enterpriseToEbitda": {
+            "raw": 6.862,
+            "fmt": "6.86"
+          },
+          "52WeekChange": {
+            "raw": -0.38898528,
+            "fmt": "-38.90%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 2.65,
+                  "fmt": "2.65"
+                },
+                "estimate": {
+                  "raw": 2.85,
+                  "fmt": "2.85"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 3598768354,
+                  "fmt": "3.6B",
+                  "longFmt": "3,598,768,354"
+                },
+                "earnings": {
+                  "raw": 539672953,
+                  "fmt": "539.67M",
+                  "longFmt": "539,672,953"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 5405810566,
+                  "fmt": "5.41B",
+                  "longFmt": "5,405,810,566"
+                },
+                "earnings": {
+                  "raw": 483448794,
+                  "fmt": "483.45M",
+                  "longFmt": "483,448,794"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 1592844649,
+                  "fmt": "1.59B",
+                  "longFmt": "1,592,844,649"
+                },
+                "earnings": {
+                  "raw": -395171596,
+                  "fmt": "-395.17M",
+                  "longFmt": "-395,171,596"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 2547664735,
+                  "fmt": "2.55B",
+                  "longFmt": "2,547,664,735"
+                },
+                "earnings": {
+                  "raw": 572303945,
+                  "fmt": "572.3M",
+                  "longFmt": "572,303,945"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2008",
+                "revenue": {
+                  "raw": 386919000,
+                  "fmt": "386.92M",
+                  "longFmt": "386,919,000"
+                },
+                "earnings": {
+                  "raw": 47299000,
+                  "fmt": "47.3M",
+                  "longFmt": "47,299,000"
+                }
+              },
+              {
+                "date": "3Q2008",
+                "revenue": {
+                  "raw": 306140000,
+                  "fmt": "306.14M",
+                  "longFmt": "306,140,000"
+                },
+                "earnings": {
+                  "raw": 26874000,
+                  "fmt": "26.87M",
+                  "longFmt": "26,874,000"
+                }
+              },
+              {
+                "date": "4Q2008",
+                "revenue": {
+                  "raw": 625091192,
+                  "fmt": "625.09M",
+                  "longFmt": "625,091,192"
+                },
+                "earnings": {
+                  "raw": 59728359,
+                  "fmt": "59.73M",
+                  "longFmt": "59,728,359"
+                }
+              },
+              {
+                "date": "1Q2009",
+                "revenue": {
+                  "raw": 625091192,
+                  "fmt": "625.09M",
+                  "longFmt": "625,091,192"
+                },
+                "earnings": {
+                  "raw": 59728359,
+                  "fmt": "59.73M",
+                  "longFmt": "59,728,359"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "101, Shree Amba Shanti Chambers",
+          "address2": "Opposite Hotel Leela Andheri-Kurla Road Andheri (East)",
+          "city": "Mumbai",
+          "zip": "400059",
+          "country": "India",
+          "phone": "91 22 2925 2929",
+          "fax": "91 22 2925 2900",
+          "website": "http://www.atlantalimited.in",
+          "industry": "Heavy Construction",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Atlanta Limited, through its subsidiaries, an infrastructure development company, engages in the construction and development of infrastructure projects in India. Its projects include roads, highways, bridges, and runways. The company undertakes infrastructure development projects on engineering, procurement, and construction basis; public private partnership model on build, operate, and transfer basis; and design, build, finance, operate, and transfer basis. It is also involved in real estate development and tourism infrastructure businesses; and mining of coal, lime stones, etc. Atlanta Limited was incorporated in 1984 and is headquartered in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 69.85,
+            "fmt": "69.85"
+          },
+          "targetHighPrice": {
+            "raw": 108.0,
+            "fmt": "108.00"
+          },
+          "targetLowPrice": {
+            "raw": 108.0,
+            "fmt": "108.00"
+          },
+          "targetMeanPrice": {
+            "raw": 108.0,
+            "fmt": "108.00"
+          },
+          "targetMedianPrice": {
+            "raw": 108.0,
+            "fmt": "108.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 176519312,
+            "fmt": "176.52M",
+            "longFmt": "176,519,312"
+          },
+          "totalCashPerShare": {
+            "raw": 2.166,
+            "fmt": "2.17"
+          },
+          "ebitda": {
+            "raw": 1434998784,
+            "fmt": "1.43B",
+            "longFmt": "1,434,998,784"
+          },
+          "totalDebt": {
+            "raw": 3132499456,
+            "fmt": "3.13B",
+            "longFmt": "3,132,499,456"
+          },
+          "quickRatio": {
+            "raw": 0.182,
+            "fmt": "0.18"
+          },
+          "currentRatio": {
+            "raw": 0.454,
+            "fmt": "0.45"
+          },
+          "totalRevenue": {
+            "raw": 2547664640,
+            "fmt": "2.55B",
+            "longFmt": "2,547,664,640"
+          },
+          "debtToEquity": {
+            "raw": 180.053,
+            "fmt": "180.05"
+          },
+          "revenuePerShare": {
+            "raw": 31.26,
+            "fmt": "31.26"
+          },
+          "returnOnAssets": {
+            "raw": 0.04644,
+            "fmt": "4.64%"
+          },
+          "returnOnEquity": {
+            "raw": 0.0796,
+            "fmt": "7.96%"
+          },
+          "grossProfits": {
+            "raw": 1700993980,
+            "fmt": "1.7B",
+            "longFmt": "1,700,993,980"
+          },
+          "freeCashflow": {
+            "raw": 2111530880,
+            "fmt": "2.11B",
+            "longFmt": "2,111,530,880"
+          },
+          "operatingCashflow": {
+            "raw": -1142844800,
+            "fmt": "-1.14B",
+            "longFmt": "-1,142,844,800"
+          },
+          "earningsGrowth": {
+            "raw": 0.804,
+            "fmt": "80.40%"
+          },
+          "revenueGrowth": {
+            "raw": 0.428,
+            "fmt": "42.80%"
+          },
+          "grossMargins": {
+            "raw": 0.66767,
+            "fmt": "66.77%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.56326,
+            "fmt": "56.33%"
+          },
+          "operatingMargins": {
+            "raw": 0.54382,
+            "fmt": "54.38%"
+          },
+          "profitMargins": {
+            "raw": 0.22464001,
+            "fmt": "22.46%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

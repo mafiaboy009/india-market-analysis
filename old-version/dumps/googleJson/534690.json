@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "534690",
+"exchange" : "BOM",
+"id": "711429",
+"t" : "534690",
+"e" : "BOM",
+"name" : "Lakshmi Vilas Bank Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:534690"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:534690"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:534690"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.94%",
+"annual" : "19.92%",
+"ttm" : "14.47%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-2.24%",
+"annual" : "29.57%",
+"ttm" : "19.04%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "43.10%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.80%",
+"ttm" : "0.62%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.13%",
+"ttm" : "10.31%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,043",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.80",
+"l" : "114.60",
+"cp" : "-0.69",
+"ccol" : "chr",
+"op" : "115.40",
+"hi" : "115.50",
+"lo" : "114.00",
+"vo" : "11,955.00",
+"avvo" : "",
+"hi52" : "209.80",
+"lo52" : "113.60",
+"mc" : "29.37B",
+"pe" : "11.23",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.21",
+"dy" : "2.19",
+"ldiv" : "",
+"shares" : "255.99M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "711429",
+"name" : "Lakshmi Vilas Bank Ltd.",
+"t" : "534690",
+"e" : "BOM",
+"l" : "114.60",
+"c" : "-0.80",
+"mc" : "29.37B",
+"cp" : "-0.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9257280",
+"name" : "Anar Industries Ltd",
+"t" : "531127",
+"e" : "BOM",
+"l" : "19.00",
+"c" : "0.00",
+"mc" : "190.66M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5904015",
+"name" : "Federal Bank Ltd",
+"t" : "FEDERALBNK",
+"e" : "NSE",
+"l" : "96.25",
+"c" : "+1.50",
+"mc" : "188.93B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12144084",
+"name" : "DCB Bank Ltd",
+"t" : "DCBBANK",
+"e" : "NSE",
+"l" : "168.25",
+"c" : "+3.95",
+"mc" : "51.76B",
+"cp" : "2.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "485802867974745",
+"name" : "Central Depository Services (India) Ltd",
+"t" : "CDSL",
+"e" : "NSE",
+"l" : "323.90",
+"c" : "+5.30",
+"mc" : "33.91B",
+"cp" : "1.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7686660",
+"name" : "Shalibhadra Finance Ltd",
+"t" : "511754",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "-5.35",
+"mc" : "652.09M",
+"cp" : "-3.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2713202",
+"name" : "Sainik Finance \u0026 Industires Ltd",
+"t" : "530265",
+"e" : "BOM",
+"l" : "32.75",
+"c" : "+1.10",
+"mc" : "356.32M",
+"cp" : "3.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "787381",
+"name" : "Housing Development Finance Corp Ltd",
+"t" : "HDFC",
+"e" : "NSE",
+"l" : "1,842.00",
+"c" : "+17.80",
+"mc" : "2.95T",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15496834",
+"name" : "Sungold Capital Ltd",
+"t" : "531433",
+"e" : "BOM",
+"l" : "2.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12639502",
+"name" : "Sakthi Finance Limited",
+"t" : "SAKTHIFIN",
+"e" : "NSE",
+"l" : "19.00",
+"c" : "+0.10",
+"mc" : "945.00M",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "333651",
+"name" : "Punjab National Bank",
+"t" : "PNB",
+"e" : "NSE",
+"l" : "111.90",
+"c" : "-1.55",
+"mc" : "271.30B",
+"cp" : "-1.37",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "LVB House 4\u002F1, Sardar Patel Road,, Guindy, CHENNAI, 600032, India",
+"phone": "+91-180-04252233",
+"fax": "+91-4324-223607",
+"url": "https:\u002F\u002Fwww.lvbank.com\u002F",
+"overview" : "The Lakshmi Vilas Bank Limited (the Bank) is a banking company. The Bank\u0027s segments include Treasury operations, Corporate\u002Fwholesale banking operations, Retail banking operations and Other banking operations. The Bank has a network of approximately 460 branches, including a satellite branch and approximately seven extension counters, spread across approximately 20 states and the union territory of Pondicherry. It offers products, including deposits, loans, online services, non-resident Indian (NRI) services, cards, and small and medium enterprises loans. In addition, the Bank offers wealth management services, which include life Insurance, mutual funds and portfolio management services (PMS), money transfer through branch channels, money transfer through direct remittances, investment and infrastructure bonds, permanent account number (PAN) card services, depository participant services, online trading services, new pension system (NPS) and applications supported by blocked amounts."
+} ]
+, "management" : [
+{
+"name" : "Parthasarathi Mukherjee",
+"title" : "Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "N. Ramanathan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "R. V. S. Sridhar",
+"title" : "Chief Risk Officer"
+}
+,
+{
+"name" : "R.K. Gurumurthy",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Peeush Jain",
+"title" : "General Manager"
+}
+,
+{
+"name" : "R. Kamalasekaran",
+"title" : "General Manager"
+}
+,
+{
+"name" : "R. M. Kumarappan",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Ashok Kumar Pareek",
+"title" : "General Manager"
+}
+,
+{
+"name" : "P. Premkumar",
+"title" : "General Manager"
+}
+,
+{
+"name" : "R. V. Raman",
+"title" : "General Manager"
+}
+]
+,"moreresources" : [
+]
+}]

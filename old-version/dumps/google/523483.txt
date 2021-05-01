@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "523483",
+"exchange" : "BOM",
+"id": "13682813",
+"t" : "523483",
+"e" : "BOM",
+"name" : "Pacific Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=PACI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:523483"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:523483"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:523483"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.88%",
+"annual" : "0.37%",
+"ttm" : "0.37%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.60%",
+"annual" : "3.69%",
+"ttm" : "0.94%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.29%",
+"ttm" : "4.53%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.15%",
+"ttm" : "0.15%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.21%",
+"ttm" : "0.21%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "258",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+10.00",
+"l" : "165.00",
+"cp" : "6.45",
+"ccol" : "chg",
+"op" : "155.00",
+"hi" : "165.00",
+"lo" : "145.10",
+"vo" : "354.00",
+"avvo" : "",
+"hi52" : "185.00",
+"lo52" : "114.00",
+"mc" : "223.00M",
+"pe" : "58.23",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.83",
+"dy" : "",
+"ldiv" : "",
+"shares" : "1.35M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "13682813",
+"name" : "Pacific Industries Ltd",
+"t" : "523483",
+"e" : "BOM",
+"l" : "165.00",
+"c" : "+10.00",
+"mc" : "223.00M",
+"cp" : "6.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13381820",
+"name" : "Aro Granite Industries Ltd",
+"t" : "AROGRANITE",
+"e" : "NSE",
+"l" : "67.05",
+"c" : "+1.65",
+"mc" : "1.02B",
+"cp" : "2.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3598372",
+"name" : "Glittek Granites Ltd",
+"t" : "513528",
+"e" : "BOM",
+"l" : "2.68",
+"c" : "-0.12",
+"mc" : "69.57M",
+"cp" : "-4.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4438161",
+"name" : "Bannari Amman Sugars Limited",
+"t" : "BANARISUG",
+"e" : "NSE",
+"l" : "1,800.00",
+"c" : "+30.00",
+"mc" : "22.57B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2733685",
+"name" : "Associated Stone Industries (Kotah) Ltd",
+"t" : "502015",
+"e" : "BOM",
+"l" : "36.35",
+"c" : "-0.05",
+"mc" : "3.03B",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12097295",
+"name" : "Inani Marbles And Industries Ltd",
+"t" : "531129",
+"e" : "BOM",
+"l" : "20.05",
+"c" : "-1.05",
+"mc" : "320.74M",
+"cp" : "-4.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5320224",
+"name" : "GOCL Corp Ltd",
+"t" : "GOCLCORP",
+"e" : "NSE",
+"l" : "558.25",
+"c" : "-2.95",
+"mc" : "27.40B",
+"cp" : "-0.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715555",
+"name" : "Pokarna Ltd",
+"t" : "532486",
+"e" : "BOM",
+"l" : "215.00",
+"c" : "+8.15",
+"mc" : "6.66B",
+"cp" : "3.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3156534",
+"name" : "Madhav Marble \u0026 Granites Ltd.",
+"t" : "MADHAV",
+"e" : "NSE",
+"l" : "61.90",
+"c" : "+0.75",
+"mc" : "554.73M",
+"cp" : "1.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14709004",
+"name" : "Oriental Trimex Limited",
+"t" : "ORIENTALTL",
+"e" : "NSE",
+"l" : "14.90",
+"c" : "-0.30",
+"mc" : "238.79M",
+"cp" : "-1.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7381386",
+"name" : "Global Stone India Ltd",
+"t" : "515115",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-2.45",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Village Bedla, P.O. Box 119, UDAIPUR, 313001, India",
+"phone": "+91-294-2440196",
+"fax": "+91-294-2440780",
+"overview" : "Pacific Industries Limited is an India-based company, which manufactures and deals in marble and granites, and allied products. The Company is engaged in mining and quarrying. The Company\u0027s products include granites, marbles, sandstone and slate. Its range of granites includes south granite, north granite and imported granite. The Company\u0027s projects include Acquino Research Centre, Philippines\u003B Hotel City Park, Lithuania\u003B Istanbul Airport, Turkey\u003B Korea Central Library at Korea\u003B Korea Lime Stone Project at Korea\u003B Kuwait Hospital at Kuwait\u003B P White \u0026 Lakha Red project at Dubai, and Turkish Embassy at Ethiopia. Its quarries include Pacific Black Quarry-Hosur, Tamil Nadu\u003B Gialo Antico Quarry-Barmer, Rajasthan, and Marble Quarry-Katni, Madhya Pradesh. The Pacific Black Quarry covers an area of approximately 13 acres. The Gialo Antico Quarry covers an area of approximately 15 acres. The Marble Quarry covers an area of approximately 200 acres."
+} ]
+, "management" : [
+{
+"name" : "J. P. Agarwal",
+"age" : "57",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Khushbu Sethi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kapil Agarwal",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Geeta Devi Agarwal",
+"age" : "54",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "S. M. Agarwal",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sumit Agarwal",
+"age" : "39",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vinod Choudhary",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Mangilal Dangi",
+"age" : "36",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

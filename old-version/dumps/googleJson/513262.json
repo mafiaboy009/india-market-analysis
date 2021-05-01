@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "513262",
+"exchange" : "BOM",
+"id": "715319",
+"t" : "513262",
+"e" : "BOM",
+"name" : "Steel Strips Wheels Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:513262"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:513262"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:513262"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.56%",
+"annual" : "5.33%",
+"ttm" : "4.88%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.60%",
+"annual" : "8.82%",
+"ttm" : "9.43%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.41%",
+"ttm" : "12.59%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.64%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.20%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,887",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+9.60",
+"l" : "1,024.00",
+"cp" : "0.95",
+"ccol" : "chg",
+"op" : "1,019.00",
+"hi" : "1,025.00",
+"lo" : "1,001.75",
+"vo" : "3,591.00",
+"avvo" : "",
+"hi52" : "1,225.00",
+"lo52" : "682.05",
+"mc" : "16.02B",
+"pe" : "21.67",
+"fwpe" : "",
+"beta" : "",
+"eps" : "47.26",
+"dy" : "0.29",
+"ldiv" : "3.00",
+"shares" : "15.56M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715319",
+"name" : "Steel Strips Wheels Ltd.",
+"t" : "513262",
+"e" : "BOM",
+"l" : "1,024.00",
+"c" : "+9.60",
+"mc" : "16.02B",
+"cp" : "0.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13633130",
+"name" : "Wheels India Ltd",
+"t" : "WHEELS",
+"e" : "NSE",
+"l" : "2,056.00",
+"c" : "-18.45",
+"mc" : "24.73B",
+"cp" : "-0.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "704003",
+"name" : "Munjal Auto Industries Ltd",
+"t" : "MUNJALAU",
+"e" : "NSE",
+"l" : "79.50",
+"c" : "+2.70",
+"mc" : "7.86B",
+"cp" : "3.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10142329",
+"name" : "Sundaram-Clayton Limited (Parent)",
+"t" : "SUNCLAYLTD",
+"e" : "NSE",
+"l" : "4,921.00",
+"c" : "+86.10",
+"mc" : "100.54B",
+"cp" : "1.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2125922",
+"name" : "Lumax Automotive Systems Limited",
+"t" : "LUMAXAUTO",
+"e" : "NSE",
+"l" : "12.90",
+"c" : "",
+"mc" : "175.85M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14599486",
+"name" : "Rico Auto Industries Limited",
+"t" : "RICOAUTO",
+"e" : "NSE",
+"l" : "82.60",
+"c" : "-0.40",
+"mc" : "11.13B",
+"cp" : "-0.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10119664",
+"name" : "Lumax Auto Technologies Limited",
+"t" : "LUMAXTECH",
+"e" : "NSE",
+"l" : "868.00",
+"c" : "+39.65",
+"mc" : "11.71B",
+"cp" : "4.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13340222",
+"name" : "Omax Autos Limited",
+"t" : "OMAXAUTO",
+"e" : "NSE",
+"l" : "170.00",
+"c" : "-1.95",
+"mc" : "3.61B",
+"cp" : "-1.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5627408",
+"name" : "Pricol Ltd",
+"t" : "PRICOL",
+"e" : "NSE",
+"l" : "92.35",
+"c" : "",
+"mc" : "8.75B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "9851757",
+"name" : "Jbm Auto Ltd",
+"t" : "JBMA",
+"e" : "NSE",
+"l" : "442.05",
+"c" : "+1.20",
+"mc" : "17.91B",
+"cp" : "0.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6937233",
+"name" : "Machino Plastics Limited",
+"t" : "523248",
+"e" : "BOM",
+"l" : "232.50",
+"c" : "+1.60",
+"mc" : "1.44B",
+"cp" : "0.69",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "S.C.O. 49-50, Sector 26, Madhya Marg, CHANDIGARH, 160019, India",
+"phone": "+91-172-2792385",
+"fax": "+91-172-2794834",
+"url": "http:\u002F\u002Fwww.sswlindia.com\u002F",
+"overview" : "Steel Strips Wheels Limited is engaged in the manufacturing of steel wheel rims catering to different segments of automobile industry. The Company operates in Automotive Wheels segment. Its geographical segments include Within India and Outside India. Its products include steel wheels and alloy wheels, which comprise steel wheels for two and three wheelers, passenger cars, high speed trailers, trucks, trailers, tractors and off road vehicles. It offers a range of diameters, widths and finishes, which can be modified as per application and needs of customer. It has approximately three production facilities, which are located at Punjab, Chennai and Jamshedpur. The Company produces mainly passenger car wheels in Dappar (Punjab) and Oragadam (Chennai), and truck wheels in Jamshedpur (Jharkhand). The Company supplies steel wheels to original equipment manufacturers (OEMs). It caters to the auto parts and equipment industry."
+} ]
+, "management" : [
+{
+"name" : "H. K. Singhal",
+"age" : "66",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Dheeraj Garg",
+"age" : "42",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "A. V. Unnikrishnan",
+"title" : "Deputy Managing Director, Whole-time Director"
+}
+,
+{
+"name" : "Manohar Lal Jain",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Shaman Jindal",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "R. K. Garg",
+"age" : "68",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Jaspreet Takhar",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "S. K. Bansal",
+"age" : "67",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "M. M. Chopra",
+"age" : "81",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "S. S. Grewal",
+"age" : "79",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

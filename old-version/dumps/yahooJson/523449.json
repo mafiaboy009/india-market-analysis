@@ -1,0 +1,204 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 1166420736,
+            "fmt": "1.17B",
+            "longFmt": "1,166,420,736"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "floatShares": {
+            "raw": 5307806,
+            "fmt": "5.31M",
+            "longFmt": "5,307,806"
+          },
+          "sharesOutstanding": {
+            "raw": 25944000,
+            "fmt": "25.94M",
+            "longFmt": "25,944,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.370814,
+            "fmt": "1.37"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -2.042,
+            "fmt": "-2.04"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -100202000,
+            "fmt": "-100.2M",
+            "longFmt": "-100,202,000"
+          },
+          "trailingEps": {
+            "raw": -3.859,
+            "fmt": "-3.86"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 75.722,
+            "fmt": "75.72"
+          },
+          "enterpriseToEbitda": {
+            "raw": -8.553,
+            "fmt": "-8.55"
+          },
+          "52WeekChange": {
+            "raw": -0.49883723,
+            "fmt": "-49.88%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Gat No. 686/4",
+          "address2": "Koregaon Bhima Taluka Shirur",
+          "city": "Pune",
+          "zip": "412216",
+          "country": "India",
+          "phone": "91 21 3725 2417",
+          "fax": "91 21 3725 2453",
+          "website": "http://www.sharpindialimited.com",
+          "industry": "Electronic Equipment",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Sharp India Limited manufactures and sells consumer electronics in India and internationally. It offers color televisions, light emitting diode televisions, and air conditioners. The company was incorporated in 1985 and is based in Pune, India. Sharp India Limited is a subsidiary of Sharp Corporation.",
+          "fullTimeEmployees": 135,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 40.95,
+            "fmt": "40.95"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 65958000,
+            "fmt": "65.96M",
+            "longFmt": "65,958,000"
+          },
+          "totalCashPerShare": {
+            "raw": 2.549,
+            "fmt": "2.55"
+          },
+          "ebitda": {
+            "raw": -136376256,
+            "fmt": "-136.38M",
+            "longFmt": "-136,376,256"
+          },
+          "totalDebt": {
+            "raw": 188411008,
+            "fmt": "188.41M",
+            "longFmt": "188,411,008"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 15404000,
+            "fmt": "15.4M",
+            "longFmt": "15,404,000"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.593,
+            "fmt": "0.59"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 10834000,
+            "fmt": "10.83M",
+            "longFmt": "10,834,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.908,
+            "fmt": "-90.80%"
+          },
+          "grossMargins": {
+            "raw": 0.71501,
+            "fmt": "71.50%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": -6.10575,
+            "fmt": "-610.58%"
+          },
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

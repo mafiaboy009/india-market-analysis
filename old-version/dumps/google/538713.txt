@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "538713",
+"exchange" : "BOM",
+"id": "673681917155584",
+"t" : "538713",
+"e" : "BOM",
+"name" : "Atishay Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ATIS.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:538713"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:538713"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:538713"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "18.06%",
+"annual" : "14.41%",
+"ttm" : "12.03%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "23.18%",
+"annual" : "19.57%",
+"ttm" : "16.58%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "24.73%",
+"ttm" : "21.76%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "10.45%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.46%",
+"ttm" : ""
+}
+]
+, "c" : "-1.85",
+"l" : "85.00",
+"cp" : "-2.13",
+"ccol" : "chr",
+"op" : "90.60",
+"hi" : "90.60",
+"lo" : "85.00",
+"vo" : "1,814.00",
+"avvo" : "",
+"hi52" : "150.00",
+"lo52" : "67.00",
+"mc" : "937.19M",
+"pe" : "32.66",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.60",
+"dy" : "",
+"ldiv" : "",
+"shares" : "10.98M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "673681917155584",
+"name" : "Atishay Ltd",
+"t" : "538713",
+"e" : "BOM",
+"l" : "85.00",
+"c" : "-1.85",
+"mc" : "937.19M",
+"cp" : "-2.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "784961",
+"name" : "Tata Consultancy Services Limited",
+"t" : "TCS",
+"e" : "NSE",
+"l" : "3,025.60",
+"c" : "-50.20",
+"mc" : "5.79T",
+"cp" : "-1.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2245864",
+"name" : "Ranklin Solutions Limited",
+"t" : "RANKLIN",
+"e" : "NSE",
+"l" : "2.20",
+"c" : "",
+"mc" : "26.49M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6285453",
+"name" : "Hexaware Technologies Limited",
+"t" : "HEXAWARE",
+"e" : "NSE",
+"l" : "343.55",
+"c" : "-8.60",
+"mc" : "102.36B",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14304145",
+"name" : "KPIT Technologies Ltd",
+"t" : "KPIT",
+"e" : "NSE",
+"l" : "208.70",
+"c" : "+1.95",
+"mc" : "41.18B",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13287899",
+"name" : "Valuemart Info Technologies Ltd",
+"t" : "532338",
+"e" : "BOM",
+"l" : "0.38",
+"c" : "0.00",
+"mc" : "23.36M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715571",
+"name" : "Dion Global Solutions Ltd",
+"t" : "526927",
+"e" : "BOM",
+"l" : "34.25",
+"c" : "-0.40",
+"mc" : "1.09B",
+"cp" : "-1.15",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8147026",
+"name" : "Coral Hub Limited",
+"t" : "CORAL-HUB",
+"e" : "NSE",
+"l" : "3.50",
+"c" : "0.00",
+"mc" : "84.69M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "725402",
+"name" : "Twinstar Industries Limited",
+"t" : "531917",
+"e" : "BOM",
+"l" : "2.40",
+"c" : "+0.01",
+"mc" : "",
+"cp" : "0.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "675532",
+"name" : "Silverline Technologies Limited",
+"t" : "500389",
+"e" : "BOM",
+"l" : "2.19",
+"c" : "0.00",
+"mc" : "166.53M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11379576",
+"name" : "ASM Technologies Ltd",
+"t" : "526433",
+"e" : "BOM",
+"l" : "165.10",
+"c" : "-0.35",
+"mc" : "822.76M",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Plot No. 36 Zone-I,Maharana Pratap Nagar, BHOPAL, 462011, India",
+"phone": "+91-755-2558283",
+"fax": "+91-755-4229195",
+"url": "http:\u002F\u002Fwww.atishay.com\u002F",
+"overview" : "Atishay Limited, formerly Atishay Infotech Limited, is a data management and information technology (IT) company. The Company is a provider of business and knowledge process services. The Company offers a range of database management solutions and e-governance services. The Company is engaged in projects, such as Projects Aadhar Enrollment, Election Commission, E-Mitra, Transliteration, National Population Registrar and Lok Seva Kendra. It offers services, such as Aadhar Authentication Services Human Resource Management System, Online Services and Project Management services. Its online services include online mobile recharge, direct-to-home (DTH) recharge, bill payments, utility bill payments, domestic money transfer, mobile number\u002Fe-mail identity (ID) updation in Aadhaar and polyvinyl chloride (PVC) Aadhaar Card Printing. The Company provides services in the states of Madhya Pradesh, Maharashtra, Rajasthan, Gujarat, Uttar Pradesh and Bihar."
+} ]
+, "management" : [
+{
+"name" : "Arjun Singh Dangi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Kumud Kumar Karn",
+"age" : "47",
+"title" : "Deputy General Manager - Admin \u0026 Operations"
+}
+,
+{
+"name" : "Archit Jain",
+"age" : "24",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Rekha Jain",
+"age" : "46",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Iti Tiwari",
+"age" : "26",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Akhilesh Jain",
+"age" : "53",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Poonam Pritam Issrani",
+"age" : "32",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Arvind V. Lowlekar",
+"age" : "53",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ajay Mujumdar",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kavindra Singh",
+"age" : "52",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

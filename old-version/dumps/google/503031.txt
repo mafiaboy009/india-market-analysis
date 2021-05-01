@@ -1,0 +1,295 @@
+
+// [
+{
+"symbol" : "503031",
+"exchange" : "BOM",
+"id": "703935",
+"t" : "503031",
+"e" : "BOM",
+"name" : "Peninsula Land Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:503031"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:503031"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:503031"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-81.43%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "-43.76%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-42.44%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-4.97%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-13.38%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "305",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.25",
+"l" : "24.40",
+"cp" : "-1.01",
+"ccol" : "chr",
+"op" : "24.60",
+"hi" : "24.95",
+"lo" : "24.25",
+"vo" : "30,858.00",
+"avvo" : "",
+"hi52" : "44.00",
+"lo52" : "17.20",
+"mc" : "6.72B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "",
+"ldiv" : "",
+"shares" : "279.20M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703935",
+"name" : "Peninsula Land Limited",
+"t" : "503031",
+"e" : "BOM",
+"l" : "24.40",
+"c" : "-0.25",
+"mc" : "6.72B",
+"cp" : "-1.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13981377",
+"name" : "India Tourism Development Corp Ltd",
+"t" : "532189",
+"e" : "BOM",
+"l" : "448.75",
+"c" : "+4.65",
+"mc" : "39.44B",
+"cp" : "1.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715238",
+"name" : "Satra Properties (India) Ltd.",
+"t" : "508996",
+"e" : "BOM",
+"l" : "3.34",
+"c" : "0.00",
+"mc" : "568.56M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5638364",
+"name" : "Oberoi Realty Limited.",
+"t" : "OBEROIRLTY",
+"e" : "NSE",
+"l" : "532.60",
+"c" : "-1.95",
+"mc" : "174.03B",
+"cp" : "-0.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8591842",
+"name" : "D B Realty Ltd",
+"t" : "DBREALTY",
+"e" : "NSE",
+"l" : "60.65",
+"c" : "-0.55",
+"mc" : "14.94B",
+"cp" : "-0.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "269681",
+"name" : "BSEL Infrastructure Realty Limited",
+"t" : "BSELINFRA",
+"e" : "NSE",
+"l" : "3.70",
+"c" : "-0.05",
+"mc" : "297.74M",
+"cp" : "-1.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "714512",
+"name" : "Vipul Ltd.",
+"t" : "511726",
+"e" : "BOM",
+"l" : "53.00",
+"c" : "-0.40",
+"mc" : "6.43B",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "835863",
+"name" : "DLF Ltd",
+"t" : "DLF",
+"e" : "NSE",
+"l" : "215.95",
+"c" : "+2.35",
+"mc" : "387.36B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1759904",
+"name" : "Kamanwala Housing Construction Ltd.",
+"t" : "511131",
+"e" : "BOM",
+"l" : "11.78",
+"c" : "0.00",
+"mc" : "160.66M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5226982",
+"name" : "IVRCL Assets \u0026 Holdings Limited",
+"t" : "IVRCLAH",
+"e" : "NSE",
+"l" : "37.75",
+"c" : "",
+"mc" : "7.44B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "168013438565075",
+"name" : "Pansari Developers Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "2nd Floor, Peninsula Spenta Mathuradas Mills Compound Senapati Bapat Marg, MUMBAI, 400013, India",
+"phone": "+91-22-66229300",
+"fax": "+91-22-66229302",
+"url": "http:\u002F\u002Fwww.peninsula.co.in",
+"overview" : "Peninsula Land Limited is a holding company engaged in construction business. The Company is engaged in the business of real estate development. Its segments include Realty, Renting and Others. The Company\u0027s projects include retail ventures, commercial projects and residential complexes. It is engaged in the development of residential complexes under the Ashok brand. Its residential project pipeline includes Nepeansea Road, Mahadeopura, Tathavade, Saral and Mamurdi Gahunje. Its completed residential projects include Ashok Towers, Ashok Gardens, Palm Beach and Ashok House. Its residential on-going projects include Bishopsgate, Celestia Spaces, Carmichael Residencies, Peninsula Heights, Ashok Nirvaan and others. The Company\u0027s commercial or information technology (IT) parks include Peninsula Corporate Park, Peninsula Techopark, Peninsula Business Park, Peninsula Centre and Centre Point. Its retail projects include Bayside Mall, CR2 and Crossroads. It is a part of Ashok Piramal Group."
+} ]
+, "management" : [
+{
+"name" : "Urvi A. Piramal",
+"age" : "63",
+"title" : "Executive Chairperson of the Board"
+}
+,
+{
+"name" : "Rajeev A. Piramal",
+"age" : "39",
+"title" : "Executive Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Bharat Sanghavi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rajashekhar Reddy",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Mahesh S. Gupta",
+"age" : "59",
+"title" : "Group Managing Director, Executive Director"
+}
+,
+{
+"name" : "Nandan A. Piramal",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Sajit Suvarna",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Bhavna Doshi",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sudhindar Krishan Khanna",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Dharmasinh M. Popat",
+"age" : "81",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

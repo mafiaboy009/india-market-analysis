@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "530377",
+"exchange" : "BOM",
+"id": "2231171",
+"t" : "530377",
+"e" : "BOM",
+"name" : "Nila Infrastructures Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=NHI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530377"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530377"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530377"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002715)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "12.94%",
+"annual" : "10.71%",
+"ttm" : "9.62%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "17.43%",
+"annual" : "15.54%",
+"ttm" : "17.13%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.32%",
+"ttm" : "18.19%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.92%",
+"ttm" : "4.12%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.75%",
+"ttm" : "9.01%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "76",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "21.45",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "21.80",
+"hi" : "21.80",
+"lo" : "21.25",
+"vo" : "329,110.00",
+"avvo" : "",
+"hi52" : "29.15",
+"lo52" : "14.75",
+"mc" : "8.41B",
+"pe" : "56.11",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.38",
+"dy" : "0.51",
+"ldiv" : "0.11",
+"shares" : "393.39M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2231171",
+"name" : "Nila Infrastructures Ltd",
+"t" : "530377",
+"e" : "BOM",
+"l" : "21.45",
+"c" : "0.00",
+"mc" : "8.41B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "185894",
+"name" : "Vas Infrastructure Ltd (cn)",
+"t" : "531574",
+"e" : "BOM",
+"l" : "10.70",
+"c" : "-1.07",
+"mc" : "147.13M",
+"cp" : "-9.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6248094060991",
+"name" : "Silverpoint Infratech Ltd",
+"t" : "536073",
+"e" : "BOM",
+"l" : "8.06",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "173745706541156",
+"name" : "Psp Projects Ltd",
+"t" : "PSPPROJECT",
+"e" : "NSE",
+"l" : "488.15",
+"c" : "+0.25",
+"mc" : "17.54B",
+"cp" : "0.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5524223",
+"name" : "Parsvnath Developers Limited",
+"t" : "PARSVNATH",
+"e" : "NSE",
+"l" : "21.70",
+"c" : "+0.40",
+"mc" : "9.44B",
+"cp" : "1.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "495804775077362",
+"name" : "Bronze InfraTech Ltd",
+"t" : "534731",
+"e" : "BOM",
+"l" : "0.85",
+"c" : "0.00",
+"mc" : "14.69M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9227507",
+"name" : "Emami Infrastructure Limited",
+"t" : "EMAMIINFRA",
+"e" : "NSE",
+"l" : "298.50",
+"c" : "-1.00",
+"mc" : "7.28B",
+"cp" : "-0.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "713850",
+"name" : "Skyline Millars Ltd",
+"t" : "505650",
+"e" : "BOM",
+"l" : "3.55",
+"c" : "-0.11",
+"mc" : "142.80M",
+"cp" : "-3.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15071904",
+"name" : "MVL Ltd",
+"t" : "MVL",
+"e" : "NSE",
+"l" : "0.45",
+"c" : "+0.05",
+"mc" : "240.50M",
+"cp" : "12.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13257886",
+"name" : "Ansal Housing and Construction Ltd",
+"t" : "ANSALHSG",
+"e" : "NSE",
+"l" : "23.75",
+"c" : "+0.20",
+"mc" : "1.41B",
+"cp" : "0.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5934788",
+"name" : "GI Engineering Solutions Ltd",
+"t" : "GISOLUTION",
+"e" : "NSE",
+"l" : "4.60",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Ist Floor, Sambhaav House Opp Chief Justices Bunglo Bodakdev, AHMEDABAD, 380015, India",
+"phone": "+91-79-40036817",
+"fax": "+91-79-26873922",
+"url": "http:\u002F\u002Fwww.nilainfra.com\u002F",
+"overview" : "Nila Infrastructures Limited is a holding company, which is engaged in the construction and development of real estate and infrastructure projects. The Company is focused on urban infrastructure projects and residential real estate. It is involved in public infrastructure development projects, such as bus shelters of Ahmedabad\u0027s Bus Rapid Transit System (BRTS) and Ahmedabad Municipal Transport Service (AMTS), a textile park in Surat and media utilities in Rajkot. It undertakes engineering, procurement and construction (EPC)\u002Fturnkey projects of housing schemes floated by government authorities. It also undertakes private white label construction projects, industrial infrastructure projects, as well as public-private partnership (PPP) projects. It holds prime commercial property in Ahmedabad, which is leased to corporates. It undertakes infrastructure projects for government\u002Fsemi-government agencies\u002Fdepartments and private corporates engaged in realestate development and sales."
+} ]
+, "management" : [
+{
+"name" : "Manoj B. Vadodaria",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Prashant H Sarkhedi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Kiranbhai B. Vadodaria",
+"age" : "54",
+"title" : "Joint Managing Director, Non-Executive Director"
+}
+,
+{
+"name" : "Dipen Y Parikh",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Harcharansingh P. Jamdar",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Shyamal S. Joshi",
+"age" : "67",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Ashok R. Bhandari",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Akhilesh C. Mehta",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Foram Mehta",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

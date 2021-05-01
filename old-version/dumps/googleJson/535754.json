@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "535754",
+"exchange" : "BOM",
+"id": "953340593295251",
+"t" : "535754",
+"e" : "BOM",
+"name" : "Orient Cement Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:535754"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:535754"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:535754"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-3.45%",
+"annual" : "-1.48%",
+"ttm" : "2.01%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.40%",
+"annual" : "2.61%",
+"ttm" : "7.59%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.20%",
+"ttm" : "12.85%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.11%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-3.17%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "873",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+14.15",
+"l" : "162.35",
+"cp" : "9.55",
+"ccol" : "chg",
+"op" : "149.30",
+"hi" : "163.70",
+"lo" : "149.00",
+"vo" : "42,384.00",
+"avvo" : "",
+"hi52" : "183.80",
+"lo52" : "124.65",
+"mc" : "33.47B",
+"pe" : "68.99",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.35",
+"dy" : "0.31",
+"ldiv" : "0.50",
+"shares" : "204.87M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "953340593295251",
+"name" : "Orient Cement Ltd",
+"t" : "535754",
+"e" : "BOM",
+"l" : "162.35",
+"c" : "+14.15",
+"mc" : "33.47B",
+"cp" : "9.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1608461",
+"name" : "Gujarat Sidhee Cement Ltd",
+"t" : "GSCLCEMENT",
+"e" : "NSE",
+"l" : "31.90",
+"c" : "-0.20",
+"mc" : "2.77B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6118813",
+"name" : "Deccan Cements Ltd.",
+"t" : "DECCANCE",
+"e" : "NSE",
+"l" : "574.00",
+"c" : "-2.70",
+"mc" : "7.97B",
+"cp" : "-0.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3770372",
+"name" : "JK Lakshmi Cement Limited",
+"t" : "JKLAKSHMI",
+"e" : "NSE",
+"l" : "433.55",
+"c" : "+7.75",
+"mc" : "51.24B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11787956",
+"name" : "ACC Ltd",
+"t" : "ACC",
+"e" : "NSE",
+"l" : "1,661.25",
+"c" : "+9.80",
+"mc" : "312.01B",
+"cp" : "0.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16255299",
+"name" : "UltraTech Cement Ltd",
+"t" : "ULTRACEMCO",
+"e" : "NSE",
+"l" : "4,142.00",
+"c" : "+25.60",
+"mc" : "1.14T",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1524703",
+"name" : "Prism Cement Ltd",
+"t" : "PRISMCEM",
+"e" : "NSE",
+"l" : "127.60",
+"c" : "+1.75",
+"mc" : "64.15B",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3327918",
+"name" : "Ramco Cements Ltd",
+"t" : "RAMCOCEM",
+"e" : "NSE",
+"l" : "731.40",
+"c" : "+13.10",
+"mc" : "173.22B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6613325",
+"name" : "Ambuja Cements Ltd",
+"t" : "AMBUJACEM",
+"e" : "NSE",
+"l" : "263.20",
+"c" : "+3.00",
+"mc" : "521.02B",
+"cp" : "1.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11984485",
+"name" : "India Cements Ltd",
+"t" : "INDIACEM",
+"e" : "NSE",
+"l" : "160.85",
+"c" : "+2.80",
+"mc" : "49.57B",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11753233",
+"name" : "Birla Corporation Limited",
+"t" : "BIRLACORPN",
+"e" : "NSE",
+"l" : "894.50",
+"c" : "+23.00",
+"mc" : "69.00B",
+"cp" : "2.64",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Birla Tower, 25, Barakhamba Road, NEW DELHI, 110001, India",
+"phone": "+91-11-42092253",
+"fax": "+91-11-42092199",
+"url": "http:\u002F\u002Fwww.orientcement.com\u002F",
+"overview" : "Orient Cement Limited is an India-based company engaged in the manufacturing and sales of cement. The Company\u0027s products include Birla A1 Premium Cement, Birla A1 Premium Cement-OPC 53 Grade and Birla A1 Premium Cement-OPC 43 Grade. The Company\u0027s product mix includes ordinary Portland cement (OPC) and Pozzolana Portland cement (PPC), which are sold under the brand name of Birla A1. The Birla A1 Premium Cement is an inter-grinding of Portland cement clinker, gypsum and fly ash. The Company is part of the CK Birla Group. The Company\u0027s manufacturing facilities are located at Devapur in Telangana, Jalgaon in Maharashtra and Chittapur in Karnataka. The cement production capacity of the Devapur plant is approximately three metric tons per annum (MTPA). The Company operates a clinker grinding plant in Jalgaon, Maharashtra of approximately two MTPA cement production capacity."
+} ]
+, "management" : [
+{
+"name" : "Desh Deepak Khetrapal",
+"age" : "60",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Sushil Gupta",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rahul R. Deshmukh",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Nidhi Bisaria",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Chandra Kant Birla",
+"age" : "60",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Amita Birla",
+"age" : "58",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Swapan Dasgupta",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "I.Y.R. Krishna Rao",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Vinod Kumar Dhall",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

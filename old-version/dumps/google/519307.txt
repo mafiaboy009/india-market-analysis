@@ -1,0 +1,282 @@
+
+// [
+{
+"symbol" : "519307",
+"exchange" : "BOM",
+"id": "687621",
+"t" : "519307",
+"e" : "BOM",
+"name" : "Vikas WSP Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=VWSP.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:519307"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:519307"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:519307"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.47%",
+"annual" : "-43.38%",
+"ttm" : "3.85%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.10%",
+"annual" : "-28.39%",
+"ttm" : "8.64%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-10.47%",
+"ttm" : "14.44%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-5.54%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-8.22%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "700",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.15",
+"l" : "15.90",
+"cp" : "-0.93",
+"ccol" : "chr",
+"op" : "16.05",
+"hi" : "16.25",
+"lo" : "15.35",
+"vo" : "149,526.00",
+"avvo" : "",
+"hi52" : "18.10",
+"lo52" : "7.05",
+"mc" : "3.12B",
+"pe" : "12.82",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.24",
+"dy" : "",
+"ldiv" : "",
+"shares" : "194.44M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "687621",
+"name" : "Vikas WSP Limited",
+"t" : "519307",
+"e" : "BOM",
+"l" : "15.90",
+"c" : "-0.15",
+"mc" : "3.12B",
+"cp" : "-0.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11109412",
+"name" : "Camphor and Allied Products Ltd",
+"t" : "500078",
+"e" : "BOM",
+"l" : "1,030.00",
+"c" : "+1.30",
+"mc" : "5.28B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12863366",
+"name" : "Finolex Cables Ltd",
+"t" : "FINCABLES",
+"e" : "NSE",
+"l" : "700.55",
+"c" : "-3.80",
+"mc" : "107.04B",
+"cp" : "-0.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16139803",
+"name" : "Balmer Lawrie and Company Ltd",
+"t" : "BALMLAWRIE",
+"e" : "NSE",
+"l" : "231.90",
+"c" : "+0.75",
+"mc" : "26.45B",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1501918",
+"name" : "Jd Orgochem Ltd",
+"t" : "524592",
+"e" : "BOM",
+"l" : "4.19",
+"c" : "0.00",
+"mc" : "55.52M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12667846",
+"name" : "National Fertilizers Limited",
+"t" : "NFL",
+"e" : "NSE",
+"l" : "62.15",
+"c" : "+0.90",
+"mc" : "30.49B",
+"cp" : "1.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11687726",
+"name" : "Vikas Granaries Limited",
+"t" : "531518",
+"e" : "BOM",
+"l" : "11.59",
+"c" : "+0.55",
+"mc" : "209.98M",
+"cp" : "4.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11534046",
+"name" : "Harrisons Malayalam Limited",
+"t" : "HARRMALAYA",
+"e" : "NSE",
+"l" : "84.85",
+"c" : "+1.70",
+"mc" : "1.56B",
+"cp" : "2.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11836196",
+"name" : "Heritage Foods Ltd",
+"t" : "HERITGFOOD",
+"e" : "NSE",
+"l" : "675.00",
+"c" : "-2.70",
+"mc" : "31.22B",
+"cp" : "-0.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5992183",
+"name" : "NEPC Agro Foods Ltd",
+"t" : "500452",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7187739",
+"name" : "United Nilgiri Tea Estates Company Ltd",
+"t" : "UNITEDTEA",
+"e" : "NSE",
+"l" : "401.00",
+"c" : "-16.85",
+"mc" : "2.00B",
+"cp" : "-4.03",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "B-86\u002F87 Udyog Vihar, RIICO Industrial Area, SRI GANGANAGAR, 335001, India",
+"phone": "+91-154-2494512",
+"fax": "+91-154-2494361",
+"url": "http:\u002F\u002Fwww.vikaswspltd.in\u002F",
+"overview" : "Vikas WSP Limited is engaged in the manufacture and export of guar gum powder. The Company offers guar derivatives and guar polymers. The Company also offers guar gum for technical applications, such as pet food, oil drilling and fracturing, textile printing and paper making. Guar gum powder is the thickening and binding ingredient used as baking premixes for technical consideration. Its guar gum powder is used in various products, such as bakery, noodles, diet foods, ice cream, meat and fish products, sausage coatings, pet foods and kosher products. In meat products, including sausages and salamis, guar gum powder acts as an adhesive in binding herbs and spices to the product\u0027s surface. The Company supplies guar products to food manufacturers in all the continents. The Company also manufactures guar gum products for various applications, such as oil and natural gas exploration, explosives and mining. The Company operates in the United States, Europe, India and others."
+} ]
+, "management" : [
+{
+"name" : "B. D. Agarwal",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Umesh Bansal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Gunjan Kumar Karn",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Bajrang Dass Jindal",
+"title" : "Director"
+}
+,
+{
+"name" : "Bimla Devi Jindal",
+"title" : "Director"
+}
+,
+{
+"name" : "Kamini Jindal",
+"title" : "Director"
+}
+,
+{
+"name" : "Vishnu Bhagwan",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Neeraj Chhabra",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

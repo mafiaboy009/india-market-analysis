@@ -1,0 +1,288 @@
+
+// [
+{
+"symbol" : "526851",
+"exchange" : "BOM",
+"id": "13239496",
+"t" : "526851",
+"e" : "BOM",
+"name" : "Arex Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=AREX.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:526851"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:526851"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:526851"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "15.47%",
+"annual" : "9.21%",
+"ttm" : "9.11%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "18.29%",
+"annual" : "17.11%",
+"ttm" : "14.92%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "24.29%",
+"ttm" : "22.95%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "9.03%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.25%",
+"ttm" : ""
+}
+]
+, "c" : "-3.00",
+"l" : "110.00",
+"cp" : "-2.65",
+"ccol" : "chr",
+"op" : "113.00",
+"hi" : "114.00",
+"lo" : "107.35",
+"vo" : "3,330.00",
+"avvo" : "",
+"hi52" : "120.00",
+"lo52" : "69.75",
+"mc" : "435.46M",
+"pe" : "13.05",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.43",
+"dy" : "1.82",
+"ldiv" : "2.00",
+"shares" : "3.96M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "13239496",
+"name" : "Arex Industries Ltd",
+"t" : "526851",
+"e" : "BOM",
+"l" : "110.00",
+"c" : "-3.00",
+"mc" : "435.46M",
+"cp" : "-2.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4238278",
+"name" : "Gopala Polyplast Ltd",
+"t" : "526717",
+"e" : "BOM",
+"l" : "156.30",
+"c" : "-3.40",
+"mc" : "1.42B",
+"cp" : "-2.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15652636",
+"name" : "Weizmann Ltd",
+"t" : "WEIZMANIND",
+"e" : "NSE",
+"l" : "44.75",
+"c" : "+1.00",
+"mc" : "783.65M",
+"cp" : "2.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3676646",
+"name" : "Premco Global Ltd",
+"t" : "530331",
+"e" : "BOM",
+"l" : "343.15",
+"c" : "+3.05",
+"mc" : "1.13B",
+"cp" : "0.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2782482",
+"name" : "Amani Trading And Exports Ltd",
+"t" : "512008",
+"e" : "BOM",
+"l" : "63.20",
+"c" : "0.00",
+"mc" : "44.22M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8361717",
+"name" : "First Winner Industries Ltd.",
+"t" : "FIRSTWIN",
+"e" : "NSE",
+"l" : "2.30",
+"c" : "-0.10",
+"mc" : "115.54M",
+"cp" : "-4.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6926290",
+"name" : "Gujarat Cotex Ltd",
+"t" : "514386",
+"e" : "BOM",
+"l" : "2.45",
+"c" : "-0.08",
+"mc" : "17.45M",
+"cp" : "-3.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2198142",
+"name" : "Hindoostan Mills Ltd",
+"t" : "509895",
+"e" : "BOM",
+"l" : "365.00",
+"c" : "+19.75",
+"mc" : "607.56M",
+"cp" : "5.72",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6775313",
+"name" : "Salona Cotspin Ltd",
+"t" : "590056",
+"e" : "BOM",
+"l" : "122.45",
+"c" : "-4.55",
+"mc" : "613.94M",
+"cp" : "-3.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2352428",
+"name" : "Nandan Denim Ltd",
+"t" : "NDL",
+"e" : "NSE",
+"l" : "144.55",
+"c" : "+2.40",
+"mc" : "6.95B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10446262",
+"name" : "Zenith Exports Ltd",
+"t" : "ZENITHEXPO",
+"e" : "NSE",
+"l" : "49.00",
+"c" : "0.00",
+"mc" : "264.42M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "S\u002F10 Vikram Chambers, Ashram Road, AHMEDABAD, 380009, India",
+"phone": "+91-2764-233637",
+"fax": "+91-2764-233635",
+"url": "http:\u002F\u002Fwww.arex.co.in\u002F",
+"overview" : "Arex Industries Limited is an India-based company, which is engaged in the manufacture of textile materials. The Company is involved in the manufacturing of various types of woven and printed labels. The Company\u0027s product is used by garment manufacturers within India and abroad. The Company provides approximately 410 million woven labels annually. These labels can be satin or taffeta quality in white or black warp-base, up to a width of 500 millimeter and 10 colors. The Company\u0027s woven labels are provided in a range of finishes, including end fold, center fold, miter fold, manhattan fold, starched, self adhesive, thermo adhesive, laser cut and die cut. The Company operates in Ahmedabad, Bangalore, Tirupur, Mumbai, Chennai and Indore."
+} ]
+, "management" : [
+{
+"name" : "Dinesh A. Bilgi",
+"title" : "Chief Financial Officer, Managing Director, Director"
+}
+,
+{
+"name" : "Kairavi Bilgi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Chirag D. Bilgi",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Neel D. Bilgi",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Pragnesh K. Shah",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Harsha Hemantkumar Parikh",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Balkrishna I. Makwana",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Dinesh H. Pande",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vasant R. Shah",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Laxman C. Tilani",
+"age" : "60",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

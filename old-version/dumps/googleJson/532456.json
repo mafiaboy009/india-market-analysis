@@ -1,0 +1,278 @@
+
+ [
+{
+"symbol" : "532456",
+"exchange" : "BOM",
+"id": "15453365",
+"t" : "532456",
+"e" : "BOM",
+"name" : "Compuage Infocom Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=COMI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532456"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532456"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532456"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.57%",
+"annual" : "0.50%",
+"ttm" : "0.50%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.92%",
+"annual" : "1.50%",
+"ttm" : "1.60%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.60%",
+"ttm" : "1.69%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.16%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.28%",
+"ttm" : ""
+}
+]
+, "c" : "+1.15",
+"l" : "50.90",
+"cp" : "2.31",
+"ccol" : "chg",
+"op" : "52.20",
+"hi" : "52.20",
+"lo" : "50.00",
+"vo" : "24,315.00",
+"avvo" : "",
+"hi52" : "64.85",
+"lo52" : "21.35",
+"mc" : "2.99B",
+"pe" : "15.11",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.37",
+"dy" : "0.79",
+"ldiv" : "0.40",
+"shares" : "58.74M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15453365",
+"name" : "Compuage Infocom Ltd",
+"t" : "532456",
+"e" : "BOM",
+"l" : "50.90",
+"c" : "+1.15",
+"mc" : "2.99B",
+"cp" : "2.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8153922",
+"name" : "Computech International Ltd",
+"t" : "COMPUTECH",
+"e" : "NSE",
+"l" : "2.60",
+"c" : "",
+"mc" : "0.00",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10394991",
+"name" : "Sterling Webnet Ltd",
+"t" : "531901",
+"e" : "BOM",
+"l" : "0.45",
+"c" : "0.00",
+"mc" : "24.94M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "900229713771617",
+"name" : "PS IT Infrastructure \u0026 Services Ltd",
+"t" : "505502",
+"e" : "BOM",
+"l" : "55.80",
+"c" : "-0.75",
+"mc" : "3.00B",
+"cp" : "-1.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9257280",
+"name" : "Anar Industries Ltd",
+"t" : "531127",
+"e" : "BOM",
+"l" : "19.00",
+"c" : "0.00",
+"mc" : "190.66M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13507979",
+"name" : "PCS Technology Ltd",
+"t" : "517119",
+"e" : "BOM",
+"l" : "23.70",
+"c" : "-0.80",
+"mc" : "506.88M",
+"cp" : "-3.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1112930228483447",
+"name" : "Mystic Electronics Ltd",
+"t" : "535205",
+"e" : "BOM",
+"l" : "48.00",
+"c" : "0.00",
+"mc" : "948.78M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "555431429469324",
+"name" : "Ecs Biztech Ltd",
+"t" : "540063",
+"e" : "BOM",
+"l" : "8.44",
+"c" : "0.00",
+"mc" : "173.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4711502",
+"name" : "Redington (India) Ltd",
+"t" : "REDINGTON",
+"e" : "NSE",
+"l" : "146.80",
+"c" : "-1.25",
+"mc" : "58.94B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10405902",
+"name" : "Vama Industries Ltd",
+"t" : "512175",
+"e" : "BOM",
+"l" : "25.20",
+"c" : "0.00",
+"mc" : "1.31B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "861196577474411",
+"name" : "Creative Peripherals and Distributin Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "D-601\u002F602 \u0026 G-601\u002F602, Lotus Crprt Prk Graham Firth Stl Cmpnd,Wstrn Exprs Hghwy Goregaon ( E ), MUMBAI, 400063, India",
+"phone": "+91-22-67114444",
+"fax": "+91-22-67114445",
+"url": "http:\u002F\u002Fwww.compuageindia.com",
+"overview" : "Compuage Infocom Limited is a holding company. The Company is an information technology (IT) products distribution company. The Company is engaged in the wholesale of computers, computer peripheral equipment and software. The Company is also engaged in the wholesale of electronic, and telecommunication equipment and parts. The Company also provides products support services. In addition, the Company also offers after sales support. The Company acts as an authorized service provider for brands, such as ASUS, CREATIVE, FUJIFILMS, HP optical drive, LITEON, RELICELL \u0026 TOSHIBA. The Company supports its customers through a network of over 40 offices, one central warehouse, approximately three redistribution hubs, over 40 warehouses and approximately 50 service centers. The Company operates through approximately 20 states in India, one union territory and one overseas branch in Singapore. The Company\u0027s subsidiary is Compuage Infocom (S) Pte. Ltd."
+} ]
+, "management" : [
+{
+"name" : "Atul H. Mehta",
+"age" : "50",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sunil M. Mehta",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Bhavesh H. Mehta",
+"age" : "37",
+"title" : "Chief Operating Officer, Whole Time Director"
+}
+,
+{
+"name" : "Shruti Desai",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Disha Shah",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Vijay Agarwal",
+"age" : "59",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ganesh Shiva Ganesh",
+"age" : "53",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Preeti K. Trivedi",
+"age" : "52",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

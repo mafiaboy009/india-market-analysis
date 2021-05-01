@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "590071",
+"exchange" : "BOM",
+"id": "677755",
+"t" : "590071",
+"e" : "BOM",
+"name" : "Sundaram Finance Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:590071"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:590071"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:590071"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "12.11%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "17.56%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.41%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.30%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "15.17%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,689",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+48.30",
+"l" : "1,720.90",
+"cp" : "2.89",
+"ccol" : "chg",
+"op" : "1,672.60",
+"hi" : "1,734.85",
+"lo" : "1,653.00",
+"vo" : "2,548.00",
+"avvo" : "",
+"hi52" : "2,085.00",
+"lo52" : "1,382.75",
+"mc" : "194.43B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "0.67",
+"ldiv" : "6.50",
+"shares" : "111.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677755",
+"name" : "Sundaram Finance Limited",
+"t" : "590071",
+"e" : "BOM",
+"l" : "1,720.90",
+"c" : "+48.30",
+"mc" : "194.43B",
+"cp" : "2.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7977316",
+"name" : "L\u0026T Finance Holdings Ltd",
+"t" : "L\u0026TFH",
+"e" : "NSE",
+"l" : "168.00",
+"c" : "+5.80",
+"mc" : "305.14B",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3873499",
+"name" : "Paragon Finance Ltd",
+"t" : "531255",
+"e" : "BOM",
+"l" : "24.90",
+"c" : "-2.60",
+"mc" : "105.82M",
+"cp" : "-9.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11784956",
+"name" : "Mahindra \u0026 Mahindra Fin. Services Ltd.",
+"t" : "M\u0026MFIN",
+"e" : "NSE",
+"l" : "445.75",
+"c" : "+4.40",
+"mc" : "274.84B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2732015",
+"name" : "Capital First Ltd",
+"t" : "CAPF",
+"e" : "NSE",
+"l" : "674.00",
+"c" : "+1.45",
+"mc" : "66.57B",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3631160",
+"name" : "IFCI Limited",
+"t" : "IFCI",
+"e" : "NSE",
+"l" : "23.30",
+"c" : "+0.15",
+"mc" : "38.81B",
+"cp" : "0.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13066246",
+"name" : "Vardhman Holdings Limited",
+"t" : "VHL",
+"e" : "NSE",
+"l" : "4,520.00",
+"c" : "-62.85",
+"mc" : "14.49B",
+"cp" : "-1.37",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3287224",
+"name" : "Paisalo Digital Ltd",
+"t" : "PAISALO",
+"e" : "NSE",
+"l" : "297.50",
+"c" : "-3.15",
+"mc" : "12.02B",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12179797",
+"name" : "Sigrun Holdings Ltd",
+"t" : "531863",
+"e" : "BOM",
+"l" : "0.19",
+"c" : "0.00",
+"mc" : "103.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3383863",
+"name" : "Silicon Valley Infotech Ltd",
+"t" : "531738",
+"e" : "BOM",
+"l" : "0.03",
+"c" : "0.00",
+"mc" : "3.89M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "411403",
+"name" : "Hasti Finance Ltd",
+"t" : "531387",
+"e" : "BOM",
+"l" : "6.84",
+"c" : "0.00",
+"mc" : "74.14M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "21, Patullos Road, CHENNAI, 600002, India",
+"phone": "+91-44-28521181",
+"fax": "+91-44-28520456",
+"url": "http:\u002F\u002Fwww.sundaramfinance.in",
+"overview" : "Sundaram Finance Limited is engaged in financial and insurance activities. The Company\u0027s segments include Asset Financing, Insurance and Other Operations. The Company provides finance for purchase of commercial vehicles, cars, multi-utility vehicles, construction equipment, tractors and working capital finance. The Company is engaged in the distribution of a range of financial products, such as mutual fund, deposits and insurance, among others. The Company caters to various business verticals, such as hire purchase, loans, leasing and deposits. Its subsidiaries include Sundaram Asset Management Company Limited, Sundaram Trustee Company Limited, Sundaram Business Services Limited, Sundaram Insurance Broking Services Limited and Sundaram Finance Distribution Limited, among others."
+} ]
+, "management" : [
+{
+"name" : "M. Ramaswamy",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "S. Ravindran",
+"title" : "Senior Vice President, Head - Credit Control and Processing Dept, Non-Independent Director"
+}
+,
+{
+"name" : "V. K. Raman",
+"title" : "Senior Vice President, Head - Group Internal Audit"
+}
+,
+{
+"name" : "S. Srinivasan",
+"title" : "Senior Vice President, Head - Leasing"
+}
+,
+{
+"name" : "V Ananthanarayanan",
+"title" : "Chief Information Officer"
+}
+,
+{
+"name" : "P. Viswanathan",
+"title" : "Chief Compliance Officer, Secretary"
+}
+,
+{
+"name" : "M. J. Kulkarni",
+"title" : "Vice President \u0026 Head - Western Region"
+}
+,
+{
+"name" : "K. Sankarakumar",
+"title" : "Vice President \u0026 Head - Distribution"
+}
+,
+{
+"name" : "S. Sivakumar",
+"title" : "Vice President, Head - Administration and Corporate Communication"
+}
+,
+{
+"name" : "T. T. Srinivasaraghavan",
+"title" : "Managing Director, Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

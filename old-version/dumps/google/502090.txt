@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "502090",
+"exchange" : "BOM",
+"id": "709860",
+"t" : "502090",
+"e" : "BOM",
+"name" : "Sagar Cements Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:502090"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:502090"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:502090"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.21%",
+"annual" : "-0.42%",
+"ttm" : "1.74%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.26%",
+"annual" : "6.67%",
+"ttm" : "8.18%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.82%",
+"ttm" : "13.14%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.28%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-0.60%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "425",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+9.10",
+"l" : "976.80",
+"cp" : "0.94",
+"ccol" : "chg",
+"op" : "976.80",
+"hi" : "976.80",
+"lo" : "970.05",
+"vo" : "151.00",
+"avvo" : "",
+"hi52" : "1,161.40",
+"lo52" : "722.25",
+"mc" : "20.03B",
+"pe" : "109.52",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.92",
+"dy" : "0.41",
+"ldiv" : "2.50",
+"shares" : "20.40M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "709860",
+"name" : "Sagar Cements Limited",
+"t" : "502090",
+"e" : "BOM",
+"l" : "976.80",
+"c" : "+9.10",
+"mc" : "20.03B",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "485003498717103",
+"name" : "Star Cement Ltd",
+"t" : "STARCEMENT",
+"e" : "NSE",
+"l" : "126.95",
+"c" : "-1.20",
+"mc" : "53.08B",
+"cp" : "-0.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1608461",
+"name" : "Gujarat Sidhee Cement Ltd",
+"t" : "GSCLCEMENT",
+"e" : "NSE",
+"l" : "31.90",
+"c" : "-0.20",
+"mc" : "2.77B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6118813",
+"name" : "Deccan Cements Ltd.",
+"t" : "DECCANCE",
+"e" : "NSE",
+"l" : "574.00",
+"c" : "-2.70",
+"mc" : "7.97B",
+"cp" : "-0.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "714540",
+"name" : "Panyam Cements \u0026 Mineral Industries Ltd.",
+"t" : "500322",
+"e" : "BOM",
+"l" : "47.70",
+"c" : "-0.85",
+"mc" : "803.45M",
+"cp" : "-1.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11014996",
+"name" : "Mangalam Cement Ltd.",
+"t" : "MANGLMCEM",
+"e" : "NSE",
+"l" : "331.40",
+"c" : "-0.50",
+"mc" : "8.85B",
+"cp" : "-0.15",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14797552",
+"name" : "J K Cement Ltd",
+"t" : "JKCEMENT",
+"e" : "NSE",
+"l" : "1,005.00",
+"c" : "-24.20",
+"mc" : "70.36B",
+"cp" : "-2.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11753233",
+"name" : "Birla Corporation Limited",
+"t" : "BIRLACORPN",
+"e" : "NSE",
+"l" : "894.50",
+"c" : "+23.00",
+"mc" : "69.00B",
+"cp" : "2.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4519199",
+"name" : "Anjani Portland Cement Ltd",
+"t" : "518091",
+"e" : "BOM",
+"l" : "198.40",
+"c" : "+6.90",
+"mc" : "5.05B",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705329",
+"name" : "Bheema Cements Ltd",
+"t" : "518017",
+"e" : "BOM",
+"l" : "9.10",
+"c" : "0.00",
+"mc" : "250.73M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5410484",
+"name" : "Chettinad Cement Corporation Pvt Ltd",
+"t" : "CHETTINAD",
+"e" : "NSE",
+"l" : "709.25",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Plot No. 111 Road No. 10, Jubilee Hills, Hyderabad, HYDERABAD, 500033, India",
+"phone": "+91-40-23351571",
+"fax": "+91-40-23356573",
+"url": "http:\u002F\u002Fwww.sagarcements.in",
+"overview" : "Sagar Cements Limited is engaged in the manufacture of cement. The Company is engaged in the business of cement and cement-related products. The Company manufactures various varieties of cement, such as ordinary Portland cement (OPC) of 53 grade, 43 grade, Portland Pozzalona Cement (PPC) and Sulfate Resistant Cement (SRC) to suit various need of customers. The cement produced by the Company is sold under the brand name, SAGAR. Its products are used for applications, such as reinforced cement concrete (RCC) works\u003B precast concrete items, such as paving blocks and tiles building blocks\u003B pre-stressed concrete components\u003B runways, concrete roads and bridges\u003B general civil engineering construction work\u003B asbestos products, such as sheets and pipes, and non-structural works, such as plastering and flooring. Its products are also used for mass concreting and plain cement concreting, and for plastering and single storied individual houses. Its plants are located in Telangana, India."
+} ]
+, "management" : [
+{
+"name" : "M. S. A. Narayana Rao",
+"title" : "Group President"
+}
+,
+{
+"name" : "M. V. Subba Rao",
+"title" : "Senior Vice President"
+}
+,
+{
+"name" : "R. Soundararajan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "P. S. Prasad",
+"title" : "Vice President - Marketing"
+}
+,
+{
+"name" : "K. Ganesh",
+"title" : "Vice President - Projects"
+}
+,
+{
+"name" : "M. V. Ramana Murthy",
+"title" : "Asst.Vice President- Production \u0026 QC"
+}
+,
+{
+"name" : "K, Prasad",
+"title" : "Asst.Vice President - Finance"
+}
+,
+{
+"name" : "K. V. Ramana",
+"title" : "Vice President - Mines"
+}
+,
+{
+"name" : "O. Anji Reddy",
+"title" : "Vice President - Electrical \u0026 Installations"
+}
+,
+{
+"name" : "P. Vasudeva Reddy",
+"title" : "Vice President - Works"
+}
+]
+,"moreresources" : [
+]
+}]

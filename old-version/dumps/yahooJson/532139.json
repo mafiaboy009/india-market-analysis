@@ -1,0 +1,207 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": -963000,
+            "fmt": "-963k",
+            "longFmt": "-963,000"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.04596,
+            "fmt": "4.60%"
+          },
+          "floatShares": {
+            "raw": 256878,
+            "fmt": "256.88k",
+            "longFmt": "256,878"
+          },
+          "sharesOutstanding": {
+            "raw": 3500000,
+            "fmt": "3.5M",
+            "longFmt": "3,500,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -25.995823,
+            "fmt": "-26"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 0.969,
+            "fmt": "0.97"
+          },
+          "priceToBook": {
+            "raw": 1.9298246,
+            "fmt": "1.93"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.897,
+            "fmt": "-89.70%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 39597,
+            "fmt": "39.6k",
+            "longFmt": "39,597"
+          },
+          "trailingEps": {
+            "raw": 0.011,
+            "fmt": "0.01"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "10/1",
+          "lastSplitDate": {
+            "raw": 1135123200,
+            "fmt": "2005-12-21"
+          },
+          "enterpriseToRevenue": {
+            "raw": -1.118,
+            "fmt": "-1.12"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Laura Building, Office No. 1",
+          "address2": "1st Floor Near Metro Cinema Marine Lines",
+          "city": "Mumbai",
+          "zip": "400020",
+          "country": "India",
+          "phone": "91 22 6945 6666",
+          "website": "http://www.gtechinfoltd.com",
+          "industry": "Information Technology Services",
+          "sector": "Technology",
+          "longBusinessSummary": "G-Tech Info-Training Limited engages in servicing of various brands of computers, laptops, tabs, hardware and software, etc. in India. The company was incorporated in 1994 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1.87,
+            "fmt": "1.87"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 1524000,
+            "fmt": "1.52M",
+            "longFmt": "1,524,000"
+          },
+          "totalCashPerShare": {
+            "raw": 5.08,
+            "fmt": "5.08"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 861490,
+            "fmt": "861.49k",
+            "longFmt": "861,490"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.249,
+            "fmt": "0.25"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 634490,
+            "fmt": "634.49k",
+            "longFmt": "634,490"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "revenueGrowth": {
+            "raw": -0.103,
+            "fmt": "-10.30%"
+          },
+          "grossMargins": {
+            "raw": 0.66336995,
+            "fmt": "66.34%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.06317,
+            "fmt": "6.32%"
+          },
+          "profitMargins": {
+            "raw": 0.04596,
+            "fmt": "4.60%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "511196",
+"exchange" : "BOM",
+"id": "715410",
+"t" : "511196",
+"e" : "BOM",
+"name" : "Can Fin Homes Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:511196"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:511196"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:511196"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "20.43%",
+"annual" : "17.40%",
+"ttm" : "19.74%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "28.46%",
+"annual" : "27.30%",
+"ttm" : "29.67%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "27.53%",
+"ttm" : "29.89%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.94%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "24.06%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "471",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+14.65",
+"l" : "538.05",
+"cp" : "2.80",
+"ccol" : "chg",
+"op" : "530.00",
+"hi" : "540.00",
+"lo" : "525.95",
+"vo" : "106,682.00",
+"avvo" : "",
+"hi52" : "3,333.00",
+"lo52" : "403.90",
+"mc" : "71.30B",
+"pe" : "24.10",
+"fwpe" : "",
+"beta" : "",
+"eps" : "22.33",
+"dy" : "0.37",
+"ldiv" : "2.00",
+"shares" : "133.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715410",
+"name" : "Can Fin Homes Ltd",
+"t" : "511196",
+"e" : "BOM",
+"l" : "538.05",
+"c" : "+14.65",
+"mc" : "71.30B",
+"cp" : "2.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8061848",
+"name" : "Sahara Housingfina Corporation Ltd",
+"t" : "511533",
+"e" : "BOM",
+"l" : "67.00",
+"c" : "-1.10",
+"mc" : "469.00M",
+"cp" : "-1.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5185141",
+"name" : "GRUH Finance Ltd.",
+"t" : "GRUH",
+"e" : "NSE",
+"l" : "543.00",
+"c" : "-3.40",
+"mc" : "199.25B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4074094",
+"name" : "Dewan Housing Finance Corporation Ltd.",
+"t" : "DHFL",
+"e" : "NSE",
+"l" : "581.30",
+"c" : "+5.00",
+"mc" : "182.74B",
+"cp" : "0.87",
+"ccol" : "chg"
+}
+,
+{
+"id" : "557538143932497",
+"name" : "MAS Financial Services Ltd",
+"t" : "MASFIN",
+"e" : "NSE",
+"l" : "597.05",
+"c" : "-3.95",
+"mc" : "32.64B",
+"cp" : "-0.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3287224",
+"name" : "Paisalo Digital Ltd",
+"t" : "PAISALO",
+"e" : "NSE",
+"l" : "297.50",
+"c" : "-3.15",
+"mc" : "12.02B",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "598086412202235",
+"name" : "SRG Securities Finance Ltd",
+"t" : "536710",
+"e" : "BOM",
+"l" : "42.50",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12485388",
+"name" : "Bajaj Finance Ltd",
+"t" : "BAJFINANCE",
+"e" : "NSE",
+"l" : "1,674.00",
+"c" : "+40.60",
+"mc" : "967.10B",
+"cp" : "2.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11784956",
+"name" : "Mahindra \u0026 Mahindra Fin. Services Ltd.",
+"t" : "M\u0026MFIN",
+"e" : "NSE",
+"l" : "445.75",
+"c" : "+4.40",
+"mc" : "274.84B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "399986380824131",
+"name" : "SRS Finance Ltd",
+"t" : "536799",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "-0.04",
+"mc" : "93.22M",
+"cp" : "-4.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "809162493859917",
+"name" : "Muthoot Capital Services Ltd",
+"t" : "MUTHOOTCAP",
+"e" : "NSE",
+"l" : "764.80",
+"c" : "+15.35",
+"mc" : "12.62B",
+"cp" : "2.05",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "No. 29\u002F1 1st Floor Sir. M N Krishna Rao Road, Lalbagh West Basavanagudi, BANGALORE, 560004, India",
+"phone": "+91-80-26564259",
+"fax": "+91-80-26565746",
+"url": "http:\u002F\u002Fwww.canfinhomes.com",
+"overview" : "Can Fin Homes Ltd. is a housing finance company. The Company offers housing loan to individuals\u003B housing loan to builders\u002Fdevelopers, and loan against property. Its loan portfolio includes housing loans and non-housing loans. Its housing loan products include individual home loans and various schemes related to the construction or purchasing of properties. Its non-housing loans include mortgage loans, loans against commercial property, site loans, personal loans, flexi-lap and commercial housing loans. The Company accepts deposits from the public, including fixed deposit and cumulative deposit. Under both types, it has general scheme, the senior citizen scheme and trust deposit scheme. Its deposits include Fixed Deposit Scheme for Senior Citizens, Cumulative Deposit Scheme for Senior Citizens, CanFin Trust Fixed Deposit Scheme and CanFin Trust Cumulative Deposit Scheme. It has approximately 170 branches\u002Fsatellite offices distributed across over 19 States\u002FUnion Territories of India."
+} ]
+, "management" : [
+{
+"name" : "Atanu Bagchi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Veena G. Kamath",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sarada Kumar Hota",
+"title" : "Managing Director, Additional Whole-time Director"
+}
+,
+{
+"name" : "K. S. Sathyaprakash",
+"title" : "Assistant General Manager, Company Secretary"
+}
+,
+{
+"name" : "M. Shamila",
+"title" : "Deputy General Manager"
+}
+,
+{
+"name" : "A. Madhukar",
+"title" : "Chief Manager"
+}
+,
+{
+"name" : "Jagadeesha Acharya",
+"title" : "Chief Manager"
+}
+,
+{
+"name" : "N. Babu",
+"title" : "Assistant General Manager"
+}
+,
+{
+"name" : "Prashanth Joishy",
+"title" : "Chief Manager"
+}
+,
+{
+"name" : "A Uthaya Kumar",
+"title" : "Chief Manager"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,295 @@
+
+ [
+{
+"symbol" : "532656",
+"exchange" : "BOM",
+"id": "873220",
+"t" : "532656",
+"e" : "BOM",
+"name" : "Facor Alloys Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=FALY.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532656"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532656"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532656"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.44%",
+"annual" : "-6.06%",
+"ttm" : "1.51%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.90%",
+"annual" : "4.37%",
+"ttm" : "2.41%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.33%",
+"ttm" : "5.64%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-3.39%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-7.85%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "623",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.13",
+"l" : "3.11",
+"cp" : "-4.01",
+"ccol" : "chr",
+"op" : "3.37",
+"hi" : "3.37",
+"lo" : "3.08",
+"vo" : "263,138.00",
+"avvo" : "",
+"hi52" : "6.24",
+"lo52" : "2.95",
+"mc" : "602.57M",
+"pe" : "10.56",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.29",
+"dy" : "",
+"ldiv" : "",
+"shares" : "195.55M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "873220",
+"name" : "Facor Alloys Ltd",
+"t" : "532656",
+"e" : "BOM",
+"l" : "3.11",
+"c" : "-0.13",
+"mc" : "602.57M",
+"cp" : "-4.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "723443",
+"name" : "Balasore Alloys Limited",
+"t" : "513142",
+"e" : "BOM",
+"l" : "71.85",
+"c" : "+1.85",
+"mc" : "6.35B",
+"cp" : "2.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4775461",
+"name" : "Indsil Hydro Power and Manganese Ltd",
+"t" : "522165",
+"e" : "BOM",
+"l" : "189.00",
+"c" : "+1.10",
+"mc" : "3.00B",
+"cp" : "0.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12486337",
+"name" : "VBC Ferro Alloys Limited",
+"t" : "513005",
+"e" : "BOM",
+"l" : "38.75",
+"c" : "-0.25",
+"mc" : "170.28M",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1773100",
+"name" : "VBC Industries Ltd",
+"t" : "524310",
+"e" : "BOM",
+"l" : "2.30",
+"c" : "+0.06",
+"mc" : "98.20M",
+"cp" : "2.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8646041",
+"name" : "INDIAN METALS \u0026 FERRO ALLOYS LTD",
+"t" : "IMFA",
+"e" : "NSE",
+"l" : "596.00",
+"c" : "+2.95",
+"mc" : "16.08B",
+"cp" : "0.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7713642",
+"name" : "Maithan Alloys Ltd",
+"t" : "MAITHANALL",
+"e" : "NSE",
+"l" : "949.90",
+"c" : "-8.70",
+"mc" : "27.61B",
+"cp" : "-0.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "62133",
+"name" : "Metkore Alloys \u0026 Industries Ltd",
+"t" : "METKORE",
+"e" : "NSE",
+"l" : "3.55",
+"c" : "-0.15",
+"mc" : "250.01M",
+"cp" : "-4.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3132786",
+"name" : "Impex Ferro Tech Ltd",
+"t" : "IMPEXFERRO",
+"e" : "NSE",
+"l" : "1.20",
+"c" : "+0.05",
+"mc" : "105.52M",
+"cp" : "4.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "108737",
+"name" : "Nagpur Power And Industries Ltd",
+"t" : "532362",
+"e" : "BOM",
+"l" : "39.00",
+"c" : "+1.65",
+"mc" : "508.68M",
+"cp" : "4.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5394407",
+"name" : "Visa Steel Limited",
+"t" : "VISASTEEL",
+"e" : "NSE",
+"l" : "18.40",
+"c" : "-0.55",
+"mc" : "2.13B",
+"cp" : "-2.90",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Shreeram Bhawan Tumsar, Main Road Bhandara, TUMSAR, 441912, India",
+"phone": "+91-7183-232233",
+"fax": "+91-7183-232271",
+"url": "http:\u002F\u002Fwww.facorgroup.in\u002F",
+"overview" : "Facor Alloys Limited is an India-based holding company. The Company is engaged in the manufacture and sale of Ferro alloys and Ferro chrome. The Company produces and exports Ferro alloys products. The Company\u0027s product is used in the manufacture of Steel\u002FStainless Steel. The Company caters to both domestic and international markets. The Company has the capacity to produce 72,500 metric tons of ferro alloys per annum. The Company\u0027s plant is located at Shreeramnagar, Andhra Pradesh. The Company\u0027s subsidiaries include Best Minerals Limited, FAL Power Ventures Pvt. Ltd., Facor Electric Ltd., Facor Minerals Pte. Limited, Facor Minerals (Netherlands) B.V., Facor Turkkrom Mining (Netherlands) B.V. and Cati Madencilik Ithalat ve Ihracat A.S."
+} ]
+, "management" : [
+{
+"name" : "R. K. Saraf",
+"age" : "70",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "M. S.S. Sarma",
+"title" : "Chief Executive"
+}
+,
+{
+"name" : "Dinesh Sardana",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "S. S. Sharma",
+"title" : "Compliance Officer, Company Secretary, General Manager - Legal"
+}
+,
+{
+"name" : "Ashim Saraf",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Yogesh Saraf",
+"age" : "54",
+"title" : "Joint Managing Director"
+}
+,
+{
+"name" : "D. K. Pareek",
+"title" : "Director - Projects"
+}
+,
+{
+"name" : "O. P. Saraswat",
+"title" : "Deputy Chief Financial Officer"
+}
+,
+{
+"name" : "Urmila Gupta",
+"title" : "Additional Woman Director"
+}
+,
+{
+"name" : "Anurag Saraf",
+"age" : "46",
+"title" : "Additional Director"
+}
+]
+,"moreresources" : [
+]
+}]

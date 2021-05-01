@@ -1,0 +1,70 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {},
+          "enterpriseValue": {},
+          "forwardPE": {},
+          "profitMargins": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {},
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "beta3Year": {
+            "raw": 0.97,
+            "fmt": "0.97"
+          },
+          "totalAssets": {},
+          "yield": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "fundFamily": "ICICI Prudential Asset Management Company Limited",
+          "fundInceptionDate": {
+            "raw": 1363737600,
+            "fmt": "2013-03-20"
+          },
+          "legalType": "Exchange Traded Fund",
+          "threeYearAverageReturn": {
+            "raw": -0.0066000004,
+            "fmt": "-0.66%"
+          },
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {},
+          "nextFiscalYearEnd": {},
+          "mostRecentQuarter": {},
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {},
+          "trailingEps": {},
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {},
+          "enterpriseToEbitda": {},
+          "52WeekChange": {},
+          "SandP52WeekChange": {},
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "longBusinessSummary": "The investment objective of the scheme is to provide returns before expenses that closely correspond to the total return of the Underlying Index, subject to tracking errors. However, there can be no assurance or guarantee that the investment objective of the Scheme would be achieved.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        }
+      }
+    ],
+    "error": null
+  }
+}

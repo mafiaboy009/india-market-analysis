@@ -1,0 +1,277 @@
+
+// [
+{
+"symbol" : "590024",
+"exchange" : "BOM",
+"id": "679453",
+"t" : "590024",
+"e" : "BOM",
+"name" : "Fertilisers \u0026 Chemicals Travancore Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:590024"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:590024"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:590024"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002715)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-22.80%",
+"annual" : "-10.65%",
+"ttm" : "-18.83%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-11.20%",
+"annual" : "5.26%",
+"ttm" : "-9.62%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.72%",
+"ttm" : "-8.80%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-12.23%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,180",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.45",
+"l" : "47.00",
+"cp" : "0.97",
+"ccol" : "chg",
+"op" : "46.75",
+"hi" : "47.55",
+"lo" : "46.00",
+"vo" : "11,118.00",
+"avvo" : "",
+"hi52" : "65.65",
+"lo52" : "32.85",
+"mc" : "30.12B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-5.76",
+"dy" : "",
+"ldiv" : "",
+"shares" : "647.07M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "679453",
+"name" : "Fertilisers \u0026 Chemicals Travancore Ltd",
+"t" : "590024",
+"e" : "BOM",
+"l" : "47.00",
+"c" : "+0.45",
+"mc" : "30.12B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12667846",
+"name" : "National Fertilizers Limited",
+"t" : "NFL",
+"e" : "NSE",
+"l" : "62.15",
+"c" : "+0.90",
+"mc" : "30.49B",
+"cp" : "1.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5808074",
+"name" : "Gujarat State Fertilizers\u0026Chemicals Ltd",
+"t" : "GSFC",
+"e" : "NSE",
+"l" : "131.25",
+"c" : "+3.05",
+"mc" : "52.28B",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1972906",
+"name" : "Gujarat Narmada Valley Fertlzrs\u0026Chms Ltd",
+"t" : "GNFC",
+"e" : "NSE",
+"l" : "447.20",
+"c" : "-2.80",
+"mc" : "69.57B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3822488",
+"name" : "Southern Petrochemical Industries Corp",
+"t" : "SPIC",
+"e" : "NSE",
+"l" : "38.35",
+"c" : "+0.25",
+"mc" : "7.80B",
+"cp" : "0.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7203464",
+"name" : "Basant Agro Tech India Ltd",
+"t" : "524687",
+"e" : "BOM",
+"l" : "7.35",
+"c" : "-0.01",
+"mc" : "671.59M",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14749686",
+"name" : "Aries Agro Ltd",
+"t" : "ARIES",
+"e" : "NSE",
+"l" : "223.15",
+"c" : "+10.60",
+"mc" : "2.88B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15660854",
+"name" : "Mangalore Chemicals \u0026 Fertilizers Ltd.",
+"t" : "MANGCHEFER",
+"e" : "NSE",
+"l" : "67.75",
+"c" : "-0.40",
+"mc" : "8.07B",
+"cp" : "-0.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8063379",
+"name" : "Nagarjuna Fertilizers and Chemicals Ltd",
+"t" : "NAGARFERT",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14596605",
+"name" : "Zuari Global Ltd",
+"t" : "ZUARIGLOB",
+"e" : "NSE",
+"l" : "195.00",
+"c" : "+4.85",
+"mc" : "5.75B",
+"cp" : "2.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14219066",
+"name" : "Rashtriya Chemicals \u0026 Fertilizers Ltd",
+"t" : "RCF",
+"e" : "NSE",
+"l" : "84.95",
+"c" : "+2.70",
+"mc" : "46.78B",
+"cp" : "3.28",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Eloor P. O., Udyogmanda, Alwaye, ERNAKULAM, 683501, India",
+"phone": "+91-484-2553355",
+"fax": "+91-484-2545475",
+"url": "http:\u002F\u002Fwww.fact.co.in\u002F",
+"overview" : "The Fertilisers and Chemicals Travancore Limited is engaged in manufacturing complex fertilizers and ammonium sulfate. The Company\u0027s segments include Fertiliser, Petrochemical and Others. The Company\u0027s products include fertilizers, such as straight fertilizers, fertilizer mixtures, chemicals and bio-fertilizers\u003B Caprolactam, which includes Nitric Acid and Soda Ash, Nitric Acid (55%), and Soda Ash (off grade)\u003B bio-fertilizer such as Rhizobium, Azospirillum, and Phosphobacter (Bacillus Magatherium), and byproducts. Its Udyogamandal Plants have an installed capacity of approximately 76,050 tons of nitrogen (N) and 29700 tons of Phosphorus pentoxide (P2O5). It also manufactures chemicals as intermediate products, such as Sulfuric acid, anhydrous ammonia, phosphoric acid, sulfur dioxide and oleum. Its Cochin division has production facility of over 485,000 tons-per-annum (TPA) of Complex Fertilizer, approximately 330,000 TPA of Sulfuric Acid and over 115,200 TPA of Phosphoric Acid."
+} ]
+, "management" : [
+{
+"name" : "Jaiveer Srivastava",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "P. Muthusamy",
+"title" : "Director - Finance, Director"
+}
+,
+{
+"name" : "V. Subramanian",
+"title" : "Director of Marketing"
+}
+,
+{
+"name" : "V. K. Anil",
+"title" : "Director - Technical, Director"
+}
+,
+{
+"name" : "K. V. Balakrishnan Nair",
+"title" : "Company Secretary, Compliance Officer"
+}
+,
+{
+"name" : "K. M. Gupta",
+"title" : "Director"
+}
+,
+{
+"name" : "S. K. Lohani",
+"title" : "Director"
+}
+]
+,"moreresources" : [
+]
+}]

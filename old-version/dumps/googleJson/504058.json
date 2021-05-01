@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "504058",
+"exchange" : "BOM",
+"id": "715427",
+"t" : "504058",
+"e" : "BOM",
+"name" : "Indo National Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:504058"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:504058"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:504058"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-2.36%",
+"annual" : "5.92%",
+"ttm" : "3.65%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.83%",
+"annual" : "6.01%",
+"ttm" : "4.57%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.11%",
+"ttm" : "6.66%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.02%",
+"ttm" : "5.01%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.16%",
+"ttm" : "8.41%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "377",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-4.85",
+"l" : "870.00",
+"cp" : "-0.55",
+"ccol" : "chr",
+"op" : "862.00",
+"hi" : "882.00",
+"lo" : "862.00",
+"vo" : "266.00",
+"avvo" : "",
+"hi52" : "1,148.00",
+"lo52" : "800.05",
+"mc" : "3.27B",
+"pe" : "23.02",
+"fwpe" : "",
+"beta" : "",
+"eps" : "37.79",
+"dy" : "2.87",
+"ldiv" : "25.00",
+"shares" : "3.75M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715427",
+"name" : "Indo National Ltd",
+"t" : "504058",
+"e" : "BOM",
+"l" : "870.00",
+"c" : "-4.85",
+"mc" : "3.27B",
+"cp" : "-0.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "687624",
+"name" : "Panasonic Energy India Co Ltd",
+"t" : "504093",
+"e" : "BOM",
+"l" : "369.75",
+"c" : "+17.60",
+"mc" : "2.78B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9034741",
+"name" : "Eveready Industries India Ltd",
+"t" : "EVEREADY",
+"e" : "NSE",
+"l" : "382.60",
+"c" : "+1.10",
+"mc" : "27.56B",
+"cp" : "0.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2893964",
+"name" : "High Energy Batteries (India) Ltd",
+"t" : "504176",
+"e" : "BOM",
+"l" : "494.90",
+"c" : "+8.95",
+"mc" : "887.15M",
+"cp" : "1.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8835592",
+"name" : "Exide Industries Ltd",
+"t" : "EXIDEIND",
+"e" : "NSE",
+"l" : "211.05",
+"c" : "+1.00",
+"mc" : "179.82B",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10694112",
+"name" : "HBL Power Systems Ltd",
+"t" : "HBLPOWER",
+"e" : "NSE",
+"l" : "56.75",
+"c" : "-0.55",
+"mc" : "15.70B",
+"cp" : "-0.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5296497",
+"name" : "ABB India Ltd",
+"t" : "ABB",
+"e" : "NSE",
+"l" : "1,520.00",
+"c" : "-3.25",
+"mc" : "321.75B",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3794094",
+"name" : "Elpro International Limited",
+"t" : "504000",
+"e" : "BOM",
+"l" : "51.05",
+"c" : "+0.95",
+"mc" : "6.95B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15274130",
+"name" : "Bharat Heavy Electricals Limited",
+"t" : "BHEL",
+"e" : "NSE",
+"l" : "93.30",
+"c" : "+0.40",
+"mc" : "342.73B",
+"cp" : "0.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6808496",
+"name" : "NEPC India Ltd",
+"t" : "NEPCMICON",
+"e" : "NSE",
+"l" : "1.40",
+"c" : "",
+"mc" : "97.11M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5467198",
+"name" : "Avanti Feeds Ltd",
+"t" : "AVANTIFEED",
+"e" : "NSE",
+"l" : "2,450.00",
+"c" : "+39.40",
+"mc" : "111.53B",
+"cp" : "1.63",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "New No.77, Pottipati Plaza, 4th Floor NH Road, Nungambakkam, CHENNAI, 600034, India",
+"phone": "+91-44-28272711",
+"fax": "+91-44-28272218",
+"url": "http:\u002F\u002Fwww.nippobatteries.com\u002F",
+"overview" : "Indo National Limited offers dry batteries, flashlights and others. The Company offers various products, including batteries, compact fluorescent lamp (CFL), power station, torches and emergency power backup range. It provides a range of zinc carbon\u002Fmanganese batteries in sizes, such as R6 (AA), R14 (C), R20 (D) and R3 (AAA). Its batteries include UM-4D Gold, UM-3D Gold, UM-2U Hyper, UM-3UH, UM-3UM and UM-3US. Its CFL has an in-built power stabilizer. The Company\u0027s CFL products include LILLIPUT 5W, BASICS 11W, CHAMPION 15W, WINNER 20W and TWISTER 23W. It provides a range of torches with light emitting diode (LED) technology. The Company also provides radium torches. It provides a range of emergency power backup range products, which are rechargeable using sealed lead acid batteries. The Company also offers rechargeable table fans. Its manufacturing plant is located at Tada Kandriga Village, Nellore, Andhra Pradesh."
+} ]
+, "management" : [
+{
+"name" : "M. Subramanyam",
+"age" : "51",
+"title" : "President"
+}
+,
+{
+"name" : "M. Sankara Reddy",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "J. Srinivasan",
+"title" : "Chief Compliance, Company Secretary"
+}
+,
+{
+"name" : "R. P. Khaitan",
+"age" : "66",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "P. Aditya Reddy",
+"title" : "Joint Managing Director, Director"
+}
+,
+{
+"name" : "P. Dwarakanath Reddy",
+"age" : "61",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "S. Obul Reddy",
+"age" : "53",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "N. Ramesh Rajan",
+"age" : "58",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Lakshmmi Subramanian",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

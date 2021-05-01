@@ -1,0 +1,287 @@
+
+ [
+{
+"symbol" : "532902",
+"exchange" : "BOM",
+"id": "716494",
+"t" : "532902",
+"e" : "BOM",
+"name" : "Consolidated Construction Consortium Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532902"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532902"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532902"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002709)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.76%",
+"annual" : "-26.85%",
+"ttm" : "3.93%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.07%",
+"annual" : "-5.35%",
+"ttm" : "6.00%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-2.51%",
+"ttm" : "7.12%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-10.47%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-465.83%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,245",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.03",
+"l" : "3.70",
+"cp" : "-0.80",
+"ccol" : "chr",
+"op" : "3.80",
+"hi" : "3.89",
+"lo" : "3.70",
+"vo" : "9,650.00",
+"avvo" : "",
+"hi52" : "10.38",
+"lo52" : "3.67",
+"mc" : "1.53B",
+"pe" : "0.93",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.96",
+"dy" : "",
+"ldiv" : "",
+"shares" : "398.51M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "716494",
+"name" : "Consolidated Construction Consortium Ltd",
+"t" : "532902",
+"e" : "BOM",
+"l" : "3.70",
+"c" : "-0.03",
+"mc" : "1.53B",
+"cp" : "-0.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9260292",
+"name" : "Ashoka Buildcon Ltd",
+"t" : "ASHOKA",
+"e" : "NSE",
+"l" : "270.15",
+"c" : "-2.15",
+"mc" : "52.15B",
+"cp" : "-0.79",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11777920",
+"name" : "Sobha Ltd",
+"t" : "SOBHA",
+"e" : "NSE",
+"l" : "533.15",
+"c" : "+0.10",
+"mc" : "50.77B",
+"cp" : "0.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7082343",
+"name" : "Ahluwalia Contracts India Ltd",
+"t" : "AHLUCONT",
+"e" : "NSE",
+"l" : "422.00",
+"c" : "+15.35",
+"mc" : "28.87B",
+"cp" : "3.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6864582",
+"name" : "Jaiprakash Associates Limited",
+"t" : "JPASSOCIAT",
+"e" : "NSE",
+"l" : "18.60",
+"c" : "-0.35",
+"mc" : "45.36B",
+"cp" : "-1.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12097295",
+"name" : "Inani Marbles And Industries Ltd",
+"t" : "531129",
+"e" : "BOM",
+"l" : "17.80",
+"c" : "-0.05",
+"mc" : "287.86M",
+"cp" : "-0.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7147901",
+"name" : "Keltech Energies Ltd",
+"t" : "506528",
+"e" : "BOM",
+"l" : "1,425.00",
+"c" : "-20.90",
+"mc" : "1.45B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16041857",
+"name" : "Sagar Cements Limited",
+"t" : "SAGCEM",
+"e" : "NSE",
+"l" : "958.00",
+"c" : "-10.25",
+"mc" : "19.56B",
+"cp" : "-1.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7995468",
+"name" : "HIL Ltd",
+"t" : "HIL",
+"e" : "NSE",
+"l" : "2,300.00",
+"c" : "-32.50",
+"mc" : "17.33B",
+"cp" : "-1.39",
+"ccol" : "chr"
+}
+,
+{
+"id" : "798674760234921",
+"name" : "Bigbloc Construction Ltd",
+"t" : "BIGBLOC",
+"e" : "NSE",
+"l" : "162.25",
+"c" : "-1.95",
+"mc" : "2.34B",
+"cp" : "-1.19",
+"ccol" : "chr"
+}
+,
+{
+"id" : "886563833317944",
+"name" : "Mohit Industries Ltd",
+"t" : "MOHITIND",
+"e" : "NSE",
+"l" : "26.85",
+"c" : "-0.45",
+"mc" : "387.79M",
+"cp" : "-1.65",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "No-5 2Nd Link Street, C.I.T Colony, Mylapore, CHENNAI, 600004, India",
+"phone": "+91-44-23454500",
+"fax": "+91-44-24990225",
+"url": "http:\u002F\u002Fwww.ccclindia.com\u002F",
+"overview" : "Consolidated Construction Consortium Limited offers construction services. The Company is engaged in construction design, engineering, procurement, construction and project management. The Company also provides construction allied services, such as mechanical and electrical, plumbing, firefighting, heating, ventilation and air conditioning, interior fit out services and glazing solutions. The Company also caters to the requirements of ready mix concrete, solid blocks and pre-cast items for clients. The Company\u0027s services include Construction, Engineering, Specialization, Project Management, Mechanical and Electrical Division, Consolidated Interiors Fit Out, Glazing Solutions, Building Products Division, Software Designs Department and Information Technology Department. The Company\u0027s projects include airports, biotech parks, commercial, convention center, factory\u002Findustry, green buildings, hospital, infrastructure, metro rails, projects abroad, residential, and resorts and hotels."
+} ]
+, "management" : [
+{
+"name" : "Ram Sarabeswar",
+"title" : "Executive Chairman of the Board, Chief Executive Officer"
+}
+,
+{
+"name" : "R. Siddharth",
+"title" : "Chief Financial Officer, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "S. Sivaramakrishnan",
+"title" : "Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "V G. Janarthanam",
+"title" : "Director - Operations, Whole Time Director"
+}
+,
+{
+"name" : "Ranjith Goswami",
+"title" : "Nominee Director"
+}
+,
+{
+"name" : "K. E. C. Rajakumar",
+"title" : "Non-Executive Director - Nominee of UTI Venture Funds Management Co Private Ltd"
+}
+,
+{
+"name" : "Ami Narayan",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Hastha Shivaramkrishnan",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "P. K. Aravindan",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

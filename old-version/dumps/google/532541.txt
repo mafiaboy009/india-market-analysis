@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "532541",
+"exchange" : "BOM",
+"id": "698224",
+"t" : "532541",
+"e" : "BOM",
+"name" : "NIIT Technologies Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532541"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532541"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532541"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.92%",
+"annual" : "9.71%",
+"ttm" : "10.81%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.44%",
+"annual" : "12.07%",
+"ttm" : "13.14%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "17.41%",
+"ttm" : "17.01%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "13.37%",
+"annual" : "11.40%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "17.71%",
+"annual" : "15.35%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "8,853",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.30",
+"l" : "831.25",
+"cp" : "-0.16",
+"ccol" : "chr",
+"op" : "840.00",
+"hi" : "842.40",
+"lo" : "820.80",
+"vo" : "44,008.00",
+"avvo" : "",
+"hi52" : "927.40",
+"lo52" : "401.10",
+"mc" : "50.84B",
+"pe" : "17.40",
+"fwpe" : "",
+"beta" : "",
+"eps" : "47.76",
+"dy" : "1.50",
+"ldiv" : "12.50",
+"shares" : "61.44M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "698224",
+"name" : "NIIT Technologies Ltd.",
+"t" : "532541",
+"e" : "BOM",
+"l" : "831.25",
+"c" : "-1.30",
+"mc" : "50.84B",
+"cp" : "-0.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14216516",
+"name" : "Spectacle Ventures Ltd",
+"t" : "SPECTACLE",
+"e" : "NSE",
+"l" : "1.40",
+"c" : "",
+"mc" : "72.03M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "11636624",
+"name" : "Zensar Technologies Limited",
+"t" : "ZENSARTECH",
+"e" : "NSE",
+"l" : "887.40",
+"c" : "-12.60",
+"mc" : "39.91B",
+"cp" : "-1.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11379576",
+"name" : "ASM Technologies Ltd",
+"t" : "526433",
+"e" : "BOM",
+"l" : "165.10",
+"c" : "-0.35",
+"mc" : "822.76M",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14304145",
+"name" : "KPIT Technologies Ltd",
+"t" : "KPIT",
+"e" : "NSE",
+"l" : "208.70",
+"c" : "+1.95",
+"mc" : "41.18B",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6285453",
+"name" : "Hexaware Technologies Limited",
+"t" : "HEXAWARE",
+"e" : "NSE",
+"l" : "343.55",
+"c" : "-8.60",
+"mc" : "102.36B",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2921175",
+"name" : "Cressanda Solutions Ltd",
+"t" : "512379",
+"e" : "BOM",
+"l" : "2.65",
+"c" : "0.00",
+"mc" : "804.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "675532",
+"name" : "Silverline Technologies Limited",
+"t" : "500389",
+"e" : "BOM",
+"l" : "2.19",
+"c" : "0.00",
+"mc" : "166.53M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "784961",
+"name" : "Tata Consultancy Services Limited",
+"t" : "TCS",
+"e" : "NSE",
+"l" : "3,025.60",
+"c" : "-50.20",
+"mc" : "5.79T",
+"cp" : "-1.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2245864",
+"name" : "Ranklin Solutions Limited",
+"t" : "RANKLIN",
+"e" : "NSE",
+"l" : "2.20",
+"c" : "",
+"mc" : "26.49M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "16418426",
+"name" : "Datamatics Global Services Ltd",
+"t" : "DATAMATICS",
+"e" : "NSE",
+"l" : "128.60",
+"c" : "+0.40",
+"mc" : "7.61B",
+"cp" : "0.31",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Plot No Tz-2 \u0026 2A, Sector Tech Zone, NOIDA, 201301, India",
+"phone": "+91-120-3999555",
+"fax": "+91-11-41407120",
+"url": "https:\u002F\u002Fwww.niit-tech.com\u002F",
+"overview" : "NIIT Technologies Limited is an information technology (IT) solutions company. The Company is engaged in providing computer programming consultancy and related activities. It is engaged in providing application development and maintenance, managed services, cloud computing and business process outsourcing to organizations in various sectors, such as financial services\u003B insurance\u003B travel\u003B transportation and logistics\u003B manufacturing and distribution\u003B media, and government. It offers various services, which include infrastructure management services (IMS), business process services, system integration and package implementation, intellectual property (IP) asset-based solutions and digital services. It offers various software products, which include AdvantageSuite, COSYS and MonaLisa. Its AdvantageSuite consists of various business components, such as Navigator, Exact and Implementation Framework Suite. Its digital services include digital analytics and digital integration."
+} ]
+, "management" : [
+{
+"name" : "Rajendra Singh Pawar",
+"age" : "64",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sudhir Singh",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Arvind Thakur",
+"age" : "59",
+"title" : "Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Amit Kumar Garg",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Lalit Kumar Sharma",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vijay Kumar Thadani",
+"age" : "61",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Holly Jane Morris",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ashwani Puri",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Amit D. Sharma",
+"age" : "66",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Surendra Singh",
+"age" : "78",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

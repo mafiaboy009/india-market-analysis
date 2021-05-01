@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "533192",
+"exchange" : "BOM",
+"id": "16063766",
+"t" : "533192",
+"e" : "BOM",
+"name" : "KCP Sugar and Industries Corp. Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533192"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533192"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533192"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "7.68%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "11.19%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.39%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.36%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.54%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "931",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.45",
+"l" : "27.45",
+"cp" : "-1.61",
+"ccol" : "chr",
+"op" : "28.00",
+"hi" : "28.30",
+"lo" : "27.45",
+"vo" : "11,674.00",
+"avvo" : "",
+"hi52" : "40.55",
+"lo52" : "25.40",
+"mc" : "3.09B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "3.28",
+"ldiv" : "0.90",
+"shares" : "113.39M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "16063766",
+"name" : "KCP Sugar and Industries Corp. Ltd.",
+"t" : "533192",
+"e" : "BOM",
+"l" : "27.45",
+"c" : "-0.45",
+"mc" : "3.09B",
+"cp" : "-1.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715557",
+"name" : "Jeypore Sugar Company Ltd",
+"t" : "590054",
+"e" : "BOM",
+"l" : "48.70",
+"c" : "",
+"mc" : "220.83M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13114484",
+"name" : "Simbhaoli Sugars Ltd.",
+"t" : "SIMBHSUGAR",
+"e" : "NSE",
+"l" : "28.60",
+"c" : "",
+"mc" : "807.34M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8902314",
+"name" : "Kesar Enterprises Ltd",
+"t" : "KESARENT",
+"e" : "NSE",
+"l" : "57.95",
+"c" : "-1.15",
+"mc" : "578.73M",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9561274",
+"name" : "Mawana Sugars Ltd",
+"t" : "MAWANASUG",
+"e" : "NSE",
+"l" : "61.20",
+"c" : "-0.80",
+"mc" : "2.39B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12704717",
+"name" : "Shree Renuka Sugars Limited",
+"t" : "RENUKA",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "-0.25",
+"mc" : "14.89B",
+"cp" : "-1.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10038828",
+"name" : "Balrampur Chini Mills Ltd",
+"t" : "BALRAMCHIN",
+"e" : "NSE",
+"l" : "117.90",
+"c" : "+1.50",
+"mc" : "27.66B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4677011",
+"name" : "Thiru Arooran Sugars Ltd.",
+"t" : "THIRUSUGAR",
+"e" : "NSE",
+"l" : "42.50",
+"c" : "-0.70",
+"mc" : "482.08M",
+"cp" : "-1.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16030878",
+"name" : "Gayatri Sugars Ltd",
+"t" : "532183",
+"e" : "BOM",
+"l" : "10.51",
+"c" : "-0.01",
+"mc" : "472.81M",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1055947744768384",
+"name" : "Avadh Sugar \u0026 Energy Ltd",
+"t" : "AVADHSUGAR",
+"e" : "NSE",
+"l" : "679.70",
+"c" : "-6.50",
+"mc" : "6.73B",
+"cp" : "-0.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "446680211750339",
+"name" : "Magadh Sugar \u0026 Energy Ltd",
+"t" : "MAGADSUGAR",
+"e" : "NSE",
+"l" : "168.25",
+"c" : "+3.25",
+"mc" : "1.69B",
+"cp" : "1.97",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "\u0022Ramakrishna Buildings\u0022, 239, Anna Salai, CHENNAI, 600006, India",
+"phone": "+91-44-28555171",
+"fax": "+91-44-28546617",
+"url": "http:\u002F\u002Fwww.kcpsugar.com\u002F",
+"overview" : "K.C.P. Sugar and Industries Corporation Limited is an India-based sugar manufacturing company. The Company\u0027s principal products\u002Fservices include Sugar and Industrial Alcohol. The Company\u0027s segments include Sugar, Chemicals, Power \u0026 Fuel, Engineering and Others. The Company\u0027s geographical segments include Sales within India and Sales outside India. The Company is also in the business of manufacturing and marketing of Rectified Spirit, Extra Neutral Alcohol, Ethanol, Incidental Cogeneration of Power, Organic Manure, Mycorrhiza Vam, Calcium Lactate and Carbon Dioxide (CO2). The Company offers various products, which include Sugar, Molasses, Bagasse, Industrial Alcohol, Anhydrous Alcohol, Bio Fertilizer, Electrical Energy and Steam. The Company has two sugar factories located in Krishna District Andhra Pradesh having an aggregate crushing capacity of 11,500 tons per day. The Company\u0027s subsidiaries include The Eimco-K.C.P.Limited and KCP Sugars Agricultural Research Farms Limited."
+} ]
+, "management" : [
+{
+"name" : "Vinod Rajindranath Sethi",
+"age" : "55",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "R. Ganesan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "S. Chidambaram",
+"title" : "Compliance Officer, General Manager - Finance, Company Secretary"
+}
+,
+{
+"name" : "Irmgard Velagapudi M. Rao",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Velagapudi Kiran Rao",
+"age" : "47",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Prathap K. Moturi",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "K. R. Adivarahan",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vithal Rajan",
+"title" : "Non-Wholetime Independent Director"
+}
+,
+{
+"name" : "M. S. V. M. Rao",
+"title" : "Non-Wholetime Independent Director"
+}
+,
+{
+"name" : "Ranvir R. Shah",
+"title" : "Non-Wholetime Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,293 @@
+
+// [
+{
+"symbol" : "533482",
+"exchange" : "BOM",
+"id": "11781383",
+"t" : "533482",
+"e" : "BOM",
+"name" : "Kridhan Infra Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KRID.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533482"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533482"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533482"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.58%",
+"annual" : "24.76%",
+"ttm" : "8.28%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.39%",
+"annual" : "24.28%",
+"ttm" : "7.66%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "32.25%",
+"ttm" : "30.85%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "24.20%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "40.85%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "36",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.00",
+"l" : "114.95",
+"cp" : "0.88",
+"ccol" : "chg",
+"op" : "115.05",
+"hi" : "116.00",
+"lo" : "113.60",
+"vo" : "40,816.00",
+"avvo" : "",
+"hi52" : "142.00",
+"lo52" : "47.50",
+"mc" : "10.02B",
+"pe" : "16.28",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.06",
+"dy" : "0.17",
+"ldiv" : "0.20",
+"shares" : "87.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11781383",
+"name" : "Kridhan Infra Ltd",
+"t" : "533482",
+"e" : "BOM",
+"l" : "114.95",
+"c" : "+1.00",
+"mc" : "10.02B",
+"cp" : "0.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13928461",
+"name" : "Garg Furnace Ltd",
+"t" : "530615",
+"e" : "BOM",
+"l" : "10.69",
+"c" : "+0.08",
+"mc" : "42.53M",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715304",
+"name" : "Panchmahal Steel Ltd.",
+"t" : "513511",
+"e" : "BOM",
+"l" : "51.95",
+"c" : "-0.95",
+"mc" : "991.12M",
+"cp" : "-1.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2932378",
+"name" : "Karma Industries Ltd",
+"t" : "512585",
+"e" : "BOM",
+"l" : "0.36",
+"c" : "0.00",
+"mc" : "11.95M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "206274286125410",
+"name" : "Mideast Integrated Steels Ltd",
+"t" : "540744",
+"e" : "BOM",
+"l" : "64.55",
+"c" : "+3.05",
+"mc" : "8.77B",
+"cp" : "4.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4455929",
+"name" : "Ramsarup Industries Ltd.",
+"t" : "RAMSARUP",
+"e" : "NSE",
+"l" : "1.75",
+"c" : "0.00",
+"mc" : "61.39M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6782803",
+"name" : "Usha Martin Limited",
+"t" : "USHAMART",
+"e" : "NSE",
+"l" : "23.80",
+"c" : "+0.70",
+"mc" : "7.19B",
+"cp" : "3.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11539104",
+"name" : "Tata Steel Limited",
+"t" : "TATASTEEL",
+"e" : "NSE",
+"l" : "681.40",
+"c" : "+3.65",
+"mc" : "769.66B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8244066",
+"name" : "Bedmutha Industries Limited",
+"t" : "BEDMUTHA",
+"e" : "NSE",
+"l" : "23.50",
+"c" : "-0.10",
+"mc" : "578.95M",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15391558",
+"name" : "Kamdhenu Ltd",
+"t" : "KAMDHENU",
+"e" : "NSE",
+"l" : "266.85",
+"c" : "+12.70",
+"mc" : "6.24B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15519942",
+"name" : "Vallabh Steels Ltd",
+"t" : "513397",
+"e" : "BOM",
+"l" : "29.95",
+"c" : "-1.55",
+"mc" : "148.25M",
+"cp" : "-4.92",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "203, Joshi Chambers Ahmedabad Street Masjid (East), MUMBAI, 400093, India",
+"phone": "+91-22-40589589",
+"fax": "+91-22-40529599",
+"url": "http:\u002F\u002Fwww.kridhan.com\u002F",
+"overview" : "Kridhan Infra Limited is an India-based holding company. The Company operates as an engineering company, which provides pre-cut\u002Fbend bars (readymade steel bars) from 6 millimeters (mm) to 40 mm diameter\u003B coupler, which is used to join two rebars of the same mechanical splice, and concrete piles, bored and cast-in place using dry and wet boring methods based on ground conditions enabling installation of larger diameter piles and permit construction through particularly stiff or hard soil. Its segments include India and outside India. The Company provides mechanical splicing (couplers) and threading solutions in India. Its services include bored piling for construction of large buildings\u003B driven piling\u003B micro piling for low-rise buildings, such as residential housing\u003B soil improvement through addition of sand, and soil investigation to assess the suitability of soil for proposed construction. It has operations in Singapore, Myanmar, Malaysia and other South East Asian countries."
+} ]
+, "management" : [
+{
+"name" : "Anil Dhanpat Agrawal",
+"age" : "41",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Ashok Goyal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ravindra Havaldar",
+"title" : "President - Foundation Engineering, KH Foges India"
+}
+,
+{
+"name" : "Thong Yeo Siang",
+"title" : "Chief Executive Officer of KH Foges Pte Ltd."
+}
+,
+{
+"name" : "Jyoti Gade",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Subodh Sharma",
+"title" : "Additional Executive Director"
+}
+,
+{
+"name" : "BOON HAI ANG",
+"title" : "Director of KH Foges Pte."
+}
+,
+{
+"name" : "LEE YG",
+"title" : "Director - PSL Engineering"
+}
+,
+{
+"name" : "Nikki Agrawal",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shekhar Bhuwania",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

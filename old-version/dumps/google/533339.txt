@@ -1,0 +1,285 @@
+
+// [
+{
+"symbol" : "533339",
+"exchange" : "BOM",
+"id": "706009",
+"t" : "533339",
+"e" : "BOM",
+"name" : "Zen Technologies Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ZETE.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533339"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533339"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533339"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "11.63%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "12.52%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "18.42%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.58%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.18%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "242",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.65",
+"l" : "118.50",
+"cp" : "0.55",
+"ccol" : "chg",
+"op" : "120.25",
+"hi" : "121.45",
+"lo" : "117.95",
+"vo" : "29,464.00",
+"avvo" : "",
+"hi52" : "158.10",
+"lo52" : "46.45",
+"mc" : "9.16B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "0.13",
+"ldiv" : "0.15",
+"shares" : "77.16M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "706009",
+"name" : "Zen Technologies Limited",
+"t" : "533339",
+"e" : "BOM",
+"l" : "118.50",
+"c" : "+0.65",
+"mc" : "9.16B",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715459",
+"name" : "Ion Exchange (India) Ltd",
+"t" : "500214",
+"e" : "BOM",
+"l" : "505.00",
+"c" : "+2.80",
+"mc" : "7.41B",
+"cp" : "0.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16571496",
+"name" : "Sika Interplant Systems Ltd",
+"t" : "523606",
+"e" : "BOM",
+"l" : "169.95",
+"c" : "+0.95",
+"mc" : "720.62M",
+"cp" : "0.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9762029",
+"name" : "Timken India Limited",
+"t" : "TIMKEN",
+"e" : "NSE",
+"l" : "802.00",
+"c" : "-18.80",
+"mc" : "54.79B",
+"cp" : "-2.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715420",
+"name" : "Batliboi Ltd.",
+"t" : "522004",
+"e" : "BOM",
+"l" : "28.50",
+"c" : "-1.50",
+"mc" : "818.40M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4593144",
+"name" : "Bharat Electronics Ltd",
+"t" : "BEL",
+"e" : "NSE",
+"l" : "155.45",
+"c" : "+4.50",
+"mc" : "381.18B",
+"cp" : "2.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10827648",
+"name" : "Revathi Equipment Ltd",
+"t" : "REVATHI",
+"e" : "NSE",
+"l" : "634.00",
+"c" : "-1.80",
+"mc" : "2.00B",
+"cp" : "-0.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13914119",
+"name" : "Triveni Engineering \u0026 Industries Ltd.",
+"t" : "TRIVENI",
+"e" : "NSE",
+"l" : "63.45",
+"c" : "-0.40",
+"mc" : "16.38B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5500303",
+"name" : "Tata Chemicals Limited (Parent)",
+"t" : "TATACHEM",
+"e" : "NSE",
+"l" : "712.00",
+"c" : "+5.25",
+"mc" : "181.63B",
+"cp" : "0.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722568",
+"name" : "Bright Brothers Limited",
+"t" : "526731",
+"e" : "BOM",
+"l" : "102.50",
+"c" : "+2.65",
+"mc" : "582.22M",
+"cp" : "2.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "772878317585412",
+"name" : "Jash Engineering Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "B-42, INDUSTRIAL ESTATE, SANATHNAGAR, HYDERABAD, 500018, India",
+"phone": "+91-40-23812894",
+"fax": "+91-40-23813694",
+"url": "http:\u002F\u002Fwww.zentechnologies.com\u002F",
+"overview" : "Zen Technologies Limited is engaged in the design, development and manufacture of training simulators. The Company offers its products to police and paramilitary forces, armed forces, security forces, government departments, such as transport, mining, infrastructure and civilian markets. The Company\u0027s products are divided into three categories: Land-based Military Simulators, Driving Simulators, and Mining \u0026 Special Equipment Simulators. Its products include Zen Advanced Weapon Simulator (Zen AWeSim), Zen Small Arms Training Simulator-SL (Zen SATS), Zen Hand Grenade Simulator (Zen HE36S), Zen Driving Training Simulator (Zen DTS), Zen BMP-II Driving Simulator (Zen BMP-II DS), Zen Artillery Forward Observer Simulator (Zen ArtyFOS), Zen Driving Simulator (Zen DS) \u0026 Zen Automated Driving Simulator (ZEN ADS), Zen Tactical Engagement Simulator (Zen TacSim), Zen Anti-Tank Guided Missile Simulator (Zen ATGM Sim) and Zen 81mm Mortar Integrated Simulator (Zen 81mm MIS), among others."
+} ]
+, "management" : [
+{
+"name" : "Ashok Atluri",
+"age" : "47",
+"title" : "Executive Chairman of the Board, Compliance Officer, Managing Director"
+}
+,
+{
+"name" : "Kishore Dutt Atluri",
+"title" : "President"
+}
+,
+{
+"name" : "N. Ramesh Kumar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "M Satish Choudhury",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Y. Padmavathy",
+"title" : "Assistant General Manager - Finance and Accounts"
+}
+,
+{
+"name" : "Midathala Ravi Kumar",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Amreek Singh Sandhu",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Gajjala Prasad",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Madati Sridevi",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

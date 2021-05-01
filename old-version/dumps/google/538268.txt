@@ -1,0 +1,298 @@
+
+// [
+{
+"symbol" : "538268",
+"exchange" : "BOM",
+"id": "124103849113499",
+"t" : "538268",
+"e" : "BOM",
+"name" : "Wonderla Holidays Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:538268"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:538268"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:538268"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.24%",
+"annual" : "12.23%",
+"ttm" : "13.83%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.53%",
+"annual" : "16.34%",
+"ttm" : "18.25%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "27.19%",
+"ttm" : "30.24%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.78%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.88%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "685",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+4.10",
+"l" : "382.75",
+"cp" : "1.08",
+"ccol" : "chg",
+"op" : "375.60",
+"hi" : "383.00",
+"lo" : "375.60",
+"vo" : "731.00",
+"avvo" : "",
+"hi52" : "424.40",
+"lo52" : "330.00",
+"mc" : "21.51B",
+"pe" : "56.40",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.79",
+"dy" : "0.26",
+"ldiv" : "1.00",
+"shares" : "56.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "124103849113499",
+"name" : "Wonderla Holidays Ltd",
+"t" : "538268",
+"e" : "BOM",
+"l" : "382.75",
+"c" : "+4.10",
+"mc" : "21.51B",
+"cp" : "1.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13465125",
+"name" : "Nicco Parks \u0026 Resorts Ltd",
+"t" : "526721",
+"e" : "BOM",
+"l" : "39.00",
+"c" : "+0.75",
+"mc" : "1.84B",
+"cp" : "1.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "498527690082554",
+"name" : "Adlabs Entertainment Ltd",
+"t" : "ADLABS",
+"e" : "NSE",
+"l" : "56.50",
+"c" : "-0.80",
+"mc" : "4.99B",
+"cp" : "-1.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715433",
+"name" : "Galaxy Entertainment Corp Ltd",
+"t" : "506186",
+"e" : "BOM",
+"l" : "22.50",
+"c" : "+0.50",
+"mc" : "567.66M",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15628",
+"name" : "Cineline India Ltd",
+"t" : "CINELINE",
+"e" : "NSE",
+"l" : "84.90",
+"c" : "+0.70",
+"mc" : "2.36B",
+"cp" : "0.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12769402",
+"name" : "PVR Limited",
+"t" : "PVR",
+"e" : "NSE",
+"l" : "1,360.00",
+"c" : "-10.15",
+"mc" : "63.80B",
+"cp" : "-0.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6531183",
+"name" : "T. Spiritual World Ltd",
+"t" : "532444",
+"e" : "BOM",
+"l" : "0.72",
+"c" : "0.00",
+"mc" : "14.40M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12313755",
+"name" : "Delta Corp Ltd",
+"t" : "DELTACORP",
+"e" : "NSE",
+"l" : "367.50",
+"c" : "+1.60",
+"mc" : "97.84B",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15979287",
+"name" : "H.S.India Ltd",
+"t" : "532145",
+"e" : "BOM",
+"l" : "10.20",
+"c" : "-0.06",
+"mc" : "166.61M",
+"cp" : "-0.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12107747",
+"name" : "Viceroy Hotels Ltd.",
+"t" : "VICEROY",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "+0.05",
+"mc" : "674.26M",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "704049",
+"name" : "B.L. Kashyap and Sons Limited",
+"t" : "BLKASHYAP",
+"e" : "NSE",
+"l" : "45.30",
+"c" : "+0.05",
+"mc" : "9.71B",
+"cp" : "0.11",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Jadenahalli Hejjala, 28th KM, Mysore Road, BANGALORE, 562109, India",
+"phone": "+91-80-22010311",
+"fax": "+91-80-22010324",
+"url": "http:\u002F\u002Fwww.wonderla.com\u002F",
+"overview" : "Wonderla Holidays Limited is engaged in the business of amusement parks and resorts. The Company\u0027s segments include Amusement park, Resort and Others. The Company operates approximately three amusement parks in Kochi, Bangalore and Hyderabad under the brand name Wonderla. Wonderla Bangalore is spread across approximately 80 acres and has over 60 thrill packed rides offering entertainment and fun for all age groups. Wonderla Hyderabad offers package for all the age groups with its approximately 25 land-based rides and approximately 20 water-based attractions. Wonderla Kochi is spread over approximately 90 acres of landscaped space. The Company offers water rides, restaurants, family rides, kids rides and high thrill rides. The Wonderla resort in Bangalore offers a range of facilities, including swimming pool, a gym, recreational room, kid\u0027s activity room and banquet halls. It also offers executive rooms, deluxe rooms and suites rooms."
+} ]
+, "management" : [
+{
+"name" : "George Joseph",
+"age" : "68",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "N. Nandakumar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Srinivasulu Raju Y",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "M. A. Ravikumar",
+"age" : "49",
+"title" : "General Manager - Administration"
+}
+,
+{
+"name" : "A. G. Ajikrishnan",
+"age" : "40",
+"title" : "Deputy General Manager - Technical"
+}
+,
+{
+"name" : "Arun Kochouseph Chittilappilly",
+"age" : "35",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Priya Sarah Cheeran Joseph",
+"age" : "37",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "P. R. Unni",
+"age" : "39",
+"title" : "Chief Manager - Finance and Accounts"
+}
+,
+{
+"name" : "R. Lakshminarayanan",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Gopal Srinivasan",
+"title" : "Additional Director"
+}
+]
+,"moreresources" : [
+]
+}]

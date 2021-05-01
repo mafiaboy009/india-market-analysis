@@ -1,0 +1,283 @@
+
+// [
+{
+"symbol" : "532869",
+"exchange" : "BOM",
+"id": "712986",
+"t" : "532869",
+"e" : "BOM",
+"name" : "Tarmat Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532869"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532869"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532869"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.14%",
+"annual" : "0.04%",
+"ttm" : "0.78%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.71%",
+"annual" : "-0.67%",
+"ttm" : "-2.27%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.29%",
+"ttm" : "0.46%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.02%",
+"ttm" : "0.39%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.09%",
+"ttm" : "1.89%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "570",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.15",
+"l" : "60.50",
+"cp" : "-0.25",
+"ccol" : "chr",
+"op" : "61.00",
+"hi" : "61.45",
+"lo" : "59.75",
+"vo" : "5,186.00",
+"avvo" : "",
+"hi52" : "83.45",
+"lo52" : "30.00",
+"mc" : "663.68M",
+"pe" : "93.36",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.65",
+"dy" : "",
+"ldiv" : "",
+"shares" : "10.96M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "712986",
+"name" : "Tarmat Ltd",
+"t" : "532869",
+"e" : "BOM",
+"l" : "60.50",
+"c" : "-0.15",
+"mc" : "663.68M",
+"cp" : "-0.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12019677",
+"name" : "Gayatri Projects Ltd",
+"t" : "GAYAPROJ",
+"e" : "NSE",
+"l" : "212.00",
+"c" : "-0.95",
+"mc" : "37.86B",
+"cp" : "-0.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10219186",
+"name" : "Tantia Constructions Limited",
+"t" : "TANTIACONS",
+"e" : "NSE",
+"l" : "15.30",
+"c" : "-0.55",
+"mc" : "439.75M",
+"cp" : "-3.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6114347",
+"name" : "Valecha Engineering Limited",
+"t" : "VALECHAENG",
+"e" : "NSE",
+"l" : "19.20",
+"c" : "",
+"mc" : "432.58M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7738070",
+"name" : "Globus Power Generation Ltd",
+"t" : "526025",
+"e" : "BOM",
+"l" : "12.16",
+"c" : "0.00",
+"mc" : "1.20B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13129157",
+"name" : "RPP Infra Projects Ltd",
+"t" : "RPPINFRA",
+"e" : "NSE",
+"l" : "295.00",
+"c" : "-0.50",
+"mc" : "6.68B",
+"cp" : "-0.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9676982",
+"name" : "Scope Industries (India) Limited",
+"t" : "531886",
+"e" : "BOM",
+"l" : "1.52",
+"c" : "0.00",
+"mc" : "16.63M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9179965",
+"name" : "Jog Engineering Ltd",
+"t" : "507942",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5058013",
+"name" : "Supreme Infrastructure India Limited",
+"t" : "SUPREMEINF",
+"e" : "NSE",
+"l" : "84.95",
+"c" : "-9.25",
+"mc" : "2.19B",
+"cp" : "-9.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16542269",
+"name" : "Punj Lloyd Limited",
+"t" : "PUNJLLOYD",
+"e" : "NSE",
+"l" : "20.45",
+"c" : "-0.20",
+"mc" : "6.85B",
+"cp" : "-0.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "609615356326218",
+"name" : "Rkec Projects Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "A.K General Vaidya Marg Film City Road, Goregaon (East), NAVI MUMBAI, 400705, India",
+"phone": "+91-22-28402130",
+"fax": "+91-22-28400322",
+"url": "http:\u002F\u002Fwww.tarmatlimited.com\u002F",
+"overview" : "Tarmat Limited is an infrastructure construction company engaged in the business of construction of highways and runways. The Company is also engaged in the construction and maintenance of roads, rail beds, bridges, tunnels and pipeline. The Company is specialized in the construction of airfield and national\u002Fstate highways all over India. It includes construction of heavy duty parking bays at Bangalore International Airport\u003B construction of airport runway, taxiway, apron, approach road and peripheral road, among others at Gulbarga and Shimoga\u003B recarpeting of Main Runway at Gwalior and Awantipur Airports\u003B four laning project of Napgur-Hyderabad National Highway, and construction of internal roads for Sai Sansthan Trust, Shirdi, among others. It provides engineering, procurement and construction (EPC) services for infrastructure projects. The Company has operations spread across the states of Maharashtra, Tamilnadu, Karnataka, Kerala, Mizoram, Gujarat and Delhi."
+} ]
+, "management" : [
+{
+"name" : "Jerry Varghese",
+"age" : "63",
+"title" : "Non-Independent Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Anindya Mitra",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Dilip Varghese",
+"age" : "29",
+"title" : "Non-Independent Executive Director"
+}
+,
+{
+"name" : "Saramma Varghese",
+"age" : "57",
+"title" : "Non-Independent Executive Director"
+}
+,
+{
+"name" : "Shivatosh Chakraborty",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "C. S. Sanghavi",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Pratul Dubey",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Ramesh Chander Gupta",
+"age" : "68",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,289 @@
+
+ [
+{
+"symbol" : "518091",
+"exchange" : "BOM",
+"id": "4519199",
+"t" : "518091",
+"e" : "BOM",
+"name" : "Anjani Portland Cement Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ANCM.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:518091"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:518091"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:518091"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.64%",
+"annual" : "12.46%",
+"ttm" : "7.19%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.76%",
+"annual" : "18.08%",
+"ttm" : "11.83%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "22.82%",
+"ttm" : "16.81%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "14.10%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "30.79%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "301",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+6.90",
+"l" : "198.40",
+"cp" : "3.60",
+"ccol" : "chg",
+"op" : "198.40",
+"hi" : "208.90",
+"lo" : "192.25",
+"vo" : "1,933.00",
+"avvo" : "",
+"hi52" : "294.00",
+"lo52" : "181.00",
+"mc" : "5.05B",
+"pe" : "17.34",
+"fwpe" : "",
+"beta" : "",
+"eps" : "11.44",
+"dy" : "0.50",
+"ldiv" : "1.00",
+"shares" : "25.29M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "4519199",
+"name" : "Anjani Portland Cement Ltd",
+"t" : "518091",
+"e" : "BOM",
+"l" : "198.40",
+"c" : "+6.90",
+"mc" : "5.05B",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11984485",
+"name" : "India Cements Ltd",
+"t" : "INDIACEM",
+"e" : "NSE",
+"l" : "160.85",
+"c" : "+2.80",
+"mc" : "49.57B",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6118813",
+"name" : "Deccan Cements Ltd.",
+"t" : "DECCANCE",
+"e" : "NSE",
+"l" : "574.00",
+"c" : "-2.70",
+"mc" : "7.97B",
+"cp" : "-0.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "714540",
+"name" : "Panyam Cements \u0026 Mineral Industries Ltd.",
+"t" : "500322",
+"e" : "BOM",
+"l" : "47.70",
+"c" : "-0.85",
+"mc" : "803.45M",
+"cp" : "-1.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14274367",
+"name" : "Keerthi Industries Ltd",
+"t" : "518011",
+"e" : "BOM",
+"l" : "135.00",
+"c" : "+5.05",
+"mc" : "1.09B",
+"cp" : "3.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3242375",
+"name" : "Sanghi Industries Ltd.",
+"t" : "SANGHIIND",
+"e" : "NSE",
+"l" : "120.50",
+"c" : "+5.50",
+"mc" : "26.70B",
+"cp" : "4.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6078754",
+"name" : "Kakatiya Cement Sugar And Industries Ltd",
+"t" : "KAKATCEM",
+"e" : "NSE",
+"l" : "298.00",
+"c" : "+3.65",
+"mc" : "2.33B",
+"cp" : "1.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705329",
+"name" : "Bheema Cements Ltd",
+"t" : "518017",
+"e" : "BOM",
+"l" : "9.10",
+"c" : "0.00",
+"mc" : "250.73M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715550",
+"name" : "Shree Digvijay Cement Company Ltd.",
+"t" : "502180",
+"e" : "BOM",
+"l" : "25.60",
+"c" : "-0.35",
+"mc" : "3.61B",
+"cp" : "-1.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3770372",
+"name" : "JK Lakshmi Cement Limited",
+"t" : "JKLAKSHMI",
+"e" : "NSE",
+"l" : "433.55",
+"c" : "+7.75",
+"mc" : "51.24B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "788239923246036",
+"name" : "Roofit Industries Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Sitha Nilayam 153 DWARAKAPURI COLONY,PUNJAGUTTA Andhara Pradesh,HYDERABAD, HYDERABAD, 500082, India",
+"phone": "+91-40-23353096",
+"fax": "+91-40-23353093",
+"url": "http:\u002F\u002Fwww.anjanicement.com\u002F",
+"overview" : "Anjani Portland Cement Limited is engaged in manufacturing and sale of cement. The Company offers products, including Ordinary Portland Cement (OPC) 53 Grade and 43 Grade\u003B Portland Pozolona Cement (PPC), and Rapid Hardening Portland Cement (RHPC). The Company\u0027s manufacturing plant is located at Nalgonda District, Telangana, which has a production capacity of approximately 1.2 million tons per annum. The Company owns limestone mines. The Company\u0027s products are used for various applications in plain and reinforced cement concrete, masonry and plastering\u003B for bridge piers\u003B pre-stressed girders and electric poles, concrete pipes\u003B per-cast, pre-stressed, slip formed concrete\u003B tall building and structures\u003B for cement concrete roads\u003B for structural repairs and grouting\u003B pre-stressed works, precast element, bridges, atomic power stations, railway sleepers and dams, and commercial building, industrial construction, multi- storied complexes, cement concrete roads and heavy duty floors."
+} ]
+, "management" : [
+{
+"name" : "S. V. S. Shetty",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "M. L. Kumavat",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "S. N. Raju",
+"title" : "Senior Vice President - Operations"
+}
+,
+{
+"name" : "M. B. Suneel",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Gandhi Raju",
+"title" : "Vice President - Marketing"
+}
+,
+{
+"name" : "A. Subramanian",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "D. V. Subba Raju",
+"title" : "General Manager - Electrical \u0026 Instrumentation"
+}
+,
+{
+"name" : "K. V. Gopala Raju",
+"title" : "General Manager - Purchase"
+}
+,
+{
+"name" : "P. Ganapathi Raju",
+"title" : "Senior General Manager - Q. A"
+}
+,
+{
+"name" : "P. Satyanarayana Raju",
+"title" : "Group General Manager - HR \u0026 MS"
+}
+]
+,"moreresources" : [
+]
+}]

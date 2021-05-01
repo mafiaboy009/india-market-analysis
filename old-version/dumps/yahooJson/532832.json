@@ -1,0 +1,395 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 168037744640,
+            "fmt": "168.04B",
+            "longFmt": "168,037,744,640"
+          },
+          "forwardPE": {
+            "raw": 18.192772,
+            "fmt": "18.19"
+          },
+          "profitMargins": {
+            "raw": 0.10303,
+            "fmt": "10.30%"
+          },
+          "floatShares": {
+            "raw": 247285971,
+            "fmt": "247.29M",
+            "longFmt": "247,285,971"
+          },
+          "sharesOutstanding": {
+            "raw": 474673984,
+            "fmt": "474.67M",
+            "longFmt": "474,673,984"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 2.039287,
+            "fmt": "2.04"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 112.924,
+            "fmt": "112.92"
+          },
+          "priceToBook": {
+            "raw": 1.7383373,
+            "fmt": "1.74"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.457,
+            "fmt": "45.70%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 4467105792,
+            "fmt": "4.47B",
+            "longFmt": "4,467,105,792"
+          },
+          "trailingEps": {
+            "raw": 9.56,
+            "fmt": "9.56"
+          },
+          "forwardEps": {
+            "raw": 10.79,
+            "fmt": "10.79"
+          },
+          "pegRatio": {
+            "raw": 1.78,
+            "fmt": "1.78"
+          },
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 3.876,
+            "fmt": "3.88"
+          },
+          "enterpriseToEbitda": {
+            "raw": 16.363,
+            "fmt": "16.36"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2016",
+                "actual": {
+                  "raw": 1.23,
+                  "fmt": "1.23"
+                },
+                "estimate": {
+                  "raw": 1.41,
+                  "fmt": "1.41"
+                }
+              },
+              {
+                "date": "4Q2016",
+                "actual": {
+                  "raw": 1.26,
+                  "fmt": "1.26"
+                },
+                "estimate": {
+                  "raw": 2.11,
+                  "fmt": "2.11"
+                }
+              },
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 1.79,
+                  "fmt": "1.79"
+                },
+                "estimate": {
+                  "raw": 1.6,
+                  "fmt": "1.60"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 17362413295,
+                  "fmt": "17.36B",
+                  "longFmt": "17,362,413,295"
+                },
+                "earnings": {
+                  "raw": 2238444205,
+                  "fmt": "2.24B",
+                  "longFmt": "2,238,444,205"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 26411258728,
+                  "fmt": "26.41B",
+                  "longFmt": "26,411,258,728"
+                },
+                "earnings": {
+                  "raw": 2480811352,
+                  "fmt": "2.48B",
+                  "longFmt": "2,480,811,352"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 29594523000,
+                  "fmt": "29.59B",
+                  "longFmt": "29,594,523,000"
+                },
+                "earnings": {
+                  "raw": 2960639000,
+                  "fmt": "2.96B",
+                  "longFmt": "2,960,639,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 23203439000,
+                  "fmt": "23.2B",
+                  "longFmt": "23,203,439,000"
+                },
+                "earnings": {
+                  "raw": 3968913000,
+                  "fmt": "3.97B",
+                  "longFmt": "3,968,913,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 4370268000,
+                  "fmt": "4.37B",
+                  "longFmt": "4,370,268,000"
+                },
+                "earnings": {
+                  "raw": 798654000,
+                  "fmt": "798.65M",
+                  "longFmt": "798,654,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 10768221000,
+                  "fmt": "10.77B",
+                  "longFmt": "10,768,221,000"
+                },
+                "earnings": {
+                  "raw": 1730854000,
+                  "fmt": "1.73B",
+                  "longFmt": "1,730,854,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 7215818000,
+                  "fmt": "7.22B",
+                  "longFmt": "7,215,818,000"
+                },
+                "earnings": {
+                  "raw": 1084451000,
+                  "fmt": "1.08B",
+                  "longFmt": "1,084,451,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 21001298000,
+                  "fmt": "21B",
+                  "longFmt": "21,001,298,000"
+                },
+                "earnings": {
+                  "raw": 853450000,
+                  "fmt": "853.45M",
+                  "longFmt": "853,450,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Indiabulls House",
+          "address2": "Phase-V 448-451, Udyog Vihar",
+          "city": "Gurgaon",
+          "zip": "122001",
+          "country": "India",
+          "phone": "91 12 4668 2850",
+          "website": "http://realestate.indiabulls.com",
+          "industry": "Property Management",
+          "sector": "Financial",
+          "longBusinessSummary": "Indiabulls Real Estate Limited operates as a real estate company in India. It operates through two segments, Real Estate and Rental. The company is involved in the purchase, sale, construction, and development of real estate projects, as well as other related activities; and provision of real estate project advisory services. Its project portfolio includes residential and commercial properties. Indiabulls Real Estate Limited was incorporated in 2006 and is headquartered in Gurgaon, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 196.3,
+            "fmt": "196.30"
+          },
+          "targetHighPrice": {
+            "raw": 311.0,
+            "fmt": "311.00"
+          },
+          "targetLowPrice": {
+            "raw": 235.0,
+            "fmt": "235.00"
+          },
+          "targetMeanPrice": {
+            "raw": 273.0,
+            "fmt": "273.00"
+          },
+          "targetMedianPrice": {
+            "raw": 273.0,
+            "fmt": "273.00"
+          },
+          "recommendationMean": {
+            "raw": 1.5,
+            "fmt": "1.50"
+          },
+          "recommendationKey": "strong_buy",
+          "numberOfAnalystOpinions": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "totalCash": {
+            "raw": 21681471488,
+            "fmt": "21.68B",
+            "longFmt": "21,681,471,488"
+          },
+          "totalCashPerShare": {
+            "raw": 46.49,
+            "fmt": "46.49"
+          },
+          "ebitda": {
+            "raw": 10269520896,
+            "fmt": "10.27B",
+            "longFmt": "10,269,520,896"
+          },
+          "totalDebt": {
+            "raw": 93927612416,
+            "fmt": "93.93B",
+            "longFmt": "93,927,612,416"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 43355607040,
+            "fmt": "43.36B",
+            "longFmt": "43,355,607,040"
+          },
+          "debtToEquity": {
+            "raw": 161.327,
+            "fmt": "161.33"
+          },
+          "revenuePerShare": {
+            "raw": 93.88,
+            "fmt": "93.88"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 10449748000,
+            "fmt": "10.45B",
+            "longFmt": "10,449,748,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.429,
+            "fmt": "42.90%"
+          },
+          "revenueGrowth": {
+            "raw": 5.994,
+            "fmt": "599.40%"
+          },
+          "grossMargins": {
+            "raw": 0.35384,
+            "fmt": "35.38%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.23687,
+            "fmt": "23.69%"
+          },
+          "operatingMargins": {
+            "raw": 0.22007999,
+            "fmt": "22.01%"
+          },
+          "profitMargins": {
+            "raw": 0.10303,
+            "fmt": "10.30%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

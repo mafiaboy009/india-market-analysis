@@ -1,0 +1,285 @@
+
+// [
+{
+"symbol" : "520066",
+"exchange" : "BOM",
+"id": "715480",
+"t" : "520066",
+"e" : "BOM",
+"name" : "Jay Bharat Maruti Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:520066"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:520066"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:520066"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.22%",
+"annual" : "3.10%",
+"ttm" : "3.31%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.61%",
+"annual" : "5.29%",
+"ttm" : "5.51%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.68%",
+"ttm" : "8.05%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.39%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "19.30%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,600",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+4.85",
+"l" : "472.30",
+"cp" : "1.04",
+"ccol" : "chg",
+"op" : "474.80",
+"hi" : "480.00",
+"lo" : "470.10",
+"vo" : "3,106.00",
+"avvo" : "",
+"hi52" : "748.75",
+"lo52" : "359.40",
+"mc" : "10.15B",
+"pe" : "16.62",
+"fwpe" : "",
+"beta" : "",
+"eps" : "28.42",
+"dy" : "0.53",
+"ldiv" : "2.50",
+"shares" : "21.65M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715480",
+"name" : "Jay Bharat Maruti Ltd",
+"t" : "520066",
+"e" : "BOM",
+"l" : "472.30",
+"c" : "+4.85",
+"mc" : "10.15B",
+"cp" : "1.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13301226",
+"name" : "Gujarat Automotive Gears Ltd",
+"t" : "505712",
+"e" : "BOM",
+"l" : "290.00",
+"c" : "-11.25",
+"mc" : "507.50M",
+"cp" : "-3.73",
+"ccol" : "chr"
+}
+,
+{
+"id" : "447821",
+"name" : "Bharat Gears Ltd",
+"t" : "BHARATGEAR",
+"e" : "NSE",
+"l" : "197.30",
+"c" : "+2.50",
+"mc" : "1.60B",
+"cp" : "1.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8317119",
+"name" : "Clutch Auto Limited",
+"t" : "CLUTCHAUTO",
+"e" : "NSE",
+"l" : "10.65",
+"c" : "",
+"mc" : "199.78M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "2467700",
+"name" : "Hi-Tech Gears Ltd",
+"t" : "HITECHGEAR",
+"e" : "NSE",
+"l" : "440.00",
+"c" : "-4.45",
+"mc" : "8.27B",
+"cp" : "-1.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1197334",
+"name" : "Automotive Axles Ltd.",
+"t" : "AUTOAXLES",
+"e" : "NSE",
+"l" : "1,545.00",
+"c" : "+1.05",
+"mc" : "23.41B",
+"cp" : "0.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "665058605573895",
+"name" : "GNA Axles Ltd",
+"t" : "GNA",
+"e" : "NSE",
+"l" : "439.95",
+"c" : "+17.05",
+"mc" : "9.45B",
+"cp" : "4.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715810",
+"name" : "Setco Automotive Limited",
+"t" : "505075",
+"e" : "BOM",
+"l" : "61.85",
+"c" : "-0.85",
+"mc" : "8.19B",
+"cp" : "-1.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "677050",
+"name" : "Kinetic Engineering Ltd",
+"t" : "500240",
+"e" : "BOM",
+"l" : "78.50",
+"c" : "-1.65",
+"mc" : "1.30B",
+"cp" : "-2.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "669157847594233",
+"name" : "Talbros Engineering Ltd",
+"t" : "538987",
+"e" : "BOM",
+"l" : "324.00",
+"c" : "-2.80",
+"mc" : "1.63B",
+"cp" : "-0.86",
+"ccol" : "chr"
+}
+,
+{
+"id" : "606235793258688",
+"name" : "SAR Auto Products Ltd",
+"t" : "538992",
+"e" : "BOM",
+"l" : "173.90",
+"c" : "-3.05",
+"mc" : "828.59M",
+"cp" : "-1.72",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Plot No. 9 Institutional Area, Sector -44, GURGAON, 110019, India",
+"phone": "+91-124-4674500",
+"fax": "+91-11-26427100",
+"url": "http:\u002F\u002Fwww.jbm-group.com\u002Findex.asp",
+"overview" : "Jay Bharat Maruti Limited is engaged in manufacturing of sheet metal components, welded assemblies, exhaust systems, fuel fillers (fuel pipe), chassis and suspension parts, and components for automobiles. The Company also offers rear axles. The Company\u0027s products also include assemblies and sub assemblies, muffler assemblies, fuel neck, and dies and tools. The Company has a total supply of approximately 128,000 parts per day. The Company\u0027s plants are located at Plot No. 5, Maruti Joint Venture Complex, Gurgaon, Haryana\u003B Sector 36, Mohammadpur Jharsa, Near Khandsa Village, Gurgaon, Haryana\u003B Plot No. 15 and 22, Sector 3A, Maruti Supplier Park, IMT Manesar, Gurgaon, Haryana, and Plot No. 322, Sector -3, Phase - II, Bawal, Haryana. The Company\u0027s operational facilities include stamping, welding, fuel pipe manufacturing, die manufacturing, painting and plating. The Company\u0027s plants also have coordinate measuring rules and other quality control\u002Fassurance related equipment."
+} ]
+, "management" : [
+{
+"name" : "S. K. Arya",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Anand Swaroop",
+"title" : "President, Chief Financial Officer"
+}
+,
+{
+"name" : "Ravi Arora",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Esha Arya",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rajiv Gandhi",
+"title" : "Additional Director - Nominee of Maruti Suzuki India Limited"
+}
+,
+{
+"name" : "Nishant Arya",
+"age" : "28",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Dharmpal P. Agarwal",
+"age" : "66",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Uday Chand Agarwal",
+"age" : "86",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

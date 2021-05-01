@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "515055",
+"exchange" : "BOM",
+"id": "703870",
+"t" : "515055",
+"e" : "BOM",
+"name" : "Anant Raj Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:515055"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:515055"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:515055"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "12.44%",
+"annual" : "14.34%",
+"ttm" : "10.05%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "22.80%",
+"annual" : "24.34%",
+"ttm" : "20.51%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "30.22%",
+"ttm" : "26.14%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.03%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.84%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "309",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.10",
+"l" : "58.55",
+"cp" : "1.91",
+"ccol" : "chg",
+"op" : "58.15",
+"hi" : "59.30",
+"lo" : "57.40",
+"vo" : "164,619.00",
+"avvo" : "",
+"hi52" : "84.95",
+"lo52" : "43.00",
+"mc" : "17.23B",
+"pe" : "30.15",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.94",
+"dy" : "0.41",
+"ldiv" : "0.24",
+"shares" : "295.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703870",
+"name" : "Anant Raj Ltd",
+"t" : "515055",
+"e" : "BOM",
+"l" : "58.55",
+"c" : "+1.10",
+"mc" : "17.23B",
+"cp" : "1.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9400569",
+"name" : "Prerna Infrabuild Ltd",
+"t" : "531802",
+"e" : "BOM",
+"l" : "19.40",
+"c" : "+0.70",
+"mc" : "229.94M",
+"cp" : "3.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7988690",
+"name" : "Mahindra Lifespace Developers Ltd.",
+"t" : "MAHLIFE",
+"e" : "NSE",
+"l" : "459.50",
+"c" : "+6.20",
+"mc" : "23.60B",
+"cp" : "1.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14341079",
+"name" : "Radhe Developers (India) Ltd",
+"t" : "531273",
+"e" : "BOM",
+"l" : "19.80",
+"c" : "-1.55",
+"mc" : "498.56M",
+"cp" : "-7.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "403607444213289",
+"name" : "Unishire Urban Infra Ltd",
+"t" : "537582",
+"e" : "BOM",
+"l" : "9.29",
+"c" : "+0.02",
+"mc" : "",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715281",
+"name" : "Lancor Holdings Ltd",
+"t" : "509048",
+"e" : "BOM",
+"l" : "30.70",
+"c" : "+0.95",
+"mc" : "1.25B",
+"cp" : "3.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10573490",
+"name" : "Hubtown Ltd",
+"t" : "HUBTOWN",
+"e" : "NSE",
+"l" : "93.75",
+"c" : "+5.95",
+"mc" : "6.83B",
+"cp" : "6.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15672667",
+"name" : "Sunteck Realty Ltd",
+"t" : "SUNTECK",
+"e" : "NSE",
+"l" : "413.50",
+"c" : "+14.40",
+"mc" : "60.49B",
+"cp" : "3.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15183829",
+"name" : "Omaxe Ltd",
+"t" : "OMAXE",
+"e" : "NSE",
+"l" : "225.60",
+"c" : "+0.35",
+"mc" : "41.26B",
+"cp" : "0.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6559289",
+"name" : "Newtime Infrastructure Ltd",
+"t" : "531959",
+"e" : "BOM",
+"l" : "22.15",
+"c" : "0.00",
+"mc" : "3.61B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5820065",
+"name" : "Unitech Limited",
+"t" : "UNITECH",
+"e" : "NSE",
+"l" : "7.40",
+"c" : "+0.25",
+"mc" : "19.36B",
+"cp" : "3.50",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "E-2, ARA Center, Jhandewalan Extn., NEW DELHI, 110055, India",
+"phone": "+91-11-41540070",
+"fax": "+91-11-43559111",
+"url": "http:\u002F\u002Fwww.anantraj.com",
+"overview" : "Anant Raj Limited is a real estate company. The Company is engaged in the business of construction and real estate development. The Company is involved in real estate activities with own or leased property. The Company is engaged in development and construction of information and technology parks, hospitality projects, special economic zones, office complexes, shopping malls and residential projects in the State of Delhi, Haryana, Rajasthan and the National Capital Region. Its residential projects include Residential Development Maceo, Gurgaon, and Residential Development Madelia, Manesar. Its hotel properties include Hotel Mapple Emerald, Hotel Parkland Retreat and Hotel Parkland Exotica. Its marquee residential project is Anant Raj Estate at Sector 63A, which is located in south Gurgaon. The project is spread over 175 acres with a total developable area of approximately six million square feet and consists of villas, plots, residential flats and independent floors."
+} ]
+, "management" : [
+{
+"name" : "Amit Sarin",
+"age" : "43",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "Navneet Singh",
+"title" : "President - Admin. \u0026 Marketing"
+}
+,
+{
+"name" : "Aman Sarin",
+"age" : "39",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Amar Sarin",
+"age" : "30",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Ashim Sarin",
+"age" : "37",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Baldev Raj Sikka",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Manoj Pahwa",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anil Mahindra",
+"title" : "Vice President - Land"
+}
+,
+{
+"name" : "Anil Sarin",
+"age" : "62",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Omi Chand",
+"title" : "Senior General Manager - Accounts and Finance"
+}
+]
+,"moreresources" : [
+]
+}]

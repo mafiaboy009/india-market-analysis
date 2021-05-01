@@ -1,0 +1,283 @@
+
+ [
+{
+"symbol" : "517544",
+"exchange" : "BOM",
+"id": "703971",
+"t" : "517544",
+"e" : "BOM",
+"name" : "Centum Electronics Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:517544"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:517544"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:517544"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.31%",
+"annual" : "4.21%",
+"ttm" : "4.21%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.78%",
+"annual" : "3.47%",
+"ttm" : "3.37%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.33%",
+"ttm" : "7.22%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.85%",
+"ttm" : "4.85%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.91%",
+"ttm" : "14.91%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,142",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-10.40",
+"l" : "601.00",
+"cp" : "-1.70",
+"ccol" : "chr",
+"op" : "623.70",
+"hi" : "623.70",
+"lo" : "596.40",
+"vo" : "167.00",
+"avvo" : "",
+"hi52" : "793.10",
+"lo52" : "530.00",
+"mc" : "7.63B",
+"pe" : "25.41",
+"fwpe" : "",
+"beta" : "",
+"eps" : "23.65",
+"dy" : "0.17",
+"ldiv" : "1.00",
+"shares" : "12.85M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703971",
+"name" : "Centum Electronics Ltd.",
+"t" : "517544",
+"e" : "BOM",
+"l" : "601.00",
+"c" : "-10.40",
+"mc" : "7.63B",
+"cp" : "-1.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "317640247297234",
+"name" : "Advance Metering Technology Ltd",
+"t" : "534612",
+"e" : "BOM",
+"l" : "23.65",
+"c" : "-0.15",
+"mc" : "376.59M",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3481324",
+"name" : "Artech Power \u0026 Trading Ltd",
+"t" : "517481",
+"e" : "BOM",
+"l" : "6.71",
+"c" : "-0.35",
+"mc" : "99.57M",
+"cp" : "-4.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1485515",
+"name" : "Nelco Limited",
+"t" : "NELCO",
+"e" : "NSE",
+"l" : "175.80",
+"c" : "+15.95",
+"mc" : "4.02B",
+"cp" : "9.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9868297",
+"name" : "Shervani Industrial Syndicate Ltd",
+"t" : "526117",
+"e" : "BOM",
+"l" : "659.00",
+"c" : "+21.50",
+"mc" : "2.12B",
+"cp" : "3.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "972414768222215",
+"name" : "Tejas Networks Ltd",
+"t" : "TEJASNET",
+"e" : "NSE",
+"l" : "347.75",
+"c" : "-6.55",
+"mc" : "31.53B",
+"cp" : "-1.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13038617",
+"name" : "Genus Power Infrastructures Ltd.",
+"t" : "GENUSPOWER",
+"e" : "NSE",
+"l" : "66.65",
+"c" : "-0.40",
+"mc" : "17.09B",
+"cp" : "-0.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8328773",
+"name" : "Shyam Telecom Limited",
+"t" : "SHYAMTEL",
+"e" : "NSE",
+"l" : "12.50",
+"c" : "0.00",
+"mc" : "140.88M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2758225",
+"name" : "IMP Powers Ltd",
+"t" : "INDLMETER",
+"e" : "NSE",
+"l" : "103.95",
+"c" : "-0.85",
+"mc" : "898.63M",
+"cp" : "-0.81",
+"ccol" : "chr"
+}
+,
+{
+"id" : "858203315732753",
+"name" : "RMC Switchgears Ltd",
+"t" : "540358",
+"e" : "BOM",
+"l" : "71.00",
+"c" : "0.00",
+"mc" : "361.55M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "108737",
+"name" : "Nagpur Power And Industries Ltd",
+"t" : "532362",
+"e" : "BOM",
+"l" : "39.00",
+"c" : "+1.65",
+"mc" : "508.68M",
+"cp" : "4.42",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "No: 44 KHB Industrial Area, Yelahanka New Town, BANGALORE, 560106, India",
+"phone": "+91-80-41436000",
+"fax": "+91-80-41436005",
+"url": "http:\u002F\u002Fwww.centumindia.com\u002F",
+"overview" : "Centum Electronics Limited is an electronics company. The Company designs and exports electronic products in the analog, digital, mixed signal, radio frequency and microelectronics domains. It operates through Electronic System Design and Manufacturing (ESDM) segment. It is primarily involved in the manufacture of Advanced Microelectronics Modules, Frequency Control Products, Printed Circuit Board Assembly (PCBA) and Resistor Networks catering to the communications, military, aerospace and industrial electronics markets. It also offers a range of manufacturing and test solutions, including box builds, system integration, PCBA and electromechanical assemblies. Its services include design services, electronics manufacturing solutions and mechanical solutions. Its defense products include Laser Receivers, Electronic Delay Units, Missile Interface Units, Onboard Computers and Microelectronics Products. Its space products include Sun Sensors, Earth Sensors and Reaction Wheel Controllers."
+} ]
+, "management" : [
+{
+"name" : "Apparao V. Mallavarapu",
+"age" : "54",
+"title" : "Executive Non Independent Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "K S Desikan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ramu Akkili",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Swarnalatha Mallavarpu",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Thiruvengadam P.",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "S. Krishnan",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rajiv C. Mody",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Manoj Nagrath",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

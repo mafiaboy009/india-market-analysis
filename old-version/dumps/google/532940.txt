@@ -1,0 +1,299 @@
+
+// [
+{
+"symbol" : "532940",
+"exchange" : "BOM",
+"id": "719396",
+"t" : "532940",
+"e" : "BOM",
+"name" : "J Kumar Infraprojects Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532940"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532940"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532940"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.28%",
+"annual" : "6.71%",
+"ttm" : "6.37%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.58%",
+"annual" : "12.34%",
+"ttm" : "12.95%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.88%",
+"ttm" : "16.34%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.41%",
+"ttm" : "5.12%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.88%",
+"ttm" : "9.19%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,429",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-7.35",
+"l" : "324.25",
+"cp" : "-2.22",
+"ccol" : "chr",
+"op" : "338.00",
+"hi" : "338.00",
+"lo" : "322.00",
+"vo" : "7,109.00",
+"avvo" : "",
+"hi52" : "375.00",
+"lo52" : "181.60",
+"mc" : "24.67B",
+"pe" : "23.35",
+"fwpe" : "",
+"beta" : "",
+"eps" : "13.89",
+"dy" : "0.62",
+"ldiv" : "2.00",
+"shares" : "75.67M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "719396",
+"name" : "J Kumar Infraprojects Ltd",
+"t" : "532940",
+"e" : "BOM",
+"l" : "324.25",
+"c" : "-7.35",
+"mc" : "24.67B",
+"cp" : "-2.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9179965",
+"name" : "Jog Engineering Ltd",
+"t" : "507942",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10219186",
+"name" : "Tantia Constructions Limited",
+"t" : "TANTIACONS",
+"e" : "NSE",
+"l" : "15.30",
+"c" : "-0.55",
+"mc" : "439.75M",
+"cp" : "-3.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13060364",
+"name" : "Il\u0026Fs Engineering \u0026 Construction Co Ltd",
+"t" : "IL\u0026FSENGG",
+"e" : "NSE",
+"l" : "44.20",
+"c" : "-0.05",
+"mc" : "5.77B",
+"cp" : "-0.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "729021",
+"name" : "Niraj Cement Structurals Ltd.",
+"t" : "532986",
+"e" : "BOM",
+"l" : "29.55",
+"c" : "-0.90",
+"mc" : "438.25M",
+"cp" : "-2.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "142092",
+"name" : "Simplex Projects Ltd",
+"t" : "SIMPLEX",
+"e" : "NSE",
+"l" : "29.80",
+"c" : "-0.90",
+"mc" : "375.49M",
+"cp" : "-2.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6114347",
+"name" : "Valecha Engineering Limited",
+"t" : "VALECHAENG",
+"e" : "NSE",
+"l" : "19.20",
+"c" : "",
+"mc" : "432.58M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13129157",
+"name" : "RPP Infra Projects Ltd",
+"t" : "RPPINFRA",
+"e" : "NSE",
+"l" : "295.00",
+"c" : "-0.50",
+"mc" : "6.68B",
+"cp" : "-0.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "961689",
+"name" : "KNR Constructions Ltd",
+"t" : "KNRCON",
+"e" : "NSE",
+"l" : "304.00",
+"c" : "+10.00",
+"mc" : "42.65B",
+"cp" : "3.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7738070",
+"name" : "Globus Power Generation Ltd",
+"t" : "526025",
+"e" : "BOM",
+"l" : "12.16",
+"c" : "0.00",
+"mc" : "1.20B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9676982",
+"name" : "Scope Industries (India) Limited",
+"t" : "531886",
+"e" : "BOM",
+"l" : "1.52",
+"c" : "0.00",
+"mc" : "16.63M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "16 A, Veera Desai Road Andheri Industrial Estate, Andheri (W), MUMBAI, 400053, India",
+"phone": "+91-22-26730291",
+"fax": "+91-22-26730814",
+"url": "http:\u002F\u002Fwww.jkumar.com\u002F",
+"overview" : "J. Kumar Infraprojects Limited is engaged in construction activities. The Company designs and constructs roads, bridges, flyovers, subways, over bridges, skywalks and railway terminus\u002Fstations, among others. The Company\u0027s offerings in civil construction segment include office\u002Fcommercial buildings, sports complexes and swimming pools. In Irrigation Projects segment, the Company builds dams, canals, aqueducts and irrigation tanks, and spillways. The Company has approximately 20 hydraulic piling rigs, which are used to build pile foundations for buildings and flyovers, marine structures and offshore platforms. Its Piling segment caters to various real estate and infrastructure companies. The Company\u0027s projects include Underground Metro CC-24, Delhi Metro Tunnel, Ahmedabad Metro, Balewadi Bridge and Dhankawadi Flyover. Its other projects include Kapurbawadi Flyover, Kherwadi Flyover, Amarmahal Flyover, Amarmahal Flyover, Thakur Flyover, Bhivandi Flyover and Aurangabad Flyover."
+} ]
+, "management" : [
+{
+"name" : "Jagdishkumar M. Gupta",
+"age" : "66",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Arvind Gupta",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Poornima Reddy",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kamal Jagdish Gupta",
+"age" : "41",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Nalin Jagdish Gupta",
+"age" : "38",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Kusum Jagdish Gupta",
+"age" : "59",
+"title" : "Director"
+}
+,
+{
+"name" : "Ajit Singh Chatha",
+"age" : "78",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Padam Prakash Jain",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Raghavachari Srinivasan",
+"age" : "84",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Padmanabh Pundarikray Vora",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

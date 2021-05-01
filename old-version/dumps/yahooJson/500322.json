@@ -1,0 +1,213 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 1158708992,
+            "fmt": "1.16B",
+            "longFmt": "1,158,708,992"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.03914,
+            "fmt": "-3.91%"
+          },
+          "floatShares": {
+            "raw": 6068946,
+            "fmt": "6.07M",
+            "longFmt": "6,068,946"
+          },
+          "sharesOutstanding": {
+            "raw": 16018100,
+            "fmt": "16.02M",
+            "longFmt": "16,018,100"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.253856,
+            "fmt": "0.25"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 22.408,
+            "fmt": "22.41"
+          },
+          "priceToBook": {
+            "raw": 0.73634416,
+            "fmt": "0.74"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -75855048,
+            "fmt": "-75.86M",
+            "longFmt": "-75,855,048"
+          },
+          "trailingEps": {
+            "raw": -4.734,
+            "fmt": "-4.73"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.6,
+            "fmt": "0.60"
+          },
+          "enterpriseToEbitda": {
+            "raw": 10.163,
+            "fmt": "10.16"
+          },
+          "52WeekChange": {
+            "raw": -0.70322585,
+            "fmt": "-70.32%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Plot No.188",
+          "address2": "Phase II Kamalapuri Colony",
+          "city": "Hyderabad",
+          "zip": "500073",
+          "country": "India",
+          "phone": "91 40 2355 5317",
+          "fax": "91 40 2355 5316",
+          "website": "http://www.panyamcements.com",
+          "industry": "General Building Materials",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Panyam Cements & Mineral Industries Limited manufactures and sells cement in India. The company offers OPC 53 grade, OPC 43 grade, PPC, and PSC cement. Its products are used in irrigation and power projects, as well as in the construction of multi-storied buildings, concrete roads, and various housing colonies and township. The company was founded in 1955 and is based in Hyderabad, India. Panyam Cements & Mineral Industries Limited is a subsidiary of L&T Finance Limited.",
+          "fullTimeEmployees": 560,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 16.5,
+            "fmt": "16.50"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 826460032,
+            "fmt": "826.46M",
+            "longFmt": "826,460,032"
+          },
+          "totalCashPerShare": {
+            "raw": 51.58,
+            "fmt": "51.58"
+          },
+          "ebitda": {
+            "raw": 114011312,
+            "fmt": "114.01M",
+            "longFmt": "114,011,312"
+          },
+          "totalDebt": {
+            "raw": 1297792000,
+            "fmt": "1.3B",
+            "longFmt": "1,297,792,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1930888320,
+            "fmt": "1.93B",
+            "longFmt": "1,930,888,320"
+          },
+          "debtToEquity": {
+            "raw": 365.957,
+            "fmt": "365.96"
+          },
+          "revenuePerShare": {
+            "raw": 120.492,
+            "fmt": "120.49"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1499176130,
+            "fmt": "1.5B",
+            "longFmt": "1,499,176,130"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.445,
+            "fmt": "-44.50%"
+          },
+          "grossMargins": {
+            "raw": 0.69211996,
+            "fmt": "69.21%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.05905,
+            "fmt": "5.91%"
+          },
+          "operatingMargins": {
+            "raw": 0.019809999,
+            "fmt": "1.98%"
+          },
+          "profitMargins": {
+            "raw": -0.03914,
+            "fmt": "-3.91%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

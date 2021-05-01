@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "517146",
+"exchange" : "BOM",
+"id": "677881",
+"t" : "517146",
+"e" : "BOM",
+"name" : "Usha Martin Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:517146"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:517146"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:517146"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-9.89%",
+"annual" : "-8.45%",
+"ttm" : "-9.49%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.25%",
+"annual" : "3.09%",
+"ttm" : "2.09%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.17%",
+"ttm" : "8.74%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-4.58%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-31.23%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,737",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.50",
+"l" : "23.80",
+"cp" : "2.15",
+"ccol" : "chg",
+"op" : "23.30",
+"hi" : "24.20",
+"lo" : "23.25",
+"vo" : "139,961.00",
+"avvo" : "",
+"hi52" : "32.30",
+"lo52" : "17.00",
+"mc" : "7.22B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-14.14",
+"dy" : "",
+"ldiv" : "",
+"shares" : "304.74M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677881",
+"name" : "Usha Martin Limited",
+"t" : "517146",
+"e" : "BOM",
+"l" : "23.80",
+"c" : "+0.50",
+"mc" : "7.22B",
+"cp" : "2.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11539104",
+"name" : "Tata Steel Limited",
+"t" : "TATASTEEL",
+"e" : "NSE",
+"l" : "681.40",
+"c" : "+3.65",
+"mc" : "769.66B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6565540",
+"name" : "Mahindra \u0026 Mahindra Limited",
+"t" : "M\u0026M",
+"e" : "NSE",
+"l" : "735.40",
+"c" : "+16.75",
+"mc" : "912.66B",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4777716",
+"name" : "Steel Authority of India Limited",
+"t" : "SAIL",
+"e" : "NSE",
+"l" : "86.40",
+"c" : "-0.65",
+"mc" : "355.24B",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9708440",
+"name" : "Tata Motors Limited",
+"t" : "TATAMOTORS",
+"e" : "NSE",
+"l" : "372.80",
+"c" : "+12.60",
+"mc" : "1.18T",
+"cp" : "3.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12863366",
+"name" : "Finolex Cables Ltd",
+"t" : "FINCABLES",
+"e" : "NSE",
+"l" : "700.55",
+"c" : "-3.80",
+"mc" : "107.04B",
+"cp" : "-0.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1561382",
+"name" : "Rajratan Global Wire Ltd",
+"t" : "517522",
+"e" : "BOM",
+"l" : "584.00",
+"c" : "-1.55",
+"mc" : "2.52B",
+"cp" : "-0.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715304",
+"name" : "Panchmahal Steel Ltd.",
+"t" : "513511",
+"e" : "BOM",
+"l" : "51.95",
+"c" : "-0.95",
+"mc" : "991.12M",
+"cp" : "-1.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15519942",
+"name" : "Vallabh Steels Ltd",
+"t" : "513397",
+"e" : "BOM",
+"l" : "29.95",
+"c" : "-1.55",
+"mc" : "148.25M",
+"cp" : "-4.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "583380559538313",
+"name" : "Suyog Telematics Ltd",
+"t" : "537259",
+"e" : "BOM",
+"l" : "400.00",
+"c" : "+3.65",
+"mc" : "4.24B",
+"cp" : "0.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12678463",
+"name" : "Marmagoa Steel Ltd",
+"t" : "513355",
+"e" : "BOM",
+"l" : "1.83",
+"c" : "0.00",
+"mc" : "118.40M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Victoria Plaza, 2A Shakespeare Sarani, KOLKATA, 700071, India",
+"phone": "+91-33-39800300",
+"fax": "+91-33-22829029",
+"url": "http:\u002F\u002Fwww.ushamartin.com\u002F",
+"overview" : "Usha Martin Limited is engaged in the manufacturing of specialty steel and steel products. The Company\u0027s segments include Steel, Wire and Wire Ropes, and Others. The Steel segment includes steel wire rods, rolled products, billets, pig iron and allied products. The Wire and Wire Ropes segment includes steel wires, strands, wire ropes, cord, bright bar and related accessories, among others. The Others segment includes jelly filled telecommunication cables, wire drawing and allied machineries, among others. Its range of wire rope includes crane rope, mining rope, fishing rope, aerial haulage, structural system and conveyor cord. It offers spring wire, welding wire, auto spoke wire, brush wire, needle wire and cycle wire, among others. It produces a range of strands, including bright low relaxation pre-stressed concrete (LRPC) strand, galvanized LRPC strand and bonded LRPC strand, among others. Its prestressing products and services include anchorage, sheathing and multipull jacks."
+} ]
+, "management" : [
+{
+"name" : "Rohit Nanda",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ashutosh Dixit",
+"age" : "44",
+"title" : "Associate President - Wire \u0026 Wire Rope Business"
+}
+,
+{
+"name" : "Debasish Mazumder",
+"title" : "Associate President - Steel"
+}
+,
+{
+"name" : "Pavan Trivedi",
+"title" : "President - Commercial \u0026 Accounts"
+}
+,
+{
+"name" : "Malay Kumar De",
+"title" : "Senior Vice President - Metallurgical Services"
+}
+,
+{
+"name" : "Anjan Kumar Dey",
+"title" : "Senior Vice President - Iron Making"
+}
+,
+{
+"name" : "S. K. Jala",
+"title" : "Senior Vice President - IT"
+}
+,
+{
+"name" : "Shampa Ghosh Ray",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Arvind Kapoor",
+"title" : "Vice President - Marketing"
+}
+,
+{
+"name" : "Pravin Kumar Jain",
+"age" : "60",
+"title" : "Joint Managing Director - Wire \u0026 Wire Ropes Business, Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

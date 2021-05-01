@@ -1,0 +1,281 @@
+
+// [
+{
+"symbol" : "532416",
+"exchange" : "BOM",
+"id": "703977",
+"t" : "532416",
+"e" : "BOM",
+"name" : "Next Mediaworks Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532416"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532416"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532416"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.59%",
+"annual" : "-10.44%",
+"ttm" : "-14.38%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.80%",
+"annual" : "0.57%",
+"ttm" : "-3.66%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.35%",
+"ttm" : "11.57%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-4.89%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-17.62%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "101",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.60",
+"l" : "16.55",
+"cp" : "-3.50",
+"ccol" : "chr",
+"op" : "16.80",
+"hi" : "17.25",
+"lo" : "16.55",
+"vo" : "2,848.00",
+"avvo" : "",
+"hi52" : "27.55",
+"lo52" : "16.00",
+"mc" : "1.10B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-1.43",
+"dy" : "",
+"ldiv" : "",
+"shares" : "66.89M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703977",
+"name" : "Next Mediaworks Ltd",
+"t" : "532416",
+"e" : "BOM",
+"l" : "16.55",
+"c" : "-0.60",
+"mc" : "1.10B",
+"cp" : "-3.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14957327",
+"name" : "Entertainment Network (India) Limited",
+"t" : "ENIL",
+"e" : "NSE",
+"l" : "711.10",
+"c" : "+8.80",
+"mc" : "33.91B",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3950734",
+"name" : "TV18 Broadcast Ltd",
+"t" : "TV18BRDCST",
+"e" : "NSE",
+"l" : "60.00",
+"c" : "+1.55",
+"mc" : "102.69B",
+"cp" : "2.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9770984",
+"name" : "Esha Media Research Ltd",
+"t" : "531259",
+"e" : "BOM",
+"l" : "7.61",
+"c" : "0.00",
+"mc" : "59.41M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "81487235758737",
+"name" : "Music Broadcast Ltd",
+"t" : "RADIOCITY",
+"e" : "NSE",
+"l" : "382.00",
+"c" : "+16.10",
+"mc" : "21.90B",
+"cp" : "4.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12999137",
+"name" : "Reliance Broadcast Network Limited",
+"t" : "RBN",
+"e" : "NSE",
+"l" : "69.25",
+"c" : "",
+"mc" : "5.50B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "16305398",
+"name" : "HT Media Ltd",
+"t" : "HTMEDIA",
+"e" : "NSE",
+"l" : "93.15",
+"c" : "+0.15",
+"mc" : "21.65B",
+"cp" : "0.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "141358",
+"name" : "DB Corp Ltd",
+"t" : "DBCORP",
+"e" : "NSE",
+"l" : "326.10",
+"c" : "-4.55",
+"mc" : "59.76B",
+"cp" : "-1.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1979135",
+"name" : "B.A.G Films \u0026 Media Ltd.",
+"t" : "BAGFILMS",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "-0.15",
+"mc" : "1.18B",
+"cp" : "-2.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "26837369213470",
+"name" : "Shemaroo Entertainment Ltd",
+"t" : "SHEMAROO",
+"e" : "NSE",
+"l" : "527.00",
+"c" : "+2.55",
+"mc" : "14.39B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14104523",
+"name" : "Zee Media Corporation Ltd",
+"t" : "ZEEMEDIA",
+"e" : "NSE",
+"l" : "43.50",
+"c" : "+0.15",
+"mc" : "20.48B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Peninsula Centre Dr. S S Rao Road, Parel-East, MUMBAI, 400034, India",
+"phone": "+91-22-67527038",
+"fax": "+91-22-67015701",
+"url": "http:\u002F\u002Fwww.nextmediaworks.com\u002F",
+"overview" : "Next Mediaworks Limited is a holding company. The Company is engaged in the business of publishing and broadcasting. The Company also provides management consultancy. The Company is involved in a range of multimedia activities, including but not limited to the business as broadcasters, marketers of television programs, television films and television software\u003B to carry on the business of an advertising agents, to provide on-line and\u002For interactive information\u003B online music and news for business and general use, and to deal in Internet commerce and all Internet related activity. The Company, through its subsidiary Next Radio Limited, operates Frequency Modulation (FM) Radio stations in approximately seven cities in India, including Mumbai, Delhi, Kolkata, Chennai, Bangalore, Ahmedabad and Pune under the Radio One brand. The Company operates under the 94.3-megahertz (MHz) frequency in all its cities except for the city of Ahmedabad where it operates under the frequency 95 MHz."
+} ]
+, "management" : [
+{
+"name" : "Tarique Ansari",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Ismail Dabhoya",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rajbir Singh Bhandal",
+"age" : "43",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Dilip Cherian",
+"age" : "59",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Monisha Shah",
+"age" : "44",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "I. Venkat",
+"age" : "66",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Sunil K. Dalal",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

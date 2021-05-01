@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "532401",
+"exchange" : "BOM",
+"id": "688165",
+"t" : "532401",
+"e" : "BOM",
+"name" : "Vijaya Bank"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532401"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532401"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532401"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.41%",
+"annual" : "14.55%",
+"ttm" : "12.45%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.18%",
+"annual" : "17.73%",
+"ttm" : "16.63%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "35.23%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.50%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.51%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "15,679",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.20",
+"l" : "57.25",
+"cp" : "0.35",
+"ccol" : "chg",
+"op" : "56.60",
+"hi" : "57.95",
+"lo" : "56.60",
+"vo" : "96,065.00",
+"avvo" : "",
+"hi52" : "97.40",
+"lo52" : "53.20",
+"mc" : "63.26B",
+"pe" : "7.98",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.18",
+"dy" : "2.62",
+"ldiv" : "1.50",
+"shares" : "1.11B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "688165",
+"name" : "Vijaya Bank",
+"t" : "532401",
+"e" : "BOM",
+"l" : "57.25",
+"c" : "+0.20",
+"mc" : "63.26B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16345036",
+"name" : "ICICI Bank Ltd",
+"t" : "ICICIBANK",
+"e" : "NSE",
+"l" : "326.15",
+"c" : "+3.40",
+"mc" : "2.09T",
+"cp" : "1.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5904015",
+"name" : "Federal Bank Ltd",
+"t" : "FEDERALBNK",
+"e" : "NSE",
+"l" : "96.25",
+"c" : "+1.50",
+"mc" : "188.93B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5674106",
+"name" : "Yes Bank Limited",
+"t" : "YESBANK",
+"e" : "NSE",
+"l" : "324.35",
+"c" : "+0.90",
+"mc" : "746.27B",
+"cp" : "0.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13082940",
+"name" : "HDFC Bank Limited",
+"t" : "HDFCBANK",
+"e" : "NSE",
+"l" : "1,912.50",
+"c" : "+31.95",
+"mc" : "4.97T",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13564339",
+"name" : "State Bank of India",
+"t" : "SBIN",
+"e" : "NSE",
+"l" : "274.30",
+"c" : "-1.75",
+"mc" : "2.36T",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3473026",
+"name" : "Karnataka Bank Limited",
+"t" : "KTKBANK",
+"e" : "NSE",
+"l" : "135.60",
+"c" : "+2.15",
+"mc" : "38.25B",
+"cp" : "1.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678082",
+"name" : "Kotak Mahindra Bank Ltd",
+"t" : "KOTAKBANK",
+"e" : "NSE",
+"l" : "1,105.00",
+"c" : "+24.15",
+"mc" : "2.10T",
+"cp" : "2.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7445850",
+"name" : "LKP Finance Ltd",
+"t" : "507912",
+"e" : "BOM",
+"l" : "118.00",
+"c" : "+2.65",
+"mc" : "1.43B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15880885",
+"name" : "Karur Vysya Bank Ltd",
+"t" : "KARURVYSYA",
+"e" : "NSE",
+"l" : "110.50",
+"c" : "+0.40",
+"mc" : "80.73B",
+"cp" : "0.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14269401",
+"name" : "Syndicate Bank Ltd.",
+"t" : "SYNDIBANK",
+"e" : "NSE",
+"l" : "60.30",
+"c" : "-0.30",
+"mc" : "62.74B",
+"cp" : "-0.50",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Adi Chunchangiri Post Nagamangala, Mandya, MYSORE, 571811, India",
+"phone": "+91-80-25584066",
+"fax": "+91-80-25584066",
+"url": "http:\u002F\u002Fwww.vijayabank.com",
+"overview" : "Vijaya Bank (the Bank) is a public sector bank. The Bank offers various financial products and services, such as deposit products, loans and advances, card services, remittances and collection, and non-resident Indian (NRI) services. Its segments include Treasury, which consists of investment portfolio, profit or loss on sale of investments, profit or loss on foreign exchange transactions, equities, income from derivatives and money market operations\u003B Corporate\u002FWholesale Banking, which consists of lending and deposits from corporate customers\u003B Retail Banking, which consists of lending and deposits from retail customers, and Other Banking Operations, which consists of various other operations. The Bank offers services, such as automated teller machines (ATMs), cash deposit machines, debit and credit cards, Internet banking, mobile banking, phone banking, and funds transfer through real-time gross settlement systems (RTGS) and national electronic funds transfer (NEFT)."
+} ]
+, "management" : [
+{
+"name" : "R. A. Sankara Narayanan",
+"title" : "Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "Murali Ramaswamy",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Subrat Kumar",
+"title" : "Chief Risk Officer"
+}
+,
+{
+"name" : "B. S. Rama Rao",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Nageswara Rao Y",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "A. S. Rajeev",
+"title" : "General Manager Accts"
+}
+,
+{
+"name" : "Gopalakrishnan Narayanan",
+"title" : "Part Time Non - Official Director \u0026 Non Executive Chairman"
+}
+,
+{
+"name" : "Rajan Dogra",
+"title" : "Shareholder Director"
+}
+,
+{
+"name" : "Raghvender Gupta",
+"title" : "Shareholder Director"
+}
+,
+{
+"name" : "N. Srinivasa Rao",
+"title" : "Government Nominee Director"
+}
+]
+,"moreresources" : [
+]
+}]

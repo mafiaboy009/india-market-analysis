@@ -1,0 +1,301 @@
+
+ [
+{
+"symbol" : "513375",
+"exchange" : "BOM",
+"id": "680569",
+"t" : "513375",
+"e" : "BOM",
+"name" : "Carborundum Universal Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:513375"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:513375"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:513375"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.23%",
+"annual" : "8.23%",
+"ttm" : "8.68%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.71%",
+"annual" : "11.59%",
+"ttm" : "11.06%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.08%",
+"ttm" : "15.47%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "9.70%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.58%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5,203",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.80",
+"l" : "360.00",
+"cp" : "0.78",
+"ccol" : "chg",
+"op" : "358.90",
+"hi" : "364.50",
+"lo" : "354.85",
+"vo" : "6,283.00",
+"avvo" : "",
+"hi52" : "428.00",
+"lo52" : "252.50",
+"mc" : "67.90B",
+"pe" : "35.09",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.26",
+"dy" : "0.49",
+"ldiv" : "1.00",
+"shares" : "188.93M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "680569",
+"name" : "Carborundum Universal Ltd",
+"t" : "513375",
+"e" : "BOM",
+"l" : "360.00",
+"c" : "+2.80",
+"mc" : "67.90B",
+"cp" : "0.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5434661",
+"name" : "Grindwell Norton Ltd",
+"t" : "GRINDWELL",
+"e" : "NSE",
+"l" : "495.50",
+"c" : "-2.70",
+"mc" : "54.66B",
+"cp" : "-0.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14172498",
+"name" : "Orient Abrasives Ltd.",
+"t" : "ORIENTABRA",
+"e" : "NSE",
+"l" : "44.90",
+"c" : "+2.05",
+"mc" : "5.33B",
+"cp" : "4.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1443805",
+"name" : "Welcast Steels Ltd",
+"t" : "504988",
+"e" : "BOM",
+"l" : "936.00",
+"c" : "-13.15",
+"mc" : "589.34M",
+"cp" : "-1.39",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6504858",
+"name" : "3M India Ltd",
+"t" : "3MINDIA",
+"e" : "NSE",
+"l" : "20,651.05",
+"c" : "-82.75",
+"mc" : "233.15B",
+"cp" : "-0.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16529291",
+"name" : "Bosch Ltd",
+"t" : "BOSCHLTD",
+"e" : "NSE",
+"l" : "19,070.05",
+"c" : "+149.45",
+"mc" : "581.93B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4073776",
+"name" : "IFGL Refractories Ltd",
+"t" : "IFGLREFRAC",
+"e" : "NSE",
+"l" : "280.00",
+"c" : "",
+"mc" : "9.66B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12178643",
+"name" : "Nilachal Refractories Ltd",
+"t" : "502294",
+"e" : "BOM",
+"l" : "40.25",
+"c" : "+1.70",
+"mc" : "819.55M",
+"cp" : "4.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7995468",
+"name" : "HIL Ltd",
+"t" : "HIL",
+"e" : "NSE",
+"l" : "1,755.00",
+"c" : "+27.50",
+"mc" : "13.04B",
+"cp" : "1.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15954732",
+"name" : "OCL India Limited",
+"t" : "OCL",
+"e" : "NSE",
+"l" : "1,268.00",
+"c" : "+2.25",
+"mc" : "71.96B",
+"cp" : "0.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "884177482572568",
+"name" : "Dalmia Refractories Ltd",
+"t" : "DALMIAREF",
+"e" : "NSE",
+"l" : "112.50",
+"c" : "",
+"mc" : "354.61M",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "\u0027Parry House\u0027 43, Moore Street, 6th Floor, CHENNAI, 600001, India",
+"phone": "+91-44-30006141",
+"fax": "+91-44-30006149",
+"url": "https:\u002F\u002Fwww.cumi-murugappa.com\u002F",
+"overview" : "Carborundum Universal Limited develops services and solutions for abrasives, electrominerals or ceramics. The Company\u0027s segments include Abrasives, Ceramics and Electrominerals. The Abrasives segment consists of bonded, coated, processed cloth, polymers, power tools and coolants. The operations are carried out through over 10 manufacturing facilities located pan India, Russia and other countries. The Ceramics segment consists of super refractories, industrial ceramics, anti-corrosives and bioceramics. Its user industries include power generation and transmission, coal washers, grain handling, ballistic protection and construction. The Electrominerals segment includes abrasive\u002Frefractory grains, micro grits for the photovoltaic industry and captive power generation from hydel power plant. Its product range includes white and brown fused alumina, silicon carbide, fused zirconia, alumina zirconia and zirconia mullite. Its geographical segments include India and Rest of the world."
+} ]
+, "management" : [
+{
+"name" : "N. Ananthaseshan",
+"age" : "51",
+"title" : "President - Abrasives"
+}
+,
+{
+"name" : "R. Rajagopalan",
+"age" : "55",
+"title" : "Executive Vice President - Refractories \u0026 Prodorite"
+}
+,
+{
+"name" : "M. Muthiah",
+"age" : "54",
+"title" : "Senior Vice President - Human Resources"
+}
+,
+{
+"name" : "P. L. Deepak Dorairaj",
+"age" : "58",
+"title" : "Senior Vice President - International Business \u0026 Exports, Abrasives"
+}
+,
+{
+"name" : "Rekha Surendhiran",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "K. Srinivasan",
+"age" : "59",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Meenakshi M. Murugappan",
+"age" : "61",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "P S. Raghavan",
+"age" : "62",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Sujjain S. Talwar",
+"age" : "53",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Sanjay Jayavarthanavelu",
+"age" : "45",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

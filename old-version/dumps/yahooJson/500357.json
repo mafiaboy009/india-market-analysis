@@ -1,0 +1,195 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 131803744,
+            "fmt": "131.8M",
+            "longFmt": "131,803,744"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.2307,
+            "fmt": "-23.07%"
+          },
+          "floatShares": {
+            "raw": 5646221,
+            "fmt": "5.65M",
+            "longFmt": "5,646,221"
+          },
+          "sharesOutstanding": {
+            "raw": 9664730,
+            "fmt": "9.66M",
+            "longFmt": "9,664,730"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.405185,
+            "fmt": "-0.41"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -20.67,
+            "fmt": "-20.67"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -218412000,
+            "fmt": "-218.41M",
+            "longFmt": "-218,412,000"
+          },
+          "trailingEps": {
+            "raw": -22.601,
+            "fmt": "-22.60"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.139,
+            "fmt": "0.14"
+          },
+          "enterpriseToEbitda": {
+            "raw": -1.363,
+            "fmt": "-1.36"
+          },
+          "52WeekChange": {
+            "raw": 1.3603082,
+            "fmt": "136.03%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "26/6 Ground floor",
+          "address2": "East Patel Nagar",
+          "city": "New Delhi",
+          "zip": "110008",
+          "country": "India",
+          "phone": "91 11 4564 2642",
+          "fax": "91 11 2576 2624",
+          "website": "http://www.ramapaper.com",
+          "industry": "Paper & Paper Products",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Rama Paper Mills Limited manufactures and sells newsprint, duplex board, and tissue papers in India. The company also provides writing and printing paper; and poster paper. It also offers cream wove/colored, kraft, absorbent, one time carbon base, and electrical grade insulating papers. The company was founded in 1985 and is based in New Delhi, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 24.95,
+            "fmt": "24.95"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": -96720040,
+            "fmt": "-96.72M",
+            "longFmt": "-96,720,040"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 946732992,
+            "fmt": "946.73M",
+            "longFmt": "946,732,992"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 97.965,
+            "fmt": "97.96"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 337939994,
+            "fmt": "337.94M",
+            "longFmt": "337,939,994"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.322,
+            "fmt": "32.20%"
+          },
+          "grossMargins": {
+            "raw": 0.37418,
+            "fmt": "37.42%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.10216,
+            "fmt": "-10.22%"
+          },
+          "operatingMargins": {
+            "raw": -0.13554,
+            "fmt": "-13.55%"
+          },
+          "profitMargins": {
+            "raw": -0.2307,
+            "fmt": "-23.07%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

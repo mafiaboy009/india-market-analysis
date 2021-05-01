@@ -1,0 +1,297 @@
+
+ [
+{
+"symbol" : "532741",
+"exchange" : "BOM",
+"id": "702714",
+"t" : "532741",
+"e" : "BOM",
+"name" : "Kamdhenu Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532741"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532741"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532741"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.35%",
+"annual" : "1.19%",
+"ttm" : "1.22%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.06%",
+"annual" : "3.36%",
+"ttm" : "3.03%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.02%",
+"ttm" : "3.62%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.19%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.89%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "545",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+12.75",
+"l" : "267.85",
+"cp" : "5.00",
+"ccol" : "chg",
+"op" : "267.85",
+"hi" : "267.85",
+"lo" : "261.05",
+"vo" : "41,399.00",
+"avvo" : "",
+"hi52" : "290.50",
+"lo52" : "83.75",
+"mc" : "6.24B",
+"pe" : "48.38",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.54",
+"dy" : "0.30",
+"ldiv" : "0.80",
+"shares" : "23.40M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "702714",
+"name" : "Kamdhenu Ltd",
+"t" : "532741",
+"e" : "BOM",
+"l" : "267.85",
+"c" : "+12.75",
+"mc" : "6.24B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8294072",
+"name" : "Ashiana Ispat Ltd",
+"t" : "513401",
+"e" : "BOM",
+"l" : "32.05",
+"c" : "+0.55",
+"mc" : "143.10M",
+"cp" : "1.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12752818",
+"name" : "Stelco Strips Ltd",
+"t" : "513530",
+"e" : "BOM",
+"l" : "4.10",
+"c" : "",
+"mc" : "37.31M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "9427151",
+"name" : "Century Plyboards India Ltd",
+"t" : "CENTURYPLY",
+"e" : "NSE",
+"l" : "324.00",
+"c" : "+8.85",
+"mc" : "71.93B",
+"cp" : "2.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "677033",
+"name" : "Mukand Limited",
+"t" : "500460",
+"e" : "BOM",
+"l" : "78.70",
+"c" : "+3.20",
+"mc" : "11.05B",
+"cp" : "4.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14218427",
+"name" : "Uttam Galva Steels Ltd.",
+"t" : "UTTAMSTL",
+"e" : "NSE",
+"l" : "17.95",
+"c" : "-0.15",
+"mc" : "2.55B",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11539104",
+"name" : "Tata Steel Limited",
+"t" : "TATASTEEL",
+"e" : "NSE",
+"l" : "681.40",
+"c" : "+3.65",
+"mc" : "769.66B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "153521247303809",
+"name" : "Goodluck India Ltd",
+"t" : "GOODLUCK",
+"e" : "NSE",
+"l" : "102.50",
+"c" : "+0.50",
+"mc" : "2.35B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "152879122217318",
+"name" : "Newever Trade Wings Ltd",
+"t" : "536644",
+"e" : "BOM",
+"l" : "2.16",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15519942",
+"name" : "Vallabh Steels Ltd",
+"t" : "513397",
+"e" : "BOM",
+"l" : "29.95",
+"c" : "-1.55",
+"mc" : "148.25M",
+"cp" : "-4.92",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "2nd Floor Tower-A Building No 9 DLF Cyber City Phase-III, GURGAON, 122002, India",
+"phone": "+91-124-4604500",
+"fax": "+91-124-4218524",
+"url": "http:\u002F\u002Fwww.kamdhenuispat.com\u002F",
+"overview" : "Kamdhenu Limited, formerly Kamdhenu Ispat Limited, is engaged in manufacturing, distribution, marketing, branding of steel and paints with over 50 franchised units across India. The Company manufactures thermo-mechanically treated (TMT) steel. The Company\u0027s segments include Steel, Paints and Power (wind mills). The Company\u0027s brands include KAMDHENU TMT BARS, KAMDHENU SS 10000, STRUCTURAL STEEL, KAMDHENU WIREBOND, KAMDHENU PLYWOOD, COLOR COATED PPGI\u002FPPGL SHEETS, PRE-ENGINEERED BUILDING and KAMDHENU PAINTS. The Company offers a range of paint products, including exterior and interior emulsions, water based primers, wood finishes, aluminum paints, and textured and designer paints. Its Kamdhenu SS 10000 rebars are available in the various sizes of 10 millimeter (mm), 12mm, 16mm, 20mm, 25mm, 28mm and 32mm. It manufactures structural steel under franchisee arrangement. It produces structural steel of special contours, such as angles, channels, beams, flats, round and square."
+} ]
+, "management" : [
+{
+"name" : "Satish Kumar Agarwal",
+"age" : "63",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Harish Kumar Agarwal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Jogeswar Mohanty",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Yogendra Dwivedi",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Sachin Agarwal",
+"age" : "35",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Saurabh Agarwal",
+"age" : "40",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Nishal Jain",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Mahendra Kumar Doogar",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Radha Krishna Pandey",
+"age" : "75",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ramesh Chand Surana",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

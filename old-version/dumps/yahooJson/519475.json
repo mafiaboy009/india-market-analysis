@@ -1,0 +1,340 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 421991904,
+            "fmt": "421.99M",
+            "longFmt": "421,991,904"
+          },
+          "forwardPE": {
+            "raw": 10.505476,
+            "fmt": "10.51"
+          },
+          "profitMargins": {
+            "raw": 0.008590001,
+            "fmt": "0.86%"
+          },
+          "floatShares": {
+            "raw": 569303,
+            "fmt": "569.3k",
+            "longFmt": "569,303"
+          },
+          "sharesOutstanding": {
+            "raw": 2980000,
+            "fmt": "2.98M",
+            "longFmt": "2,980,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.912046,
+            "fmt": "0.91"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 114.401,
+            "fmt": "114.40"
+          },
+          "priceToBook": {
+            "raw": 1.0900254,
+            "fmt": "1.09"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 3971863,
+            "fmt": "3.97M",
+            "longFmt": "3,971,863"
+          },
+          "trailingEps": {
+            "raw": 1.328,
+            "fmt": "1.33"
+          },
+          "forwardEps": {
+            "raw": 11.87,
+            "fmt": "11.87"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.913,
+            "fmt": "0.91"
+          },
+          "enterpriseToEbitda": {
+            "raw": 14.378,
+            "fmt": "14.38"
+          },
+          "52WeekChange": {
+            "raw": -0.024163544,
+            "fmt": "-2.42%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [],
+            "currentQuarterEstimate": {
+              "raw": 1.58,
+              "fmt": "1.58"
+            }
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 349766093,
+                  "fmt": "349.77M",
+                  "longFmt": "349,766,093"
+                },
+                "earnings": {
+                  "raw": 16600965,
+                  "fmt": "16.6M",
+                  "longFmt": "16,600,965"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 395710377,
+                  "fmt": "395.71M",
+                  "longFmt": "395,710,377"
+                },
+                "earnings": {
+                  "raw": 32906402,
+                  "fmt": "32.91M",
+                  "longFmt": "32,906,402"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 409331289,
+                  "fmt": "409.33M",
+                  "longFmt": "409,331,289"
+                },
+                "earnings": {
+                  "raw": 5177795,
+                  "fmt": "5.18M",
+                  "longFmt": "5,177,795"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 513879217,
+                  "fmt": "513.88M",
+                  "longFmt": "513,879,217"
+                },
+                "earnings": {
+                  "raw": -7223137,
+                  "fmt": "-7.22M",
+                  "longFmt": "-7,223,137"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 112269217,
+                  "fmt": "112.27M",
+                  "longFmt": "112,269,217"
+                },
+                "earnings": {
+                  "raw": -562137,
+                  "fmt": "-562.14k",
+                  "longFmt": "-562,137"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 127255000,
+                  "fmt": "127.25M",
+                  "longFmt": "127,255,000"
+                },
+                "earnings": {
+                  "raw": -2883000,
+                  "fmt": "-2.88M",
+                  "longFmt": "-2,883,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 115040000,
+                  "fmt": "115.04M",
+                  "longFmt": "115,040,000"
+                },
+                "earnings": {
+                  "raw": 3730000,
+                  "fmt": "3.73M",
+                  "longFmt": "3,730,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 107815000,
+                  "fmt": "107.81M",
+                  "longFmt": "107,815,000"
+                },
+                "earnings": {
+                  "raw": 3685000,
+                  "fmt": "3.69M",
+                  "longFmt": "3,685,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "38/39, Tarkar Compound",
+          "address2": "Above S. K. Agencies Hadapsar Industrial Estate Hadapsar",
+          "city": "Pune",
+          "zip": "411013",
+          "country": "India",
+          "phone": "91 20 2687 2095",
+          "website": "http://www.chordiafoods.com",
+          "industry": "Food - Major Diversified",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Chordia Food Products Limited manufactures and sells processed food products primarily in India. It offers pickles, spice pastes, instant mixes, ketchup and sauces, etc.; and custard powder, milk shake, and syrups and squashes. The company offers ketchups under the Pravin, Navin, and Toofan names. Chordia Food Products Limited also exports its products to the Gulf Region, the United States, the United Kingdom, etc. The company was founded in 1960 and is based in Pune, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 124.7,
+            "fmt": "124.70"
+          },
+          "targetHighPrice": {
+            "raw": 126.0,
+            "fmt": "126.00"
+          },
+          "targetLowPrice": {
+            "raw": 126.0,
+            "fmt": "126.00"
+          },
+          "targetMeanPrice": {
+            "raw": 126.0,
+            "fmt": "126.00"
+          },
+          "targetMedianPrice": {
+            "raw": 126.0,
+            "fmt": "126.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 29350182,
+            "fmt": "29.35M",
+            "longFmt": "29,350,182"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 462382208,
+            "fmt": "462.38M",
+            "longFmt": "462,382,208"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 154.797,
+            "fmt": "154.80"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 191111571,
+            "fmt": "191.11M",
+            "longFmt": "191,111,571"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.159,
+            "fmt": "-15.90%"
+          },
+          "grossMargins": {
+            "raw": 0.42995,
+            "fmt": "42.99%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.06348,
+            "fmt": "6.35%"
+          },
+          "operatingMargins": {
+            "raw": 0.03364,
+            "fmt": "3.36%"
+          },
+          "profitMargins": {
+            "raw": 0.008590001,
+            "fmt": "0.86%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

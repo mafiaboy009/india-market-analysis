@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "530579",
+"exchange" : "BOM",
+"id": "7953747",
+"t" : "530579",
+"e" : "BOM",
+"name" : "Golden Goenka Fincorp Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GLON.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530579"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530579"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530579"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "28.38%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "44.80%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "99.14%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.99%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.07%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "10",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.33",
+"l" : "9.10",
+"cp" : "3.76",
+"ccol" : "chg",
+"op" : "8.56",
+"hi" : "9.20",
+"lo" : "8.56",
+"vo" : "18,588.00",
+"avvo" : "",
+"hi52" : "13.70",
+"lo52" : "5.73",
+"mc" : "1.72B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "",
+"ldiv" : "",
+"shares" : "190.24M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7953747",
+"name" : "Golden Goenka Fincorp Ltd",
+"t" : "530579",
+"e" : "BOM",
+"l" : "9.10",
+"c" : "+0.33",
+"mc" : "1.72B",
+"cp" : "3.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2905116",
+"name" : "Abhinav Capital Services Ltd",
+"t" : "532057",
+"e" : "BOM",
+"l" : "70.00",
+"c" : "0.00",
+"mc" : "484.72M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1567356",
+"name" : "Sulabh Engineers and Services Ltd",
+"t" : "508969",
+"e" : "BOM",
+"l" : "9.84",
+"c" : "0.00",
+"mc" : "988.67M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "780888015212470",
+"name" : "Tirupati Fincorp Ltd",
+"t" : "539008",
+"e" : "BOM",
+"l" : "150.00",
+"c" : "0.00",
+"mc" : "750.53M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6070251",
+"name" : "Nivedita Mercantile and Financing Ltd",
+"t" : "512381",
+"e" : "BOM",
+"l" : "35.95",
+"c" : "0.00",
+"mc" : "356.28M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15378024",
+"name" : "Saraswati Commercial (india) Ltd",
+"t" : "512020",
+"e" : "BOM",
+"l" : "15.44",
+"c" : "0.00",
+"mc" : "15.91M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "509316573314646",
+"name" : "Stellar Capital Services Ltd",
+"t" : "536738",
+"e" : "BOM",
+"l" : "6.79",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14241425",
+"name" : "Atlanta Infrastructure and Finance Ltd",
+"t" : "530479",
+"e" : "BOM",
+"l" : "7.98",
+"c" : "0.00",
+"mc" : "888.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "472461368241180",
+"name" : "Scintilla Commercial \u0026 Credit Ltd",
+"t" : "538857",
+"e" : "BOM",
+"l" : "27.00",
+"c" : "0.00",
+"mc" : "270.75M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13806536",
+"name" : "TCI Finance Ltd",
+"t" : "TCIFINANCE",
+"e" : "NSE",
+"l" : "31.50",
+"c" : "+0.35",
+"mc" : "408.76M",
+"cp" : "1.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16708673768286",
+"name" : "Ujjivan Financial Services Ltd",
+"t" : "UJJIVAN",
+"e" : "NSE",
+"l" : "374.10",
+"c" : "+14.45",
+"mc" : "44.99B",
+"cp" : "4.02",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "1st British Indian Street 1st floor, Room No. 109, KOLKATA, 700069, India",
+"phone": "+91-33-40042424",
+"fax": "+91-33-44070020",
+"url": "http:\u002F\u002Fwww.goldengoenka.com\u002F",
+"overview" : "Golden Goenka Fincorp Limited is an India-based non-banking financial services company, which provides lending and investing services. The Company is focused on providing inter corporate loans, personal loans and investments in securities and trading in securities. The Company offers various types of financial products, including Vanilla products, such as inter corporate deposits, credit against securities\u002Fproperties and initial public offering (IPO) funding, and specialized products, such as lease finance, real estate project finance and acquisition funding. Its fund-based services include infrastructure funding, retail finance, industrial assets funding, real estate funding, loan against shares, loan against properties, bridge finance, equity participation and bill discounting. Its fee-based services include loan syndication and project counseling. The Company\u0027s subsidiaries are engaged in the field of financial consultancy, management advisory services and real estate development."
+} ]
+, "management" : [
+{
+"name" : "Udai Kothari",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Ayush Agarwal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Dinesh Burman",
+"age" : "59",
+"title" : "Whole -Time Director"
+}
+,
+{
+"name" : "Deepak Kothari",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Amrita Mohta",
+"age" : "25",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Girdhari Lal Goenka",
+"age" : "53",
+"title" : "Director"
+}
+,
+{
+"name" : "Jignesh Dalal",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Rhythm Arora",
+"age" : "26",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Niranjan Kumar Choraria",
+"age" : "53",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Govind Kumar Goyal",
+"age" : "36",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

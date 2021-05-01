@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "530001",
+"exchange" : "BOM",
+"id": "680850",
+"t" : "530001",
+"e" : "BOM",
+"name" : "Gujarat Alkalies \u0026 Chemicals Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530001"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530001"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530001"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "21.02%",
+"annual" : "13.35%",
+"ttm" : "11.27%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "19.25%",
+"annual" : "14.71%",
+"ttm" : "11.54%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.53%",
+"ttm" : "16.99%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.38%",
+"ttm" : "7.02%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.78%",
+"ttm" : "9.95%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,384",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+6.30",
+"l" : "758.00",
+"cp" : "0.84",
+"ccol" : "chg",
+"op" : "752.00",
+"hi" : "767.40",
+"lo" : "751.80",
+"vo" : "23,648.00",
+"avvo" : "",
+"hi52" : "932.35",
+"lo52" : "370.00",
+"mc" : "54.83B",
+"pe" : "25.11",
+"fwpe" : "",
+"beta" : "",
+"eps" : "30.18",
+"dy" : "0.66",
+"ldiv" : "5.00",
+"shares" : "73.44M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "680850",
+"name" : "Gujarat Alkalies \u0026 Chemicals Limited",
+"t" : "530001",
+"e" : "BOM",
+"l" : "758.00",
+"c" : "+6.30",
+"mc" : "54.83B",
+"cp" : "0.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14193045",
+"name" : "Andhra Sugars Ltd",
+"t" : "ANDHRSUGAR",
+"e" : "NSE",
+"l" : "491.00",
+"c" : "+1.40",
+"mc" : "13.30B",
+"cp" : "0.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5061661",
+"name" : "Aditya Birla Chemicals (India) Limited",
+"t" : "ABCIL",
+"e" : "NSE",
+"l" : "227.70",
+"c" : "",
+"mc" : "5.47B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "2812528",
+"name" : "Jayshree Chemicals Ltd",
+"t" : "506520",
+"e" : "BOM",
+"l" : "14.65",
+"c" : "-0.40",
+"mc" : "431.06M",
+"cp" : "-2.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4199908",
+"name" : "DCW Limited",
+"t" : "DCW",
+"e" : "NSE",
+"l" : "37.00",
+"c" : "+0.25",
+"mc" : "8.19B",
+"cp" : "0.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11146294",
+"name" : "Chemfab Alkalis Ltd",
+"t" : "CHEMFALKAL",
+"e" : "NSE",
+"l" : "262.00",
+"c" : "",
+"mc" : "2.41B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12736042",
+"name" : "Tamilnadu Petroproducts Limited",
+"t" : "TNPETRO",
+"e" : "NSE",
+"l" : "62.40",
+"c" : "+3.65",
+"mc" : "5.60B",
+"cp" : "6.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5500303",
+"name" : "Tata Chemicals Limited (Parent)",
+"t" : "TATACHEM",
+"e" : "NSE",
+"l" : "712.00",
+"c" : "+5.25",
+"mc" : "181.63B",
+"cp" : "0.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14757685",
+"name" : "GHCL Limited",
+"t" : "GHCL",
+"e" : "NSE",
+"l" : "293.00",
+"c" : "-2.25",
+"mc" : "28.67B",
+"cp" : "-0.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1153375",
+"name" : "Alkali Metals Limited",
+"t" : "ALKALI",
+"e" : "NSE",
+"l" : "81.90",
+"c" : "+1.25",
+"mc" : "833.43M",
+"cp" : "1.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3410935",
+"name" : "Kanoria Chemicals \u0026 Industries Limited",
+"t" : "KANORICHEM",
+"e" : "NSE",
+"l" : "78.65",
+"c" : "+0.20",
+"mc" : "3.41B",
+"cp" : "0.25",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "P.O.Petrochemicals, VADODARA, 391346, India",
+"phone": "+91-265-2232681",
+"fax": "+91-265-2231208",
+"url": "http:\u002F\u002Fwww.gacl.com\u002Fpublic_html\u002Fnew\u002Fwelcome.htm",
+"overview" : "Gujarat Alkalies and Chemicals Limited is a chemical manufacturing company. The Company offers Caustic Soda Lye and Caustic Soda Flakes. The Company\u0027s products include Caustic Soda, Chlorine, Hydrochloric Acid, Hydrogen, Chloromethanes, Potassium Hydroxide, Potassium Carbonate, Sodium Cyanide, Sodium Ferro Cyanide, Hydrogen Peroxide, Sodium Chlorate, Stable Bleaching Powder, Poly Aluminum Chloride, Anhydrous Aluminum Chloride, Toluene-based chemicals and Chlorinated Paraffin Wax. Its products are used by various industries, such as textiles, pulp and paper, soaps and detergents, alumina, water, treatment, petroleum, plastics, fertilizers, pharmaceuticals, agrochemicals, plant protection, dyes and dyes intermediates, refrigeration gases and epoxy. It exports products, such as Potassium Hydroxide Flakes and Liquid Chlorine to Europe and West Asia, among others. The Company has an installed production capacity of 429,050 million tons (MT) of Caustic Soda."
+} ]
+, "management" : [
+{
+"name" : "J. N. Singh",
+"title" : "Chairman and Director of the Board"
+}
+,
+{
+"name" : "Sanjay S. Bhatt",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "P. K. Gera",
+"title" : "Managing Director"
+}
+,
+{
+"name" : "Atanu Chakraborty",
+"title" : "Director"
+}
+,
+{
+"name" : "Anil Mukim",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rajiv I. Modi Ph.D.",
+"age" : "56",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Pallavi S. Shroff",
+"age" : "61",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Jayant Narayan Godbole",
+"age" : "71",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

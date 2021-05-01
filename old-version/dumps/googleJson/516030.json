@@ -1,0 +1,295 @@
+
+ [
+{
+"symbol" : "516030",
+"exchange" : "BOM",
+"id": "2358779",
+"t" : "516030",
+"e" : "BOM",
+"name" : "Yash Papers Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=YASP.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:516030"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:516030"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:516030"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.10%",
+"annual" : "3.68%",
+"ttm" : "7.43%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "16.11%",
+"annual" : "12.44%",
+"ttm" : "15.70%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.70%",
+"ttm" : "18.70%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.35%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.12%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "336",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.45",
+"l" : "73.75",
+"cp" : "-0.61",
+"ccol" : "chr",
+"op" : "75.50",
+"hi" : "76.20",
+"lo" : "72.00",
+"vo" : "75,754.00",
+"avvo" : "",
+"hi52" : "85.30",
+"lo52" : "23.10",
+"mc" : "2.61B",
+"pe" : "16.98",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.34",
+"dy" : "",
+"ldiv" : "",
+"shares" : "35.24M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2358779",
+"name" : "Yash Papers Limited",
+"t" : "516030",
+"e" : "BOM",
+"l" : "73.75",
+"c" : "-0.45",
+"mc" : "2.61B",
+"cp" : "-0.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6133926",
+"name" : "The Mysore Paper Mills Ltd",
+"t" : "502405",
+"e" : "BOM",
+"l" : "7.40",
+"c" : "-0.02",
+"mc" : "882.19M",
+"cp" : "-0.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11888066",
+"name" : "South India Paper Mills Limited",
+"t" : "516108",
+"e" : "BOM",
+"l" : "121.00",
+"c" : "-4.00",
+"mc" : "1.82B",
+"cp" : "-3.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11653988",
+"name" : "Rama Pulp And Papers Ltd",
+"t" : "502587",
+"e" : "BOM",
+"l" : "52.50",
+"c" : "-0.10",
+"mc" : "567.79M",
+"cp" : "-0.19",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16192730",
+"name" : "Shree Krishna Paper Mills\u0026Industries Ltd",
+"t" : "500388",
+"e" : "BOM",
+"l" : "39.90",
+"c" : "+0.15",
+"mc" : "539.52M",
+"cp" : "0.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6121574",
+"name" : "Rama Paper Mills Ltd",
+"t" : "500357",
+"e" : "BOM",
+"l" : "10.78",
+"c" : "+0.49",
+"mc" : "81.73M",
+"cp" : "4.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13688417",
+"name" : "Nath Pulp and Paper Mills Ltd",
+"t" : "502407",
+"e" : "BOM",
+"l" : "44.00",
+"c" : "+1.00",
+"mc" : "395.08M",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11372842",
+"name" : "Vapi Enterprise Ltd",
+"t" : "502589",
+"e" : "BOM",
+"l" : "41.20",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "704978",
+"name" : "Sree Sakthi Paper Mills Limited",
+"t" : "532701",
+"e" : "BOM",
+"l" : "11.03",
+"c" : "+0.50",
+"mc" : "181.29M",
+"cp" : "4.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6871996",
+"name" : "Speciality Papers Ltd",
+"t" : "502465",
+"e" : "BOM",
+"l" : "0.38",
+"c" : "0.00",
+"mc" : "59.34M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3443595",
+"name" : "Shree Karthik Papers Ltd",
+"t" : "516106",
+"e" : "BOM",
+"l" : "17.85",
+"c" : "+0.20",
+"mc" : "344.04M",
+"cp" : "1.13",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Yash Nagar,, Hatia Bazar, FAIZABAD, 224135, India",
+"phone": "+91-5278-326611",
+"fax": "+91-5278-258062",
+"url": "http:\u002F\u002Fwww.yash-papers.com\u002F",
+"overview" : "Yash Papers Limited is a provider of consumer, industrial and protective packaging solutions. The Company operates approximately three paper machines that manufacture low grammage machine glazed (MG) industrial bleached and unbleached grades of paper. It produces paper grades for wrapping and pharmaceutical uses, among others. It offers products in various categories, such as pulp, molded products, paper and bags. Its products in molded products category include Foodservice Disposables and Egg Trays. Its products in pulp category include UAP-Unbleached Agro Pulp and BAP-Bleached Agro Pulp. Its products in bags category include Flat Bags and Carry Bags. Its total paper production capacity is approximately 39,100 metric tons per annum with pulp mill capacity of over 130 tons per day, and its chemical recovery unit has a capacity of approximately 140 bone dry metric solids. It has over two power plants with an output of approximately 2.5 megawatts and over six megawatts."
+} ]
+, "management" : [
+{
+"name" : "Jagdeep Hira",
+"title" : "Chief Executive Officer, Joint Managing Director, Director"
+}
+,
+{
+"name" : "Anil Kumar Gupta",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Narendra Kumar Agrawal",
+"title" : "Senior Vice President, Director - Works, Executive Non-Independent Director"
+}
+,
+{
+"name" : "Sachin Kumar Srivastava",
+"title" : "Compliance Officer, Manager - Legal \u0026 Secretarial, Company Secretary, IR Contact Officer"
+}
+,
+{
+"name" : "Ved Krishna",
+"title" : "Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Kaikobad Dorab Pudumjee",
+"age" : "70",
+"title" : "Non-Executive Non-Promoter Independent Chairman of the Board"
+}
+,
+{
+"name" : "Manjula Jhunjhunwala",
+"age" : "61",
+"title" : "Non-Independent Non-Executive Director"
+}
+,
+{
+"name" : "Pradeep Vasant Dhobale",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Atul Kumar Gupta",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Imanul Haque",
+"age" : "51",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

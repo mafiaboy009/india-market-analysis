@@ -1,0 +1,291 @@
+
+// [
+{
+"symbol" : "538962",
+"exchange" : "BOM",
+"id": "15053284334714",
+"t" : "538962",
+"e" : "BOM",
+"name" : "Minda Corp Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:538962"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:538962"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:538962"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.95%",
+"annual" : "2.28%",
+"ttm" : "4.20%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.01%",
+"annual" : "3.71%",
+"ttm" : "6.26%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.49%",
+"ttm" : "8.30%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.56%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.29%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,831",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.30",
+"l" : "192.00",
+"cp" : "-1.69",
+"ccol" : "chr",
+"op" : "195.65",
+"hi" : "197.35",
+"lo" : "191.00",
+"vo" : "14,855.00",
+"avvo" : "",
+"hi52" : "229.00",
+"lo52" : "90.50",
+"mc" : "40.49B",
+"pe" : "33.53",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.73",
+"dy" : "0.29",
+"ldiv" : "0.25",
+"shares" : "208.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15053284334714",
+"name" : "Minda Corp Ltd",
+"t" : "538962",
+"e" : "BOM",
+"l" : "192.00",
+"c" : "-3.30",
+"mc" : "40.49B",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16541201",
+"name" : "Minda Industries Ltd",
+"t" : "MINDAIND",
+"e" : "NSE",
+"l" : "1,122.00",
+"c" : "+17.70",
+"mc" : "97.07B",
+"cp" : "1.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2055807",
+"name" : "India Nippon Electricals Ltd",
+"t" : "INDNIPPON",
+"e" : "NSE",
+"l" : "1,000.00",
+"c" : "+3.70",
+"mc" : "11.34B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12232770",
+"name" : "Denso India Pvt Ltd",
+"t" : "DENSO",
+"e" : "NSE",
+"l" : "142.75",
+"c" : "0.00",
+"mc" : "3.98B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13309952",
+"name" : "Motherson Sumi Systems Limited",
+"t" : "MOTHERSUMI",
+"e" : "NSE",
+"l" : "328.95",
+"c" : "+10.05",
+"mc" : "690.37B",
+"cp" : "3.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6715972",
+"name" : "REIL Electricals India Ltd",
+"t" : "505817",
+"e" : "BOM",
+"l" : "230.00",
+"c" : "0.00",
+"mc" : "868.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13659974",
+"name" : "Majestic Auto Ltd",
+"t" : "500267",
+"e" : "BOM",
+"l" : "161.20",
+"c" : "-2.35",
+"mc" : "1.68B",
+"cp" : "-1.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "135030",
+"name" : "Igarashi Motors India Ltd.",
+"t" : "IGARASHI",
+"e" : "NSE",
+"l" : "830.00",
+"c" : "+3.45",
+"mc" : "25.36B",
+"cp" : "0.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8999255",
+"name" : "Remsons Industries Ltd",
+"t" : "REMSONSIND",
+"e" : "NSE",
+"l" : "86.30",
+"c" : "+0.75",
+"mc" : "493.06M",
+"cp" : "0.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "417348",
+"name" : "PPAP Automotive Ltd",
+"t" : "PPAP",
+"e" : "NSE",
+"l" : "550.00",
+"c" : "+8.70",
+"mc" : "7.72B",
+"cp" : "1.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6556362",
+"name" : "Vishal Malleables Ltd",
+"t" : "505930",
+"e" : "BOM",
+"l" : "27.95",
+"c" : "0.00",
+"mc" : "75.99M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "D-6-11, Sector-59, Distt. G.B. Nagar, NOIDA, 201301, India",
+"phone": "+91-120-4787100",
+"fax": "+91-120-4787200",
+"url": "http:\u002F\u002Fwww.minda.co.in\u002Fmcl\u002Findex.aspx",
+"overview" : "Minda Corporation Limited is a holding company. The Company manufactures auto components\u002Faccessories from various locations in India. The Company\u0027s principal products\u002Fservices include lock kits, spares, and locks and ignition switches. The Company\u0027s geographical segments include Revenue within India (Domestic) and Revenue outside India (Overseas). The Revenue within India (Domestic) segment includes sale to customers located within India. The Revenue outside India (Overseas) segment includes sale of products manufactured in India and outside India to customers located outside India. The Company offers a diversified product portfolio that encompasses safety, security and restraint systems\u003B driver information and telematics systems, and interior systems for auto original equipment manufacturers. Its products cater to two\u002Fthree wheelers, passenger vehicles, commercial vehicles and after-market. Its manufacturing facilities are located in India, South-East Asia, Europe and North America."
+} ]
+, "management" : [
+{
+"name" : "Ashok Minda",
+"age" : "54",
+"title" : "Chairman of the Board, Group Chief Executive Officer"
+}
+,
+{
+"name" : "Sudhir Kashyap",
+"age" : "49",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "D. C. Sharma",
+"title" : "Group Chief Financial Officer"
+}
+,
+{
+"name" : "Ajay Sancheti",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vinod Bapna",
+"title" : "Head – Group Finance Controller"
+}
+,
+{
+"name" : "Pratima Ram",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Rakesh Chopra",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Avinash Prakash Gandhi",
+"age" : "78",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Laxman Ramnarayan",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

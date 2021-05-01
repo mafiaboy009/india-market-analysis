@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "539268",
+"exchange" : "BOM",
+"id": "113914595588138",
+"t" : "539268",
+"e" : "BOM",
+"name" : "Syngene International Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539268"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539268"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539268"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "21.15%",
+"annual" : "23.92%",
+"ttm" : "22.93%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "23.52%",
+"annual" : "22.52%",
+"ttm" : "23.58%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "32.03%",
+"ttm" : "33.41%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "11.68%",
+"annual" : "11.20%",
+"ttm" : "11.12%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "20.48%",
+"annual" : "23.57%",
+"ttm" : "20.26%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,492",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.15",
+"l" : "577.65",
+"cp" : "-0.20",
+"ccol" : "chr",
+"op" : "584.00",
+"hi" : "592.75",
+"lo" : "570.10",
+"vo" : "3,841.00",
+"avvo" : "",
+"hi52" : "670.00",
+"lo52" : "430.00",
+"mc" : "115.89B",
+"pe" : "38.25",
+"fwpe" : "",
+"beta" : "",
+"eps" : "15.10",
+"dy" : "0.17",
+"ldiv" : "1.00",
+"shares" : "200.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "113914595588138",
+"name" : "Syngene International Ltd",
+"t" : "539268",
+"e" : "BOM",
+"l" : "577.65",
+"c" : "-1.15",
+"mc" : "115.89B",
+"cp" : "-0.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "102277204733809",
+"name" : "Dr Habeebullah Life Sciences Ltd",
+"t" : "539267",
+"e" : "BOM",
+"l" : "46.05",
+"c" : "0.00",
+"mc" : "541.49M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "705274",
+"name" : "Saamya Biotech (India) Limited",
+"t" : "532905",
+"e" : "BOM",
+"l" : "1.89",
+"c" : "0.00",
+"mc" : "47.03M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2999824",
+"name" : "Vimta Labs Ltd",
+"t" : "VIMTALABS",
+"e" : "NSE",
+"l" : "206.50",
+"c" : "-2.05",
+"mc" : "4.51B",
+"cp" : "-0.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "949474959909055",
+"name" : "Jeevan Scientific Technology Ltd",
+"t" : "538837",
+"e" : "BOM",
+"l" : "45.05",
+"c" : "-0.70",
+"mc" : "418.04M",
+"cp" : "-1.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8524004",
+"name" : "Ashco Niulab Industries Ltd",
+"t" : "ASHCONIUL",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-0.30",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15037478",
+"name" : "Choksi Laboratories Ltd",
+"t" : "526546",
+"e" : "BOM",
+"l" : "29.50",
+"c" : "+1.10",
+"mc" : "",
+"cp" : "3.87",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715464",
+"name" : "Transgene Biotek Ltd",
+"t" : "526139",
+"e" : "BOM",
+"l" : "2.39",
+"c" : "0.00",
+"mc" : "181.09M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14699244",
+"name" : "Veerhealth Care Ltd",
+"t" : "511523",
+"e" : "BOM",
+"l" : "15.00",
+"c" : "-0.70",
+"mc" : "104.01M",
+"cp" : "-4.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2773719",
+"name" : "Piramal Phytocare Ltd",
+"t" : "PIRPHYTO",
+"e" : "NSE",
+"l" : "45.90",
+"c" : "-0.05",
+"mc" : "1.19B",
+"cp" : "-0.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13983860",
+"name" : "ABL Bio Technologies Ltd",
+"t" : "526955",
+"e" : "BOM",
+"l" : "0.81",
+"c" : "0.00",
+"mc" : "6.65M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": ", BANGALORE, 560099, India",
+"phone": "+91-80-67758781",
+"fax": "+91-80-28083189",
+"url": "http:\u002F\u002Fwww.syngeneintl.com\u002F",
+"overview" : "Syngene International Limited is a contract research company. The Company is engaged in providing contract research and manufacturing services in early-stage drug discovery and development to pharmaceutical and biotechnology companies. Its services include discovery chemistry and biology services, toxicology, pharmaceutical development, process development\u002Fmanufacture of intermediates, active pharmaceutical ingredients and bio-therapeutics. Its services encompass integrated, discovery and development services for novel molecular entities (NMEs) across industrial sectors, including pharmaceutical, biopharmaceutical and biotechnology, among others. It specializes in conducting discovery (from hit to candidate selection), development (including pre-clinical and clinical studies, analytical and bio-analytical evaluation, and stability studies) and manufacturing (scale-up, pre-clinical and manufacturing supplies). It serves clients ranging from multinational corporations to start-ups."
+} ]
+, "management" : [
+{
+"name" : "Kiran Mazumdar Shaw",
+"age" : "62",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Jonathan Hunt",
+"title" : "Chief Executive Officer, Whole Time Director"
+}
+,
+{
+"name" : "M. B. Chinappa",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manoj Nerurkar",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Mayank Verma",
+"title" : "Chief Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sebi Chacko",
+"title" : "Chief People Officer"
+}
+,
+{
+"name" : "Anita Chugh",
+"title" : "Head Biology"
+}
+,
+{
+"name" : "Dhananjay Patankar",
+"title" : "Head Pharmaceutical and Biopharmaceutical Development"
+}
+,
+{
+"name" : "Purushottam Singnurkar",
+"title" : "Research Director"
+}
+,
+{
+"name" : "Jegadeesh Thampi",
+"title" : "Research director and Head Chemical Development"
+}
+]
+,"moreresources" : [
+]
+}]

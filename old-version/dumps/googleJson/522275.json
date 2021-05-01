@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "522275",
+"exchange" : "BOM",
+"id": "677294",
+"t" : "522275",
+"e" : "BOM",
+"name" : "Ge T\u0026D India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:522275"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:522275"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:522275"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.99%",
+"annual" : "-2.03%",
+"ttm" : "4.70%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.99%",
+"annual" : "0.25%",
+"ttm" : "5.32%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "2.32%",
+"ttm" : "7.18%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.75%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-7.84%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,862",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.35",
+"l" : "408.00",
+"cp" : "-0.57",
+"ccol" : "chr",
+"op" : "414.40",
+"hi" : "415.60",
+"lo" : "406.55",
+"vo" : "3,812.00",
+"avvo" : "",
+"hi52" : "472.50",
+"lo52" : "277.05",
+"mc" : "105.51B",
+"pe" : "45.99",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.87",
+"dy" : "0.44",
+"ldiv" : "1.80",
+"shares" : "256.05M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677294",
+"name" : "Ge T\u0026D India Ltd",
+"t" : "522275",
+"e" : "BOM",
+"l" : "408.00",
+"c" : "-2.35",
+"mc" : "105.51B",
+"cp" : "-0.57",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3425782",
+"name" : "CG Power and Industrial Solutions Ltd(P)",
+"t" : "CGPOWER",
+"e" : "NSE",
+"l" : "82.45",
+"c" : "-0.20",
+"mc" : "51.64B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5296497",
+"name" : "ABB India Ltd",
+"t" : "ABB",
+"e" : "NSE",
+"l" : "1,520.00",
+"c" : "-3.25",
+"mc" : "321.75B",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9928106",
+"name" : "ECE Industries Ltd",
+"t" : "ECEIND",
+"e" : "NSE",
+"l" : "362.85",
+"c" : "+10.80",
+"mc" : "2.65B",
+"cp" : "3.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10896833",
+"name" : "Bharat Bijlee Ltd.",
+"t" : "BBL",
+"e" : "NSE",
+"l" : "1,525.00",
+"c" : "+82.75",
+"mc" : "8.61B",
+"cp" : "5.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15490302",
+"name" : "Emco Ltd.",
+"t" : "EMCO",
+"e" : "NSE",
+"l" : "17.25",
+"c" : "-0.30",
+"mc" : "1.17B",
+"cp" : "-1.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1104016979417339",
+"name" : "Schneider Electric Infrastructure Ltd",
+"t" : "SCHNEIDER",
+"e" : "NSE",
+"l" : "112.50",
+"c" : "-1.25",
+"mc" : "26.84B",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15338302",
+"name" : "Indo Tech Transformers Limited",
+"t" : "INDOTECH",
+"e" : "NSE",
+"l" : "198.80",
+"c" : "+1.45",
+"mc" : "2.11B",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8257960",
+"name" : "Tarapur Transformers Ltd",
+"t" : "TARAPUR",
+"e" : "NSE",
+"l" : "6.45",
+"c" : "-0.05",
+"mc" : "125.78M",
+"cp" : "-0.77",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1659606",
+"name" : "Marsons Ltd",
+"t" : "517467",
+"e" : "BOM",
+"l" : "4.72",
+"c" : "-0.14",
+"mc" : "117.04M",
+"cp" : "-2.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2758225",
+"name" : "IMP Powers Ltd",
+"t" : "INDLMETER",
+"e" : "NSE",
+"l" : "103.95",
+"c" : "-0.85",
+"mc" : "898.63M",
+"cp" : "-0.81",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "A-7, Sector - 65, NOIDA, 201301, India",
+"phone": "+91-120-4790000",
+"fax": "+91-120-2405439",
+"url": "http:\u002F\u002Fwww.alstomindiainvestorrelations.com\u002F",
+"overview" : "GE T\u0026D India Limited, formerly ALSTOM T\u0026D India Limited, is engaged in offering switchgear of all types, control panels, power transformers, electrical substation projects and services. The Company operates through Domestic and Overseas segments. The Company offers a portfolio of products, solutions, automation and services, comprising a range of transmission equipment up to Extra and Ultra High Voltages (over 765 kiloVolt and beyond). Its products include Gas-Insulated Switchgears (GIS)\u003B Air-Insulated Switchgears (AIS)\u003B power electronics solutions, such as high-voltage, direct current (HVDC) and Flexible Alternating Current Transmission Systems (FACTS), and power management Smart Grid solutions for transmission and distribution, including renewable energies integration. It offers Software solutions, including Energy Management systems, Distribution Management Systems (DMS), Geospatial Information systems, Outage management, Demand Response, Load forecasting and Analytics solutions."
+} ]
+, "management" : [
+{
+"name" : "Stepahne Cai",
+"title" : "Chairman of the Board, Additional Director"
+}
+,
+{
+"name" : "Gaurav Manoher Negi",
+"title" : "Chief Financial Officer, Whole - Time Director"
+}
+,
+{
+"name" : "Manoj Prasad Singh",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sunil Kumar Wadhwa",
+"age" : "57",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Nagesh Tilwani",
+"age" : "43",
+"title" : "Additional Whole-time Director"
+}
+,
+{
+"name" : "Neera Saggi",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Bhanu Bhushan",
+"age" : "70",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rakesh Nath",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kirit Shantilal Parikh",
+"age" : "79",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Chandan Roy",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,281 @@
+
+// [
+{
+"symbol" : "524592",
+"exchange" : "BOM",
+"id": "1501918",
+"t" : "524592",
+"e" : "BOM",
+"name" : "Jd Orgochem Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=JDOR.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524592"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524592"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524592"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-32.20%",
+"annual" : "3005.92%",
+"ttm" : "1353.66%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-37.80%",
+"annual" : "2967.72%",
+"ttm" : "1335.41%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-119.99%",
+"ttm" : "-21.56%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "168.67%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "4.19",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "4.37",
+"hi" : "4.37",
+"lo" : "4.19",
+"vo" : "1,100.00",
+"avvo" : "",
+"hi52" : "6.40",
+"lo52" : "3.34",
+"mc" : "55.52M",
+"pe" : "0.34",
+"fwpe" : "",
+"beta" : "",
+"eps" : "12.32",
+"dy" : "",
+"ldiv" : "",
+"shares" : "13.25M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1501918",
+"name" : "Jd Orgochem Ltd",
+"t" : "524592",
+"e" : "BOM",
+"l" : "4.19",
+"c" : "0.00",
+"mc" : "55.52M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1906823",
+"name" : "Sudarshan Chemical Industries Ltd",
+"t" : "SUDARSCHEM",
+"e" : "NSE",
+"l" : "425.00",
+"c" : "+14.75",
+"mc" : "29.30B",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "403253943912870",
+"name" : "Chromatic India Ltd",
+"t" : "CHROMATIC",
+"e" : "NSE",
+"l" : "2.30",
+"c" : "-0.10",
+"mc" : "163.41M",
+"cp" : "-4.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715428",
+"name" : "Ultramarine \u0026 Pigments Ltd.",
+"t" : "506685",
+"e" : "BOM",
+"l" : "334.50",
+"c" : "-1.75",
+"mc" : "9.69B",
+"cp" : "-0.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5262006",
+"name" : "Daikaffil Chemicals India Ltd",
+"t" : "530825",
+"e" : "BOM",
+"l" : "70.65",
+"c" : "+2.50",
+"mc" : "422.66M",
+"cp" : "3.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8907135",
+"name" : "Padmanabh Industries Ltd",
+"t" : "526905",
+"e" : "BOM",
+"l" : "89.00",
+"c" : "0.00",
+"mc" : "540.90M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7642768",
+"name" : "Jaysynth Dyestuff India Ltd(NDA)",
+"t" : "506910",
+"e" : "BOM",
+"l" : "76.00",
+"c" : "+2.05",
+"mc" : "660.42M",
+"cp" : "2.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722594",
+"name" : "Fineotex Chemical Ltd",
+"t" : "533333",
+"e" : "BOM",
+"l" : "68.05",
+"c" : "-2.00",
+"mc" : "7.59B",
+"cp" : "-2.86",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15544319",
+"name" : "Vivid Global Industries Ltd",
+"t" : "524576",
+"e" : "BOM",
+"l" : "48.90",
+"c" : "+1.10",
+"mc" : "444.54M",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "349274997109424",
+"name" : "CHD CHEMICALS Ltd",
+"t" : "539800",
+"e" : "BOM",
+"l" : "11.92",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715478",
+"name" : "Ferro Alloys Corporation Ltd (Parent)",
+"t" : "500141",
+"e" : "BOM",
+"l" : "9.72",
+"c" : "-0.23",
+"mc" : "1.83B",
+"cp" : "-2.31",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Suite 3123, 595 Burrard Street, MUMBAI, 400018, India",
+"phone": "+91-22-30423048",
+"fax": "+91-22-30423433",
+"url": "http:\u002F\u002Fwww.jdorgochem.com\u002F",
+"overview" : "JD Orgochem Limited is an India-based manufacturer and dealer of dyes, dyes intermediates, organic chemicals, textile auxiliaries, pigments, resins, plasticizers and emulsions. The Company operates through the trading \u0026 manufacturing of Dyes and Pigments segment. The Company specializes in providing products and services that are used in the textiles, plastics, printing ink and paint industries. Under the Dyestuff category, the Company offers a range of reactive, disperse and acid dyestuff products. The Company\u0027s plant is located at Patalganga, Taluka - Khalapur, District - Raigad in Maharashtra."
+} ]
+, "management" : [
+{
+"name" : "Mahendra K. Kothari",
+"age" : "68",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Narendra C. Shah",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Nikhil Sharadchandra Kothari",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shrikant Krushnakumar Kothari",
+"age" : "55",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Umesh T. Chandan",
+"age" : "53",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Mitesh Dilip Sejpal",
+"age" : "41",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Bharati R. Chandan",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

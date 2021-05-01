@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "533265",
+"exchange" : "BOM",
+"id": "1185015",
+"t" : "533265",
+"e" : "BOM",
+"name" : "Gallantt Ispat Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533265"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533265"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533265"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.23%",
+"annual" : "10.43%",
+"ttm" : "10.43%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-0.55%",
+"annual" : "9.35%",
+"ttm" : "9.35%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.33%",
+"ttm" : "12.33%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.19%",
+"ttm" : "6.19%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.38%",
+"ttm" : "14.38%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "477",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+12.90",
+"l" : "307.00",
+"cp" : "4.39",
+"ccol" : "chg",
+"op" : "302.00",
+"hi" : "308.00",
+"lo" : "293.00",
+"vo" : "347.00",
+"avvo" : "",
+"hi52" : "493.00",
+"lo52" : "173.55",
+"mc" : "8.88B",
+"pe" : "15.09",
+"fwpe" : "",
+"beta" : "",
+"eps" : "20.34",
+"dy" : "0.16",
+"ldiv" : "0.50",
+"shares" : "28.24M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1185015",
+"name" : "Gallantt Ispat Limited",
+"t" : "533265",
+"e" : "BOM",
+"l" : "307.00",
+"c" : "+12.90",
+"mc" : "8.88B",
+"cp" : "4.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9091584",
+"name" : "Gallantt Metal Limited",
+"t" : "GALLANTT",
+"e" : "NSE",
+"l" : "45.00",
+"c" : "+0.55",
+"mc" : "3.61B",
+"cp" : "1.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6556846",
+"name" : "JSW Ispat Steel Ltd",
+"t" : "JSWISPAT",
+"e" : "NSE",
+"l" : "10.00",
+"c" : "",
+"mc" : "25.17B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "84816923796163",
+"name" : "Aanchal Ispat Ltd",
+"t" : "538812",
+"e" : "BOM",
+"l" : "17.00",
+"c" : "+0.55",
+"mc" : "",
+"cp" : "3.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4717515",
+"name" : "Southern Ispat Ltd",
+"t" : "531645",
+"e" : "BOM",
+"l" : "0.05",
+"c" : "0.00",
+"mc" : "63.05M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6774107",
+"name" : "Monnet Ispat \u0026 Energy Ltd.",
+"t" : "MONNETISPA",
+"e" : "NSE",
+"l" : "27.35",
+"c" : "+0.85",
+"mc" : "5.45B",
+"cp" : "3.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15391558",
+"name" : "Kamdhenu Ltd",
+"t" : "KAMDHENU",
+"e" : "NSE",
+"l" : "266.85",
+"c" : "+12.70",
+"mc" : "6.24B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6759209",
+"name" : "Usha Ispat Ltd",
+"t" : "500432",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7175371",
+"name" : "Sathavahana Ispat Ltd.",
+"t" : "SATHAISPAT",
+"e" : "NSE",
+"l" : "22.85",
+"c" : "+0.95",
+"mc" : "1.15B",
+"cp" : "4.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8294072",
+"name" : "Ashiana Ispat Ltd",
+"t" : "513401",
+"e" : "BOM",
+"l" : "32.05",
+"c" : "+0.55",
+"mc" : "143.10M",
+"cp" : "1.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9868566",
+"name" : "Tayo Rolls Ltd",
+"t" : "504961",
+"e" : "BOM",
+"l" : "68.85",
+"c" : "+1.20",
+"mc" : "706.47M",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "1, Crooked Lane, 2nd Fl,Rm Nos.222 \u0026 223 Esplanade Post Office, KOLKATA, 700069, India",
+"phone": "+91-33-40642189",
+"fax": "+91-33-22312429",
+"url": "http:\u002F\u002Fwww.gallantt.com\u002Fgilprofile.html",
+"overview" : "Gallant Ispat Limited is an India-based company, which is engaged in the business of iron and steel, agro and power. The Company\u0027s segments include Agro, Steel, Power and Real Estate. The Steel segment includes the manufacturing and sale of iron and steel, and allied products. The Agro segment includes the manufacturing and sale of agro products, such as atta, suji, maida and bran. The Company\u0027s geographical segments include Sales within India, which includes sales to customers located within India, and Sales outside India, which includes sales to customers located outside India. The Company\u0027s captive power unit has an existing capacity of 18 megawatts per annum. The Company\u0027s steel melt shop has an existing capacity of 167,400 metric tons per annum, and its rolling mill has an existing capacity of 162,380 metric tons per annum. The Company\u0027s factories are located at Gallantt Estate, Sahjanwa, Sector-23, Gorakhpur, Uttar Pradesh."
+} ]
+, "management" : [
+{
+"name" : "Chandra Prakash Agarwal",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Nitesh Kumar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Santosh Kumar Agarwal",
+"title" : "Director - Sales \u0026 Marketing. Whole Time Director"
+}
+,
+{
+"name" : "Prem Prakash Agarwal",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Nitin M. Kandoi",
+"age" : "45",
+"title" : "Director- Plant Operation, Whole-Time Director"
+}
+,
+{
+"name" : "Jyotirindra Nath Dey",
+"age" : "75",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Tarun Kumar Gupta",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Piyush Kankrania",
+"age" : "25",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

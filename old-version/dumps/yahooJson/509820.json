@@ -1,0 +1,366 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 25537077248,
+            "fmt": "25.54B",
+            "longFmt": "25,537,077,248"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.029860001,
+            "fmt": "2.99%"
+          },
+          "floatShares": {
+            "raw": 21760969,
+            "fmt": "21.76M",
+            "longFmt": "21,760,969"
+          },
+          "sharesOutstanding": {
+            "raw": 75521904,
+            "fmt": "75.52M",
+            "longFmt": "75,521,904"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.094228,
+            "fmt": "-0.09"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 72.632,
+            "fmt": "72.63"
+          },
+          "priceToBook": {
+            "raw": 3.6609206,
+            "fmt": "3.66"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1577750400,
+            "fmt": "2019-12-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.373,
+            "fmt": "37.30%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 636200000,
+            "fmt": "636.2M",
+            "longFmt": "636,200,000"
+          },
+          "trailingEps": {
+            "raw": 8.42,
+            "fmt": "8.42"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.198,
+            "fmt": "1.20"
+          },
+          "enterpriseToEbitda": {
+            "raw": 11.559,
+            "fmt": "11.56"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 12253338000,
+                  "fmt": "12.25B",
+                  "longFmt": "12,253,338,000"
+                },
+                "earnings": {
+                  "raw": 666031000,
+                  "fmt": "666.03M",
+                  "longFmt": "666,031,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 20373828000,
+                  "fmt": "20.37B",
+                  "longFmt": "20,373,828,000"
+                },
+                "earnings": {
+                  "raw": 769317000,
+                  "fmt": "769.32M",
+                  "longFmt": "769,317,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 21777800000,
+                  "fmt": "21.78B",
+                  "longFmt": "21,777,800,000"
+                },
+                "earnings": {
+                  "raw": 845800000,
+                  "fmt": "845.8M",
+                  "longFmt": "845,800,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 21309500000,
+                  "fmt": "21.31B",
+                  "longFmt": "21,309,500,000"
+                },
+                "earnings": {
+                  "raw": 636200000,
+                  "fmt": "636.2M",
+                  "longFmt": "636,200,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 5113100000,
+                  "fmt": "5.11B",
+                  "longFmt": "5,113,100,000"
+                },
+                "earnings": {
+                  "raw": 117750000,
+                  "fmt": "117.75M",
+                  "longFmt": "117,750,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 5107800000,
+                  "fmt": "5.11B",
+                  "longFmt": "5,107,800,000"
+                },
+                "earnings": {
+                  "raw": 72300000,
+                  "fmt": "72.3M",
+                  "longFmt": "72,300,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 5464200000,
+                  "fmt": "5.46B",
+                  "longFmt": "5,464,200,000"
+                },
+                "earnings": {
+                  "raw": 191300000,
+                  "fmt": "191.3M",
+                  "longFmt": "191,300,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 5619100000,
+                  "fmt": "5.62B",
+                  "longFmt": "5,619,100,000"
+                },
+                "earnings": {
+                  "raw": 209400000,
+                  "fmt": "209.4M",
+                  "longFmt": "209,400,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "L.B.S.Marg",
+          "address2": "Majiwade",
+          "city": "Thane",
+          "zip": "400601",
+          "country": "India",
+          "phone": "91 22 2173 5591",
+          "fax": "91 22 2173 5599",
+          "website": "http://www.ppl.huhtamaki.com",
+          "industry": "Packaging & Containers",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Huhtamaki PPL Limited engages in the manufacture and sale of consumer packaging and labelling materials in India. Its packaging solutions include flexible packaging products; specialized pouches, such as shaped, block bottom, and stand up pouches with zippers and spouts; and labels comprising wrap around, wet strength, in mold, heat transfer, and pressure sensitive products. The company also provides shrink sleeve solutions; value added cartons for packaging of powders and solids; tube laminates; promotional and security solutions; thermoforms; holographic solutions; and cylinders and specialized films. Its products are used in various applications, such as food and beverage, health care, beauty care, oral care, personal care, household, automotive and industrial, agrochemical and seed, gift wrap, and pharma and medical sectors. The company exports its products to Africa, the Middle East, South East Asia, and Australia/New Zealand, as well as North, Central, and South America. The company was formerly known as The Paper Products Limited and changed its name to Huhtamaki PPL Limited in May 2014. Huhtamaki PPL Limited was founded in 1935 and is headquartered in Thane, India. Huhtamaki PPL Limited is a subsidiary of Huhtavefa B.V.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 265.9,
+            "fmt": "265.90"
+          },
+          "targetHighPrice": {
+            "raw": 362.0,
+            "fmt": "362.00"
+          },
+          "targetLowPrice": {
+            "raw": 304.0,
+            "fmt": "304.00"
+          },
+          "targetMeanPrice": {
+            "raw": 333.0,
+            "fmt": "333.00"
+          },
+          "targetMedianPrice": {
+            "raw": 333.0,
+            "fmt": "333.00"
+          },
+          "recommendationMean": {
+            "raw": 3.0,
+            "fmt": "3.00"
+          },
+          "recommendationKey": "hold",
+          "numberOfAnalystOpinions": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "totalCash": {
+            "raw": 1836199936,
+            "fmt": "1.84B",
+            "longFmt": "1,836,199,936"
+          },
+          "totalCashPerShare": {
+            "raw": 24.29,
+            "fmt": "24.29"
+          },
+          "ebitda": {
+            "raw": 2209299968,
+            "fmt": "2.21B",
+            "longFmt": "2,209,299,968"
+          },
+          "totalDebt": {
+            "raw": 3942400000,
+            "fmt": "3.94B",
+            "longFmt": "3,942,400,000"
+          },
+          "quickRatio": {
+            "raw": 1.493,
+            "fmt": "1.49"
+          },
+          "currentRatio": {
+            "raw": 1.982,
+            "fmt": "1.98"
+          },
+          "totalRevenue": {
+            "raw": 21309499392,
+            "fmt": "21.31B",
+            "longFmt": "21,309,499,392"
+          },
+          "debtToEquity": {
+            "raw": 71.801,
+            "fmt": "71.80"
+          },
+          "revenuePerShare": {
+            "raw": 282.028,
+            "fmt": "282.03"
+          },
+          "returnOnAssets": {
+            "raw": 0.05491,
+            "fmt": "5.49%"
+          },
+          "returnOnEquity": {
+            "raw": 0.10151,
+            "fmt": "10.15%"
+          },
+          "grossProfits": {
+            "raw": 7026500000,
+            "fmt": "7.03B",
+            "longFmt": "7,026,500,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.319,
+            "fmt": "31.90%"
+          },
+          "revenueGrowth": {
+            "raw": 0.075,
+            "fmt": "7.50%"
+          },
+          "grossMargins": {
+            "raw": 0.32974,
+            "fmt": "32.97%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.10368,
+            "fmt": "10.37%"
+          },
+          "operatingMargins": {
+            "raw": 0.06367,
+            "fmt": "6.37%"
+          },
+          "profitMargins": {
+            "raw": 0.029860001,
+            "fmt": "2.99%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

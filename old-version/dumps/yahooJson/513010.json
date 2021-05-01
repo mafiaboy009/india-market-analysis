@@ -1,0 +1,371 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 9178974208,
+            "fmt": "9.18B",
+            "longFmt": "9,178,974,208"
+          },
+          "forwardPE": {
+            "raw": 10.608532,
+            "fmt": "10.61"
+          },
+          "profitMargins": {
+            "raw": 0.15941,
+            "fmt": "15.94%"
+          },
+          "floatShares": {
+            "raw": 6523113,
+            "fmt": "6.52M",
+            "longFmt": "6,523,113"
+          },
+          "sharesOutstanding": {
+            "raw": 15400000,
+            "fmt": "15.4M",
+            "longFmt": "15,400,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.753312,
+            "fmt": "1.75"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 585.815,
+            "fmt": "585.82"
+          },
+          "priceToBook": {
+            "raw": 1.5876173,
+            "fmt": "1.59"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 2.282,
+            "fmt": "228.20%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1153904000,
+            "fmt": "1.15B",
+            "longFmt": "1,153,904,000"
+          },
+          "trailingEps": {
+            "raw": 74.918,
+            "fmt": "74.92"
+          },
+          "forwardEps": {
+            "raw": 87.67,
+            "fmt": "87.67"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.268,
+            "fmt": "1.27"
+          },
+          "enterpriseToEbitda": {
+            "raw": 6.24,
+            "fmt": "6.24"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2016",
+                "actual": {
+                  "raw": 10.43,
+                  "fmt": "10.43"
+                },
+                "estimate": {
+                  "raw": 8.3,
+                  "fmt": "8.30"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2016
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 7822223000,
+                  "fmt": "7.82B",
+                  "longFmt": "7,822,223,000"
+                },
+                "earnings": {
+                  "raw": 1011976000,
+                  "fmt": "1.01B",
+                  "longFmt": "1,011,976,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 7897321000,
+                  "fmt": "7.9B",
+                  "longFmt": "7,897,321,000"
+                },
+                "earnings": {
+                  "raw": 919379000,
+                  "fmt": "919.38M",
+                  "longFmt": "919,379,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 5735290000,
+                  "fmt": "5.74B",
+                  "longFmt": "5,735,290,000"
+                },
+                "earnings": {
+                  "raw": 319378000,
+                  "fmt": "319.38M",
+                  "longFmt": "319,378,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 5573077000,
+                  "fmt": "5.57B",
+                  "longFmt": "5,573,077,000"
+                },
+                "earnings": {
+                  "raw": 587704000,
+                  "fmt": "587.7M",
+                  "longFmt": "587,704,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 1671677000,
+                  "fmt": "1.67B",
+                  "longFmt": "1,671,677,000"
+                },
+                "earnings": {
+                  "raw": 212004000,
+                  "fmt": "212M",
+                  "longFmt": "212,004,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 1750200000,
+                  "fmt": "1.75B",
+                  "longFmt": "1,750,200,000"
+                },
+                "earnings": {
+                  "raw": 305700000,
+                  "fmt": "305.7M",
+                  "longFmt": "305,700,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 1671800000,
+                  "fmt": "1.67B",
+                  "longFmt": "1,671,800,000"
+                },
+                "earnings": {
+                  "raw": 276200000,
+                  "fmt": "276.2M",
+                  "longFmt": "276,200,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 2144700000,
+                  "fmt": "2.14B",
+                  "longFmt": "2,144,700,000"
+                },
+                "earnings": {
+                  "raw": 360000000,
+                  "fmt": "360M",
+                  "longFmt": "360,000,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Post - Joda",
+          "city": "Keonjhar",
+          "zip": "758034",
+          "country": "India",
+          "phone": "91 67 6727 8178",
+          "fax": "91 67 6727 8129",
+          "website": "http://www.tatasponge.com",
+          "industry": "Steel & Iron",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Tata Sponge Iron Limited produces and sells sponge iron in India. The company offers sponge iron to secondary steel sector for the production of steel. It also operates two power plants with a combined generation capacity of 26 MW that generate power from waste heat. In addition, the company exports sponge iron to Nepal, Bhutan, and Bangladesh. The company was incorporated in 1982 and is based in Keonjhar, India. Tata Sponge Iron Limited is a subsidiary of Tata Steel Limited.",
+          "fullTimeEmployees": 413,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 930.05,
+            "fmt": "930.05"
+          },
+          "targetHighPrice": {
+            "raw": 1165.0,
+            "fmt": "1,165.00"
+          },
+          "targetLowPrice": {
+            "raw": 1165.0,
+            "fmt": "1,165.00"
+          },
+          "targetMeanPrice": {
+            "raw": 1165.0,
+            "fmt": "1,165.00"
+          },
+          "targetMedianPrice": {
+            "raw": 1165.0,
+            "fmt": "1,165.00"
+          },
+          "recommendationMean": {
+            "raw": 2.5,
+            "fmt": "2.50"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 6083299840,
+            "fmt": "6.08B",
+            "longFmt": "6,083,299,840"
+          },
+          "totalCashPerShare": {
+            "raw": 395.077,
+            "fmt": "395.08"
+          },
+          "ebitda": {
+            "raw": 1470937472,
+            "fmt": "1.47B",
+            "longFmt": "1,470,937,472"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 7238376960,
+            "fmt": "7.24B",
+            "longFmt": "7,238,376,960"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 469.955,
+            "fmt": "469.95"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1634105000,
+            "fmt": "1.63B",
+            "longFmt": "1,634,105,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 2.279,
+            "fmt": "227.90%"
+          },
+          "revenueGrowth": {
+            "raw": 0.494,
+            "fmt": "49.40%"
+          },
+          "grossMargins": {
+            "raw": 0.33466,
+            "fmt": "33.47%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.20321,
+            "fmt": "20.32%"
+          },
+          "operatingMargins": {
+            "raw": 0.18571,
+            "fmt": "18.57%"
+          },
+          "profitMargins": {
+            "raw": 0.15941,
+            "fmt": "15.94%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

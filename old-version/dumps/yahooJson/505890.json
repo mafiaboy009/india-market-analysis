@@ -1,0 +1,371 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 15572759552,
+            "fmt": "15.57B",
+            "longFmt": "15,572,759,552"
+          },
+          "forwardPE": {
+            "raw": 56.350174,
+            "fmt": "56.35"
+          },
+          "profitMargins": {
+            "raw": 0.03399,
+            "fmt": "3.40%"
+          },
+          "floatShares": {
+            "raw": 5365977,
+            "fmt": "5.37M",
+            "longFmt": "5,365,977"
+          },
+          "sharesOutstanding": {
+            "raw": 21978200,
+            "fmt": "21.98M",
+            "longFmt": "21,978,200"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.160223,
+            "fmt": "0.16"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 186.286,
+            "fmt": "186.29"
+          },
+          "priceToBook": {
+            "raw": 5.208926,
+            "fmt": "5.21"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1498780800,
+            "fmt": "2017-06-30"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1561852800,
+            "fmt": "2019-06-30"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.191,
+            "fmt": "-19.10%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 240500000,
+            "fmt": "240.5M",
+            "longFmt": "240,500,000"
+          },
+          "trailingEps": {
+            "raw": 10.939,
+            "fmt": "10.94"
+          },
+          "forwardEps": {
+            "raw": 17.22,
+            "fmt": "17.22"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 969235200,
+            "fmt": "2000-09-18"
+          },
+          "enterpriseToRevenue": {
+            "raw": 2.201,
+            "fmt": "2.20"
+          },
+          "enterpriseToEbitda": {
+            "raw": 20.501,
+            "fmt": "20.50"
+          },
+          "52WeekChange": {
+            "raw": 0.57706845,
+            "fmt": "57.71%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 4.99,
+                  "fmt": "4.99"
+                },
+                "estimate": {
+                  "raw": 4.49,
+                  "fmt": "4.49"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 5451300000,
+                  "fmt": "5.45B",
+                  "longFmt": "5,451,300,000"
+                },
+                "earnings": {
+                  "raw": 170700000,
+                  "fmt": "170.7M",
+                  "longFmt": "170,700,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 5702500000,
+                  "fmt": "5.7B",
+                  "longFmt": "5,702,500,000"
+                },
+                "earnings": {
+                  "raw": 335200000,
+                  "fmt": "335.2M",
+                  "longFmt": "335,200,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 5707800000,
+                  "fmt": "5.71B",
+                  "longFmt": "5,707,800,000"
+                },
+                "earnings": {
+                  "raw": 207400000,
+                  "fmt": "207.4M",
+                  "longFmt": "207,400,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 6507200000,
+                  "fmt": "6.51B",
+                  "longFmt": "6,507,200,000"
+                },
+                "earnings": {
+                  "raw": 221000000,
+                  "fmt": "221M",
+                  "longFmt": "221,000,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 1656600000,
+                  "fmt": "1.66B",
+                  "longFmt": "1,656,600,000"
+                },
+                "earnings": {
+                  "raw": 89000000,
+                  "fmt": "89M",
+                  "longFmt": "89,000,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 1737800000,
+                  "fmt": "1.74B",
+                  "longFmt": "1,737,800,000"
+                },
+                "earnings": {
+                  "raw": 7800000,
+                  "fmt": "7.8M",
+                  "longFmt": "7,800,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 1811400000,
+                  "fmt": "1.81B",
+                  "longFmt": "1,811,400,000"
+                },
+                "earnings": {
+                  "raw": 99900000,
+                  "fmt": "99.9M",
+                  "longFmt": "99,900,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 1866600000,
+                  "fmt": "1.87B",
+                  "longFmt": "1,866,600,000"
+                },
+                "earnings": {
+                  "raw": 62500000,
+                  "fmt": "62.5M",
+                  "longFmt": "62,500,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "8/9th Mile",
+          "address2": "Tumkur Road",
+          "city": "Bengaluru",
+          "zip": "560073",
+          "country": "India",
+          "phone": "91 80 2839 4321",
+          "fax": "91 80 2839 7572",
+          "website": "http://www.kennametal.com",
+          "industry": "Diversified Machinery",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Kennametal India Limited manufactures and trades in hard metal products and machine tools in India, Europe, the United States, and internationally. The company provides metalworking and metal cutting tools, tooling systems and services, and wear resistant engineered components, as well as high-performance materials, such as cemented tungsten carbide products, super alloys, coatings, and investment castings. It also offers a line of tool holders, tool-holding systems, and rotary-cutting tools. In addition, the company produces specialized compacts and metallurgical powders, as well as products made from tungsten carbide or other hard materials. It serves manufactures, metalworking suppliers, machinery operators, and processors in the transportation, earthworks, energy, infrastructure, aerospace, mining and highway construction, and other industries under the Kennametal and Widia brand names. The company was incorporated in 1964 and is based in Bengaluru, India. Kennametal India Limited is a subsidiary of Meturit AG.",
+          "fullTimeEmployees": 793,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 970.35,
+            "fmt": "970.35"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 550700032,
+            "fmt": "550.7M",
+            "longFmt": "550,700,032"
+          },
+          "totalCashPerShare": {
+            "raw": 25.024,
+            "fmt": "25.02"
+          },
+          "ebitda": {
+            "raw": 759600000,
+            "fmt": "759.6M",
+            "longFmt": "759,600,000"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {
+            "raw": 1.377,
+            "fmt": "1.38"
+          },
+          "currentRatio": {
+            "raw": 2.571,
+            "fmt": "2.57"
+          },
+          "totalRevenue": {
+            "raw": 7076100096,
+            "fmt": "7.08B",
+            "longFmt": "7,076,100,096"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 322.025,
+            "fmt": "322.02"
+          },
+          "returnOnAssets": {
+            "raw": 0.05348,
+            "fmt": "5.35%"
+          },
+          "returnOnEquity": {
+            "raw": 0.060159996,
+            "fmt": "6.02%"
+          },
+          "grossProfits": {
+            "raw": 2953600000,
+            "fmt": "2.95B",
+            "longFmt": "2,953,600,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.193,
+            "fmt": "-19.30%"
+          },
+          "revenueGrowth": {
+            "raw": 0.167,
+            "fmt": "16.70%"
+          },
+          "grossMargins": {
+            "raw": 0.4595,
+            "fmt": "45.95%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.10735,
+            "fmt": "10.73%"
+          },
+          "operatingMargins": {
+            "raw": 0.06444,
+            "fmt": "6.44%"
+          },
+          "profitMargins": {
+            "raw": 0.03399,
+            "fmt": "3.40%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

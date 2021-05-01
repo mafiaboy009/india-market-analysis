@@ -1,0 +1,296 @@
+
+// [
+{
+"symbol" : "513605",
+"exchange" : "BOM",
+"id": "715505",
+"t" : "513605",
+"e" : "BOM",
+"name" : "Srikalahasthi Pipes Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:513605"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:513605"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:513605"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.23%",
+"annual" : "11.65%",
+"ttm" : "9.02%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.11%",
+"annual" : "16.63%",
+"ttm" : "13.10%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.69%",
+"ttm" : "15.34%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "9.55%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.56%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,351",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.75",
+"l" : "358.45",
+"cp" : "0.49",
+"ccol" : "chg",
+"op" : "360.00",
+"hi" : "362.20",
+"lo" : "357.70",
+"vo" : "3,534.00",
+"avvo" : "",
+"hi52" : "448.85",
+"lo52" : "296.50",
+"mc" : "16.78B",
+"pe" : "9.90",
+"fwpe" : "",
+"beta" : "",
+"eps" : "36.21",
+"dy" : "1.67",
+"ldiv" : "6.00",
+"shares" : "46.70M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715505",
+"name" : "Srikalahasthi Pipes Ltd",
+"t" : "513605",
+"e" : "BOM",
+"l" : "358.45",
+"c" : "+1.75",
+"mc" : "16.78B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15239521",
+"name" : "K I C Metaliks Ltd",
+"t" : "513693",
+"e" : "BOM",
+"l" : "184.95",
+"c" : "-3.75",
+"mc" : "1.31B",
+"cp" : "-1.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1433939",
+"name" : "Electrosteel Steels Ltd",
+"t" : "ESL",
+"e" : "NSE",
+"l" : "3.45",
+"c" : "-0.15",
+"mc" : "8.31B",
+"cp" : "-4.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13928461",
+"name" : "Garg Furnace Ltd",
+"t" : "530615",
+"e" : "BOM",
+"l" : "10.69",
+"c" : "+0.08",
+"mc" : "42.53M",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16000145",
+"name" : "N R International Ltd",
+"t" : "532623",
+"e" : "BOM",
+"l" : "5.76",
+"c" : "0.00",
+"mc" : "61.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "722448",
+"name" : "Rajkumar Forge limited",
+"t" : "513369",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "+1.60",
+"mc" : "437.58M",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8542662",
+"name" : "Gontermann Peipers India Ltd.",
+"t" : "504701",
+"e" : "BOM",
+"l" : "7.50",
+"c" : "+0.07",
+"mc" : "160.92M",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10700680",
+"name" : "Kesoram Industries Limited",
+"t" : "KESORAMIND",
+"e" : "NSE",
+"l" : "132.55",
+"c" : "-0.40",
+"mc" : "16.59B",
+"cp" : "-0.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3198942",
+"name" : "Bhuwalka Steel Industries Ltd",
+"t" : "513333",
+"e" : "BOM",
+"l" : "4.46",
+"c" : "0.00",
+"mc" : "46.27M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4777716",
+"name" : "Steel Authority of India Limited",
+"t" : "SAIL",
+"e" : "NSE",
+"l" : "86.40",
+"c" : "-0.65",
+"mc" : "355.24B",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Rachgunneri Village \u0026 (Po) Srikalahasthi Mandal, CHITTOOR, 517641, India",
+"phone": "+91-8578-286650",
+"fax": "+91-8578-286657",
+"url": "http:\u002F\u002Fwww.srikalahasthipipes.com\u002F",
+"overview" : "Srikalahasthi Pipes Limited is engaged in the manufacture and supply of ductile iron (DI) pipe. The Company offers public utility services for water infrastructure development. It also produces low ash metallurgical (LAM) coke, sinter liquid metal and power for captive consumption in its integrated complex. In addition, it manufactures and supplies cement and pig iron. Its DI pipes are supplied to various water boards, municipal corporations, military engineer services, railways and contractors across the country for their water infrastructure projects. It offers DI pipes in a range of coatings and linings, including internal lining, which consists of cement mortar lining with Portland Slag cement or Sulfate resisting cement\u003B external coating, which consists of metallic zinc coating with finishing layer of Bituminous Coating, and other linings and coatings, such as High Alumina Cement mortar lining, and Epoxy Coating and Polyethylene Sleeves."
+} ]
+, "management" : [
+{
+"name" : "N.Sivalai Senthilnathan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "G. Kodandapani",
+"title" : "Compliance Officer, Secretary"
+}
+,
+{
+"name" : "Mayank Kejriwal",
+"age" : "62",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "V. Poyyamozhi",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Baskar Ramamurthy",
+"title" : "Deputy Chief Operating Officer"
+}
+,
+{
+"name" : "G. Maruthi Rao",
+"age" : "75",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "S. Hamamalini",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "R. K. Khanna",
+"title" : "Director"
+}
+,
+{
+"name" : "S. Y. Rajagopalan",
+"age" : "78",
+"title" : "Non-Independent Non-Executive Director"
+}
+,
+{
+"name" : "Gouri Shankar Rathi",
+"age" : "63",
+"title" : "Non-Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

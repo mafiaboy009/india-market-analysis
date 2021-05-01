@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "513269",
+"exchange" : "BOM",
+"id": "703984",
+"t" : "513269",
+"e" : "BOM",
+"name" : "Man Industries (India) Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:513269"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:513269"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:513269"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002714)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.01%",
+"annual" : "3.17%",
+"ttm" : "0.90%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.28%",
+"annual" : "0.78%",
+"ttm" : "2.32%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.56%",
+"ttm" : "5.48%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.58%",
+"ttm" : "0.57%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.77%",
+"ttm" : "1.37%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "812",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.15",
+"l" : "128.10",
+"cp" : "0.12",
+"ccol" : "chg",
+"op" : "128.90",
+"hi" : "132.50",
+"lo" : "126.60",
+"vo" : "82,878.00",
+"avvo" : "",
+"hi52" : "161.00",
+"lo52" : "45.50",
+"mc" : "7.31B",
+"pe" : "81.05",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.58",
+"dy" : "1.17",
+"ldiv" : "1.50",
+"shares" : "57.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703984",
+"name" : "Man Industries (India) Limited",
+"t" : "513269",
+"e" : "BOM",
+"l" : "128.10",
+"c" : "+0.15",
+"mc" : "7.31B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11285939",
+"name" : "Tinplate Company of India Ltd",
+"t" : "TINPLATE",
+"e" : "NSE",
+"l" : "239.90",
+"c" : "+5.35",
+"mc" : "25.16B",
+"cp" : "2.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8217290",
+"name" : "Linkson International Ltd",
+"t" : "508982",
+"e" : "BOM",
+"l" : "90.75",
+"c" : "0.00",
+"mc" : "291.15M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5039060",
+"name" : "Mukat Pipes Ltd",
+"t" : "523832",
+"e" : "BOM",
+"l" : "2.36",
+"c" : "0.00",
+"mc" : "27.15M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2764048",
+"name" : "National Steel and Agro Industries",
+"t" : "NATNLSTEEL",
+"e" : "NSE",
+"l" : "36.75",
+"c" : "+0.05",
+"mc" : "1.62B",
+"cp" : "0.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15274130",
+"name" : "Bharat Heavy Electricals Limited",
+"t" : "BHEL",
+"e" : "NSE",
+"l" : "93.30",
+"c" : "+0.40",
+"mc" : "342.73B",
+"cp" : "0.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1845525",
+"name" : "Vardhman Textiles Ltd.",
+"t" : "VTL",
+"e" : "NSE",
+"l" : "1,385.00",
+"c" : "+18.00",
+"mc" : "79.41B",
+"cp" : "1.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4250412",
+"name" : "NESCO Ltd.",
+"t" : "NESCO",
+"e" : "NSE",
+"l" : "597.95",
+"c" : "+6.90",
+"mc" : "42.28B",
+"cp" : "1.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "631678",
+"name" : "Technofab Engineering",
+"t" : "TECHNOFAB",
+"e" : "NSE",
+"l" : "235.00",
+"c" : "+4.90",
+"mc" : "2.46B",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "633019395133539",
+"name" : "RSD Finance Ltd",
+"t" : "539875",
+"e" : "BOM",
+"l" : "75.00",
+"c" : "0.00",
+"mc" : "485.49M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6204336",
+"name" : "Siemens Ltd",
+"t" : "SIEMENS",
+"e" : "NSE",
+"l" : "1,169.00",
+"c" : "-3.10",
+"mc" : "415.99B",
+"cp" : "-0.26",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Man House 101, S.V. Road, Vile Parle (W), MUMBAI, 400056, India",
+"phone": "+91-22-66477500",
+"fax": "+91-22-66477600",
+"url": "http:\u002F\u002Fwww.mangroup.com\u002F",
+"overview" : "Man Industries (India) Limited is an India-based holding company. The Company is engaged in the manufacturing and coating of large diameter carbon steel pipes, infrastructure, and realty and trading. The Company is a manufacturer and exporter of large diameter carbon steel line pipes for various high pressure transmission applications for gas, crude oil, petrochemical products and potable water. The Company offers products, including longitudinal submerged arc welded (LSAW) pipes, helically submerged arc welded (HSAW) pipes and coating products. The Company\u0027s LSAW Line Pipes are manufactured in diameter, ranging from 16 to 56 inches. Its HSAW products are used in oil transportation, water supply, sewerage, agriculture, construction and other applications. The Company has its manufacturing facilities for LSAW and HSAW line pipes and also for various types of anti-corrosion coating systems."
+} ]
+, "management" : [
+{
+"name" : "Ramesh C. Mansukhani",
+"age" : "58",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Ashok Gupta",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Mangesh Nabar",
+"title" : "Senior Vice President - Marketing and Business Development"
+}
+,
+{
+"name" : "Krishna Gopal Mantri",
+"title" : "Senior Vice President, Additional Professional Director"
+}
+,
+{
+"name" : "Lalit Tolwani",
+"title" : "Senior Vice President - Operations"
+}
+,
+{
+"name" : "Shashank Belkhede",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sanjay Sohani",
+"title" : "Vice President - Operations \u0026 Electricals"
+}
+,
+{
+"name" : "Paresh Pandhakarne",
+"title" : "Vice President - Human Resources, Administration"
+}
+,
+{
+"name" : "Ashok Sarkar",
+"title" : "Vice President - Marketing and Business Development"
+}
+,
+{
+"name" : "Umesh Rastogi",
+"title" : "Vice President - Business Development \u0026 Technical Services"
+}
+]
+,"moreresources" : [
+]
+}]

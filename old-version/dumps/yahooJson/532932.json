@@ -1,0 +1,355 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": -653271552,
+            "fmt": "-653.27M",
+            "longFmt": "-653,271,552"
+          },
+          "forwardPE": {
+            "raw": 11.111112,
+            "fmt": "11.11"
+          },
+          "profitMargins": {
+            "raw": 0.07882,
+            "fmt": "7.88%"
+          },
+          "floatShares": {
+            "raw": 11311905,
+            "fmt": "11.31M",
+            "longFmt": "11,311,905"
+          },
+          "sharesOutstanding": {
+            "raw": 65534000,
+            "fmt": "65.53M",
+            "longFmt": "65,534,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.329657,
+            "fmt": "-0.33"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 137.393,
+            "fmt": "137.39"
+          },
+          "priceToBook": {
+            "raw": 0.42942506,
+            "fmt": "0.43"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.09,
+            "fmt": "9.00%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 883088000,
+            "fmt": "883.09M",
+            "longFmt": "883,088,000"
+          },
+          "trailingEps": {
+            "raw": 13.633,
+            "fmt": "13.63"
+          },
+          "forwardEps": {
+            "raw": 5.31,
+            "fmt": "5.31"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": -0.058,
+            "fmt": "-0.06"
+          },
+          "enterpriseToEbitda": {
+            "raw": -0.435,
+            "fmt": "-0.44"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 4.14,
+                  "fmt": "4.14"
+                },
+                "estimate": {
+                  "raw": 4.26,
+                  "fmt": "4.26"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 16790686000,
+                  "fmt": "16.79B",
+                  "longFmt": "16,790,686,000"
+                },
+                "earnings": {
+                  "raw": 1913226000,
+                  "fmt": "1.91B",
+                  "longFmt": "1,913,226,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 11276119000,
+                  "fmt": "11.28B",
+                  "longFmt": "11,276,119,000"
+                },
+                "earnings": {
+                  "raw": 1034329000,
+                  "fmt": "1.03B",
+                  "longFmt": "1,034,329,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 10990135000,
+                  "fmt": "10.99B",
+                  "longFmt": "10,990,135,000"
+                },
+                "earnings": {
+                  "raw": 932367000,
+                  "fmt": "932.37M",
+                  "longFmt": "932,367,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 10407635000,
+                  "fmt": "10.41B",
+                  "longFmt": "10,407,635,000"
+                },
+                "earnings": {
+                  "raw": 1010522000,
+                  "fmt": "1.01B",
+                  "longFmt": "1,010,522,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 3943689000,
+                  "fmt": "3.94B",
+                  "longFmt": "3,943,689,000"
+                },
+                "earnings": {
+                  "raw": 188217000,
+                  "fmt": "188.22M",
+                  "longFmt": "188,217,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 2919087000,
+                  "fmt": "2.92B",
+                  "longFmt": "2,919,087,000"
+                },
+                "earnings": {
+                  "raw": 161900000,
+                  "fmt": "161.9M",
+                  "longFmt": "161,900,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 2476365000,
+                  "fmt": "2.48B",
+                  "longFmt": "2,476,365,000"
+                },
+                "earnings": {
+                  "raw": 264067000,
+                  "fmt": "264.07M",
+                  "longFmt": "264,067,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 1864530000,
+                  "fmt": "1.86B",
+                  "longFmt": "1,864,530,000"
+                },
+                "earnings": {
+                  "raw": 272638000,
+                  "fmt": "272.64M",
+                  "longFmt": "272,638,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Bikaner Building",
+          "address2": "3rd Floor 8/1, Lalbazar Street",
+          "city": "Kolkata",
+          "zip": "700001",
+          "country": "India",
+          "phone": "91 33 2231 0050",
+          "fax": "91 33 2230 0336",
+          "website": "http://www.manaksia.com",
+          "industry": "Metal Fabrication",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Manaksia Limited manufactures and sells packaging, metal, and other products in India and internationally. Its Packaging Products segment offers PP caps, crown closures, metal containers, EP liners, washers, EP sheets, etc. The company's Metal Products segment provides aluminum and steel galvanized sheets, coils, etc. Its Others segment offers machines, spare parts, etc. Manaksia Limited also offers fast moving consumer goods, such as mosquito repellents. The company was formerly known as Hindusthan Seals Ltd. Manaksia Limited was incorporated in 1984 and is based in Kolkata, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 59.0,
+            "fmt": "59.00"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 5074437120,
+            "fmt": "5.07B",
+            "longFmt": "5,074,437,120"
+          },
+          "totalCashPerShare": {
+            "raw": 78.916,
+            "fmt": "78.92"
+          },
+          "ebitda": {
+            "raw": 1503317504,
+            "fmt": "1.5B",
+            "longFmt": "1,503,317,504"
+          },
+          "totalDebt": {
+            "raw": 993900032,
+            "fmt": "993.9M",
+            "longFmt": "993,900,032"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 11203671040,
+            "fmt": "11.2B",
+            "longFmt": "11,203,671,040"
+          },
+          "debtToEquity": {
+            "raw": 11.181,
+            "fmt": "11.18"
+          },
+          "revenuePerShare": {
+            "raw": 172.959,
+            "fmt": "172.96"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 3833458000,
+            "fmt": "3.83B",
+            "longFmt": "3,833,458,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.11,
+            "fmt": "11.00%"
+          },
+          "revenueGrowth": {
+            "raw": -0.184,
+            "fmt": "-18.40%"
+          },
+          "grossMargins": {
+            "raw": 0.26116,
+            "fmt": "26.12%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.13418001,
+            "fmt": "13.42%"
+          },
+          "operatingMargins": {
+            "raw": 0.09937,
+            "fmt": "9.94%"
+          },
+          "profitMargins": {
+            "raw": 0.07882,
+            "fmt": "7.88%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

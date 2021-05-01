@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "513228",
+"exchange" : "BOM",
+"id": "715567",
+"t" : "513228",
+"e" : "BOM",
+"name" : "Pennar Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:513228"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:513228"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:513228"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.20%",
+"annual" : "3.80%",
+"ttm" : "3.63%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.64%",
+"annual" : "9.19%",
+"ttm" : "8.58%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.93%",
+"ttm" : "10.11%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.92%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.77%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,515",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.15",
+"l" : "61.55",
+"cp" : "3.62",
+"ccol" : "chg",
+"op" : "60.00",
+"hi" : "62.25",
+"lo" : "58.90",
+"vo" : "78,406.00",
+"avvo" : "",
+"hi52" : "79.00",
+"lo52" : "40.00",
+"mc" : "7.44B",
+"pe" : "14.13",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.36",
+"dy" : "",
+"ldiv" : "",
+"shares" : "120.35M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715567",
+"name" : "Pennar Industries Ltd",
+"t" : "513228",
+"e" : "BOM",
+"l" : "61.55",
+"c" : "+2.15",
+"mc" : "7.44B",
+"cp" : "3.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6810385",
+"name" : "Mahindra Ugine Steel Company Limited",
+"t" : "MAHINDUGIN",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-573.95",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6351214",
+"name" : "Rishi Laser Ltd.",
+"t" : "526861",
+"e" : "BOM",
+"l" : "33.25",
+"c" : "-1.75",
+"mc" : "305.65M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722448",
+"name" : "Rajkumar Forge limited",
+"t" : "513369",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "+1.60",
+"mc" : "437.58M",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15926385",
+"name" : "Jindal Steel \u0026 Power Limited",
+"t" : "JINDALSTEL",
+"e" : "NSE",
+"l" : "266.60",
+"c" : "+1.60",
+"mc" : "244.05B",
+"cp" : "0.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6987540",
+"name" : "Technocraft Industries (India) Ltd",
+"t" : "TIIL",
+"e" : "NSE",
+"l" : "546.00",
+"c" : "-0.40",
+"mc" : "14.34B",
+"cp" : "-0.07",
+"ccol" : "chr"
+}
+,
+{
+"id" : "153521247303809",
+"name" : "Goodluck India Ltd",
+"t" : "GOODLUCK",
+"e" : "NSE",
+"l" : "102.50",
+"c" : "+0.50",
+"mc" : "2.35B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12752818",
+"name" : "Stelco Strips Ltd",
+"t" : "513530",
+"e" : "BOM",
+"l" : "4.10",
+"c" : "",
+"mc" : "37.31M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "15519942",
+"name" : "Vallabh Steels Ltd",
+"t" : "513397",
+"e" : "BOM",
+"l" : "29.95",
+"c" : "-1.55",
+"mc" : "148.25M",
+"cp" : "-4.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15391558",
+"name" : "Kamdhenu Ltd",
+"t" : "KAMDHENU",
+"e" : "NSE",
+"l" : "266.85",
+"c" : "+12.70",
+"mc" : "6.24B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "IDA,Medak Dist., PATANCHERU, 502319, India",
+"phone": "+91-8455-242184",
+"fax": "+91-40-40061618",
+"url": "http:\u002F\u002Fwww.pennarindia.com\u002F",
+"overview" : "Pennar Industries Limited is a holding company. The Company is engaged in the manufacture of steel products, including Cold Rolled Steel Strips (CRSS) and Cold Formed Metal Profiles. The Company is engaged in the manufacture of hot-rolled and cold-rolled products of steel. It also manufactures tubes. Its business divisions include Steel products, Systems and projects, Tubes and Industrial components. The Company offers precision tubes, cold rolled formed sections (CRFS), electro static precipitators, railway wagons and coach components, press steel components and road safety systems. The Company provides solar module mounting solutions\u003B storage solutions, such as racking and shelving solutions\u003B hydraulic components and auto components, and electric resistance welded pipes, cold-drawn welded tubes and air pre-heater tubes. It offers CRSS and CRFS for applications, such as building components and infrastructure, automobile profiles, metal crash barriers and sheet piles."
+} ]
+, "management" : [
+{
+"name" : "Joginapally Venkata Nrupender Rao",
+"age" : "70",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Jammulamadaka Srinivasa Krishna Prasad",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Mirza Mohammed Ali Baig",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "K. Lavanya Kumar",
+"age" : "56",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Aditya Narsing Rao",
+"age" : "33",
+"title" : "Non-Independent Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Eric James Brown",
+"title" : "Non Independent Non-Executive Director"
+}
+,
+{
+"name" : "P. V. Rao",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Comandur Parthasarathy",
+"age" : "59",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Ravi Chachra",
+"age" : "50",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Varun Chawla",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

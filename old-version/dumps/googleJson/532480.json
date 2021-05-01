@@ -1,0 +1,287 @@
+
+ [
+{
+"symbol" : "532480",
+"exchange" : "BOM",
+"id": "700532",
+"t" : "532480",
+"e" : "BOM",
+"name" : "Allahabad Bank"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532480"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532480"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532480"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-3.40%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "-6.86%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "2.57%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.12%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-1.86%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "23,944",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "52.10",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "52.90",
+"hi" : "52.90",
+"lo" : "51.85",
+"vo" : "132,253.00",
+"avvo" : "",
+"hi52" : "92.50",
+"lo52" : "48.80",
+"mc" : "41.65B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "",
+"ldiv" : "",
+"shares" : "800.21M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "700532",
+"name" : "Allahabad Bank",
+"t" : "532480",
+"e" : "BOM",
+"l" : "52.10",
+"c" : "0.00",
+"mc" : "41.65B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5904015",
+"name" : "Federal Bank Ltd",
+"t" : "FEDERALBNK",
+"e" : "NSE",
+"l" : "96.25",
+"c" : "+1.50",
+"mc" : "188.93B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3473026",
+"name" : "Karnataka Bank Limited",
+"t" : "KTKBANK",
+"e" : "NSE",
+"l" : "135.60",
+"c" : "+2.15",
+"mc" : "38.25B",
+"cp" : "1.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7445850",
+"name" : "LKP Finance Ltd",
+"t" : "507912",
+"e" : "BOM",
+"l" : "118.00",
+"c" : "+2.65",
+"mc" : "1.43B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15252469",
+"name" : "City Union Bank Ltd",
+"t" : "CUB",
+"e" : "NSE",
+"l" : "170.05",
+"c" : "-0.20",
+"mc" : "112.43B",
+"cp" : "-0.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4975940",
+"name" : "Jammu \u0026 Kashmir Bank Limited",
+"t" : "J\u0026KBANK",
+"e" : "NSE",
+"l" : "68.00",
+"c" : "+2.00",
+"mc" : "37.87B",
+"cp" : "3.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2958596",
+"name" : "Indian Overseas Bank",
+"t" : "IOB",
+"e" : "NSE",
+"l" : "19.65",
+"c" : "+0.05",
+"mc" : "55.91B",
+"cp" : "0.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3261730",
+"name" : "Axis Bank Ltd",
+"t" : "AXISBANK",
+"e" : "NSE",
+"l" : "550.00",
+"c" : "+13.35",
+"mc" : "1.41T",
+"cp" : "2.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6735160",
+"name" : "State Bank of Bikaner and Jaipur",
+"t" : "SBBJ",
+"e" : "NSE",
+"l" : "770.00",
+"c" : "",
+"mc" : "53.90B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "15355585",
+"name" : "Andhra Bank",
+"t" : "ANDHRABANK",
+"e" : "NSE",
+"l" : "45.95",
+"c" : "+0.10",
+"mc" : "39.76B",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1796883",
+"name" : "Punjab and Sind Bank",
+"t" : "PSB",
+"e" : "NSE",
+"l" : "39.30",
+"c" : "+0.35",
+"mc" : "15.72B",
+"cp" : "0.90",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "#2 Netaji Subhas Road, KOLKATA, 700001, India",
+"phone": "+91-33-22420863",
+"fax": "+91-33-22107425",
+"url": "https:\u002F\u002Fwww.allahabadbank.in",
+"overview" : "Allahabad Bank is a banking company. The Company\u0027s principal products\u002Fservices are debenture\u002F security trusteeship fees and custodian fees. It operates through four business segments: Treasury Operations, Corporate\u002F wholesale Banking, Retail Banking and Other Banking business. It offers personal banking\u003B social banking\u003B micro, small and medium enterprises banking\u003B retail credit products\u003B corporate banking, and international banking. It has over 3,209 domestic branches and an overseas branch at Hong Kong. Out of 3,209 domestic branches, over 1,307 are at rural, 720 are at semi-urban, 656 are at urban and 526 are at metropolitan centers. It has over 185 onsite and two offsite e-lobbies, over 100 mini e-lobbies, 50 cash deposit kiosks and 40 passbook printing kiosks covering over 380 branches. It operates over 1,210 automatic teller machines. Its Internet Banking application features facilities, such as card hot listing, e-filing of income tax returns and mobile banking registration."
+} ]
+, "management" : [
+{
+"name" : "Bimal Kumar Mitra",
+"title" : "Chief Financial Officer, General Manager (F\u0026R), Compliance Officer"
+}
+,
+{
+"name" : "Tilak Raj Chawla",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "S. Harisankar",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "N. K. Sahoo",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Parveen Kumar Chhokra",
+"title" : "Shareholders\u0027 Director"
+}
+,
+{
+"name" : "Vivek Deep",
+"title" : "Director - RBI Nominee"
+}
+,
+{
+"name" : "Rajeev Ranjan",
+"title" : "Government Nominee Director"
+}
+,
+{
+"name" : "Matam Venkata Rao",
+"title" : "Director"
+}
+,
+{
+"name" : "Bijaya Kumar Sahoo",
+"title" : "Shareholders Director"
+}
+]
+,"moreresources" : [
+]
+}]

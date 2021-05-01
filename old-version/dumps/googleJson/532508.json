@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "532508",
+"exchange" : "BOM",
+"id": "703774",
+"t" : "532508",
+"e" : "BOM",
+"name" : "Jindal Stainless Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532508"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532508"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532508"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2018",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "2.79%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "8.67%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.34%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.03%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.03%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,820",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.65",
+"l" : "86.10",
+"cp" : "0.76",
+"ccol" : "chg",
+"op" : "86.35",
+"hi" : "87.45",
+"lo" : "85.30",
+"vo" : "49,068.00",
+"avvo" : "",
+"hi52" : "132.40",
+"lo52" : "66.55",
+"mc" : "39.33B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "",
+"ldiv" : "",
+"shares" : "479.22M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703774",
+"name" : "Jindal Stainless Ltd",
+"t" : "532508",
+"e" : "BOM",
+"l" : "86.10",
+"c" : "+0.65",
+"mc" : "39.33B",
+"cp" : "0.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11539104",
+"name" : "Tata Steel Limited",
+"t" : "TATASTEEL",
+"e" : "NSE",
+"l" : "606.25",
+"c" : "+12.10",
+"mc" : "912.45B",
+"cp" : "2.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715304",
+"name" : "Panchmahal Steel Ltd.",
+"t" : "513511",
+"e" : "BOM",
+"l" : "41.00",
+"c" : "+0.35",
+"mc" : "792.91M",
+"cp" : "0.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8820480",
+"name" : "RMG Alloy Steel Ltd",
+"t" : "500365",
+"e" : "BOM",
+"l" : "18.25",
+"c" : "+0.85",
+"mc" : "2.08B",
+"cp" : "4.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722506",
+"name" : "Real Strips Ltd",
+"t" : "513558",
+"e" : "BOM",
+"l" : "13.30",
+"c" : "-0.62",
+"mc" : "76.08M",
+"cp" : "-4.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14218427",
+"name" : "Uttam Galva Steels Ltd.",
+"t" : "UTTAMSTL",
+"e" : "NSE",
+"l" : "13.10",
+"c" : "-0.45",
+"mc" : "1.86B",
+"cp" : "-3.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15519942",
+"name" : "Vallabh Steels Ltd",
+"t" : "513397",
+"e" : "BOM",
+"l" : "28.95",
+"c" : "0.00",
+"mc" : "143.30M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12752818",
+"name" : "Stelco Strips Ltd",
+"t" : "513530",
+"e" : "BOM",
+"l" : "4.10",
+"c" : "",
+"mc" : "37.31M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5104238",
+"name" : "Steelco Gujarat Ltd",
+"t" : "500399",
+"e" : "BOM",
+"l" : "6.02",
+"c" : "-0.01",
+"mc" : "244.98M",
+"cp" : "-0.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8294072",
+"name" : "Ashiana Ispat Ltd",
+"t" : "513401",
+"e" : "BOM",
+"l" : "28.10",
+"c" : "-1.70",
+"mc" : "224.18M",
+"cp" : "-5.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2932378",
+"name" : "Karma Industries Ltd",
+"t" : "512585",
+"e" : "BOM",
+"l" : "0.36",
+"c" : "0.00",
+"mc" : "12.34M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Jindal Centre, 12, Bhikaiji Cama Place, NEW DELHI, 110066, India",
+"phone": "+91-11-26188345",
+"fax": "+91-1662-220476",
+"url": "http:\u002F\u002Fwww.jindalstainless.com\u002F",
+"overview" : "Jindal Stainless Limited is a stainless steel manufacturer with a capacity of one million tons per annum. The Company\u0027s products include stainless steel products, ferro alloys and metallurgical coke. Its Ferro Alloys include ferro chrome, ferro manganese, high carbon (HC) silico Manganese, medium carbon (MC) silico manganese and low carbon (LC) silico manganese. Its stainless steel products include Slabs, Hot Rolled Coil, Hot Rolled Annealed and Pickled (HRAP) Coil\u002F2E Coil, Cold Rolled Annealed and Pickled (CRAP) coil and Plates. The Company\u0027s Ferro Alloy division has a production capacity of 250,000 tons per annum. It has installed 64-chamber stamp-charging coke oven battery to produce 430,000 tons per annum. It is focused on developing captive coal mines for raw material requirements. Its various grades of products include 200 series, 300 series and duplex series. The Company has a global presence in approximately 60 countries. Its manufacturing unit is located in Jajpur, Odisha."
+} ]
+, "management" : [
+{
+"name" : "Ratan Jindal",
+"age" : "55",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Anurag Mantri",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Navneet Raghuvanshi",
+"title" : "Chief Compliance Officer, Secretary"
+}
+,
+{
+"name" : "Abhyuday Jindal",
+"title" : "Managing Director"
+}
+,
+{
+"name" : "Subrata Bhattacharya",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Savitri Devi Jindal",
+"age" : "64",
+"title" : "Non-Executive Chairperson Emeritus of the Board"
+}
+,
+{
+"name" : "Gautam Kanjilal",
+"title" : "Non-Executive Non-Independent Director - Nominee of State Bank of India"
+}
+,
+{
+"name" : "Nirmal Chandra Mathur",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Bhaswati Mukherjee",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Kanwaljit Singh Thind",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

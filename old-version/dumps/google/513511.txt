@@ -1,0 +1,276 @@
+
+// [
+{
+"symbol" : "513511",
+"exchange" : "BOM",
+"id": "715304",
+"t" : "513511",
+"e" : "BOM",
+"name" : "Panchmahal Steel Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=PANS.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:513511"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:513511"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:513511"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.63%",
+"annual" : "0.08%",
+"ttm" : "-0.05%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.83%",
+"annual" : "2.79%",
+"ttm" : "1.72%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.94%",
+"ttm" : "3.61%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.10%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.24%",
+"ttm" : ""
+}
+]
+, "c" : "-0.95",
+"l" : "51.95",
+"cp" : "-1.80",
+"ccol" : "chr",
+"op" : "51.30",
+"hi" : "53.45",
+"lo" : "50.60",
+"vo" : "17,116.00",
+"avvo" : "",
+"hi52" : "85.05",
+"lo52" : "27.65",
+"mc" : "991.12M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.11",
+"dy" : "",
+"ldiv" : "",
+"shares" : "19.08M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715304",
+"name" : "Panchmahal Steel Ltd.",
+"t" : "513511",
+"e" : "BOM",
+"l" : "51.95",
+"c" : "-0.95",
+"mc" : "991.12M",
+"cp" : "-1.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13928461",
+"name" : "Garg Furnace Ltd",
+"t" : "530615",
+"e" : "BOM",
+"l" : "10.69",
+"c" : "+0.08",
+"mc" : "42.53M",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11539104",
+"name" : "Tata Steel Limited",
+"t" : "TATASTEEL",
+"e" : "NSE",
+"l" : "681.40",
+"c" : "+3.65",
+"mc" : "769.66B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6782803",
+"name" : "Usha Martin Limited",
+"t" : "USHAMART",
+"e" : "NSE",
+"l" : "23.80",
+"c" : "+0.70",
+"mc" : "7.19B",
+"cp" : "3.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12752818",
+"name" : "Stelco Strips Ltd",
+"t" : "513530",
+"e" : "BOM",
+"l" : "4.10",
+"c" : "",
+"mc" : "37.31M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5104238",
+"name" : "Steelco Gujarat Ltd",
+"t" : "500399",
+"e" : "BOM",
+"l" : "8.30",
+"c" : "-0.09",
+"mc" : "353.68M",
+"cp" : "-1.07",
+"ccol" : "chr"
+}
+,
+{
+"id" : "153521247303809",
+"name" : "Goodluck India Ltd",
+"t" : "GOODLUCK",
+"e" : "NSE",
+"l" : "102.50",
+"c" : "+0.50",
+"mc" : "2.35B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15519942",
+"name" : "Vallabh Steels Ltd",
+"t" : "513397",
+"e" : "BOM",
+"l" : "29.95",
+"c" : "-1.55",
+"mc" : "148.25M",
+"cp" : "-4.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2932378",
+"name" : "Karma Industries Ltd",
+"t" : "512585",
+"e" : "BOM",
+"l" : "0.36",
+"c" : "0.00",
+"mc" : "11.95M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16565091",
+"name" : "LG Balakrishnan \u0026 Bros Ltd",
+"t" : "LGBBROSLTD",
+"e" : "NSE",
+"l" : "1,085.00",
+"c" : "+19.45",
+"mc" : "17.11B",
+"cp" : "1.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "583380559538313",
+"name" : "Suyog Telematics Ltd",
+"t" : "537259",
+"e" : "BOM",
+"l" : "400.00",
+"c" : "+3.65",
+"mc" : "4.24B",
+"cp" : "0.92",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Landmark,7th floor, Race course circle, VADODARA, 390007, India",
+"phone": "+91-265-3051777",
+"fax": "+91-265-3051705",
+"url": "http:\u002F\u002Fwww.panchmahalsteel.co.in\u002F",
+"overview" : "Panchmahal Steel Limited is a producer of stainless steel long products in India. The Company\u0027s products include bars and rods of stainless steel, other bars and rods of stainless steel, and wires of stainless steel. The Company offers a range of stainless steel grades, in hot rolled wire rod and bars, and cold finished bars and wires. Its facilities for cold finished bars and wires include coil-to-bar drawing and bar-to-bar peeling lines, shot blasting and pickling lines and spooling, cutting and stamping lines for stainless steel welding products. It offers stainless steel wire rod and bars in austenitic, martensitic, ferritic, duplex and low nickel-high manganese (200 Series) grades for forming, drawing, machining, and cold heading and fastener applications. It offers heat resistant wires\u003B wires for braiding, weaving, knitting and filters\u003B wires for spring, and wires for ball making. Its welding product range includes core wires in coils and cut length for electrode manufacturing."
+} ]
+, "management" : [
+{
+"name" : "Ashok Malhotra",
+"age" : "59",
+"title" : "Non-Independent Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Deepak Nagar",
+"title" : "Chief Compliance Officer, Secretary,"
+}
+,
+{
+"name" : "Pradeep Sharma",
+"age" : "48",
+"title" : "Director - Operations, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Amal Dhru",
+"age" : "64",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Nilesh Bansilal Mehta",
+"age" : "53",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Milan Shah",
+"age" : "56",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Suchita Shah",
+"title" : "Non-Executive Non-Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

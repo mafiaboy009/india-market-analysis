@@ -1,0 +1,263 @@
+
+ [
+{
+"symbol" : "531739",
+"exchange" : "BOM",
+"id": "5397679",
+"t" : "531739",
+"e" : "BOM",
+"name" : "Gennex Laboratories Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GNXL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531739"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531739"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531739"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.35%",
+"annual" : "6.66%",
+"ttm" : "2.30%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.03%",
+"annual" : "8.92%",
+"ttm" : "4.93%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.85%",
+"ttm" : "7.10%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.37%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.79%",
+"ttm" : ""
+}
+]
+, "c" : "-0.09",
+"l" : "3.91",
+"cp" : "-2.25",
+"ccol" : "chr",
+"op" : "4.10",
+"hi" : "4.10",
+"lo" : "3.91",
+"vo" : "42,966.00",
+"avvo" : "",
+"hi52" : "6.90",
+"lo52" : "3.30",
+"mc" : "493.39M",
+"pe" : "48.35",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.08",
+"dy" : "",
+"ldiv" : "",
+"shares" : "126.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5397679",
+"name" : "Gennex Laboratories Ltd",
+"t" : "531739",
+"e" : "BOM",
+"l" : "3.91",
+"c" : "-0.09",
+"mc" : "493.39M",
+"cp" : "-2.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11460194",
+"name" : "Nutraplus India Ltd",
+"t" : "524764",
+"e" : "BOM",
+"l" : "27.00",
+"c" : "-0.90",
+"mc" : "935.25M",
+"cp" : "-3.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "260021",
+"name" : "NGL Fine-Chem Ltd",
+"t" : "524774",
+"e" : "BOM",
+"l" : "465.25",
+"c" : "-24.75",
+"mc" : "2.73B",
+"cp" : "-5.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3285351",
+"name" : "Shamrock Industrial Co Ltd",
+"t" : "531240",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-3.44",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722680",
+"name" : "Avon Lifesciences Ltd",
+"t" : "531541",
+"e" : "BOM",
+"l" : "12.14",
+"c" : "+0.57",
+"mc" : "275.59M",
+"cp" : "4.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13868302",
+"name" : "Natural Capsules Ltd",
+"t" : "524654",
+"e" : "BOM",
+"l" : "105.00",
+"c" : "-0.30",
+"mc" : "659.39M",
+"cp" : "-0.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8874121",
+"name" : "Gujarat Themis Biosyn Ltd",
+"t" : "506879",
+"e" : "BOM",
+"l" : "40.05",
+"c" : "-0.50",
+"mc" : "579.06M",
+"cp" : "-1.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8708343",
+"name" : "SMS Pharmaceuticals Ltd",
+"t" : "SMSPHARMA",
+"e" : "NSE",
+"l" : "71.30",
+"c" : "-0.10",
+"mc" : "6.05B",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "800568358228275",
+"name" : "Advanced Enzyme Technologies Ltd",
+"t" : "ADVENZYMES",
+"e" : "NSE",
+"l" : "236.55",
+"c" : "-1.55",
+"mc" : "27.02B",
+"cp" : "-0.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1333245",
+"name" : "Shilpa Medicare Ltd",
+"t" : "SHILPAMED",
+"e" : "NSE",
+"l" : "459.00",
+"c" : "+0.65",
+"mc" : "37.67B",
+"cp" : "0.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9025089",
+"name" : "RPG Life Sciences Limited",
+"t" : "RPGLIFE",
+"e" : "NSE",
+"l" : "383.50",
+"c" : "-1.55",
+"mc" : "6.33B",
+"cp" : "-0.40",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Akash Ganga 3rd Floor Plot No 144, Srinagar Colony, HYDERABAD, 500073, India",
+"phone": "+91-40-67334400",
+"fax": "+91-40-67334401",
+"url": "http:\u002F\u002Fwww.gennexlab.com\u002F",
+"overview" : "Gennex Laboratories Limited is an integrated pharmaceutical company and has a product portfolio spread over various product segments encompassing expectorants, muscle relaxants, analgesic and anti-fungal. The Company is engaged in manufacturing of bulk drugs, intermediates and biotech products. It operates through Pharmaceutical Products segment. Its products include active pharmaceutical ingredients (APIs), such as Guaifenesin USP\u002FBP\u002FEP\u002FIP, which is an expectorant, (mucolyte)\u003B Methocarbamol USP, which is a relaxant (skeletal muscle relaxant)\u003B Phenazopyridine Hcl USP, which is an urinary tract analgesic\u003B Fluconazole EP\u002FUSP, which is an anti-fungal product\u003B Metformin Hcl IP\u002FBP, which is an anti-diabetic product\u003B Ambroxol Hcl IP\u002FBP, which is an expectorant, (mucolyte), and Melitracen Hcl, which is an antidepressant and anxiolytic. The Company intends to offers other APIs, such as Flupentixol DIHCL BP, Domperidone BP\u002FEP, Mephenesin BP, Mefanemic Acid USP\u002FBP\u002FIP and Chlorophenesin USP\u002FBP."
+} ]
+, "management" : [
+{
+"name" : "K. V. L. N. Bhaswanth",
+"title" : "Chief Operating Officer, Compliance Officer"
+}
+,
+{
+"name" : "Arihant Baid",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Tiruvarur Muralidharan Gopalakrishnan",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "U. C. Bhandari",
+"age" : "60",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Y. Ravinder Reddy",
+"age" : "47",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

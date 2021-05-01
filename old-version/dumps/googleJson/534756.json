@@ -1,0 +1,297 @@
+
+ [
+{
+"symbol" : "534756",
+"exchange" : "BOM",
+"id": "78935346319904",
+"t" : "534756",
+"e" : "BOM",
+"name" : "Tara Jewels Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:534756"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:534756"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:534756"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-2.36%",
+"annual" : "-0.30%",
+"ttm" : "1.00%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-1.62%",
+"annual" : "4.86%",
+"ttm" : "4.81%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.33%",
+"ttm" : "6.02%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.25%",
+"ttm" : "1.03%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-0.77%",
+"ttm" : "3.02%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,421",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.05",
+"l" : "16.40",
+"cp" : "-0.30",
+"ccol" : "chr",
+"op" : "17.00",
+"hi" : "17.30",
+"lo" : "15.50",
+"vo" : "61,266.00",
+"avvo" : "",
+"hi52" : "45.90",
+"lo52" : "12.00",
+"mc" : "411.29M",
+"pe" : "2.26",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.27",
+"dy" : "",
+"ldiv" : "",
+"shares" : "24.62M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "78935346319904",
+"name" : "Tara Jewels Ltd",
+"t" : "534756",
+"e" : "BOM",
+"l" : "16.40",
+"c" : "-0.05",
+"mc" : "411.29M",
+"cp" : "-0.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "469690494193792",
+"name" : "PC Jeweller Ltd",
+"t" : "PCJEWELLER",
+"e" : "NSE",
+"l" : "335.80",
+"c" : "+3.45",
+"mc" : "132.58B",
+"cp" : "1.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14694860",
+"name" : "Shree Ganesh Jewellery House (I) Ltd",
+"t" : "SGJHL",
+"e" : "NSE",
+"l" : "1.05",
+"c" : "",
+"mc" : "75.50M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14257224",
+"name" : "Golkunda Diamonds And Jewellery Ltd",
+"t" : "523676",
+"e" : "BOM",
+"l" : "18.35",
+"c" : "+0.85",
+"mc" : "127.79M",
+"cp" : "4.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "878177257419572",
+"name" : "Patdiam Jewellery Ltd",
+"t" : "539401",
+"e" : "BOM",
+"l" : "86.80",
+"c" : "0.00",
+"mc" : "374.72M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11055472",
+"name" : "Goldiam International Ltd.",
+"t" : "GOLDIAM",
+"e" : "NSE",
+"l" : "73.50",
+"c" : "+0.55",
+"mc" : "1.83B",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9045623",
+"name" : "Orosil Smiths India Ltd",
+"t" : "531626",
+"e" : "BOM",
+"l" : "6.90",
+"c" : "0.00",
+"mc" : "285.08M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "332095320902103",
+"name" : "Bhakti Gems and Jewellery Ltd",
+"t" : "540545",
+"e" : "BOM",
+"l" : "20.50",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14278851",
+"name" : "Surana Corp Ltd",
+"t" : "SURANACORP",
+"e" : "NSE",
+"l" : "1.20",
+"c" : "0.00",
+"mc" : "29.23M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3024096",
+"name" : "Renaissance Jewellery Limited",
+"t" : "RJL",
+"e" : "NSE",
+"l" : "342.30",
+"c" : "-4.80",
+"mc" : "6.48B",
+"cp" : "-1.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9499492",
+"name" : "Gitanjali Gems Limited",
+"t" : "GITANJALI",
+"e" : "NSE",
+"l" : "23.55",
+"c" : "-1.20",
+"mc" : "2.79B",
+"cp" : "-4.85",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Plot No. 29 (P)\u0026 30 (P) SEEPZ, SEZ, Andheri (East), MUMBAI, 400096, India",
+"phone": "+91-22-66774444",
+"fax": "+91-22-66417712",
+"url": "http:\u002F\u002Fwww.tarajewels.in\u002F",
+"overview" : "Tara Jewels Limited is an India-based jewelry company. The Company is engaged in designing, manufacturing and retailing of jewelry. The Company has a portfolio of products that includes studded gold, platinum and silver jewelry. It is engaged in the Diamond and Gold Jewellery segment. Its curated online collection ranges from daily-wear jewelry, such as light weight necklace sets, rings, pendants, earrings and bangles, to fashion and bridal jewelry. It designs and manufactures jewelry with diamonds of 0.5 to 2 carats studded in platinum or 18 Karat gold. Its collection also includes occasion-related designs for young consumers. Its services include personalized jewelry, recycling of jewelry, customized jewelry and purity testing. It operates through showrooms and shop-in-shop format outlets. It has a range of approximately 55,000 designs catering to a range of customers across various countries, including the United States, Australia, Europe, South Africa and Canada."
+} ]
+, "management" : [
+{
+"name" : "Rajeev Sheth",
+"age" : "55",
+"title" : "Executive Non-Independent Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sanjay Sethi",
+"age" : "50",
+"title" : "Chief Financial Officer, Whole Time Director"
+}
+,
+{
+"name" : "Matthew Fortgang",
+"title" : "President - Sales of Fabrikant Tara International LLC, USA"
+}
+,
+{
+"name" : "Leonard Meyer",
+"age" : "53",
+"title" : "President - Sales offices in South Africa, Australia and United Kingdom Regions"
+}
+,
+{
+"name" : "Ravindran P.",
+"title" : "Chief Operating Officer, Whole-Time Director - Sales, Director"
+}
+,
+{
+"name" : "Nivedita Nayak",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Alexandre Olive",
+"title" : "Vice President - Sales, Business Development"
+}
+,
+{
+"name" : "Aarti Sheth",
+"age" : "27",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Alison Lazerwitz",
+"title" : "Nominee Director"
+}
+,
+{
+"name" : "Priyanka Agarwal",
+"age" : "25",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

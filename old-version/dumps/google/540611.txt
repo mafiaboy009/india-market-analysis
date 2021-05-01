@@ -1,0 +1,308 @@
+
+// [
+{
+"symbol" : "540611",
+"exchange" : "BOM",
+"id": "423958732328768",
+"t" : "540611",
+"e" : "BOM",
+"name" : "AU Small Finance Bank Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:540611"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:540611"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:540611"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "17.00%",
+"annual" : "63.88%",
+"ttm" : "18.16%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.02%",
+"annual" : "78.60%",
+"ttm" : "8.56%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "26.98%",
+"ttm" : "8.56%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "9.29%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "53.83%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "8,515",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+13.25",
+"l" : "590.05",
+"cp" : "2.30",
+"ccol" : "chg",
+"op" : "580.00",
+"hi" : "595.00",
+"lo" : "580.00",
+"vo" : "10,367.00",
+"avvo" : "",
+"hi52" : "739.00",
+"lo52" : "496.40",
+"mc" : "168.81B",
+"pe" : "78.42",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.52",
+"dy" : "",
+"ldiv" : "",
+"shares" : "285.68M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "423958732328768",
+"name" : "AU Small Finance Bank Ltd",
+"t" : "540611",
+"e" : "BOM",
+"l" : "590.05",
+"c" : "+13.25",
+"mc" : "168.81B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15722739",
+"name" : "India Home Loan Ltd",
+"t" : "530979",
+"e" : "BOM",
+"l" : "116.05",
+"c" : "-4.85",
+"mc" : "1.66B",
+"cp" : "-4.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "672122959259020",
+"name" : "Gold Line International Finvest Ltd",
+"t" : "538180",
+"e" : "BOM",
+"l" : "10.08",
+"c" : "0.00",
+"mc" : "5.25B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "292092841201140",
+"name" : "India Finsec Ltd",
+"t" : "535667",
+"e" : "BOM",
+"l" : "34.50",
+"c" : "0.00",
+"mc" : "860.49M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16384607",
+"name" : "Power Finance Corporation Limited",
+"t" : "PFC",
+"e" : "NSE",
+"l" : "110.40",
+"c" : "+2.60",
+"mc" : "291.06B",
+"cp" : "2.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4065577",
+"name" : "JM Financial Limited",
+"t" : "JMFINANCIL",
+"e" : "NSE",
+"l" : "150.90",
+"c" : "+2.75",
+"mc" : "126.55B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13414243",
+"name" : "CSL Finance Ltd",
+"t" : "530067",
+"e" : "BOM",
+"l" : "602.20",
+"c" : "-7.80",
+"mc" : "3.56B",
+"cp" : "-1.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "221364041789212",
+"name" : "Arnold Holdings Ltd",
+"t" : "537069",
+"e" : "BOM",
+"l" : "6.68",
+"c" : "+0.13",
+"mc" : "1.00B",
+"cp" : "1.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "218305694916551",
+"name" : "Panafic Industrials Ltd",
+"t" : "538860",
+"e" : "BOM",
+"l" : "0.51",
+"c" : "+0.01",
+"mc" : "41.88M",
+"cp" : "2.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "808795142982142",
+"name" : "Mangalam Industrial Finance Ltd",
+"t" : "537800",
+"e" : "BOM",
+"l" : "1.43",
+"c" : "-0.07",
+"mc" : "1.38B",
+"cp" : "-4.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "56328892808487",
+"name" : "Indiabulls Housing Finance Ltd",
+"t" : "IBULHSGFIN",
+"e" : "NSE",
+"l" : "1,291.00",
+"c" : "+7.35",
+"mc" : "551.62B",
+"cp" : "0.57",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Bank House, Mile 0, Ajmer Road, JAIPUR, 302001, India",
+"phone": "+91-141-3910000",
+"fax": "+91-141-2368815",
+"url": "https:\u002F\u002Fwww.aubank.in\u002F",
+"overview" : "AU Small Finance Bank Limited, formerly Au Financiers (India) Limited, is an India-based small finance bank company. The Company provides wholesale banking, personal banking, insurance and retail loans products and services. Its personal banking includes savings account, current account, term deposit, debit card, locker and insurance. Its retail loans products and services includes wheels, secured business loan, gold loan and Kisan loan. Its wholesale banking products and services include business banking\u003B non banking financial company (NBFC), household finance corporation (HFC), micro finance institutions (MFI) lending\u003B and real estate group. It also provides Government banking. Kisan Loans are specifically designed to meet the production and investment credit requirement for farmers in a timely and simplified manner."
+} ]
+, "management" : [
+{
+"name" : "Mannil Venugopalan",
+"age" : "72",
+"title" : "Independent Part-time Chairman of the Board"
+}
+,
+{
+"name" : "Sanjay Agarwal",
+"age" : "46",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Deepak Jain",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manmohan Parnami",
+"title" : "Company Secretary and Compliance Officer"
+}
+,
+{
+"name" : "Uttam Tibrewal",
+"age" : "46",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Narendra Ostawal",
+"age" : "40",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Jyoti Ishwar Chandra Narang",
+"age" : "59",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Krishan Kant Rathi",
+"age" : "55",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Raj Vikash Verma",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Jan 31, 2018",
+"time": "",
+"future": 0,
+"desc": "Q3 2018 AU Small Finance Bank Ltd Earnings Release"
+}
+,
+{
+"date": "Nov 29, 2017",
+"time": "",
+"future": 0,
+"desc": "AU Small Finance Bank Ltd at Citi India Corporate Forum - HK"
+}
+]
+}]

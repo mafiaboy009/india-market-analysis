@@ -1,0 +1,287 @@
+
+ [
+{
+"symbol" : "519421",
+"exchange" : "BOM",
+"id": "10684099",
+"t" : "519421",
+"e" : "BOM",
+"name" : "KSE Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KSE.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:519421"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:519421"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:519421"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.02%",
+"annual" : "1.49%",
+"ttm" : "4.74%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.45%",
+"annual" : "2.34%",
+"ttm" : "7.29%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "2.66%",
+"ttm" : "7.56%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.47%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "19.64%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "904",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-36.95",
+"l" : "2,500.00",
+"cp" : "-1.46",
+"ccol" : "chr",
+"op" : "2,650.00",
+"hi" : "2,650.00",
+"lo" : "2,500.00",
+"vo" : "630.00",
+"avvo" : "",
+"hi52" : "2,861.00",
+"lo52" : "728.60",
+"mc" : "7.99B",
+"pe" : "13.30",
+"fwpe" : "",
+"beta" : "",
+"eps" : "187.91",
+"dy" : "1.20",
+"ldiv" : "30.00",
+"shares" : "3.20M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10684099",
+"name" : "KSE Ltd",
+"t" : "519421",
+"e" : "BOM",
+"l" : "2,500.00",
+"c" : "-36.95",
+"mc" : "7.99B",
+"cp" : "-1.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "35120176866898",
+"name" : "Godrej Agrovet Ltd",
+"t" : "GODREJAGRO",
+"e" : "NSE",
+"l" : "607.00",
+"c" : "+21.95",
+"mc" : "116.57B",
+"cp" : "3.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6139933",
+"name" : "Godrej Industries Limited",
+"t" : "GODREJIND",
+"e" : "NSE",
+"l" : "550.25",
+"c" : "+1.75",
+"mc" : "185.05B",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5467198",
+"name" : "Avanti Feeds Ltd",
+"t" : "AVANTIFEED",
+"e" : "NSE",
+"l" : "2,450.00",
+"c" : "+39.40",
+"mc" : "111.53B",
+"cp" : "1.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5884806",
+"name" : "Kwality Ltd",
+"t" : "KWALITY",
+"e" : "NSE",
+"l" : "87.85",
+"c" : "+1.10",
+"mc" : "20.85B",
+"cp" : "1.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4779557",
+"name" : "Hatsun Agro Product Ltd",
+"t" : "531531",
+"e" : "BOM",
+"l" : "770.15",
+"c" : "-3.25",
+"mc" : "117.27B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "569618647548318",
+"name" : "Prabhat Dairy Ltd",
+"t" : "PRABHAT",
+"e" : "NSE",
+"l" : "177.00",
+"c" : "+2.20",
+"mc" : "17.29B",
+"cp" : "1.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1059799724638801",
+"name" : "Parag Milk Foods Ltd",
+"t" : "PARAGMILK",
+"e" : "NSE",
+"l" : "289.80",
+"c" : "-0.25",
+"mc" : "24.46B",
+"cp" : "-0.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14062987",
+"name" : "Umang Dairies Ltd",
+"t" : "500231",
+"e" : "BOM",
+"l" : "97.20",
+"c" : "+0.75",
+"mc" : "2.13B",
+"cp" : "0.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "227017",
+"name" : "Modern Dairies Ltd",
+"t" : "519287",
+"e" : "BOM",
+"l" : "8.99",
+"c" : "+0.33",
+"mc" : "209.65M",
+"cp" : "3.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "524598441966177",
+"name" : "Ajooni Biotech Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Solvent Road, Irinjalakuda, THRICHUR, 680121, India",
+"phone": "+91-480-2825476",
+"fax": "+91-480-2826075",
+"url": "http:\u002F\u002Fwww.kselimited.com\u002Faboutkse.html",
+"overview" : "KSE Limited is an India-based company, which is engaged in the manufacturing of compound cattle feed. The Company is also engaged in the extraction of oil from copra cake by solvent extraction process and refining the same to edible grade and in dairying, including ice cream. The Company operates through three segments, which include Animal Feed Division, Oil Cake Processing Division and Dairy Division. Its Dairy Division consists of milk and milk products, including ice cream. It offers ice cream under the brand name, VESTA. The Company is engaged in the field of milk procurement, processing and marketing of liquid milk and milk products. Its milk products include KS Milk and KS Curd. Its cattle feed products include K.S Supreme pellet, K.S Delux plus pellet and K.S Super. The Company also offers products, including K.S. PAAL and KS Ghee. The Company\u0027s manufacturing units include Swaminathapuram, Vedagiri, Palakkad, Koratty, Konikkara and Thalayuthu."
+} ]
+, "management" : [
+{
+"name" : "Jose Paul Thaliyath",
+"age" : "62",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "R. Sankaranarayanan",
+"title" : "Chief Financial Officer, Company Secretary"
+}
+,
+{
+"name" : "A. P. George",
+"age" : "79",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "M. P. Jackson",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Paul John",
+"title" : "Director"
+}
+,
+{
+"name" : "Paul Francis K.",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Marykutty Varghese",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sathi A. Menon",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Joseph Xavier",
+"age" : "48",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

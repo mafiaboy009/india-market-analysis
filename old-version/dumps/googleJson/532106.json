@@ -1,0 +1,256 @@
+
+ [
+{
+"symbol" : "532106",
+"exchange" : "BOM",
+"id": "703916",
+"t" : "532106",
+"e" : "BOM",
+"name" : "REI Agro Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532106"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532106"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532106"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002716)",
+"kr_annual_date" : "2016",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-1176.74%",
+"annual" : "-206.24%",
+"ttm" : "-456.17%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-597.83%",
+"annual" : "-182.48%",
+"ttm" : "-395.49%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-143.16%",
+"ttm" : "-108.47%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-30.29%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "0.24",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "0.63",
+"lo52" : "0.22",
+"mc" : "143.70M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-6.46",
+"dy" : "",
+"ldiv" : "",
+"shares" : "957.98M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703916",
+"name" : "REI Agro Limited",
+"t" : "532106",
+"e" : "BOM",
+"l" : "0.24",
+"c" : "0.00",
+"mc" : "143.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15300886",
+"name" : "LT Foods Ltd",
+"t" : "DAAWAT",
+"e" : "NSE",
+"l" : "95.80",
+"c" : "+1.15",
+"mc" : "30.54B",
+"cp" : "1.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9407997",
+"name" : "Lakshmi Energy \u0026 Foods Ltd.",
+"t" : "LAKSHMIEFL",
+"e" : "NSE",
+"l" : "25.60",
+"c" : "+1.20",
+"mc" : "1.79B",
+"cp" : "4.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4940416",
+"name" : "Chaman Lal Setia Exports Ltd",
+"t" : "530307",
+"e" : "BOM",
+"l" : "158.70",
+"c" : "+2.55",
+"mc" : "8.20B",
+"cp" : "1.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1328680",
+"name" : "KRBL Ltd",
+"t" : "KRBL",
+"e" : "NSE",
+"l" : "595.50",
+"c" : "+12.55",
+"mc" : "140.40B",
+"cp" : "2.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6650254",
+"name" : "Kohinoor Foods Ltd",
+"t" : "KOHINOOR",
+"e" : "NSE",
+"l" : "71.45",
+"c" : "+2.65",
+"mc" : "2.51B",
+"cp" : "3.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1031515529083760",
+"name" : "Esteem Bio Organic Food Processing Ltd",
+"t" : "534927",
+"e" : "BOM",
+"l" : "20.80",
+"c" : "0.00",
+"mc" : "5.17B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7785606",
+"name" : "Usher Agro Limited",
+"t" : "USHERAGRO",
+"e" : "NSE",
+"l" : "6.55",
+"c" : "+0.15",
+"mc" : "504.80M",
+"cp" : "2.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9826768",
+"name" : "Ellora Paper Mills Ltd",
+"t" : "502374",
+"e" : "BOM",
+"l" : "54.20",
+"c" : "0.00",
+"mc" : "119.56M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "510006",
+"name" : "Ajanta Soya Ltd",
+"t" : "519216",
+"e" : "BOM",
+"l" : "52.95",
+"c" : "+1.50",
+"mc" : "848.19M",
+"cp" : "2.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "192918409651652",
+"name" : "Sri Krishna Metcom Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "\u0022Everest House\u0022, 46-C, 15th Floor R.N. 15B, Chowringee Road, NEW DELHI, 110017, India",
+"phone": "+91-11-49218000",
+"fax": "+91-11-49218045",
+"url": "http:\u002F\u002Fwww.reiagro.com",
+"overview" : "REI Agro Limited is engaged in rice milling. The Company is primarily in the business of manufacturing and trading of food grains (mainly rice). The Company is engaged in the processing of Basmati rice. The Company markets its products under the brand name Raindrops. The Company offers a range of brands, such as Raindrops Extra Long Grain, Raindrops Gold Supreme, Raindrops Gold Royal, Raindrops Gold Super, Raindrops Supreme, Raindrops Royal, Raindrops Select, Raindrops Super, Raindrops Popular, Raindrops Daily and Raindrops Rozana. Its manufacturing units are located at Rewari, Haryana. It dries paddy and processes it with dryers before it is processed. The Company has its wind farms for power generation in the states of Rajasthan, Maharashtra, Tamil Nadu and Gujarat with a total installed capacity of approximately 46.1 megawatts. The Company markets its products to various states, such as Delhi, Uttar Pradesh, Haryana, Andhra Pradesh and Karnataka."
+} ]
+, "management" : [
+{
+"name" : "Sandip Jhunjhunwala",
+"age" : "43",
+"title" : "Executive Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Mandan Mishra",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sanjay Jhunjhunwala",
+"age" : "52",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Krishna Dayal Ghosh",
+"age" : "75",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

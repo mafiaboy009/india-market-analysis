@@ -1,0 +1,280 @@
+
+ [
+{
+"symbol" : "532744",
+"exchange" : "BOM",
+"id": "5395607",
+"t" : "532744",
+"e" : "BOM",
+"name" : "Gtn Textiles Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532744"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532744"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532744"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-1.63%",
+"annual" : "-1.63%",
+"ttm" : "-4.56%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-4.36%",
+"annual" : "0.79%",
+"ttm" : "-0.64%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.69%",
+"ttm" : "2.10%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.67%",
+"ttm" : "-5.63%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-768.26%",
+"ttm" : "-49.06%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "902",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.15",
+"l" : "20.70",
+"cp" : "0.73",
+"ccol" : "chg",
+"op" : "19.55",
+"hi" : "20.75",
+"lo" : "19.55",
+"vo" : "9,658.00",
+"avvo" : "",
+"hi52" : "37.00",
+"lo52" : "13.51",
+"mc" : "228.06M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-5.99",
+"dy" : "",
+"ldiv" : "",
+"shares" : "11.64M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5395607",
+"name" : "Gtn Textiles Ltd",
+"t" : "532744",
+"e" : "BOM",
+"l" : "20.70",
+"c" : "+0.15",
+"mc" : "228.06M",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1950076",
+"name" : "Eurotex Industries And Exports Ltd",
+"t" : "EUROTEXIND",
+"e" : "NSE",
+"l" : "36.05",
+"c" : "-0.90",
+"mc" : "315.43M",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "721610",
+"name" : "Birla Cotsyn (India) Ltd",
+"t" : "533006",
+"e" : "BOM",
+"l" : "0.08",
+"c" : "0.00",
+"mc" : "214.93M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8147180",
+"name" : "Bombay Dyeing and Manufacturing Company",
+"t" : "BOMDYEING",
+"e" : "NSE",
+"l" : "272.95",
+"c" : "-7.05",
+"mc" : "56.43B",
+"cp" : "-2.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13360983",
+"name" : "Trident Ltd",
+"t" : "TRIDENT",
+"e" : "NSE",
+"l" : "72.65",
+"c" : "-0.45",
+"mc" : "37.07B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7936098",
+"name" : "Maral Overseas Limited",
+"t" : "MARALOVER",
+"e" : "NSE",
+"l" : "37.10",
+"c" : "-0.25",
+"mc" : "1.54B",
+"cp" : "-0.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9959485",
+"name" : "Silverton Spinners Ltd",
+"t" : "531118",
+"e" : "BOM",
+"l" : "0.58",
+"c" : "+0.02",
+"mc" : "21.74M",
+"cp" : "3.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3091778",
+"name" : "Patspin India Ltd",
+"t" : "PATSPINLTD",
+"e" : "NSE",
+"l" : "21.85",
+"c" : "+0.30",
+"mc" : "681.93M",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9430261",
+"name" : "Tuni Textile Mills Ltd",
+"t" : "531411",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "64.01M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "705528",
+"name" : "Richa Industries Ltd",
+"t" : "532766",
+"e" : "BOM",
+"l" : "12.80",
+"c" : "-0.10",
+"mc" : "298.75M",
+"cp" : "-0.78",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14211316",
+"name" : "P B M Polytex Ltd",
+"t" : "514087",
+"e" : "BOM",
+"l" : "90.65",
+"c" : "+0.35",
+"mc" : "746.07M",
+"cp" : "0.39",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "43 Mittal Chambers, 228, Nariman Point, MUMBAI, 400021, India",
+"phone": "+91-22-22021013",
+"fax": "+91-22-22874144",
+"url": "http:\u002F\u002Fwww.gtntextiles.com\u002F",
+"overview" : "GTN Textiles Limited is engaged in the business of manufacturing and exporting combed cotton yarns. The Company operates through textile industry segment. The Company manufactures yarns of various counts ranging from English Number (NE) 26s to NE 180s. The Company manufactures yarn from various sources of long and extra long staple cotton, such as American Supima, Egyptian Giza, Australian and American cottons, and Indian cotton, including Shankar-6 and DCH-32. The Company\u0027s spinning includes ring spinning, compact spinning and siro spinning. The Company\u0027s value added products include twisting, gassing, knitting and precision dye package winding. Its yarn includes ring spun yarns, infiniti, wondertwist, svelte and organic cotton. The Company has a capacity of 58,864 spindles at Aluva in Kerala, consisting of 34,896 Compact Spinning and 23,968 Ring Spinning. The Company operates in Kochi, India."
+} ]
+, "management" : [
+{
+"name" : "Binod Kumar Patodia",
+"age" : "68",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "E. K. Balakrishnan",
+"title" : "Compliance Officer, General Manager, Company Secretary"
+}
+,
+{
+"name" : "Pamela Anna Mathew",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Mahesh Chandulal Thakker",
+"title" : "Non-Executive Non-lndependent Director"
+}
+,
+{
+"name" : "S. Sundareshan",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Prem Sardarilal Malik",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Banwari Lal Singhal",
+"age" : "67",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

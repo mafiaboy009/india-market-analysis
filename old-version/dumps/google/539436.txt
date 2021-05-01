@@ -1,0 +1,300 @@
+
+// [
+{
+"symbol" : "539436",
+"exchange" : "BOM",
+"id": "461547683752933",
+"t" : "539436",
+"e" : "BOM",
+"name" : "Coffee Day Enterprises Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:539436"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:539436"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:539436"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.23%",
+"annual" : "2.62%",
+"ttm" : "4.03%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.34%",
+"annual" : "10.16%",
+"ttm" : "11.07%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "17.43%",
+"ttm" : "16.65%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.08%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.12%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "12,794",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.55",
+"l" : "317.80",
+"cp" : "-0.80",
+"ccol" : "chr",
+"op" : "335.00",
+"hi" : "335.00",
+"lo" : "311.05",
+"vo" : "204,962.00",
+"avvo" : "",
+"hi52" : "374.60",
+"lo52" : "204.65",
+"mc" : "67.34B",
+"pe" : "65.94",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.82",
+"dy" : "",
+"ldiv" : "",
+"shares" : "211.25M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "461547683752933",
+"name" : "Coffee Day Enterprises Ltd",
+"t" : "539436",
+"e" : "BOM",
+"l" : "317.80",
+"c" : "-2.55",
+"mc" : "67.34B",
+"cp" : "-0.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7053990",
+"name" : "Jubilant FoodWorks Ltd",
+"t" : "JUBLFOOD",
+"e" : "NSE",
+"l" : "2,004.00",
+"c" : "+0.70",
+"mc" : "132.20B",
+"cp" : "0.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10932338",
+"name" : "Westlife Development Ltd",
+"t" : "505533",
+"e" : "BOM",
+"l" : "334.50",
+"c" : "+3.65",
+"mc" : "52.18B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2966518",
+"name" : "Mount Shivalik Industries Ltd",
+"t" : "507522",
+"e" : "BOM",
+"l" : "5.25",
+"c" : "0.00",
+"mc" : "31.75M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12107747",
+"name" : "Viceroy Hotels Ltd.",
+"t" : "VICEROY",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "+0.05",
+"mc" : "674.26M",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2883603",
+"name" : "Indage Restaurants and Leisure Ltd",
+"t" : "532264",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "52627568800895",
+"name" : "VIDLI RESTAURANTS Ltd",
+"t" : "539659",
+"e" : "BOM",
+"l" : "96.55",
+"c" : "0.00",
+"mc" : "418.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715433",
+"name" : "Galaxy Entertainment Corp Ltd",
+"t" : "506186",
+"e" : "BOM",
+"l" : "22.50",
+"c" : "+0.50",
+"mc" : "567.66M",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "122256069717203",
+"name" : "Speciality Restaurants Ltd",
+"t" : "SPECIALITY",
+"e" : "NSE",
+"l" : "151.00",
+"c" : "+1.25",
+"mc" : "7.07B",
+"cp" : "0.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6108380",
+"name" : "Advani Hotels \u0026 Resorts India Ltd.",
+"t" : "ADVANIHOTR",
+"e" : "NSE",
+"l" : "63.60",
+"c" : "+0.15",
+"mc" : "2.93B",
+"cp" : "0.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3073671",
+"name" : "TGB Banquets and Hotels Ltd",
+"t" : "TGBHOTELS",
+"e" : "NSE",
+"l" : "44.95",
+"c" : "-3.85",
+"mc" : "1.31B",
+"cp" : "-7.89",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "23\u002F 2 Coffee Day Square, Vittal Mallya Road, BANGALORE, 560001, India",
+"phone": "+91-80-40012345",
+"fax": "+91-80-40012650",
+"url": "http:\u002F\u002Fcoffeeday.com\u002F",
+"overview" : "Coffee Day Enterprises Limited sells coffee beans, and provides hospitality services. The Company\u0027s segments include Coffee and related business, Leasing of commercial office space, Hospitality Services, Financial Services, Integrated Multimodal Logistics and Others. The Coffee and related business segment retails coffee and other related products. The Leasing of commercial office space segment develops and leases office space and construction of office buildings. The Hospitality Services segment manages and operates resorts and allied activities. The Financial Services segment provides a range of products and services, such as structured products and wealth management services in respect of equity, derivatives and commodities trading, among others. The Integrated Multimodal Logistics segment offers integrated multimodal logistics services. The Others segment is engaged in information technology consulting, implementation, software development and related activities."
+} ]
+, "management" : [
+{
+"name" : "V.G. Siddhartha",
+"age" : "55",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "R. Ram Mohan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Venu Madhav",
+"age" : "46",
+"title" : "Chief Executive Officer of CDG"
+}
+,
+{
+"name" : "Bidisha Nagaraj",
+"age" : "47",
+"title" : "Group President Marketing for Coffee Day"
+}
+,
+{
+"name" : "Sadananda Poojary",
+"age" : "51",
+"title" : "Company Secretary and Compliance Officer"
+}
+,
+{
+"name" : "Balachandar Natarajan",
+"age" : "51",
+"title" : "Group Head of Human Resources"
+}
+,
+{
+"name" : "Jayraj C. Hubli",
+"age" : "59",
+"title" : "Chief Financial Officer and Chief Information Officer"
+}
+,
+{
+"name" : "Venkatesh M,",
+"title" : "Director of CDHRPL"
+}
+,
+{
+"name" : "D. Sankaranarayanan",
+"age" : "48",
+"title" : "Head of Vending Division - CDGL"
+}
+,
+{
+"name" : "V. Shankar",
+"age" : "55",
+"title" : "Director of TDL"
+}
+]
+,"moreresources" : [
+]
+}]

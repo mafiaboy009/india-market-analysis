@@ -1,0 +1,283 @@
+
+// [
+{
+"symbol" : "521220",
+"exchange" : "BOM",
+"id": "885040",
+"t" : "521220",
+"e" : "BOM",
+"name" : "Damodar Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=DAMD.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:521220"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:521220"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:521220"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.37%",
+"annual" : "1.26%",
+"ttm" : "1.76%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.70%",
+"annual" : "3.65%",
+"ttm" : "4.09%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.34%",
+"ttm" : "5.55%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.27%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.73%",
+"ttm" : ""
+}
+]
+, "c" : "+4.75",
+"l" : "135.90",
+"cp" : "3.62",
+"ccol" : "chg",
+"op" : "131.00",
+"hi" : "136.00",
+"lo" : "130.10",
+"vo" : "8,197.00",
+"avvo" : "",
+"hi52" : "157.00",
+"lo52" : "73.50",
+"mc" : "1.52B",
+"pe" : "13.43",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.12",
+"dy" : "2.94",
+"ldiv" : "2.80",
+"shares" : "11.13M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "885040",
+"name" : "Damodar Industries Ltd",
+"t" : "521220",
+"e" : "BOM",
+"l" : "135.90",
+"c" : "+4.75",
+"mc" : "1.52B",
+"cp" : "3.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9534454",
+"name" : "Banswara Syntex Ltd.",
+"t" : "BANSWRAS",
+"e" : "NSE",
+"l" : "117.00",
+"c" : "+1.40",
+"mc" : "2.01B",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12287391",
+"name" : "Ventura Textiles Ltd",
+"t" : "516098",
+"e" : "BOM",
+"l" : "4.24",
+"c" : "0.00",
+"mc" : "82.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1022713",
+"name" : "Loyal Textile Mills Ltd",
+"t" : "514036",
+"e" : "BOM",
+"l" : "643.00",
+"c" : "-2.65",
+"mc" : "3.11B",
+"cp" : "-0.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12076788",
+"name" : "Spentex Industries Ltd.",
+"t" : "SPENTEX",
+"e" : "NSE",
+"l" : "5.75",
+"c" : "-0.15",
+"mc" : "507.59M",
+"cp" : "-2.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5523113",
+"name" : "Lahoti Overseas Ltd",
+"t" : "531842",
+"e" : "BOM",
+"l" : "22.00",
+"c" : "-0.60",
+"mc" : "634.75M",
+"cp" : "-2.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12388315",
+"name" : "Simplex Mills Company Limited",
+"t" : "533018",
+"e" : "BOM",
+"l" : "9.98",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16667826",
+"name" : "Nahar Industrial Enterprises Limited",
+"t" : "NAHARINDUS",
+"e" : "NSE",
+"l" : "88.90",
+"c" : "+0.15",
+"mc" : "3.54B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "728728",
+"name" : "Gloster Ltd",
+"t" : "538595",
+"e" : "BOM",
+"l" : "658.00",
+"c" : "-8.10",
+"mc" : "6.88B",
+"cp" : "-1.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8532916",
+"name" : "Prime Urban Development India Ltd",
+"t" : "521149",
+"e" : "BOM",
+"l" : "19.00",
+"c" : "+0.10",
+"mc" : "506.23M",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8607562",
+"name" : "Ludlow Jute \u0026 Specialities Ltd",
+"t" : "526179",
+"e" : "BOM",
+"l" : "98.30",
+"c" : "+1.10",
+"mc" : "1.05B",
+"cp" : "1.13",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "A1\u002F202, Centre Point243-A N.M. Joshi Marg Lower Parel (E), MUMBAI, 400006, India",
+"phone": "+91-22-66610301",
+"fax": "+91-22-66610308",
+"url": "http:\u002F\u002Fdamodargroup.com\u002F",
+"overview" : "Damodar Industries Limited is engaged in the business of manufacturing of cotton and fancy yarn. The Company\u0027s segment is engaged in the manufacturing and sale of Textile Products. The Company focuses on manufacturing specialty yarns. The Company\u0027s products include AIR TEXTURISING, COTTON YARNS, LINEN BLENDS, SPECIAL BLENDS, SYNTHETIC YARNS and YARN DYEING. The Company\u0027s COTTON YARNS include COMPACT YARN (30s-60s), COMBED YARN (10-60), CARDED YARN (10-40), SLUB YARN (7-40), MULTY COUNT MULTY TWIST (7-40) and SINGLE\u002FDOUBLE\u002FMULTYFOLD. The Company\u0027s LINEN BLENDS include POLYESTER\u002FLINEN, POLYESTER\u002FVISCOSE\u002FLINEN, POLYESTER\u002FCOTTON\u002FLINEN, VISCOSE\u002FLINEN and SINGLE\u002FDOUBLE\u002FMULTYFOLD. Its SPECIAL BLENDS include CATIONIC\u002FPOLYESTER and CATIONIC\u002FPOLYESTER\u002FVISCOSE. It has post spinning machines, such as fancy doubling, hollow doubling, yarn dyeing and multi color space dyeing. It also exports its products to over 40 countries, including Europe and South Africa."
+} ]
+, "management" : [
+{
+"name" : "Arun Kumar Biyani",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "R. Kumar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Subodh Kumar Soni",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ajay D. Biyani",
+"age" : "49",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Anil D. Biyani",
+"age" : "47",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Raghavan Srinivas",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Girdharlal S. Daga",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ashok Kumar Damani",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Farida Bomi Jambusarwala",
+"title" : "Additional Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

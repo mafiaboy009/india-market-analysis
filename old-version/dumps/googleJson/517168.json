@@ -1,0 +1,286 @@
+
+ [
+{
+"symbol" : "517168",
+"exchange" : "BOM",
+"id": "705915",
+"t" : "517168",
+"e" : "BOM",
+"name" : "Subros Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:517168"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:517168"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:517168"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002710)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.85%",
+"annual" : "0.90%",
+"ttm" : "3.13%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.59%",
+"annual" : "3.13%",
+"ttm" : "6.02%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.79%",
+"ttm" : "10.27%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.30%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.08%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,042",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+17.40",
+"l" : "350.50",
+"cp" : "5.22",
+"ccol" : "chg",
+"op" : "335.25",
+"hi" : "369.30",
+"lo" : "335.25",
+"vo" : "71,105.00",
+"avvo" : "",
+"hi52" : "442.00",
+"lo52" : "184.75",
+"mc" : "21.09B",
+"pe" : "74.24",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.72",
+"dy" : "0.14",
+"ldiv" : "0.50",
+"shares" : "59.99M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "705915",
+"name" : "Subros Limited",
+"t" : "517168",
+"e" : "BOM",
+"l" : "350.50",
+"c" : "+17.40",
+"mc" : "21.09B",
+"cp" : "5.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "324729",
+"name" : "ELGI Equipments Ltd",
+"t" : "ELGIEQUIP",
+"e" : "NSE",
+"l" : "313.80",
+"c" : "+3.55",
+"mc" : "49.76B",
+"cp" : "1.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4012093",
+"name" : "Wabco India Ltd",
+"t" : "WABCOINDIA",
+"e" : "NSE",
+"l" : "7,691.00",
+"c" : "+550.25",
+"mc" : "147.51B",
+"cp" : "7.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "55087070199103",
+"name" : "Sharda Motor Industries Ltd",
+"t" : "535602",
+"e" : "BOM",
+"l" : "2,216.00",
+"c" : "-49.40",
+"mc" : "13.14B",
+"cp" : "-2.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1093658",
+"name" : "LEEL Electricals Ltd",
+"t" : "LEEL",
+"e" : "NSE",
+"l" : "268.25",
+"c" : "+5.90",
+"mc" : "10.81B",
+"cp" : "2.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4406995",
+"name" : "Voltas Limited",
+"t" : "VOLTAS",
+"e" : "NSE",
+"l" : "615.15",
+"c" : "+26.25",
+"mc" : "204.34B",
+"cp" : "4.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10210340",
+"name" : "Blue Star Ltd",
+"t" : "BLUESTARCO",
+"e" : "NSE",
+"l" : "739.90",
+"c" : "+0.80",
+"mc" : "70.94B",
+"cp" : "0.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705514",
+"name" : "Kirloskar Pneumatic Company Ltd",
+"t" : "505283",
+"e" : "BOM",
+"l" : "880.10",
+"c" : "-5.90",
+"mc" : "11.30B",
+"cp" : "-0.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2838245",
+"name" : "Symphony Ltd",
+"t" : "SYMPHONY",
+"e" : "NSE",
+"l" : "1,691.00",
+"c" : "-0.20",
+"mc" : "118.66B",
+"cp" : "-0.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "377499882442602",
+"name" : "Perfect Infraengineers Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "228400848834360",
+"name" : "Ice Make Refrigeration Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "LGF World Trade Centre, BK Lane, NEW DELHI, 110001, India",
+"phone": "+91-11-23414946",
+"fax": "+91-11-23414945",
+"url": "http:\u002F\u002Fwww.subros.com",
+"overview" : "Subros Limited is a holding company. The Company is engaged in providing automotive air conditioning parts and accessories of automotive system. It is a manufacturer of thermal products for automotive applications in India. Its product range spans across auto air-conditioning and engine cooling systems for passenger, as well as commercial vehicles. The Company manufactures compressors\u003B heating, ventilation and air conditionings (HVACs)\u003B pipings, and heat exchangers to suit various vehicle configurations. The Company provides a range of bus air conditioners and transport refrigeration solutions. It provides a range of air conditioners ranging from 4 kilowatts to 36 kilowatts capacity suitable for ambulances and buses (4 meters to 12 meters). It provides a range of transport refrigeration solutions that are suitable for storage volume of approximately 50 cubic meters. The Company has developed import substitute for driver cabin air conditioning for diesel locomotives of railway engines."
+} ]
+, "management" : [
+{
+"name" : "Ramesh Suri",
+"age" : "73",
+"title" : "Non-Independent Executive Chairman of the Board"
+}
+,
+{
+"name" : "D. M. Reddy",
+"age" : "61",
+"title" : "President, Chief Executive Officer"
+}
+,
+{
+"name" : "Rakesh Arora",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Shradha Suri",
+"age" : "36",
+"title" : "Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Kenichi Ayukawa",
+"title" : "Director - Representative of Suzuki Motor Corporation, Japan"
+}
+,
+{
+"name" : "Yasuhiro Lida",
+"title" : "Director - Representative of Denso Corporation, Japan"
+}
+,
+{
+"name" : "S. Nishimura",
+"title" : "Non - Independent Non-Executive Director - Denso Corporation, Japan"
+}
+,
+{
+"name" : "Jyotsna Suri",
+"age" : "60",
+"title" : "Non-Independent Non-Executive Director"
+}
+,
+{
+"name" : "Girish Narian Mehra",
+"age" : "82",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

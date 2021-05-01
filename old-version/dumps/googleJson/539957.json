@@ -1,0 +1,299 @@
+
+ [
+{
+"symbol" : "539957",
+"exchange" : "BOM",
+"id": "16062011157245",
+"t" : "539957",
+"e" : "BOM",
+"name" : "Mahanagar Gas Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539957"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539957"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539957"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "19.42%",
+"annual" : "17.57%",
+"ttm" : "19.81%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "27.28%",
+"annual" : "25.09%",
+"ttm" : "27.86%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "28.81%",
+"ttm" : "32.18%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "15.75%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "22.05%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "517",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.50",
+"l" : "1,020.95",
+"cp" : "0.05",
+"ccol" : "chg",
+"op" : "1,028.45",
+"hi" : "1,030.00",
+"lo" : "1,012.80",
+"vo" : "12,096.00",
+"avvo" : "",
+"hi52" : "1,345.00",
+"lo52" : "845.00",
+"mc" : "100.79B",
+"pe" : "21.34",
+"fwpe" : "",
+"beta" : "",
+"eps" : "47.84",
+"dy" : "0.78",
+"ldiv" : "8.00",
+"shares" : "98.78M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "16062011157245",
+"name" : "Mahanagar Gas Ltd",
+"t" : "539957",
+"e" : "BOM",
+"l" : "1,020.95",
+"c" : "+0.50",
+"mc" : "100.79B",
+"cp" : "0.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6561604",
+"name" : "Indraprastha Gas Limited",
+"t" : "IGL",
+"e" : "NSE",
+"l" : "297.00",
+"c" : "+1.50",
+"mc" : "207.55B",
+"cp" : "0.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5615127",
+"name" : "Gujarat Gas Ltd",
+"t" : "GUJRATGAS",
+"e" : "NSE",
+"l" : "743.50",
+"c" : "",
+"mc" : "95.30B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "722529",
+"name" : "Confidence Petroleum India Ltd",
+"t" : "526829",
+"e" : "BOM",
+"l" : "33.95",
+"c" : "+1.50",
+"mc" : "8.77B",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "958932",
+"name" : "Adani Enterprises Ltd",
+"t" : "ADANIENT",
+"e" : "NSE",
+"l" : "205.35",
+"c" : "+1.00",
+"mc" : "225.96B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6038818",
+"name" : "Cairn India Limited",
+"t" : "CAIRN",
+"e" : "NSE",
+"l" : "285.00",
+"c" : "",
+"mc" : "535.28B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12588850",
+"name" : "Indian Oil Corporation Limited",
+"t" : "IOC",
+"e" : "NSE",
+"l" : "377.00",
+"c" : "+8.60",
+"mc" : "1.83T",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "147800850031861",
+"name" : "Atul Auto Ltd",
+"t" : "ATULAUTO",
+"e" : "NSE",
+"l" : "418.00",
+"c" : "+1.55",
+"mc" : "9.16B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10937967",
+"name" : "Urja Global Ltd",
+"t" : "526987",
+"e" : "BOM",
+"l" : "6.33",
+"c" : "-0.33",
+"mc" : "3.21B",
+"cp" : "-4.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715560",
+"name" : "Asian Star Co Ltd",
+"t" : "531847",
+"e" : "BOM",
+"l" : "1,288.00",
+"c" : "+61.05",
+"mc" : "20.48B",
+"cp" : "4.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4455929",
+"name" : "Ramsarup Industries Ltd.",
+"t" : "RAMSARUP",
+"e" : "NSE",
+"l" : "1.75",
+"c" : "0.00",
+"mc" : "61.39M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Bandra (East), MUMBAI, 400051, India",
+"phone": "+91-22-66785000",
+"fax": "+91-22-26540092",
+"url": "https:\u002F\u002Fwww.mahanagargas.com\u002F",
+"overview" : "Mahanagar Gas Limited is a city gas distribution company. The Company is engaged in the distribution of compressed natural gas (CNG) and piped natural gas (PNG) in Mumbai and its adjoining areas and in the Raigad district in the state of Maharashtra, India. It also supplies CNG for vehicles, including rickshaws, taxis and cars in Mumbai, Thane, Mira-Bhayander, Navi Mumbai. It supplies CNG to Brihanmumbai Electricity Supply and Transport\u002FThane Municipal Transport\u002FMaharashtra State Road Transport Corporation\u002FNavi Mumbai Municipal Transport (BEST\u002FTMT\u002FMSRTC\u002FNMMT) buses, light commercial vehicles (LCVs)\u002F tempos\u002F trucks\u002Fprivate buses. It offers PNG for domestic, commercial and industrial purpose. It offers PNG for various industries, including metal, pharmaceuticals, food and beverages, printing and dyeing, oil mills, power generation and air conditioning. It also installs gas geysers. Its commercial PNG has various applications in hospitals, hotels, power, charitable trusts and industries."
+} ]
+, "management" : [
+{
+"name" : "Akhil Mehrotra",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Sunil M. Ranade",
+"age" : "54",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Shashwat Agrawal",
+"age" : "46",
+"title" : "Senior Vice President"
+}
+,
+{
+"name" : "Sandip Gupta",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajeev Kumar Mathur",
+"age" : "54",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Goutam Ghosh",
+"title" : "Director - Technical, Whole-Time Director"
+}
+,
+{
+"name" : "Srinivasan Murali",
+"age" : "52",
+"title" : "Head - Operations and Maintenance"
+}
+,
+{
+"name" : "Rajesh P. Wagle",
+"age" : "49",
+"title" : "Head – Commercial"
+}
+,
+{
+"name" : "Nitin Banerjee",
+"age" : "39",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "V. N. Datt",
+"age" : "55",
+"title" : "Additional Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

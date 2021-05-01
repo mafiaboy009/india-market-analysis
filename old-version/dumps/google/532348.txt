@@ -1,0 +1,293 @@
+
+// [
+{
+"symbol" : "532348",
+"exchange" : "BOM",
+"id": "703853",
+"t" : "532348",
+"e" : "BOM",
+"name" : "Subex Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532348"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532348"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532348"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.18%",
+"annual" : "-12.10%",
+"ttm" : "-26.01%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "18.40%",
+"annual" : "-8.88%",
+"ttm" : "-14.31%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "22.98%",
+"ttm" : "19.49%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-4.33%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-6.10%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "805",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.13",
+"l" : "9.20",
+"cp" : "1.43",
+"ccol" : "chg",
+"op" : "9.19",
+"hi" : "9.42",
+"lo" : "9.12",
+"vo" : "9.54M",
+"avvo" : "",
+"hi52" : "13.13",
+"lo52" : "7.70",
+"mc" : "5.19B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-1.73",
+"dy" : "",
+"ldiv" : "",
+"shares" : "562.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703853",
+"name" : "Subex Ltd.",
+"t" : "532348",
+"e" : "BOM",
+"l" : "9.20",
+"c" : "+0.13",
+"mc" : "5.19B",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7408782",
+"name" : "Kellton Tech Solutions Ltd",
+"t" : "519602",
+"e" : "BOM",
+"l" : "122.00",
+"c" : "+2.15",
+"mc" : "5.73B",
+"cp" : "1.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9918391",
+"name" : "StarCom Information Technology Ltd",
+"t" : "531616",
+"e" : "BOM",
+"l" : "268.85",
+"c" : "-14.10",
+"mc" : "1.34B",
+"cp" : "-4.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1753462",
+"name" : "Goldstone Technologies Ltd.",
+"t" : "GOLDTECH",
+"e" : "NSE",
+"l" : "14.05",
+"c" : "+0.65",
+"mc" : "263.89M",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3101778",
+"name" : "Bharatiya Global Infomedia Ltd",
+"t" : "BGLOBAL",
+"e" : "NSE",
+"l" : "5.05",
+"c" : "-0.10",
+"mc" : "79.24M",
+"cp" : "-1.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16510553",
+"name" : "MPS Infotecnics Ltd",
+"t" : "VISESHINFO",
+"e" : "NSE",
+"l" : "0.20",
+"c" : "-0.05",
+"mc" : "754.89M",
+"cp" : "-20.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "673681917155584",
+"name" : "Atishay Ltd",
+"t" : "538713",
+"e" : "BOM",
+"l" : "85.00",
+"c" : "-1.85",
+"mc" : "937.19M",
+"cp" : "-2.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12692899",
+"name" : "R Systems International Limited",
+"t" : "RSYSTEMS",
+"e" : "NSE",
+"l" : "39.65",
+"c" : "-1.40",
+"mc" : "4.96B",
+"cp" : "-3.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1183972",
+"name" : "Mastek Ltd",
+"t" : "MASTEK",
+"e" : "NSE",
+"l" : "505.00",
+"c" : "+1.70",
+"mc" : "11.93B",
+"cp" : "0.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14588081",
+"name" : "Izmo Ltd",
+"t" : "IZMO",
+"e" : "NSE",
+"l" : "109.00",
+"c" : "+1.35",
+"mc" : "1.40B",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13722993",
+"name" : "Mindteck (India) Ltd",
+"t" : "517344",
+"e" : "BOM",
+"l" : "67.85",
+"c" : "+1.10",
+"mc" : "1.72B",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "RMZ Eco World Devarabisanahalli, Outer Ring Road, BANGALORE, 560037, India",
+"phone": "+91-80-66964119",
+"fax": "+91-80-66963333",
+"url": "http:\u002F\u002Fwww.subex.com",
+"overview" : "Subex Limited is a holding company, which provides software products and related services to communications service providers across the world. The Company also provides implementation and customization, support services, managed services and sub-contracting services. Its segments include Software Products and Software Services. It provides business and operations support systems (B\u002FOSS) solutions to telecom service providers. It offers the Revenue Operations Centre (ROC) solution suite for business and capex optimization, which has solutions for Revenue Analytics, such as ROC Revenue Assurance, ROC Fraud Management and ROC Credit Risk Management\u003B for Cost Analytics, such as ROC Partner Settlement, ROC Route Optimisation and ROC Cost Management, and for Network Analytics, such as ROC Asset Assurance, ROC Data Integrity Management and ROC Capacity Management. It operates across the Americas\u003B Europe, the Middle East and Africa (EMEA), and Asia-Pacific (APAC) and rest of the world."
+} ]
+, "management" : [
+{
+"name" : "Mehernaz Dalal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "David Halvorson",
+"title" : "General Counsel"
+}
+,
+{
+"name" : "Surjeet Singh",
+"age" : "47",
+"title" : "Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Charles Crenshew",
+"title" : "Market Head - Sales and Client Relations - Americas"
+}
+,
+{
+"name" : "Pankaj Parmar",
+"title" : "Global Head - Delivery and Client Servicing"
+}
+,
+{
+"name" : "Shankar Roddam",
+"title" : "Market Head- Sales and Client Relations - Emerging Markets"
+}
+,
+{
+"name" : "Mohan Sitharam",
+"title" : "Chief People Officer"
+}
+,
+{
+"name" : "Ashwin Chalapathy",
+"title" : "Non Independent Non-Executive Director"
+}
+,
+{
+"name" : "Vinod Kumar Padmanabhan",
+"title" : "Non Independent Non-Executive Director"
+}
+,
+{
+"name" : "Nisha Dutt",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

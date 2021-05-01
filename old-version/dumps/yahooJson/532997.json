@@ -1,0 +1,346 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 209497014272,
+            "fmt": "209.5B",
+            "longFmt": "209,497,014,272"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.14425999,
+            "fmt": "-14.43%"
+          },
+          "floatShares": {
+            "raw": 249863282,
+            "fmt": "249.86M",
+            "longFmt": "249,863,282"
+          },
+          "sharesOutstanding": {
+            "raw": 423985984,
+            "fmt": "423.99M",
+            "longFmt": "423,985,984"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.478721,
+            "fmt": "1.48"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 51.184,
+            "fmt": "51.18"
+          },
+          "priceToBook": {
+            "raw": 0.117810264,
+            "fmt": "0.12"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -5417359872,
+            "fmt": "-5.42B",
+            "longFmt": "-5,417,359,872"
+          },
+          "trailingEps": {
+            "raw": -12.784,
+            "fmt": "-12.78"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 5.579,
+            "fmt": "5.58"
+          },
+          "enterpriseToEbitda": {
+            "raw": 13.574,
+            "fmt": "13.57"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 21118010000,
+                  "fmt": "21.12B",
+                  "longFmt": "21,118,010,000"
+                },
+                "earnings": {
+                  "raw": -1628890000,
+                  "fmt": "-1.63B",
+                  "longFmt": "-1,628,890,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 23804340000,
+                  "fmt": "23.8B",
+                  "longFmt": "23,804,340,000"
+                },
+                "earnings": {
+                  "raw": -3201800000,
+                  "fmt": "-3.2B",
+                  "longFmt": "-3,201,800,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 43315280000,
+                  "fmt": "43.32B",
+                  "longFmt": "43,315,280,000"
+                },
+                "earnings": {
+                  "raw": -4142110000,
+                  "fmt": "-4.14B",
+                  "longFmt": "-4,142,110,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 39385830000,
+                  "fmt": "39.39B",
+                  "longFmt": "39,385,830,000"
+                },
+                "earnings": {
+                  "raw": -6359760000,
+                  "fmt": "-6.36B",
+                  "longFmt": "-6,359,760,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 11365910000,
+                  "fmt": "11.37B",
+                  "longFmt": "11,365,910,000"
+                },
+                "earnings": {
+                  "raw": -3392780000,
+                  "fmt": "-3.39B",
+                  "longFmt": "-3,392,780,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 11045050000,
+                  "fmt": "11.05B",
+                  "longFmt": "11,045,050,000"
+                },
+                "earnings": {
+                  "raw": -2880900000,
+                  "fmt": "-2.88B",
+                  "longFmt": "-2,880,900,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 8354880000,
+                  "fmt": "8.35B",
+                  "longFmt": "8,354,880,000"
+                },
+                "earnings": {
+                  "raw": -1060310000,
+                  "fmt": "-1.06B",
+                  "longFmt": "-1,060,310,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 7531860000,
+                  "fmt": "7.53B",
+                  "longFmt": "7,531,860,000"
+                },
+                "earnings": {
+                  "raw": -1881890000,
+                  "fmt": "-1.88B",
+                  "longFmt": "-1,881,890,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "8-2-293/82/A/431/A, Road No.22",
+          "address2": "Jubilee Hills",
+          "city": "Hyderabad",
+          "zip": "500033",
+          "country": "India",
+          "phone": "91 40 2355 9922",
+          "fax": "91 40 2355 9930",
+          "website": "http://www.ksk.co.in",
+          "industry": "Electric Utilities",
+          "sector": "Utilities",
+          "longBusinessSummary": "KSK Energy Ventures Limited, a power project development company, develops, owns, operates, and maintains power generation projects in India. It operates through two segments, Project development and Power Generation. The company's operational power plants include KSK Mahanadi Power, a 3,600 megawatt (MW) coal based power plant in Chhattisgarh; Sai Wardha Power, a 540 MW coal based power project in Maharashtra; VS Lignite, a 135 MW lignite based power plant in Rajasthan; Sai Lilagar, a 86 MW coal based power plant in Chhattisgarh; Sai Regency, a 58 MW natural gas based power plant in Tamil Nadu; Sitapuram, a 43 MW coal based power plant in Telangana; and Sai Maithili Power, a 10 MW solar power project in Rajasthan. KSK Energy Ventures Limited serves industrial consumers and state-owned entities. In addition, the company engages in exploration of natural/mineral resources; and investment/financing activities. The company was founded in 2001 and is based in Hyderabad, India. KSK Energy Ventures Limited is a subsidiary of KSK Energy Limited.",
+          "fullTimeEmployees": 1310,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 6.03,
+            "fmt": "6.03"
+          },
+          "targetHighPrice": {
+            "raw": 29.0,
+            "fmt": "29.00"
+          },
+          "targetLowPrice": {
+            "raw": 29.0,
+            "fmt": "29.00"
+          },
+          "targetMeanPrice": {
+            "raw": 29.0,
+            "fmt": "29.00"
+          },
+          "targetMedianPrice": {
+            "raw": 29.0,
+            "fmt": "29.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 6875749888,
+            "fmt": "6.88B",
+            "longFmt": "6,875,749,888"
+          },
+          "totalCashPerShare": {
+            "raw": 16.222,
+            "fmt": "16.22"
+          },
+          "ebitda": {
+            "raw": 15433150464,
+            "fmt": "15.43B",
+            "longFmt": "15,433,150,464"
+          },
+          "totalDebt": {
+            "raw": 212015595520,
+            "fmt": "212.02B",
+            "longFmt": "212,015,595,520"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 37553750016,
+            "fmt": "37.55B",
+            "longFmt": "37,553,750,016"
+          },
+          "debtToEquity": {
+            "raw": 738.32,
+            "fmt": "738.32"
+          },
+          "revenuePerShare": {
+            "raw": 88.62,
+            "fmt": "88.62"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 16535200000,
+            "fmt": "16.54B",
+            "longFmt": "16,535,200,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.051,
+            "fmt": "5.10%"
+          },
+          "grossMargins": {
+            "raw": 0.42216998,
+            "fmt": "42.22%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.41096002,
+            "fmt": "41.10%"
+          },
+          "operatingMargins": {
+            "raw": 0.20224,
+            "fmt": "20.22%"
+          },
+          "profitMargins": {
+            "raw": -0.14425999,
+            "fmt": "-14.43%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

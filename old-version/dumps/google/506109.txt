@@ -1,0 +1,299 @@
+
+// [
+{
+"symbol" : "506109",
+"exchange" : "BOM",
+"id": "1809483",
+"t" : "506109",
+"e" : "BOM",
+"name" : "Genesys International Corp Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:506109"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:506109"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:506109"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "20.97%",
+"annual" : "24.40%",
+"ttm" : "15.40%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "18.81%",
+"annual" : "27.48%",
+"ttm" : "20.45%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "36.04%",
+"ttm" : "33.30%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.92%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.27%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "948",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+19.95",
+"l" : "290.80",
+"cp" : "7.37",
+"ccol" : "chg",
+"op" : "274.40",
+"hi" : "297.60",
+"lo" : "274.40",
+"vo" : "20,017.00",
+"avvo" : "",
+"hi52" : "390.00",
+"lo52" : "144.90",
+"mc" : "9.04B",
+"pe" : "37.33",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.79",
+"dy" : "0.04",
+"ldiv" : "0.12",
+"shares" : "30.84M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1809483",
+"name" : "Genesys International Corp Ltd",
+"t" : "506109",
+"e" : "BOM",
+"l" : "290.80",
+"c" : "+19.95",
+"mc" : "9.04B",
+"cp" : "7.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5955635",
+"name" : "Tech Mahindra Ltd",
+"t" : "TECHM",
+"e" : "NSE",
+"l" : "611.45",
+"c" : "-10.00",
+"mc" : "596.24B",
+"cp" : "-1.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12165624",
+"name" : "Cybertech Systems and Software Ltd",
+"t" : "CYBERTECH",
+"e" : "NSE",
+"l" : "71.90",
+"c" : "+0.15",
+"mc" : "1.98B",
+"cp" : "0.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14501165",
+"name" : "Cambridge Technology Enterprises Limited",
+"t" : "CTE",
+"e" : "NSE",
+"l" : "73.20",
+"c" : "+1.40",
+"mc" : "1.42B",
+"cp" : "1.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8147026",
+"name" : "Coral Hub Limited",
+"t" : "CORAL-HUB",
+"e" : "NSE",
+"l" : "3.50",
+"c" : "0.00",
+"mc" : "84.69M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "673681917155584",
+"name" : "Atishay Ltd",
+"t" : "538713",
+"e" : "BOM",
+"l" : "85.00",
+"c" : "-1.85",
+"mc" : "937.19M",
+"cp" : "-2.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14216516",
+"name" : "Spectacle Ventures Ltd",
+"t" : "SPECTACLE",
+"e" : "NSE",
+"l" : "1.40",
+"c" : "",
+"mc" : "72.03M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "725402",
+"name" : "Twinstar Industries Limited",
+"t" : "531917",
+"e" : "BOM",
+"l" : "2.40",
+"c" : "+0.01",
+"mc" : "",
+"cp" : "0.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "199348",
+"name" : "Tricom India Ltd.",
+"t" : "TRICOM",
+"e" : "NSE",
+"l" : "0.55",
+"c" : "",
+"mc" : "39.60M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "2245864",
+"name" : "Ranklin Solutions Limited",
+"t" : "RANKLIN",
+"e" : "NSE",
+"l" : "2.20",
+"c" : "",
+"mc" : "26.49M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14514069",
+"name" : "FCS Software Solutions Limited",
+"t" : "FCSSOFT",
+"e" : "NSE",
+"l" : "0.50",
+"c" : "0.00",
+"mc" : "854.78M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "73-A Sdf Iii, SEEPZ, Andheri (E), MUMBAI, 400096, India",
+"phone": "+91-22-44884488",
+"fax": "+91-22-44884499",
+"url": "http:\u002F\u002Fwww.igenesys.com\u002F",
+"overview" : "Genesys International Corporation Ltd is an India-based company, which is engaged in Computer programming, consultancy and related activities. The Company offers Geographical Information System (GIS)-based services comprising of photogrammetry, remote sensing, cartography, data conversion, terrestrial and three dimensional (3D) geo-content, including location and other computer based related services. It operates seven Geospatial production and software development centers in India. Its services include geospatial engineering, such as Consulting, Spatial Data conversion and migration, and Photogrammetry\u003B Light Detection And Ranging (LiDAR) Engineering, such as Mobile LiDAR Survey and Mapping, Terrestrial LiDAR Survey and Mapping and Aerial LiDAR Scanning and Mapping, and Software Development. It is engaged in designing and developing complex location based products and solutions for enterprises, government and consumers."
+} ]
+, "management" : [
+{
+"name" : "Sajid Malik",
+"age" : "49",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Larry Katz",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "J. Jacob",
+"title" : "President - Photogrammetry \u0026 GIS"
+}
+,
+{
+"name" : "Kushal V. Jain",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Saroja Siraj Malik",
+"age" : "75",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Sohel Malik",
+"age" : "48",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Ganesh Acharya",
+"age" : "48",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Anil Kumar Lakhina",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Hemant Majethia",
+"age" : "46",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ganapathy Vishwanathan",
+"age" : "49",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

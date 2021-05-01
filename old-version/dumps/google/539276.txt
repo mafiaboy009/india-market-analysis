@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "539276",
+"exchange" : "BOM",
+"id": "991331892477256",
+"t" : "539276",
+"e" : "BOM",
+"name" : "Kaya Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KAYA.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:539276"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:539276"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:539276"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-3.69%",
+"annual" : "-0.04%",
+"ttm" : "-2.55%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-4.54%",
+"annual" : "-2.34%",
+"ttm" : "-4.52%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "2.56%",
+"ttm" : "0.97%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.04%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-0.33%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,200",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+108.40",
+"l" : "1,093.65",
+"cp" : "11.00",
+"ccol" : "chg",
+"op" : "985.90",
+"hi" : "1,113.95",
+"lo" : "975.60",
+"vo" : "16,409.00",
+"avvo" : "",
+"hi52" : "1,262.00",
+"lo52" : "711.00",
+"mc" : "14.15B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-8.97",
+"dy" : "",
+"ldiv" : "",
+"shares" : "13.03M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "991331892477256",
+"name" : "Kaya Ltd",
+"t" : "539276",
+"e" : "BOM",
+"l" : "1,093.65",
+"c" : "+108.40",
+"mc" : "14.15B",
+"cp" : "11.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12606616",
+"name" : "Birla Pacific Medspa Limited",
+"t" : "533469",
+"e" : "BOM",
+"l" : "0.28",
+"c" : "0.00",
+"mc" : "30.60M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "347712390162697",
+"name" : "Khemani Distributors \u0026 Marketing Ltd",
+"t" : "539788",
+"e" : "BOM",
+"l" : "186.00",
+"c" : "0.00",
+"mc" : "2.14B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15030776",
+"name" : "Landmarc Leisure Corporation Ltd",
+"t" : "532275",
+"e" : "BOM",
+"l" : "0.70",
+"c" : "+0.01",
+"mc" : "544.23M",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "677375",
+"name" : "Marico Limited",
+"t" : "531642",
+"e" : "BOM",
+"l" : "306.65",
+"c" : "+0.40",
+"mc" : "395.94B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "826759680749506",
+"name" : "Looks Health Services Ltd",
+"t" : "534422",
+"e" : "BOM",
+"l" : "15.70",
+"c" : "+0.70",
+"mc" : "164.85M",
+"cp" : "4.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "839692224082979",
+"name" : "Aditya Consumer Marketing Ltd",
+"t" : "540146",
+"e" : "BOM",
+"l" : "185.30",
+"c" : "-5.05",
+"mc" : "2.71B",
+"cp" : "-2.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "515387340809167",
+"name" : "Sanghvi Brands Ltd",
+"t" : "540782",
+"e" : "BOM",
+"l" : "110.60",
+"c" : "+5.25",
+"mc" : "1.15B",
+"cp" : "4.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4973571",
+"name" : "Josts Engineering Comapny Ltd",
+"t" : "505750",
+"e" : "BOM",
+"l" : "1,275.00",
+"c" : "+6.00",
+"mc" : "1.19B",
+"cp" : "0.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15496231",
+"name" : "Sunil Hitech Engineers Limited",
+"t" : "SUNILHITEC",
+"e" : "NSE",
+"l" : "12.00",
+"c" : "+0.15",
+"mc" : "4.54B",
+"cp" : "1.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12351206",
+"name" : "Competent Automobiles Co Ltd",
+"t" : "531041",
+"e" : "BOM",
+"l" : "274.00",
+"c" : "+3.50",
+"mc" : "1.68B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": ", MUMBAI, 400093, India",
+"phone": "+91-22-66195000",
+"fax": "+91-22-66195050",
+"url": "http:\u002F\u002Fwww.kayaclinic.com\u002F",
+"overview" : "Kaya Limited is an India-based company, which is engaged in medical practice activities. The Company provides healthcare aesthetics, beauty and personal care products and services in India and abroad. It offers medical services through various types of equipment, such as surgical lasers, skin treatment appliances, and equipment and appliances for treatment of acne. It operates through Skin Care segment. Its geographical segments include All over India and Middle East. It includes Kaya Skin clinics, third party stores and skin bars in India. The Company also operates Kaya Skin clinics in the Middle East. Its skin care services include Pigmentation Reduction System, Age Arrest System, Kaya Hairfree Gentle Touch, Kaya Bridal and Beauty Facial. Its hair care services include Kaya Targeted Root Regen System, Kaya Hair Health System, Shampoo and Leave On Gel\u002FLotion. It uses various product types, such as cleansers, toners, moisturizers, daily regimes and treatments."
+} ]
+, "management" : [
+{
+"name" : "Harsh C. Mariwala",
+"age" : "66",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Naveen Duggal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Subramanian S.",
+"title" : "Chief Executive Officer, Kaya Business - India"
+}
+,
+{
+"name" : "Nitika Dalmia",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajen Mariwala",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Nikhil Nirvan Khattau",
+"age" : "54",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Irfan Mustafa",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "B. S. Nagesh",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Ameera Shah",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

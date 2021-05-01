@@ -1,0 +1,276 @@
+
+// [
+{
+"symbol" : "530889",
+"exchange" : "BOM",
+"id": "15487820",
+"t" : "530889",
+"e" : "BOM",
+"name" : "Alka India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ALKI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530889"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530889"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530889"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-316.82%",
+"ttm" : "-1001.20%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "-46.41%",
+"ttm" : "-741.56%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-35.65%",
+"ttm" : "-52.92%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-7.50%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-7.80%",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "0.19",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "0.19",
+"hi" : "0.19",
+"lo" : "0.19",
+"vo" : "48,200.00",
+"avvo" : "",
+"hi52" : "0.31",
+"lo52" : "0.19",
+"mc" : "95.00M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.14",
+"dy" : "",
+"ldiv" : "",
+"shares" : "500.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15487820",
+"name" : "Alka India Ltd",
+"t" : "530889",
+"e" : "BOM",
+"l" : "0.19",
+"c" : "0.00",
+"mc" : "95.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8882505",
+"name" : "Himatsingka Seide Limited",
+"t" : "HIMATSEIDE",
+"e" : "NSE",
+"l" : "357.00",
+"c" : "+2.20",
+"mc" : "35.13B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8228679",
+"name" : "Ai Champdany Industries Ltd",
+"t" : "AICHAMP",
+"e" : "NSE",
+"l" : "35.30",
+"c" : "0.00",
+"mc" : "967.96M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5980140",
+"name" : "Bannari Amman Spinning Mills Ltd.",
+"t" : "BASML",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "+5.95",
+"mc" : "4.41B",
+"cp" : "2.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3179533",
+"name" : "Raymond Limited (Parent)",
+"t" : "RAYMOND",
+"e" : "NSE",
+"l" : "954.10",
+"c" : "+3.15",
+"mc" : "58.56B",
+"cp" : "0.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1087940",
+"name" : "Dhanlaxmi Fabrics Ltd",
+"t" : "521151",
+"e" : "BOM",
+"l" : "36.15",
+"c" : "+1.70",
+"mc" : "310.21M",
+"cp" : "4.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2198142",
+"name" : "Hindoostan Mills Ltd",
+"t" : "509895",
+"e" : "BOM",
+"l" : "365.00",
+"c" : "+19.75",
+"mc" : "607.56M",
+"cp" : "5.72",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12609898",
+"name" : "Alps Industries Ltd.",
+"t" : "ALPSINDUS",
+"e" : "NSE",
+"l" : "4.40",
+"c" : "-0.20",
+"mc" : "170.25M",
+"cp" : "-4.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15931576",
+"name" : "Alok Industries Ltd",
+"t" : "ALOKTEXT",
+"e" : "NSE",
+"l" : "3.40",
+"c" : "+0.15",
+"mc" : "4.68B",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15247679",
+"name" : "T T Ltd",
+"t" : "TTL",
+"e" : "NSE",
+"l" : "94.30",
+"c" : "+0.45",
+"mc" : "2.02B",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "317791194123262",
+"name" : "R \u0026 B Denims Ltd",
+"t" : "538119",
+"e" : "BOM",
+"l" : "52.10",
+"c" : "+0.85",
+"mc" : "729.12M",
+"cp" : "1.66",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "E- 211 Crystal Plaza New Link Road,, Andheri West, MUMBAI, 400053, India",
+"phone": "+91-22-26736334",
+"fax": "+91-22-26736335",
+"url": "http:\u002F\u002Fwww.alkaindia.com\u002F",
+"overview" : "Alka India Limited is engaged in the business of textile. The Company operates in Textile segment comprising cotton, yarn and fabrics, among others. The Company is engaged in the business of importing, exporting , purchasing, selling and\u002F or otherwise dealing in all types of yarns, cloth, fibers, fabrics and textiles made from cotton, rayon, nylon, strechlon and silk. It is also engaged in the business of dealers in cotton, linen, flax, hemp, jute, silk and all types of cloth merchants. It operates in India."
+} ]
+, "management" : [
+{
+"name" : "Ramakant Gokulchand Sharma",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Ashok R. Panchariya",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Satish R. Panchariya",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Alok Jain",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Jayashree Vilas Gangurde",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Lalit Joshi",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Neel Ashok Doctor",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Madanlal B. Purhoit",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

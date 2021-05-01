@@ -1,0 +1,261 @@
+
+// [
+{
+"symbol" : "507864",
+"exchange" : "BOM",
+"id": "722514",
+"t" : "507864",
+"e" : "BOM",
+"name" : "Pioneer Investcorp Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=PILE.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:507864"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:507864"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:507864"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002708)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.20%",
+"annual" : "28.63%",
+"ttm" : "61.97%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.01%",
+"annual" : "39.23%",
+"ttm" : "55.69%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "40.09%",
+"ttm" : "56.46%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "10.25%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "15.18%",
+"ttm" : ""
+}
+]
+, "c" : "+1.65",
+"l" : "47.45",
+"cp" : "3.60",
+"ccol" : "chg",
+"op" : "44.55",
+"hi" : "48.80",
+"lo" : "44.50",
+"vo" : "3,604.00",
+"avvo" : "",
+"hi52" : "84.80",
+"lo52" : "40.00",
+"mc" : "583.49M",
+"pe" : "1.11",
+"fwpe" : "",
+"beta" : "",
+"eps" : "42.89",
+"dy" : "",
+"ldiv" : "",
+"shares" : "12.30M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "722514",
+"name" : "Pioneer Investcorp Limited",
+"t" : "507864",
+"e" : "BOM",
+"l" : "47.45",
+"c" : "+1.65",
+"mc" : "583.49M",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8710435",
+"name" : "Sumedha Fiscal Services Ltd",
+"t" : "530419",
+"e" : "BOM",
+"l" : "55.75",
+"c" : "+3.95",
+"mc" : "447.29M",
+"cp" : "7.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7083285",
+"name" : "BNK Capital Markets Ltd",
+"t" : "500069",
+"e" : "BOM",
+"l" : "110.00",
+"c" : "+1.35",
+"mc" : "1.09B",
+"cp" : "1.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722530",
+"name" : "Shardul Securities Limited",
+"t" : "512393",
+"e" : "BOM",
+"l" : "46.00",
+"c" : "0.00",
+"mc" : "787.80M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "717000",
+"name" : "Centrum Capital Ltd",
+"t" : "501150",
+"e" : "BOM",
+"l" : "64.20",
+"c" : "0.00",
+"mc" : "26.63B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "858511",
+"name" : "SMIFS Capital Markets Ltd",
+"t" : "508905",
+"e" : "BOM",
+"l" : "55.25",
+"c" : "+1.15",
+"mc" : "309.14M",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15683090",
+"name" : "Mehta Integrated Finance Ltd",
+"t" : "511377",
+"e" : "BOM",
+"l" : "13.14",
+"c" : "0.00",
+"mc" : "65.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3620153",
+"name" : "Aryaman Financial Services Ltd",
+"t" : "530245",
+"e" : "BOM",
+"l" : "49.00",
+"c" : "+1.00",
+"mc" : "572.42M",
+"cp" : "2.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15591730",
+"name" : "Birla Capital and Financial Services Ltd",
+"t" : "512332",
+"e" : "BOM",
+"l" : "0.19",
+"c" : "0.00",
+"mc" : "8.91M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15859690",
+"name" : "Choice International Ltd",
+"t" : "531358",
+"e" : "BOM",
+"l" : "149.85",
+"c" : "+2.10",
+"mc" : "3.03B",
+"cp" : "1.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722862",
+"name" : "Monarch Networth Capital Ltd",
+"t" : "511551",
+"e" : "BOM",
+"l" : "72.00",
+"c" : "-0.90",
+"mc" : "2.18B",
+"cp" : "-1.23",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "1219, Maker Chamber V, Nariman Point, MUMBAI, 400021, India",
+"phone": "+91-22-66186633",
+"fax": "+91-22-66186623",
+"url": "http:\u002F\u002Fwww.pinc.co.in\u002F",
+"overview" : "Pioneer Investcorp Limited is an integrated mid-market-focused financial services company. The Company is engaged in offering investment banking and advisory services. The Company is also engaged is offering trading in government securities. The Company\u0027s segments include Advisory \u0026 Merchant Fees, Income From Banking Securities\u002FInvestments, and Equity Brokerage and related Income. The Company is a merchant banker. The Company\u0027s offerings include formulating capital structure, raising capital, debt restructuring, project financing, coal consultancy and other corporate advisory services. The Company\u0027s subsidiaries provide services in the area of secondary capital market like open offer in takeovers, right issue, buy-back, mergers and amalgamation, and valuation assignment. Its subsidiaries include Pioneer Wealth Management Services Limited, Pioneer Money Management Limited and Pioneer Investment Advisory Services Limited."
+} ]
+, "management" : [
+{
+"name" : "Rakesh M. Bhatia",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Amit J. Chandra",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Chandravadan Chimanlal Dalal",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Anand B. Desai",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Kamlini Chaitan Maniar",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,290 @@
+
+// [
+{
+"symbol" : "530343",
+"exchange" : "BOM",
+"id": "706466",
+"t" : "530343",
+"e" : "BOM",
+"name" : "Genus Power Infrastructures Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530343"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530343"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530343"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "11.07%",
+"annual" : "9.84%",
+"ttm" : "10.24%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.58%",
+"annual" : "10.92%",
+"ttm" : "13.41%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.27%",
+"ttm" : "14.75%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.22%",
+"ttm" : "8.96%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.05%",
+"ttm" : "17.23%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,012",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.55",
+"l" : "66.40",
+"cp" : "-0.82",
+"ccol" : "chr",
+"op" : "67.75",
+"hi" : "68.30",
+"lo" : "66.40",
+"vo" : "16,015.00",
+"avvo" : "",
+"hi52" : "86.00",
+"lo52" : "36.50",
+"mc" : "17.12B",
+"pe" : "15.98",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.16",
+"dy" : "0.68",
+"ldiv" : "0.35",
+"shares" : "257.23M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "706466",
+"name" : "Genus Power Infrastructures Ltd.",
+"t" : "530343",
+"e" : "BOM",
+"l" : "66.40",
+"c" : "-0.55",
+"mc" : "17.12B",
+"cp" : "-0.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13164362",
+"name" : "Kaycee Industries Ltd",
+"t" : "504084",
+"e" : "BOM",
+"l" : "7,910.00",
+"c" : "+349.00",
+"mc" : "502.05M",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "858203315732753",
+"name" : "RMC Switchgears Ltd",
+"t" : "540358",
+"e" : "BOM",
+"l" : "71.00",
+"c" : "0.00",
+"mc" : "361.55M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16189035",
+"name" : "Lakshmi Electrical Control Systems Ltd",
+"t" : "504258",
+"e" : "BOM",
+"l" : "631.00",
+"c" : "+2.75",
+"mc" : "1.03B",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6204336",
+"name" : "Siemens Ltd",
+"t" : "SIEMENS",
+"e" : "NSE",
+"l" : "1,169.00",
+"c" : "-3.10",
+"mc" : "415.99B",
+"cp" : "-0.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "252650867397902",
+"name" : "STAR DELTA TRANSFORMERS LTD",
+"t" : "539255",
+"e" : "BOM",
+"l" : "153.00",
+"c" : "-2.50",
+"mc" : "452.05M",
+"cp" : "-1.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1218458",
+"name" : "Switching Technology Gunther Ltd",
+"t" : "517201",
+"e" : "BOM",
+"l" : "76.70",
+"c" : "-4.00",
+"mc" : "187.91M",
+"cp" : "-4.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "103199859132870",
+"name" : "HPL Electric \u0026 Power Ltd",
+"t" : "HPL",
+"e" : "NSE",
+"l" : "138.70",
+"c" : "+3.30",
+"mc" : "8.91B",
+"cp" : "2.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11907943",
+"name" : "Modison Metals Ltd",
+"t" : "506261",
+"e" : "BOM",
+"l" : "69.45",
+"c" : "+1.45",
+"mc" : "2.25B",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2020032",
+"name" : "Shivalik Bimetal Controls Ltd",
+"t" : "513097",
+"e" : "BOM",
+"l" : "124.85",
+"c" : "+1.40",
+"mc" : "4.77B",
+"cp" : "1.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "707267",
+"name" : "EON Electric Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Block-P 2Nd Floor 48 Pramatha Choudhury Sarani, New Alipore, JAIPUR, 302022, India",
+"phone": "+91-141-3911400",
+"fax": "+91-141-7102503",
+"url": "http:\u002F\u002Fwww.genus.in\u002F",
+"overview" : "Genus Power Infrastructures Limited is engaged in manufacturing\u002Fproviding metering and metering solutions and undertaking engineering, construction and contracts on turnkey basis. The Company operates through power segment. The Company\u0027s metering solutions include a range of electricity meters, such as multi-functional single phase and three phase meters, current transformer (CT)-operated meters, availability based tariff (ABT) and grid meters, distribution transformer (DT) meters, pre-payment meters and smart meters, among others. The engineering construction and contracts business undertakes turnkey power projects, such as sub-station erection up to 420 kilovolts (kV), laying up of transmission and distribution lines, rural electrification, switchyards and network refurbishment. The Company provides a range of services for projects, which include construction, setting up transmission towers, execution of civil work, laying of cables\u002Fconductor and installation of transformers."
+} ]
+, "management" : [
+{
+"name" : "Ishwar Chand Agarwal",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Rajendra Kumar Agarwal",
+"age" : "39",
+"title" : "Chief Executive Officer, Joint Managing Director, Executive Non-Independent Director"
+}
+,
+{
+"name" : "Ankit Jhanjhari",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Jitendra Kumar Agarwal",
+"age" : "37",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Kailash Chandra Agarwal",
+"age" : "44",
+"title" : "Non-Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Sharmila Agarwal",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Dharam Chand Agarwal",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Udit Agarwal",
+"age" : "41",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Indraj Mal Bhutoria",
+"age" : "46",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

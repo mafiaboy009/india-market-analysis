@@ -1,0 +1,291 @@
+
+// [
+{
+"symbol" : "532727",
+"exchange" : "BOM",
+"id": "705418",
+"t" : "532727",
+"e" : "BOM",
+"name" : "Adhunik Metaliks Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532727"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532727"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532727"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q2 (Jun \u002714)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-1.53%",
+"annual" : "-121.21%",
+"ttm" : "1.58%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.07%",
+"annual" : "-69.36%",
+"ttm" : "12.86%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-10.58%",
+"ttm" : "18.56%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-32.27%",
+"ttm" : "0.45%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : "2.60%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,798",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.15",
+"l" : "4.95",
+"cp" : "3.12",
+"ccol" : "chg",
+"op" : "4.80",
+"hi" : "4.99",
+"lo" : "4.75",
+"vo" : "3,512.00",
+"avvo" : "",
+"hi52" : "8.50",
+"lo52" : "3.60",
+"mc" : "604.95M",
+"pe" : "1.53",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.24",
+"dy" : "",
+"ldiv" : "",
+"shares" : "123.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "705418",
+"name" : "Adhunik Metaliks Limited",
+"t" : "532727",
+"e" : "BOM",
+"l" : "4.95",
+"c" : "+0.15",
+"mc" : "604.95M",
+"cp" : "3.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13439719",
+"name" : "Tata Metaliks Limited",
+"t" : "TATAMETALI",
+"e" : "NSE",
+"l" : "815.90",
+"c" : "+27.95",
+"mc" : "20.68B",
+"cp" : "3.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5394407",
+"name" : "Visa Steel Limited",
+"t" : "VISASTEEL",
+"e" : "NSE",
+"l" : "18.40",
+"c" : "-0.55",
+"mc" : "2.13B",
+"cp" : "-2.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15239521",
+"name" : "K I C Metaliks Ltd",
+"t" : "513693",
+"e" : "BOM",
+"l" : "184.95",
+"c" : "-3.75",
+"mc" : "1.31B",
+"cp" : "-1.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14258982",
+"name" : "Jindal Stainless Ltd",
+"t" : "JSL",
+"e" : "NSE",
+"l" : "105.60",
+"c" : "+3.65",
+"mc" : "48.60B",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1253345",
+"name" : "Rohit Ferro-Tech Limited",
+"t" : "ROHITFERRO",
+"e" : "NSE",
+"l" : "3.60",
+"c" : "-0.10",
+"mc" : "409.59M",
+"cp" : "-2.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7988191",
+"name" : "Rathi Steel And Power Ltd",
+"t" : "504903",
+"e" : "BOM",
+"l" : "2.71",
+"c" : "-0.14",
+"mc" : "84.84M",
+"cp" : "-4.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14744034",
+"name" : "Sarda Energy \u0026 Minerals Limited",
+"t" : "SARDAEN",
+"e" : "NSE",
+"l" : "502.00",
+"c" : "+4.00",
+"mc" : "18.02B",
+"cp" : "0.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14710679",
+"name" : "OCL Iron and Steel Limited",
+"t" : "OISL",
+"e" : "NSE",
+"l" : "3.70",
+"c" : "-0.10",
+"mc" : "502.95M",
+"cp" : "-2.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16463854",
+"name" : "Suraj Products Ltd",
+"t" : "518075",
+"e" : "BOM",
+"l" : "16.40",
+"c" : "0.00",
+"mc" : "186.96M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9017629",
+"name" : "Ashirwad Steels And Industries Ltd",
+"t" : "526847",
+"e" : "BOM",
+"l" : "16.00",
+"c" : "-0.75",
+"mc" : "200.00M",
+"cp" : "-4.48",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Lansdowne Towers,2\u002F1A, Sarat Bose Road, KOLKATA, 700020, India",
+"phone": "+91-33-30517100",
+"fax": "+91-33-22890285",
+"url": "http:\u002F\u002Fwww.adhunikgroup.com\u002Faml.html",
+"overview" : "Adhunik Metaliks Limited is an alloy, special and construction steel manufacturing company. The Company is engaged in the manufacture and sale of steel, both alloy and non-alloy. The Company\u0027s segments are Iron and steel, and Mining and Power. The Company is involved in the mining and power sectors through its subsidiaries. The Company produces alloy steel, ferro alloys, iron billets and rolled products at it manufacturing facility at Odisha. The Company, through its subsidiary Orissa Manganese \u0026 Minerals Limited (OMML), operates Ghatkuri Iron ore mines in the state of Jharkhand and Patmunda and Orahuri Manganese Mines in the state of Odisha. OMML operates an iron ore pellet plant at Kandra, Jharkhand. The Company caters to various sectors, including automobiles, telecom, power, railways, engineering, oil and gas, and construction. Its other subsidiaries include Orchid Global Resources Pte. Limited and Global Commodity \u0026 Resources Limited."
+} ]
+, "management" : [
+{
+"name" : "Vikash Jha",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Pankaj Kumar Choubey",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Nirmal Kumar Agarwal",
+"age" : "53",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Manoj Kumar Agarwal",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Ghanshyam Das Agarwal",
+"age" : "57",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Mahesh Kumar Agarwal",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Gopal Dikshit",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Jugal Kishore Agarwal",
+"age" : "63",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Mohan Lal Agarwal",
+"age" : "50",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

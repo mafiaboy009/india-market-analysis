@@ -1,0 +1,302 @@
+
+ [
+{
+"symbol" : "540025",
+"exchange" : "BOM",
+"id": "942414613151548",
+"t" : "540025",
+"e" : "BOM",
+"name" : "Advanced Enzyme Technologies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:540025"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:540025"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:540025"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "24.50%",
+"annual" : "27.87%",
+"ttm" : "22.78%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "36.84%",
+"annual" : "41.85%",
+"ttm" : "35.27%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "45.68%",
+"ttm" : "39.77%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "17.99%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "24.56%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "308",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.95",
+"l" : "234.00",
+"cp" : "1.72",
+"ccol" : "chg",
+"op" : "230.00",
+"hi" : "236.00",
+"lo" : "230.00",
+"vo" : "30,164.00",
+"avvo" : "",
+"hi52" : "2,225.00",
+"lo52" : "222.05",
+"mc" : "25.97B",
+"pe" : "31.46",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.44",
+"dy" : "0.17",
+"ldiv" : "0.40",
+"shares" : "111.63M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "942414613151548",
+"name" : "Advanced Enzyme Technologies Ltd",
+"t" : "540025",
+"e" : "BOM",
+"l" : "234.00",
+"c" : "+3.95",
+"mc" : "25.97B",
+"cp" : "1.72",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8547919",
+"name" : "Link Pharma Chemicals Ltd",
+"t" : "524748",
+"e" : "BOM",
+"l" : "38.60",
+"c" : "+0.05",
+"mc" : "171.41M",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722680",
+"name" : "Avon Lifesciences Ltd",
+"t" : "531541",
+"e" : "BOM",
+"l" : "11.65",
+"c" : "-0.60",
+"mc" : "277.56M",
+"cp" : "-4.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3285351",
+"name" : "Shamrock Industrial Co Ltd",
+"t" : "531240",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-3.44",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16777150",
+"name" : "Dishman Pharmaceuticals\u0026Chemicals Ltd",
+"t" : "DISHMAN",
+"e" : "NSE",
+"l" : "300.60",
+"c" : "",
+"mc" : "48.61B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5397679",
+"name" : "Gennex Laboratories Ltd",
+"t" : "531739",
+"e" : "BOM",
+"l" : "4.43",
+"c" : "-0.15",
+"mc" : "567.85M",
+"cp" : "-3.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8708343",
+"name" : "SMS Pharmaceuticals Ltd",
+"t" : "SMSPHARMA",
+"e" : "NSE",
+"l" : "89.35",
+"c" : "+0.60",
+"mc" : "7.59B",
+"cp" : "0.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13868302",
+"name" : "Natural Capsules Ltd",
+"t" : "524654",
+"e" : "BOM",
+"l" : "116.00",
+"c" : "+5.05",
+"mc" : "722.99M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "260021",
+"name" : "NGL Fine-Chem Ltd",
+"t" : "524774",
+"e" : "BOM",
+"l" : "392.65",
+"c" : "+5.65",
+"mc" : "2.43B",
+"cp" : "1.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5983164",
+"name" : "Shreekrishna Biotech Ltd",
+"t" : "505592",
+"e" : "BOM",
+"l" : "141.40",
+"c" : "0.00",
+"mc" : "1.33B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1333245",
+"name" : "Shilpa Medicare Ltd",
+"t" : "SHILPAMED",
+"e" : "NSE",
+"l" : "458.00",
+"c" : "+7.65",
+"mc" : "37.20B",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Sun-Magnetica, A Wing, 5th Floor LIC Service Road, Louiswadi, THANE, 400604, India",
+"phone": "+91-22-41703200",
+"fax": "+91-22-25835159",
+"url": "http:\u002F\u002Fwww.advancedenzymes.com\u002F",
+"overview" : "Advanced Enzyme Technologies Limited is engaged in business of manufacturing and sale of enzymes. The Company\u0027s geographical segments include Within India and Outside India. It provides solutions to industries, such as human healthcare and nutrition, animal nutrition, baking, fruit and vegetable processing, brewing and malting, grain processing, protein modification, dairy processing, natural extraction, textile processing, leather processing, paper and pulp processing, biofuels, biomass processing and biocatalysts. It offers products and solutions for human nutrition, which include serratiopeptidase, fungal lactase, fungal lipase and papain\u003B animal nutrition, which include DigeGrain X, DigeGrain XL and DigeGrain M\u003B food processing, including dairy and cheese processing and yeast processing\u003B non-food processing, including textiles processing, leather and bio-fuels, and oils and fats processing, including oil extraction, oil refining fish oil processing, biodiesel and oleochemicals."
+} ]
+, "management" : [
+{
+"name" : "Beni Prasad Rauka",
+"age" : "51",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Piyush Rathi",
+"age" : "35",
+"title" : "Chief Marketing Officer"
+}
+,
+{
+"name" : "Prabal Bordiya",
+"age" : "23",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Dipak Roda",
+"age" : "43",
+"title" : "Vice President - Market and Business Development"
+}
+,
+{
+"name" : "Anil Kumar Gupta",
+"age" : "50",
+"title" : "Vice President - Research \u0026 Development"
+}
+,
+{
+"name" : "Chandrakant Laxminarayan Rathi",
+"age" : "61",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Bhaskar Manolkar",
+"age" : "57",
+"title" : "General Manager - HR and Administration for the Sinnar Plant"
+}
+,
+{
+"name" : "Mukund Madhusudan Kabra",
+"age" : "43",
+"title" : "Director - Operations, Whole Time Director"
+}
+,
+{
+"name" : "Savita Chandrakant Rathi",
+"age" : "54",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Animesh Bagchi",
+"age" : "47",
+"title" : "Manager - Quality"
+}
+]
+,"moreresources" : [
+]
+}]

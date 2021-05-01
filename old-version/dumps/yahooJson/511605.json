@@ -1,0 +1,214 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 2447571200,
+            "fmt": "2.45B",
+            "longFmt": "2,447,571,200"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.29399002,
+            "fmt": "29.40%"
+          },
+          "floatShares": {
+            "raw": 3261740,
+            "fmt": "3.26M",
+            "longFmt": "3,261,740"
+          },
+          "sharesOutstanding": {
+            "raw": 20822600,
+            "fmt": "20.82M",
+            "longFmt": "20,822,600"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 2.112333,
+            "fmt": "2.11"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 54.026,
+            "fmt": "54.03"
+          },
+          "priceToBook": {
+            "raw": 1.2984489,
+            "fmt": "1.30"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.608,
+            "fmt": "60.80%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 257714128,
+            "fmt": "257.71M",
+            "longFmt": "257,714,128"
+          },
+          "trailingEps": {
+            "raw": 12.367,
+            "fmt": "12.37"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "1/1",
+          "lastSplitDate": {
+            "raw": 1285200000,
+            "fmt": "2010-09-23"
+          },
+          "enterpriseToRevenue": {
+            "raw": 2.792,
+            "fmt": "2.79"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "1011, Solitaire Corporate Park",
+          "address2": "Building No. 10, 1st Floor Andheri Ghatkopar Link Road Chakala, Andheri (East)",
+          "city": "Mumbai",
+          "zip": "400093",
+          "country": "India",
+          "phone": "91 22 4225 4800",
+          "fax": "91 22 4225 4800",
+          "website": "http://www.arihantcapital.com",
+          "industry": "Investment Brokerage - National",
+          "sector": "Financial",
+          "longBusinessSummary": "Arihant Capital Markets Limited, together with its subsidiaries, provides various financial products and services to individuals, corporations, and financial institutions in India and internationally. The company's services include equities, commodities, interest rate futures, and currencies broking services; the distribution of mutual funds, corporate fixed deposits, bonds, and IPOs; priority client group and financial planning services; and merchant banking and investment banking services. It also offers online and mobile trading, algorithmic trading, depository, and real estate services, as well as provides research, NRI and FPI, stock lending and borrowing, investment and trading Webinars, insurance, and RGESS services. The company was founded in 1992 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 70.15,
+            "fmt": "70.15"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 964073984,
+            "fmt": "964.07M",
+            "longFmt": "964,073,984"
+          },
+          "totalCashPerShare": {
+            "raw": 46.286,
+            "fmt": "46.29"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 862238976,
+            "fmt": "862.24M",
+            "longFmt": "862,238,976"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 876592064,
+            "fmt": "876.59M",
+            "longFmt": "876,592,064"
+          },
+          "debtToEquity": {
+            "raw": 76.685,
+            "fmt": "76.68"
+          },
+          "revenuePerShare": {
+            "raw": 42.079,
+            "fmt": "42.08"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 700183688,
+            "fmt": "700.18M",
+            "longFmt": "700,183,688"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.607,
+            "fmt": "60.70%"
+          },
+          "revenueGrowth": {
+            "raw": -0.036,
+            "fmt": "-3.60%"
+          },
+          "grossMargins": {
+            "raw": 0.9438,
+            "fmt": "94.38%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.40893,
+            "fmt": "40.89%"
+          },
+          "profitMargins": {
+            "raw": 0.29399002,
+            "fmt": "29.40%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

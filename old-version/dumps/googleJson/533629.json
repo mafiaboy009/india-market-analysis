@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "533629",
+"exchange" : "BOM",
+"id": "680004312356922",
+"t" : "533629",
+"e" : "BOM",
+"name" : "Tijaria Polypipes Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533629"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533629"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533629"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-19.58%",
+"annual" : "-32.87%",
+"ttm" : "-34.69%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-11.98%",
+"annual" : "-22.25%",
+"ttm" : "-24.66%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-3.98%",
+"ttm" : "-11.07%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-17.02%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-46.61%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "135",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.40",
+"l" : "11.25",
+"cp" : "3.69",
+"ccol" : "chg",
+"op" : "11.00",
+"hi" : "11.25",
+"lo" : "10.61",
+"vo" : "7,870.00",
+"avvo" : "",
+"hi52" : "16.44",
+"lo52" : "5.97",
+"mc" : "265.79M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-10.38",
+"dy" : "",
+"ldiv" : "",
+"shares" : "23.63M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "680004312356922",
+"name" : "Tijaria Polypipes Ltd",
+"t" : "533629",
+"e" : "BOM",
+"l" : "11.25",
+"c" : "+0.40",
+"mc" : "265.79M",
+"cp" : "3.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11378130",
+"name" : "Texmo Pipes and products limited",
+"t" : "TEXMOPIPES",
+"e" : "NSE",
+"l" : "22.70",
+"c" : "+0.40",
+"mc" : "567.95M",
+"cp" : "1.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "754596606759916",
+"name" : "Captain Pipes Ltd",
+"t" : "538817",
+"e" : "BOM",
+"l" : "59.00",
+"c" : "0.00",
+"mc" : "245.35M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4984349",
+"name" : "Kriti Industries India Ltd",
+"t" : "526423",
+"e" : "BOM",
+"l" : "52.00",
+"c" : "+0.50",
+"mc" : "2.58B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4234386",
+"name" : "Tulsi Extrusions Limited",
+"t" : "TULSI",
+"e" : "NSE",
+"l" : "3.00",
+"c" : "+0.10",
+"mc" : "82.48M",
+"cp" : "3.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4691478",
+"name" : "Dutron Polymers Ltd",
+"t" : "517437",
+"e" : "BOM",
+"l" : "129.20",
+"c" : "-6.80",
+"mc" : "775.20M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "957998894687951",
+"name" : "Captain Polyplast Ltd",
+"t" : "536974",
+"e" : "BOM",
+"l" : "156.20",
+"c" : "-6.70",
+"mc" : "1.53B",
+"cp" : "-4.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4393042",
+"name" : "Astral Poly Technik Ltd",
+"t" : "ASTRAL",
+"e" : "NSE",
+"l" : "844.00",
+"c" : "+62.60",
+"mc" : "99.98B",
+"cp" : "8.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9526827",
+"name" : "Apollo Pipes Ltd",
+"t" : "531761",
+"e" : "BOM",
+"l" : "589.60",
+"c" : "+28.05",
+"mc" : "2.98B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3393914",
+"name" : "Finolex Industries Ltd",
+"t" : "FINPIPE",
+"e" : "NSE",
+"l" : "648.20",
+"c" : "+7.85",
+"mc" : "79.24B",
+"cp" : "1.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10233386",
+"name" : "Sri KPR Industries Ltd",
+"t" : "514442",
+"e" : "BOM",
+"l" : "27.00",
+"c" : "-0.50",
+"mc" : "543.93M",
+"cp" : "-1.82",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "A-130E, Road No 9D, V I K Area, JAIPUR, 302013, India",
+"phone": "+91-141-4010800",
+"fax": "+91-141-4032300",
+"url": "http:\u002F\u002Fwww.tijaria-pipes.com\u002F",
+"overview" : "Tijaria Polypipes Limited is engaged in manufacturing and selling of mink blankets, high-density polyethylene (HDPE)\u002Fpolyvinyl chloride (PVC) pipe, sprinkle system and conduit pipe, among others. The Company is also engaged in the business of manufacturing of pipes and yarn located at Jaipur. The Company operates through two segments: Pipes and Textile. The Company is engaged in manufacturing in two segments, which include Plastic and Textile. In the Plastic division, the main products of the Company are Sprinkler Irrigation System, Drip-Irrigation System, Mini Sprinkler System, Green House, Micro irrigation, uPVC Pipes, SWR pipes \u0026 Fittings, Electrical uPVC Conduit Pipes \u0026 Fittings, PLB ducts, DWC Pipes and uPVC Casing Pipes. The plastic division operates under the brand name of Tijaria and Vikas. In the Textile division, the main product is mink blankets. Its plant is located in Jaipur, Rajasthan."
+} ]
+, "management" : [
+{
+"name" : "Alok Jain Tijaria",
+"age" : "47",
+"title" : "Executive Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Vasu Ajay Anand",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Praveen Jain Tijaria",
+"title" : "Whole-Time Director, Executive Director - Production"
+}
+,
+{
+"name" : "Vikas Jain Tijaria",
+"age" : "44",
+"title" : "Whole-Time Director, Executive Director - Marketing"
+}
+,
+{
+"name" : "Vineet Jain Tijaria",
+"title" : "Whole-Time Director, Executive Director - Project"
+}
+,
+{
+"name" : "Devendra Sharma",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Ravi Prakash Jain",
+"age" : "49",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sanjeev Kumar Mishra",
+"age" : "46",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vinod Patni",
+"age" : "56",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,290 @@
+
+// [
+{
+"symbol" : "532155",
+"exchange" : "BOM",
+"id": "678311",
+"t" : "532155",
+"e" : "BOM",
+"name" : "GAIL (India) Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532155"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532155"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532155"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002706)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.88%",
+"annual" : "8.00%",
+"ttm" : "14.15%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.08%",
+"annual" : "10.25%",
+"ttm" : "20.01%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.38%",
+"ttm" : "24.72%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.68%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.90%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,355",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+5.05",
+"l" : "463.40",
+"cp" : "1.10",
+"ccol" : "chg",
+"op" : "460.10",
+"hi" : "465.60",
+"lo" : "460.00",
+"vo" : "93,679.00",
+"avvo" : "",
+"hi52" : "518.00",
+"lo52" : "347.00",
+"mc" : "782.73B",
+"pe" : "32.13",
+"fwpe" : "",
+"beta" : "",
+"eps" : "14.42",
+"dy" : "2.23",
+"ldiv" : "7.65",
+"shares" : "1.69B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "678311",
+"name" : "GAIL (India) Limited",
+"t" : "532155",
+"e" : "BOM",
+"l" : "463.40",
+"c" : "+5.05",
+"mc" : "782.73B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "674868",
+"name" : "Oil \u0026 Natural Gas Corporation Limited",
+"t" : "ONGC",
+"e" : "NSE",
+"l" : "189.95",
+"c" : "+0.15",
+"mc" : "2.43T",
+"cp" : "0.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10360734",
+"name" : "Bharat Petroleum Corp Ltd",
+"t" : "BPCL",
+"e" : "NSE",
+"l" : "431.85",
+"c" : "+1.95",
+"mc" : "936.14B",
+"cp" : "0.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6709566",
+"name" : "NTPC Limited",
+"t" : "NTPC",
+"e" : "NSE",
+"l" : "162.50",
+"c" : "-1.05",
+"mc" : "1.34T",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12588850",
+"name" : "Indian Oil Corporation Limited",
+"t" : "IOC",
+"e" : "NSE",
+"l" : "377.00",
+"c" : "+8.60",
+"mc" : "1.83T",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4699951",
+"name" : "Gujarat State Petronet Ltd",
+"t" : "GSPL",
+"e" : "NSE",
+"l" : "202.00",
+"c" : "+2.75",
+"mc" : "114.61B",
+"cp" : "1.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4674509",
+"name" : "Reliance Industries Limited",
+"t" : "RELIANCE",
+"e" : "NSE",
+"l" : "938.75",
+"c" : "+4.50",
+"mc" : "5.95T",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13363611",
+"name" : "Essar Oil Ltd",
+"t" : "ESSAROIL",
+"e" : "NSE",
+"l" : "263.00",
+"c" : "",
+"mc" : "381.53B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3563195",
+"name" : "Hindustan Petroleum Corporation Limited",
+"t" : "HINDPETRO",
+"e" : "NSE",
+"l" : "392.50",
+"c" : "+6.40",
+"mc" : "597.48B",
+"cp" : "1.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9075590",
+"name" : "Reliance Communications Ltd",
+"t" : "RCOM",
+"e" : "NSE",
+"l" : "29.65",
+"c" : "+2.05",
+"mc" : "82.15B",
+"cp" : "7.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "131122508686067",
+"name" : "SHAIVAL REALITY Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "GAIL Bhawan 16 Bhikaji Cama Place, R.K. Puram, NEW DELHI, 110066, India",
+"phone": "+91-11-26172580",
+"fax": "+91-11-26185941",
+"url": "http:\u002F\u002Fwww.gailonline.com\u002F",
+"overview" : "GAIL (India) Limited is an integrated energy company in the hydrocarbon sector. The Company is engaged in gas marketing. The Company\u0027s segments include Transmission services, which includes natural gas and liquid petroleum gas (LPG)\u003B Natural Gas Trading\u003B Petrochemicals\u003B LPG and other Liquid Hydrocarbons\u003B City Gas Distribution, and Other Segments, which includes GAIL TEL, exploration and production (E\u0026P), City Gas and Power Generation. The Company is engaged in activities, including transportation through pipeline\u003B manufacture of basic chemicals, fertilizer and nitrogen compounds, plastics and synthetic rubber in primary forms\u003B extraction of crude petroleum\u003B extraction of natural gas, and electric power generation, transmission and distribution. The Company\u0027s products and services include natural gas marketing and transmission\u003B petrochemicals (polyethylene and polypropylene), and liquid hydrocarbons production (LPG, propane, pentane and naphtha)."
+} ]
+, "management" : [
+{
+"name" : "B. C. Tripathi",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Subir Purkayastha",
+"title" : "Chief Financial Officer, Finance Director, Whole Time Director"
+}
+,
+{
+"name" : "A.K. Jha",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ashutosh Karnatak",
+"age" : "56",
+"title" : "Director - Projects, Whole Time Director"
+}
+,
+{
+"name" : "Gajendra Singh",
+"title" : "Director (Marketing)"
+}
+,
+{
+"name" : "P. K. Gupta",
+"title" : "Director - Human Resources, Director"
+}
+,
+{
+"name" : "Ashish Chatterjee",
+"title" : "Part - time Director - Government Nominee"
+}
+,
+{
+"name" : "Indrani Kaushal",
+"title" : "Part - time Director - Government Nominee"
+}
+,
+{
+"name" : "Jayanto Narayan Choudhury",
+"title" : "Non - Official Part - Time Independent Director"
+}
+,
+{
+"name" : "Anupam Kulshrestha",
+"title" : "Non-Official Part - Time Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

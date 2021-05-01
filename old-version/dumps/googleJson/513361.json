@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "513361",
+"exchange" : "BOM",
+"id": "722522",
+"t" : "513361",
+"e" : "BOM",
+"name" : "India Steel Works Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=INST.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:513361"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:513361"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:513361"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.36%",
+"annual" : "0.77%",
+"ttm" : "0.71%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-0.94%",
+"annual" : "0.56%",
+"ttm" : "-0.25%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "2.33%",
+"ttm" : "0.98%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.43%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.32%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "417",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "3.09",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "3.23",
+"hi" : "3.23",
+"lo" : "3.01",
+"vo" : "89,618.00",
+"avvo" : "",
+"hi52" : "5.40",
+"lo52" : "2.19",
+"mc" : "1.22B",
+"pe" : "16.52",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.19",
+"dy" : "",
+"ldiv" : "",
+"shares" : "398.08M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "722522",
+"name" : "India Steel Works Limited",
+"t" : "513361",
+"e" : "BOM",
+"l" : "3.09",
+"c" : "0.00",
+"mc" : "1.22B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "187423",
+"name" : "Prakash Industries Limited",
+"t" : "PRAKASH",
+"e" : "NSE",
+"l" : "217.00",
+"c" : "+0.75",
+"mc" : "33.50B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6767376",
+"name" : "ISMT Ltd.",
+"t" : "ISMTLTD",
+"e" : "NSE",
+"l" : "14.10",
+"c" : "+0.05",
+"mc" : "2.07B",
+"cp" : "0.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15446767",
+"name" : "Ratnamani Metals and Tubes Limited",
+"t" : "RATNAMANI",
+"e" : "NSE",
+"l" : "922.85",
+"c" : "+21.45",
+"mc" : "43.67B",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "554964",
+"name" : "Jindal Saw Limited",
+"t" : "JINDALSAW",
+"e" : "NSE",
+"l" : "142.25",
+"c" : "+3.55",
+"mc" : "45.73B",
+"cp" : "2.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1071917726516760",
+"name" : "JTL Infra Ltd",
+"t" : "534600",
+"e" : "BOM",
+"l" : "167.75",
+"c" : "-5.80",
+"mc" : "1.68B",
+"cp" : "-3.34",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12140686",
+"name" : "Ruchi Strips \u0026 Alloys Ltd",
+"t" : "513295",
+"e" : "BOM",
+"l" : "1.60",
+"c" : "+0.01",
+"mc" : "79.99M",
+"cp" : "0.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9438165",
+"name" : "Zenith Birla (India) Limited",
+"t" : "ZENITHBIR",
+"e" : "NSE",
+"l" : "1.75",
+"c" : "+0.05",
+"mc" : "229.74M",
+"cp" : "2.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6289026",
+"name" : "Uttam Value Steels Ltd",
+"t" : "UVSL",
+"e" : "NSE",
+"l" : "0.20",
+"c" : "-0.05",
+"mc" : "1.32B",
+"cp" : "-20.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4154125",
+"name" : "Gyscoal Alloys Limited",
+"t" : "GAL",
+"e" : "NSE",
+"l" : "7.75",
+"c" : "-0.05",
+"mc" : "1.23B",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1110227320033592",
+"name" : "Shankara Building Products Ltd",
+"t" : "SHANKARA",
+"e" : "NSE",
+"l" : "1,694.00",
+"c" : "-10.60",
+"mc" : "38.79B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "1101, Tower 2, Indiabulls Finance Centre Senapati Bapat Marg, Elphinstone (w), MUMBAI, 400013, India",
+"phone": "+91-22-62304304",
+"fax": "+91-22-62304399",
+"url": "http:\u002F\u002Fwww.indiasteel.in\u002Findex.html",
+"overview" : "India Steel Works Limited is engaged in manufacturing metal and metal products, and trading. The Company operates through the steel business segment. Its divisions include steel melt shop, rolling mills, bright bars and wire facility. Its steel melt shop at Khopoli has two melting routes, an induction furnace and an electric arc furnace, which melt steel. It runs two mills, a continuous bar and rod mill and a cross-country bar mill. The Bright Bar Division manufactures a range of bright bars, specializing in stainless steel, through various processes, such as heat treatment, quenching and tempering, pickling, cold drawing, peeling, smooth turning, centerless grinding and polishing. Its wire drawing facility, Isinox Steels Ltd., manufactures stainless steel wires of various sizes, finishes, conditions and coil weights. Its products include grade of steel, hot rolled products, bright bars and wires. Its grade of steel products include austenitic stainless steels and carbon alloy steels."
+} ]
+, "management" : [
+{
+"name" : "Ashwinkumar H. Gupta",
+"age" : "64",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Varun S. Gupta",
+"age" : "30",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Dipti Vartak",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sudhir H. Gupta",
+"age" : "53",
+"title" : "Managing Director"
+}
+,
+{
+"name" : "Anant Badjatya",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Deepak Kumar Gaur",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Tilak Raj Bajalia",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Ridhi Shah",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Bimal Desai",
+"age" : "49",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

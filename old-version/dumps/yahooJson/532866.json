@@ -1,0 +1,206 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 152564992,
+            "fmt": "152.56M",
+            "longFmt": "152,564,992"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 12.29409,
+            "fmt": "1,229.41%"
+          },
+          "floatShares": {
+            "raw": 16424226,
+            "fmt": "16.42M",
+            "longFmt": "16,424,226"
+          },
+          "sharesOutstanding": {
+            "raw": 26813800,
+            "fmt": "26.81M",
+            "longFmt": "26,813,800"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 2.396463,
+            "fmt": "2.4"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -4.576,
+            "fmt": "-4.58"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.984,
+            "fmt": "-98.40%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 29040404,
+            "fmt": "29.04M",
+            "longFmt": "29,040,404"
+          },
+          "trailingEps": {
+            "raw": 1.2,
+            "fmt": "1.20"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 64.588,
+            "fmt": "64.59"
+          },
+          "enterpriseToEbitda": {
+            "raw": 309.287,
+            "fmt": "309.29"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Wescare Towers",
+          "address2": "3rd Floor No. 16, Cenotaph Road Teynampet",
+          "city": "Chennai",
+          "zip": "600018",
+          "country": "India",
+          "phone": "91 44 2432 8395",
+          "website": "http://www.quintegrasolutions.com",
+          "industry": "Information Technology Services",
+          "sector": "Technology",
+          "longBusinessSummary": "Quintegra Solutions Limited provides information technology services in India and internationally. The company offers application management services, including development, maintenance, migration, and reengineering; product engineering services; and SAP services, such as SAP implementation, upgrades, functional support, production support, basis and technical consulting, and application innovation services. It also provides testing and validation services comprising software validation, performance engineering, test automation, and software QA consulting services; and technology consulting services, which include industry and business applications, platform integrations, custom development, advisory and technology, CRM services, and methodology and best practices. The company serves banking and financial services, healthcare, education and training, engineering services, logistics, and telecom sectors. Quintegra Solutions Limited was founded in 1994 and is headquartered in Chennai, India.",
+          "fullTimeEmployees": 1,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 0.77,
+            "fmt": "0.77"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 316000,
+            "fmt": "316k",
+            "longFmt": "316,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.014,
+            "fmt": "0.01"
+          },
+          "ebitda": {
+            "raw": 493279,
+            "fmt": "493.28k",
+            "longFmt": "493,279"
+          },
+          "totalDebt": {
+            "raw": 128311000,
+            "fmt": "128.31M",
+            "longFmt": "128,311,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 2362143,
+            "fmt": "2.36M",
+            "longFmt": "2,362,143"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.098,
+            "fmt": "0.10"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": -158803,
+            "fmt": "-158.8k",
+            "longFmt": "-158,803"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.982,
+            "fmt": "-98.20%"
+          },
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.92932,
+            "fmt": "92.93%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.20883,
+            "fmt": "20.88%"
+          },
+          "operatingMargins": {
+            "raw": 0.17108,
+            "fmt": "17.11%"
+          },
+          "profitMargins": {
+            "raw": 12.29409,
+            "fmt": "1,229.41%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

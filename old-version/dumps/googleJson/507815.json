@@ -1,0 +1,290 @@
+
+ [
+{
+"symbol" : "507815",
+"exchange" : "BOM",
+"id": "679166",
+"t" : "507815",
+"e" : "BOM",
+"name" : "Gillette India Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:507815"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:507815"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:507815"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.42%",
+"annual" : "14.15%",
+"ttm" : "14.91%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "21.59%",
+"annual" : "19.40%",
+"ttm" : "21.79%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "21.55%",
+"ttm" : "24.08%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "20.89%",
+"ttm" : "21.24%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "35.22%",
+"ttm" : "34.43%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "632",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+52.70",
+"l" : "6,660.00",
+"cp" : "0.80",
+"ccol" : "chg",
+"op" : "6,697.55",
+"hi" : "6,697.55",
+"lo" : "6,630.00",
+"vo" : "64.00",
+"avvo" : "",
+"hi52" : "7,196.90",
+"lo52" : "4,025.00",
+"mc" : "216.57B",
+"pe" : "81.40",
+"fwpe" : "",
+"beta" : "",
+"eps" : "81.82",
+"dy" : "0.45",
+"ldiv" : "10.00",
+"shares" : "32.59M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "679166",
+"name" : "Gillette India Limited",
+"t" : "507815",
+"e" : "BOM",
+"l" : "6,660.00",
+"c" : "+52.70",
+"mc" : "216.57B",
+"cp" : "0.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12054339",
+"name" : "Elder Health Care Ltd",
+"t" : "524830",
+"e" : "BOM",
+"l" : "8.55",
+"c" : "0.00",
+"mc" : "34.91M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10831975",
+"name" : "JHS Svendgaard Laboratories Limited",
+"t" : "JHS",
+"e" : "NSE",
+"l" : "67.45",
+"c" : "-0.40",
+"mc" : "3.00B",
+"cp" : "-0.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6504858",
+"name" : "3M India Ltd",
+"t" : "3MINDIA",
+"e" : "NSE",
+"l" : "20,651.05",
+"c" : "-82.75",
+"mc" : "233.15B",
+"cp" : "-0.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7129747",
+"name" : "Brushman (India) Limited",
+"t" : "590061",
+"e" : "BOM",
+"l" : "1.15",
+"c" : "",
+"mc" : "16.97M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8740908",
+"name" : "JL Morison India Ltd",
+"t" : "506522",
+"e" : "BOM",
+"l" : "1,485.00",
+"c" : "+56.00",
+"mc" : "2.03B",
+"cp" : "3.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "829919",
+"name" : "Dabur India Ltd",
+"t" : "DABUR",
+"e" : "NSE",
+"l" : "331.75",
+"c" : "+1.15",
+"mc" : "580.17B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14928615",
+"name" : "Farmax India Limited",
+"t" : "FARMAXIND",
+"e" : "NSE",
+"l" : "0.05",
+"c" : "0.00",
+"mc" : "26.71M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7103082",
+"name" : "Sacheta Metals Ltd",
+"t" : "531869",
+"e" : "BOM",
+"l" : "48.00",
+"c" : "+1.00",
+"mc" : "909.12M",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7767474",
+"name" : "JIK Industries Limited",
+"t" : "JIKIND",
+"e" : "NSE",
+"l" : "0.55",
+"c" : "0.00",
+"mc" : "39.95M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4000544",
+"name" : "Paramount Cosmetics (India) Ltd",
+"t" : "507970",
+"e" : "BOM",
+"l" : "31.40",
+"c" : "-1.60",
+"mc" : "152.45M",
+"cp" : "-4.85",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Link House 3, Bahadur Shah Zafar Marg, MUMBAI, 400099, India",
+"phone": "+91-22-28266000",
+"fax": "+91-22-66939696",
+"url": "https:\u002F\u002Fwww.gillette.co.in\u002Fen-in",
+"overview" : "Gillette India Limited is engaged in the manufacturing and sale of branded packaged fast moving consumer goods in the grooming, portable power and oral care businesses. The Company\u0027s segments are Grooming, Portable Power and Oral Care. The Grooming segment includes shaving system and cartridges, blades, toiletries and components. The Portable Power segment includes batteries. The Oral Care segment includes tooth brushes, toothpaste and oral care products. Its geographical segments include Within India and Outside India. It offers products, such as Razors, Trimmers \u0026 Blades, which include ProGlide Razors, Fusion Razors, MACH3 Razors, BODY Razors, Disposable Razors, Replacement Blades and Trimmers, and Pre and Post Shave products, including Shaving Creams, Gels \u0026 Foams, and Skin Care \u0026 Aftershaves. Its products are sold through mass merchandisers, grocery stores, membership club stores, drug stores, department stores and frequency stores."
+} ]
+, "management" : [
+{
+"name" : "Gagan Sawhney",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Flavia Machado",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Al Rajwani",
+"title" : "Managing Director, Additional Director"
+}
+,
+{
+"name" : "Karthik Natarajan",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Bansidhar S. Mehta",
+"age" : "82",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Pramod Agarwal",
+"age" : "51",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Sonali Dhawan",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Narendra P. Sarda",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Gurcharan C. Das",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

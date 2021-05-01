@@ -1,0 +1,339 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 3934835968,
+            "fmt": "3.93B",
+            "longFmt": "3,934,835,968"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 1.60252,
+            "fmt": "160.25%"
+          },
+          "floatShares": {
+            "raw": 1333735004,
+            "fmt": "1.33B",
+            "longFmt": "1,333,735,004"
+          },
+          "sharesOutstanding": {
+            "raw": 1708930048,
+            "fmt": "1.71B",
+            "longFmt": "1,708,930,048"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.335328,
+            "fmt": "-0.34"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -0.301,
+            "fmt": "-0.30"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 267246000,
+            "fmt": "267.25M",
+            "longFmt": "267,246,000"
+          },
+          "trailingEps": {
+            "raw": 0.142,
+            "fmt": "0.14"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "3/1",
+          "lastSplitDate": {
+            "raw": 1363824000,
+            "fmt": "2013-03-21"
+          },
+          "enterpriseToRevenue": {
+            "raw": 23.595,
+            "fmt": "23.59"
+          },
+          "enterpriseToEbitda": {
+            "raw": 9.732,
+            "fmt": "9.73"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 16861692625,
+                  "fmt": "16.86B",
+                  "longFmt": "16,861,692,625"
+                },
+                "earnings": {
+                  "raw": 539796942,
+                  "fmt": "539.8M",
+                  "longFmt": "539,796,942"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 7298291922,
+                  "fmt": "7.3B",
+                  "longFmt": "7,298,291,922"
+                },
+                "earnings": {
+                  "raw": -497865963,
+                  "fmt": "-497.87M",
+                  "longFmt": "-497,865,963"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 773066764,
+                  "fmt": "773.07M",
+                  "longFmt": "773,066,764"
+                },
+                "earnings": {
+                  "raw": -3896875263,
+                  "fmt": "-3.9B",
+                  "longFmt": "-3,896,875,263"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 361669000,
+                  "fmt": "361.67M",
+                  "longFmt": "361,669,000"
+                },
+                "earnings": {
+                  "raw": -242746000,
+                  "fmt": "-242.75M",
+                  "longFmt": "-242,746,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 281486000,
+                  "fmt": "281.49M",
+                  "longFmt": "281,486,000"
+                },
+                "earnings": {
+                  "raw": -223151000,
+                  "fmt": "-223.15M",
+                  "longFmt": "-223,151,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 52118000,
+                  "fmt": "52.12M",
+                  "longFmt": "52,118,000"
+                },
+                "earnings": {
+                  "raw": -15382000,
+                  "fmt": "-15.38M",
+                  "longFmt": "-15,382,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 40640000,
+                  "fmt": "40.64M",
+                  "longFmt": "40,640,000"
+                },
+                "earnings": {
+                  "raw": -49193000,
+                  "fmt": "-49.19M",
+                  "longFmt": "-49,193,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 67380000,
+                  "fmt": "67.38M",
+                  "longFmt": "67,380,000"
+                },
+                "earnings": {
+                  "raw": 11605000,
+                  "fmt": "11.61M",
+                  "longFmt": "11,605,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Rasoya House",
+          "address2": "Plot No. 20/21, Kheta Layout Near New Sneha Nagar Wardha Road",
+          "city": "Nagpur",
+          "zip": "440015",
+          "country": "India",
+          "phone": "91 71 2228 3899",
+          "fax": "91 71 2228 2135",
+          "website": "http://www.rasoyaproteins.in",
+          "industry": "Food - Major Diversified",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Rasoya Proteins Limited engages in soyabean processing business in India. The company primarily offers refined edible soya oil, refined sunflower oil, and ricebran oil. It also provides soya flour and fish feed. The company sells its soya refined oil under the Rasoya brand name. Rasoya Proteins Limited also exports soya liquid lecithin and powder lecithin to Europe and other countries. The company was incorporated in 1992 and is headquartered in Nagpur, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 0.16,
+            "fmt": "0.16"
+          },
+          "targetHighPrice": {
+            "raw": 8.13,
+            "fmt": "8.13"
+          },
+          "targetLowPrice": {
+            "raw": 8.13,
+            "fmt": "8.13"
+          },
+          "targetMeanPrice": {
+            "raw": 8.13,
+            "fmt": "8.13"
+          },
+          "targetMedianPrice": {
+            "raw": 8.13,
+            "fmt": "8.13"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 9124000,
+            "fmt": "9.12M",
+            "longFmt": "9,124,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.005,
+            "fmt": "0"
+          },
+          "ebitda": {
+            "raw": 404335360,
+            "fmt": "404.34M",
+            "longFmt": "404,335,360"
+          },
+          "totalDebt": {
+            "raw": 3643256064,
+            "fmt": "3.64B",
+            "longFmt": "3,643,256,064"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 166766000,
+            "fmt": "166.77M",
+            "longFmt": "166,766,000"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.089,
+            "fmt": "0.09"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 134268000,
+            "fmt": "134.27M",
+            "longFmt": "134,268,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.17,
+            "fmt": "-17.00%"
+          },
+          "grossMargins": {
+            "raw": 0.27359,
+            "fmt": "27.36%"
+          },
+          "ebitdaMargins": {
+            "raw": 2.42457,
+            "fmt": "242.46%"
+          },
+          "operatingMargins": {
+            "raw": 2.00022,
+            "fmt": "200.02%"
+          },
+          "profitMargins": {
+            "raw": 1.60252,
+            "fmt": "160.25%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

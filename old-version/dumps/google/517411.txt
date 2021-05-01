@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "517411",
+"exchange" : "BOM",
+"id": "687618",
+"t" : "517411",
+"e" : "BOM",
+"name" : "Shyam Telecom Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:517411"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:517411"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:517411"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.36%",
+"annual" : "-5.09%",
+"ttm" : "5.69%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-2.64%",
+"annual" : "-12.32%",
+"ttm" : "-13.45%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-11.39%",
+"ttm" : "-11.79%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-3.06%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-44.37%",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "15.00",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "33.25",
+"lo52" : "13.60",
+"mc" : "140.88M",
+"pe" : "13.86",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.08",
+"dy" : "",
+"ldiv" : "",
+"shares" : "11.27M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "687618",
+"name" : "Shyam Telecom Limited",
+"t" : "517411",
+"e" : "BOM",
+"l" : "15.00",
+"c" : "0.00",
+"mc" : "140.88M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "717905",
+"name" : "Aishwarya Technologies and Telecom Ltd",
+"t" : "532975",
+"e" : "BOM",
+"l" : "6.09",
+"c" : "0.00",
+"mc" : "131.32M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1485515",
+"name" : "Nelco Limited",
+"t" : "NELCO",
+"e" : "NSE",
+"l" : "175.80",
+"c" : "+15.95",
+"mc" : "4.02B",
+"cp" : "9.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3962598",
+"name" : "HCL Infosystems Limited",
+"t" : "HCL-INSYS",
+"e" : "NSE",
+"l" : "62.90",
+"c" : "-1.00",
+"mc" : "20.79B",
+"cp" : "-1.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16708397",
+"name" : "Himachal Futuristic Communications (P)",
+"t" : "HFCL",
+"e" : "NSE",
+"l" : "29.30",
+"c" : "+1.10",
+"mc" : "36.25B",
+"cp" : "3.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3945360",
+"name" : "Punjab Communications Ltd",
+"t" : "500346",
+"e" : "BOM",
+"l" : "40.15",
+"c" : "+0.65",
+"mc" : "482.75M",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6969117",
+"name" : "ADC India Communications Limited",
+"t" : "523411",
+"e" : "BOM",
+"l" : "233.95",
+"c" : "+1.45",
+"mc" : "1.08B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1046973",
+"name" : "MRO-TEK Reality Ltd",
+"t" : "MRO-TEK",
+"e" : "NSE",
+"l" : "20.75",
+"c" : "+0.95",
+"mc" : "387.71M",
+"cp" : "4.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "899703",
+"name" : "ITI Limited",
+"t" : "ITI",
+"e" : "NSE",
+"l" : "121.10",
+"c" : "-4.60",
+"mc" : "92.55B",
+"cp" : "-3.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6604439",
+"name" : "Smartlink Network Systems Ltd",
+"t" : "SMARTLINK",
+"e" : "NSE",
+"l" : "103.00",
+"c" : "+1.05",
+"mc" : "2.31B",
+"cp" : "1.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9198237",
+"name" : "Kavveri Telecom Products Ltd.",
+"t" : "KAVVERITEL",
+"e" : "NSE",
+"l" : "12.10",
+"c" : "-1.35",
+"mc" : "243.50M",
+"cp" : "-10.04",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "A-60, Naraina Industrial Area Phase - I,, NEW DELHI, 110028, India",
+"phone": "+91-11-41411070",
+"fax": "+91-141-5100310",
+"url": "http:\u002F\u002Fwww.shyamtelecom.com\u002F",
+"overview" : "Shyam Telecom Limited is an India-based telecommunication equipment manufacturer. The Company is engaged in providing electrical or electronic machinery-telecommunication services. It offers products, including radio frequency (RF) repeaters, Optical Distributed Antenna System (DAS) Repeaters, IP Cellular Backhaul (IPCB) Solutions and accessories. The Company manufactures a range of accessories for communication systems, such as antennas, splitters\u002Fcouplers, filters, duplexers and triplexers. It designs and manufactures a range of RF repeaters for in-building and outdoor coverage. The Company\u0027s RF repeaters provide in-building and outdoor coverage in areas, such as tunnels, buildings, basements, car parks, restaurants, airports, rural areas, highways, railway stations and other areas. It provides remote monitoring and alarm facility for its customers. The Company supplies indoor and outdoor wireless signal enhancement solutions for approximately 100 networks in over five continents."
+} ]
+, "management" : [
+{
+"name" : "Rajiv Mehrotra",
+"age" : "58",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Dharmender Dhingra",
+"title" : "Vice President - Legal, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ajay Khanna",
+"age" : "57",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Alok Tandon",
+"age" : "52",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Arun Khanna",
+"age" : "62",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Vinod Juneja",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Achintya Karati",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Narendra Kumbhat",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "C. S. Malhotra",
+"age" : "82",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

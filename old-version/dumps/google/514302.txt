@@ -1,0 +1,275 @@
+
+// [
+{
+"symbol" : "514302",
+"exchange" : "BOM",
+"id": "2708926",
+"t" : "514302",
+"e" : "BOM",
+"name" : "Vippy Spin Pro Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=VPPY.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:514302"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:514302"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:514302"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.70%",
+"annual" : "3.38%",
+"ttm" : "3.20%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.53%",
+"annual" : "3.69%",
+"ttm" : "3.60%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.59%",
+"ttm" : "5.47%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.20%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.77%",
+"ttm" : ""
+}
+]
+, "c" : "+0.75",
+"l" : "49.50",
+"cp" : "1.54",
+"ccol" : "chg",
+"op" : "49.00",
+"hi" : "49.50",
+"lo" : "49.00",
+"vo" : "4,000.00",
+"avvo" : "",
+"hi52" : "61.60",
+"lo52" : "30.75",
+"mc" : "290.56M",
+"pe" : "8.71",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.68",
+"dy" : "",
+"ldiv" : "",
+"shares" : "5.87M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2708926",
+"name" : "Vippy Spin Pro Ltd",
+"t" : "514302",
+"e" : "BOM",
+"l" : "49.50",
+"c" : "+0.75",
+"mc" : "290.56M",
+"cp" : "1.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2805411",
+"name" : "Lambodhara Textiles Ltd",
+"t" : "590075",
+"e" : "BOM",
+"l" : "79.65",
+"c" : "+1.75",
+"mc" : "732.83M",
+"cp" : "2.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1761795",
+"name" : "Gokak Textiles Ltd",
+"t" : "532957",
+"e" : "BOM",
+"l" : "50.00",
+"c" : "0.00",
+"mc" : "324.97M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14211316",
+"name" : "P B M Polytex Ltd",
+"t" : "514087",
+"e" : "BOM",
+"l" : "90.65",
+"c" : "+0.35",
+"mc" : "746.07M",
+"cp" : "0.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5004145",
+"name" : "Kallam Spinning Mills Ltd",
+"t" : "530201",
+"e" : "BOM",
+"l" : "31.50",
+"c" : "+0.75",
+"mc" : "1.35B",
+"cp" : "2.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715572",
+"name" : "Rajapalayam Mills Ltd.",
+"t" : "532503",
+"e" : "BOM",
+"l" : "1,170.00",
+"c" : "+34.95",
+"mc" : "8.62B",
+"cp" : "3.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715507",
+"name" : "Mohite Industries Ltd",
+"t" : "532140",
+"e" : "BOM",
+"l" : "16.45",
+"c" : "-0.80",
+"mc" : "344.62M",
+"cp" : "-4.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8566171",
+"name" : "Super Sales India Ltd",
+"t" : "512527",
+"e" : "BOM",
+"l" : "690.00",
+"c" : "+12.85",
+"mc" : "2.16B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2690096",
+"name" : "BSL Ltd",
+"t" : "BSL",
+"e" : "NSE",
+"l" : "74.40",
+"c" : "-2.20",
+"mc" : "771.78M",
+"cp" : "-2.87",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4092474",
+"name" : "Sambandam Spinning Mills Ltd",
+"t" : "SAMBANDAM",
+"e" : "NSE",
+"l" : "80.00",
+"c" : "",
+"mc" : "341.17M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4923800",
+"name" : "Jindal Cotex Limited",
+"t" : "JINDCOT",
+"e" : "NSE",
+"l" : "7.50",
+"c" : "+0.20",
+"mc" : "337.52M",
+"cp" : "2.74",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "14-A, Industrial Area, A. B. Road, DEWAS, 455001, India",
+"phone": "+91-7272-258251",
+"fax": "+91-7272-400121",
+"url": "http:\u002F\u002Fwww.vippyspinpro.4t.com\u002F",
+"overview" : "Vippy SpinPro Limited is engaged in manufacturing of cotton yarn for different applications by rotor spinning. The Company is also engaged in generation of power through wind mill for captive consumption. The Company specializes in special purpose yarns, slub yarns, fancy yarns, multi count yarns and multi twist yarns, waxed yarn and plied yarn, among others. Its products include 5.5s, 6s, 7\u0027s, 8s, 10\u0027s, 12\u0027s, 14\u0027s and 16\u0027s, which are used for denim, terry towels, bottom weight and home furnishing\u003B 20s, 26s, 27s and 30s, which are used for bed linen, knitting and home furnishing\u003B 6\u0027s, 7\u0027s and 10\u0027s (Florescent Free (FF) and Star), which are used in making surgical cloth, artistic canvas, industrial fabric and sheeting\u003B 10\u0027s Soft (Hosiery), which is used as a weft in flannel cloth for made ups, and 2 to 5 Ply of 5\u0027s to 10\u0027s count, which are used for industrial fabrics, home textiles and furnishing. The Company\u0027s factory is situated at Dewas, Madhya Pradesh."
+} ]
+, "management" : [
+{
+"name" : "Piyush Mutha",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Mangalore Maruthi Rao",
+"age" : "76",
+"title" : "Non-Independent Whole-Time Director"
+}
+,
+{
+"name" : "Satyanarayan Patidar",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Praneet Mutha",
+"age" : "43",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "M. L. Jain",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Subash Kocheta",
+"age" : "67",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "K. Raghuram",
+"age" : "43",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

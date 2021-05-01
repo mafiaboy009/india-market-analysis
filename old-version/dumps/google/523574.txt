@@ -1,0 +1,288 @@
+
+// [
+{
+"symbol" : "523574",
+"exchange" : "BOM",
+"id": "684604",
+"t" : "523574",
+"e" : "BOM",
+"name" : "Future Enterprises Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:523574"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:523574"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:523574"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.02%",
+"annual" : "1.22%",
+"ttm" : "2.27%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.19%",
+"annual" : "8.35%",
+"ttm" : "10.73%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "23.15%",
+"ttm" : "11.18%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.54%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.00%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "32,012",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.20",
+"l" : "42.00",
+"cp" : "0.48",
+"ccol" : "chg",
+"op" : "42.50",
+"hi" : "42.70",
+"lo" : "41.65",
+"vo" : "72,735.00",
+"avvo" : "",
+"hi52" : "62.05",
+"lo52" : "26.05",
+"mc" : "21.46B",
+"pe" : "3.64",
+"fwpe" : "",
+"beta" : "",
+"eps" : "11.54",
+"dy" : "0.48",
+"ldiv" : "0.20",
+"shares" : "454.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "684604",
+"name" : "Future Enterprises Ltd",
+"t" : "523574",
+"e" : "BOM",
+"l" : "42.00",
+"c" : "+0.20",
+"mc" : "21.46B",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14510776",
+"name" : "Bombay Swadeshi Stores Ltd",
+"t" : "531276",
+"e" : "BOM",
+"l" : "126.60",
+"c" : "",
+"mc" : "637.26M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14068503",
+"name" : "Brandhouse Retails Limited",
+"t" : "BRANDHOUSE",
+"e" : "NSE",
+"l" : "0.45",
+"c" : "",
+"mc" : "24.12M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "171732",
+"name" : "V2 Retail Ltd",
+"t" : "V2RETAIL",
+"e" : "NSE",
+"l" : "402.00",
+"c" : "+44.75",
+"mc" : "13.68B",
+"cp" : "12.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3193458",
+"name" : "Trent Ltd",
+"t" : "TRENT",
+"e" : "NSE",
+"l" : "310.00",
+"c" : "-3.00",
+"mc" : "102.69B",
+"cp" : "-0.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "904964245652357",
+"name" : "Aditya Birla Fashion and Retail Ltd",
+"t" : "ABFRL",
+"e" : "NSE",
+"l" : "148.05",
+"c" : "-2.90",
+"mc" : "114.21B",
+"cp" : "-1.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "51762983763643",
+"name" : "Future Retail Ltd",
+"t" : "FRETAIL",
+"e" : "NSE",
+"l" : "516.95",
+"c" : "-1.95",
+"mc" : "259.17B",
+"cp" : "-0.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16032883",
+"name" : "CESC Ltd",
+"t" : "CESC",
+"e" : "NSE",
+"l" : "1,017.00",
+"c" : "+15.30",
+"mc" : "134.54B",
+"cp" : "1.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "520020",
+"name" : "Nilkamal Ltd.",
+"t" : "NILKAMAL",
+"e" : "NSE",
+"l" : "1,695.00",
+"c" : "-0.80",
+"mc" : "25.34B",
+"cp" : "-0.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8882505",
+"name" : "Himatsingka Seide Limited",
+"t" : "HIMATSEIDE",
+"e" : "NSE",
+"l" : "357.00",
+"c" : "+2.20",
+"mc" : "35.13B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4917539",
+"name" : "Shoppers Stop Limited",
+"t" : "SHOPERSTOP",
+"e" : "NSE",
+"l" : "534.95",
+"c" : "+7.05",
+"mc" : "46.60B",
+"cp" : "1.34",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Knowledge House Shyam Nagar Off Jogeswari-Vikhroli Link Rd, MUMBAI, 400083, India",
+"phone": "+91-22-61190000",
+"fax": "+91-22-66442201",
+"url": "http:\u002F\u002Ffelindia.in\u002F",
+"overview" : "Future Enterprises Limited, formerly Future Retail Limited, is engaged in the business of multi brand retail trading. The Company\u0027s store networks include over 738 stores in approximately 221 cities, which are operated under various brand names, including easyday and KB\u0027s. The Company\u0027s retail business consists of Hypermarket and Supermarket, and Home Solutions. The hypermarket and supermarket business is led by Big Bazaar, fbb, Food Bazaar and Foodhall, and the Company operates over 300 Big Bazaar, fbb and food bazaar stores in approximately 244 cities across the country. The home solutions business includes HomeTown and Ezone. HomeTown is a one-stop destination for home-making solutions. Ezone is a lifestyle format that consists of consumer electronic and durables brands. KB\u0027s offers exotic range of food products through over 500 stores. easyday operates approximately 320 stores in Delhi and the National Capital Region\u003B Punjab\u003B Haryana, and Western Uttar Pradesh."
+} ]
+, "management" : [
+{
+"name" : "Vijay Kumar Chopra",
+"age" : "71",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Kishore Biyani",
+"age" : "56",
+"title" : "Vice Chairman of the Board"
+}
+,
+{
+"name" : "Dinesh Maheshwari",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Deepak Tanna",
+"title" : "Company Secretary, Compliance Officer"
+}
+,
+{
+"name" : "Vijay Biyani",
+"age" : "51",
+"title" : "Managing Director"
+}
+,
+{
+"name" : "Bala Deshpande",
+"age" : "49",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "S. Doreswamy",
+"age" : "77",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Anil D. Harish",
+"age" : "63",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

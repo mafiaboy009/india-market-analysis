@@ -1,0 +1,360 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 2229129728,
+            "fmt": "2.23B",
+            "longFmt": "2,229,129,728"
+          },
+          "forwardPE": {
+            "raw": 14.980843,
+            "fmt": "14.98"
+          },
+          "profitMargins": {
+            "raw": 0.00596,
+            "fmt": "0.60%"
+          },
+          "floatShares": {
+            "raw": 17061875,
+            "fmt": "17.06M",
+            "longFmt": "17,061,875"
+          },
+          "sharesOutstanding": {
+            "raw": 39571700,
+            "fmt": "39.57M",
+            "longFmt": "39,571,700"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.520943,
+            "fmt": "-0.52"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 114.7,
+            "fmt": "114.70"
+          },
+          "priceToBook": {
+            "raw": 0.34088928,
+            "fmt": "0.34"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 43200000,
+            "fmt": "43.2M",
+            "longFmt": "43,200,000"
+          },
+          "trailingEps": {
+            "raw": 1.09,
+            "fmt": "1.09"
+          },
+          "forwardEps": {
+            "raw": 2.61,
+            "fmt": "2.61"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.307,
+            "fmt": "0.31"
+          },
+          "enterpriseToEbitda": {
+            "raw": -93.759,
+            "fmt": "-93.76"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 0.04,
+                  "fmt": "0.04"
+                },
+                "estimate": {
+                  "raw": 0.36,
+                  "fmt": "0.36"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": -0.74,
+                  "fmt": "-0.74"
+                },
+                "estimate": {
+                  "raw": 0.66,
+                  "fmt": "0.66"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 6199000000,
+                  "fmt": "6.2B",
+                  "longFmt": "6,199,000,000"
+                },
+                "earnings": {
+                  "raw": 169100000,
+                  "fmt": "169.1M",
+                  "longFmt": "169,100,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 6445900000,
+                  "fmt": "6.45B",
+                  "longFmt": "6,445,900,000"
+                },
+                "earnings": {
+                  "raw": 66200000,
+                  "fmt": "66.2M",
+                  "longFmt": "66,200,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 6006700000,
+                  "fmt": "6.01B",
+                  "longFmt": "6,006,700,000"
+                },
+                "earnings": {
+                  "raw": 10600000,
+                  "fmt": "10.6M",
+                  "longFmt": "10,600,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 7108600000,
+                  "fmt": "7.11B",
+                  "longFmt": "7,108,600,000"
+                },
+                "earnings": {
+                  "raw": 74000000,
+                  "fmt": "74M",
+                  "longFmt": "74,000,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 1972400000,
+                  "fmt": "1.97B",
+                  "longFmt": "1,972,400,000"
+                },
+                "earnings": {
+                  "raw": 60400000,
+                  "fmt": "60.4M",
+                  "longFmt": "60,400,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 2105900000,
+                  "fmt": "2.11B",
+                  "longFmt": "2,105,900,000"
+                },
+                "earnings": {
+                  "raw": 1700000,
+                  "fmt": "1.7M",
+                  "longFmt": "1,700,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 1605600000,
+                  "fmt": "1.61B",
+                  "longFmt": "1,605,600,000"
+                },
+                "earnings": {
+                  "raw": 10900000,
+                  "fmt": "10.9M",
+                  "longFmt": "10,900,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 1607100000,
+                  "fmt": "1.61B",
+                  "longFmt": "1,607,100,000"
+                },
+                "earnings": {
+                  "raw": -29200000,
+                  "fmt": "-29.2M",
+                  "longFmt": "-29,200,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "SPIC House",
+          "address2": "4th Floor No. 88, Mount Road Guindy",
+          "city": "Chennai",
+          "zip": "600032",
+          "country": "India",
+          "phone": "91 44 3007 0300",
+          "fax": "91 44 3007 0399",
+          "website": "http://www.sicagen.com",
+          "industry": "General Building Materials",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Sicagen India Limited trades in and distributes building materials in India and internationally. The company operates through Trading and Manufacturing segments. It offers building materials, such as MS/GI pipes, precision tubes, seamless tubes, rectangular/square hollow sections, construction steel comprising TMT steel rebars, PVC pipes, electrical cables, steel fittings, cement, sanitary wares, and CP fittings. The company also provides mechanical governor services, servicing for actuators, field services, and conversion of mechanical and electronic governing systems for power and process industrial markets; and manufactures drums that are used for the transportation of lubricant and transformer oil, hazardous and non-hazardous chemicals, pulp, etc. In addition, it offers water treatment and process enhancement solutions for industrial and institutional markets, which cover cooling tower water treatment chemicals, boiler water treatment chemicals, textiles auxiliaries, chemicals for sugar industries, and leather chemicals, as well as general chemicals comprising radiator coolants, rust removers, etc. for petrochemical, fertilizer, refinery, power, pharmaceutical, agro, and pesticide industries; builds boats, tugs, and barges; manufactures cables for industrial and other critical applications; and engages in the precision fabrication of stainless, carbon, and mild steel, as well as aluminum. The company serves dealers, contractors, builders, and corporate buyers. Sicagen India Limited was incorporated in 2004 and is based in Chennai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 39.1,
+            "fmt": "39.10"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 169800000,
+            "fmt": "169.8M",
+            "longFmt": "169,800,000"
+          },
+          "totalCashPerShare": {
+            "raw": 4.303,
+            "fmt": "4.3"
+          },
+          "ebitda": {
+            "raw": -23775000,
+            "fmt": "-23.77M",
+            "longFmt": "-23,775,000"
+          },
+          "totalDebt": {
+            "raw": 846200000,
+            "fmt": "846.2M",
+            "longFmt": "846,200,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 7254099968,
+            "fmt": "7.25B",
+            "longFmt": "7,254,099,968"
+          },
+          "debtToEquity": {
+            "raw": 18.878,
+            "fmt": "18.88"
+          },
+          "revenuePerShare": {
+            "raw": 183.04,
+            "fmt": "183.04"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 772800000,
+            "fmt": "772.8M",
+            "longFmt": "772,800,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.153,
+            "fmt": "-15.30%"
+          },
+          "grossMargins": {
+            "raw": 0.114779994,
+            "fmt": "11.48%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.00328,
+            "fmt": "-0.33%"
+          },
+          "operatingMargins": {
+            "raw": -0.0077600004,
+            "fmt": "-0.78%"
+          },
+          "profitMargins": {
+            "raw": 0.00596,
+            "fmt": "0.60%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

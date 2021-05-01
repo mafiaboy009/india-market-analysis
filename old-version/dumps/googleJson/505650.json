@@ -1,0 +1,270 @@
+
+ [
+{
+"symbol" : "505650",
+"exchange" : "BOM",
+"id": "713850",
+"t" : "505650",
+"e" : "BOM",
+"name" : "Skyline Millars Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SLMI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:505650"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:505650"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:505650"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-39.31%",
+"annual" : "-223.76%",
+"ttm" : "-92.58%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-32.66%",
+"annual" : "-373.78%",
+"ttm" : "-180.44%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-80.81%",
+"ttm" : "-124.38%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-14.25%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-18.97%",
+"ttm" : ""
+}
+]
+, "c" : "-0.11",
+"l" : "3.55",
+"cp" : "-3.01",
+"ccol" : "chr",
+"op" : "3.51",
+"hi" : "3.55",
+"lo" : "3.50",
+"vo" : "3,000.00",
+"avvo" : "",
+"hi52" : "5.19",
+"lo52" : "2.22",
+"mc" : "142.80M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.66",
+"dy" : "",
+"ldiv" : "",
+"shares" : "40.22M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "713850",
+"name" : "Skyline Millars Ltd",
+"t" : "505650",
+"e" : "BOM",
+"l" : "3.55",
+"c" : "-0.11",
+"mc" : "142.80M",
+"cp" : "-3.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "185894",
+"name" : "Vas Infrastructure Ltd (cn)",
+"t" : "531574",
+"e" : "BOM",
+"l" : "10.70",
+"c" : "-1.07",
+"mc" : "147.13M",
+"cp" : "-9.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "495804775077362",
+"name" : "Bronze InfraTech Ltd",
+"t" : "534731",
+"e" : "BOM",
+"l" : "0.85",
+"c" : "0.00",
+"mc" : "14.69M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2231171",
+"name" : "Nila Infrastructures Ltd",
+"t" : "530377",
+"e" : "BOM",
+"l" : "21.45",
+"c" : "0.00",
+"mc" : "8.41B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9227507",
+"name" : "Emami Infrastructure Limited",
+"t" : "EMAMIINFRA",
+"e" : "NSE",
+"l" : "298.50",
+"c" : "-1.00",
+"mc" : "7.28B",
+"cp" : "-0.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "173745706541156",
+"name" : "Psp Projects Ltd",
+"t" : "PSPPROJECT",
+"e" : "NSE",
+"l" : "488.15",
+"c" : "+0.25",
+"mc" : "17.54B",
+"cp" : "0.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5524223",
+"name" : "Parsvnath Developers Limited",
+"t" : "PARSVNATH",
+"e" : "NSE",
+"l" : "21.70",
+"c" : "+0.40",
+"mc" : "9.44B",
+"cp" : "1.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15071904",
+"name" : "MVL Ltd",
+"t" : "MVL",
+"e" : "NSE",
+"l" : "0.45",
+"c" : "+0.05",
+"mc" : "240.50M",
+"cp" : "12.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13257886",
+"name" : "Ansal Housing and Construction Ltd",
+"t" : "ANSALHSG",
+"e" : "NSE",
+"l" : "23.75",
+"c" : "+0.20",
+"mc" : "1.41B",
+"cp" : "0.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4621714",
+"name" : "CHD Developers Ltd",
+"t" : "526917",
+"e" : "BOM",
+"l" : "17.00",
+"c" : "+0.10",
+"mc" : "1.92B",
+"cp" : "0.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6690180",
+"name" : "Action Construction Equipment Limited",
+"t" : "ACE",
+"e" : "NSE",
+"l" : "188.50",
+"c" : "+6.15",
+"mc" : "22.16B",
+"cp" : "3.37",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "C\u002F2, 412-413, Skyline Wealthspace Near Skyline Oasis,Premier Road Vidhyavihar (West), MUMBAI, 400001, India",
+"phone": "+91-22-22047471",
+"fax": "+91-22-25094148",
+"url": "http:\u002F\u002Fskylinemillarsltd.com\u002F",
+"overview" : "Skyline Millars Limited is an India-based company engaged in the activities pertaining to construction equipment, real estate and pre-cast pipes. The Company operates through three segments: Construction Equipment, Pre Cast Pipes and Real Estate Development. The Construction Equipment segment is engaged in equipment and spares sales, repair, installation and servicing of equipment. The Pre Cast Pipes segment is engaged in manufacturing other non-metallic mineral (R.C.C.) products. The Real Estate Development segment is engaged in the construction of buildings. Its real estate development projects include Skyline Oasis and the Riverside Project. The Skyline Oasis includes an area of approximately 800,000 Square feet residential development. The Riverside Project is located at Karjat."
+} ]
+, "management" : [
+{
+"name" : "Vishal Kishor Chanda",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vinod N. Joshi",
+"age" : "60",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Maulik H. Dave",
+"age" : "39",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Soha Shirke",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Jatin V. Daisaria",
+"age" : "53",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Ashok J. Patel",
+"age" : "70",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

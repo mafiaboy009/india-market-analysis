@@ -1,0 +1,293 @@
+
+// [
+{
+"symbol" : "524742",
+"exchange" : "BOM",
+"id": "5464613",
+"t" : "524742",
+"e" : "BOM",
+"name" : "Caplin Point Laboratories Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=CAPL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524742"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524742"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524742"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "26.47%",
+"annual" : "23.78%",
+"ttm" : "27.71%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "32.67%",
+"annual" : "27.67%",
+"ttm" : "33.31%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "30.98%",
+"ttm" : "36.77%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "30.44%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "54.22%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "824",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-5.65",
+"l" : "604.00",
+"cp" : "-0.93",
+"ccol" : "chr",
+"op" : "617.55",
+"hi" : "617.55",
+"lo" : "598.00",
+"vo" : "3,801.00",
+"avvo" : "",
+"hi52" : "783.90",
+"lo52" : "374.00",
+"mc" : "45.81B",
+"pe" : "32.08",
+"fwpe" : "",
+"beta" : "",
+"eps" : "18.83",
+"dy" : "0.25",
+"ldiv" : "1.50",
+"shares" : "75.60M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5464613",
+"name" : "Caplin Point Laboratories Ltd",
+"t" : "524742",
+"e" : "BOM",
+"l" : "604.00",
+"c" : "-5.65",
+"mc" : "45.81B",
+"cp" : "-0.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13223080",
+"name" : "Welcure Drugs \u0026 Pharmaceuticals Ltd",
+"t" : "524661",
+"e" : "BOM",
+"l" : "1.41",
+"c" : "0.00",
+"mc" : "19.05M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16070884",
+"name" : "Bliss GVS Pharma Limited",
+"t" : "BLISSGVS",
+"e" : "NSE",
+"l" : "198.00",
+"c" : "+8.55",
+"mc" : "20.47B",
+"cp" : "4.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15354876",
+"name" : "Venus Remedies Ltd.",
+"t" : "VENUSREM",
+"e" : "NSE",
+"l" : "77.45",
+"c" : "-0.10",
+"mc" : "958.36M",
+"cp" : "-0.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7489710",
+"name" : "Brooks Laboratories Ltd",
+"t" : "BROOKS",
+"e" : "NSE",
+"l" : "94.00",
+"c" : "-0.30",
+"mc" : "1.51B",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "503013843684723",
+"name" : "ANG Lifesciences India Ltd",
+"t" : "540694",
+"e" : "BOM",
+"l" : "74.00",
+"c" : "0.00",
+"mc" : "383.57M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "20411139269060",
+"name" : "Medico Remedies Ltd",
+"t" : "540937",
+"e" : "BOM",
+"l" : "97.00",
+"c" : "0.00",
+"mc" : "402.47M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10472438",
+"name" : "Kilitch Drugs (India) Ltd",
+"t" : "KILITCH",
+"e" : "NSE",
+"l" : "113.30",
+"c" : "+18.85",
+"mc" : "1.50B",
+"cp" : "19.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3289388",
+"name" : "Medicamen Biotech Ltd",
+"t" : "531146",
+"e" : "BOM",
+"l" : "691.95",
+"c" : "+23.75",
+"mc" : "7.86B",
+"cp" : "3.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14022907",
+"name" : "F D C Ltd (Parent)",
+"t" : "FDC",
+"e" : "NSE",
+"l" : "285.10",
+"c" : "-3.45",
+"mc" : "50.62B",
+"cp" : "-1.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "805988453466693",
+"name" : "Sakar Healthcare Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "NARBAVI No. 3, Lakshmanan Street, T. Nagar, CHENNAI, 600017, India",
+"phone": "+91-44-28156653",
+"fax": "+91-44-28154952",
+"url": "http:\u002F\u002Fcaplinpoint.net\u002F",
+"overview" : "Caplin Point Laboratories Limited is a pharmaceutical company. The Company\u0027s product segments include Antibiotics, Non-steroidal anti-inflammatory drugs (NSAIDS), Ophthalmics, Pain Management and Anti-ulcers. The Company offers a range of products, including Tablets, Liquid Orals, Capsule, Softgel Capsules, Suppositories and Ovules, Powder for Injection, Dry syrup, Topicals, Liquid Injections, Inhalers, intravenous (IV) Infusion, Lyophilized Products, Branded Products, Dermo Cosmetics and Other Products. It also manufactures a range of ointments, creams, gels and lotions. The Company has presence in Latin American nations of Guatemala, Honduras, Nicaragua, El Salvador, Ecuador, Honduras, Venezuela and Dominican Republic. The Company\u0027s manufacturing facilities are located in Suthukeny village, Puducherry\u003B Gummidipoondi Taluk, Tamil Nadu, and Baddi, Himachal Pradesh. Its research and development units are located in Gummidipoondi Taluk, Tamil Nadu."
+} ]
+, "management" : [
+{
+"name" : "D. Muralidharan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Vivek Siddharth",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "M. Jayapal",
+"age" : "83",
+"title" : "Compliance Officer, Whole Time Director"
+}
+,
+{
+"name" : "Vinod Kumar Srinivasan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "R. Sriranjani",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Sridhar Ganesan",
+"age" : "59",
+"title" : "Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "B. Philip Ashok Karunakaran",
+"title" : "Additional Whole Time Director"
+}
+,
+{
+"name" : "C. C. Paarthipan",
+"age" : "62",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "D. P. Mishra",
+"age" : "59",
+"title" : "Director"
+}
+,
+{
+"name" : "K. C. John",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

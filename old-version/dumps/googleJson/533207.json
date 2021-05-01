@@ -1,0 +1,288 @@
+
+ [
+{
+"symbol" : "533207",
+"exchange" : "BOM",
+"id": "11536697",
+"t" : "533207",
+"e" : "BOM",
+"name" : "Jaypee Infratech Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533207"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533207"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533207"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002714)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.56%",
+"annual" : "-85.41%",
+"ttm" : "8.98%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "32.90%",
+"annual" : "-40.01%",
+"ttm" : "38.56%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-33.41%",
+"ttm" : "39.21%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-5.30%",
+"ttm" : "1.49%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-17.81%",
+"ttm" : "4.87%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "206",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.68",
+"l" : "13.01",
+"cp" : "-4.97",
+"ccol" : "chr",
+"op" : "14.05",
+"hi" : "14.05",
+"lo" : "13.01",
+"vo" : "1.16M",
+"avvo" : "",
+"hi52" : "25.60",
+"lo52" : "9.96",
+"mc" : "18.02B",
+"pe" : "6.06",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.15",
+"dy" : "",
+"ldiv" : "",
+"shares" : "1.39B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11536697",
+"name" : "Jaypee Infratech Limited",
+"t" : "533207",
+"e" : "BOM",
+"l" : "13.01",
+"c" : "-0.68",
+"mc" : "18.02B",
+"cp" : "-4.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2093890",
+"name" : "Noida Toll Bridge Company Limited",
+"t" : "NOIDATOLL",
+"e" : "NSE",
+"l" : "13.00",
+"c" : "+0.10",
+"mc" : "2.41B",
+"cp" : "0.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9179965",
+"name" : "Jog Engineering Ltd",
+"t" : "507942",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "11607058",
+"name" : "Prakash Constrowell Ltd",
+"t" : "PRAKASHCON",
+"e" : "NSE",
+"l" : "7.05",
+"c" : "+0.10",
+"mc" : "873.46M",
+"cp" : "1.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "142092",
+"name" : "Simplex Projects Ltd",
+"t" : "SIMPLEX",
+"e" : "NSE",
+"l" : "29.80",
+"c" : "-0.90",
+"mc" : "375.49M",
+"cp" : "-2.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10279155",
+"name" : "Irb Infrastructure Developers Ltd",
+"t" : "IRB",
+"e" : "NSE",
+"l" : "226.35",
+"c" : "-0.90",
+"mc" : "79.53B",
+"cp" : "-0.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5058013",
+"name" : "Supreme Infrastructure India Limited",
+"t" : "SUPREMEINF",
+"e" : "NSE",
+"l" : "84.95",
+"c" : "-9.25",
+"mc" : "2.19B",
+"cp" : "-9.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13060364",
+"name" : "Il\u0026Fs Engineering \u0026 Construction Co Ltd",
+"t" : "IL\u0026FSENGG",
+"e" : "NSE",
+"l" : "44.20",
+"c" : "-0.05",
+"mc" : "5.77B",
+"cp" : "-0.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "729021",
+"name" : "Niraj Cement Structurals Ltd.",
+"t" : "532986",
+"e" : "BOM",
+"l" : "29.55",
+"c" : "-0.90",
+"mc" : "438.25M",
+"cp" : "-2.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13797730",
+"name" : "J Kumar Infraprojects Ltd",
+"t" : "JKIL",
+"e" : "NSE",
+"l" : "326.50",
+"c" : "-7.40",
+"mc" : "24.62B",
+"cp" : "-2.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "502675419103617",
+"name" : "CMM Infraprojects Ltd",
+"t" : "CMMINFRA",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Sector 128, Distt. Gautam Budh Nagar, NOIDA, 201304, India",
+"phone": "+91-120-4609000",
+"fax": "+91-120-4963122",
+"url": "http:\u002F\u002Fwww.jaypeeinfratech.com",
+"overview" : "Jaypee Infratech Limited (JIL) is engaged in the real estate development. The Company\u0027s business segments include Yamuna Expressway Project and Healthcare. The Company\u0027s Yamuna Expressway Project is an integrated project, which inter alia includes construction of 165 kilometers long six lane access controlled expressway from Noida to Agra with provision for expansion to eight lane with service roads and associated structures on build, own, operate and transfer basis. The Company provides operation and maintenance of Yamuna Expressway for over 36 years, collection of toll and the rights for development of approximately 25 million square meters of land for residential, commercial, institutional, amusement and industrial purposes at over five land parcels along the expressway. The Healthcare business segment includes hospitals. The Company has commenced development of its Land Parcel-1 at Noida, Land Parcel-3 at Mirzapur and Land Parcel-5 at Agra."
+} ]
+, "management" : [
+{
+"name" : "Manoj Gaur",
+"age" : "53",
+"title" : "Non-Executive Non-Independent Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Pramod Kumar Aggarwal",
+"age" : "56",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Mohinder Paul Kharbanda",
+"title" : "Sr. General Manager(Sectl.), Company Secretary"
+}
+,
+{
+"name" : "Sunil Kumar Sharma",
+"age" : "55",
+"title" : "Non-Executive Non-Independent Vice Chairman of the Board"
+}
+,
+{
+"name" : "Gaurav Jain",
+"title" : "Director"
+}
+,
+{
+"name" : "Rekha Dixit",
+"age" : "56",
+"title" : "Non-Independent Non-Executive Director"
+}
+,
+{
+"name" : "Sameer Gaur",
+"age" : "40",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Rakesh Sharma",
+"age" : "52",
+"title" : "Non-Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

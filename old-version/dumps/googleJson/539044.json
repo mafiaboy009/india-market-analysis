@@ -1,0 +1,243 @@
+
+ [
+{
+"symbol" : "539044",
+"exchange" : "BOM",
+"id": "676800115040629",
+"t" : "539044",
+"e" : "BOM",
+"name" : "Manaksia Steels Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539044"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539044"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539044"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.49%",
+"annual" : "2.69%",
+"ttm" : "3.35%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.47%",
+"annual" : "5.16%",
+"ttm" : "5.90%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.43%",
+"ttm" : "7.45%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.55%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.69%",
+"ttm" : ""
+}
+]
+, "c" : "-1.50",
+"l" : "33.50",
+"cp" : "-4.29",
+"ccol" : "chr",
+"op" : "35.45",
+"hi" : "35.45",
+"lo" : "33.30",
+"vo" : "24,244.00",
+"avvo" : "",
+"hi52" : "54.55",
+"lo52" : "12.06",
+"mc" : "2.20B",
+"pe" : "14.36",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.33",
+"dy" : "",
+"ldiv" : "",
+"shares" : "65.53M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "676800115040629",
+"name" : "Manaksia Steels Ltd",
+"t" : "539044",
+"e" : "BOM",
+"l" : "33.50",
+"c" : "-1.50",
+"mc" : "2.20B",
+"cp" : "-4.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "939845707026231",
+"name" : "Lloyds Steels Industries Ltd",
+"t" : "LSIL",
+"e" : "NSE",
+"l" : "1.60",
+"c" : "0.00",
+"mc" : "1.44B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2839294",
+"name" : "Gujarat NRE Coke Ltd.",
+"t" : "GUJNRECOKE",
+"e" : "NSE",
+"l" : "0.90",
+"c" : "0.00",
+"mc" : "1.49B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1253345",
+"name" : "Rohit Ferro-Tech Limited",
+"t" : "ROHITFERRO",
+"e" : "NSE",
+"l" : "3.60",
+"c" : "-0.10",
+"mc" : "409.59M",
+"cp" : "-2.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7597622",
+"name" : "Vardhman Industries Ltd",
+"t" : "513534",
+"e" : "BOM",
+"l" : "12.07",
+"c" : "-0.41",
+"mc" : "96.69M",
+"cp" : "-3.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15926385",
+"name" : "Jindal Steel \u0026 Power Limited",
+"t" : "JINDALSTEL",
+"e" : "NSE",
+"l" : "266.60",
+"c" : "+1.60",
+"mc" : "244.05B",
+"cp" : "0.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15105252",
+"name" : "Sanghvi Forging and Engineering Ltd",
+"t" : "SANGHVIFOR",
+"e" : "NSE",
+"l" : "35.85",
+"c" : "-0.30",
+"mc" : "536.11M",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14218427",
+"name" : "Uttam Galva Steels Ltd.",
+"t" : "UTTAMSTL",
+"e" : "NSE",
+"l" : "17.95",
+"c" : "-0.15",
+"mc" : "2.55B",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1433939",
+"name" : "Electrosteel Steels Ltd",
+"t" : "ESL",
+"e" : "NSE",
+"l" : "3.45",
+"c" : "-0.15",
+"mc" : "8.31B",
+"cp" : "-4.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "396911592447988",
+"name" : "Ankit Metal \u0026 Power Ltd",
+"t" : "ANKITMETAL",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-1.30",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12752818",
+"name" : "Stelco Strips Ltd",
+"t" : "513530",
+"e" : "BOM",
+"l" : "4.10",
+"c" : "",
+"mc" : "37.31M",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Bikaner Building 3rd Floor, 8\u002F1, Lalbazar Street, KOLKATA, 700001, India",
+"phone": "+91-33-22310050",
+"fax": "+91-33-22300336",
+"url": "http:\u002F\u002Fwww.manaksia.com\u002Fsteel_div.php",
+"overview" : "Manaksia Steels Limited is a manufacturer of value added secondary steel products. The Company offers hot\u002Fcold rolled products of steel. It operates through Metals segment. The Company manufactures and sells steel products consisting of Cold Rolled Sheets, which are used in interior and exterior panels of automobiles, buses and commercial vehicles\u003B Galvanised Corrugated Sheets, which are used in the rural housing sector and factory buildings\u003B Galvanised Plain Sheets, which are used in the manufacture of containers and water tanks, and Colour Coated (Pre-painted) Coils and Sheets for sale to construction, housing, consumer durable and other industries. The Company has a 120,000 million tons per annum (MTPA) steel cold rolling plant at Haldia for manufacture of Cold Rolled Coils and Sheets, and continuous galvanizing plants at Bankura (30,000 MTPA) and Haldia (60,000 MTPA). The Company has also facilities for roll forming\u002Fprofiling for direct supply to projects for industrial roofing."
+} ]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Feb 9, 2018",
+"time": "",
+"future": 0,
+"desc": "Q3 2018 Manaksia Steels Ltd Earnings Release (Estimated)"
+}
+]
+}]

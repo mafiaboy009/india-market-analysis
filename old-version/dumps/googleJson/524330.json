@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "524330",
+"exchange" : "BOM",
+"id": "722986",
+"t" : "524330",
+"e" : "BOM",
+"name" : "Jayant Agro-Organics Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:524330"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:524330"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:524330"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.85%",
+"annual" : "3.39%",
+"ttm" : "3.39%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.83%",
+"annual" : "6.78%",
+"ttm" : "6.78%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.47%",
+"ttm" : "7.47%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.69%",
+"ttm" : "7.69%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "20.42%",
+"ttm" : "20.42%"
+}
+]
+, "c" : "-1.55",
+"l" : "367.10",
+"cp" : "-0.42",
+"ccol" : "chr",
+"op" : "374.00",
+"hi" : "374.95",
+"lo" : "367.10",
+"vo" : "1,292.00",
+"avvo" : "",
+"hi52" : "571.45",
+"lo52" : "295.50",
+"mc" : "11.00B",
+"pe" : "19.11",
+"fwpe" : "",
+"beta" : "",
+"eps" : "19.21",
+"dy" : "1.03",
+"ldiv" : "0.65",
+"shares" : "0.00",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "722986",
+"name" : "Jayant Agro-Organics Ltd.",
+"t" : "524330",
+"e" : "BOM",
+"l" : "367.10",
+"c" : "-1.55",
+"mc" : "11.00B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14225106",
+"name" : "NK Industries Ltd",
+"t" : "NKIND",
+"e" : "NSE",
+"l" : "51.80",
+"c" : "+1.15",
+"mc" : "309.48M",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "514642755491051",
+"name" : "KGN Enterprises Ltd",
+"t" : "533790",
+"e" : "BOM",
+"l" : "5.65",
+"c" : "0.00",
+"mc" : "115.66M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10576248",
+"name" : "Kanel Industries Ltd",
+"t" : "500236",
+"e" : "BOM",
+"l" : "3.61",
+"c" : "0.00",
+"mc" : "66.47M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "729521",
+"name" : "Swarnajyothi Agrotech \u0026 Power Ltd",
+"t" : "590090",
+"e" : "BOM",
+"l" : "2.85",
+"c" : "",
+"mc" : "72.49M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "625516276399448",
+"name" : "Gokul Agro Resources Ltd",
+"t" : "GOKULAGRO",
+"e" : "NSE",
+"l" : "25.30",
+"c" : "+0.80",
+"mc" : "3.22B",
+"cp" : "3.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16185507",
+"name" : "Gokul Refoils \u0026 Solvent Limited.",
+"t" : "GOKUL",
+"e" : "NSE",
+"l" : "17.50",
+"c" : "+0.20",
+"mc" : "2.33B",
+"cp" : "1.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11859520",
+"name" : "Modi Naturals Limited",
+"t" : "519003",
+"e" : "BOM",
+"l" : "125.00",
+"c" : "-1.00",
+"mc" : "1.39B",
+"cp" : "-0.79",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16152361",
+"name" : "Amardeep Industries Ltd",
+"t" : "531681",
+"e" : "BOM",
+"l" : "0.94",
+"c" : "0.00",
+"mc" : "62.10M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5797976",
+"name" : "Sarthak Global Ltd",
+"t" : "530993",
+"e" : "BOM",
+"l" : "9.05",
+"c" : "0.00",
+"mc" : "27.15M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9763622",
+"name" : "Azure Exim Services Ltd",
+"t" : "531783",
+"e" : "BOM",
+"l" : "5.67",
+"c" : "0.00",
+"mc" : "50.93M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "701, Tower \u0027A\u0027 Peninsula Business Park Senapati Bapat Marg Lower Parel (W), MUMBAI, 400013, India",
+"phone": "+91-22-40271300",
+"fax": "+91-22-40271399",
+"url": "http:\u002F\u002Fwww.jayantagro.com",
+"overview" : "Jayant Agro-Organics Limited is an oleochemical company, which focuses on the castor-based specialty chemicals industry. The Company is engaged in organic chemicals business. The Company has three segments: Castor Oil, Derivatives and Power Generation. The Company\u0027s products include 12-Hydroxy Stearic Acid, 2-Octanol, 2-Octanone, Blown Castor Oil, Castor Meal, Castor Oil, Dehydrated Castor Oil, Ethoxylated Castor Oil, Glycerine, HIOL Fatty Acid, Hydrogenated Castor Oil, Jagrolube, Jagropol, Ricinoleic Acid and Sebacic Acid. The Company\u0027s research and development (R\u0026D) is focused on castor oil and its derivatives using conventional chemical reactions. The Company owns wind turbines of approximately 2.4 megawatt (MW) and 0.8 MW. It focuses on research assignments in the field of oleochemicals and their applications. The Company\u0027s subsidiaries include Ihsedu Agrochem Pvt. Limited, Ihsedu Coreagri Service Pvt. Limited and Ihsedu Itoh Green Chemicals Marketing Pvt. Limited."
+} ]
+, "management" : [
+{
+"name" : "Abhay V. Udeshi",
+"age" : "57",
+"title" : "Chairman and Additional Whole-time Director"
+}
+,
+{
+"name" : "Hemant V. Udeshi",
+"age" : "55",
+"title" : "Chief Executive Officer, Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Vikram V. Udeshi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Dinesh M. Kapadia",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Subhash V. Udeshi",
+"age" : "51",
+"title" : "Non-Independent Executive Director"
+}
+,
+{
+"name" : "Varun Abhay Udeshi",
+"title" : "Additional Whole - Time Director"
+}
+,
+{
+"name" : "Jayasinh V. Mariwala",
+"age" : "84",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Sucheta N. Shah",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Vijay Kumar Bhandari",
+"age" : "71",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Deepak V. Bhimani",
+"age" : "77",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,273 @@
+
+// [
+{
+"symbol" : "507435",
+"exchange" : "BOM",
+"id": "11103399",
+"t" : "507435",
+"e" : "BOM",
+"name" : "Khoday India Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KHDI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:507435"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:507435"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:507435"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-33.52%",
+"annual" : "-5.84%",
+"ttm" : "1.59%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-25.08%",
+"annual" : "-3.46%",
+"ttm" : "10.31%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.10%",
+"ttm" : "14.11%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.82%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-37.03%",
+"ttm" : ""
+}
+]
+, "c" : "+1.55",
+"l" : "75.00",
+"cp" : "2.11",
+"ccol" : "chg",
+"op" : "72.00",
+"hi" : "75.25",
+"lo" : "71.40",
+"vo" : "655.00",
+"avvo" : "",
+"hi52" : "88.90",
+"lo52" : "54.10",
+"mc" : "2.54B",
+"pe" : "79.34",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.95",
+"dy" : "",
+"ldiv" : "",
+"shares" : "33.66M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11103399",
+"name" : "Khoday India Limited",
+"t" : "507435",
+"e" : "BOM",
+"l" : "75.00",
+"c" : "+1.55",
+"mc" : "2.54B",
+"cp" : "2.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14729464",
+"name" : "Jagatjit Industries Ltd",
+"t" : "507155",
+"e" : "BOM",
+"l" : "85.50",
+"c" : "+3.65",
+"mc" : "3.95B",
+"cp" : "4.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8491370",
+"name" : "Empee Distilleries Limited",
+"t" : "EDL",
+"e" : "NSE",
+"l" : "43.00",
+"c" : "-0.80",
+"mc" : "863.61M",
+"cp" : "-1.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10136303",
+"name" : "Winsome Breweries Ltd",
+"t" : "526471",
+"e" : "BOM",
+"l" : "10.55",
+"c" : "+0.01",
+"mc" : "278.43M",
+"cp" : "0.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2966518",
+"name" : "Mount Shivalik Industries Ltd",
+"t" : "507522",
+"e" : "BOM",
+"l" : "5.25",
+"c" : "0.00",
+"mc" : "31.75M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4768675",
+"name" : "United Breweries Limited",
+"t" : "UBL",
+"e" : "NSE",
+"l" : "1,077.20",
+"c" : "-3.10",
+"mc" : "286.17B",
+"cp" : "-0.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7165807",
+"name" : "Associated Alcohol and Breweries Ltd",
+"t" : "507526",
+"e" : "BOM",
+"l" : "276.50",
+"c" : "+1.20",
+"mc" : "4.97B",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7586898",
+"name" : "Tilaknagar Industries Ltd",
+"t" : "TI",
+"e" : "NSE",
+"l" : "18.10",
+"c" : "+0.30",
+"mc" : "2.26B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1432984",
+"name" : "Ravikumar Distilleries Limited",
+"t" : "RKDL",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "+0.35",
+"mc" : "380.40M",
+"cp" : "2.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8315956",
+"name" : "G M Breweries Ltd",
+"t" : "GMBREW",
+"e" : "NSE",
+"l" : "923.60",
+"c" : "+4.85",
+"mc" : "13.54B",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7728787",
+"name" : "Millennium Beer Industries Ltd(NDA)",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Brewery House, 7th Mile, Kanakapura Road, BANGALORE, 560062, India",
+"phone": "+91-80-22956569",
+"fax": "+91-80-22956570",
+"overview" : "Khoday India Limited is an India-based multi-service business company. The Company is engaged in various activities, including distilling, brewing, malt sting, bottle manufacturing, transportation, engineering, construction, hotelier, tours and travels, exports, agricultural products, chemicals, paper manufacture, diamonds and jewelry crafting, computer software, tissue culture, financial services and pharmaceuticals. The Company\u0027s segments include Liquor, Glass, Contract, Systems, Realty and Others. The Company\u0027s alcohol products include Brandy, Whisky, Malt Whisky, White Rum and XXX Rum. The Company\u0027s factory is located at Anjanapura in Bangalore, Karnataka. The Company\u0027s subsidiary is Khoday Properties Private Limited."
+} ]
+, "management" : [
+{
+"name" : "R. Venkat Subramanyan",
+"title" : "Chief Financial Officer, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Khoday L. A. Padmanabhasa",
+"age" : "73",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Khoday L. Ramachandra",
+"age" : "85",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Khoday Lalitha Swamy",
+"age" : "67",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Khoday Swamy Giridhar",
+"age" : "40",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Khoday H. Gurunath",
+"age" : "51",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Khoday Ramachandra Nithyanand",
+"age" : "55",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

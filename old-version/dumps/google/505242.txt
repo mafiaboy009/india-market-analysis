@@ -1,0 +1,296 @@
+
+// [
+{
+"symbol" : "505242",
+"exchange" : "BOM",
+"id": "703982",
+"t" : "505242",
+"e" : "BOM",
+"name" : "Dynamatic Technologies Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:505242"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:505242"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:505242"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.03%",
+"annual" : "0.97%",
+"ttm" : "-1.11%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.46%",
+"annual" : "6.21%",
+"ttm" : "4.35%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.02%",
+"ttm" : "9.24%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.20%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.79%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,247",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-25.35",
+"l" : "1,907.85",
+"cp" : "-1.31",
+"ccol" : "chr",
+"op" : "2,110.00",
+"hi" : "2,153.85",
+"lo" : "1,883.00",
+"vo" : "11,211.00",
+"avvo" : "",
+"hi52" : "2,990.00",
+"lo52" : "1,600.00",
+"mc" : "12.19B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-24.45",
+"dy" : "",
+"ldiv" : "",
+"shares" : "6.34M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703982",
+"name" : "Dynamatic Technologies Limited",
+"t" : "505242",
+"e" : "BOM",
+"l" : "1,907.85",
+"c" : "-25.35",
+"mc" : "12.19B",
+"cp" : "-1.31",
+"ccol" : "chr"
+}
+,
+{
+"id" : "431519",
+"name" : "Veljan Denison Limited",
+"t" : "505232",
+"e" : "BOM",
+"l" : "1,057.00",
+"c" : "+33.00",
+"mc" : "2.38B",
+"cp" : "3.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5112781",
+"name" : "Yuken India Ltd",
+"t" : "522108",
+"e" : "BOM",
+"l" : "4,420.00",
+"c" : "-27.25",
+"mc" : "13.21B",
+"cp" : "-0.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10896833",
+"name" : "Bharat Bijlee Ltd.",
+"t" : "BBL",
+"e" : "NSE",
+"l" : "1,525.00",
+"c" : "+82.75",
+"mc" : "8.61B",
+"cp" : "5.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16529291",
+"name" : "Bosch Ltd",
+"t" : "BOSCHLTD",
+"e" : "NSE",
+"l" : "19,070.05",
+"c" : "+149.45",
+"mc" : "581.93B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "842984",
+"name" : "Menon Pistons Limited",
+"t" : "531727",
+"e" : "BOM",
+"l" : "29.70",
+"c" : "+1.20",
+"mc" : "1.48B",
+"cp" : "4.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10119664",
+"name" : "Lumax Auto Technologies Limited",
+"t" : "LUMAXTECH",
+"e" : "NSE",
+"l" : "868.00",
+"c" : "+39.65",
+"mc" : "11.71B",
+"cp" : "4.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1863710",
+"name" : "Sundram Fasteners Limited",
+"t" : "SUNDRMFAST",
+"e" : "NSE",
+"l" : "559.00",
+"c" : "-14.65",
+"mc" : "116.98B",
+"cp" : "-2.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6425462",
+"name" : "LML Limited",
+"t" : "LML",
+"e" : "NSE",
+"l" : "8.70",
+"c" : "-0.15",
+"mc" : "709.26M",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715564",
+"name" : "IST Ltd.",
+"t" : "508807",
+"e" : "BOM",
+"l" : "1,085.00",
+"c" : "+23.00",
+"mc" : "6.33B",
+"cp" : "2.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12351206",
+"name" : "Competent Automobiles Co Ltd",
+"t" : "531041",
+"e" : "BOM",
+"l" : "274.00",
+"c" : "+3.50",
+"mc" : "1.68B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Dynamatic Park, Peenya Industrial Area, BANGALORE, 560058, India",
+"phone": "+91-80-28394933",
+"fax": "+91-80-28395823",
+"url": "http:\u002F\u002Fwww.dynamatics.com\u002F",
+"overview" : "Dynamatic Technologies Limited is an India-based manufacturer of engineered products for the aerospace, automotive and hydraulic industries. The Company operates through three business segments: Automotive \u0026 Metallurgy, Hydraulics, and Aerospace \u0026 Defence. The Automotive \u0026 Metallurgy segment supplies engine, transmission, turbocharger and chassis parts. It also manufactures high precision, complex metallurgical ferrous castings for automobile engines and turbochargers. The Hydraulics segment manufactures hydraulic gear pumps with aluminum or cast iron body, motors, hand pumps, hitch control valves, rock shaft assemblies, lube and water pumps and related products, and complete hydraulic solutions for the Indian and overseas markets. The Aerospace \u0026 Defence segment\u0027s products include wing and rear fuselages, ailerons and wing flaps, flap track beams and airframe structures. It also provides solutions for unmanned aerial systems and vehicles, and monitoring and surveillance systems."
+} ]
+, "management" : [
+{
+"name" : "Udayant Malhoutra",
+"age" : "46",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Hanuman Kumar Sharma",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Naveen Chandra P.",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Arvind Mishra",
+"title" : "Global COO-Hydraulics, Head - Homeland Security, Executive Director"
+}
+,
+{
+"name" : "P. S. Ramesh",
+"title" : "Chief Operating Officer - Hydraulics, India, Additional Executive Director"
+}
+,
+{
+"name" : "Rajender Singh",
+"title" : "Head - Group Human Resources"
+}
+,
+{
+"name" : "Govind Mirchandani",
+"age" : "65",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Dietmar Hahn",
+"age" : "55",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Shirish Saraf",
+"age" : "49",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "James Tucker",
+"title" : "Additional Director"
+}
+]
+,"moreresources" : [
+]
+}]

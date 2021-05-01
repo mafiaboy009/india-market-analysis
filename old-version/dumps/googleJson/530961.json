@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "530961",
+"exchange" : "BOM",
+"id": "11730366",
+"t" : "530961",
+"e" : "BOM",
+"name" : "Vikas Ecotech Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530961"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530961"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530961"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.79%",
+"annual" : "6.24%",
+"ttm" : "6.79%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "17.57%",
+"annual" : "14.18%",
+"ttm" : "13.04%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "18.20%",
+"ttm" : "17.65%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.69%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "23.45%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "137",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.55",
+"l" : "38.10",
+"cp" : "1.46",
+"ccol" : "chg",
+"op" : "38.35",
+"hi" : "39.15",
+"lo" : "37.95",
+"vo" : "293,985.00",
+"avvo" : "",
+"hi52" : "48.50",
+"lo52" : "17.50",
+"mc" : "10.65B",
+"pe" : "35.75",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.07",
+"dy" : "0.13",
+"ldiv" : "0.05",
+"shares" : "279.90M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11730366",
+"name" : "Vikas Ecotech Ltd",
+"t" : "530961",
+"e" : "BOM",
+"l" : "38.10",
+"c" : "+0.55",
+"mc" : "10.65B",
+"cp" : "1.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8732116",
+"name" : "Sunshield Chemicals Ltd",
+"t" : "530845",
+"e" : "BOM",
+"l" : "319.70",
+"c" : "+5.95",
+"mc" : "2.32B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10233196",
+"name" : "Paushak Ltd",
+"t" : "532742",
+"e" : "BOM",
+"l" : "1,450.00",
+"c" : "+16.05",
+"mc" : "4.66B",
+"cp" : "1.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "844499726682544",
+"name" : "Gulshan Polyols Ltd",
+"t" : "GULPOLY",
+"e" : "NSE",
+"l" : "80.00",
+"c" : "+0.05",
+"mc" : "3.73B",
+"cp" : "0.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11109412",
+"name" : "Camphor and Allied Products Ltd",
+"t" : "500078",
+"e" : "BOM",
+"l" : "1,030.00",
+"c" : "+1.30",
+"mc" : "5.28B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12883621",
+"name" : "Polson Ltd",
+"t" : "507645",
+"e" : "BOM",
+"l" : "17,489.00",
+"c" : "+334.40",
+"mc" : "2.12B",
+"cp" : "1.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8499677",
+"name" : "Diamines And Chemicals Ltd",
+"t" : "500120",
+"e" : "BOM",
+"l" : "108.00",
+"c" : "+2.40",
+"mc" : "1.06B",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12061497",
+"name" : "Amines and Plasticizers Ltd",
+"t" : "506248",
+"e" : "BOM",
+"l" : "77.95",
+"c" : "+0.10",
+"mc" : "4.29B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13611184",
+"name" : "Maharashtra Polybutenes Ltd",
+"t" : "524232",
+"e" : "BOM",
+"l" : "0.38",
+"c" : "0.00",
+"mc" : "59.24M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6774210",
+"name" : "Ganesh Benzoplast Ltd",
+"t" : "500153",
+"e" : "BOM",
+"l" : "90.50",
+"c" : "+0.10",
+"mc" : "4.67B",
+"cp" : "0.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12339328",
+"name" : "Deepak Nitrite Ltd.",
+"t" : "DEEPAKNTR",
+"e" : "NSE",
+"l" : "260.30",
+"c" : "+3.05",
+"mc" : "34.02B",
+"cp" : "1.19",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "34\u002F1, Vikas House, East Punjabi Bagh, NEW DELHI, 110026, India",
+"phone": "+91-11-43144444",
+"fax": "+91-11-43144488",
+"url": "http:\u002F\u002Fvikasecotech.com\u002F",
+"overview" : "Vikas EcoTech Limited, formerly Vikas GlobalOne Limited, is an India-based company engaged in the business of manufacturing and distribution of specialty polymers compounds and additives. The Company\u0027s principal products include Thermoplastic Rubber Compounds. The Company\u0027s segments include Chemical Division, Real Estate Division, Agro Division and Service Division. Its geographical segments include Domestic (Sales to customers located in India) and International (Sales to customers located outside India). The Company is engaged in the business of manufacturing and distribution of high end products used in Agricultural Pipes, Auto Parts, Wires and Cables, Artificial Leather, Footwear, Organic Chemicals, Polymers, Pharmaceuticals and Packaging industries. The Company also distributes global conglomerates with function in specialty chemicals and polymers. Its manufacturing plants are spread in various geographical locations across India, in the state of Jammu and Kashmir and Rajasthan."
+} ]
+, "management" : [
+{
+"name" : "Ashutosh Kumar Verma",
+"title" : "Chief Executive Officer, Whole-time Director"
+}
+,
+{
+"name" : "Pankaj Kumar Gupta",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Vikas Kumar Garg",
+"age" : "41",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Vivek Garg",
+"age" : "42",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Pradip Kumar Banerji",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Jagdish Capoor",
+"age" : "77",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Vibha Mahajan",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Manoj Singhal",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Sumer Chand Tayal",
+"age" : "72",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

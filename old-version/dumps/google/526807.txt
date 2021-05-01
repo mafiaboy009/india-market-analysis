@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "526807",
+"exchange" : "BOM",
+"id": "710679",
+"t" : "526807",
+"e" : "BOM",
+"name" : "Seamec Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:526807"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:526807"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:526807"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002714)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-0.51%",
+"annual" : "-71.72%",
+"ttm" : "-0.51%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-2.62%",
+"annual" : "-78.26%",
+"ttm" : "-2.62%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-55.14%",
+"ttm" : "9.60%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "-0.39%",
+"annual" : "-25.85%",
+"ttm" : "-0.38%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "-0.47%",
+"annual" : "-35.72%",
+"ttm" : "-0.44%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "479",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+9.70",
+"l" : "204.10",
+"cp" : "4.99",
+"ccol" : "chg",
+"op" : "194.50",
+"hi" : "204.10",
+"lo" : "194.50",
+"vo" : "7,167.00",
+"avvo" : "",
+"hi52" : "204.10",
+"lo52" : "80.65",
+"mc" : "5.25B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.61",
+"dy" : "",
+"ldiv" : "",
+"shares" : "25.42M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "710679",
+"name" : "Seamec Ltd.",
+"t" : "526807",
+"e" : "BOM",
+"l" : "204.10",
+"c" : "+9.70",
+"mc" : "5.25B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15095553",
+"name" : "ABG Shipyard Ltd",
+"t" : "ABGSHIP",
+"e" : "NSE",
+"l" : "11.25",
+"c" : "+0.45",
+"mc" : "1.13B",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722527",
+"name" : "Western India Shipyard Limited",
+"t" : "531217",
+"e" : "BOM",
+"l" : "0.88",
+"c" : "0.00",
+"mc" : "259.29M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "182992589026148",
+"name" : "Cochin Shipyard Ltd",
+"t" : "COCHINSHIP",
+"e" : "NSE",
+"l" : "533.80",
+"c" : "+5.75",
+"mc" : "72.85B",
+"cp" : "1.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "803016961281367",
+"name" : "JITF Infralogistics Ltd",
+"t" : "JITFINFRA",
+"e" : "NSE",
+"l" : "41.50",
+"c" : "+1.40",
+"mc" : "1.07B",
+"cp" : "3.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8739395",
+"name" : "Bharati Defence and Infrastructure Ltd",
+"t" : "BHARATIDIL",
+"e" : "NSE",
+"l" : "6.40",
+"c" : "+0.10",
+"mc" : "321.91M",
+"cp" : "1.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15682154",
+"name" : "Reliance Naval and Engineering Ltd",
+"t" : "RNAVAL",
+"e" : "NSE",
+"l" : "43.25",
+"c" : "+2.20",
+"mc" : "31.86B",
+"cp" : "5.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "671127481071181",
+"name" : "VMS Industries Ltd",
+"t" : "533427",
+"e" : "BOM",
+"l" : "16.20",
+"c" : "0.00",
+"mc" : "266.87M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5813221",
+"name" : "Dolphin Offshore Enterprises India Ltd.",
+"t" : "DOLPHINOFF",
+"e" : "NSE",
+"l" : "94.00",
+"c" : "+1.85",
+"mc" : "1.58B",
+"cp" : "2.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7559492",
+"name" : "Garware Marine Industries Ltd",
+"t" : "509563",
+"e" : "BOM",
+"l" : "4.34",
+"c" : "+0.20",
+"mc" : "25.03M",
+"cp" : "4.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "164000286359007",
+"name" : "Siddhi Vinayak Shipping Corporation Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "401 404 4Th Floor, The Eagle Flight Suren Road Off Andheri Ku Rla Road Andheri East, KOLKATA, 700069, India",
+"phone": "+91-33-2481595",
+"fax": "+91-33-2482126",
+"url": "http:\u002F\u002Fseamec.in\u002F",
+"overview" : "SEAMEC Limited provides diving support vessel (DSV)-based diving services. The Company is engaged in offshore and shipping business. It provides offshore oilfields support services through its multi support diving vessels. Its support services include marine, construction and diving services to offshore oilfields in India and abroad. Its geographical segments include Domestic and Overseas. It specializes in vessel management, marine management, dive support, fire fighting, subsea construction, remotely operated underwater vehicle support, pipelaying, rescue operations, logistics, mooring and de-mooring, and cranage. It owns and operates over four multi-support vessels for the provision of diving services, manned and unmanned subsea operations, and related activities. Its fleets include SEAMEC I, which is a multi support vessel\u003B SEAMEC-II and SEAMEC-III, which are multifunctional DSVs\u003B SEAMEC PRINCESS, and MV REVELATION, which is a utility\u002Fsupply vessel operating under BELIZE Flag."
+} ]
+, "management" : [
+{
+"name" : "Sanjeev Agrawal",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Swapan S. Biswas",
+"age" : "54",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "S. N. Mohanty",
+"age" : "54",
+"title" : "Compliance Officer, Chief Legal Officer, Company Secretary"
+}
+,
+{
+"name" : "R. R. Roy",
+"title" : "General Manager - Operations"
+}
+,
+{
+"name" : "Naveen Mohta",
+"age" : "43",
+"title" : "Additional Whole Time Director"
+}
+,
+{
+"name" : "Christopher J. Rodricks",
+"age" : "60",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Subrat Das",
+"age" : "54",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Surinder Singh Kohli",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Mahesh Prasad Mehrotra",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Seema Modi",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

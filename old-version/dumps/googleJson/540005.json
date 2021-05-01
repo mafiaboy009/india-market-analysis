@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "540005",
+"exchange" : "BOM",
+"id": "335754300346051",
+"t" : "540005",
+"e" : "BOM",
+"name" : "Larsen \u0026 Toubro Infotech Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:540005"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:540005"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:540005"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "15.01%",
+"annual" : "14.93%",
+"ttm" : "15.43%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.93%",
+"annual" : "16.19%",
+"ttm" : "15.07%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "18.92%",
+"ttm" : "17.39%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "22.85%",
+"annual" : "25.56%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "31.74%",
+"annual" : "36.85%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "23,394",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-19.50",
+"l" : "1,432.10",
+"cp" : "-1.34",
+"ccol" : "chr",
+"op" : "1,450.00",
+"hi" : "1,476.55",
+"lo" : "1,429.05",
+"vo" : "15,426.00",
+"avvo" : "",
+"hi52" : "1,543.00",
+"lo52" : "682.00",
+"mc" : "245.16B",
+"pe" : "23.22",
+"fwpe" : "",
+"beta" : "",
+"eps" : "61.67",
+"dy" : "1.24",
+"ldiv" : "8.00",
+"shares" : "171.93M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "335754300346051",
+"name" : "Larsen \u0026 Toubro Infotech Ltd",
+"t" : "540005",
+"e" : "BOM",
+"l" : "1,432.10",
+"c" : "-19.50",
+"mc" : "245.16B",
+"cp" : "-1.34",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7832604",
+"name" : "Blue Star Infotech Ltd.",
+"t" : "BLUESTINFO",
+"e" : "NSE",
+"l" : "290.00",
+"c" : "",
+"mc" : "3.13B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10428873",
+"name" : "3i Infotech Ltd",
+"t" : "3IINFOTECH",
+"e" : "NSE",
+"l" : "5.90",
+"c" : "+0.10",
+"mc" : "9.52B",
+"cp" : "1.72",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14304145",
+"name" : "KPIT Technologies Ltd",
+"t" : "KPIT",
+"e" : "NSE",
+"l" : "208.70",
+"c" : "+1.95",
+"mc" : "41.18B",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9118422",
+"name" : "Powersoft Global Solutions Ltd",
+"t" : "532736",
+"e" : "BOM",
+"l" : "1.25",
+"c" : "",
+"mc" : "60.95M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "673681917155584",
+"name" : "Atishay Ltd",
+"t" : "538713",
+"e" : "BOM",
+"l" : "85.00",
+"c" : "-1.85",
+"mc" : "937.19M",
+"cp" : "-2.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14727269",
+"name" : "Prithvi Information Solutions Ltd.",
+"t" : "PRITHVI",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10405902",
+"name" : "Vama Industries Ltd",
+"t" : "512175",
+"e" : "BOM",
+"l" : "25.20",
+"c" : "0.00",
+"mc" : "1.31B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9855653",
+"name" : "Sankhya Infotech Ltd",
+"t" : "532972",
+"e" : "BOM",
+"l" : "128.50",
+"c" : "0.00",
+"mc" : "1.45B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13168084",
+"name" : "Omnitech Infosolutions Limited",
+"t" : "OMNITECH",
+"e" : "NSE",
+"l" : "2.70",
+"c" : "",
+"mc" : "36.59M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14311603",
+"name" : "Telesys Info-Infra I Ltd",
+"t" : "532315",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-3.33",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "L\u0026T Technology Center Gate No.5, Saki Vihar Road,, Powai, MUMBAI, 400072, India",
+"phone": "+91-22-67766776",
+"fax": "+91-22-28581130",
+"url": "https:\u002F\u002Fwww.lntinfotech.com\u002F",
+"overview" : "Larsen \u0026 Toubro Infotech Limited is an India-based company, which is engaged in computer programming, consultancy and related activities. The Company\u0027s business segments include Industrials Cluster and Services Cluster. The Industrials Cluster segment consists of the business verticals of energy and process, consumer packaged goods, retail and pharmaceuticals, hi-tech and consumer electronics, automotive and aerospace, plant equipment, and utilities, engineering and construction. The Services Cluster segment consists of the business verticals of banking and financial services, insurance, media and entertainment, travel and logistics, and other miscellaneous business verticals. The Company offers a range of services, such as Analytics \u0026 Information Management (AIM), Consulting, Internet of Things, Applications Management, Enterprise Integration, Industrial Internet of Things, System Integration, Assurance Services, Geographical Information System (GIS) and Infrastructure Management."
+} ]
+, "management" : [
+{
+"name" : "Sanjay Jalona",
+"age" : "47",
+"title" : "Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "A. K. Sonthalia",
+"age" : "48",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Aftab Zaid Ullah",
+"age" : "45",
+"title" : "Chief Operating Officer, Whole Time Director"
+}
+,
+{
+"name" : "Manoj Koul",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sudhir Chaturvedi",
+"title" : "Whole Time Director, President - Sales"
+}
+,
+{
+"name" : "Jayant Damodar Patil",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "A. M. Naik",
+"age" : "74",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Arvind Gupta",
+"title" : "Director"
+}
+,
+{
+"name" : "R. Shankar Raman",
+"age" : "58",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "S. N. Subrahmanyan",
+"age" : "57",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,291 @@
+
+// [
+{
+"symbol" : "524570",
+"exchange" : "BOM",
+"id": "55205",
+"t" : "524570",
+"e" : "BOM",
+"name" : "Poddar Pigments Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=PODR.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524570"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524570"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524570"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.70%",
+"annual" : "5.68%",
+"ttm" : "5.86%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.00%",
+"annual" : "6.69%",
+"ttm" : "6.83%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.51%",
+"ttm" : "7.78%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "12.47%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "15.24%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "400",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.60",
+"l" : "283.60",
+"cp" : "0.57",
+"ccol" : "chg",
+"op" : "288.15",
+"hi" : "291.00",
+"lo" : "283.60",
+"vo" : "1,926.00",
+"avvo" : "",
+"hi52" : "358.85",
+"lo52" : "243.00",
+"mc" : "3.02B",
+"pe" : "15.30",
+"fwpe" : "",
+"beta" : "",
+"eps" : "18.53",
+"dy" : "1.23",
+"ldiv" : "1.00",
+"shares" : "10.61M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "55205",
+"name" : "Poddar Pigments Ltd",
+"t" : "524570",
+"e" : "BOM",
+"l" : "283.60",
+"c" : "+1.60",
+"mc" : "3.02B",
+"cp" : "0.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11369691",
+"name" : "Indokem Ltd",
+"t" : "504092",
+"e" : "BOM",
+"l" : "26.05",
+"c" : "-1.15",
+"mc" : "142.17M",
+"cp" : "-4.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5182651",
+"name" : "Dynamic Industries Ltd",
+"t" : "524818",
+"e" : "BOM",
+"l" : "89.10",
+"c" : "-0.75",
+"mc" : "263.68M",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15731547",
+"name" : "Camex Ltd",
+"t" : "524440",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "-0.35",
+"mc" : "408.35M",
+"cp" : "-0.87",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1990895",
+"name" : "Bhageria Industries Ltd",
+"t" : "530803",
+"e" : "BOM",
+"l" : "304.00",
+"c" : "+9.25",
+"mc" : "4.86B",
+"cp" : "3.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12487422",
+"name" : "Aksharchem (India) Ltd",
+"t" : "524598",
+"e" : "BOM",
+"l" : "635.00",
+"c" : "+4.75",
+"mc" : "5.21B",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "701929",
+"name" : "Dynemic Products Ltd.",
+"t" : "532707",
+"e" : "BOM",
+"l" : "200.00",
+"c" : "-2.00",
+"mc" : "1.42B",
+"cp" : "-0.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6107229",
+"name" : "Vipul Organics Ltd",
+"t" : "530627",
+"e" : "BOM",
+"l" : "176.50",
+"c" : "+1.70",
+"mc" : "1.36B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715857",
+"name" : "Shreyas Intermediates Limited",
+"t" : "526335",
+"e" : "BOM",
+"l" : "8.63",
+"c" : "-0.45",
+"mc" : "138.98M",
+"cp" : "-4.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9418577",
+"name" : "Bagadia Colourchem Ltd",
+"t" : "530197",
+"e" : "BOM",
+"l" : "13.99",
+"c" : "0.00",
+"mc" : "51.62M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9945500",
+"name" : "Vidhi Dyestuffs Manufacturing Ltd",
+"t" : "531717",
+"e" : "BOM",
+"l" : "89.50",
+"c" : "+0.25",
+"mc" : "4.45B",
+"cp" : "0.28",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "H-6, Sector - 63, MUMBAI, 400053, India",
+"phone": "+91-22-26740582",
+"fax": "+91-22-26732905",
+"url": "http:\u002F\u002Fwww.poddarpigments.com\u002F",
+"overview" : "Poddar Pigments Limited manufactures color and additive master batches for dope dyeing for man-made fibers, various plastic applications, and engineering plastics and compounds. The Company\u0027s principal product\u002Fservice is Specialty Masterbatches. Its geographical segments are Within India and Outside India. Its products include man-made fiber, plastics and packaging, and engineering compounds. The Company, through man-made fiber category, offers polyester, polypropylene and polyamide. The Company, in the plastics and packaging category, offers additive masterbatches, film and packaging, injection\u002Fblow\u002Froto moldings, pipe extrusion, cables, pet preforms and bottles, polyester films and plastics smart product. In the engineering compound category, it offers carboplus series, butoplus series, nyloplus series and polyplus series. Its product are used in various applications, which include textile, home furnishing, automotive, upholstery, luggage and lamination fabrics."
+} ]
+, "management" : [
+{
+"name" : "R. K. Sureka",
+"age" : "55",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "Navin Jain",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Dharmendra Kumar",
+"title" : "Compliance Officer, Manager - Legal \u0026 Secretarial"
+}
+,
+{
+"name" : "Shiv Shankar Poddar",
+"age" : "64",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Gaurav Goenka",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Mahima P. Agarwal",
+"age" : "38",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "M. Mahadevan",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "N. Gopalaswamy",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kishore Rungta",
+"age" : "61",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

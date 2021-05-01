@@ -1,0 +1,267 @@
+
+ [
+{
+"symbol" : "531591",
+"exchange" : "BOM",
+"id": "760488",
+"t" : "531591",
+"e" : "BOM",
+"name" : "BAMPSL Securities Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=BAMS.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531591"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531591"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531591"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "25.92%",
+"annual" : "7.20%",
+"ttm" : "18.77%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "38.68%",
+"annual" : "10.86%",
+"ttm" : "28.08%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.88%",
+"ttm" : "30.18%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.27%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.28%",
+"ttm" : ""
+}
+]
+, "c" : "-0.01",
+"l" : "2.09",
+"cp" : "-0.48",
+"ccol" : "chr",
+"op" : "2.00",
+"hi" : "2.09",
+"lo" : "2.00",
+"vo" : "1,550.00",
+"avvo" : "",
+"hi52" : "2.77",
+"lo52" : "0.17",
+"mc" : "154.64M",
+"pe" : "19.90",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.11",
+"dy" : "",
+"ldiv" : "",
+"shares" : "73.99M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "760488",
+"name" : "BAMPSL Securities Ltd",
+"t" : "531591",
+"e" : "BOM",
+"l" : "2.09",
+"c" : "-0.01",
+"mc" : "154.64M",
+"cp" : "-0.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6596491",
+"name" : "KBS India Ltd",
+"t" : "530357",
+"e" : "BOM",
+"l" : "3.65",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16215470",
+"name" : "Aarya Global Shares and Securities Ltd",
+"t" : "531731",
+"e" : "BOM",
+"l" : "0.46",
+"c" : "0.00",
+"mc" : "9.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1260463",
+"name" : "Mahan Industries Ltd",
+"t" : "531515",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "17.64M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10098675",
+"name" : "Bridge Securities Ltd",
+"t" : "530249",
+"e" : "BOM",
+"l" : "9.75",
+"c" : "0.00",
+"mc" : "32.77M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13087234",
+"name" : "IFL Promoters Ltd",
+"t" : "511682",
+"e" : "BOM",
+"l" : "0.80",
+"c" : "0.00",
+"mc" : "58.07M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3423977",
+"name" : "Svaraj Trading and Agencies Ltd",
+"t" : "503624",
+"e" : "BOM",
+"l" : "197.15",
+"c" : "0.00",
+"mc" : "2.91B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "899050999659882",
+"name" : "Mishka Finance and Trading Ltd",
+"t" : "512191",
+"e" : "BOM",
+"l" : "6.59",
+"c" : "0.00",
+"mc" : "659.33M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10334988",
+"name" : "Trijal Industries Ltd",
+"t" : "531658",
+"e" : "BOM",
+"l" : "1.83",
+"c" : "0.00",
+"mc" : "9.18M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9711631",
+"name" : "Cubical Financial Services Ltd",
+"t" : "511710",
+"e" : "BOM",
+"l" : "1.19",
+"c" : "0.00",
+"mc" : "77.55M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14613139",
+"name" : "Swastika Investmart Ltd",
+"t" : "530585",
+"e" : "BOM",
+"l" : "172.00",
+"c" : "-2.60",
+"mc" : "513.78M",
+"cp" : "-1.49",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "100 A Cycle Market, Jhandewalan Extension, NEW DELHI, 110055, India",
+"phone": "+91-11-23556436",
+"fax": "+91-11-23617013",
+"url": "http:\u002F\u002Fwww.bampslsecurities.co.in\u002F",
+"overview" : "Bampsl Securities Limited is an India-based company, which is engaged in the business of dealing and investing in shares and other securities. The Company is also engaged in providing financial services, such as spot financing, short-term financial accommodation, long-term financial accommodation and in other similar financial sector."
+} ]
+, "management" : [
+{
+"name" : "Bhisham Kumar Gupta",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Vinod Kumar Sharma",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Vinubhai Prabhudas Patel",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Sanjay Sharma",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Sandeep Kumar Khandelwal",
+"age" : "42",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Jitendra Mahajan",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

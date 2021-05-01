@@ -1,0 +1,73 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {},
+          "enterpriseValue": {},
+          "forwardPE": {},
+          "profitMargins": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {},
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "beta3Year": {
+            "raw": 0.0,
+            "fmt": "0.00"
+          },
+          "totalAssets": {},
+          "yield": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "fundFamily": "SBI Funds Management Private Limited",
+          "fundInceptionDate": {
+            "raw": 1242604800,
+            "fmt": "2009-05-18"
+          },
+          "legalType": "Exchange Traded Fund",
+          "threeYearAverageReturn": {
+            "raw": -0.0171,
+            "fmt": "-1.71%"
+          },
+          "fiveYearAverageReturn": {
+            "raw": -0.038599998,
+            "fmt": "-3.86%"
+          },
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {},
+          "nextFiscalYearEnd": {},
+          "mostRecentQuarter": {},
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {},
+          "trailingEps": {},
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {},
+          "enterpriseToEbitda": {},
+          "52WeekChange": {},
+          "SandP52WeekChange": {},
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "longBusinessSummary": "The investment objective of the fund is to seek to provide returns that closely correspond to returns provided by price of gold through investment in physical Gold.\n The performance of the scheme may differ from that of the underlying asset due to tracking error.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        }
+      }
+    ],
+    "error": null
+  }
+}

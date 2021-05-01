@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "533200",
+"exchange" : "BOM",
+"id": "16518477",
+"t" : "533200",
+"e" : "BOM",
+"name" : "Talwalkars Better Value Fitness Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533200"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533200"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533200"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.11%",
+"annual" : "23.40%",
+"ttm" : "24.29%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "22.82%",
+"annual" : "42.85%",
+"ttm" : "42.26%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "59.83%",
+"ttm" : "59.12%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.00%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.28%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "17",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.20",
+"l" : "310.00",
+"cp" : "1.04",
+"ccol" : "chg",
+"op" : "308.85",
+"hi" : "315.90",
+"lo" : "303.85",
+"vo" : "24,609.00",
+"avvo" : "",
+"hi52" : "358.05",
+"lo52" : "209.00",
+"mc" : "9.57B",
+"pe" : "12.56",
+"fwpe" : "",
+"beta" : "",
+"eps" : "24.68",
+"dy" : "0.48",
+"ldiv" : "1.50",
+"shares" : "31.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "16518477",
+"name" : "Talwalkars Better Value Fitness Ltd",
+"t" : "533200",
+"e" : "BOM",
+"l" : "310.00",
+"c" : "+3.20",
+"mc" : "9.57B",
+"cp" : "1.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "921104153722266",
+"name" : "Powerhouse GYM \u0026 Wellness Ltd",
+"t" : "538731",
+"e" : "BOM",
+"l" : "7.50",
+"c" : "-0.18",
+"mc" : "",
+"cp" : "-2.34",
+"ccol" : "chr"
+}
+,
+{
+"id" : "515387340809167",
+"name" : "Sanghvi Brands Ltd",
+"t" : "540782",
+"e" : "BOM",
+"l" : "110.60",
+"c" : "+5.25",
+"mc" : "1.15B",
+"cp" : "4.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15030776",
+"name" : "Landmarc Leisure Corporation Ltd",
+"t" : "532275",
+"e" : "BOM",
+"l" : "0.70",
+"c" : "+0.01",
+"mc" : "544.23M",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6531183",
+"name" : "T. Spiritual World Ltd",
+"t" : "532444",
+"e" : "BOM",
+"l" : "0.72",
+"c" : "0.00",
+"mc" : "14.40M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715842",
+"name" : "Country Club Hospitality \u0026 Holidays Ltd",
+"t" : "526550",
+"e" : "BOM",
+"l" : "13.60",
+"c" : "-0.20",
+"mc" : "2.26B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15979287",
+"name" : "H.S.India Ltd",
+"t" : "532145",
+"e" : "BOM",
+"l" : "10.20",
+"c" : "-0.06",
+"mc" : "166.61M",
+"cp" : "-0.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12769402",
+"name" : "PVR Limited",
+"t" : "PVR",
+"e" : "NSE",
+"l" : "1,360.00",
+"c" : "-10.15",
+"mc" : "63.80B",
+"cp" : "-0.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715433",
+"name" : "Galaxy Entertainment Corp Ltd",
+"t" : "506186",
+"e" : "BOM",
+"l" : "22.50",
+"c" : "+0.50",
+"mc" : "567.66M",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "769779458292200",
+"name" : "Wonderla Holidays Ltd",
+"t" : "WONDERLA",
+"e" : "NSE",
+"l" : "376.75",
+"c" : "-0.40",
+"mc" : "21.27B",
+"cp" : "-0.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12313755",
+"name" : "Delta Corp Ltd",
+"t" : "DELTACORP",
+"e" : "NSE",
+"l" : "367.50",
+"c" : "+1.60",
+"mc" : "97.84B",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "801 - 813 Mahalaxmi Chambers 22 Bhulabhai Desai Road, Mahalaxmi, MUMBAI, 400026, India",
+"phone": "+91-22-66126300",
+"fax": "+91-22-66126363",
+"url": "http:\u002F\u002Ftalwalkars.net\u002F",
+"overview" : "Talwalkars Better Value Fitness Limited is a holding and fitness company. The Company is engaged in the health and fitness services, and gymming business. It offers services, such as Transform, Reduce, NuForm, nutrition, spa, massage, aerobics, yoga and dietary regimes, among others. It also offers Zumba program and Zorba, the yoga. Its fitness centers operate under four formats, including Talwalkars, which offers personal training, and steam and massage\u003B Power World Gyms Limited (PWG)\u003B Healthy India Fit India (HiFi), which offers functional format gyms, and Zorba, the yoga studios. Its Nuform offers electrical muscle stimulation (EMS)-based workout and Reduce offers diet-based weight reduction program. Transform is a combination of Reduce and Nuform program. It operates approximately 130 centers under the Talwalkars brand, over 20 under HiFi, approximately 20 under PWG and over three under Zorba. Its fitness centers are available at over 180 locations across India and Sri Lanka."
+} ]
+, "management" : [
+{
+"name" : "Girish Madhukar Talwalkar",
+"age" : "53",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Prashant Sudhakar Talwalkar",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Anant Ratnakar Gawande",
+"title" : "Chief Financial Officer, Whole-time Director"
+}
+,
+{
+"name" : "Avanti Sankav",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Harsha Ramdas Bhatkal",
+"age" : "52",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Vinayak Ratnakar Gawande",
+"age" : "56",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Madhukar Vishnu Talwalkar",
+"age" : "80",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Mrunalini Deshmukh",
+"title" : "Director"
+}
+,
+{
+"name" : "Dinesh Afzulpurkar",
+"age" : "76",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Manohar Gopal Bhide",
+"age" : "78",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

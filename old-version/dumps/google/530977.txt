@@ -1,0 +1,273 @@
+
+// [
+{
+"symbol" : "530977",
+"exchange" : "BOM",
+"id": "15601450",
+"t" : "530977",
+"e" : "BOM",
+"name" : "Shri Keshav Cements \u0026 Infra Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SKCE.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530977"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530977"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530977"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-39.36%",
+"annual" : "1.46%",
+"ttm" : "-14.70%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-21.05%",
+"annual" : "7.53%",
+"ttm" : "-7.46%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "21.24%",
+"ttm" : "10.76%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.88%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.17%",
+"ttm" : ""
+}
+]
+, "c" : "+3.00",
+"l" : "164.00",
+"cp" : "1.86",
+"ccol" : "chg",
+"op" : "162.00",
+"hi" : "165.00",
+"lo" : "162.00",
+"vo" : "1,120.00",
+"avvo" : "",
+"hi52" : "272.40",
+"lo52" : "142.00",
+"mc" : "840.37M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-15.57",
+"dy" : "0.61",
+"ldiv" : "1.00",
+"shares" : "5.12M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15601450",
+"name" : "Shri Keshav Cements \u0026 Infra Limited",
+"t" : "530977",
+"e" : "BOM",
+"l" : "164.00",
+"c" : "+3.00",
+"mc" : "840.37M",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "714540",
+"name" : "Panyam Cements \u0026 Mineral Industries Ltd.",
+"t" : "500322",
+"e" : "BOM",
+"l" : "47.70",
+"c" : "-0.85",
+"mc" : "803.45M",
+"cp" : "-1.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715550",
+"name" : "Shree Digvijay Cement Company Ltd.",
+"t" : "502180",
+"e" : "BOM",
+"l" : "25.60",
+"c" : "-0.35",
+"mc" : "3.61B",
+"cp" : "-1.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4519199",
+"name" : "Anjani Portland Cement Ltd",
+"t" : "518091",
+"e" : "BOM",
+"l" : "198.40",
+"c" : "+6.90",
+"mc" : "5.05B",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14274367",
+"name" : "Keerthi Industries Ltd",
+"t" : "518011",
+"e" : "BOM",
+"l" : "135.00",
+"c" : "+5.05",
+"mc" : "1.09B",
+"cp" : "3.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705329",
+"name" : "Bheema Cements Ltd",
+"t" : "518017",
+"e" : "BOM",
+"l" : "9.10",
+"c" : "0.00",
+"mc" : "250.73M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16255299",
+"name" : "UltraTech Cement Ltd",
+"t" : "ULTRACEMCO",
+"e" : "NSE",
+"l" : "4,142.00",
+"c" : "+25.60",
+"mc" : "1.14T",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3770372",
+"name" : "JK Lakshmi Cement Limited",
+"t" : "JKLAKSHMI",
+"e" : "NSE",
+"l" : "433.55",
+"c" : "+7.75",
+"mc" : "51.24B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2765899",
+"name" : "Grasim Industries Ltd",
+"t" : "GRASIM",
+"e" : "NSE",
+"l" : "1,180.60",
+"c" : "+43.90",
+"mc" : "773.46B",
+"cp" : "3.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6613325",
+"name" : "Ambuja Cements Ltd",
+"t" : "AMBUJACEM",
+"e" : "NSE",
+"l" : "263.20",
+"c" : "+3.00",
+"mc" : "521.02B",
+"cp" : "1.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715348",
+"name" : "Saurashtra Cement Ltd.",
+"t" : "502175",
+"e" : "BOM",
+"l" : "80.05",
+"c" : "-0.40",
+"mc" : "5.44B",
+"cp" : "-0.50",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "215\u002F2 Jyoti Towers 6th Cross, Nazar camp Karbhar Galli, Vadgaon, BELGAUM, 590005, India",
+"phone": "+91-831-2483510",
+"fax": "+91-831-2484421",
+"url": "http:\u002F\u002Fwww.keshavcement.com\u002F",
+"overview" : "Shri Keshav Cements and Infra Limited, formerly Katwa Udyog Limited, is engaged in the manufacture of ordinary Portland cement. The Company\u0027s segments include Manufacturing and Trading. The Company manufactures Keshav Cement. It manufactures 43-grade and 53-grade cement. The Company is also engaged in coke and cement trading, and petrol pump activities. The Company\u0027s manufacturing plants are located at Bagalkot, Karnataka. It manufactures and sells cement within the states of Karnataka, Goa and Maharashtra. It offers project consultancy for construction projects. The Company manufactures cement using Rotary Kiln technology. The Company\u0027s product, Keshav Cement, has applications in concrete slabs\u003B reinforced cement concrete (RCC) columns and structures\u003B high building foundation\u003B dams and flyover bridges\u003B residential, commercial and multi storied structures, and poles, pipes, tanks, blocks and tiles."
+} ]
+, "management" : [
+{
+"name" : "Santosh Shadadal",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vilas Katwa",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "H. D. Katwa",
+"title" : "Chairman Emeritus"
+}
+,
+{
+"name" : "Venkatesh H. Katwa",
+"age" : "43",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Deepak H. Katwa",
+"age" : "35",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Radhika Pinal Dewan",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Balasaheb Anantrao Mestri",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

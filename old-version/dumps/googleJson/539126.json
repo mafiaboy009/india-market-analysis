@@ -1,0 +1,301 @@
+
+ [
+{
+"symbol" : "539126",
+"exchange" : "BOM",
+"id": "640103214529209",
+"t" : "539126",
+"e" : "BOM",
+"name" : "MEP Infrastructure Developers Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539126"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539126"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539126"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.42%",
+"annual" : "6.30%",
+"ttm" : "2.69%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "17.57%",
+"annual" : "33.47%",
+"ttm" : "22.11%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "74.56%",
+"ttm" : "46.97%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.11%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,460",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.05",
+"l" : "90.45",
+"cp" : "0.06",
+"ccol" : "chg",
+"op" : "90.90",
+"hi" : "91.25",
+"lo" : "90.35",
+"vo" : "37,518.00",
+"avvo" : "",
+"hi52" : "148.00",
+"lo52" : "42.50",
+"mc" : "14.76B",
+"pe" : "26.04",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.47",
+"dy" : "0.28",
+"ldiv" : "0.15",
+"shares" : "162.57M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "640103214529209",
+"name" : "MEP Infrastructure Developers Ltd",
+"t" : "539126",
+"e" : "BOM",
+"l" : "90.45",
+"c" : "+0.05",
+"mc" : "14.76B",
+"cp" : "0.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2093890",
+"name" : "Noida Toll Bridge Company Limited",
+"t" : "NOIDATOLL",
+"e" : "NSE",
+"l" : "13.00",
+"c" : "+0.10",
+"mc" : "2.41B",
+"cp" : "0.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "653534637833266",
+"name" : "IL\u0026FS Transportation Networks Ltd",
+"t" : "IL\u0026FSTRANS",
+"e" : "NSE",
+"l" : "72.25",
+"c" : "+0.40",
+"mc" : "23.77B",
+"cp" : "0.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7864646",
+"name" : "Blue Dart Express Limited",
+"t" : "BLUEDART",
+"e" : "NSE",
+"l" : "4,264.00",
+"c" : "+70.90",
+"mc" : "100.50B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1037865602719872",
+"name" : "Mahindra Logistics Ltd",
+"t" : "MAHLOG",
+"e" : "NSE",
+"l" : "454.00",
+"c" : "+7.35",
+"mc" : "32.40B",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16000145",
+"name" : "N R International Ltd",
+"t" : "532623",
+"e" : "BOM",
+"l" : "5.76",
+"c" : "0.00",
+"mc" : "61.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12468235",
+"name" : "SICAL Logistics Ltd.",
+"t" : "SICAL",
+"e" : "NSE",
+"l" : "225.35",
+"c" : "+5.20",
+"mc" : "12.48B",
+"cp" : "2.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5263425",
+"name" : "Allcargo Logistics Ltd",
+"t" : "ALLCARGO",
+"e" : "NSE",
+"l" : "177.50",
+"c" : "-0.15",
+"mc" : "43.45B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5045847",
+"name" : "Gateway Distriparks Ltd.",
+"t" : "GDL",
+"e" : "NSE",
+"l" : "205.00",
+"c" : "+3.75",
+"mc" : "22.32B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15070546",
+"name" : "Gati Ltd",
+"t" : "GATI",
+"e" : "NSE",
+"l" : "114.00",
+"c" : "+0.85",
+"mc" : "12.29B",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9605998",
+"name" : "Essar Shipping Ltd",
+"t" : "ESSARSHPNG",
+"e" : "NSE",
+"l" : "25.40",
+"c" : "+0.05",
+"mc" : "5.26B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "410, boomerang Near Chandivli Studio Chandivli, Village Road Andheri (E), MUMBAI, 400072, India",
+"phone": "+91-22-61204800",
+"fax": "+91-22-61204804",
+"url": "http:\u002F\u002Fmepinfra.com\u002F",
+"overview" : "MEP Infrastructure Developers Ltd is a toll management company. The Company operates network of roads, highways, bridges and toll plazas. The Company\u0027s services include toll management, which provides infrastructure management and toll collection covering Mumbai entry points, as well as build-operate-transfer (BOT) project at Baramati with Road Infrastructure Development Company of Rajasthan (RIDCOR) in Rajasthan and with National Highways Authority of India (NHAI) across the country, and operation and maintenance, which provides maintenance activities. Its security components include real-time surveillance, automatic vehicle identification based on sensors and laser-based toll audit systems. The Company\u0027s projects include Hyderabad-Bangalore Highway, IRDP Solapur, Kini-Tasawade Toll Plazas and Phalodi-Ramji, among others. The Company operates 47 Toll Plazas across nine states and has completed 73 projects with approximately 131 toll plazas and 825 lanes across 12 states in India."
+} ]
+, "management" : [
+{
+"name" : "Jayant Dattatray Mhaiskar",
+"age" : "39",
+"title" : "Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "M. Sankaranarayanan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Shridhar Phadke",
+"title" : "Company Secretary and Compliance Officer"
+}
+,
+{
+"name" : "Murzash Manekshana",
+"age" : "43",
+"title" : "Deputy Managing Director, Executive Director"
+}
+,
+{
+"name" : "Anuya J. Mhaiskar",
+"age" : "37",
+"title" : "Non-Independent, Non-Executive Director"
+}
+,
+{
+"name" : "Mira Mehrishi",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vijay Agarwal",
+"age" : "59",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Deepak A. Chitnis",
+"age" : "56",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Khimji Pandav",
+"age" : "61",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Feb 15, 2018",
+"time": "",
+"future": 0,
+"desc": "Q3 2018 MEP Infrastructure Developers Ltd Earnings Release (Estimated)"
+}
+]
+}]

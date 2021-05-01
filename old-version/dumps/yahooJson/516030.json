@@ -1,0 +1,389 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 3407289856,
+            "fmt": "3.41B",
+            "longFmt": "3,407,289,856"
+          },
+          "forwardPE": {
+            "raw": 10.453809,
+            "fmt": "10.45"
+          },
+          "profitMargins": {
+            "raw": 0.075500004,
+            "fmt": "7.55%"
+          },
+          "floatShares": {
+            "raw": 13389457,
+            "fmt": "13.39M",
+            "longFmt": "13,389,457"
+          },
+          "sharesOutstanding": {
+            "raw": 35240000,
+            "fmt": "35.24M",
+            "longFmt": "35,240,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.44486,
+            "fmt": "1.44"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 20.317,
+            "fmt": "20.32"
+          },
+          "priceToBook": {
+            "raw": 3.1746814,
+            "fmt": "3.17"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 2.043,
+            "fmt": "204.30%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 144640992,
+            "fmt": "144.64M",
+            "longFmt": "144,640,992"
+          },
+          "trailingEps": {
+            "raw": 4.227,
+            "fmt": "4.23"
+          },
+          "forwardEps": {
+            "raw": 6.17,
+            "fmt": "6.17"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.779,
+            "fmt": "1.78"
+          },
+          "enterpriseToEbitda": {
+            "raw": 8.638,
+            "fmt": "8.64"
+          },
+          "52WeekChange": {
+            "raw": 0.3067485,
+            "fmt": "30.67%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 0.91,
+                  "fmt": "0.91"
+                },
+                "estimate": {
+                  "raw": 0.66,
+                  "fmt": "0.66"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 1.49,
+                  "fmt": "1.49"
+                },
+                "estimate": {
+                  "raw": 1.33,
+                  "fmt": "1.33"
+                }
+              }
+            ],
+            "currentQuarterEstimate": {
+              "raw": 1.39,
+              "fmt": "1.39"
+            },
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 1482975885,
+                  "fmt": "1.48B",
+                  "longFmt": "1,482,975,885"
+                },
+                "earnings": {
+                  "raw": 19448846,
+                  "fmt": "19.45M",
+                  "longFmt": "19,448,846"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1732564575,
+                  "fmt": "1.73B",
+                  "longFmt": "1,732,564,575"
+                },
+                "earnings": {
+                  "raw": -66634839,
+                  "fmt": "-66.63M",
+                  "longFmt": "-66,634,839"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 1742993000,
+                  "fmt": "1.74B",
+                  "longFmt": "1,742,993,000"
+                },
+                "earnings": {
+                  "raw": 28525000,
+                  "fmt": "28.52M",
+                  "longFmt": "28,525,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 1755800000,
+                  "fmt": "1.76B",
+                  "longFmt": "1,755,800,000"
+                },
+                "earnings": {
+                  "raw": 63893000,
+                  "fmt": "63.89M",
+                  "longFmt": "63,893,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 462540000,
+                  "fmt": "462.54M",
+                  "longFmt": "462,540,000"
+                },
+                "earnings": {
+                  "raw": 24725000,
+                  "fmt": "24.73M",
+                  "longFmt": "24,725,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 448828000,
+                  "fmt": "448.83M",
+                  "longFmt": "448,828,000"
+                },
+                "earnings": {
+                  "raw": 29377000,
+                  "fmt": "29.38M",
+                  "longFmt": "29,377,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 538231000,
+                  "fmt": "538.23M",
+                  "longFmt": "538,231,000"
+                },
+                "earnings": {
+                  "raw": 41104000,
+                  "fmt": "41.1M",
+                  "longFmt": "41,104,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 509680000,
+                  "fmt": "509.68M",
+                  "longFmt": "509,680,000"
+                },
+                "earnings": {
+                  "raw": 50607000,
+                  "fmt": "50.61M",
+                  "longFmt": "50,607,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Yash Nagar",
+          "city": "Faizabad",
+          "zip": "224135",
+          "country": "India",
+          "phone": "91 52 7832 6611",
+          "fax": "91 52 7825 8062",
+          "website": "http://www.yash-papers.com",
+          "industry": "Paper & Paper Products",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Yash Papers Limited manufactures and sells kraft and poster paper products primarily for packaging purpose in India and internationally. It offers pouch base products, poster release base products, poster bakery bags, wrapping posters, natural shade posters, poster chromo base products, and eco posters, as well as kraft bag plain, kraft antirust, glass plain, kraft gum tape, and plain and ribbed paper products. The company also provides plain and ribbed brown bags, and plain golden paper products, as well as ribbed orange, yellow, and golden posters; and bleached and unbleached agro pulp products. In addition, it provides food service disposables and egg trays under the Chuk! brand name. Yash Papers Limited was founded in 1981 and is based in Faizabad, India.",
+          "fullTimeEmployees": 326,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 64.5,
+            "fmt": "64.50"
+          },
+          "targetHighPrice": {
+            "raw": 4.67,
+            "fmt": "4.67"
+          },
+          "targetLowPrice": {
+            "raw": 4.67,
+            "fmt": "4.67"
+          },
+          "targetMeanPrice": {
+            "raw": 4.67,
+            "fmt": "4.67"
+          },
+          "targetMedianPrice": {
+            "raw": 4.67,
+            "fmt": "4.67"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 19807000,
+            "fmt": "19.81M",
+            "longFmt": "19,807,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.583,
+            "fmt": "0.58"
+          },
+          "ebitda": {
+            "raw": 394443488,
+            "fmt": "394.44M",
+            "longFmt": "394,443,488"
+          },
+          "totalDebt": {
+            "raw": 1173556992,
+            "fmt": "1.17B",
+            "longFmt": "1,173,556,992"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1915787008,
+            "fmt": "1.92B",
+            "longFmt": "1,915,787,008"
+          },
+          "debtToEquity": {
+            "raw": 172.847,
+            "fmt": "172.85"
+          },
+          "revenuePerShare": {
+            "raw": 56.99,
+            "fmt": "56.99"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 794502000,
+            "fmt": "794.5M",
+            "longFmt": "794,502,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 1.922,
+            "fmt": "192.20%"
+          },
+          "revenueGrowth": {
+            "raw": 0.15,
+            "fmt": "15.00%"
+          },
+          "grossMargins": {
+            "raw": 0.47556,
+            "fmt": "47.56%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.20589,
+            "fmt": "20.59%"
+          },
+          "operatingMargins": {
+            "raw": 0.17143999,
+            "fmt": "17.14%"
+          },
+          "profitMargins": {
+            "raw": 0.075500004,
+            "fmt": "7.55%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

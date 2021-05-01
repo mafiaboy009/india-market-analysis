@@ -1,0 +1,357 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 15588094976,
+            "fmt": "15.59B",
+            "longFmt": "15,588,094,976"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.04167,
+            "fmt": "-4.17%"
+          },
+          "floatShares": {
+            "raw": 192247882,
+            "fmt": "192.25M",
+            "longFmt": "192,247,882"
+          },
+          "sharesOutstanding": {
+            "raw": 317476000,
+            "fmt": "317.48M",
+            "longFmt": "317,476,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.405678,
+            "fmt": "0.41"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 146.086,
+            "fmt": "146.09"
+          },
+          "priceToBook": {
+            "raw": 0.14751585,
+            "fmt": "0.15"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1191110400,
+            "fmt": "2007-09-30"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 1.77,
+            "fmt": "177.00%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -1622800000,
+            "fmt": "-1.62B",
+            "longFmt": "-1,622,800,000"
+          },
+          "trailingEps": {
+            "raw": -9.314,
+            "fmt": "-9.31"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.4,
+            "fmt": "0.40"
+          },
+          "enterpriseToEbitda": {
+            "raw": 2.605,
+            "fmt": "2.61"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 29945800000,
+                  "fmt": "29.95B",
+                  "longFmt": "29,945,800,000"
+                },
+                "earnings": {
+                  "raw": -4833900000,
+                  "fmt": "-4.83B",
+                  "longFmt": "-4,833,900,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 35814300000,
+                  "fmt": "35.81B",
+                  "longFmt": "35,814,300,000"
+                },
+                "earnings": {
+                  "raw": -1323100000,
+                  "fmt": "-1.32B",
+                  "longFmt": "-1,323,100,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 42095800000,
+                  "fmt": "42.1B",
+                  "longFmt": "42,095,800,000"
+                },
+                "earnings": {
+                  "raw": 285700000,
+                  "fmt": "285.7M",
+                  "longFmt": "285,700,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 38948600000,
+                  "fmt": "38.95B",
+                  "longFmt": "38,948,600,000"
+                },
+                "earnings": {
+                  "raw": -1622800000,
+                  "fmt": "-1.62B",
+                  "longFmt": "-1,622,800,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2006",
+                "revenue": {
+                  "raw": 812270000,
+                  "fmt": "812.27M",
+                  "longFmt": "812,270,000"
+                },
+                "earnings": {
+                  "raw": 80340000,
+                  "fmt": "80.34M",
+                  "longFmt": "80,340,000"
+                }
+              },
+              {
+                "date": "3Q2006",
+                "revenue": {
+                  "raw": 1032570000,
+                  "fmt": "1.03B",
+                  "longFmt": "1,032,570,000"
+                },
+                "earnings": {
+                  "raw": 110760000,
+                  "fmt": "110.76M",
+                  "longFmt": "110,760,000"
+                }
+              },
+              {
+                "date": "2Q2007",
+                "revenue": {
+                  "raw": 2012480000,
+                  "fmt": "2.01B",
+                  "longFmt": "2,012,480,000"
+                },
+                "earnings": {
+                  "raw": 220520000,
+                  "fmt": "220.52M",
+                  "longFmt": "220,520,000"
+                }
+              },
+              {
+                "date": "3Q2007",
+                "revenue": {
+                  "raw": 2246100000,
+                  "fmt": "2.25B",
+                  "longFmt": "2,246,100,000"
+                },
+                "earnings": {
+                  "raw": 306780000,
+                  "fmt": "306.78M",
+                  "longFmt": "306,780,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Oberoi Gardens Estates",
+          "address2": "D-1st Floor Chandivali Farms Road Chandivali, Andheri (East)",
+          "city": "Mumbai",
+          "zip": "400072",
+          "country": "India",
+          "phone": "91 22 3985 8800",
+          "fax": "91 22 3985 8700",
+          "website": "http://www.bombayrayon.com",
+          "industry": "Textile Industrial",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Bombay Rayon Fashions Limited, an integrated textile company, manufactures and sells yarn, fabrics, and garments. It offers various fabrics, such as cotton, polyester, tencel, modal, lycra, linen, and various blends; and cotton yarn and knitted grey fabric products. The company also produces apparel; and polyester buttons for shirts, coats, outer wear, and trousers, as well as fancy buttons. In addition, it engages in the wholesale, marketing, and distribution of clothing products; and retail of readymade garments and other accessories. Bombay Rayon Fashions Limited also exports its products. The company operates its stores under the GURU name in 18 countries, including Italy, Spain, France, Germany, Holland, Belgium, Luxemburg, Greece, England, Portugal, the Middle East, Turkey, Russia, Ukraine, Austria, Switzerland, the Canary Islands, Scandinavia, China, and India. Bombay Rayon Fashions Limited was founded in 1986 and is headquartered in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 21.55,
+            "fmt": "21.55"
+          },
+          "targetHighPrice": {
+            "raw": 234.0,
+            "fmt": "234.00"
+          },
+          "targetLowPrice": {
+            "raw": 234.0,
+            "fmt": "234.00"
+          },
+          "targetMeanPrice": {
+            "raw": 234.0,
+            "fmt": "234.00"
+          },
+          "targetMedianPrice": {
+            "raw": 234.0,
+            "fmt": "234.00"
+          },
+          "recommendationMean": {
+            "raw": 4.0,
+            "fmt": "4.00"
+          },
+          "recommendationKey": "underperform",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 5984099840,
+            "fmt": "5.98B",
+            "longFmt": "5,984,099,840"
+          },
+          "totalDebt": {},
+          "quickRatio": {
+            "raw": 0.332,
+            "fmt": "0.33"
+          },
+          "currentRatio": {
+            "raw": 1.167,
+            "fmt": "1.17"
+          },
+          "totalRevenue": {
+            "raw": 38948601856,
+            "fmt": "38.95B",
+            "longFmt": "38,948,601,856"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 223.537,
+            "fmt": "223.54"
+          },
+          "returnOnAssets": {
+            "raw": 0.029690001,
+            "fmt": "2.97%"
+          },
+          "returnOnEquity": {
+            "raw": -0.06835,
+            "fmt": "-6.84%"
+          },
+          "grossProfits": {
+            "raw": 14081100000,
+            "fmt": "14.08B",
+            "longFmt": "14,081,100,000"
+          },
+          "freeCashflow": {
+            "raw": -8150300160,
+            "fmt": "-8.15B",
+            "longFmt": "-8,150,300,160"
+          },
+          "operatingCashflow": {
+            "raw": -2781900032,
+            "fmt": "-2.78B",
+            "longFmt": "-2,781,900,032"
+          },
+          "earningsGrowth": {
+            "raw": 0.965,
+            "fmt": "96.50%"
+          },
+          "revenueGrowth": {
+            "raw": 1.175,
+            "fmt": "117.50%"
+          },
+          "grossMargins": {
+            "raw": 0.36153,
+            "fmt": "36.15%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.15364,
+            "fmt": "15.36%"
+          },
+          "operatingMargins": {
+            "raw": 0.11131,
+            "fmt": "11.13%"
+          },
+          "profitMargins": {
+            "raw": -0.04167,
+            "fmt": "-4.17%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

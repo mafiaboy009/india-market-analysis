@@ -1,0 +1,275 @@
+
+ [
+{
+"symbol" : "504786",
+"exchange" : "BOM",
+"id": "13578694",
+"t" : "504786",
+"e" : "BOM",
+"name" : "Investment \u0026 Precision Castings Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=IPCT.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:504786"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:504786"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:504786"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002711)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.15%",
+"annual" : "4.61%",
+"ttm" : "4.76%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.70%",
+"annual" : "10.80%",
+"ttm" : "10.59%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.23%",
+"ttm" : "17.42%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.19%",
+"ttm" : "4.12%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.99%",
+"ttm" : "7.87%"
+}
+]
+, "c" : "-0.30",
+"l" : "440.00",
+"cp" : "-0.07",
+"ccol" : "chr",
+"op" : "440.00",
+"hi" : "444.40",
+"lo" : "436.00",
+"vo" : "6,256.00",
+"avvo" : "",
+"hi52" : "525.00",
+"lo52" : "185.10",
+"mc" : "2.22B",
+"pe" : "67.87",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.48",
+"dy" : "0.16",
+"ldiv" : "1.00",
+"shares" : "5.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "13578694",
+"name" : "Investment \u0026 Precision Castings Ltd",
+"t" : "504786",
+"e" : "BOM",
+"l" : "440.00",
+"c" : "-0.30",
+"mc" : "2.22B",
+"cp" : "-0.07",
+"ccol" : "chr"
+}
+,
+{
+"id" : "355363",
+"name" : "Simplex Casting Ltd",
+"t" : "513472",
+"e" : "BOM",
+"l" : "159.80",
+"c" : "+3.60",
+"mc" : "945.38M",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4777716",
+"name" : "Steel Authority of India Limited",
+"t" : "SAIL",
+"e" : "NSE",
+"l" : "86.40",
+"c" : "-0.65",
+"mc" : "355.24B",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3198942",
+"name" : "Bhuwalka Steel Industries Ltd",
+"t" : "513333",
+"e" : "BOM",
+"l" : "4.46",
+"c" : "0.00",
+"mc" : "46.27M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2290301",
+"name" : "Lakshmi Machine Works Ltd",
+"t" : "LAXMIMACH",
+"e" : "NSE",
+"l" : "6,395.00",
+"c" : "+214.20",
+"mc" : "70.41B",
+"cp" : "3.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715420",
+"name" : "Batliboi Ltd.",
+"t" : "522004",
+"e" : "BOM",
+"l" : "28.50",
+"c" : "-1.50",
+"mc" : "818.40M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722448",
+"name" : "Rajkumar Forge limited",
+"t" : "513369",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "+1.60",
+"mc" : "437.58M",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8566171",
+"name" : "Super Sales India Ltd",
+"t" : "512527",
+"e" : "BOM",
+"l" : "690.00",
+"c" : "+12.85",
+"mc" : "2.16B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11870079",
+"name" : "Integra Engineering India Ltd",
+"t" : "505358",
+"e" : "BOM",
+"l" : "56.30",
+"c" : "-0.05",
+"mc" : "1.94B",
+"cp" : "-0.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5411987",
+"name" : "Stovec Industries Ltd",
+"t" : "504959",
+"e" : "BOM",
+"l" : "2,935.00",
+"c" : "-25.00",
+"mc" : "6.13B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9464775",
+"name" : "Chandni Textiles Engineering Indstrs Ltd",
+"t" : "522292",
+"e" : "BOM",
+"l" : "43.10",
+"c" : "+2.05",
+"mc" : "689.64M",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "NARI ROAD, BHAVNAGAR, 364006, India",
+"phone": "+91-278-2523300",
+"fax": "+91-278-2523501",
+"url": "http:\u002F\u002Fwww.ipcl.in\u002F",
+"overview" : "Investment \u0026 Precision Castings Limited is a holding company. The Company is engaged in steel castings business. It offers products for automotive, pumps and valves, electrical and instrumentation, and general engineering. It supplies a range of machined and ready-for-use investment cast parts to the automotive industry, including transmission parts, engine parts, clutch parts, parts for turbo-chargers and exhaust gas recirculation cooler parts. For the valve industry, the Company supplies a range of castings, such as valve bodies, gate valve wedges, globe valve discs and butterfly valve discs. Its electrical and instrumentation products include heavy duty electrical switch gears, parts for piping and flow measuring instruments, and parts for pressure transducers. Its general engineering products include stream turbine blades, components for the pneumatic industry, general machinery parts, parts for agricultural machinery, parts for machine tools and parts for printing machinery."
+} ]
+, "management" : [
+{
+"name" : "Piyush I. Tamboli",
+"age" : "45",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Hetalben Bhanuprasad Kapadiya",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "I. F. Tamboli",
+"title" : "Chairman Emeritus"
+}
+,
+{
+"name" : "Vishakha P. Tamboli",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "J. M. Mapgaonkar",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Akshay R. Shah",
+"age" : "37",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Girish C. Shah",
+"age" : "59",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

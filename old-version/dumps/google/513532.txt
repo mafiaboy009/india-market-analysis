@@ -1,0 +1,278 @@
+
+// [
+{
+"symbol" : "513532",
+"exchange" : "BOM",
+"id": "7687804",
+"t" : "513532",
+"e" : "BOM",
+"name" : "Pradeep Metals Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=PMET.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:513532"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:513532"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:513532"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002713)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-2.37%",
+"annual" : "-2.49%",
+"ttm" : "3.53%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.67%",
+"annual" : "3.29%",
+"ttm" : "7.93%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.53%",
+"ttm" : "9.52%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.03%",
+"ttm" : "4.49%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.69%",
+"ttm" : "15.58%"
+}
+]
+, "c" : "+2.10",
+"l" : "103.50",
+"cp" : "2.07",
+"ccol" : "chg",
+"op" : "102.60",
+"hi" : "105.75",
+"lo" : "101.00",
+"vo" : "2,028.00",
+"avvo" : "",
+"hi52" : "114.40",
+"lo52" : "57.00",
+"mc" : "1.77B",
+"pe" : "40.56",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.55",
+"dy" : "",
+"ldiv" : "",
+"shares" : "17.27M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7687804",
+"name" : "Pradeep Metals Ltd",
+"t" : "513532",
+"e" : "BOM",
+"l" : "103.50",
+"c" : "+2.10",
+"mc" : "1.77B",
+"cp" : "2.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "332780",
+"name" : "S.S. Forgings and Engineering Ltd",
+"t" : "522296",
+"e" : "BOM",
+"l" : "1.59",
+"c" : "0.00",
+"mc" : "12.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13622393",
+"name" : "Kalyani Forge Ltd",
+"t" : "KALYANIFRG",
+"e" : "NSE",
+"l" : "311.00",
+"c" : "-1.30",
+"mc" : "1.14B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2396366",
+"name" : "Kalyani Steels Limited",
+"t" : "KSL",
+"e" : "NSE",
+"l" : "318.70",
+"c" : "+3.10",
+"mc" : "13.92B",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14080433",
+"name" : "Shree Ganesh Forgings Ltd",
+"t" : "SGFL",
+"e" : "NSE",
+"l" : "1.55",
+"c" : "0.00",
+"mc" : "19.38M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9974936",
+"name" : "Bharat Forge Ltd",
+"t" : "BHARATFORG",
+"e" : "NSE",
+"l" : "767.25",
+"c" : "+17.25",
+"mc" : "357.18B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13389830",
+"name" : "MM Forgings Ltd",
+"t" : "MMFL",
+"e" : "NSE",
+"l" : "1,067.00",
+"c" : "-22.50",
+"mc" : "12.89B",
+"cp" : "-2.07",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8142767",
+"name" : "Ramkrishna Forgings Ltd",
+"t" : "RKFORGE",
+"e" : "NSE",
+"l" : "741.60",
+"c" : "-3.55",
+"mc" : "24.18B",
+"cp" : "-0.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8551356",
+"name" : "Vybra Automet Ltd",
+"t" : "520003",
+"e" : "BOM",
+"l" : "6.00",
+"c" : "0.00",
+"mc" : "74.24M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11757617",
+"name" : "Metalyst Forgings Ltd",
+"t" : "METALFORGE",
+"e" : "NSE",
+"l" : "29.10",
+"c" : "+0.05",
+"mc" : "1.27B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1015652159608985",
+"name" : "Tirupati Forge Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "R-205 MIDC, Rabale, NAVI MUMBAI, 400701, India",
+"phone": "+91-22-27691026",
+"fax": "+91-22-27691123",
+"url": "http:\u002F\u002Fwww.pradeepmetals.com\u002F",
+"overview" : "Pradeep Metals Limited is an India-based company engaged in manufacturing of steel products. The Company offers components for process control equipment and components for valves. The Company is engaged in manufacturing of closed die forgings and processing. Its products include material grades, valves, gears and automative, manifolds, forged flanges and general engineering. The Company offers intricate closed die stainless, alloy and carbon steel forgings as finished and semi-finished machined components. The Company offers its products to its customers in the United States, the United Kingdom, Singapore, Sweden, Denmark, France, Germany, Mexico and Argentina. The Company serves various industries, such as instrumentation, oil and gas, and petro-chemical. The Company\u0027s plant is located at Rabale, Navi Mumbai. The plant is integrated with various facilities for design, die tooling, laboratory testing, cutting, forging, heat-treating and machining."
+} ]
+, "management" : [
+{
+"name" : "Pradeep Vedprakash Goyal",
+"age" : "61",
+"title" : "Executive Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Rakesh Agarwal",
+"age" : "53",
+"title" : "Chief Financial Officer (KMP)"
+}
+,
+{
+"name" : "Dilip Dalvi",
+"title" : "Deputy Chief Financial Officer"
+}
+,
+{
+"name" : "Neeru Pradeep Goyal",
+"age" : "54",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Jayavardhan Dhar Diwan",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Omprakash Agarwal",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kartick Maheshwari",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kewal Krishan Nohria",
+"age" : "81",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

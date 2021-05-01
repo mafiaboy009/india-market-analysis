@@ -1,0 +1,289 @@
+
+ [
+{
+"symbol" : "531633",
+"exchange" : "BOM",
+"id": "16546949",
+"t" : "531633",
+"e" : "BOM",
+"name" : "Lincoln Pharmaceuticals Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=LINP.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531633"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531633"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531633"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.45%",
+"annual" : "7.51%",
+"ttm" : "6.44%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "18.40%",
+"annual" : "11.43%",
+"ttm" : "10.04%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.97%",
+"ttm" : "11.38%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "9.31%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.36%",
+"ttm" : ""
+}
+]
+, "c" : "+9.05",
+"l" : "239.25",
+"cp" : "3.93",
+"ccol" : "chg",
+"op" : "232.00",
+"hi" : "245.00",
+"lo" : "229.55",
+"vo" : "43,557.00",
+"avvo" : "",
+"hi52" : "274.80",
+"lo52" : "148.00",
+"mc" : "4.77B",
+"pe" : "16.62",
+"fwpe" : "",
+"beta" : "",
+"eps" : "14.40",
+"dy" : "0.50",
+"ldiv" : "1.20",
+"shares" : "20.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "16546949",
+"name" : "Lincoln Pharmaceuticals Ltd",
+"t" : "531633",
+"e" : "BOM",
+"l" : "239.25",
+"c" : "+9.05",
+"mc" : "4.77B",
+"cp" : "3.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "677368",
+"name" : "Fulford (India) Limited (Parent)",
+"t" : "506803",
+"e" : "BOM",
+"l" : "2,362.50",
+"c" : "",
+"mc" : "9.21B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5262084",
+"name" : "Marksans Pharma Limited",
+"t" : "MARKSANS",
+"e" : "NSE",
+"l" : "38.60",
+"c" : "-0.20",
+"mc" : "15.74B",
+"cp" : "-0.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7085020",
+"name" : "Bal Pharma Ltd",
+"t" : "BALPHARMA",
+"e" : "NSE",
+"l" : "96.15",
+"c" : "+0.10",
+"mc" : "1.37B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7222829",
+"name" : "Makers Laboratories Ltd",
+"t" : "506919",
+"e" : "BOM",
+"l" : "81.35",
+"c" : "+1.15",
+"mc" : "406.07M",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15627003",
+"name" : "Trimurthi Ltd",
+"t" : "536565",
+"e" : "BOM",
+"l" : "8.00",
+"c" : "0.00",
+"mc" : "64.80M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6886745",
+"name" : "Twilight Litaka Pharma Ltd",
+"t" : "TWILITAKA",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8321085",
+"name" : "Godavari Drugs Ltd",
+"t" : "530317",
+"e" : "BOM",
+"l" : "35.65",
+"c" : "+1.65",
+"mc" : "268.46M",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "723347",
+"name" : "Ambalal Sarabhai Enterprises Ltd",
+"t" : "500009",
+"e" : "BOM",
+"l" : "12.65",
+"c" : "+0.44",
+"mc" : "962.32M",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7853362",
+"name" : "Shasun Chemicals \u0026 Drugs Limited",
+"t" : "SHASUNPHAR",
+"e" : "NSE",
+"l" : "431.00",
+"c" : "",
+"mc" : "28.99B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14759050",
+"name" : "Indoco Remedies Ltd",
+"t" : "INDOCO",
+"e" : "NSE",
+"l" : "260.50",
+"c" : "-2.10",
+"mc" : "24.13B",
+"cp" : "-0.80",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "LINCOLN HOUSE, B\u002Fh. Satyam Complex Science City Road, Sola, AHMEDABAD, 380060, India",
+"phone": "+91-79-67778000",
+"fax": "+91-79-30018062",
+"url": "https:\u002F\u002Fwww.lincolnpharma.com\u002F",
+"overview" : "Lincoln Pharmaceuticals Limited (LPL) is engaged in the business of manufacturing, marketing and distribution of pharmaceutical products. The Company operates through the Pharmaceuticals Products segment. The Company offers products, such as tablets, capsules, liquid injection, cream in tubes, dry power injection, liquid in bott, liquid injection and pharma products. It has operations in cardiac, diabetic, anti-malarial, anti-biotics, cephalosporins, analgesic, antipyretics, vitamin-minerals and iron preparations, among others. Its geographical segments include Domestic Sales and Export Sales. Its products include Tinnex, which is a medication for treating cochlear synaptic tinnitus\u003B Pa 12 Proglet, which is a 1000 milligram programmed released paracetamol that is developed to offer control of pain and fever, and ARH 1, which is an anti-malarial drug that is formulated utilizing technology known as dose optimization technology."
+} ]
+, "management" : [
+{
+"name" : "Munjal Mahendrabhai Patel",
+"title" : "Director - Finance, Director"
+}
+,
+{
+"name" : "Arvindbhai G. Patel",
+"age" : "64",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Mahendrabhai G. Patel",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Rajnikant G. Patel",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Hasmukhbhai I. Patel",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Bhavik P. Parikh",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Kishor M. Shah",
+"age" : "69",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Ashish Rajnikant Patel",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Meha Patel",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Ishwarlal A. Patel",
+"age" : "78",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

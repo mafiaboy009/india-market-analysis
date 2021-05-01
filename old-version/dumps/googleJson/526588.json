@@ -1,0 +1,281 @@
+
+ [
+{
+"symbol" : "526588",
+"exchange" : "BOM",
+"id": "703961",
+"t" : "526588",
+"e" : "BOM",
+"name" : "Photoquip India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=PHOI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:526588"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:526588"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:526588"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-1.07%",
+"annual" : "-3.66%",
+"ttm" : "-2.43%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.97%",
+"annual" : "-2.07%",
+"ttm" : "-0.93%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-0.67%",
+"ttm" : "0.49%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-3.89%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-8.29%",
+"ttm" : ""
+}
+]
+, "c" : "-1.15",
+"l" : "22.00",
+"cp" : "-4.97",
+"ccol" : "chr",
+"op" : "23.90",
+"hi" : "23.90",
+"lo" : "22.00",
+"vo" : "235.00",
+"avvo" : "",
+"hi52" : "27.00",
+"lo52" : "14.00",
+"mc" : "105.62M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-2.28",
+"dy" : "",
+"ldiv" : "",
+"shares" : "4.80M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703961",
+"name" : "Photoquip India Ltd",
+"t" : "526588",
+"e" : "BOM",
+"l" : "22.00",
+"c" : "-1.15",
+"mc" : "105.62M",
+"cp" : "-4.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8330767",
+"name" : "Fiem Industries Ltd",
+"t" : "FIEMIND",
+"e" : "NSE",
+"l" : "880.00",
+"c" : "+9.55",
+"mc" : "11.53B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5736517",
+"name" : "Polar Industries Ltd",
+"t" : "POLARIND",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-2.00",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9034741",
+"name" : "Eveready Industries India Ltd",
+"t" : "EVEREADY",
+"e" : "NSE",
+"l" : "382.60",
+"c" : "+1.10",
+"mc" : "27.56B",
+"cp" : "0.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1597800",
+"name" : "Havells India Ltd",
+"t" : "HAVELLS",
+"e" : "NSE",
+"l" : "512.05",
+"c" : "+4.35",
+"mc" : "320.17B",
+"cp" : "0.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8081566",
+"name" : "Khaitan Electricals Ltd",
+"t" : "KHAITANELE",
+"e" : "NSE",
+"l" : "9.80",
+"c" : "-0.50",
+"mc" : "112.70M",
+"cp" : "-4.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8046173",
+"name" : "Autolite India Ltd",
+"t" : "AUTOLITIND",
+"e" : "NSE",
+"l" : "77.00",
+"c" : "+2.10",
+"mc" : "859.81M",
+"cp" : "2.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12863366",
+"name" : "Finolex Cables Ltd",
+"t" : "FINCABLES",
+"e" : "NSE",
+"l" : "700.55",
+"c" : "-3.80",
+"mc" : "107.04B",
+"cp" : "-0.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10428173",
+"name" : "PG Electroplast Ltd",
+"t" : "PGEL",
+"e" : "NSE",
+"l" : "307.00",
+"c" : "-3.20",
+"mc" : "5.04B",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11688711",
+"name" : "Lumax Industries Limited",
+"t" : "LUMAXIND",
+"e" : "NSE",
+"l" : "2,285.00",
+"c" : "+32.95",
+"mc" : "21.19B",
+"cp" : "1.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "360698834170545",
+"name" : "VETO Switch Gears And Cables Ltd",
+"t" : "VETO",
+"e" : "NSE",
+"l" : "220.00",
+"c" : "+3.65",
+"mc" : "4.04B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "A 33 \u002F 34,Royal Industrial Estate Naigaon Cross Road Wadala, MUMBAI, 400031, India",
+"phone": "+91-22-61474000",
+"fax": "+91-22-24144498",
+"url": "http:\u002F\u002Fwww.photoquip.com\u002F",
+"overview" : "Photoquip India Limited is an India-based company, which is engaged in manufacturing Digital Studio Flash Lights and Photographic Accessories. The Company\u0027s geographic segments include Domestic Operation and External Operation. The Company manufactures, exports and trades in Digital Studio Flashlights and Photographic Accessories and similar products. It is an original equipment manufacturer (OEM) for Elinchrom SA, a company based in Switzerland. The Company also operates a trading division wherein it trades in similar products and has rights to market in India the products of the Switzerland-based company. Its products include compacts, battery packs, power packs, EL-Skyport, light shapers and accessories. Compacts include ELINCHROM D-LITE FX ONE and ELINCHROM D-LITE FX 2. Battery Packs include ELINCHROM ELB 400 and ELINCHROM RANGER RX SPEED AS. Power Packs include ELINCHROM EL-SKYPORT PLUS HS, ELINCHROM TRANSMITTER SPEED and ELINCHROM UNIVERSAL RECEIVER."
+} ]
+, "management" : [
+{
+"name" : "Jayant Purshottam Soni",
+"age" : "83",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Dhaval Jayant Soni",
+"age" : "54",
+"title" : "Whole time Director"
+}
+,
+{
+"name" : "Pulin D. Soni",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Anju Soni",
+"title" : "Director"
+}
+,
+{
+"name" : "Parvin J. Dumasia",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vishnu J. Acharya",
+"age" : "78",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Mohan Motiram Jayakar",
+"age" : "63",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Mohib Nomanbhai Khericha",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

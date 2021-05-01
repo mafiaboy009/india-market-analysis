@@ -1,0 +1,372 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 4771021312,
+            "fmt": "4.77B",
+            "longFmt": "4,771,021,312"
+          },
+          "forwardPE": {
+            "raw": 5.5756116,
+            "fmt": "5.58"
+          },
+          "profitMargins": {
+            "raw": 0.07742,
+            "fmt": "7.74%"
+          },
+          "floatShares": {
+            "raw": 3270839,
+            "fmt": "3.27M",
+            "longFmt": "3,270,839"
+          },
+          "sharesOutstanding": {
+            "raw": 25285700,
+            "fmt": "25.29M",
+            "longFmt": "25,285,700"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 2.557075,
+            "fmt": "2.56"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 88.097,
+            "fmt": "88.10"
+          },
+          "priceToBook": {
+            "raw": 1.5778062,
+            "fmt": "1.58"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.725,
+            "fmt": "-72.50%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 267724992,
+            "fmt": "267.72M",
+            "longFmt": "267,724,992"
+          },
+          "trailingEps": {
+            "raw": 11.016,
+            "fmt": "11.02"
+          },
+          "forwardEps": {
+            "raw": 24.93,
+            "fmt": "24.93"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.38,
+            "fmt": "1.38"
+          },
+          "enterpriseToEbitda": {
+            "raw": 8.441,
+            "fmt": "8.44"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 2.74,
+                  "fmt": "2.74"
+                },
+                "estimate": {
+                  "raw": 4.7,
+                  "fmt": "4.70"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 2806291000,
+                  "fmt": "2.81B",
+                  "longFmt": "2,806,291,000"
+                },
+                "earnings": {
+                  "raw": -193484000,
+                  "fmt": "-193.48M",
+                  "longFmt": "-193,484,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 2596668000,
+                  "fmt": "2.6B",
+                  "longFmt": "2,596,668,000"
+                },
+                "earnings": {
+                  "raw": 167126000,
+                  "fmt": "167.13M",
+                  "longFmt": "167,126,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 2731900000,
+                  "fmt": "2.73B",
+                  "longFmt": "2,731,900,000"
+                },
+                "earnings": {
+                  "raw": 197900000,
+                  "fmt": "197.9M",
+                  "longFmt": "197,900,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 3096900000,
+                  "fmt": "3.1B",
+                  "longFmt": "3,096,900,000"
+                },
+                "earnings": {
+                  "raw": 448800000,
+                  "fmt": "448.8M",
+                  "longFmt": "448,800,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 849081000,
+                  "fmt": "849.08M",
+                  "longFmt": "849,081,000"
+                },
+                "earnings": {
+                  "raw": 95375000,
+                  "fmt": "95.38M",
+                  "longFmt": "95,375,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 798568000,
+                  "fmt": "798.57M",
+                  "longFmt": "798,568,000"
+                },
+                "earnings": {
+                  "raw": 72684000,
+                  "fmt": "72.68M",
+                  "longFmt": "72,684,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 910419000,
+                  "fmt": "910.42M",
+                  "longFmt": "910,419,000"
+                },
+                "earnings": {
+                  "raw": 66899000,
+                  "fmt": "66.9M",
+                  "longFmt": "66,899,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 900066000,
+                  "fmt": "900.07M",
+                  "longFmt": "900,066,000"
+                },
+                "earnings": {
+                  "raw": 32767000,
+                  "fmt": "32.77M",
+                  "longFmt": "32,767,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Quena Square",
+          "address2": "4th Floor #6-3-553, Unit Nos. E3 & E4 Off Taj Deccan Road, Erramanzil",
+          "city": "Hyderabad",
+          "zip": "500082",
+          "country": "India",
+          "phone": "91 40 2335 3096",
+          "fax": "91 40 2335 3093",
+          "website": "http://www.anjanicement.com",
+          "industry": "Textile Industrial",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Anjani Portland Cement Limited manufactures and sells cement in India. It offers ordinary Portland, Portland Pozolona, and Portland slag cement, as well as clinker. The company was formerly known as Shez Cement Limited and changed its name to Anjani Portland Cement Limited in October 1999. The company was incorporated in 1983 and is based in Hyderabad, India. Anjani Portland Cement Limited is a subsidiary of Chettinad Cement Corporation Limited.",
+          "fullTimeEmployees": 277,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 139.0,
+            "fmt": "139.00"
+          },
+          "targetHighPrice": {
+            "raw": 49.0,
+            "fmt": "49.00"
+          },
+          "targetLowPrice": {
+            "raw": 49.0,
+            "fmt": "49.00"
+          },
+          "targetMeanPrice": {
+            "raw": 49.0,
+            "fmt": "49.00"
+          },
+          "targetMedianPrice": {
+            "raw": 49.0,
+            "fmt": "49.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 117389000,
+            "fmt": "117.39M",
+            "longFmt": "117,389,000"
+          },
+          "totalCashPerShare": {
+            "raw": 4.407,
+            "fmt": "4.41"
+          },
+          "ebitda": {
+            "raw": 565235968,
+            "fmt": "565.24M",
+            "longFmt": "565,235,968"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 3458134016,
+            "fmt": "3.46B",
+            "longFmt": "3,458,134,016"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 142.288,
+            "fmt": "142.29"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 2745900000,
+            "fmt": "2.75B",
+            "longFmt": "2,745,900,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.739,
+            "fmt": "-73.90%"
+          },
+          "revenueGrowth": {
+            "raw": 0.083,
+            "fmt": "8.30%"
+          },
+          "grossMargins": {
+            "raw": 0.84480006,
+            "fmt": "84.48%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.16344999,
+            "fmt": "16.34%"
+          },
+          "operatingMargins": {
+            "raw": 0.12741,
+            "fmt": "12.74%"
+          },
+          "profitMargins": {
+            "raw": 0.07742,
+            "fmt": "7.74%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

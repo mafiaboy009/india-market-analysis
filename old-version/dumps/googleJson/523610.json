@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "523610",
+"exchange" : "BOM",
+"id": "703733",
+"t" : "523610",
+"e" : "BOM",
+"name" : "ITI Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:523610"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:523610"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:523610"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "30.38%",
+"annual" : "19.95%",
+"ttm" : "32.23%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.92%",
+"annual" : "6.35%",
+"ttm" : "12.47%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-1.58%",
+"ttm" : "1.92%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.37%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "32.79%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,052",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-4.20",
+"l" : "121.10",
+"cp" : "-3.35",
+"ccol" : "chr",
+"op" : "126.45",
+"hi" : "126.45",
+"lo" : "120.65",
+"vo" : "116,091.00",
+"avvo" : "",
+"hi52" : "164.90",
+"lo52" : "40.45",
+"mc" : "92.74B",
+"pe" : "22.51",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.38",
+"dy" : "",
+"ldiv" : "",
+"shares" : "760.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703733",
+"name" : "ITI Limited",
+"t" : "523610",
+"e" : "BOM",
+"l" : "121.10",
+"c" : "-4.20",
+"mc" : "92.74B",
+"cp" : "-3.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3945360",
+"name" : "Punjab Communications Ltd",
+"t" : "500346",
+"e" : "BOM",
+"l" : "40.15",
+"c" : "+0.65",
+"mc" : "482.75M",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "717905",
+"name" : "Aishwarya Technologies and Telecom Ltd",
+"t" : "532975",
+"e" : "BOM",
+"l" : "6.09",
+"c" : "0.00",
+"mc" : "131.32M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16708397",
+"name" : "Himachal Futuristic Communications (P)",
+"t" : "HFCL",
+"e" : "NSE",
+"l" : "29.30",
+"c" : "+1.10",
+"mc" : "36.25B",
+"cp" : "3.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1046973",
+"name" : "MRO-TEK Reality Ltd",
+"t" : "MRO-TEK",
+"e" : "NSE",
+"l" : "20.75",
+"c" : "+0.95",
+"mc" : "387.71M",
+"cp" : "4.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1485515",
+"name" : "Nelco Limited",
+"t" : "NELCO",
+"e" : "NSE",
+"l" : "175.80",
+"c" : "+15.95",
+"mc" : "4.02B",
+"cp" : "9.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3962598",
+"name" : "HCL Infosystems Limited",
+"t" : "HCL-INSYS",
+"e" : "NSE",
+"l" : "62.90",
+"c" : "-1.00",
+"mc" : "20.79B",
+"cp" : "-1.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8328773",
+"name" : "Shyam Telecom Limited",
+"t" : "SHYAMTEL",
+"e" : "NSE",
+"l" : "12.50",
+"c" : "0.00",
+"mc" : "140.88M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6969117",
+"name" : "ADC India Communications Limited",
+"t" : "523411",
+"e" : "BOM",
+"l" : "233.95",
+"c" : "+1.45",
+"mc" : "1.08B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6604439",
+"name" : "Smartlink Network Systems Ltd",
+"t" : "SMARTLINK",
+"e" : "NSE",
+"l" : "103.00",
+"c" : "+1.05",
+"mc" : "2.31B",
+"cp" : "1.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "724579",
+"name" : "Valiant Communications Ltd.",
+"t" : "526775",
+"e" : "BOM",
+"l" : "69.25",
+"c" : "-1.90",
+"mc" : "494.32M",
+"cp" : "-2.67",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "ITI Bhavan, Doorvaninagar, BANGALORE, 560016, India",
+"phone": "+91-80-25617486",
+"fax": "+91-80-25651724",
+"url": "http:\u002F\u002Fwww.itiltd-india.com\u002F",
+"overview" : "ITI Limited is engaged in manufacturing, trading and servicing of telecommunication equipment, and rendering other associated and ancillary services. The Company focuses on offering telephone communication services. It offers a range of telecom products and solutions, including switching, transmission, access and subscriber premises equipment. Its geographical segment is India. Its products include global system for mobile communications (GSM)\u002Fcode division multiple access (CDMA), defense products and diversified products. Its GSM products include Base Trans-Receiver Station (BTS), BTS Shelter, Roof Top Tower and transceiver. Its CDMA product is CDMA WLL. Its defense products include Orderwire Secrecy (OWS), MIL PCM Secrecy, ANANDA MK II encryptor, STM 1 Encryptor, BEU IP and FAX Encryptor. Its diversified products include switched mode power supply (SMPS) and Digital Inverter. The Company\u0027s services include installation and commissioning microwave, optical fiber and others."
+} ]
+, "management" : [
+{
+"name" : "S. Gopu",
+"title" : "Chairman of the Board, Managing Director, Director - Human Resources"
+}
+,
+{
+"name" : "K. Alagesan",
+"title" : "Additional Director of Marketing, Director - Production"
+}
+,
+{
+"name" : ".. Kanthimathinathan",
+"title" : "Finance Manager-IA"
+}
+,
+{
+"name" : "R. Venkataraman",
+"title" : "Chief Vigilance Officer"
+}
+,
+{
+"name" : "S. Shanmuga Priya",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "R. M. Agarwal",
+"title" : "Director - Government"
+}
+,
+{
+"name" : "K. L. Dhingra",
+"title" : "Director"
+}
+,
+{
+"name" : "A. R. Prasad",
+"title" : "Government Director"
+}
+,
+{
+"name" : "Asha Kumari Jaswal",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Saday Krishna Kanoria",
+"title" : "Non-Official Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

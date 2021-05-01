@@ -1,0 +1,297 @@
+
+ [
+{
+"symbol" : "533193",
+"exchange" : "BOM",
+"id": "715519",
+"t" : "533193",
+"e" : "BOM",
+"name" : "Kirloskar Electric Company Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533193"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533193"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533193"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-6.73%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "-1.60%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.53%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-6.47%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,742",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.05",
+"l" : "37.90",
+"cp" : "-0.13",
+"ccol" : "chr",
+"op" : "38.55",
+"hi" : "38.60",
+"lo" : "37.70",
+"vo" : "31,594.00",
+"avvo" : "",
+"hi52" : "56.95",
+"lo52" : "36.50",
+"mc" : "2.49B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "",
+"ldiv" : "",
+"shares" : "66.41M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715519",
+"name" : "Kirloskar Electric Company Ltd",
+"t" : "533193",
+"e" : "BOM",
+"l" : "37.90",
+"c" : "-0.05",
+"mc" : "2.49B",
+"cp" : "-0.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10798398",
+"name" : "Pitti Laminations Limited",
+"t" : "PITTILAM",
+"e" : "NSE",
+"l" : "91.00",
+"c" : "-1.75",
+"mc" : "2.46B",
+"cp" : "-1.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2745957",
+"name" : "Birla Power Solutions Limited",
+"t" : "BIRLAPOWER",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-0.15",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "55087070199103",
+"name" : "Sharda Motor Industries Ltd",
+"t" : "535602",
+"e" : "BOM",
+"l" : "2,216.00",
+"c" : "-49.40",
+"mc" : "13.14B",
+"cp" : "-2.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3888975",
+"name" : "Ge T\u0026D India Ltd",
+"t" : "GET\u0026D",
+"e" : "NSE",
+"l" : "408.00",
+"c" : "-5.10",
+"mc" : "105.24B",
+"cp" : "-1.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3425782",
+"name" : "CG Power and Industrial Solutions Ltd(P)",
+"t" : "CGPOWER",
+"e" : "NSE",
+"l" : "82.45",
+"c" : "-0.20",
+"mc" : "51.64B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9928106",
+"name" : "ECE Industries Ltd",
+"t" : "ECEIND",
+"e" : "NSE",
+"l" : "362.85",
+"c" : "+10.80",
+"mc" : "2.65B",
+"cp" : "3.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5296497",
+"name" : "ABB India Ltd",
+"t" : "ABB",
+"e" : "NSE",
+"l" : "1,520.00",
+"c" : "-3.25",
+"mc" : "321.75B",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15274130",
+"name" : "Bharat Heavy Electricals Limited",
+"t" : "BHEL",
+"e" : "NSE",
+"l" : "93.30",
+"c" : "+0.40",
+"mc" : "342.73B",
+"cp" : "0.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10896833",
+"name" : "Bharat Bijlee Ltd.",
+"t" : "BBL",
+"e" : "NSE",
+"l" : "1,525.00",
+"c" : "+82.75",
+"mc" : "8.61B",
+"cp" : "5.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "706299",
+"name" : "Jyoti Ltd.",
+"t" : "504076",
+"e" : "BOM",
+"l" : "49.15",
+"c" : "+0.40",
+"mc" : "837.59M",
+"cp" : "0.82",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "P. B. No. 5555, Malleswaram West, BANGALORE, 560055, India",
+"phone": "+91-80-23374865",
+"fax": "+91-80-23377706",
+"url": "http:\u002F\u002Fwww.kirloskar-electric.com\u002F",
+"overview" : "Kirloskar Electric Company Limited is engaged in the manufacture and sale of electric motors, alternators, generators, transformers, switchgear and diesel generator (DG) sets, among others. The Company\u0027s segments include Rotating Machines Group, Power Generation and Distribution Group, and Others. Its geographical segments include Sales in India and Sales outside India. The Company offers products, such as alternating current (AC) motors, including high voltage motors and low voltage motors\u003B AC generators, including Denki Series and Brushless E-series\u003B direct current (DC) motors, including Laminated Yoke DC Motors and Aise Series Mill Duty Motors\u003B electronics, including AC drives, DC drives and battery charger\u003B switchgear, including Vacuum Circuit Breaker and panels\u003B traction, including traction alternator and radiator cooling fan\u003B transformers, including cast resin transformers and distribution transformers, and DG sets, including Freedom Series and Republic Series."
+} ]
+, "management" : [
+{
+"name" : "Vijay R. Kirloskar",
+"age" : "64",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sanjeev Kumar S",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "K. S. Swapna Latha",
+"title" : "Compliance Officer, General Manager, Company Secretary"
+}
+,
+{
+"name" : "Anand B. Hunnur",
+"title" : "Managing Director, Director of Sales, Addiitonal Director"
+}
+,
+{
+"name" : "Janaki Kirloskar",
+"title" : "Member of Key Management Personnel"
+}
+,
+{
+"name" : "Rukmini Kirloskar",
+"title" : "Member of Key Management Personnel"
+}
+,
+{
+"name" : "Shyamanta Bardoloi",
+"age" : "68",
+"title" : "Non-Independent Director"
+}
+,
+{
+"name" : "Satyanaryan Agarwal",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Anil Kumar Bhandari",
+"age" : "70",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kamlesh Gandhi",
+"age" : "67",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

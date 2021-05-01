@@ -1,0 +1,282 @@
+
+ [
+{
+"symbol" : "532939",
+"exchange" : "BOM",
+"id": "719808",
+"t" : "532939",
+"e" : "BOM",
+"name" : "Reliance Power Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532939"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532939"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532939"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "11.24%",
+"annual" : "10.62%",
+"ttm" : "10.13%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "40.39%",
+"annual" : "36.87%",
+"ttm" : "39.25%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "50.36%",
+"ttm" : "46.72%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.72%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.31%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,750",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.25",
+"l" : "45.65",
+"cp" : "2.82",
+"ccol" : "chg",
+"op" : "44.95",
+"hi" : "46.60",
+"lo" : "44.15",
+"vo" : "1.83M",
+"avvo" : "",
+"hi52" : "65.20",
+"lo52" : "34.65",
+"mc" : "128.05B",
+"pe" : "12.80",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.57",
+"dy" : "",
+"ldiv" : "",
+"shares" : "2.81B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "719808",
+"name" : "Reliance Power Ltd",
+"t" : "532939",
+"e" : "BOM",
+"l" : "45.65",
+"c" : "+1.25",
+"mc" : "128.05B",
+"cp" : "2.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5301348",
+"name" : "Tata Power Company Limited",
+"t" : "TATAPOWER",
+"e" : "NSE",
+"l" : "85.90",
+"c" : "+0.15",
+"mc" : "232.48B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2664266",
+"name" : "Energy Development Company Ltd.",
+"t" : "ENERGYDEV",
+"e" : "NSE",
+"l" : "24.60",
+"c" : "+0.30",
+"mc" : "1.17B",
+"cp" : "1.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6533881",
+"name" : "SJVN Ltd",
+"t" : "SJVN",
+"e" : "NSE",
+"l" : "35.00",
+"c" : "+0.20",
+"mc" : "144.57B",
+"cp" : "0.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16741234",
+"name" : "India Power Corp Ltd",
+"t" : "DPSCLTD",
+"e" : "NSE",
+"l" : "30.35",
+"c" : "+0.40",
+"mc" : "128.50M",
+"cp" : "1.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3034768",
+"name" : "RattanIndia Power Ltd",
+"t" : "RTNPOWER",
+"e" : "NSE",
+"l" : "6.10",
+"c" : "0.00",
+"mc" : "17.87B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10937967",
+"name" : "Urja Global Ltd",
+"t" : "526987",
+"e" : "BOM",
+"l" : "6.33",
+"c" : "-0.33",
+"mc" : "3.21B",
+"cp" : "-4.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1973939",
+"name" : "PTC India Ltd",
+"t" : "PTC",
+"e" : "NSE",
+"l" : "102.60",
+"c" : "+2.50",
+"mc" : "30.36B",
+"cp" : "2.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2289156",
+"name" : "Jaiprakash Power Ventures Limited",
+"t" : "JPPOWER",
+"e" : "NSE",
+"l" : "6.20",
+"c" : "-0.10",
+"mc" : "36.59B",
+"cp" : "-1.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13422192",
+"name" : "JSW Energy Ltd",
+"t" : "JSWENERGY",
+"e" : "NSE",
+"l" : "81.50",
+"c" : "-0.50",
+"mc" : "133.75B",
+"cp" : "-0.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8195080",
+"name" : "NHPC Limited",
+"t" : "NHPC",
+"e" : "NSE",
+"l" : "27.95",
+"c" : "+0.35",
+"mc" : "287.27B",
+"cp" : "1.27",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "3Rd Floor Reliance Energy Centre,Santacruz East, NAVI MUMBAI, 400710, India",
+"phone": "+91-22-30385119",
+"fax": "+91-22-30385169",
+"url": "http:\u002F\u002Fwww.reliancepower.co.in",
+"overview" : "Reliance Power Limited is engaged in the business of generation of power. The Company operates through two segments: Power generation and Associated business activities. The Associated business activities segment includes project management, supervision and support services for generation and allied processes. The Company\u0027s projects under development include coal, gas, hydro, wind and solar-based energy projects. It develops, constructs and operates power projects both in India, as well as internationally. The Company on its own and through its subsidiaries has a portfolio of power generation capacity, both in operation, as well as capacity under development. It has approximately 6,000 megawatts (MW) of operational power generation assets. The projects under development include over three coal-fired projects\u003B one gas-fired project, and approximately 10 hydroelectric projects. The Company\u0027s project portfolio also includes 3,960 MW Sasan Ultra Mega Power Project in Madhya Pradesh."
+} ]
+, "management" : [
+{
+"name" : "N. Venugopala Rao",
+"title" : "Chief Executive Officer, Chief Financial Officer, Whole Time Director"
+}
+,
+{
+"name" : "Murli Manohar Purohit",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anil Dhirubhai Ambani",
+"age" : "58",
+"title" : "Non Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Darius J. Kaklia",
+"age" : "67",
+"title" : "Lead Independent Non-Executive Director"
+}
+,
+{
+"name" : "V. K. Chaturvedi",
+"age" : "74",
+"title" : "Non Independent Non-Executive Director"
+}
+,
+{
+"name" : "Sateesh Seth",
+"age" : "61",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Rashna Khan",
+"age" : "53",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

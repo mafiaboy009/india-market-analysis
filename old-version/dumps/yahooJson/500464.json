@@ -1,0 +1,326 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 5985052672,
+            "fmt": "5.99B",
+            "longFmt": "5,985,052,672"
+          },
+          "forwardPE": {
+            "raw": 10.534825,
+            "fmt": "10.53"
+          },
+          "profitMargins": {
+            "raw": 0.04166,
+            "fmt": "4.17%"
+          },
+          "floatShares": {
+            "raw": 6179653,
+            "fmt": "6.18M",
+            "longFmt": "6,179,653"
+          },
+          "sharesOutstanding": {
+            "raw": 22113600,
+            "fmt": "22.11M",
+            "longFmt": "22,113,600"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 25.463,
+            "fmt": "25.46"
+          },
+          "priceToBook": {
+            "raw": 8.315989,
+            "fmt": "8.32"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {},
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 330289984,
+            "fmt": "330.29M",
+            "longFmt": "330,289,984"
+          },
+          "trailingEps": {
+            "raw": 14.936,
+            "fmt": "14.94"
+          },
+          "forwardEps": {
+            "raw": 20.1,
+            "fmt": "20.1"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1098662400,
+            "fmt": "2004-10-25"
+          },
+          "enterpriseToRevenue": {
+            "raw": 0.755,
+            "fmt": "0.75"
+          },
+          "enterpriseToEbitda": {
+            "raw": 5.577,
+            "fmt": "5.58"
+          },
+          "52WeekChange": {
+            "raw": 0.14615762,
+            "fmt": "14.62%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 1.23,
+                  "fmt": "1.23"
+                },
+                "estimate": {
+                  "raw": 2.99,
+                  "fmt": "2.99"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 1.71,
+                  "fmt": "1.71"
+                },
+                "estimate": {
+                  "raw": 3.8,
+                  "fmt": "3.80"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 6490380000,
+                  "fmt": "6.49B",
+                  "longFmt": "6,490,380,000"
+                },
+                "earnings": {
+                  "raw": 68460000,
+                  "fmt": "68.46M",
+                  "longFmt": "68,460,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 7455609000,
+                  "fmt": "7.46B",
+                  "longFmt": "7,455,609,000"
+                },
+                "earnings": {
+                  "raw": 245505000,
+                  "fmt": "245.5M",
+                  "longFmt": "245,505,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 7293540000,
+                  "fmt": "7.29B",
+                  "longFmt": "7,293,540,000"
+                },
+                "earnings": {
+                  "raw": 155704000,
+                  "fmt": "155.7M",
+                  "longFmt": "155,704,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 7928373000,
+                  "fmt": "7.93B",
+                  "longFmt": "7,928,373,000"
+                },
+                "earnings": {
+                  "raw": 330290000,
+                  "fmt": "330.29M",
+                  "longFmt": "330,290,000"
+                }
+              }
+            ],
+            "quarterly": []
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Raheja Towers",
+          "address2": "Delta Wing - Unit 705 177, Anna Salai",
+          "city": "Chennai",
+          "zip": "600002",
+          "country": "India",
+          "phone": "91 44 4220 8100",
+          "fax": "91 44 2860 4788",
+          "website": "http://www.ucalfuel.com",
+          "industry": "Auto Parts",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Ucal Fuel Systems Limited provides fuel management systems for the automotive sector in India. The company offers multi point fuel injection parts, including throttle body assemblies, fuel rail assemblies, high pressure fuel filters, pressure regulators, and pulsation dampers; carburetors; and emission control products, such as positive crankcase ventilation valves and intake manifolds for four wheelers. It also provides carburetors; emission control products comprising secondary air valves; and EMS system products that include throttle bodies, fuel pumps, air compressors, and fuel rail assemblies for two/three wheelers. In addition, the company offers carburetors and electronic solenoid fuel pumps for gensets; oil, vacuum, and water pump assemblies, as well as fuel pumps; high pressure die casting products, such as air intake and steering systems, turbochargers, and other products; and precision machined products, including shaft second clutches, housing spring and body injectors, and transmission and rocker arm shafts. Ucal Fuel Systems Limited was founded in 1985 and is headquartered in Chennai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 211.75,
+            "fmt": "211.75"
+          },
+          "targetHighPrice": {
+            "raw": 110.0,
+            "fmt": "110.00"
+          },
+          "targetLowPrice": {
+            "raw": 110.0,
+            "fmt": "110.00"
+          },
+          "targetMeanPrice": {
+            "raw": 110.0,
+            "fmt": "110.00"
+          },
+          "targetMedianPrice": {
+            "raw": 110.0,
+            "fmt": "110.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 1073198016,
+            "fmt": "1.07B",
+            "longFmt": "1,073,198,016"
+          },
+          "totalDebt": {},
+          "quickRatio": {
+            "raw": 0.383,
+            "fmt": "0.38"
+          },
+          "currentRatio": {
+            "raw": 0.736,
+            "fmt": "0.74"
+          },
+          "totalRevenue": {
+            "raw": 7928373248,
+            "fmt": "7.93B",
+            "longFmt": "7,928,373,248"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 358.529,
+            "fmt": "358.53"
+          },
+          "returnOnAssets": {
+            "raw": 0.09536,
+            "fmt": "9.54%"
+          },
+          "returnOnEquity": {
+            "raw": 0.75317,
+            "fmt": "75.32%"
+          },
+          "grossProfits": {
+            "raw": 4560034000,
+            "fmt": "4.56B",
+            "longFmt": "4,560,034,000"
+          },
+          "freeCashflow": {
+            "raw": 444762624,
+            "fmt": "444.76M",
+            "longFmt": "444,762,624"
+          },
+          "operatingCashflow": {
+            "raw": 905384000,
+            "fmt": "905.38M",
+            "longFmt": "905,384,000"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.57515,
+            "fmt": "57.52%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.13536,
+            "fmt": "13.54%"
+          },
+          "operatingMargins": {
+            "raw": 0.094639994,
+            "fmt": "9.46%"
+          },
+          "profitMargins": {
+            "raw": 0.04166,
+            "fmt": "4.17%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

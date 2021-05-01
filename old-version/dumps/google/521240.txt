@@ -1,0 +1,280 @@
+
+// [
+{
+"symbol" : "521240",
+"exchange" : "BOM",
+"id": "15000132",
+"t" : "521240",
+"e" : "BOM",
+"name" : "Sambandam Spinning Mills Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SAMB.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:521240"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:521240"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:521240"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.26%",
+"annual" : "4.23%",
+"ttm" : "0.20%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.31%",
+"annual" : "11.27%",
+"ttm" : "5.90%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.33%",
+"ttm" : "11.10%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.91%",
+"ttm" : "0.18%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.96%",
+"ttm" : "0.42%"
+}
+]
+, "c" : "+6.75",
+"l" : "146.85",
+"cp" : "4.82",
+"ccol" : "chg",
+"op" : "147.00",
+"hi" : "151.95",
+"lo" : "146.85",
+"vo" : "12.00",
+"avvo" : "",
+"hi52" : "185.00",
+"lo52" : "90.30",
+"mc" : "626.26M",
+"pe" : "190.81",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.77",
+"dy" : "2.72",
+"ldiv" : "4.00",
+"shares" : "4.26M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15000132",
+"name" : "Sambandam Spinning Mills Ltd",
+"t" : "521240",
+"e" : "BOM",
+"l" : "146.85",
+"c" : "+6.75",
+"mc" : "626.26M",
+"cp" : "4.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1277381",
+"name" : "Kandagiri Spinning Mills Ltd",
+"t" : "KANDAGIRI",
+"e" : "NSE",
+"l" : "70.20",
+"c" : "",
+"mc" : "270.22M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8566171",
+"name" : "Super Sales India Ltd",
+"t" : "512527",
+"e" : "BOM",
+"l" : "690.00",
+"c" : "+12.85",
+"mc" : "2.16B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715572",
+"name" : "Rajapalayam Mills Ltd.",
+"t" : "532503",
+"e" : "BOM",
+"l" : "1,170.00",
+"c" : "+34.95",
+"mc" : "8.62B",
+"cp" : "3.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2805411",
+"name" : "Lambodhara Textiles Ltd",
+"t" : "590075",
+"e" : "BOM",
+"l" : "79.65",
+"c" : "+1.75",
+"mc" : "732.83M",
+"cp" : "2.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3715942",
+"name" : "Winsome Yarns Ltd",
+"t" : "WINSOME",
+"e" : "NSE",
+"l" : "2.15",
+"c" : "+0.05",
+"mc" : "148.49M",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5004145",
+"name" : "Kallam Spinning Mills Ltd",
+"t" : "530201",
+"e" : "BOM",
+"l" : "31.50",
+"c" : "+0.75",
+"mc" : "1.35B",
+"cp" : "2.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16002092",
+"name" : "Hind Syntex Ltd",
+"t" : "HINDSYNTEX",
+"e" : "NSE",
+"l" : "9.40",
+"c" : "+0.35",
+"mc" : "111.54M",
+"cp" : "3.87",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14211316",
+"name" : "P B M Polytex Ltd",
+"t" : "514087",
+"e" : "BOM",
+"l" : "90.65",
+"c" : "+0.35",
+"mc" : "746.07M",
+"cp" : "0.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2708926",
+"name" : "Vippy Spin Pro Ltd",
+"t" : "514302",
+"e" : "BOM",
+"l" : "49.50",
+"c" : "+0.75",
+"mc" : "290.56M",
+"cp" : "1.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4923800",
+"name" : "Jindal Cotex Limited",
+"t" : "JINDCOT",
+"e" : "NSE",
+"l" : "7.50",
+"c" : "+0.20",
+"mc" : "337.52M",
+"cp" : "2.74",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "P.B.No:1, Kamaraj Nagar Colony, SALEM, 636014, India",
+"phone": "+91-427-2240790",
+"fax": "+91-427-2240169",
+"url": "http:\u002F\u002Fwww.sambandam.com\u002F",
+"overview" : "Sambandam Spinning Mills Limited is engaged in the manufacture and sale of Cotton Yarn. The Company\u0027s products include 100% Cotton Autoconed\u002Fsiro cleared\u003B Single\u002Fmulti Ply Yarn\u003B Carded\u002FCombed Weaving \u0026 Knitting Yarns\u003B Ring Doubled wet spliced\u002FTFO Yarns, and Value Added Products, such as Gassed Yarn\u002FCompact Yarn\u002FSlub Yarn. The Company has approximately five mills with over 110,000 spindlage capacity. Its spinning mills include Unit-I located at Kamaraj Nagar Colony, Salem 636 014.Tamil Nadu\u003B Unit- II located at Ayeepalayam, Athanur 636 301, Namakkal District.Tamil Nadu, and Unit-III located at Kavarakalpatty, Seshanchavadi Post, Salem 636 111.Tamil Nadu. Its Wind energy converters are located in Tamil Nadu. The Company has over 12 million kilos of 100% Cotton yarn production per annum."
+} ]
+, "management" : [
+{
+"name" : "S. Devarajan",
+"age" : "62",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "S. Dinakaran",
+"age" : "56",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "S. Jegarajan",
+"age" : "60",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "S. Natarajan",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Annamalai R. Natarajan",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "D. Sudharsan",
+"age" : "36",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "S. Gnanasekharan",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "D. Balasundaram",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

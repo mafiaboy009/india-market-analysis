@@ -1,0 +1,280 @@
+
+ [
+{
+"symbol" : "531337",
+"exchange" : "BOM",
+"id": "8825370",
+"t" : "531337",
+"e" : "BOM",
+"name" : "Iris Mediaworks Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=IRML.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531337"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531337"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531337"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.11%",
+"annual" : "0.13%",
+"ttm" : "0.08%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.11%",
+"annual" : "0.13%",
+"ttm" : "0.08%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.37%",
+"ttm" : "0.16%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.08%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.09%",
+"ttm" : ""
+}
+]
+, "c" : "-0.20",
+"l" : "23.80",
+"cp" : "-0.83",
+"ccol" : "chr",
+"op" : "24.40",
+"hi" : "24.40",
+"lo" : "23.55",
+"vo" : "65,400.00",
+"avvo" : "",
+"hi52" : "24.65",
+"lo52" : "16.55",
+"mc" : "2.38B",
+"pe" : "6,102.56",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.00",
+"dy" : "",
+"ldiv" : "",
+"shares" : "99.96M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "8825370",
+"name" : "Iris Mediaworks Ltd",
+"t" : "531337",
+"e" : "BOM",
+"l" : "23.80",
+"c" : "-0.20",
+"mc" : "2.38B",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "703810",
+"name" : "Reliance Mediaworks Ltd",
+"t" : "532399",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5721419",
+"name" : "Radaan Mediaworks India Ltd",
+"t" : "RADAAN",
+"e" : "NSE",
+"l" : "2.30",
+"c" : "-0.10",
+"mc" : "124.57M",
+"cp" : "-4.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "677240",
+"name" : "Pentamedia Graphics Limited",
+"t" : "500329",
+"e" : "BOM",
+"l" : "0.60",
+"c" : "0.00",
+"mc" : "249.02M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15858087",
+"name" : "Balaji Telefilms Limited (Parent)",
+"t" : "BALAJITELE",
+"e" : "NSE",
+"l" : "143.40",
+"c" : "+2.50",
+"mc" : "14.45B",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13544221",
+"name" : "High Ground Enterprise Ltd",
+"t" : "517080",
+"e" : "BOM",
+"l" : "11.59",
+"c" : "-0.11",
+"mc" : "1.34B",
+"cp" : "-0.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6047652",
+"name" : "Sowbhagya Media Ltd",
+"t" : "532025",
+"e" : "BOM",
+"l" : "2.63",
+"c" : "-0.05",
+"mc" : "28.75M",
+"cp" : "-1.87",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10877835",
+"name" : "Shalimar Productions Ltd",
+"t" : "512499",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "482.32M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14466349",
+"name" : "Pritish Nandy Communications Ltd",
+"t" : "PNC",
+"e" : "NSE",
+"l" : "20.00",
+"c" : "+0.95",
+"mc" : "290.10M",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "215975242761866",
+"name" : "Spicy Entertainment and Media Ltd",
+"t" : "540084",
+"e" : "BOM",
+"l" : "10.50",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1113039664303470",
+"name" : "Silly Monks Entertainment Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Unit no. 32\u002FF, Laxmi Vijay Industries Laxmi Industrial Estate,Link Road Co-op Society Ltd,Andheri (West), MUMBAI, 400062, India",
+"phone": "+91-22-26320011",
+"fax": "+91-22-26320011",
+"url": "http:\u002F\u002Firismediaworks.net\u002F",
+"overview" : "Iris Mediaworks Limited is an India-based integrated media and entertainment company engaged primarily in broadcasting and content development, and its delivery through satellite. The Company is engaged in the resale of information technology (IT) products. The Company is a media technology platform provider that offers IT and software solutions to its clients."
+} ]
+, "management" : [
+{
+"name" : "Omkar Rajeev Gadre",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Yogendra Bagree",
+"title" : "Compliance Officer, Managing Director, Additional Executive Director"
+}
+,
+{
+"name" : "Mitesh J. Jaani",
+"title" : "Additional Executive Director"
+}
+,
+{
+"name" : "Pooja Jain",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Allall Rebetlo",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Neha Gupta",
+"title" : "Director"
+}
+,
+{
+"name" : "Mayant Kotadia",
+"age" : "43",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Bimal Kamdar",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Atul Kumar",
+"age" : "40",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

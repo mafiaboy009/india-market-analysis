@@ -1,0 +1,286 @@
+
+ [
+{
+"symbol" : "532935",
+"exchange" : "BOM",
+"id": "715620",
+"t" : "532935",
+"e" : "BOM",
+"name" : "Aries Agro Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532935"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532935"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532935"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.34%",
+"annual" : "2.05%",
+"ttm" : "3.06%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "15.23%",
+"annual" : "13.39%",
+"ttm" : "13.98%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.91%",
+"ttm" : "14.87%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.21%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.07%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "753",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+10.50",
+"l" : "221.20",
+"cp" : "4.98",
+"ccol" : "chg",
+"op" : "209.00",
+"hi" : "221.20",
+"lo" : "209.00",
+"vo" : "6,049.00",
+"avvo" : "",
+"hi52" : "290.15",
+"lo52" : "128.55",
+"mc" : "2.89B",
+"pe" : "24.97",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.86",
+"dy" : "0.90",
+"ldiv" : "2.00",
+"shares" : "13.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715620",
+"name" : "Aries Agro Ltd",
+"t" : "532935",
+"e" : "BOM",
+"l" : "221.20",
+"c" : "+10.50",
+"mc" : "2.89B",
+"cp" : "4.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3822488",
+"name" : "Southern Petrochemical Industries Corp",
+"t" : "SPIC",
+"e" : "NSE",
+"l" : "38.35",
+"c" : "+0.25",
+"mc" : "7.80B",
+"cp" : "0.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5808074",
+"name" : "Gujarat State Fertilizers\u0026Chemicals Ltd",
+"t" : "GSFC",
+"e" : "NSE",
+"l" : "131.25",
+"c" : "+3.05",
+"mc" : "52.28B",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14596605",
+"name" : "Zuari Global Ltd",
+"t" : "ZUARIGLOB",
+"e" : "NSE",
+"l" : "195.00",
+"c" : "+4.85",
+"mc" : "5.75B",
+"cp" : "2.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15660854",
+"name" : "Mangalore Chemicals \u0026 Fertilizers Ltd.",
+"t" : "MANGCHEFER",
+"e" : "NSE",
+"l" : "67.75",
+"c" : "-0.40",
+"mc" : "8.07B",
+"cp" : "-0.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8063379",
+"name" : "Nagarjuna Fertilizers and Chemicals Ltd",
+"t" : "NAGARFERT",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4659804",
+"name" : "Fertilisers \u0026 Chemicals Travancore Ltd",
+"t" : "FACT",
+"e" : "NSE",
+"l" : "47.25",
+"c" : "+0.95",
+"mc" : "30.48B",
+"cp" : "2.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7203464",
+"name" : "Basant Agro Tech India Ltd",
+"t" : "524687",
+"e" : "BOM",
+"l" : "7.35",
+"c" : "-0.01",
+"mc" : "671.59M",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1972906",
+"name" : "Gujarat Narmada Valley Fertlzrs\u0026Chms Ltd",
+"t" : "GNFC",
+"e" : "NSE",
+"l" : "447.20",
+"c" : "-2.80",
+"mc" : "69.57B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12667846",
+"name" : "National Fertilizers Limited",
+"t" : "NFL",
+"e" : "NSE",
+"l" : "62.15",
+"c" : "+0.90",
+"mc" : "30.49B",
+"cp" : "1.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13859287",
+"name" : "Madras Fertilizers Ltd",
+"t" : "MADRASFERT",
+"e" : "NSE",
+"l" : "32.45",
+"c" : "0.00",
+"mc" : "5.16B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Plot No 24 Aries House, Deonar, Govandi (East), MUMBAI, 400043, India",
+"phone": "+91-22-25564052",
+"fax": "+91-22-25564054",
+"url": "http:\u002F\u002Fwww.ariesagro.com\u002F",
+"overview" : "Aries Agro Limited is engaged in the business of manufacturing micronutrients and other nutritional products for plants and animals. The Company\u0027s principal products\u002Fservices include micro nutrient fertilizer-manufactured and micro nutrient fertilizer-traded. The Company operates through Agro Inputs segment. Its products include chelated micronutrient fertilizers, farm equipment, multi-micronutrient fertilizers, other agriculture products, other nutritional products, plant nutrition, plant protection and veterinary products. It offers a range of products in the primary, secondary and micro-fertilizer sector, ranging from individual elements to mixed specialty plant nutrient fertilizers. Its product line also includes secondary nutrients, including sulfur, magnesium and calcium. The Company\u0027s plant nutrition product line includes value-added, water-soluble complexes of nitrogen (N), phosphorous (P) and potassium (K)."
+} ]
+, "management" : [
+{
+"name" : "Rahul Mirchandani",
+"age" : "41",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "S. Ramamurthy",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Qaiser Parvez Ansari",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Jimmy Mirchandani",
+"age" : "61",
+"title" : "Director"
+}
+,
+{
+"name" : "Nitya Mirchandani",
+"title" : "Director"
+}
+,
+{
+"name" : "B. V. Dholakia",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Chakradhar Bharat Chhaya",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "R. S. S. Mani",
+"age" : "53",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

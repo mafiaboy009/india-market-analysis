@@ -1,0 +1,295 @@
+
+// [
+{
+"symbol" : "534309",
+"exchange" : "BOM",
+"id": "1099040275772110",
+"t" : "534309",
+"e" : "BOM",
+"name" : "NBCC (India) Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:534309"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:534309"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:534309"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.89%",
+"annual" : "4.38%",
+"ttm" : "4.66%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.88%",
+"annual" : "4.48%",
+"ttm" : "4.62%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.46%",
+"ttm" : "5.57%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.82%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "21.93%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,994",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.25",
+"l" : "201.50",
+"cp" : "-0.12",
+"ccol" : "chr",
+"op" : "203.25",
+"hi" : "204.00",
+"lo" : "199.50",
+"vo" : "172,090.00",
+"avvo" : "",
+"hi52" : "291.75",
+"lo52" : "161.10",
+"mc" : "181.17B",
+"pe" : "47.37",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.25",
+"dy" : "0.81",
+"ldiv" : "1.10",
+"shares" : "900.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1099040275772110",
+"name" : "NBCC (India) Ltd",
+"t" : "534309",
+"e" : "BOM",
+"l" : "201.50",
+"c" : "-0.25",
+"mc" : "181.17B",
+"cp" : "-0.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15009671",
+"name" : "Continental Construction Ltd",
+"t" : "507956",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-20.75",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "217743789286726",
+"name" : "Raunaq EPC International Ltd",
+"t" : "537840",
+"e" : "BOM",
+"l" : "146.00",
+"c" : "+1.60",
+"mc" : "486.43M",
+"cp" : "1.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10664031",
+"name" : "IVRCL Ltd",
+"t" : "IVRCLINFRA",
+"e" : "NSE",
+"l" : "4.50",
+"c" : "-0.05",
+"mc" : "3.48B",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "561072630042219",
+"name" : "Jaihind Projects Limited",
+"t" : "JAIHINDPRO",
+"e" : "NSE",
+"l" : "5.35",
+"c" : "0.00",
+"mc" : "52.20M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2134116",
+"name" : "SPML Infra Ltd",
+"t" : "SPMLINFRA",
+"e" : "NSE",
+"l" : "114.05",
+"c" : "-4.80",
+"mc" : "4.21B",
+"cp" : "-4.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15829063",
+"name" : "Indian Hume Pipe Company Ltd",
+"t" : "INDIANHUME",
+"e" : "NSE",
+"l" : "380.00",
+"c" : "-0.20",
+"mc" : "18.32B",
+"cp" : "-0.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5131410",
+"name" : "C \u0026 C Constructions Limited",
+"t" : "CANDC",
+"e" : "NSE",
+"l" : "66.60",
+"c" : "+0.35",
+"mc" : "1.68B",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9747293",
+"name" : "Mukand Engineers Limited",
+"t" : "MUKANDENGG",
+"e" : "NSE",
+"l" : "42.75",
+"c" : "+0.90",
+"mc" : "538.11M",
+"cp" : "2.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "730951",
+"name" : "BS Ltd",
+"t" : "BSLIMITED",
+"e" : "NSE",
+"l" : "1.30",
+"c" : "+0.05",
+"mc" : "552.10M",
+"cp" : "4.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15284677",
+"name" : "Kalpataru Power Transmission Limited",
+"t" : "KALPATPOWR",
+"e" : "NSE",
+"l" : "483.00",
+"c" : "+22.35",
+"mc" : "73.82B",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "NBCC Bhawan, Lodhi Road, NEW DELHI, 110003, India",
+"phone": "+91-11-24367314",
+"fax": "+91-11-24366995",
+"url": "http:\u002F\u002Fwww.nbccindia.com\u002Fnbccindia\u002Findex.jsp",
+"overview" : "NBCC (India) Limited, formerly National Buildings Construction Corporation Ltd., provides civil engineering construction services. The Company operates through three segments: Project Management Consultancy (PMC), Real Estate Development, and Engineering, Procurement and Construction (EPC). The PMC segment offers management and consultancy services for civil construction projects, including residential and commercial complexes, re-development of government colonies, education and medical institutions, infrastructure project roads, water supply systems, storm water systems and water storage solutions. The Real Estate Development segment focuses on residential and commercial projects, such as corporate office buildings and commercial complexes. The EPC Contracting segment covers chimneys, cooling towers, roads, border fencing, water and sewage treatment plants, and solid waste management systems. The Company provides services from concept to commissioning."
+} ]
+, "management" : [
+{
+"name" : "Anoop Kumar Mittal",
+"title" : "Functional Chairman-cum Managing Director"
+}
+,
+{
+"name" : "Deepti Gambhir",
+"title" : "Chief Compliance Officer, Secretary, IR Contact Officer"
+}
+,
+{
+"name" : "Rakesh Kumar Arora",
+"age" : "58",
+"title" : "Director (Finance), Housing and Urban Development Corporation Limited"
+}
+,
+{
+"name" : "Rajendra Chaudhari",
+"age" : "50",
+"title" : "Director - Commercial, Functional Director"
+}
+,
+{
+"name" : "S. K. Chaudhary",
+"age" : "54",
+"title" : "Director - Projects, Functional Director"
+}
+,
+{
+"name" : "Neelesh Kumar Shah",
+"title" : "Director (Projects)"
+}
+,
+{
+"name" : "Manoj Kumar",
+"title" : "Government Nominee Director"
+}
+,
+{
+"name" : "Jhanja Tripathy",
+"title" : "Part-time official Director - Nominee of MoUD"
+}
+,
+{
+"name" : "Ashok Khurana",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Tajuddin Moulali Mhaisale",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

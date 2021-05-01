@@ -1,0 +1,292 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 1715139968,
+            "fmt": "1.72B",
+            "longFmt": "1,715,139,968"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.6515,
+            "fmt": "-65.15%"
+          },
+          "floatShares": {
+            "raw": 310879263,
+            "fmt": "310.88M",
+            "longFmt": "310,879,263"
+          },
+          "sharesOutstanding": {
+            "raw": 368847008,
+            "fmt": "368.85M",
+            "longFmt": "368,847,008"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.573989,
+            "fmt": "0.57"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -10.832,
+            "fmt": "-10.83"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {},
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -10385500160,
+            "fmt": "-10.39B",
+            "longFmt": "-10,385,500,160"
+          },
+          "trailingEps": {
+            "raw": -29.519,
+            "fmt": "-29.52"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "5/1",
+          "lastSplitDate": {
+            "raw": 1110844800,
+            "fmt": "2005-03-15"
+          },
+          "enterpriseToRevenue": {
+            "raw": 0.103,
+            "fmt": "0.10"
+          },
+          "enterpriseToEbitda": {
+            "raw": 0.702,
+            "fmt": "0.70"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2013,
+                "revenue": {
+                  "raw": 64516250538,
+                  "fmt": "64.52B",
+                  "longFmt": "64,516,250,538"
+                },
+                "earnings": {
+                  "raw": -10158130794,
+                  "fmt": "-10.16B",
+                  "longFmt": "-10,158,130,794"
+                }
+              },
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 12084930312,
+                  "fmt": "12.08B",
+                  "longFmt": "12,084,930,312"
+                },
+                "earnings": {
+                  "raw": -9718397570,
+                  "fmt": "-9.72B",
+                  "longFmt": "-9,718,397,570"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 16483474908,
+                  "fmt": "16.48B",
+                  "longFmt": "16,483,474,908"
+                },
+                "earnings": {
+                  "raw": -3350068342,
+                  "fmt": "-3.35B",
+                  "longFmt": "-3,350,068,342"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 16676200000,
+                  "fmt": "16.68B",
+                  "longFmt": "16,676,200,000"
+                },
+                "earnings": {
+                  "raw": -10864500000,
+                  "fmt": "-10.86B",
+                  "longFmt": "-10,864,500,000"
+                }
+              }
+            ],
+            "quarterly": []
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Gammon House",
+          "address2": "Veer Savarkar Marg Prabhadevi",
+          "city": "Mumbai",
+          "zip": "400025",
+          "country": "India",
+          "phone": "91 22 6115 3000",
+          "fax": "91 22 2430 0221",
+          "website": "http://www.gammonindia.com",
+          "industry": "General Contractors",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Gammon India Limited operates as an infrastructure construction company worldwide. The company operates through three segments: Construction and Engineering, Oil exploration, and Realty Development. It engages in the design, engineering, and building of transportation projects, including bridges, highways, flyovers, roadways, and railways; and power projects, such as nuclear, hydroelectric, and thermal power projects, as well as executing high voltage transmission lines and constructing cooling towers and chimneys. The company also constructs engineering, procurement, and construction projects in power transmission and distribution sectors; pipeline projects; marine structures consisting of sea ports, jetties, wharves, bridges, and intake works; industrial, public utility, and residential and commercial structures; and canals and lift irrigation projects. In addition, it undertakes projects in ground engineering and water supply. Gammon India Limited was founded in 1922 and is headquartered in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1.41,
+            "fmt": "1.41"
+          },
+          "targetHighPrice": {
+            "raw": 11.0,
+            "fmt": "11.00"
+          },
+          "targetLowPrice": {
+            "raw": 11.0,
+            "fmt": "11.00"
+          },
+          "targetMeanPrice": {
+            "raw": 11.0,
+            "fmt": "11.00"
+          },
+          "targetMedianPrice": {
+            "raw": 11.0,
+            "fmt": "11.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 2444900096,
+            "fmt": "2.44B",
+            "longFmt": "2,444,900,096"
+          },
+          "totalDebt": {},
+          "quickRatio": {
+            "raw": 0.175,
+            "fmt": "0.17"
+          },
+          "currentRatio": {
+            "raw": 0.754,
+            "fmt": "0.75"
+          },
+          "totalRevenue": {
+            "raw": 16676200448,
+            "fmt": "16.68B",
+            "longFmt": "16,676,200,448"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 45.31,
+            "fmt": "45.31"
+          },
+          "returnOnAssets": {
+            "raw": 0.00727,
+            "fmt": "0.73%"
+          },
+          "returnOnEquity": {
+            "raw": -5.92023,
+            "fmt": "-592.02%"
+          },
+          "grossProfits": {
+            "raw": 8231800000,
+            "fmt": "8.23B",
+            "longFmt": "8,231,800,000"
+          },
+          "freeCashflow": {
+            "raw": -1243562496,
+            "fmt": "-1.24B",
+            "longFmt": "-1,243,562,496"
+          },
+          "operatingCashflow": {
+            "raw": 1691399936,
+            "fmt": "1.69B",
+            "longFmt": "1,691,399,936"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.49091998,
+            "fmt": "49.09%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.14661,
+            "fmt": "14.66%"
+          },
+          "operatingMargins": {
+            "raw": 0.09238,
+            "fmt": "9.24%"
+          },
+          "profitMargins": {
+            "raw": -0.6515,
+            "fmt": "-65.15%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

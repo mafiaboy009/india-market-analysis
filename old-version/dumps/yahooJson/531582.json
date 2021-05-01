@@ -1,0 +1,205 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 16114277,
+            "fmt": "16.11M",
+            "longFmt": "16,114,277"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.20391001,
+            "fmt": "20.39%"
+          },
+          "floatShares": {
+            "raw": 2330348,
+            "fmt": "2.33M",
+            "longFmt": "2,330,348"
+          },
+          "sharesOutstanding": {
+            "raw": 4849700,
+            "fmt": "4.85M",
+            "longFmt": "4,849,700"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.613334,
+            "fmt": "-0.61"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 16.564,
+            "fmt": "16.56"
+          },
+          "priceToBook": {
+            "raw": 0.22216858,
+            "fmt": "0.22"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 2.044,
+            "fmt": "204.40%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -34880,
+            "fmt": "-34.88k",
+            "longFmt": "-34,880"
+          },
+          "trailingEps": {
+            "raw": -0.006,
+            "fmt": "-0.01"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 2.583,
+            "fmt": "2.58"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "133, Kanchan Bagh",
+          "address2": "Ground Floor",
+          "city": "Indore",
+          "zip": "452001",
+          "country": "India",
+          "phone": "91 73 1396 1510",
+          "fax": "91 73 1396 1510",
+          "website": "http://www.berylsecurities.in",
+          "industry": "Investment Brokerage - National",
+          "sector": "Financial",
+          "longBusinessSummary": "Beryl Securities Limited, a finance and investment company, engages in stock broking activities in India. It operates in the capital market, future and options, wholesale, debt market, and currency derivative segments. The company was incorporated in 1994 and is based in Indore, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 3.68,
+            "fmt": "3.68"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 170000,
+            "fmt": "170k",
+            "longFmt": "170,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.035,
+            "fmt": "0.04"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 6238866,
+            "fmt": "6.24M",
+            "longFmt": "6,238,866"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 1.147,
+            "fmt": "1.15"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 5977866,
+            "fmt": "5.98M",
+            "longFmt": "5,977,866"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 1.722,
+            "fmt": "172.20%"
+          },
+          "revenueGrowth": {
+            "raw": -0.032,
+            "fmt": "-3.20%"
+          },
+          "grossMargins": {
+            "raw": 1.0,
+            "fmt": "100.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.48369998,
+            "fmt": "48.37%"
+          },
+          "profitMargins": {
+            "raw": 0.20391001,
+            "fmt": "20.39%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

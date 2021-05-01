@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "532906",
+"exchange" : "BOM",
+"id": "720130",
+"t" : "532906",
+"e" : "BOM",
+"name" : "Maan Aluminium Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532906"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532906"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532906"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.79%",
+"annual" : "0.92%",
+"ttm" : "1.67%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.77%",
+"annual" : "1.83%",
+"ttm" : "2.95%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "2.29%",
+"ttm" : "3.37%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.28%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.33%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "207",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.20",
+"l" : "138.90",
+"cp" : "-0.14",
+"ccol" : "chr",
+"op" : "139.30",
+"hi" : "140.65",
+"lo" : "137.00",
+"vo" : "3,660.00",
+"avvo" : "",
+"hi52" : "183.65",
+"lo52" : "58.68",
+"mc" : "915.16M",
+"pe" : "13.80",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.07",
+"dy" : "1.08",
+"ldiv" : "1.00",
+"shares" : "6.76M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "720130",
+"name" : "Maan Aluminium Ltd",
+"t" : "532906",
+"e" : "BOM",
+"l" : "138.90",
+"c" : "-0.20",
+"mc" : "915.16M",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8590267",
+"name" : "Century Extrusions Limited",
+"t" : "CENTEXT",
+"e" : "NSE",
+"l" : "5.80",
+"c" : "-0.10",
+"mc" : "467.87M",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "314225924806773",
+"name" : "Tentiwala Metal Products Ltd",
+"t" : "537119",
+"e" : "BOM",
+"l" : "3.30",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8692024",
+"name" : "Golkonda Aluminium Extrusions Ltd",
+"t" : "513309",
+"e" : "BOM",
+"l" : "3.03",
+"c" : "0.00",
+"mc" : "37.56M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715296",
+"name" : "Globus Corporation Limited",
+"t" : "531904",
+"e" : "BOM",
+"l" : "0.14",
+"c" : "0.00",
+"mc" : "11.47M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13572853",
+"name" : "Sturdy Industries Ltd",
+"t" : "530611",
+"e" : "BOM",
+"l" : "0.83",
+"c" : "0.00",
+"mc" : "125.54M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "218122996088119",
+"name" : "Ultracab (India) Pvt Ltd",
+"t" : "538706",
+"e" : "BOM",
+"l" : "93.50",
+"c" : "-7.00",
+"mc" : "1.18B",
+"cp" : "-6.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "677394",
+"name" : "National Aluminium Company Limited",
+"t" : "NATIONALUM",
+"e" : "NSE",
+"l" : "77.90",
+"c" : "+0.95",
+"mc" : "149.82B",
+"cp" : "1.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2232895",
+"name" : "Hind Aluminium Industries Ltd.",
+"t" : "531979",
+"e" : "BOM",
+"l" : "112.00",
+"c" : "+2.40",
+"mc" : "701.60M",
+"cp" : "2.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6153279",
+"name" : "Hindalco Industries Ltd",
+"t" : "HINDALCO",
+"e" : "NSE",
+"l" : "242.15",
+"c" : "+0.85",
+"mc" : "544.44B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1694733",
+"name" : "Vedanta Ltd",
+"t" : "VEDL",
+"e" : "NSE",
+"l" : "286.90",
+"c" : "+7.20",
+"mc" : "1.07T",
+"cp" : "2.57",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "4\u002F5 1st Floor, Asaf Ali Road, NEW DELHI, 110002, India",
+"phone": "+91-11-40081800",
+"fax": "+91-11-23260320",
+"url": "http:\u002F\u002Fwww.maanaluminium.in\u002F",
+"overview" : "Maan Aluminium Limited is an India-based company, which is engaged in the business of manufacturing of aluminum profiles and other related activities. The Company\u0027s principal activity is engaged in the manufacturing of basic precious and other non-ferrous metals. The Company\u0027s products are offered in milled finish, silver matte finish and anodized finish in various shades between light bronze to black. The Company supplies its products in both heat treatable and non-heat treatable alloys, such as 1100, 6063, 6061, 6101, 6351 and 6082. The Company\u0027s products also include over 10,000 shapes and tools, among others. The Company has a manufacturing facility located at Pithampur Industrial Area, Pithampur, Dhar District, Madhya Pradesh."
+} ]
+, "management" : [
+{
+"name" : "Ravinder Nath Jain",
+"age" : "54",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sandeep Verma",
+"title" : "Chief Executive Officer, Additional Director"
+}
+,
+{
+"name" : "Sandeep Kumar Agarwal",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Priti Jain",
+"title" : "Executive Director of Marketing"
+}
+,
+{
+"name" : "Mohinder Jain",
+"age" : "51",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Ashish Jain",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Suresh Chander Malik",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Parveen Kumar Adlakha",
+"age" : "60",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Amit Jain",
+"age" : "28",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ashok Kumar Jain",
+"age" : "60",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

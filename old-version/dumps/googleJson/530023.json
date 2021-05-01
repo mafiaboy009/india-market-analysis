@@ -1,0 +1,284 @@
+
+ [
+{
+"symbol" : "530023",
+"exchange" : "BOM",
+"id": "724702",
+"t" : "530023",
+"e" : "BOM",
+"name" : "Fortune Financial Services (India) Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=FRTN.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530023"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530023"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530023"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "15.15%",
+"annual" : "12.53%",
+"ttm" : "15.22%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "30.78%",
+"annual" : "25.22%",
+"ttm" : "32.26%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "29.43%",
+"ttm" : "33.72%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.76%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.92%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "24",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.90",
+"l" : "249.00",
+"cp" : "0.77",
+"ccol" : "chg",
+"op" : "246.00",
+"hi" : "249.00",
+"lo" : "246.00",
+"vo" : "205.00",
+"avvo" : "",
+"hi52" : "394.00",
+"lo52" : "215.60",
+"mc" : "12.68B",
+"pe" : "28.50",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.74",
+"dy" : "",
+"ldiv" : "",
+"shares" : "51.02M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "724702",
+"name" : "Fortune Financial Services (India) Ltd",
+"t" : "530023",
+"e" : "BOM",
+"l" : "249.00",
+"c" : "+1.90",
+"mc" : "12.68B",
+"cp" : "0.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1344533",
+"name" : "Wallfort Financial Services Ltd",
+"t" : "532053",
+"e" : "BOM",
+"l" : "124.00",
+"c" : "+0.50",
+"mc" : "1.20B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15446887",
+"name" : "Arihant Capital Markets Ltd",
+"t" : "511605",
+"e" : "BOM",
+"l" : "134.00",
+"c" : "-5.35",
+"mc" : "2.78B",
+"cp" : "-3.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5242351",
+"name" : "Motilal Oswal Financial Services Limited",
+"t" : "MOTILALOFS",
+"e" : "NSE",
+"l" : "1,157.00",
+"c" : "-25.05",
+"mc" : "168.45B",
+"cp" : "-2.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "299958836652076",
+"name" : "DB International Stock Brokers Ltd",
+"t" : "DBSTOCKBRO",
+"e" : "NSE",
+"l" : "10.20",
+"c" : "0.00",
+"mc" : "357.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "873771",
+"name" : "Action Financial Services India Ltd",
+"t" : "511706",
+"e" : "BOM",
+"l" : "9.15",
+"c" : "0.00",
+"mc" : "114.42M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1002384",
+"name" : "R R Financial Consultants Ltd",
+"t" : "511626",
+"e" : "BOM",
+"l" : "16.27",
+"c" : "0.00",
+"mc" : "179.96M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5317586",
+"name" : "Master Trust Ltd",
+"t" : "511768",
+"e" : "BOM",
+"l" : "98.00",
+"c" : "-0.95",
+"mc" : "1.07B",
+"cp" : "-0.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1317364",
+"name" : "Indo Thai Securities Ltd",
+"t" : "INDOTHAI",
+"e" : "NSE",
+"l" : "82.25",
+"c" : "+0.70",
+"mc" : "817.99M",
+"cp" : "0.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13460263",
+"name" : "Emkay Global Financial Services Ltd",
+"t" : "EMKAY",
+"e" : "NSE",
+"l" : "196.80",
+"c" : "-7.00",
+"mc" : "4.84B",
+"cp" : "-3.43",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3611871",
+"name" : "Indiabulls Ventures Ltd",
+"t" : "IBVENTURES",
+"e" : "NSE",
+"l" : "262.40",
+"c" : "-4.90",
+"mc" : "137.80B",
+"cp" : "-1.83",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "2nd Floor K K Chambers, Sir P T Marg, Fort, MUMBAI, 400013, India",
+"phone": "+91-22-40273600",
+"fax": "+91-22-40273700",
+"url": "http:\u002F\u002Fwww.fortune.co.in\u002F",
+"overview" : "Fortune Financial Services (India) Limited is a holding company. The Company is engaged in the business of financial advisory and consultancy services. The Company is also engaged in holding investment in subsidiaries. The Company\u0027s service portfolio consists of investment banking and corporate finance activities on the capital market side, as well as advisory services, broking services in the cash and future and options segments, currency derivatives, commodities, along with offering depository services, loan, portfolio management services, and other wealth and distribution related products. It provides a range of financial services right from equities and derivatives trading, equity research, commodities trading, portfolio management services, distribution of mutual funds, initial public offering (IPO) and insurance products. Its subsidiaries include Intime Equities Limited, Intime Multi Commodity Company Limited, ITI Investment Advisors Limited and Antique Stock Broking Limited."
+} ]
+, "management" : [
+{
+"name" : "Chintan V. Valia",
+"age" : "34",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "S. G. Muthu Kummar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Haroon Mansuri",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Yashpal Madan",
+"title" : "Manager"
+}
+,
+{
+"name" : "Khyati Chintan Valia",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Shaili Maheshwari",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Alok Kumar Misra",
+"age" : "64",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Pankaj Bhuta",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

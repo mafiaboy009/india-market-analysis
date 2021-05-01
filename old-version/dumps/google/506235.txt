@@ -1,0 +1,284 @@
+
+// [
+{
+"symbol" : "506235",
+"exchange" : "BOM",
+"id": "703835",
+"t" : "506235",
+"e" : "BOM",
+"name" : "Alembic Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:506235"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:506235"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:506235"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.60%",
+"annual" : "19.06%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "0.94%",
+"annual" : "-2.90%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.66%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.94%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.96%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "312",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.75",
+"l" : "62.75",
+"cp" : "2.87",
+"ccol" : "chg",
+"op" : "61.40",
+"hi" : "63.65",
+"lo" : "60.90",
+"vo" : "139,984.00",
+"avvo" : "",
+"hi52" : "72.00",
+"lo52" : "33.85",
+"mc" : "16.78B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "0.32",
+"ldiv" : "0.20",
+"shares" : "267.03M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703835",
+"name" : "Alembic Limited",
+"t" : "506235",
+"e" : "BOM",
+"l" : "62.75",
+"c" : "+1.75",
+"mc" : "16.78B",
+"cp" : "2.87",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1402851",
+"name" : "Alembic Pharmaceuticals Ltd",
+"t" : "APLLTD",
+"e" : "NSE",
+"l" : "570.00",
+"c" : "+8.10",
+"mc" : "107.16B",
+"cp" : "1.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "656764725561489",
+"name" : "Lasa Supergenerics Ltd",
+"t" : "LASA",
+"e" : "NSE",
+"l" : "121.40",
+"c" : "-6.35",
+"mc" : "2.78B",
+"cp" : "-4.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6875082",
+"name" : "Morepen Laboratories Limited",
+"t" : "MOREPENLAB",
+"e" : "NSE",
+"l" : "36.10",
+"c" : "+0.75",
+"mc" : "16.26B",
+"cp" : "2.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13914165",
+"name" : "Strides Shasun Ltd",
+"t" : "STAR",
+"e" : "NSE",
+"l" : "710.00",
+"c" : "+16.50",
+"mc" : "63.59B",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11857064",
+"name" : "Gufic BioSciences Ltd",
+"t" : "GUFICBIO",
+"e" : "NSE",
+"l" : "120.05",
+"c" : "-0.75",
+"mc" : "9.27B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11638775",
+"name" : "Elder Pharmaceuticals Ltd",
+"t" : "ELDERPHARM",
+"e" : "NSE",
+"l" : "38.00",
+"c" : "",
+"mc" : "780.40M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10147154",
+"name" : "Natco Pharma Ltd.",
+"t" : "NATCOPHARM",
+"e" : "NSE",
+"l" : "775.00",
+"c" : "-3.15",
+"mc" : "143.19B",
+"cp" : "-0.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5032817",
+"name" : "Jubilant Life Sciences Ltd",
+"t" : "JUBILANT",
+"e" : "NSE",
+"l" : "879.45",
+"c" : "-4.35",
+"mc" : "140.53B",
+"cp" : "-0.49",
+"ccol" : "chr"
+}
+,
+{
+"id" : "432750497476156",
+"name" : "Alkem Laboratories Ltd",
+"t" : "ALKEM",
+"e" : "NSE",
+"l" : "2,211.50",
+"c" : "+30.20",
+"mc" : "264.38B",
+"cp" : "1.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10555516",
+"name" : "Lupin Limited",
+"t" : "LUPIN",
+"e" : "NSE",
+"l" : "822.00",
+"c" : "+14.50",
+"mc" : "370.74B",
+"cp" : "1.80",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Alembic Road, VADODARA, 390003, India",
+"phone": "+91-265-2280550",
+"fax": "+91-265-2281508",
+"url": "http:\u002F\u002Fwww.alembiclimited.com\u002F",
+"overview" : "Alembic Limited is engaged in the business of pharmaceuticals, real estate and power assets. The Company\u0027s segments include API and Real Estate. The Company\u0027s pharmaceuticals business is engaged in manufacturing and marketing of fermentation and chemistry-based active pharmaceuticals ingredients (API). It is also engaged in research and development activity at Vadodara. The Company\u0027s Real Estate business is engaged in the construction of residential and commercial real estate projects and project management and marketing consultancy. The Company is also involved in commercial properties on lease basis to various tenants. The Company is engaged in power generation through co-generation, which includes co-generation plants of approximately 10 megawatts, and Wind Power, which includes Windmills of approximately five megawatts. Its plant locations include Alembic Road, Vadodara\u003B Wind Mills at village Ukharla\u002FTrambak, Bhavnagar, Gujarat, and Construction projects at Chhani, Vadodara."
+} ]
+, "management" : [
+{
+"name" : "Malika C. Amin",
+"age" : "58",
+"title" : "Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "Rasesh Shah",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Drigesh Mittal",
+"title" : "Deputy Company Secretary, Compliance Officer"
+}
+,
+{
+"name" : "Chirayu R. Amin",
+"age" : "66",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Udit Amin",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Abhijit Joshi",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Chandrashekhar P. Buch",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sameer Khera",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

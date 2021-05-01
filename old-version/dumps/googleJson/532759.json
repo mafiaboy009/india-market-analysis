@@ -1,0 +1,283 @@
+
+ [
+{
+"symbol" : "532759",
+"exchange" : "BOM",
+"id": "705116",
+"t" : "532759",
+"e" : "BOM",
+"name" : "Atlanta Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532759"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532759"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532759"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002710)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "20.43%",
+"annual" : "22.45%",
+"ttm" : "19.98%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "38.76%",
+"annual" : "53.59%",
+"ttm" : "39.47%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "55.53%",
+"ttm" : "46.45%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.07%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.99%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "62",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.55",
+"l" : "95.55",
+"cp" : "0.58",
+"ccol" : "chg",
+"op" : "95.55",
+"hi" : "96.90",
+"lo" : "95.10",
+"vo" : "23,680.00",
+"avvo" : "",
+"hi52" : "131.90",
+"lo52" : "77.40",
+"mc" : "7.79B",
+"pe" : "19.27",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.96",
+"dy" : "0.31",
+"ldiv" : "0.30",
+"shares" : "81.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "705116",
+"name" : "Atlanta Limited",
+"t" : "532759",
+"e" : "BOM",
+"l" : "95.55",
+"c" : "+0.55",
+"mc" : "7.79B",
+"cp" : "0.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "897960961576587",
+"name" : "PNC Infratech Ltd",
+"t" : "PNCINFRA",
+"e" : "NSE",
+"l" : "165.00",
+"c" : "-1.60",
+"mc" : "42.47B",
+"cp" : "-0.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10279155",
+"name" : "Irb Infrastructure Developers Ltd",
+"t" : "IRB",
+"e" : "NSE",
+"l" : "226.35",
+"c" : "-0.90",
+"mc" : "79.53B",
+"cp" : "-0.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14999681",
+"name" : "Jaypee Infratech Limited",
+"t" : "JPINFRATEC",
+"e" : "NSE",
+"l" : "13.00",
+"c" : "-0.65",
+"mc" : "18.06B",
+"cp" : "-4.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5058013",
+"name" : "Supreme Infrastructure India Limited",
+"t" : "SUPREMEINF",
+"e" : "NSE",
+"l" : "84.95",
+"c" : "-9.25",
+"mc" : "2.19B",
+"cp" : "-9.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9037119",
+"name" : "Dhenu Buildcon Infra Ltd",
+"t" : "501945",
+"e" : "BOM",
+"l" : "2.77",
+"c" : "0.00",
+"mc" : "50.69M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "653534637833266",
+"name" : "IL\u0026FS Transportation Networks Ltd",
+"t" : "IL\u0026FSTRANS",
+"e" : "NSE",
+"l" : "72.25",
+"c" : "+0.40",
+"mc" : "23.77B",
+"cp" : "0.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3593354",
+"name" : "Sadbhav Engineering Limited",
+"t" : "SADBHAV",
+"e" : "NSE",
+"l" : "399.55",
+"c" : "+0.20",
+"mc" : "68.44B",
+"cp" : "0.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7760951",
+"name" : "Tarmat Ltd",
+"t" : "TARMAT",
+"e" : "NSE",
+"l" : "60.00",
+"c" : "-0.05",
+"mc" : "658.74M",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "961689",
+"name" : "KNR Constructions Ltd",
+"t" : "KNRCON",
+"e" : "NSE",
+"l" : "304.00",
+"c" : "+10.00",
+"mc" : "42.65B",
+"cp" : "3.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "139022467528857",
+"name" : "Sadbhav Infrastructure Projects Ltd",
+"t" : "SADBHIN",
+"e" : "NSE",
+"l" : "135.00",
+"c" : "-1.15",
+"mc" : "47.83B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "101, Shree Amba Shanti Chambers Andheri-Kurla Road Andheri (E), MUMBAI, 400059, India",
+"phone": "+91-22-29252929",
+"fax": "+91-22-29252900",
+"url": "http:\u002F\u002Fwww.atlantalimited.in\u002F",
+"overview" : "Atlanta Limited is an India-based construction company. The Company is engaged in the business of contracting activities, such as construction and development of infrastructure. The Company is involved in the business of infrastructure development on engineering, procurement and construction (EPC) basis and public private partnership (PPP) model on build, operate and transfer (BOT) and design, build, finance, operate and transfer (DBFOT) basis. Its infrastructure development activities include, inter-alia, construction of roads, highways, bridges and runways on BOT and DBFOT basis. The Company is also involved in real estate development, tourism, infrastructure business segment and mining of coal and lime stones. The Company is developing a tourism project in over 4,000 acres of land with approximately eight kilometer waterfront, near Surat. Its subsidiaries include Atlanta Infra Assets Limited and Atlanta Tourism Ventures Limited, among others."
+} ]
+, "management" : [
+{
+"name" : "Rajhoo A. Bbarot",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Dipesh Gogri",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Narayan R. Joshi",
+"title" : "Chief Compliance Officer, Secretary"
+}
+,
+{
+"name" : "Rikiin Bbarot",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Pooja Rikiin",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Jaya Balachandran",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Arpan Brahmbhatt",
+"age" : "42",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Shankar Vishwanath",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "519248",
+"exchange" : "BOM",
+"id": "2545219",
+"t" : "519248",
+"e" : "BOM",
+"name" : "JVL Agro Industries Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:519248"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:519248"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:519248"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.64%",
+"annual" : "0.76%",
+"ttm" : "1.74%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.19%",
+"annual" : "2.34%",
+"ttm" : "2.21%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.96%",
+"ttm" : "2.53%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.49%",
+"ttm" : "4.86%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.43%",
+"ttm" : "20.31%"
+}
+]
+, "c" : "+0.45",
+"l" : "27.65",
+"cp" : "1.65",
+"ccol" : "chg",
+"op" : "27.20",
+"hi" : "28.20",
+"lo" : "27.20",
+"vo" : "50,196.00",
+"avvo" : "",
+"hi52" : "39.90",
+"lo52" : "17.80",
+"mc" : "4.64B",
+"pe" : "6.12",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.51",
+"dy" : "0.36",
+"ldiv" : "0.10",
+"shares" : "167.94M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2545219",
+"name" : "JVL Agro Industries Limited",
+"t" : "519248",
+"e" : "BOM",
+"l" : "27.65",
+"c" : "+0.45",
+"mc" : "4.64B",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5441634",
+"name" : "Pioneer Agro Extracts Ltd",
+"t" : "519439",
+"e" : "BOM",
+"l" : "8.81",
+"c" : "0.00",
+"mc" : "38.17M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16149537",
+"name" : "K.S. Oils Limited",
+"t" : "KSOILS",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7472374",
+"name" : "Ruchi Soya Industries Ltd.",
+"t" : "RUCHISOYA",
+"e" : "NSE",
+"l" : "17.35",
+"c" : "-0.70",
+"mc" : "5.88B",
+"cp" : "-3.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7993419",
+"name" : "SM Dyechem Ltd",
+"t" : "500391",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-7.47",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13884298",
+"name" : "Excel Castronics Ltd",
+"t" : "526735",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "-0.04",
+"mc" : "38.68M",
+"cp" : "-4.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6539980",
+"name" : "Vijay Solvex Ltd",
+"t" : "531069",
+"e" : "BOM",
+"l" : "529.20",
+"c" : "0.00",
+"mc" : "1.69B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "510006",
+"name" : "Ajanta Soya Ltd",
+"t" : "519216",
+"e" : "BOM",
+"l" : "52.95",
+"c" : "+1.50",
+"mc" : "848.19M",
+"cp" : "2.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4236247",
+"name" : "Olympic Oil Industries Ltd",
+"t" : "507609",
+"e" : "BOM",
+"l" : "140.95",
+"c" : "+1.15",
+"mc" : "399.27M",
+"cp" : "0.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "191853910188834",
+"name" : "Rasoya Proteins Ltd",
+"t" : "RASOYPR",
+"e" : "NSE",
+"l" : "0.05",
+"c" : "0.00",
+"mc" : "85.45M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "942696275529450",
+"name" : "Shreeram Proteins Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Jhunjhunwala Bhawan, Nati Imali, VARANASI, 221001, India",
+"phone": "+91-542-2595930",
+"fax": "+91-542-2595930",
+"url": "http:\u002F\u002Fwww.jvlagro.com\u002F",
+"overview" : "JVL Agro Industries Limited is an India-based edible oil processing company. The Company is engaged in manufacturing of vegetable oils and fats (other than hydrogenated). Its products include Vanaspati, refined oil, mustard oil, rice and bakery shortening. Its brands include Jhoola, JVL Royal, Payal and Shankar. Its refined oil variants include olein, soyabean, cotton seed, palm and sunflower. Its mustard oil variants include kachchighani and pakkighani. Its Vanaspati variants include Vanaspati ghee variant. Its rice variants include steamed, par-boiled and white rice. It produces Vanaspati ghee at its Uttar Pradesh and Bihar facilities with a production capacity of 165,000 tons per annum (TPA). It produces refined oil at its Uttar Pradesh, Bihar, Rajasthan and West Bengal facilities with a production capacity of 600,000 TPA. It produces mustard oil at its Rajasthan facility with a production capacity of 120,000 TPA. JVL Overseas Pte. Ltd. is the subsidiary of the Company."
+} ]
+, "management" : [
+{
+"name" : "D. N. Jhunjhunwala",
+"age" : "78",
+"title" : "Non-Independent Executive Chairman of the Board"
+}
+,
+{
+"name" : "S. N. Jhunjhunwala",
+"age" : "59",
+"title" : "Chief Executive Officer, Chief Compliance Officer, Managing Director, Non-Executive Independent Director"
+}
+,
+{
+"name" : "R. C. Garg",
+"title" : "Chief Finance Officer"
+}
+,
+{
+"name" : "Kartik Agrawal",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Adarsh Jhunjhunwala",
+"age" : "29",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Anju Jhunjhunwala",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Brajesh Kumar Misra",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Harsh Agarwal",
+"age" : "27",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "S. K. Dikshit",
+"age" : "70",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Mahesh Kedia",
+"age" : "51",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

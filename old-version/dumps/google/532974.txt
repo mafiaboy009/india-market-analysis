@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "532974",
+"exchange" : "BOM",
+"id": "727039",
+"t" : "532974",
+"e" : "BOM",
+"name" : "Aditya Birla Money Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532974"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532974"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532974"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.66%",
+"annual" : "5.55%",
+"ttm" : "6.51%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.24%",
+"annual" : "8.73%",
+"ttm" : "8.97%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.14%",
+"ttm" : "10.56%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.69%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.87%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "930",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.25",
+"l" : "73.80",
+"cp" : "0.34",
+"ccol" : "chg",
+"op" : "74.85",
+"hi" : "75.25",
+"lo" : "73.35",
+"vo" : "9,866.00",
+"avvo" : "",
+"hi52" : "164.45",
+"lo52" : "27.95",
+"mc" : "4.14B",
+"pe" : "42.29",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.74",
+"dy" : "",
+"ldiv" : "",
+"shares" : "55.96M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "727039",
+"name" : "Aditya Birla Money Ltd",
+"t" : "532974",
+"e" : "BOM",
+"l" : "73.80",
+"c" : "+0.25",
+"mc" : "4.14B",
+"cp" : "0.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3835053",
+"name" : "Inventure Growth and Securities Ltd",
+"t" : "INVENTURE",
+"e" : "NSE",
+"l" : "17.65",
+"c" : "+0.40",
+"mc" : "1.45B",
+"cp" : "2.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15446887",
+"name" : "Arihant Capital Markets Ltd",
+"t" : "511605",
+"e" : "BOM",
+"l" : "134.00",
+"c" : "-5.35",
+"mc" : "2.78B",
+"cp" : "-3.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5317586",
+"name" : "Master Trust Ltd",
+"t" : "511768",
+"e" : "BOM",
+"l" : "98.00",
+"c" : "-0.95",
+"mc" : "1.07B",
+"cp" : "-0.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9113181",
+"name" : "Geojit Financial Services Ltd",
+"t" : "GEOJITFSL",
+"e" : "NSE",
+"l" : "98.55",
+"c" : "+0.20",
+"mc" : "23.07B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "873771",
+"name" : "Action Financial Services India Ltd",
+"t" : "511706",
+"e" : "BOM",
+"l" : "9.15",
+"c" : "0.00",
+"mc" : "114.42M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9532709",
+"name" : "Munoth Capital Markets Ltd",
+"t" : "511200",
+"e" : "BOM",
+"l" : "63.20",
+"c" : "0.00",
+"mc" : "568.23M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8900505",
+"name" : "Goldcrest Corporation Ltd",
+"t" : "505576",
+"e" : "BOM",
+"l" : "55.50",
+"c" : "-3.20",
+"mc" : "419.40M",
+"cp" : "-5.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "410015703510210",
+"name" : "Alacrity Securities Ltd",
+"t" : "535916",
+"e" : "BOM",
+"l" : "10.00",
+"c" : "+0.15",
+"mc" : "",
+"cp" : "1.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10541692",
+"name" : "Global Capital Markets Ltd",
+"t" : "530263",
+"e" : "BOM",
+"l" : "4.43",
+"c" : "+0.02",
+"mc" : "110.28M",
+"cp" : "0.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1317364",
+"name" : "Indo Thai Securities Ltd",
+"t" : "INDOTHAI",
+"e" : "NSE",
+"l" : "82.25",
+"c" : "+0.70",
+"mc" : "817.99M",
+"cp" : "0.86",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "55, Ali Towers, Greams Road, CHENNAI, 600006, India",
+"phone": "+91-44-39190002",
+"fax": "+91-44-28290835",
+"url": "http:\u002F\u002Fwww.adityabirlamoney.com",
+"overview" : "Aditya Birla Money Limited is engaged in the business of broking and related activities. The Company\u0027s business is to provide brokerage services and portfolio management services (PMS) to its clients in the capital markets within India. The Company is a broking and distribution player, which offers equity and derivative trading through National Stock Exchange of India Limited (NSE) and Bombay Stock Exchange (BSE) and currency derivative on Metropolitan Stock Exchange of India Ltd. (MSEI). The Company provides commodity trading on Multi Commodity Exchange of India Ltd. (MCX) and National Commodity \u0026 Derivates Exchange Limited (NCDEX) through its subsidiary company. The Company offers various solutions, which include wealth management, corporate and treasury services, real estate advisory and online money management. The Company\u0027s subsidiary is Aditya Birla Commodities Broking Limited (ABCBL), which is engaged in the business of commodity broking."
+} ]
+, "management" : [
+{
+"name" : "Pradeep Sharma",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ravishankar Gopalan",
+"age" : "47",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Rajesh P. Gandhi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Saurabh Shukla",
+"title" : "Chief Sales Officer"
+}
+,
+{
+"name" : "Shriram Jagetiya",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Pinky A. Mehta",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Tushar Shah",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "G. K. Tulsian",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "P. Sudhir Rao",
+"age" : "52",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

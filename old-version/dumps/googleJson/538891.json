@@ -1,0 +1,242 @@
+
+ [
+{
+"symbol" : "538891",
+"exchange" : "BOM",
+"id": "522041509322036",
+"t" : "538891",
+"e" : "BOM",
+"name" : "South India Projects Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SOTH.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:538891"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:538891"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:538891"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.35%",
+"annual" : "4.43%",
+"ttm" : "2.42%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.82%",
+"annual" : "7.18%",
+"ttm" : "4.05%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.36%",
+"ttm" : "4.20%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.55%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.98%",
+"ttm" : ""
+}
+]
+, "c" : "+0.65",
+"l" : "251.20",
+"cp" : "0.26",
+"ccol" : "chg",
+"op" : "250.60",
+"hi" : "251.20",
+"lo" : "248.05",
+"vo" : "1,736.00",
+"avvo" : "",
+"hi52" : "254.00",
+"lo52" : "162.80",
+"mc" : "1.26B",
+"pe" : "35.26",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.12",
+"dy" : "0.20",
+"ldiv" : "0.50",
+"shares" : "5.03M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "522041509322036",
+"name" : "South India Projects Ltd",
+"t" : "538891",
+"e" : "BOM",
+"l" : "251.20",
+"c" : "+0.65",
+"mc" : "1.26B",
+"cp" : "0.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7953747",
+"name" : "Golden Goenka Fincorp Ltd",
+"t" : "530579",
+"e" : "BOM",
+"l" : "9.10",
+"c" : "+0.33",
+"mc" : "1.72B",
+"cp" : "3.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10208518",
+"name" : "Proaim Enterprises Ltd",
+"t" : "512105",
+"e" : "BOM",
+"l" : "0.90",
+"c" : "+0.01",
+"mc" : "11.39M",
+"cp" : "1.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "174105043685355",
+"name" : "Achal Investments Ltd",
+"t" : "538570",
+"e" : "BOM",
+"l" : "2.05",
+"c" : "0.00",
+"mc" : "129.35M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "728007458928199",
+"name" : "Abhinav Leasing \u0026 Finance Ltd",
+"t" : "538952",
+"e" : "BOM",
+"l" : "1.64",
+"c" : "0.00",
+"mc" : "81.97M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "462313451049739",
+"name" : "J Taparia Projects Ltd",
+"t" : "538539",
+"e" : "BOM",
+"l" : "8.08",
+"c" : "0.00",
+"mc" : "130.90M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "635563051367682",
+"name" : "Viji Finance Ltd",
+"t" : "VIJIFIN",
+"e" : "NSE",
+"l" : "7.40",
+"c" : "+0.30",
+"mc" : "610.50M",
+"cp" : "4.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7906540",
+"name" : "Avonmore Capital \u0026 Management Servcs Ltd",
+"t" : "511589",
+"e" : "BOM",
+"l" : "33.70",
+"c" : "-1.30",
+"mc" : "817.93M",
+"cp" : "-3.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "318167383826669",
+"name" : "Real Touch Finance Ltd",
+"t" : "538611",
+"e" : "BOM",
+"l" : "29.95",
+"c" : "0.00",
+"mc" : "380.15M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14241425",
+"name" : "Atlanta Infrastructure and Finance Ltd",
+"t" : "530479",
+"e" : "BOM",
+"l" : "7.98",
+"c" : "0.00",
+"mc" : "888.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11514789",
+"name" : "Mudit Finlease Ltd",
+"t" : "531919",
+"e" : "BOM",
+"l" : "64.30",
+"c" : "0.00",
+"mc" : "327.34M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "5 \u0026 6, Fancy Lane. 8th Floor, KOLKATA, 700001, India",
+"phone": "+91-33-40069762",
+"fax": "+91-33-40069762",
+"overview" : "South India Projects Ltd is a non-banking financial company. The Company is engaged in securities trading and investment. It is engaged in the development and designing of software application, packages, system, modules either for its own use or for sale in India or for export outside India and to design and develop such systems and application software for or on behalf of manufacturers, banking, insurance owners and users of computers systems and digital\u002Felectronic equipment and other domains, and to provide technical, management and project consultancy service for development of systems and packages, among others, and also to undertake programs for training of personnel at various location for development of software application, packages systems, modules and engage in marketing and distribution, reselling of software, system, modules computer hardware and peripherals. It also provides cloud-based services, such as platform as a service and software as a service for its clients."
+} ]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Feb 8, 2018",
+"time": "",
+"future": 0,
+"desc": "Q3 2018 South India Projects Ltd Earnings Release (Estimated)"
+}
+]
+}]

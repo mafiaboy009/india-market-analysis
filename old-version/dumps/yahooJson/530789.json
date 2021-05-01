@@ -1,0 +1,360 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 824429184,
+            "fmt": "824.43M",
+            "longFmt": "824,429,184"
+          },
+          "forwardPE": {
+            "raw": 7.8817735,
+            "fmt": "7.88"
+          },
+          "profitMargins": {
+            "raw": 0.34949002,
+            "fmt": "34.95%"
+          },
+          "floatShares": {
+            "raw": 1058950,
+            "fmt": "1.06M",
+            "longFmt": "1,058,950"
+          },
+          "sharesOutstanding": {
+            "raw": 3450000,
+            "fmt": "3.45M",
+            "longFmt": "3,450,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.173964,
+            "fmt": "1.17"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 106.454,
+            "fmt": "106.45"
+          },
+          "priceToBook": {
+            "raw": 1.5029966,
+            "fmt": "1.50"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.282,
+            "fmt": "28.20%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 59062000,
+            "fmt": "59.06M",
+            "longFmt": "59,062,000"
+          },
+          "trailingEps": {
+            "raw": 17.119,
+            "fmt": "17.12"
+          },
+          "forwardEps": {
+            "raw": 20.3,
+            "fmt": "20.3"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 4.878,
+            "fmt": "4.88"
+          },
+          "enterpriseToEbitda": {
+            "raw": 7.25,
+            "fmt": "7.25"
+          },
+          "52WeekChange": {
+            "raw": 0.41405213,
+            "fmt": "41.41%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 4.67,
+                  "fmt": "4.67"
+                },
+                "estimate": {
+                  "raw": 4.12,
+                  "fmt": "4.12"
+                }
+              }
+            ],
+            "currentQuarterEstimate": {
+              "raw": 4.35,
+              "fmt": "4.35"
+            },
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 111169000,
+                  "fmt": "111.17M",
+                  "longFmt": "111,169,000"
+                },
+                "earnings": {
+                  "raw": 37253000,
+                  "fmt": "37.25M",
+                  "longFmt": "37,253,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 115818000,
+                  "fmt": "115.82M",
+                  "longFmt": "115,818,000"
+                },
+                "earnings": {
+                  "raw": 37264000,
+                  "fmt": "37.26M",
+                  "longFmt": "37,264,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 122826000,
+                  "fmt": "122.83M",
+                  "longFmt": "122,826,000"
+                },
+                "earnings": {
+                  "raw": 37519000,
+                  "fmt": "37.52M",
+                  "longFmt": "37,519,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 145035000,
+                  "fmt": "145.03M",
+                  "longFmt": "145,035,000"
+                },
+                "earnings": {
+                  "raw": 46747000,
+                  "fmt": "46.75M",
+                  "longFmt": "46,747,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 42188000,
+                  "fmt": "42.19M",
+                  "longFmt": "42,188,000"
+                },
+                "earnings": {
+                  "raw": 15533000,
+                  "fmt": "15.53M",
+                  "longFmt": "15,533,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 41069000,
+                  "fmt": "41.07M",
+                  "longFmt": "41,069,000"
+                },
+                "earnings": {
+                  "raw": 13101000,
+                  "fmt": "13.1M",
+                  "longFmt": "13,101,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 43006000,
+                  "fmt": "43.01M",
+                  "longFmt": "43,006,000"
+                },
+                "earnings": {
+                  "raw": 16116000,
+                  "fmt": "16.12M",
+                  "longFmt": "16,116,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 43154000,
+                  "fmt": "43.15M",
+                  "longFmt": "43,154,000"
+                },
+                "earnings": {
+                  "raw": 14312000,
+                  "fmt": "14.31M",
+                  "longFmt": "14,312,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "901-902, Abhijeet II Building",
+          "address2": "Above Standard Chartered Bank Mithakhali Ellisbridge",
+          "city": "Ahmedabad",
+          "zip": "380006",
+          "country": "India",
+          "phone": "91 79 2640 4594",
+          "fax": "91 79 2642 4594",
+          "website": "http://www.ceejayfinancelimited.com",
+          "industry": "Credit Services",
+          "sector": "Financial",
+          "longBusinessSummary": "Ceejay Finance Limited operates as a non-banking finance company in India. It offers loans for new and used two and four wheeler, three-wheeler, and commercial vehicles; personal loans; loans against properties; and micro finance loans, as well as general insurance services. The company was formerly known as Heritage Packaging Limited and changed its name to Ceejay Finance Limited in August 2001. Ceejay Finance Limited was incorporated in 1993 and is based in Ahmedabad, India.",
+          "fullTimeEmployees": 41,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 160.0,
+            "fmt": "160.00"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 23767000,
+            "fmt": "23.77M",
+            "longFmt": "23,767,000"
+          },
+          "totalCashPerShare": {
+            "raw": 6.892,
+            "fmt": "6.89"
+          },
+          "ebitda": {
+            "raw": 113714000,
+            "fmt": "113.71M",
+            "longFmt": "113,714,000"
+          },
+          "totalDebt": {
+            "raw": 279164992,
+            "fmt": "279.16M",
+            "longFmt": "279,164,992"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 168994000,
+            "fmt": "168.99M",
+            "longFmt": "168,994,000"
+          },
+          "debtToEquity": {
+            "raw": 75.99,
+            "fmt": "75.99"
+          },
+          "revenuePerShare": {
+            "raw": 48.982,
+            "fmt": "48.98"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 144580000,
+            "fmt": "144.58M",
+            "longFmt": "144,580,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.281,
+            "fmt": "28.10%"
+          },
+          "revenueGrowth": {
+            "raw": 0.159,
+            "fmt": "15.90%"
+          },
+          "grossMargins": {
+            "raw": 0.98347,
+            "fmt": "98.35%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.67289,
+            "fmt": "67.29%"
+          },
+          "operatingMargins": {
+            "raw": 0.66440004,
+            "fmt": "66.44%"
+          },
+          "profitMargins": {
+            "raw": 0.34949002,
+            "fmt": "34.95%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

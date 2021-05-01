@@ -1,0 +1,284 @@
+
+ [
+{
+"symbol" : "532498",
+"exchange" : "BOM",
+"id": "704007",
+"t" : "532498",
+"e" : "BOM",
+"name" : "Shriram City Union Finance Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532498"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532498"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532498"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.49%",
+"annual" : "12.43%",
+"ttm" : "12.43%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.31%",
+"annual" : "19.28%",
+"ttm" : "18.95%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "20.04%",
+"ttm" : "19.71%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.42%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.75%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "26,783",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-44.25",
+"l" : "1,950.00",
+"cp" : "-2.22",
+"ccol" : "chr",
+"op" : "1,990.55",
+"hi" : "1,999.90",
+"lo" : "1,937.00",
+"vo" : "160.00",
+"avvo" : "",
+"hi52" : "2,648.00",
+"lo52" : "1,824.00",
+"mc" : "129.26B",
+"pe" : "22.28",
+"fwpe" : "",
+"beta" : "",
+"eps" : "87.51",
+"dy" : "0.82",
+"ldiv" : "6.00",
+"shares" : "65.96M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "704007",
+"name" : "Shriram City Union Finance Limited",
+"t" : "532498",
+"e" : "BOM",
+"l" : "1,950.00",
+"c" : "-44.25",
+"mc" : "129.26B",
+"cp" : "-2.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11940538",
+"name" : "Shriram Transport Finance Company Ltd.",
+"t" : "SRTRANSFIN",
+"e" : "NSE",
+"l" : "1,347.20",
+"c" : "+24.35",
+"mc" : "305.62B",
+"cp" : "1.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15726114",
+"name" : "Arman Financial Services Ltd",
+"t" : "531179",
+"e" : "BOM",
+"l" : "299.00",
+"c" : "+8.15",
+"mc" : "1.71B",
+"cp" : "2.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1705005",
+"name" : "TI Financial Holdings Ltd",
+"t" : "TIFIN",
+"e" : "NSE",
+"l" : "675.30",
+"c" : "+1.00",
+"mc" : "126.48B",
+"cp" : "0.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "808795142982142",
+"name" : "Mangalam Industrial Finance Ltd",
+"t" : "537800",
+"e" : "BOM",
+"l" : "1.43",
+"c" : "-0.07",
+"mc" : "1.38B",
+"cp" : "-4.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12473652",
+"name" : "Williamson Financial Services Ltd",
+"t" : "519214",
+"e" : "BOM",
+"l" : "34.25",
+"c" : "0.00",
+"mc" : "286.30M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12639502",
+"name" : "Sakthi Finance Limited",
+"t" : "SAKTHIFIN",
+"e" : "NSE",
+"l" : "19.00",
+"c" : "+0.10",
+"mc" : "945.00M",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "541955",
+"name" : "DFL Infrastructure Finance Ltd",
+"t" : "511393",
+"e" : "BOM",
+"l" : "0.72",
+"c" : "0.00",
+"mc" : "4.29M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12181593",
+"name" : "Mukunda Industrial Finance Ltd",
+"t" : "530329",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5505225",
+"name" : "Abhayam Trading Ltd",
+"t" : "511339",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-1.60",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "852608",
+"name" : "United Credit Ltd",
+"t" : "531091",
+"e" : "BOM",
+"l" : "17.95",
+"c" : "0.00",
+"mc" : "95.63M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "221,Royapettah High Road, Mylapore, CHENNAI, 600004, India",
+"phone": "+91-44-43925300",
+"fax": "+91-44-43925430",
+"url": "http:\u002F\u002Fwww.shriramcity.in",
+"overview" : "Shriram City Union Finance Limited is engaged in non banking financial services. The Company provides long term home loans. It provides growth capital to small enterprises. It offers a range of options for financing the purchase of two wheeler vehicles across manufacturers and brands. Its customers in the space comprise replacement equipment manufacturers, traders, grain merchants, small hoteliers and caterers and similar such non-corporate businesses in semi-urban India. It offers loan against gold jewelry, primarily to individuals possessing gold jewelry, but do not have access to formal credit within a reasonable time, or to whom credit may not be available at all, to meet their short-term requirements. It offers loans to finance the purchase of new and pre-owned passenger and commercial vehicles, which includes three wheelers, four wheelers, pre-owned and new cars. It offers home loans, through its subsidiary, Shriram Housing Finance Ltd. (SHFL)."
+} ]
+, "management" : [
+{
+"name" : "Ramachandra Duruvasan",
+"age" : "55",
+"title" : "Chief Executive Officer, Managing Director, Non Independent Executive Director"
+}
+,
+{
+"name" : "Ramasubramanian Chandrasekar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Chitta Ranjan Dash",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Debendranath Sarangi",
+"age" : "62",
+"title" : "Non Executive, Independent Chairman"
+}
+,
+{
+"name" : "Maya S. Sinha",
+"title" : "Additional Director, Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ranvir Dewan",
+"title" : "Non-Executive Non Independent Director"
+}
+,
+{
+"name" : "Khushru Burjor Jijina",
+"title" : "Additional Non-Executive Non Independent Director"
+}
+,
+{
+"name" : "Shashank Singh",
+"title" : "Additional Non-Executive Non Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

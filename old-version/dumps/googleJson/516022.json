@@ -1,0 +1,279 @@
+
+ [
+{
+"symbol" : "516022",
+"exchange" : "BOM",
+"id": "3526753",
+"t" : "516022",
+"e" : "BOM",
+"name" : "Star Paper Mills Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:516022"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:516022"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:516022"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "13.85%",
+"annual" : "18.49%",
+"ttm" : "17.03%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "17.99%",
+"annual" : "20.62%",
+"ttm" : "20.02%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "21.90%",
+"ttm" : "21.12%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "29.94%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "64.09%",
+"ttm" : ""
+}
+]
+, "c" : "-2.50",
+"l" : "230.10",
+"cp" : "-1.07",
+"ccol" : "chr",
+"op" : "232.95",
+"hi" : "234.70",
+"lo" : "230.10",
+"vo" : "7,862.00",
+"avvo" : "",
+"hi52" : "318.20",
+"lo52" : "134.70",
+"mc" : "3.57B",
+"pe" : "6.13",
+"fwpe" : "",
+"beta" : "",
+"eps" : "37.53",
+"dy" : "0.87",
+"ldiv" : "2.00",
+"shares" : "15.61M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "3526753",
+"name" : "Star Paper Mills Ltd",
+"t" : "516022",
+"e" : "BOM",
+"l" : "230.10",
+"c" : "-2.50",
+"mc" : "3.57B",
+"cp" : "-1.07",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14881101",
+"name" : "Century Textile and Industries Ltd",
+"t" : "CENTURYTEX",
+"e" : "NSE",
+"l" : "1,216.05",
+"c" : "+21.35",
+"mc" : "135.82B",
+"cp" : "1.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6480457",
+"name" : "Ballarpur Industries Ltd",
+"t" : "BALLARPUR",
+"e" : "NSE",
+"l" : "13.80",
+"c" : "-0.05",
+"mc" : "17.91B",
+"cp" : "-0.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4294631",
+"name" : "Orient Paper \u0026 Industries Limited",
+"t" : "ORIENTPPR",
+"e" : "NSE",
+"l" : "40.25",
+"c" : "-0.65",
+"mc" : "8.56B",
+"cp" : "-1.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14747623",
+"name" : "Murli Industries Ltd",
+"t" : "MURLIIND",
+"e" : "NSE",
+"l" : "1.65",
+"c" : "",
+"mc" : "118.98M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7697144",
+"name" : "Shree Bhawani Paper Mills Ltd",
+"t" : "502563",
+"e" : "BOM",
+"l" : "4.43",
+"c" : "0.00",
+"mc" : "154.28M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14193619",
+"name" : "Indian Sucrose Ltd",
+"t" : "500319",
+"e" : "BOM",
+"l" : "33.20",
+"c" : "-0.30",
+"mc" : "500.63M",
+"cp" : "-0.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1786962",
+"name" : "Rainbow Papers Ltd",
+"t" : "RAINBOWPAP",
+"e" : "NSE",
+"l" : "3.00",
+"c" : "+0.05",
+"mc" : "313.34M",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2457336",
+"name" : "Shreyans Industries Ltd",
+"t" : "SHREYANIND",
+"e" : "NSE",
+"l" : "161.60",
+"c" : "+2.85",
+"mc" : "2.25B",
+"cp" : "1.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16192730",
+"name" : "Shree Krishna Paper Mills\u0026Industries Ltd",
+"t" : "500388",
+"e" : "BOM",
+"l" : "39.90",
+"c" : "+0.15",
+"mc" : "539.52M",
+"cp" : "0.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "935252253082486",
+"name" : "Shrenik Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Duncan House 2nd Floor 31, Netaji Subhas Road, KOLKATA, 700001, India",
+"phone": "+91-33-22427380",
+"fax": "+91-33-22427383",
+"url": "http:\u002F\u002Fwww.starpapers.com\u002F",
+"overview" : "Star Paper Mills Limited is an India-based company engaged in the business of paper manufacturing. The Company sells products primarily in the domestic market."
+} ]
+, "management" : [
+{
+"name" : "Gouri Prasad Goenka",
+"age" : "77",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Saurabh Arora",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Madhukar Mishra",
+"age" : "57",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Shrivardhan V. Goenka",
+"age" : "42",
+"title" : "Director"
+}
+,
+{
+"name" : "Savita Laxmipathy Acharya",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "M. P. Pinto",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Shiromani Sharma",
+"age" : "81",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Chander Mohan Vasudev",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

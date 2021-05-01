@@ -1,0 +1,235 @@
+
+// [
+{
+"symbol" : "530689",
+"exchange" : "BOM",
+"id": "14753584",
+"t" : "530689",
+"e" : "BOM",
+"name" : "Lykis Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=LYKI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530689"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530689"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530689"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-2.93%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "-2.91%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-2.52%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.76%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-11.87%",
+"ttm" : ""
+}
+]
+, "c" : "-0.15",
+"l" : "46.50",
+"cp" : "-0.32",
+"ccol" : "chr",
+"op" : "48.95",
+"hi" : "48.95",
+"lo" : "46.50",
+"vo" : "3,422.00",
+"avvo" : "",
+"hi52" : "63.80",
+"lo52" : "36.70",
+"mc" : "883.46M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "",
+"ldiv" : "",
+"shares" : "19.38M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "14753584",
+"name" : "Lykis Ltd",
+"t" : "530689",
+"e" : "BOM",
+"l" : "46.50",
+"c" : "-0.15",
+"mc" : "883.46M",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14928615",
+"name" : "Farmax India Limited",
+"t" : "FARMAXIND",
+"e" : "NSE",
+"l" : "0.05",
+"c" : "0.00",
+"mc" : "26.71M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11882217",
+"name" : "Bajaj Corp Ltd",
+"t" : "BAJAJCORP",
+"e" : "NSE",
+"l" : "465.95",
+"c" : "-4.70",
+"mc" : "69.69B",
+"cp" : "-1.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "829919",
+"name" : "Dabur India Ltd",
+"t" : "DABUR",
+"e" : "NSE",
+"l" : "366.75",
+"c" : "-1.10",
+"mc" : "647.53B",
+"cp" : "-0.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12054339",
+"name" : "Elder Health Care Ltd",
+"t" : "524830",
+"e" : "BOM",
+"l" : "8.55",
+"c" : "0.00",
+"mc" : "36.07M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1188812",
+"name" : "Emami Ltd",
+"t" : "EMAMILTD",
+"e" : "NSE",
+"l" : "1,055.00",
+"c" : "+16.50",
+"mc" : "238.22B",
+"cp" : "1.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2889377",
+"name" : "Gillette India Limited",
+"t" : "GILLETTE",
+"e" : "NSE",
+"l" : "6,525.00",
+"c" : "-24.20",
+"mc" : "212.61B",
+"cp" : "-0.37",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1049125037959489",
+"name" : "S H Kelkar And Company Ltd",
+"t" : "SHK",
+"e" : "NSE",
+"l" : "250.00",
+"c" : "+2.05",
+"mc" : "35.79B",
+"cp" : "0.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8740908",
+"name" : "JL Morison India Ltd",
+"t" : "506522",
+"e" : "BOM",
+"l" : "1,640.00",
+"c" : "+51.75",
+"mc" : "2.21B",
+"cp" : "3.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4000544",
+"name" : "Paramount Cosmetics (India) Ltd",
+"t" : "507970",
+"e" : "BOM",
+"l" : "26.15",
+"c" : "-1.25",
+"mc" : "126.96M",
+"cp" : "-4.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12902388119303",
+"name" : "Marico Kaya Enterprises Ltd",
+"t" : "MAKE",
+"e" : "NSE",
+"l" : "1,555.00",
+"c" : "+7.95",
+"mc" : "",
+"cp" : "0.51",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "405\u002F406 Morya Classic Off New Link Road, Andheri West, MUMBAI, 400053, India",
+"phone": "+91-22-40694069",
+"fax": "+91-33-22625265",
+"url": "http:\u002F\u002Fwww.lykisgroup.com\u002F",
+"overview" : "Lykis Limited is a home and personal care company. The Company\u0027s principal products include toiletry, perfumery, cosmetics, confectionary and biscuits. Its segments include Food, Soap, Cosmetics, Deo\u002FSprays and Others. Its brands include Lykis, Britex, Rox, Bonita, Vogly, Tazaagi, Cheers and Alivio. It offers personal care products, including Lykis Beauty Soap, Lykis Milk Soap and Lykis Herbal Soap\u003B hair care products, including Lykis Amla Hair Oil, Lykis Almond Hair Oil, Lykis pure Coconut Oil and Lykis shampoo\u003B skin care products, including facewash, handwash, body lotion and moisturizing cream, and baby care products, including baby deo, petroleum jelly and cream, soap and powder and shower gel. It also offers beverages, including Cheers Tea, Tazaagi tea and Lycafe Coffee, and food and confectionery, such as Classic Cream Cracker, Classic Nice and Classic Cracker Biscuits. Its over the counter (OTC) products include Act Pain, Davimov Cream, Davimov Balm and Cold Grip Inhaler."
+} ]
+,"moreresources" : [
+]
+}]

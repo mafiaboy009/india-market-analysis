@@ -1,0 +1,274 @@
+
+// [
+{
+"symbol" : "524129",
+"exchange" : "BOM",
+"id": "3415449",
+"t" : "524129",
+"e" : "BOM",
+"name" : "Vinyl Chemicals (India) Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524129"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524129"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524129"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.18%",
+"annual" : "2.98%",
+"ttm" : "3.50%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.81%",
+"annual" : "3.17%",
+"ttm" : "3.89%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.17%",
+"ttm" : "3.41%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.67%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "19.33%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "13",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.35",
+"l" : "113.35",
+"cp" : "0.31",
+"ccol" : "chg",
+"op" : "115.90",
+"hi" : "116.00",
+"lo" : "112.60",
+"vo" : "5,502.00",
+"avvo" : "",
+"hi52" : "130.95",
+"lo52" : "61.60",
+"mc" : "2.08B",
+"pe" : "17.65",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.42",
+"dy" : "1.59",
+"ldiv" : "1.80",
+"shares" : "18.30M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "3415449",
+"name" : "Vinyl Chemicals (India) Ltd",
+"t" : "524129",
+"e" : "BOM",
+"l" : "113.35",
+"c" : "+0.35",
+"mc" : "2.08B",
+"cp" : "0.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11604047",
+"name" : "Ashok Alco-Chem Ltd",
+"t" : "524594",
+"e" : "BOM",
+"l" : "113.40",
+"c" : "-5.00",
+"mc" : "527.92M",
+"cp" : "-4.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12339328",
+"name" : "Deepak Nitrite Ltd.",
+"t" : "DEEPAKNTR",
+"e" : "NSE",
+"l" : "260.30",
+"c" : "+3.05",
+"mc" : "34.02B",
+"cp" : "1.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "364451205232528",
+"name" : "Vikas Ecotech Ltd",
+"t" : "VIKASECO",
+"e" : "NSE",
+"l" : "38.25",
+"c" : "+0.70",
+"mc" : "10.61B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6426838",
+"name" : "INEOS Styrolution India Ltd",
+"t" : "INEOSSTYRO",
+"e" : "NSE",
+"l" : "939.00",
+"c" : "+34.65",
+"mc" : "16.57B",
+"cp" : "3.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12061497",
+"name" : "Amines and Plasticizers Ltd",
+"t" : "506248",
+"e" : "BOM",
+"l" : "77.95",
+"c" : "+0.10",
+"mc" : "4.29B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9530323",
+"name" : "Plastiblend India Ltd.",
+"t" : "PLASTIBLEN",
+"e" : "NSE",
+"l" : "200.00",
+"c" : "+8.60",
+"mc" : "5.16B",
+"cp" : "4.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "217120701046015",
+"name" : "Camlin Fine Sciences Ltd",
+"t" : "CAMLINFINE",
+"e" : "NSE",
+"l" : "121.00",
+"c" : "+7.85",
+"mc" : "14.64B",
+"cp" : "6.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8499677",
+"name" : "Diamines And Chemicals Ltd",
+"t" : "500120",
+"e" : "BOM",
+"l" : "108.00",
+"c" : "+2.40",
+"mc" : "1.06B",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5133642",
+"name" : "Vinati Organics Ltd",
+"t" : "VINATIORGA",
+"e" : "NSE",
+"l" : "786.70",
+"c" : "+4.95",
+"mc" : "40.73B",
+"cp" : "0.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6774210",
+"name" : "Ganesh Benzoplast Ltd",
+"t" : "500153",
+"e" : "BOM",
+"l" : "90.50",
+"c" : "+0.10",
+"mc" : "4.67B",
+"cp" : "0.11",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Ramakrishna Mandir Road Opp. M Vasanji Road,, Andheri (E), MUMBAI, 400069, India",
+"phone": "+91-22-28357000",
+"fax": "+91-22-28216007",
+"url": "http:\u002F\u002Fwww.vinylchemicals.com\u002F",
+"overview" : "Vinyl Chemicals (India) Ltd. is engaged in trading of chemicals. The Company is involved in the business of selling various specialty chemicals to textile, paints and adhesive sectors. The Company is engaged mainly in trading of Vinyl Acetate Monomer (VAM). The VAM is imported\u002Fsourced from various global suppliers and distributed\u002Ftraded in India."
+} ]
+, "management" : [
+{
+"name" : "Madhukar Balvantray Parekh",
+"age" : "71",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "P. C. Patel",
+"title" : "President, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Narendrakumar Kalyanji Parekh",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Ramdas Maneklal Gandhi",
+"age" : "82",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "A. D. Mavinkurve",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Y. J. Mogrelia",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,281 @@
+
+ [
+{
+"symbol" : "533151",
+"exchange" : "BOM",
+"id": "74779203919520",
+"t" : "533151",
+"e" : "BOM",
+"name" : "DB Corp Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533151"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533151"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533151"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "13.05%",
+"annual" : "16.60%",
+"ttm" : "14.53%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "19.43%",
+"annual" : "24.71%",
+"ttm" : "21.26%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "28.55%",
+"ttm" : "25.21%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "18.55%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "25.01%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "10,315",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.60",
+"l" : "326.45",
+"cp" : "-1.09",
+"ccol" : "chr",
+"op" : "330.50",
+"hi" : "333.75",
+"lo" : "324.10",
+"vo" : "1,284.00",
+"avvo" : "",
+"hi52" : "395.20",
+"lo52" : "314.40",
+"mc" : "60.18B",
+"pe" : "18.30",
+"fwpe" : "",
+"beta" : "",
+"eps" : "17.84",
+"dy" : "2.53",
+"ldiv" : "4.00",
+"shares" : "184.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "74779203919520",
+"name" : "DB Corp Ltd",
+"t" : "533151",
+"e" : "BOM",
+"l" : "326.45",
+"c" : "-3.60",
+"mc" : "60.18B",
+"cp" : "-1.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16305398",
+"name" : "HT Media Ltd",
+"t" : "HTMEDIA",
+"e" : "NSE",
+"l" : "93.15",
+"c" : "+0.15",
+"mc" : "21.65B",
+"cp" : "0.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12986165",
+"name" : "Jagran Prakashan Ltd",
+"t" : "JAGRAN",
+"e" : "NSE",
+"l" : "166.30",
+"c" : "+2.50",
+"mc" : "51.72B",
+"cp" : "1.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11119818",
+"name" : "Sandesh Ltd",
+"t" : "SANDESH",
+"e" : "NSE",
+"l" : "1,128.05",
+"c" : "+33.90",
+"mc" : "8.49B",
+"cp" : "3.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15343954",
+"name" : "Hindustan Media Ventures Ltd",
+"t" : "HMVL",
+"e" : "NSE",
+"l" : "238.40",
+"c" : "-4.10",
+"mc" : "17.55B",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10797484",
+"name" : "Deccan Chronicle Holdings Ltd.",
+"t" : "DCHL",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-5.30",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14957327",
+"name" : "Entertainment Network (India) Limited",
+"t" : "ENIL",
+"e" : "NSE",
+"l" : "711.10",
+"c" : "+8.80",
+"mc" : "33.91B",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16034520",
+"name" : "Next Mediaworks Ltd",
+"t" : "NEXTMEDIA",
+"e" : "NSE",
+"l" : "16.70",
+"c" : "-0.35",
+"mc" : "1.10B",
+"cp" : "-2.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6901585",
+"name" : "Sambhaav Media Ltd",
+"t" : "SAMBHAAV",
+"e" : "NSE",
+"l" : "10.25",
+"c" : "+0.10",
+"mc" : "1.67B",
+"cp" : "0.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "81487235758737",
+"name" : "Music Broadcast Ltd",
+"t" : "RADIOCITY",
+"e" : "NSE",
+"l" : "382.00",
+"c" : "+16.10",
+"mc" : "21.90B",
+"cp" : "4.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "872797375636547",
+"name" : "Madhya Pradesh Today Media Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Plot No. 280 Sarkhej Gandhinagar Highway Near YMCA Club Makarba, BHOPAL, 462011, India",
+"phone": "+91-755-3988884",
+"fax": "+91-755-4270469",
+"url": "http:\u002F\u002Fwww.bhaskarnet.com\u002F",
+"overview" : "D. B. Corp Limited is a print media company, which is engaged in the sale of newspapers and magazines, and advertisement revenue. The Company also has a presence in radio and digital sectors. Its segments include Printing\u002FPublishing, Radio, Event, Internet and Power. Its Printing\u002FPublishing segment includes newspaper, magazines and printing job work. Its Radio segment includes broadcasting of radio. Its Event segment includes event management. Its Internet segment includes integrated Internet and mobile interactive services. Its brands in publishing business include Dainik Bhaskar (Hindi daily), Divya Bhaskar and Saurashtra Samachar (Gujarati dailies), Divya Marathi (Marathi daily), DNA and DB Post (English dailies), and monthly magazines, such as Aha Zindagi and Bal Bhaskar. Its Internet business includes the Websites of Dainik Bhaskar, Divya Bhaskar and Divya Marathi having newspapers in e-paper category and dainikbhaskar.com, divyabhaskar.com, dailybhaskar.com and divyamarathi.com."
+} ]
+, "management" : [
+{
+"name" : "Anita Gokhale",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sudhir Agarwal",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Pawan Agarwal",
+"title" : "Deputy Managing Director, Director"
+}
+,
+{
+"name" : "Girish Agarwal",
+"age" : "44",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Anupriya Acharya",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Naveen Kumar Kshatriya",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Harish Bijoor",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Piyush Pandey",
+"age" : "59",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "532960",
+"exchange" : "BOM",
+"id": "728724",
+"t" : "532960",
+"e" : "BOM",
+"name" : "Indiabulls Ventures Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532960"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532960"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532960"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002718)",
+"kr_annual_date" : "2018",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "22.37%",
+"annual" : "28.43%",
+"ttm" : "28.43%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-25.99%",
+"annual" : "11.84%",
+"ttm" : "11.84%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.29%",
+"ttm" : "13.29%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.73%",
+"ttm" : "4.73%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "19.69%",
+"ttm" : "19.69%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "528",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-35.75",
+"l" : "481.85",
+"cp" : "-6.91",
+"ccol" : "chr",
+"op" : "522.65",
+"hi" : "522.65",
+"lo" : "472.00",
+"vo" : "442,140.00",
+"avvo" : "",
+"hi52" : "544.60",
+"lo52" : "130.15",
+"mc" : "408.22B",
+"pe" : "95.93",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.02",
+"dy" : "0.62",
+"ldiv" : "1.00",
+"shares" : "463.13M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "728724",
+"name" : "Indiabulls Ventures Ltd",
+"t" : "532960",
+"e" : "BOM",
+"l" : "481.85",
+"c" : "-35.75",
+"mc" : "408.22B",
+"cp" : "-6.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10541692",
+"name" : "Global Capital Markets Ltd",
+"t" : "530263",
+"e" : "BOM",
+"l" : "3.39",
+"c" : "+0.16",
+"mc" : "80.55M",
+"cp" : "4.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2493957",
+"name" : "Joindre Capital Services Ltd",
+"t" : "531861",
+"e" : "BOM",
+"l" : "25.55",
+"c" : "-0.30",
+"mc" : "354.18M",
+"cp" : "-1.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "299958836652076",
+"name" : "DB International Stock Brokers Ltd",
+"t" : "DBSTOCKBRO",
+"e" : "NSE",
+"l" : "8.50",
+"c" : "0.00",
+"mc" : "297.50M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11711146",
+"name" : "Vertex Securities Ltd",
+"t" : "531950",
+"e" : "BOM",
+"l" : "2.49",
+"c" : "+0.09",
+"mc" : "178.94M",
+"cp" : "3.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15446887",
+"name" : "Arihant Capital Markets Ltd",
+"t" : "511605",
+"e" : "BOM",
+"l" : "105.30",
+"c" : "+0.90",
+"mc" : "2.19B",
+"cp" : "0.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1344533",
+"name" : "Wallfort Financial Services Ltd",
+"t" : "532053",
+"e" : "BOM",
+"l" : "109.90",
+"c" : "+1.25",
+"mc" : "1.07B",
+"cp" : "1.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7256710",
+"name" : "Mindvision Capital Ltd",
+"t" : "530955",
+"e" : "BOM",
+"l" : "11.05",
+"c" : "0.00",
+"mc" : "58.57M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5317586",
+"name" : "Master Trust Ltd",
+"t" : "511768",
+"e" : "BOM",
+"l" : "79.20",
+"c" : "0.00",
+"mc" : "868.26M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3009176",
+"name" : "Skp Securities Ltd",
+"t" : "531169",
+"e" : "BOM",
+"l" : "72.00",
+"c" : "0.00",
+"mc" : "316.76M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13460263",
+"name" : "Emkay Global Financial Services Ltd",
+"t" : "EMKAY",
+"e" : "NSE",
+"l" : "149.70",
+"c" : "-7.25",
+"mc" : "3.68B",
+"cp" : "-4.62",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "448-451, Udyog Vihar, Phase-V,, GURGAON, 122016, India",
+"phone": "+91-124-4572444",
+"fax": "+91-124-6681111",
+"url": "http:\u002F\u002Fsecurities.indiabulls.com\u002F",
+"overview" : "Indiabulls Ventures Limited acts as a stock and share broker on the National Stock Exchange of India Limited (NSE), BSE Limited (BSE), depository participants and other related services. The Company\u0027s primary businesses include Broking and Related activities, and Lease Rental activities. Its segments include Broking \u0026 related activities, and Lease Rentals \u0026 related activities. Broking and related activities include business as a stock and share broker on the NSE and the BSE\u003B business as a commodity broker on the Multi Commodity Exchange of India Limited and the National Commodity and Derivative Exchange Limited\u003B brokerage\u002Fcommission on sale of flats, and other related services relating to broker activities. Lease rental and related activities include developing, operating and maintaining of industrial parks. It is also engaged in distribution of mutual funds\u002Finitial public offerings (IPOs), and other investments and tax planning products."
+} ]
+, "management" : [
+{
+"name" : "Divyesh Bharat Kumar Shah",
+"title" : "Chief Executive Officer, Whole-Time Director"
+}
+,
+{
+"name" : "Lalit Sharma",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Pinank Jayant Shah",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Saurabh K. Mittal",
+"age" : "41",
+"title" : "Member - Key Management Personnel"
+}
+,
+{
+"name" : "Rajiv Rattan",
+"age" : "44",
+"title" : "Member - Key Management Personnel"
+}
+,
+{
+"name" : "Sameer Gehlaut",
+"age" : "43",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Gagan Banga",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shyam Lal Bansal",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vijayalakshmi Rajaram Iyer",
+"age" : "62",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Alok Kumar Misra",
+"age" : "64",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

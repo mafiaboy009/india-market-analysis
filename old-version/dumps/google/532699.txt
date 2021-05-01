@@ -1,0 +1,273 @@
+
+// [
+{
+"symbol" : "532699",
+"exchange" : "BOM",
+"id": "702272",
+"t" : "532699",
+"e" : "BOM",
+"name" : "Royal Orchid Hotels Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532699"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532699"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532699"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002715)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.90%",
+"annual" : "0.87%",
+"ttm" : "-4.59%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.81%",
+"annual" : "4.56%",
+"ttm" : "4.39%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.63%",
+"ttm" : "12.92%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.41%",
+"ttm" : "-1.83%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.52%",
+"ttm" : "-2.32%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,057",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.80",
+"l" : "200.35",
+"cp" : "0.40",
+"ccol" : "chg",
+"op" : "199.55",
+"hi" : "206.00",
+"lo" : "198.00",
+"vo" : "7,028.00",
+"avvo" : "",
+"hi52" : "227.40",
+"lo52" : "81.75",
+"mc" : "5.50B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-1.42",
+"dy" : "",
+"ldiv" : "1.00",
+"shares" : "27.27M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "702272",
+"name" : "Royal Orchid Hotels Limited",
+"t" : "532699",
+"e" : "BOM",
+"l" : "200.35",
+"c" : "+0.80",
+"mc" : "5.50B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3058659",
+"name" : "Savera Industries Ltd",
+"t" : "512634",
+"e" : "BOM",
+"l" : "76.25",
+"c" : "+1.35",
+"mc" : "909.51M",
+"cp" : "1.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9671034",
+"name" : "Kamat Hotels India Ltd.",
+"t" : "KAMATHOTEL",
+"e" : "NSE",
+"l" : "112.25",
+"c" : "+3.90",
+"mc" : "2.65B",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12044087",
+"name" : "Blue Coast Hotels Ltd",
+"t" : "BLUECOAST",
+"e" : "NSE",
+"l" : "107.55",
+"c" : "0.00",
+"mc" : "1.37B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13884504",
+"name" : "EIH Limited",
+"t" : "EIHOTEL",
+"e" : "NSE",
+"l" : "166.35",
+"c" : "-2.45",
+"mc" : "95.28B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13403050",
+"name" : "Fomento Resorts \u0026 Hotels Ltd(NDA)",
+"t" : "503831",
+"e" : "BOM",
+"l" : "135.00",
+"c" : "-0.30",
+"mc" : "2.16B",
+"cp" : "-0.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13981377",
+"name" : "India Tourism Development Corp Ltd",
+"t" : "532189",
+"e" : "BOM",
+"l" : "430.50",
+"c" : "+11.20",
+"mc" : "36.68B",
+"cp" : "2.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9837592",
+"name" : "Hotel Leela Venture Limited",
+"t" : "HOTELEELA",
+"e" : "NSE",
+"l" : "19.15",
+"c" : "-0.20",
+"mc" : "12.11B",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10415540",
+"name" : "Taj GVK Hotels \u0026 Resorts Limited",
+"t" : "TAJGVK",
+"e" : "NSE",
+"l" : "167.00",
+"c" : "-0.90",
+"mc" : "10.50B",
+"cp" : "-0.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7982422",
+"name" : "Mac Charles (India) Ltd",
+"t" : "507836",
+"e" : "BOM",
+"l" : "374.00",
+"c" : "-0.35",
+"mc" : "4.90B",
+"cp" : "-0.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9888273",
+"name" : "EIH Associated Hotels Ltd.",
+"t" : "EIHAHOTELS",
+"e" : "NSE",
+"l" : "539.00",
+"c" : "-25.80",
+"mc" : "16.22B",
+"cp" : "-4.57",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "No.1, Golf Avenue HAL Airport Rd,Adjoining KGA Golf Course, BANGALORE, 560008, India",
+"phone": "+91-80-25205566",
+"fax": "+91-80-40612346",
+"overview" : "Royal Orchid Hotels Limited is engaged in the accommodation and food service activities, such as hotels, resorts and restaurants, and food and beverage service activities, such as restaurants and mobile food services. The Company operates and manages hotels\u002Fresorts, and provides related services. It offers a range of options of business hotels ranging from luxurious five-star hotels to economy business hotels. It operates approximately 30 business and leisure hotels in over 20 destinations. Its hotels include Regenta Resort Vanya Mahal, Regenta Camellia Resort and Spa, Santiniketan, Regenta Inn, Regenta Resort Central, Regenta Almeida and Regenta Orkos. Its brands include Royal Orchid Central, Royal Orchid Suites and Regenta. The Company operates hotels in Ahmedabad, Amritsar, Bangalore, Bharuch, Bhuj, Chandigarh, Chennai, Dandeli, Goa, Gurgaon, Hampi, Haridwar, Jaipur, Kolkata, Mahabaleshwar, Mussoorie, Nairobi, Navi Mumbai, Pune, Rajkot, Ranthambore, Santiniketan and Shimoga."
+} ]
+, "management" : [
+{
+"name" : "Chander K. Baljee",
+"age" : "62",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Ranabir Sanyal",
+"title" : "Company Secretary and Compliance Officer"
+}
+,
+{
+"name" : "Sunita Baljee",
+"title" : "Director"
+}
+,
+{
+"name" : "Vivek Mansingh",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sunil Sikka",
+"age" : "57",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Naveen Jain",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

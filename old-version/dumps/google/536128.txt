@@ -1,0 +1,287 @@
+
+// [
+{
+"symbol" : "536128",
+"exchange" : "BOM",
+"id": "51838132013166",
+"t" : "536128",
+"e" : "BOM",
+"name" : "VKJ Infra Developers Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=VKJI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:536128"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:536128"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:536128"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.28%",
+"annual" : "0.78%",
+"ttm" : "0.78%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-21.10%",
+"annual" : "-8.02%",
+"ttm" : "-7.56%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-7.69%",
+"ttm" : "-7.38%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.10%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.13%",
+"ttm" : ""
+}
+]
+, "c" : "-0.09",
+"l" : "1.69",
+"cp" : "-5.06",
+"ccol" : "chr",
+"op" : "1.79",
+"hi" : "1.79",
+"lo" : "1.67",
+"vo" : "447,523.00",
+"avvo" : "",
+"hi52" : "10.04",
+"lo52" : "1.67",
+"mc" : "3.15B",
+"pe" : "913.51",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.00",
+"dy" : "",
+"ldiv" : "",
+"shares" : "1.84B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "51838132013166",
+"name" : "VKJ Infra Developers Ltd",
+"t" : "536128",
+"e" : "BOM",
+"l" : "1.69",
+"c" : "-0.09",
+"mc" : "3.15B",
+"cp" : "-5.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9090968",
+"name" : "Ashiana Housing Ltd.",
+"t" : "ASHIANA",
+"e" : "NSE",
+"l" : "170.65",
+"c" : "-2.00",
+"mc" : "17.43B",
+"cp" : "-1.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11871803",
+"name" : "Manjeera Constructions Limited",
+"t" : "MANJEERA",
+"e" : "NSE",
+"l" : "62.20",
+"c" : "",
+"mc" : "778.02M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "9868297",
+"name" : "Shervani Industrial Syndicate Ltd",
+"t" : "526117",
+"e" : "BOM",
+"l" : "659.00",
+"c" : "+21.50",
+"mc" : "2.12B",
+"cp" : "3.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3309213",
+"name" : "NCC Ltd",
+"t" : "NCC",
+"e" : "NSE",
+"l" : "126.15",
+"c" : "+0.85",
+"mc" : "69.88B",
+"cp" : "0.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "836590806902797",
+"name" : "Athena Constructions Ltd",
+"t" : "539099",
+"e" : "BOM",
+"l" : "34.00",
+"c" : "+0.20",
+"mc" : "254.62M",
+"cp" : "0.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "714512",
+"name" : "Vipul Ltd.",
+"t" : "511726",
+"e" : "BOM",
+"l" : "64.10",
+"c" : "-1.40",
+"mc" : "7.68B",
+"cp" : "-2.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7981287",
+"name" : "SRS Real Infrastructure Ltd",
+"t" : "533305",
+"e" : "BOM",
+"l" : "5.20",
+"c" : "-0.49",
+"mc" : "2.09B",
+"cp" : "-8.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11428734",
+"name" : "Godrej Properties Ltd",
+"t" : "GODREJPROP",
+"e" : "NSE",
+"l" : "785.00",
+"c" : "+4.10",
+"mc" : "169.48B",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1506782",
+"name" : "Prajay Engineers Syndicate Ltd",
+"t" : "PRAENG",
+"e" : "NSE",
+"l" : "13.10",
+"c" : "-0.15",
+"mc" : "902.54M",
+"cp" : "-1.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15828531",
+"name" : "Ajmera Realty \u0026 Infra India Ltd",
+"t" : "AJMERA",
+"e" : "NSE",
+"l" : "245.00",
+"c" : "+3.30",
+"mc" : "8.71B",
+"cp" : "1.37",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "B-25, FIRST FLOOR DAYANAND COLONY, LAJPAT NAGAR, NEW DELHI, 110049, India",
+"phone": "+91-11-68888329",
+"fax": "+91-11-32319722",
+"url": "http:\u002F\u002Fwww.vkjinfra.com\u002F",
+"overview" : "VKJ Infradevelopers Limited is an India-based company. The Company is engaged in the business of trading in construction materials, land development, civil construction, site development, land filing and fencing walls. The Company primarily trades soils and sands."
+} ]
+, "management" : [
+{
+"name" : "Ameer Ahmad",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Atul Kumar",
+"age" : "33",
+"title" : "Head - Sales \u0026 Marketing"
+}
+,
+{
+"name" : "Monoj Singh",
+"age" : "40",
+"title" : "Head – Finance \u0026 Accounts"
+}
+,
+{
+"name" : "Shyam Sunder",
+"age" : "58",
+"title" : "Project Manager"
+}
+,
+{
+"name" : "Vinod Kumar",
+"title" : "Director"
+}
+,
+{
+"name" : "Agusteen Kachhap",
+"age" : "59",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Rakesh Kumar",
+"title" : "Additional Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Renu ..",
+"age" : "24",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Aayush Golash",
+"age" : "23",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

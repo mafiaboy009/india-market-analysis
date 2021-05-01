@@ -1,0 +1,333 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 1398255744,
+            "fmt": "1.4B",
+            "longFmt": "1,398,255,744"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.00338,
+            "fmt": "0.34%"
+          },
+          "floatShares": {
+            "raw": 142275660,
+            "fmt": "142.28M",
+            "longFmt": "142,275,660"
+          },
+          "sharesOutstanding": {
+            "raw": 253012000,
+            "fmt": "253.01M",
+            "longFmt": "253,012,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.943799,
+            "fmt": "0.94"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 31.222,
+            "fmt": "31.22"
+          },
+          "priceToBook": {
+            "raw": 0.6629941,
+            "fmt": "0.66"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 10978000,
+            "fmt": "10.98M",
+            "longFmt": "10,978,000"
+          },
+          "trailingEps": {
+            "raw": 0.045,
+            "fmt": "0.05"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.43,
+            "fmt": "0.43"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 956644000,
+                  "fmt": "956.64M",
+                  "longFmt": "956,644,000"
+                },
+                "earnings": {
+                  "raw": -2519141000,
+                  "fmt": "-2.52B",
+                  "longFmt": "-2,519,141,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1167461000,
+                  "fmt": "1.17B",
+                  "longFmt": "1,167,461,000"
+                },
+                "earnings": {
+                  "raw": -2414696000,
+                  "fmt": "-2.41B",
+                  "longFmt": "-2,414,696,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 1847307000,
+                  "fmt": "1.85B",
+                  "longFmt": "1,847,307,000"
+                },
+                "earnings": {
+                  "raw": -2094522000,
+                  "fmt": "-2.09B",
+                  "longFmt": "-2,094,522,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 3609240000,
+                  "fmt": "3.61B",
+                  "longFmt": "3,609,240,000"
+                },
+                "earnings": {
+                  "raw": 123778000,
+                  "fmt": "123.78M",
+                  "longFmt": "123,778,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 833640000,
+                  "fmt": "833.64M",
+                  "longFmt": "833,640,000"
+                },
+                "earnings": {
+                  "raw": 88078000,
+                  "fmt": "88.08M",
+                  "longFmt": "88,078,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 947000000,
+                  "fmt": "947M",
+                  "longFmt": "947,000,000"
+                },
+                "earnings": {
+                  "raw": 79700000,
+                  "fmt": "79.7M",
+                  "longFmt": "79,700,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 902000000,
+                  "fmt": "902M",
+                  "longFmt": "902,000,000"
+                },
+                "earnings": {
+                  "raw": 60600000,
+                  "fmt": "60.6M",
+                  "longFmt": "60,600,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 570100000,
+                  "fmt": "570.1M",
+                  "longFmt": "570,100,000"
+                },
+                "earnings": {
+                  "raw": -217400000,
+                  "fmt": "-217.4M",
+                  "longFmt": "-217,400,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Dhanalakshmi Buildings",
+          "address2": "Naickanal",
+          "city": "Thrissur",
+          "zip": "680001",
+          "country": "India",
+          "phone": "91 48 7661 7000",
+          "fax": "91 48 7661 7222",
+          "website": "http://www.dhanbank.com",
+          "industry": "Money Center Banks",
+          "sector": "Financial",
+          "longBusinessSummary": "Dhanlaxmi Bank Limited provides various banking and financial services in India. It operates through Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. The company offers deposit products, such as savings and current accounts, and term deposits; loans, including property, car, commercial, personal, education, and business loans, as well as loans against securities; and foreign exchange services comprising foreign currency cash, cheque deposits, foreign currency demand drafts, remittances, and foreign exchange cards. It also provides export and import services; credit products comprising industrial and trade advance, import export assistance, and agricultural assistance; corporate salary accounts; and cash management services, as well as life, health, car, travel, and house and shop insurance products. In addition, the company offers non-resident Indians (NRI) banking services, such as non-residential external accounts, non-resident ordinary accounts, recurring and term deposits, foreign currency non-resident fixed deposits, and resident foreign currency accounts, as well as money transfer services and NRI property loans; micro and agricultural banking, and financial planning services; and SME banking services, including working capital facilities, trade facilities, and capacity expansion services. Further, it provides credit, debit, and gift cards; and depository, online, and mobile banking services, as well as locker facilities. The company serves corporate and institutional clients; micro, small, and medium enterprises; and individuals, traders, contractors, businessmen, professionals, etc. As of March 31, 2017, it had 260 branches, 371 ATMs, 11 RPCs, CPC, and treasury. Dhanlaxmi Bank Limited was founded in 1927 and is headquartered in Thrissur, India.",
+          "fullTimeEmployees": 2021,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 20.7,
+            "fmt": "20.70"
+          },
+          "targetHighPrice": {
+            "raw": 81.0,
+            "fmt": "81.00"
+          },
+          "targetLowPrice": {
+            "raw": 81.0,
+            "fmt": "81.00"
+          },
+          "targetMeanPrice": {
+            "raw": 81.0,
+            "fmt": "81.00"
+          },
+          "targetMedianPrice": {
+            "raw": 81.0,
+            "fmt": "81.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 5602500096,
+            "fmt": "5.6B",
+            "longFmt": "5,602,500,096"
+          },
+          "totalCashPerShare": {
+            "raw": 22.163,
+            "fmt": "22.16"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 1452000000,
+            "fmt": "1.45B",
+            "longFmt": "1,452,000,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 3252640000,
+            "fmt": "3.25B",
+            "longFmt": "3,252,640,000"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 13.271,
+            "fmt": "13.27"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 3609240000,
+            "fmt": "3.61B",
+            "longFmt": "3,609,240,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.289,
+            "fmt": "-28.90%"
+          },
+          "grossMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.00338,
+            "fmt": "0.34%"
+          },
+          "profitMargins": {
+            "raw": 0.00338,
+            "fmt": "0.34%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

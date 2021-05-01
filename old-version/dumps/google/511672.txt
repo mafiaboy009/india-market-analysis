@@ -1,0 +1,280 @@
+
+// [
+{
+"symbol" : "511672",
+"exchange" : "BOM",
+"id": "3683846",
+"t" : "511672",
+"e" : "BOM",
+"name" : "Scan Steels Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SANS.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:511672"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:511672"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:511672"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.51%",
+"annual" : "-2.82%",
+"ttm" : "0.65%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.48%",
+"annual" : "-0.91%",
+"ttm" : "2.27%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.88%",
+"ttm" : "6.33%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.03%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-4.54%",
+"ttm" : ""
+}
+]
+, "c" : "+0.85",
+"l" : "22.25",
+"cp" : "3.97",
+"ccol" : "chg",
+"op" : "22.45",
+"hi" : "22.45",
+"lo" : "22.00",
+"vo" : "10,148.00",
+"avvo" : "",
+"hi52" : "25.90",
+"lo52" : "8.16",
+"mc" : "1.16B",
+"pe" : "44.24",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.50",
+"dy" : "",
+"ldiv" : "",
+"shares" : "52.35M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "3683846",
+"name" : "Scan Steels Ltd",
+"t" : "511672",
+"e" : "BOM",
+"l" : "22.25",
+"c" : "+0.85",
+"mc" : "1.16B",
+"cp" : "3.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10541692",
+"name" : "Global Capital Markets Ltd",
+"t" : "530263",
+"e" : "BOM",
+"l" : "4.43",
+"c" : "+0.02",
+"mc" : "110.28M",
+"cp" : "0.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1057898632461639",
+"name" : "LKP Securities Ltd",
+"t" : "540192",
+"e" : "BOM",
+"l" : "20.00",
+"c" : "+0.05",
+"mc" : "1.46B",
+"cp" : "0.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5242351",
+"name" : "Motilal Oswal Financial Services Limited",
+"t" : "MOTILALOFS",
+"e" : "NSE",
+"l" : "1,157.00",
+"c" : "-25.05",
+"mc" : "168.45B",
+"cp" : "-2.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "180409928723727",
+"name" : "Share India Securities Ltd",
+"t" : "540725",
+"e" : "BOM",
+"l" : "113.50",
+"c" : "0.00",
+"mc" : "2.77B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9033165",
+"name" : "Greencrest Financial Services Ltd",
+"t" : "531737",
+"e" : "BOM",
+"l" : "32.95",
+"c" : "0.00",
+"mc" : "12.04B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1319328",
+"name" : "Explicit Finance Ltd",
+"t" : "530571",
+"e" : "BOM",
+"l" : "2.62",
+"c" : "0.00",
+"mc" : "24.28M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "410015703510210",
+"name" : "Alacrity Securities Ltd",
+"t" : "535916",
+"e" : "BOM",
+"l" : "10.00",
+"c" : "+0.15",
+"mc" : "",
+"cp" : "1.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15340131",
+"name" : "Aditya Birla Money Ltd",
+"t" : "BIRLAMONEY",
+"e" : "NSE",
+"l" : "73.45",
+"c" : "-0.20",
+"mc" : "4.09B",
+"cp" : "-0.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13962542",
+"name" : "BLB Ltd",
+"t" : "BLBLIMITED",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "+0.10",
+"mc" : "327.83M",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "157978492217092",
+"name" : "GCM Commodity \u0026 Derivatives Ltd",
+"t" : "535917",
+"e" : "BOM",
+"l" : "6.78",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "7\u002FA, 2nd Floor, Beaumoon Chambers NAGINDAS MASTER ROAD, Fort, MUMBAI, 400057, India",
+"phone": "+91-22-26185461",
+"fax": "+91-22-26185463",
+"url": "http:\u002F\u002Fwww.scansteels.com\u002F",
+"overview" : "Scan Steels Limited is a steel making company. The Company is engaged in manufacturing thermo mechanical treatment (TMT) re bars\u002Fflat\u002Fangel\u002Fchennel, MS billets or ingot and sponge iron, and trading sales-steel products. The Company operates through two segments: Manufacturing and trading. The Company is involved in manufacturing steel and power for captive consumption. The Company manufactures TMT bars under the brand name, SHRISHTII TMT. SHRISHTII TMT bars are available in various diameters, such as eight millimeter (mm), 10mm, 12mm, 16mm, 20mm, 25mm, 28mm and 32mm. It also produces 16mm, 20mm and 25mm plain rods. SHRISHTII TMT bars are used for heavy load structures, including making of flyover, dams and others. The Company offers color pre-coated corrugated profile sheets and roofing accessories under the brand name, SHRISHTII ROOFING. The Company has facilities in locations, including Rajgangpur, Sundergarh\u003B Veniveerapura, Bellary, and Budhakata, Sundergarh."
+} ]
+, "management" : [
+{
+"name" : "Gobinda Chandra Nayak",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Prabir Kumar Das",
+"title" : "Chief Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ankur Madaan",
+"age" : "25",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Ramendra Pratap Singh",
+"age" : "40",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Runvijay Singh",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Rajesh Gadodia",
+"age" : "43",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Punit Kedia",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vinay Goyal",
+"age" : "26",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

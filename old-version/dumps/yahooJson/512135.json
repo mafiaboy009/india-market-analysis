@@ -1,0 +1,199 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 12455787,
+            "fmt": "12.46M",
+            "longFmt": "12,455,787"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.25189,
+            "fmt": "-25.19%"
+          },
+          "floatShares": {
+            "raw": 3436411,
+            "fmt": "3.44M",
+            "longFmt": "3,436,411"
+          },
+          "sharesOutstanding": {
+            "raw": 4894080,
+            "fmt": "4.89M",
+            "longFmt": "4,894,080"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.256017,
+            "fmt": "-0.26"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 69.89,
+            "fmt": "69.89"
+          },
+          "priceToBook": {
+            "raw": 0.0357705,
+            "fmt": "0.04"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1498780800,
+            "fmt": "2017-06-30"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -318764,
+            "fmt": "-318.76k",
+            "longFmt": "-318,764"
+          },
+          "trailingEps": {
+            "raw": -0.069,
+            "fmt": "-0.07"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 9.843,
+            "fmt": "9.84"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": -0.20634925,
+            "fmt": "-20.63%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "43, Atlanta Building",
+          "address2": "Nariman Point",
+          "city": "Mumbai",
+          "zip": "400021",
+          "country": "India",
+          "phone": "91 22 6630 6732",
+          "fax": "91 22 2204 1954",
+          "website": "http://www.ensasteel.com",
+          "industry": "Steel & Iron",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Ensa Steel Industries Limited manufactures and sells basic iron and steel products. The company was incorporated in 1985 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 2.5,
+            "fmt": "2.50"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 222226,
+            "fmt": "222.23k",
+            "longFmt": "222,226"
+          },
+          "totalCashPerShare": {
+            "raw": 0.046,
+            "fmt": "0.05"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1265474,
+            "fmt": "1.27M",
+            "longFmt": "1,265,474"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.273,
+            "fmt": "0.27"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 250964,
+            "fmt": "250.96k",
+            "longFmt": "250,964"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.823,
+            "fmt": "-82.30%"
+          },
+          "grossMargins": {
+            "raw": 0.13272999,
+            "fmt": "13.27%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": -0.25189,
+            "fmt": "-25.19%"
+          },
+          "profitMargins": {
+            "raw": -0.25189,
+            "fmt": "-25.19%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

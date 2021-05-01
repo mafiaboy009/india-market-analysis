@@ -1,0 +1,287 @@
+
+// [
+{
+"symbol" : "522029",
+"exchange" : "BOM",
+"id": "3703416",
+"t" : "522029",
+"e" : "BOM",
+"name" : "Windsor Machines Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:522029"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:522029"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:522029"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002714)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.49%",
+"annual" : "3.26%",
+"ttm" : "6.71%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.95%",
+"annual" : "6.55%",
+"ttm" : "7.71%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.67%",
+"ttm" : "8.95%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.45%",
+"ttm" : "12.61%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "19.78%",
+"ttm" : "40.61%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "533",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+4.00",
+"l" : "121.05",
+"cp" : "3.42",
+"ccol" : "chg",
+"op" : "118.20",
+"hi" : "127.90",
+"lo" : "117.85",
+"vo" : "93,434.00",
+"avvo" : "",
+"hi52" : "139.50",
+"lo52" : "46.40",
+"mc" : "7.96B",
+"pe" : "46.42",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.61",
+"dy" : "0.62",
+"ldiv" : "0.75",
+"shares" : "64.93M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "3703416",
+"name" : "Windsor Machines Ltd",
+"t" : "522029",
+"e" : "BOM",
+"l" : "121.05",
+"c" : "+4.00",
+"mc" : "7.96B",
+"cp" : "3.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12991032",
+"name" : "Rajoo Engineers Ltd",
+"t" : "522257",
+"e" : "BOM",
+"l" : "55.00",
+"c" : "+0.20",
+"mc" : "3.37B",
+"cp" : "0.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "969543919350131",
+"name" : "Mewar Hi-Tech Engineering Ltd",
+"t" : "540150",
+"e" : "BOM",
+"l" : "23.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9819620",
+"name" : "Envair Electrodyne Ltd(NDA)",
+"t" : "500246",
+"e" : "BOM",
+"l" : "18.00",
+"c" : "+0.85",
+"mc" : "52.65M",
+"cp" : "4.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8274595",
+"name" : "Roto Pumps Limited",
+"t" : "517500",
+"e" : "BOM",
+"l" : "98.25",
+"c" : "-0.50",
+"mc" : "1.51B",
+"cp" : "-0.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12451953",
+"name" : "HMT Ltd",
+"t" : "HMT",
+"e" : "NSE",
+"l" : "34.90",
+"c" : "+0.80",
+"mc" : "42.02B",
+"cp" : "2.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15105977",
+"name" : "GKW Limited",
+"t" : "GKWLIMITED",
+"e" : "NSE",
+"l" : "585.00",
+"c" : "-28.30",
+"mc" : "3.66B",
+"cp" : "-4.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7835315",
+"name" : "Best \u0026 Crompton Engg Ltd",
+"t" : "BECREL",
+"e" : "NSE",
+"l" : "3.75",
+"c" : "0.00",
+"mc" : "464.40M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4250412",
+"name" : "NESCO Ltd.",
+"t" : "NESCO",
+"e" : "NSE",
+"l" : "597.95",
+"c" : "+6.90",
+"mc" : "42.28B",
+"cp" : "1.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3719300",
+"name" : "Duncan Engineering Ltd",
+"t" : "504908",
+"e" : "BOM",
+"l" : "73.10",
+"c" : "-3.65",
+"mc" : "270.18M",
+"cp" : "-4.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7356167",
+"name" : "Kabra Extrusion Technik Limited",
+"t" : "KABRAEXTRU",
+"e" : "NSE",
+"l" : "126.25",
+"c" : "+0.45",
+"mc" : "4.00B",
+"cp" : "0.36",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "5403, Phase IV, GIDC,, Vatva, AHMEDABAD, 382445, India",
+"phone": "+91-79-25841591",
+"fax": "+91-79-25842059",
+"url": "http:\u002F\u002Fwww.windsormachines.com\u002F",
+"overview" : "Windsor Machines Limited is engaged in the business of manufacturing plastic processing machinery, which includes pipe extrusion, blow film extrusion and injection molding machines. The Company\u0027s segments include Extrusion Machinery Division and Injection Moulding Machinery. Its geographic segments include Within India and Outside India. Its injection molding products include Excel series and KL series. Its pipe extrusion line products include Agile series and Rapid 60. Its blown film extrusion lines product is 7 layer blown film extrusion line. Its other products include Twin Screw Pipe Extruder, Single Screw Pipe Extrusion Lines, Inline Drip Irrigation Solution, Multilayer IBC co-extrusion blown film lines, Multilayer Non-IBC co-extrusion blown film lines and Monolayer blown film extrusion lines. The Company also offers the Armour Series and Winpack Series of toggle injection molding machines, and Sprint Series of hydro-mechanical injection molding machines."
+} ]
+, "management" : [
+{
+"name" : "Vatsal Parekh",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Priti Patel",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "T. S. Rajan",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "P. C. Kundalia",
+"age" : "68",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Jayant M. Thakur",
+"age" : "49",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Mahua Roy Chowdhury",
+"age" : "44",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "M. K. Arora",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Shishir V. Dalal",
+"age" : "58",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

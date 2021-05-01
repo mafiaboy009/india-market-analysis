@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "521070",
+"exchange" : "BOM",
+"id": "690385",
+"t" : "521070",
+"e" : "BOM",
+"name" : "Alok Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:521070"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:521070"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:521070"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002711)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.32%",
+"annual" : "-34.42%",
+"ttm" : "4.88%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.37%",
+"annual" : "-22.62%",
+"ttm" : "17.71%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-16.33%",
+"ttm" : "25.73%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-9.11%",
+"ttm" : "2.14%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-98.15%",
+"ttm" : "11.75%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "11,978",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.13",
+"l" : "3.40",
+"cp" : "3.98",
+"ccol" : "chg",
+"op" : "3.34",
+"hi" : "3.43",
+"lo" : "3.27",
+"vo" : "859,236.00",
+"avvo" : "",
+"hi52" : "4.86",
+"lo52" : "2.30",
+"mc" : "4.65B",
+"pe" : "0.82",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.15",
+"dy" : "",
+"ldiv" : "",
+"shares" : "0.00",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "690385",
+"name" : "Alok Industries Ltd",
+"t" : "521070",
+"e" : "BOM",
+"l" : "3.40",
+"c" : "+0.13",
+"mc" : "4.65B",
+"cp" : "3.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1111381032690660",
+"name" : "AKM Lace and Embrotex Ltd",
+"t" : "540718",
+"e" : "BOM",
+"l" : "21.55",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7244988",
+"name" : "Grabal Alok Impex Limited",
+"t" : "GRABALALK",
+"e" : "NSE",
+"l" : "20.15",
+"c" : "",
+"mc" : "453.07M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "1761795",
+"name" : "Gokak Textiles Ltd",
+"t" : "532957",
+"e" : "BOM",
+"l" : "50.00",
+"c" : "0.00",
+"mc" : "324.97M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10972739",
+"name" : "Ginni Filaments Limited",
+"t" : "GINNIFILA",
+"e" : "NSE",
+"l" : "34.60",
+"c" : "-0.15",
+"mc" : "2.43B",
+"cp" : "-0.43",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3016532",
+"name" : "Nagreeka Exports Limited",
+"t" : "NAGREEKEXP",
+"e" : "NSE",
+"l" : "36.95",
+"c" : "+0.55",
+"mc" : "463.78M",
+"cp" : "1.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3091778",
+"name" : "Patspin India Ltd",
+"t" : "PATSPINLTD",
+"e" : "NSE",
+"l" : "21.85",
+"c" : "+0.30",
+"mc" : "681.93M",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9430261",
+"name" : "Tuni Textile Mills Ltd",
+"t" : "531411",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "64.01M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2241072",
+"name" : "Anjani Synthetics Ltd",
+"t" : "531223",
+"e" : "BOM",
+"l" : "33.15",
+"c" : "+0.35",
+"mc" : "487.48M",
+"cp" : "1.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11726545",
+"name" : "Rishi Techtex Ltd",
+"t" : "523021",
+"e" : "BOM",
+"l" : "66.50",
+"c" : "-4.00",
+"mc" : "491.50M",
+"cp" : "-5.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2198142",
+"name" : "Hindoostan Mills Ltd",
+"t" : "509895",
+"e" : "BOM",
+"l" : "365.00",
+"c" : "+19.75",
+"mc" : "607.56M",
+"cp" : "5.72",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Tower B Floor 2 And 3, Pnsla Bsns Prk Ganpatrao Kadam Marg Lower Parel, MUMBAI, 400013, India",
+"phone": "+91-22-61787000",
+"fax": "+91-22-22874864",
+"url": "http:\u002F\u002Fwww.alokind.com",
+"overview" : "Alok Industries Limited is a textile company with a presence in the cotton and polyester segments. The Company is engaged in manufacturing of textile, including mending and packing activities\u003B leather and other apparel products. Its geographic segments include Domestic, which includes sales to customers located in India and International, which includes sales to customers located outside India. Its divisions include Spinning, such as cotton yarn\u003B Home Textiles, such as sheeting fabric, equivalent sheet sets and terry towels\u003B Apparel Fabrics, such as woven fabric (includes embroidery) and knits\u003B Garments, and Polyester, such as continuous polymerization, partially oriented yarn (POY)\u002Fchip, draw texturized yarn (DTY), fully drawn yarn (FDY), polyester staple fiber\u002Fcationic yarn and master batch. Its products include accessories, corrugated pallets, cotton and blended yarn. It exports its products to over 90 countries across the United States, Europe, Latin America, Asia and Africa."
+} ]
+, "management" : [
+{
+"name" : "Sunil O. Khandelwal",
+"age" : "50",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Ashok B. Jiwrajka",
+"age" : "63",
+"title" : "Chief Executive - Home Textiles, Executive Director"
+}
+,
+{
+"name" : "Romi Agarwal",
+"title" : "Chief Executive Officer - Garments"
+}
+,
+{
+"name" : "Sanjay K. Bhatt",
+"title" : "Chief Executive Officer - Embroidery"
+}
+,
+{
+"name" : "Sanjay Deora",
+"title" : "Chief Executive Officer - Terry Towels"
+}
+,
+{
+"name" : "Tulsi Karnani",
+"title" : "Chief Executive Officer - Weaving"
+}
+,
+{
+"name" : "Senthil Kumar",
+"title" : "Chief Executive Officer - Processing"
+}
+,
+{
+"name" : "Arvind Maurya",
+"title" : "Chief Executive Officer - Knits"
+}
+,
+{
+"name" : "Sapan Mukherjee",
+"title" : "Chief Executive Officer - Spinning"
+}
+,
+{
+"name" : "Alok A. Jiwrajka",
+"title" : "Chief Operating Officer"
+}
+]
+,"moreresources" : [
+]
+}]

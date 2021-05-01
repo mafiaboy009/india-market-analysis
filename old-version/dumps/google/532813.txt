@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "532813",
+"exchange" : "BOM",
+"id": "10633506",
+"t" : "532813",
+"e" : "BOM",
+"name" : "C \u0026 C Constructions Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532813"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532813"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532813"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.76%",
+"annual" : "1.00%",
+"ttm" : "6.28%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "21.29%",
+"annual" : "20.37%",
+"ttm" : "32.31%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "32.88%",
+"ttm" : "37.56%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.32%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "24.88%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,043",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.80",
+"l" : "67.00",
+"cp" : "1.21",
+"ccol" : "chg",
+"op" : "66.00",
+"hi" : "67.50",
+"lo" : "66.00",
+"vo" : "4,010.00",
+"avvo" : "",
+"hi52" : "109.00",
+"lo52" : "21.10",
+"mc" : "1.70B",
+"pe" : "2.18",
+"fwpe" : "",
+"beta" : "",
+"eps" : "30.79",
+"dy" : "",
+"ldiv" : "",
+"shares" : "25.45M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10633506",
+"name" : "C \u0026 C Constructions Limited",
+"t" : "532813",
+"e" : "BOM",
+"l" : "67.00",
+"c" : "+0.80",
+"mc" : "1.70B",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15009671",
+"name" : "Continental Construction Ltd",
+"t" : "507956",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-20.75",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10664031",
+"name" : "IVRCL Ltd",
+"t" : "IVRCLINFRA",
+"e" : "NSE",
+"l" : "4.50",
+"c" : "-0.05",
+"mc" : "3.48B",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2134116",
+"name" : "SPML Infra Ltd",
+"t" : "SPMLINFRA",
+"e" : "NSE",
+"l" : "114.05",
+"c" : "-4.80",
+"mc" : "4.21B",
+"cp" : "-4.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15829063",
+"name" : "Indian Hume Pipe Company Ltd",
+"t" : "INDIANHUME",
+"e" : "NSE",
+"l" : "380.00",
+"c" : "-0.20",
+"mc" : "18.32B",
+"cp" : "-0.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "561072630042219",
+"name" : "Jaihind Projects Limited",
+"t" : "JAIHINDPRO",
+"e" : "NSE",
+"l" : "5.35",
+"c" : "0.00",
+"mc" : "52.20M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "217743789286726",
+"name" : "Raunaq EPC International Ltd",
+"t" : "537840",
+"e" : "BOM",
+"l" : "146.00",
+"c" : "+1.60",
+"mc" : "486.43M",
+"cp" : "1.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "865921167692094",
+"name" : "NBCC (India) Ltd",
+"t" : "NBCC",
+"e" : "NSE",
+"l" : "201.70",
+"c" : "-0.10",
+"mc" : "181.17B",
+"cp" : "-0.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15284677",
+"name" : "Kalpataru Power Transmission Limited",
+"t" : "KALPATPOWR",
+"e" : "NSE",
+"l" : "483.00",
+"c" : "+22.35",
+"mc" : "73.82B",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9747293",
+"name" : "Mukand Engineers Limited",
+"t" : "MUKANDENGG",
+"e" : "NSE",
+"l" : "42.75",
+"c" : "+0.90",
+"mc" : "538.11M",
+"cp" : "2.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15510598",
+"name" : "KEC International Ltd",
+"t" : "KEC",
+"e" : "NSE",
+"l" : "427.70",
+"c" : "+26.45",
+"mc" : "109.76B",
+"cp" : "6.59",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "70, Sector 32, GURGAON, 122001, India",
+"phone": "+91-124-4536666",
+"fax": "+91-124-4536799",
+"url": "http:\u002F\u002Fwww.candcinfrastructure.com\u002F",
+"overview" : "C \u0026 C Constructions Limited is engaged in the construction and maintenance of motorways, streets, roads, other vehicular and pedestrian ways, highways, bridges, tunnels and subways. The Company offers its services in roads and highways\u003B power\u002Ftelecom transmission tower\u003B commercial buildings\u003B water supply and sanitation, sewerage\u003B rail infrastructure, and urban infrastructure. It is involved in road and highway projects, such as state and national highways, city roads, bridges and culverts, highway safety systems, and operation and maintenance\u003B telecom and transmission projects, such as optical fiber cable (OFC) backbone projects, tower foundation and erection, and DG foundation and installation, and water supply and sanitation sewerage projects, such as water sanitation facilities, providing and installing sewerage system, water sewerage treatment plant and irrigation piping network. It is also engaged in rail infrastructure projects and development of commercial buildings."
+} ]
+, "management" : [
+{
+"name" : "Gurjeet Singh Johar",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Punit Kumar Trivedi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Charanbir Singh Sethi",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Amrit Pal Singh Chadha",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Sanjay Gupta",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Rajbir Singh",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Kanwal Monga",
+"age" : "70",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ramesh Chandra Rekhi",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Tarlochan Singh",
+"age" : "82",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "N. C. Vij",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

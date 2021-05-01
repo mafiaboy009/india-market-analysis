@@ -1,0 +1,288 @@
+
+// [
+{
+"symbol" : "539207",
+"exchange" : "BOM",
+"id": "668906262029285",
+"t" : "539207",
+"e" : "BOM",
+"name" : "Manpasand Beverages Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=MANB.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:539207"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:539207"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:539207"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.11%",
+"annual" : "10.13%",
+"ttm" : "10.41%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.66%",
+"annual" : "9.22%",
+"ttm" : "8.46%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.51%",
+"ttm" : "18.74%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.67%",
+"ttm" : "8.49%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.28%",
+"ttm" : "8.98%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "717",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.45",
+"l" : "385.50",
+"cp" : "-0.89",
+"ccol" : "chr",
+"op" : "396.80",
+"hi" : "401.00",
+"lo" : "383.50",
+"vo" : "8,662.00",
+"avvo" : "",
+"hi52" : "401.00",
+"lo52" : "336.00",
+"mc" : "44.10B",
+"pe" : "56.10",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.87",
+"dy" : "0.13",
+"ldiv" : "0.50",
+"shares" : "114.46M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "668906262029285",
+"name" : "Manpasand Beverages Ltd",
+"t" : "539207",
+"e" : "BOM",
+"l" : "385.50",
+"c" : "-3.45",
+"mc" : "44.10B",
+"cp" : "-0.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5466813",
+"name" : "Flex Foods Ltd",
+"t" : "523672",
+"e" : "BOM",
+"l" : "130.65",
+"c" : "-2.25",
+"mc" : "1.63B",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "720161",
+"name" : "Temptation Foods Ltd.",
+"t" : "519228",
+"e" : "BOM",
+"l" : "4.05",
+"c" : "+0.03",
+"mc" : "160.83M",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "723013",
+"name" : "Himalya International Ltd.",
+"t" : "526899",
+"e" : "BOM",
+"l" : "38.85",
+"c" : "+1.85",
+"mc" : "2.25B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16211204",
+"name" : "Foods And Inns Ltd",
+"t" : "507552",
+"e" : "BOM",
+"l" : "1,445.00",
+"c" : "-22.10",
+"mc" : "2.31B",
+"cp" : "-1.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12954185",
+"name" : "Vadilal Industries Ltd",
+"t" : "VADILALIND",
+"e" : "NSE",
+"l" : "928.50",
+"c" : "+41.50",
+"mc" : "6.68B",
+"cp" : "4.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14484118",
+"name" : "Chordia Food Products Ltd",
+"t" : "519475",
+"e" : "BOM",
+"l" : "160.00",
+"c" : "+2.00",
+"mc" : "476.82M",
+"cp" : "1.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2345324",
+"name" : "Tai Industries Ltd",
+"t" : "519483",
+"e" : "BOM",
+"l" : "19.30",
+"c" : "-1.00",
+"mc" : "119.33M",
+"cp" : "-4.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5603578",
+"name" : "Agro Tech Foods Ltd",
+"t" : "ATFL",
+"e" : "NSE",
+"l" : "638.00",
+"c" : "+7.65",
+"mc" : "15.56B",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7534003",
+"name" : "Jain Irrigation Systems Limited",
+"t" : "JISLJALEQS",
+"e" : "NSE",
+"l" : "120.00",
+"c" : "+2.00",
+"mc" : "60.71B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6650254",
+"name" : "Kohinoor Foods Ltd",
+"t" : "KOHINOOR",
+"e" : "NSE",
+"l" : "71.45",
+"c" : "+2.65",
+"mc" : "2.51B",
+"cp" : "3.85",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "E - 62, GIDC, Savli Road,, Manjusar, VADODARA, 391775, India",
+"phone": "+91-2667-290290",
+"fax": "+91-2667-264660",
+"url": "http:\u002F\u002Fmanpasand.co.in\u002F",
+"overview" : "Manpasand Beverages Limited is engaged in the business of manufacturing of fruit juices in the beverages segment. The Company is engaged in the business of manufacturing of fruit drink products with a primary focus on mango fruit. The Company offers mango-based fruit drink under the Mango Sip brand. It also offers its products in other brands, including Fruits Up, Manpasand Oral Rehydrating Salts, Pure Sip and Coco Sip. Under the Fruits Up brand, the Company offers fruit drinks and carbonated fruit drinks in various flavors, and under the Manpasand Oral Rehydrating Salts brand, it offers fruit drinks with energy replenishing qualities with a primary focus on North East India. It offers fruit drinks in various packaging types and sizes. Under the Manpasand Oral Rehydrating Salts brand, it offers products, such as MANPASAND ORS APPLE DRINK and MANPASAND ORS ORANGE DRINK. The Company\u0027s plants are located at Vadodara, Gujarat\u003B Varanasi, Uttar Pradesh, and Dehradun, Uttrakhand."
+} ]
+, "management" : [
+{
+"name" : "Dhirendra Hansraj Singh",
+"age" : "52",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Paresh Thakkar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Bhavesh Jingar",
+"title" : "Chief Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Abhishek Singh",
+"age" : "27",
+"title" : "Whole time Director"
+}
+,
+{
+"name" : "Vishal Sood",
+"age" : "43",
+"title" : "Non-Executive Nominee Director"
+}
+,
+{
+"name" : "Milindkumar Babar",
+"age" : "64",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Chirag Doshi",
+"age" : "37",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Bharti Naik",
+"age" : "36",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

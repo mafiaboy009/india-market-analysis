@@ -1,0 +1,284 @@
+
+ [
+{
+"symbol" : "539428",
+"exchange" : "BOM",
+"id": "3565948188425",
+"t" : "539428",
+"e" : "BOM",
+"name" : "Tejnaksh Healthcare Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=TEJN.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539428"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539428"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539428"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "24.37%",
+"annual" : "26.20%",
+"ttm" : "22.37%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "76.52%",
+"annual" : "39.05%",
+"ttm" : "74.33%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "43.83%",
+"ttm" : "78.83%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "20.73%",
+"annual" : "17.07%",
+"ttm" : "18.78%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "34.44%",
+"annual" : "25.48%",
+"ttm" : "24.89%"
+}
+]
+, "c" : "+20.75",
+"l" : "468.00",
+"cp" : "4.64",
+"ccol" : "chg",
+"op" : "435.00",
+"hi" : "468.00",
+"lo" : "435.00",
+"vo" : "6,400.00",
+"avvo" : "",
+"hi52" : "720.40",
+"lo52" : "261.00",
+"mc" : "982.28M",
+"pe" : "48.33",
+"fwpe" : "",
+"beta" : "",
+"eps" : "9.68",
+"dy" : "",
+"ldiv" : "",
+"shares" : "2.21M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "3565948188425",
+"name" : "Tejnaksh Healthcare Ltd",
+"t" : "539428",
+"e" : "BOM",
+"l" : "468.00",
+"c" : "+20.75",
+"mc" : "982.28M",
+"cp" : "4.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7664514",
+"name" : "Regency Hospital Ltd",
+"t" : "526403",
+"e" : "BOM",
+"l" : "52.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12676375",
+"name" : "KMC Speciality Hospitals India Ltd",
+"t" : "524520",
+"e" : "BOM",
+"l" : "21.50",
+"c" : "-0.30",
+"mc" : "3.50B",
+"cp" : "-1.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722135",
+"name" : "Fortis Malar Hospitals Ltd",
+"t" : "523696",
+"e" : "BOM",
+"l" : "65.75",
+"c" : "-4.80",
+"mc" : "1.24B",
+"cp" : "-6.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10863428",
+"name" : "N G Industries Ltd",
+"t" : "530897",
+"e" : "BOM",
+"l" : "79.90",
+"c" : "-0.10",
+"mc" : "267.70M",
+"cp" : "-0.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4709886",
+"name" : "Kovai Medical Center And Hospital Ltd",
+"t" : "KOVAI",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-139.35",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15510678",
+"name" : "Apollo Hospitals Enterprise Limited",
+"t" : "APOLLOHOSP",
+"e" : "NSE",
+"l" : "1,236.50",
+"c" : "+4.90",
+"mc" : "171.55B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "454144802285604",
+"name" : "Shalby Ltd",
+"t" : "SHALBY",
+"e" : "NSE",
+"l" : "223.25",
+"c" : "-1.25",
+"mc" : "",
+"cp" : "-0.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "608508055454839",
+"name" : "Narayana Hrudayalaya Ltd",
+"t" : "NH",
+"e" : "NSE",
+"l" : "305.15",
+"c" : "-6.60",
+"mc" : "62.41B",
+"cp" : "-2.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "288966775187151",
+"name" : "Artemis Global Life Sciences Ltd",
+"t" : "AGLSL",
+"e" : "NSE",
+"l" : "111.00",
+"c" : "+5.35",
+"mc" : "7.39B",
+"cp" : "5.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7451068",
+"name" : "PTL Enterprises Ltd",
+"t" : "PTL",
+"e" : "NSE",
+"l" : "51.40",
+"c" : "+0.15",
+"mc" : "3.40B",
+"cp" : "0.29",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Institute of Urology, Sakri Road, MUMBAI, 400059, India",
+"phone": "+91-22-40051526",
+"fax": "+91-2562-248332",
+"overview" : "Tejnaksh Healthcare Limited is an India-based company engaged in hospital activities. The Company offers healthcare services at 13 urology clinics, four urology hospitals and two dental super specialty clinics. The Company is operating one hospital at Dhule in Maharashtra. The Company\u0027s domains include Urology Hospitals, Nephrology Hospitals, Dental Clinics, Pathology Labs, Research and Development, Healthcare Equipment, Super Specialty Training Institutes, Simulation Institute and Stone Analysis Lab."
+} ]
+, "management" : [
+{
+"name" : "Ramesh Daulat Kuwar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ritika Agarwal",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ashish Vishwas Rawandale",
+"age" : "43",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Yaser Ahmedd",
+"title" : "Resident Urology"
+}
+,
+{
+"name" : "Gautam Ladumor",
+"title" : "Resident Urology"
+}
+,
+{
+"name" : "Lokesh Patni",
+"title" : "Resident Urology"
+}
+,
+{
+"name" : "Preeti Ashish Rawandale",
+"age" : "39",
+"title" : "Non-Independent Non Executive Director"
+}
+,
+{
+"name" : "Vikramsingh Satish Khatal Patil",
+"age" : "33",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kiran Madhavrao Pawar",
+"age" : "41",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

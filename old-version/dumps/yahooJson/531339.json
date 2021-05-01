@@ -1,0 +1,69 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [],
+            "quarterly": []
+          }
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 0.0,
+            "fmt": "0.00"
+          },
+          "targetHighPrice": {
+            "raw": 290.0,
+            "fmt": "290.00"
+          },
+          "targetLowPrice": {
+            "raw": 290.0,
+            "fmt": "290.00"
+          },
+          "targetMeanPrice": {
+            "raw": 290.0,
+            "fmt": "290.00"
+          },
+          "targetMedianPrice": {
+            "raw": 290.0,
+            "fmt": "290.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {},
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {},
+          "debtToEquity": {},
+          "revenuePerShare": {},
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {},
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {},
+          "ebitdaMargins": {},
+          "operatingMargins": {},
+          "profitMargins": {}
+        }
+      }
+    ],
+    "error": null
+  }
+}

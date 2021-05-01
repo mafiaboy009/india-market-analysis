@@ -1,0 +1,295 @@
+
+// [
+{
+"symbol" : "517206",
+"exchange" : "BOM",
+"id": "678104",
+"t" : "517206",
+"e" : "BOM",
+"name" : "Lumax Industries Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:517206"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:517206"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:517206"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.86%",
+"annual" : "3.81%",
+"ttm" : "3.98%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.71%",
+"annual" : "4.13%",
+"ttm" : "4.43%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.03%",
+"ttm" : "7.30%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.26%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.83%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,420",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+29.55",
+"l" : "2,255.00",
+"cp" : "1.33",
+"ccol" : "chg",
+"op" : "2,264.80",
+"hi" : "2,299.00",
+"lo" : "2,244.20",
+"vo" : "208.00",
+"avvo" : "",
+"hi52" : "2,437.00",
+"lo52" : "1,170.00",
+"mc" : "21.29B",
+"pe" : "34.03",
+"fwpe" : "",
+"beta" : "",
+"eps" : "66.26",
+"dy" : "0.64",
+"ldiv" : "14.50",
+"shares" : "9.35M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "678104",
+"name" : "Lumax Industries Limited",
+"t" : "517206",
+"e" : "BOM",
+"l" : "2,255.00",
+"c" : "+29.55",
+"mc" : "21.29B",
+"cp" : "1.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8046173",
+"name" : "Autolite India Ltd",
+"t" : "AUTOLITIND",
+"e" : "NSE",
+"l" : "77.00",
+"c" : "+2.10",
+"mc" : "859.81M",
+"cp" : "2.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8083152",
+"name" : "Phoenix Lamps Ltd",
+"t" : "PHOENIXLL",
+"e" : "NSE",
+"l" : "220.75",
+"c" : "",
+"mc" : "6.16B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "722549",
+"name" : "Hella India Lighting Ltd",
+"t" : "520026",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "16541201",
+"name" : "Minda Industries Ltd",
+"t" : "MINDAIND",
+"e" : "NSE",
+"l" : "1,122.00",
+"c" : "+17.70",
+"mc" : "97.07B",
+"cp" : "1.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2336559",
+"name" : "RACL Geartech Ltd",
+"t" : "520073",
+"e" : "BOM",
+"l" : "66.45",
+"c" : "+0.40",
+"mc" : "654.01M",
+"cp" : "0.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15274130",
+"name" : "Bharat Heavy Electricals Limited",
+"t" : "BHEL",
+"e" : "NSE",
+"l" : "93.30",
+"c" : "+0.40",
+"mc" : "342.73B",
+"cp" : "0.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6204336",
+"name" : "Siemens Ltd",
+"t" : "SIEMENS",
+"e" : "NSE",
+"l" : "1,169.00",
+"c" : "-3.10",
+"mc" : "415.99B",
+"cp" : "-0.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8330767",
+"name" : "Fiem Industries Ltd",
+"t" : "FIEMIND",
+"e" : "NSE",
+"l" : "880.00",
+"c" : "+9.55",
+"mc" : "11.53B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9034741",
+"name" : "Eveready Industries India Ltd",
+"t" : "EVEREADY",
+"e" : "NSE",
+"l" : "382.60",
+"c" : "+1.10",
+"mc" : "27.56B",
+"cp" : "0.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10500776",
+"name" : "Surya Roshni Ltd",
+"t" : "SURYAROSNI",
+"e" : "NSE",
+"l" : "449.00",
+"c" : "+8.00",
+"mc" : "19.63B",
+"cp" : "1.81",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "B-86, Phase-I, Mayapuri Industrial Area, NEW DELHI, 110064, India",
+"phone": "+91-11-28111777",
+"fax": "+91-11-28113631",
+"url": "http:\u002F\u002Fwww.lumaxindustries.com\u002F",
+"overview" : "Lumax Industries Limited is engaged in the business of manufacture of various types of automotive lighting equipment. The Company\u0027s geographical segments are domestic and overseas market. The Company has business operations across four, two-wheeler and farm equipment segments. Its product portfolio includes an array of automobile lighting systems and solutions, which include stellar quality tail lamps and head lamps, sundry and auxiliary lamps, and all other products related to lighting accessories for trucks, buses, earth-movers, tractors and a range of applications. The Company has approximately nine manufacturing plants in India. Of these, over three are located in cities of Gurgaon, Dharuhera and Bawal in the state of Haryana, near New Delhi and approximately two plants in Pune, near Mumbai in Maharashtra, over two plants in Uttarakhand - Pantnagar, Haridwar, approximately one in Sanand in the state of Gujrat and over one is located in Bidadi in the state of Karnataka."
+} ]
+, "management" : [
+{
+"name" : "Shrutikant Rustagi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ankita Gupta",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Deepak Jain",
+"title" : "Managing Director, Senior Executive Director"
+}
+,
+{
+"name" : "Tadayoshi Aoki",
+"title" : "Senior Executive Director"
+}
+,
+{
+"name" : "Eiichi Hirooka",
+"age" : "54",
+"title" : "Senior Executive Director - Nominee of Stanley"
+}
+,
+{
+"name" : "Anmol Jain",
+"age" : "35",
+"title" : "Senior Executive Director"
+}
+,
+{
+"name" : "Koji Sawada",
+"title" : "Executive Director - Nominee of Stanley Electric Co., Ltd."
+}
+,
+{
+"name" : "Naval Khanna",
+"title" : "Group Finance Head"
+}
+,
+{
+"name" : "D. K. Jain",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Toru Tanabe",
+"age" : "58",
+"title" : "Non-Executive Director - Stanley Nominee"
+}
+]
+,"moreresources" : [
+]
+}]

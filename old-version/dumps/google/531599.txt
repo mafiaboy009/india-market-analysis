@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "531599",
+"exchange" : "BOM",
+"id": "677994",
+"t" : "531599",
+"e" : "BOM",
+"name" : "F D C Ltd (Parent)"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531599"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531599"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531599"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002705)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "15.43%",
+"annual" : "17.94%",
+"ttm" : "16.71%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.87%",
+"annual" : "19.31%",
+"ttm" : "14.36%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "23.17%",
+"ttm" : "16.77%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "13.85%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.03%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5,338",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.15",
+"l" : "285.80",
+"cp" : "-0.75",
+"ccol" : "chr",
+"op" : "280.75",
+"hi" : "288.50",
+"lo" : "280.00",
+"vo" : "7,478.00",
+"avvo" : "",
+"hi52" : "297.00",
+"lo52" : "164.00",
+"mc" : "51.04B",
+"pe" : "99.64",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.87",
+"dy" : "0.79",
+"ldiv" : "2.25",
+"shares" : "294.20M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677994",
+"name" : "F D C Ltd (Parent)",
+"t" : "531599",
+"e" : "BOM",
+"l" : "285.80",
+"c" : "-2.15",
+"mc" : "51.04B",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "478315",
+"name" : "Wintac Ltd",
+"t" : "524758",
+"e" : "BOM",
+"l" : "236.50",
+"c" : "-3.50",
+"mc" : "2.37B",
+"cp" : "-1.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3289388",
+"name" : "Medicamen Biotech Ltd",
+"t" : "531146",
+"e" : "BOM",
+"l" : "691.95",
+"c" : "+23.75",
+"mc" : "7.86B",
+"cp" : "3.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7268066",
+"name" : "Auro Laboratories Ltd",
+"t" : "530233",
+"e" : "BOM",
+"l" : "99.50",
+"c" : "+0.95",
+"mc" : "622.66M",
+"cp" : "0.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11492859",
+"name" : "Sanofi India Ltd",
+"t" : "SANOFI",
+"e" : "NSE",
+"l" : "4,924.00",
+"c" : "+98.05",
+"mc" : "112.84B",
+"cp" : "2.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3758091",
+"name" : "Ajanta Pharma Ltd",
+"t" : "AJANTPHARM",
+"e" : "NSE",
+"l" : "1,436.00",
+"c" : "+61.55",
+"mc" : "126.43B",
+"cp" : "4.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2986863",
+"name" : "Alpa Laboratories Limited",
+"t" : "ALPA",
+"e" : "NSE",
+"l" : "45.90",
+"c" : "+2.15",
+"mc" : "965.76M",
+"cp" : "4.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5394531",
+"name" : "Neuland Laboratories Ltd.",
+"t" : "NEULANDLAB",
+"e" : "NSE",
+"l" : "707.35",
+"c" : "+0.70",
+"mc" : "6.28B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "503013843684723",
+"name" : "ANG Lifesciences India Ltd",
+"t" : "540694",
+"e" : "BOM",
+"l" : "74.00",
+"c" : "0.00",
+"mc" : "383.57M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7222829",
+"name" : "Makers Laboratories Ltd",
+"t" : "506919",
+"e" : "BOM",
+"l" : "81.35",
+"c" : "+1.15",
+"mc" : "406.07M",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "805988453466693",
+"name" : "Sakar Healthcare Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "142-148, S.V. Road, Jogeshwari (W), MUMBAI, 400102, India",
+"phone": "+91-22-30719200",
+"fax": "+91-22-26788123",
+"url": "http:\u002F\u002Fwww.fdcindia.com\u002F",
+"overview" : "FDC Limited is a pharmaceutical company. The Company is engaged in manufacture of specialized formulations, and oral rehydration salts (ORS). Its therapeutic areas of focus include anti-infectives, gastrointestinals, ophthalmologicals, vitamins\u002Fminerals\u002Fdietary supplements, cardiac, anti-diabetes, respiratory, gynecology, dermatology and analgesics. It has a range of functional foods and beverages. Its active pharmaceuticals ingredients (APIs) produced cover a range of therapeutic categories, such as Albuterol Sulfate, Bromhexine Hydrochloride, Cinnarizine, Flunarizine Dihydrochloride, Flurbiprofen, Flurbiprofen Sodium, Miconazole Nitrate and Timolol Maleate. Its brands include Zifi, Electral, Enerzal, Vitcofol, Pyrimon, Zocon, Zoxan, Zathrin, Zipod, Zefu, Cotaryl and Mycoderm. It has multi-location manufacturing facilities for APIs, as well as finished dosage forms. Its facilities are located at Roha, Waluj and Sinnar in Maharashtra, Verna in Goa and Baddi in Himachal Pradesh."
+} ]
+, "management" : [
+{
+"name" : "Mohan Anand Chandavarkar",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Varsharani Katre",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Nandan Mohan Chandavarkar",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Ameya Ashok Chandavarkar",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Ashok Anand Chandavarkar",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Nomita Ramdas Chandavarkar",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Uday Kumar Gurkar",
+"title" : "Additional Independent Non-Executive Director"
+}
+,
+{
+"name" : "Swati S. Mayekar",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rahim H. Muljiani",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Satish S. Ugrankar",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

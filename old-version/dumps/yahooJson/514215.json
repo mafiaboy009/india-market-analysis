@@ -1,0 +1,213 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 7063811072,
+            "fmt": "7.06B",
+            "longFmt": "7,063,811,072"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "floatShares": {
+            "raw": 4472872,
+            "fmt": "4.47M",
+            "longFmt": "4,472,872"
+          },
+          "sharesOutstanding": {
+            "raw": 22319400,
+            "fmt": "22.32M",
+            "longFmt": "22,319,400"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.224333,
+            "fmt": "0.22"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 125.117,
+            "fmt": "125.12"
+          },
+          "priceToBook": {
+            "raw": 1.2108667,
+            "fmt": "1.21"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -191547008,
+            "fmt": "-191.55M",
+            "longFmt": "-191,547,008"
+          },
+          "trailingEps": {
+            "raw": -8.581,
+            "fmt": "-8.58"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 348.074,
+            "fmt": "348.07"
+          },
+          "enterpriseToEbitda": {
+            "raw": -25.825,
+            "fmt": "-25.83"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "No.1, Cooks Road",
+          "address2": "Perambur",
+          "city": "Chennai",
+          "zip": "600012",
+          "country": "India",
+          "phone": "91 44 2662 1053",
+          "fax": "91 44 2662 1056",
+          "website": "http://www.binnyltd.in",
+          "industry": "Real Estate Development",
+          "sector": "Financial",
+          "longBusinessSummary": "Binny Limited operates in the real estate business in India. It focuses on developing a portfolio of commercial, retail, entertainment, and hospitality properties. The company was founded in 1799 and is based in Chennai, India.",
+          "fullTimeEmployees": 19,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 151.5,
+            "fmt": "151.50"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 19598000,
+            "fmt": "19.6M",
+            "longFmt": "19,598,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.877,
+            "fmt": "0.88"
+          },
+          "ebitda": {
+            "raw": -273524256,
+            "fmt": "-273.52M",
+            "longFmt": "-273,524,256"
+          },
+          "totalDebt": {
+            "raw": 2174787072,
+            "fmt": "2.17B",
+            "longFmt": "2,174,787,072"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 20294000,
+            "fmt": "20.29M",
+            "longFmt": "20,294,000"
+          },
+          "debtToEquity": {
+            "raw": 77.758,
+            "fmt": "77.76"
+          },
+          "revenuePerShare": {
+            "raw": 0.909,
+            "fmt": "0.91"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 4526812000,
+            "fmt": "4.53B",
+            "longFmt": "4,526,812,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 9.448,
+            "fmt": "944.80%"
+          },
+          "grossMargins": {
+            "raw": -0.12403,
+            "fmt": "-12.40%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": -13.5815,
+            "fmt": "-1,358.15%"
+          },
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

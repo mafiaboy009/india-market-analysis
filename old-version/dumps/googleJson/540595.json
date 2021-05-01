@@ -1,0 +1,305 @@
+
+ [
+{
+"symbol" : "540595",
+"exchange" : "BOM",
+"id": "1012798327238821",
+"t" : "540595",
+"e" : "BOM",
+"name" : "Tejas Networks Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:540595"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:540595"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:540595"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "13.11%",
+"annual" : "7.20%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "15.42%",
+"annual" : "10.51%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "20.37%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "10.00%",
+"annual" : "7.21%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "12.07%",
+"annual" : "14.68%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "592",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.70",
+"l" : "350.90",
+"cp" : "-1.04",
+"ccol" : "chr",
+"op" : "359.35",
+"hi" : "360.35",
+"lo" : "349.00",
+"vo" : "9,747.00",
+"avvo" : "",
+"hi52" : "472.20",
+"lo52" : "257.00",
+"mc" : "31.77B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "",
+"ldiv" : "",
+"shares" : "90.60M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1012798327238821",
+"name" : "Tejas Networks Ltd",
+"t" : "540595",
+"e" : "BOM",
+"l" : "350.90",
+"c" : "-3.70",
+"mc" : "31.77B",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2611067",
+"name" : "Kernex Microsystems (India) Limited",
+"t" : "KERNEX",
+"e" : "NSE",
+"l" : "45.80",
+"c" : "+1.65",
+"mc" : "572.48M",
+"cp" : "3.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16717407",
+"name" : "Precision Electronics Ltd",
+"t" : "517258",
+"e" : "BOM",
+"l" : "36.25",
+"c" : "0.00",
+"mc" : "502.01M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1046973",
+"name" : "MRO-TEK Reality Ltd",
+"t" : "MRO-TEK",
+"e" : "NSE",
+"l" : "20.75",
+"c" : "+0.95",
+"mc" : "387.71M",
+"cp" : "4.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16189035",
+"name" : "Lakshmi Electrical Control Systems Ltd",
+"t" : "504258",
+"e" : "BOM",
+"l" : "631.00",
+"c" : "+2.75",
+"mc" : "1.03B",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1218458",
+"name" : "Switching Technology Gunther Ltd",
+"t" : "517201",
+"e" : "BOM",
+"l" : "76.70",
+"c" : "-4.00",
+"mc" : "187.91M",
+"cp" : "-4.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "360698834170545",
+"name" : "VETO Switch Gears And Cables Ltd",
+"t" : "VETO",
+"e" : "NSE",
+"l" : "220.00",
+"c" : "+3.65",
+"mc" : "4.04B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "706299",
+"name" : "Jyoti Ltd.",
+"t" : "504076",
+"e" : "BOM",
+"l" : "49.15",
+"c" : "+0.40",
+"mc" : "837.59M",
+"cp" : "0.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3389766",
+"name" : "JSL Industries Ltd",
+"t" : "504080",
+"e" : "BOM",
+"l" : "104.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15274130",
+"name" : "Bharat Heavy Electricals Limited",
+"t" : "BHEL",
+"e" : "NSE",
+"l" : "93.30",
+"c" : "+0.40",
+"mc" : "342.73B",
+"cp" : "0.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1597800",
+"name" : "Havells India Ltd",
+"t" : "HAVELLS",
+"e" : "NSE",
+"l" : "512.05",
+"c" : "+4.35",
+"mc" : "320.17B",
+"cp" : "0.86",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "25 JP SOFTWARE PARK HOSUR ROAD, ELECTRONIC CITY PHASE 1, BANGALORE, 560100, India",
+"phone": "+91-80-41794600",
+"fax": "+91-80-28520201",
+"url": "http:\u002F\u002Fwww.tejasnetworks.com\u002F",
+"overview" : "Tejas Networks Ltd. is a provider of carrier grade communications equipment and solutions for telecom industry. The Company is a supplier of optical networking equipment to telecom carriers across the world. Its equipment is used by various service providers to build broadband networks, in addition to support traditional voice networks. The Company offers various products, such as TJ1400, TJ1600, TJ1400P, TJ1400 PTN, TJ1100, TJ1270, TJ100ME, TJ1500, TJ1600 and TJ5500. The Company offers various solutions for third generation (3G) backhaul\u003B enterprise connectivity, including Ethernet Private Line (EPL), Ethernet Virtual Private Line (EVPL), E-Tree and Ethernet Virtual Private Tree (EVP-Tree)\u003B cable multi system operators\u003B government broadband\u003B campus applications, and Wholesale Ethernet, among others. It offers a portfolio of Carrier Ethernet aggregation equipment for Ethernet wholesale. Its technology facilitates various applications, such as video calls and mobile television."
+} ]
+, "management" : [
+{
+"name" : "Sanjay Nayak",
+"age" : "52",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Venkatesh Gadiyar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sukhvinder Kumar",
+"title" : "President – Global Manufacturing Operations"
+}
+,
+{
+"name" : "Arnob Roy",
+"title" : "President – Optical Products"
+}
+,
+{
+"name" : "Kumar N. Sivarajan",
+"title" : "Chief Technology Officer"
+}
+,
+{
+"name" : "Krishnakanth G. V.",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Venkatraman Balakrishnan",
+"age" : "52",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Gururaj Deshpande Ph.D.",
+"age" : "66",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shirish Saraf",
+"age" : "49",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Leela Krishnamurthy Ponappa",
+"age" : "70",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Mar 5, 2018",
+"time": "",
+"future": 1,
+"desc": "Tejas Networks Ltd at Nomura India Corporate Day"
+}
+]
+}]

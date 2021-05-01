@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "532847",
+"exchange" : "BOM",
+"id": "709395",
+"t" : "532847",
+"e" : "BOM",
+"name" : "Hilton Metal Forging Limitied"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532847"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532847"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532847"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.65%",
+"annual" : "-0.08%",
+"ttm" : "1.76%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.06%",
+"annual" : "2.00%",
+"ttm" : "5.44%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.22%",
+"ttm" : "8.08%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.06%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-0.10%",
+"ttm" : ""
+}
+]
+, "c" : "+2.00",
+"l" : "35.25",
+"cp" : "6.02",
+"ccol" : "chg",
+"op" : "34.40",
+"hi" : "37.00",
+"lo" : "33.25",
+"vo" : "13,119.00",
+"avvo" : "",
+"hi52" : "54.55",
+"lo52" : "18.00",
+"mc" : "442.58M",
+"pe" : "24.74",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.42",
+"dy" : "",
+"ldiv" : "",
+"shares" : "12.44M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "709395",
+"name" : "Hilton Metal Forging Limitied",
+"t" : "532847",
+"e" : "BOM",
+"l" : "35.25",
+"c" : "+2.00",
+"mc" : "442.58M",
+"cp" : "6.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7992497",
+"name" : "Steelcast Ltd",
+"t" : "513517",
+"e" : "BOM",
+"l" : "183.60",
+"c" : "-3.40",
+"mc" : "3.72B",
+"cp" : "-1.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12929641",
+"name" : "Facor Steels Limited",
+"t" : "532657",
+"e" : "BOM",
+"l" : "0.27",
+"c" : "0.00",
+"mc" : "55.76M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7239283",
+"name" : "Krishna Ferro Products Ltd.",
+"t" : "513627",
+"e" : "BOM",
+"l" : "2.25",
+"c" : "0.00",
+"mc" : "9.82M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2963084",
+"name" : "Nitin Castings Ltd",
+"t" : "508875",
+"e" : "BOM",
+"l" : "126.70",
+"c" : "-5.90",
+"mc" : "325.70M",
+"cp" : "-4.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13731311",
+"name" : "Uni Abex Alloy Products Ltd",
+"t" : "504605",
+"e" : "BOM",
+"l" : "550.00",
+"c" : "+5.00",
+"mc" : "1.09B",
+"cp" : "0.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1209779",
+"name" : "Ashok Magnetics Ltd",
+"t" : "AMLSTEEL",
+"e" : "NSE",
+"l" : "9.20",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6810385",
+"name" : "Mahindra Ugine Steel Company Limited",
+"t" : "MAHINDUGIN",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-573.95",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2396366",
+"name" : "Kalyani Steels Limited",
+"t" : "KSL",
+"e" : "NSE",
+"l" : "318.70",
+"c" : "+3.10",
+"mc" : "13.92B",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13928461",
+"name" : "Garg Furnace Ltd",
+"t" : "530615",
+"e" : "BOM",
+"l" : "10.69",
+"c" : "+0.08",
+"mc" : "42.53M",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "701, Palm Spring, Link Road, Malad (W), MUMBAI, 400064, India",
+"phone": "+91-22-40426565",
+"fax": "+91-22-40426566",
+"url": "http:\u002F\u002Fwww.hiltonmetal.com\u002F",
+"overview" : "Hilton Metal Forging Limited is an India-based manufacturer of forged engineering components. The Company is engaged in manufacturing of steel forgings, and flanges and forged fittings for oil and gas industry, petrochemicals and refineries. The Company\u0027s products include engineered parts, stainless steel flanges, high pressure flanges, crank shaft, body bonnets, hydraulic fittings, forged components, Christmas tree components, top deck cover, stub ends, threaded flanges, blind flanges, weld neck flanges and socket welded flanges. The Company distributes steel forged flanges, fittings, and oilfield and marine products for both the domestic and international markets. The Company has its plant at Village Ghonsai, Taluka Wada, District Palghar."
+} ]
+, "management" : [
+{
+"name" : "Yuvraj Hiralal Malhotra",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Yashika Yuvraj Malhotra",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Suryakant Mayani",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Diksha Malhotra",
+"age" : "44",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Navraj Hiralal Malhotra",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Harmohindar Singh Dhingra",
+"age" : "74",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sanjay Jain",
+"age" : "48",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Joseph William McKay",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Manoj Kumar More",
+"age" : "42",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rajiv Sushil Verma",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

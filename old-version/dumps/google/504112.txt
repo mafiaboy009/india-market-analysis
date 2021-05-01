@@ -1,0 +1,283 @@
+
+// [
+{
+"symbol" : "504112",
+"exchange" : "BOM",
+"id": "707548",
+"t" : "504112",
+"e" : "BOM",
+"name" : "Nelco Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:504112"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:504112"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:504112"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.21%",
+"annual" : "4.37%",
+"ttm" : "6.27%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.02%",
+"annual" : "7.04%",
+"ttm" : "8.02%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.62%",
+"ttm" : "13.95%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.39%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "33.30%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "330",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+15.95",
+"l" : "175.85",
+"cp" : "9.97",
+"ccol" : "chg",
+"op" : "161.90",
+"hi" : "175.85",
+"lo" : "160.00",
+"vo" : "335,904.00",
+"avvo" : "",
+"hi52" : "178.40",
+"lo52" : "76.10",
+"mc" : "4.03B",
+"pe" : "43.40",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.05",
+"dy" : "",
+"ldiv" : "",
+"shares" : "22.82M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "707548",
+"name" : "Nelco Limited",
+"t" : "504112",
+"e" : "BOM",
+"l" : "175.85",
+"c" : "+15.95",
+"mc" : "4.03B",
+"cp" : "9.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "717905",
+"name" : "Aishwarya Technologies and Telecom Ltd",
+"t" : "532975",
+"e" : "BOM",
+"l" : "6.09",
+"c" : "0.00",
+"mc" : "131.32M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8328773",
+"name" : "Shyam Telecom Limited",
+"t" : "SHYAMTEL",
+"e" : "NSE",
+"l" : "12.50",
+"c" : "0.00",
+"mc" : "140.88M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6604439",
+"name" : "Smartlink Network Systems Ltd",
+"t" : "SMARTLINK",
+"e" : "NSE",
+"l" : "103.00",
+"c" : "+1.05",
+"mc" : "2.31B",
+"cp" : "1.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16708397",
+"name" : "Himachal Futuristic Communications (P)",
+"t" : "HFCL",
+"e" : "NSE",
+"l" : "29.30",
+"c" : "+1.10",
+"mc" : "36.25B",
+"cp" : "3.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3945360",
+"name" : "Punjab Communications Ltd",
+"t" : "500346",
+"e" : "BOM",
+"l" : "40.15",
+"c" : "+0.65",
+"mc" : "482.75M",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6969117",
+"name" : "ADC India Communications Limited",
+"t" : "523411",
+"e" : "BOM",
+"l" : "233.95",
+"c" : "+1.45",
+"mc" : "1.08B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "899703",
+"name" : "ITI Limited",
+"t" : "ITI",
+"e" : "NSE",
+"l" : "121.10",
+"c" : "-4.60",
+"mc" : "92.55B",
+"cp" : "-3.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3962598",
+"name" : "HCL Infosystems Limited",
+"t" : "HCL-INSYS",
+"e" : "NSE",
+"l" : "62.90",
+"c" : "-1.00",
+"mc" : "20.79B",
+"cp" : "-1.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1046973",
+"name" : "MRO-TEK Reality Ltd",
+"t" : "MRO-TEK",
+"e" : "NSE",
+"l" : "20.75",
+"c" : "+0.95",
+"mc" : "387.71M",
+"cp" : "4.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8561756",
+"name" : "Micro Technologies (India) Limited",
+"t" : "MICROTECH",
+"e" : "NSE",
+"l" : "3.60",
+"c" : "",
+"mc" : "122.77M",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Plot No. EL 6 Electronics Zone, MIDC Mahape, NAVI MUMBAI, 400710, India",
+"phone": "+91-22-67399100",
+"fax": "+91-22-67398787",
+"url": "http:\u002F\u002Fwww.nelco.in\u002F",
+"overview" : "Nelco Limited (Nelco) is a very small aperture terminal (VSAT) provider and offers network communications solutions. The Company operates through two segments: Network Systems consisting of VSAT services (including SATCOM) and Managed Services, and Automation \u0026 Control consisting of Integrated Security and Surveillance Solutions (ISSS) and Unattended Ground Sensor (UGS) business. Its solutions include Tatanet VSAT, ISS, Managed Services, Meteorological Solutions and Satcom Projects. Tatanet VSAT Services offered by Nelco, is a satellite-based communications service capable of supporting Internet, data, video, local area network and voice\u002Ffax communications. It offers integrated management of indoor and outdoor security systems, such as fire detection systems, perimeter security systems, gates control, closed-circuit television surveillance, scanning devices and vehicle management. Its meteorological solutions include life cycle maintenance in the field of environmental monitoring."
+} ]
+, "management" : [
+{
+"name" : "P. J. Nath",
+"age" : "53",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "Girish V. Kirkinde",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajendra Ramdas Bhinge",
+"age" : "62",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sowmyan Ramakrishnan",
+"age" : "66",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Hema Hattangady",
+"age" : "52",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "K. Raghuraman",
+"age" : "66",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Krishnan Ramachandran",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,298 @@
+
+// [
+{
+"symbol" : "533271",
+"exchange" : "BOM",
+"id": "7459487",
+"t" : "533271",
+"e" : "BOM",
+"name" : "Ashoka Buildcon Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533271"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533271"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533271"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-25.00%",
+"annual" : "-4.20%",
+"ttm" : "-7.92%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "21.67%",
+"annual" : "20.87%",
+"ttm" : "20.96%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "30.05%",
+"ttm" : "32.51%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.13%",
+"ttm" : "-2.08%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-0.59%",
+"ttm" : "-5.47%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,815",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.45",
+"l" : "223.75",
+"cp" : "1.11",
+"ccol" : "chg",
+"op" : "222.25",
+"hi" : "225.00",
+"lo" : "222.10",
+"vo" : "2,905.00",
+"avvo" : "",
+"hi52" : "268.50",
+"lo52" : "171.65",
+"mc" : "41.86B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-4.78",
+"dy" : "0.72",
+"ldiv" : "0.80",
+"shares" : "187.15M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7459487",
+"name" : "Ashoka Buildcon Ltd",
+"t" : "533271",
+"e" : "BOM",
+"l" : "223.75",
+"c" : "+2.45",
+"mc" : "41.86B",
+"cp" : "1.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9403325",
+"name" : "Consolidated Construction Consortium Ltd",
+"t" : "CCCL",
+"e" : "NSE",
+"l" : "5.00",
+"c" : "-0.25",
+"mc" : "1.99B",
+"cp" : "-4.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6864582",
+"name" : "Jaiprakash Associates Limited",
+"t" : "JPASSOCIAT",
+"e" : "NSE",
+"l" : "18.35",
+"c" : "-0.80",
+"mc" : "42.95B",
+"cp" : "-4.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2325070",
+"name" : "Madhucon Projects Ltd.",
+"t" : "MADHUCON",
+"e" : "NSE",
+"l" : "27.70",
+"c" : "+0.30",
+"mc" : "2.04B",
+"cp" : "1.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8331198",
+"name" : "Reliance Infrastructure Ltd",
+"t" : "RELINFRA",
+"e" : "NSE",
+"l" : "465.70",
+"c" : "+11.15",
+"mc" : "122.62B",
+"cp" : "2.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715513",
+"name" : "Marg Ltd.",
+"t" : "530543",
+"e" : "BOM",
+"l" : "19.45",
+"c" : "+0.90",
+"mc" : "731.55M",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1672734",
+"name" : "Hindustan Dorr-Oliver Ltd",
+"t" : "HINDDORROL",
+"e" : "NSE",
+"l" : "4.65",
+"c" : "+0.20",
+"mc" : "334.83M",
+"cp" : "4.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7082343",
+"name" : "Ahluwalia Contracts India Ltd",
+"t" : "AHLUCONT",
+"e" : "NSE",
+"l" : "392.70",
+"c" : "+21.35",
+"mc" : "26.22B",
+"cp" : "5.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "627005",
+"name" : "Artson Engineering Ltd",
+"t" : "522134",
+"e" : "BOM",
+"l" : "84.50",
+"c" : "-0.70",
+"mc" : "3.14B",
+"cp" : "-0.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11147810",
+"name" : "Petron Engineering Construction Ltd",
+"t" : "PETRONENGG",
+"e" : "NSE",
+"l" : "117.45",
+"c" : "-2.45",
+"mc" : "877.70M",
+"cp" : "-2.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2403128",
+"name" : "Artefact Projects Ltd",
+"t" : "531297",
+"e" : "BOM",
+"l" : "47.50",
+"c" : "0.00",
+"mc" : "262.44M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Ashoka House, Ashoka Marg,Ashoka Nagar, NASHIK, 422011, India",
+"phone": "+91-253-3011705",
+"fax": "+91-253-2422704",
+"url": "http:\u002F\u002Fwww.ashokabuildcon.com\u002Fhome.html",
+"overview" : "Ashoka Buildcon Limited is an India-based infrastructure development company. The Company is engaged in construction and maintenance of roads, and supporting services to land support-operation of toll roads and others. The Company operates through three segments: Construction and Contract related activities\u003B BOT Projects, and Sales of Goods. Its Construction and Contract related activities segment consists of execution of engineering and construction projects to provide solutions in civil and electrical engineering (on turnkey basis or otherwise) to core\u002Finfrastructure sectors. The Company\u0027s BOT Activity relates to execution of projects on long-term basis comprising developing, operating and maintaining the infrastructure facility. The Sales of Goods segment includes the activity of selling of ready mix concrete (RMC), plain cement concrete (PCC) poles, software and bitumen. The Company has projects under construction in the States of Tamil Nadu, Karnataka, Odisha and West Bengal."
+} ]
+, "management" : [
+{
+"name" : "Ashok Motilal Katariya",
+"age" : "65",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Satish Dhondulal Parakh",
+"age" : "55",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Milapraj S. Bhansali",
+"age" : "62",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Sanjay P. Londhe",
+"age" : "50",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Manoj A. Kulkarni",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Sunanda Dandekar",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Sharadchandra D. Abhyankar",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Gyan Chand Daga",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Michael Philip Pinto",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Albert Tauro",
+"age" : "63",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

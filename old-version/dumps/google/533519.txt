@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "533519",
+"exchange" : "BOM",
+"id": "2985232",
+"t" : "533519",
+"e" : "BOM",
+"name" : "L\u0026T Finance Holdings Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533519"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533519"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533519"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.23%",
+"annual" : "12.16%",
+"ttm" : "13.98%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "66.92%",
+"annual" : "66.73%",
+"ttm" : "64.42%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "70.50%",
+"ttm" : "64.96%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.53%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.12%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "12,705",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+6.05",
+"l" : "168.15",
+"cp" : "3.73",
+"ccol" : "chg",
+"op" : "163.95",
+"hi" : "169.00",
+"lo" : "162.20",
+"vo" : "334,871.00",
+"avvo" : "",
+"hi52" : "213.60",
+"lo52" : "112.75",
+"mc" : "306.64B",
+"pe" : "24.45",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.88",
+"dy" : "0.48",
+"ldiv" : "0.80",
+"shares" : "1.82B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2985232",
+"name" : "L\u0026T Finance Holdings Ltd",
+"t" : "533519",
+"e" : "BOM",
+"l" : "168.15",
+"c" : "+6.05",
+"mc" : "306.64B",
+"cp" : "3.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6950297",
+"name" : "Sundaram Finance Limited",
+"t" : "SUNDARMFIN",
+"e" : "NSE",
+"l" : "1,725.00",
+"c" : "+30.00",
+"mc" : "191.65B",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11784956",
+"name" : "Mahindra \u0026 Mahindra Fin. Services Ltd.",
+"t" : "M\u0026MFIN",
+"e" : "NSE",
+"l" : "445.75",
+"c" : "+4.40",
+"mc" : "274.84B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1026704",
+"name" : "Magma Fincorp Ltd",
+"t" : "MAGMA",
+"e" : "NSE",
+"l" : "165.05",
+"c" : "+3.15",
+"mc" : "39.09B",
+"cp" : "1.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16455919",
+"name" : "Cholamandalam Investment and Fin Co Ltd",
+"t" : "CHOLAFIN",
+"e" : "NSE",
+"l" : "1,438.00",
+"c" : "+22.40",
+"mc" : "223.74B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3873499",
+"name" : "Paragon Finance Ltd",
+"t" : "531255",
+"e" : "BOM",
+"l" : "24.90",
+"c" : "-2.60",
+"mc" : "105.82M",
+"cp" : "-9.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14153912",
+"name" : "IDFC Ltd",
+"t" : "IDFC",
+"e" : "NSE",
+"l" : "53.45",
+"c" : "+0.45",
+"mc" : "84.92B",
+"cp" : "0.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "399986380824131",
+"name" : "SRS Finance Ltd",
+"t" : "536799",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "-0.04",
+"mc" : "93.22M",
+"cp" : "-4.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10438521",
+"name" : "Kailash Auto Finance Ltd",
+"t" : "511357",
+"e" : "BOM",
+"l" : "0.64",
+"c" : "0.00",
+"mc" : "380.76M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7549254",
+"name" : "Baid Leasing \u0026 Finance Co",
+"t" : "511724",
+"e" : "BOM",
+"l" : "167.40",
+"c" : "+1.55",
+"mc" : "1.69B",
+"cp" : "0.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7686660",
+"name" : "Shalibhadra Finance Ltd",
+"t" : "511754",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "-5.35",
+"mc" : "652.09M",
+"cp" : "-3.95",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "3rd Floor L\u0026T House, N.M.Marg,Ballard Estate, MUMBAI, 400098, India",
+"phone": "+91-22-66217300",
+"fax": "+91-22-66217302",
+"url": "https:\u002F\u002Fwww.ltfs.com\u002F",
+"overview" : "L\u0026T Finance Holdings Limited is a non-banking financial institution-core investment company. The Company\u0027s segments include Retail and Mid Market Finance, which consists of rural products finance, personal vehicle finance, microfinance, housing finance, commercial vehicle finance, construction equipment finance, loans and leases, loan against shares and supply chain finance\u003B Wholesale Finance, which consists of project finance and non-project corporate finance to infra and non-infra segments across power-thermal and renewable\u003B transportation-roads, ports and airports\u003B telecom, and other non-infra segments\u003B Investment Management, which consists of assets management of mutual fund and private equity fund, and Other Business, which consists of wealth management and financial product distribution. It offers a range of financial products and services across retail, corporate, housing and infrastructure finance sectors, as well as mutual fund products and investment management services."
+} ]
+, "management" : [
+{
+"name" : "Sachinn Joshi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Suneet K. Maheshwari",
+"title" : "Managing Director \u0026 Chief Executive of L\u0026T Infrastructure Finance Company Limited"
+}
+,
+{
+"name" : "Apurva Rathod",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Dinanath Dubhashi",
+"title" : "Deputy Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Upma Goel",
+"title" : "Deputy Finance Controller"
+}
+,
+{
+"name" : "Shailesh V. Haribhakti",
+"age" : "61",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Thomas Mathew T.",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Pavninder Singh",
+"title" : "Nominee Director"
+}
+,
+{
+"name" : "R. Shankar Raman",
+"age" : "58",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Vaishali Kasture",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

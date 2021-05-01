@@ -1,0 +1,201 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 192313040,
+            "fmt": "192.31M",
+            "longFmt": "192,313,040"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.99935997,
+            "fmt": "-99.94%"
+          },
+          "floatShares": {
+            "raw": 570106956,
+            "fmt": "570.11M",
+            "longFmt": "570,106,956"
+          },
+          "sharesOutstanding": {
+            "raw": 1003440000,
+            "fmt": "1B",
+            "longFmt": "1,003,440,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.515571,
+            "fmt": "0.52"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 24.486,
+            "fmt": "24.49"
+          },
+          "priceToBook": {
+            "raw": 0.007759536,
+            "fmt": "0.01"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1506729600,
+            "fmt": "2017-09-30"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -88241000,
+            "fmt": "-88.24M",
+            "longFmt": "-88,241,000"
+          },
+          "trailingEps": {
+            "raw": -0.087,
+            "fmt": "-0.09"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "10/1",
+          "lastSplitDate": {
+            "raw": 1328140800,
+            "fmt": "2012-02-02"
+          },
+          "enterpriseToRevenue": {
+            "raw": 2.178,
+            "fmt": "2.18"
+          },
+          "enterpriseToEbitda": {
+            "raw": -6.844,
+            "fmt": "-6.84"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Sitladevi Chs Ltd, Block ?D",
+          "address2": "Room No. 122, 1st Floor D N Nagar Ambivali Andheri (West)",
+          "city": "Mumbai",
+          "zip": "400053",
+          "country": "India",
+          "phone": "91 22 4295 6833",
+          "fax": "91 22 4295 6833",
+          "website": "http://www.Indianinfotechandsoftwareltd.com",
+          "industry": "Credit Services",
+          "sector": "Financial",
+          "longBusinessSummary": "Indian Infotech and Software Limited, a non-banking finance company, engages in the business of providing finance. The company focuses on consumer lending, SME, and commercial lending activities. It also provides IT software and hardware products. It serves industrial enterprises. The company was formerly known as Indian Leasers Limited and changed its name to Indian Infotech and Software Limited in July 1998. Indian Infotech and Software Limited was founded in 1982 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 0.19,
+            "fmt": "0.19"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": -28097906,
+            "fmt": "-28.1M",
+            "longFmt": "-28,097,906"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 88297000,
+            "fmt": "88.3M",
+            "longFmt": "88,297,000"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.087,
+            "fmt": "0.09"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 151850000,
+            "fmt": "151.85M",
+            "longFmt": "151,850,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.62,
+            "fmt": "-62.00%"
+          },
+          "grossMargins": {
+            "raw": 0.97361,
+            "fmt": "97.36%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.31822002,
+            "fmt": "-31.82%"
+          },
+          "operatingMargins": {
+            "raw": -0.90344,
+            "fmt": "-90.34%"
+          },
+          "profitMargins": {
+            "raw": -0.99935997,
+            "fmt": "-99.94%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

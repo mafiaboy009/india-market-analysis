@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "532650",
+"exchange" : "BOM",
+"id": "726201",
+"t" : "532650",
+"e" : "BOM",
+"name" : "MSP Steel \u0026 Power Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532650"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532650"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532650"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002711)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.00%",
+"annual" : "-11.12%",
+"ttm" : "10.51%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-14.26%",
+"annual" : "2.13%",
+"ttm" : "6.51%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.83%",
+"ttm" : "15.47%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-5.26%",
+"ttm" : "5.25%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-19.98%",
+"ttm" : "18.42%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,018",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.35",
+"l" : "22.00",
+"cp" : "1.62",
+"ccol" : "chg",
+"op" : "21.30",
+"hi" : "22.00",
+"lo" : "21.30",
+"vo" : "4,500.00",
+"avvo" : "",
+"hi52" : "29.10",
+"lo52" : "12.00",
+"mc" : "2.00B",
+"pe" : "2.55",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.62",
+"dy" : "",
+"ldiv" : "",
+"shares" : "88.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "726201",
+"name" : "MSP Steel \u0026 Power Ltd",
+"t" : "532650",
+"e" : "BOM",
+"l" : "22.00",
+"c" : "+0.35",
+"mc" : "2.00B",
+"cp" : "1.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9017629",
+"name" : "Ashirwad Steels And Industries Ltd",
+"t" : "526847",
+"e" : "BOM",
+"l" : "16.00",
+"c" : "-0.75",
+"mc" : "200.00M",
+"cp" : "-4.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14744034",
+"name" : "Sarda Energy \u0026 Minerals Limited",
+"t" : "SARDAEN",
+"e" : "NSE",
+"l" : "502.00",
+"c" : "+4.00",
+"mc" : "18.02B",
+"cp" : "0.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6774107",
+"name" : "Monnet Ispat \u0026 Energy Ltd.",
+"t" : "MONNETISPA",
+"e" : "NSE",
+"l" : "27.35",
+"c" : "+0.85",
+"mc" : "5.45B",
+"cp" : "3.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12512694",
+"name" : "Vaswani Industries Ltd",
+"t" : "VASWANI",
+"e" : "NSE",
+"l" : "15.95",
+"c" : "+0.65",
+"mc" : "486.45M",
+"cp" : "4.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715254",
+"name" : "Kanishk Steel Industries Ltd.",
+"t" : "513456",
+"e" : "BOM",
+"l" : "15.49",
+"c" : "+0.55",
+"mc" : "440.47M",
+"cp" : "3.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12747058",
+"name" : "Tata Sponge Iron Ltd",
+"t" : "TATASPONGE",
+"e" : "NSE",
+"l" : "1,066.00",
+"c" : "+31.30",
+"mc" : "16.46B",
+"cp" : "3.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4455929",
+"name" : "Ramsarup Industries Ltd.",
+"t" : "RAMSARUP",
+"e" : "NSE",
+"l" : "1.75",
+"c" : "0.00",
+"mc" : "61.39M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10782252",
+"name" : "Maharashtra Seamless Ltd",
+"t" : "MAHSEAMLES",
+"e" : "NSE",
+"l" : "462.10",
+"c" : "+6.15",
+"mc" : "30.99B",
+"cp" : "1.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "312369",
+"name" : "Sunflag Iron \u0026 Steel Company Ltd.",
+"t" : "SUNFLAG",
+"e" : "NSE",
+"l" : "95.95",
+"c" : "+1.95",
+"mc" : "17.13B",
+"cp" : "2.07",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "16\u002FS, Block \u0027A\u0027, New Alipore, KOLKATA, 700053, India",
+"phone": "+91-33-24570038",
+"fax": "+91-33-24573940",
+"url": "http:\u002F\u002Fwww.mspsteel.com\u002F",
+"overview" : "MSP Steel \u0026 Power Limited is engaged in manufacturing of steel and steel products. The Company is also engaged in the manufacture and sale of iron. The Company is also engaged in the generation and sale of power. The Company has manufacturing plant in Raigarh, Chhattisgarh. The Company also rolls steel at its rolling and structure mills to produce value-added rolled long products. The Company has beneficiation and pellet manufacturing facilities. The Company offers a portfolio, including pellets, sponge iron, billets, power and thermo mechanically treated (TMT) structural. The Company\u0027s captive pellet plant produces over 900,000 tons per annum (TPA) iron pellets. The Company power generation capacity of 24 megawatts is based out of Waste Heat Recovery (WHR) from Direct-reduced iron (DRI)\u002Fsteel melting shop (SMS) facilities. The Company produces over 307,500 TPA unit of sponge iron at Raigarh, Chhattisgarh. MSP Cement Limited is the subsidiary of the Company."
+} ]
+, "management" : [
+{
+"name" : "Kamal Kumar Jain",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manish Seth",
+"title" : "President - Commercial \u0026 Pellet"
+}
+,
+{
+"name" : "Sambeet Das",
+"title" : "Vice President- Marketing \u0026 Sales"
+}
+,
+{
+"name" : "Saket Agrawal",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "George Thomas",
+"title" : "Senior General Manager - Corporate HR and Administration"
+}
+,
+{
+"name" : "D. Singh",
+"title" : "Director - Works"
+}
+,
+{
+"name" : "Shreya Kar",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Puranmal Agrawal",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Manish Agrawal",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Suresh Kumar Agrawal",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

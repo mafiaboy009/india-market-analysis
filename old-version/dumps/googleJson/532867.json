@@ -1,0 +1,274 @@
+
+ [
+{
+"symbol" : "532867",
+"exchange" : "BOM",
+"id": "712985",
+"t" : "532867",
+"e" : "BOM",
+"name" : "V2 Retail Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532867"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532867"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532867"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.97%",
+"annual" : "7.90%",
+"ttm" : "4.74%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.47%",
+"annual" : "11.79%",
+"ttm" : "7.96%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.27%",
+"ttm" : "9.40%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.13%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.07%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "10,000",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+46.10",
+"l" : "402.65",
+"cp" : "12.93",
+"ccol" : "chg",
+"op" : "362.50",
+"hi" : "412.00",
+"lo" : "362.00",
+"vo" : "67,150.00",
+"avvo" : "",
+"hi52" : "555.45",
+"lo52" : "180.75",
+"mc" : "13.69B",
+"pe" : "50.21",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.02",
+"dy" : "",
+"ldiv" : "",
+"shares" : "33.92M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "712985",
+"name" : "V2 Retail Ltd",
+"t" : "532867",
+"e" : "BOM",
+"l" : "402.65",
+"c" : "+46.10",
+"mc" : "13.69B",
+"cp" : "12.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7168586",
+"name" : "SORIL INFRA RESOURCES LTD",
+"t" : "SORILINFRA",
+"e" : "NSE",
+"l" : "248.50",
+"c" : "+11.80",
+"mc" : "6.86B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7782332",
+"name" : "Future Enterprises Ltd",
+"t" : "FEL",
+"e" : "NSE",
+"l" : "41.70",
+"c" : "0.00",
+"mc" : "21.31B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14068503",
+"name" : "Brandhouse Retails Limited",
+"t" : "BRANDHOUSE",
+"e" : "NSE",
+"l" : "0.45",
+"c" : "",
+"mc" : "24.12M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14510776",
+"name" : "Bombay Swadeshi Stores Ltd",
+"t" : "531276",
+"e" : "BOM",
+"l" : "126.60",
+"c" : "",
+"mc" : "637.26M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "904964245652357",
+"name" : "Aditya Birla Fashion and Retail Ltd",
+"t" : "ABFRL",
+"e" : "NSE",
+"l" : "148.05",
+"c" : "-2.90",
+"mc" : "114.21B",
+"cp" : "-1.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8882505",
+"name" : "Himatsingka Seide Limited",
+"t" : "HIMATSEIDE",
+"e" : "NSE",
+"l" : "357.00",
+"c" : "+2.20",
+"mc" : "35.13B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "520020",
+"name" : "Nilkamal Ltd.",
+"t" : "NILKAMAL",
+"e" : "NSE",
+"l" : "1,695.00",
+"c" : "-0.80",
+"mc" : "25.34B",
+"cp" : "-0.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6275790",
+"name" : "J J Exporters Ltd",
+"t" : "530049",
+"e" : "BOM",
+"l" : "4.69",
+"c" : "0.00",
+"mc" : "43.44M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16032883",
+"name" : "CESC Ltd",
+"t" : "CESC",
+"e" : "NSE",
+"l" : "1,017.00",
+"c" : "+15.30",
+"mc" : "134.54B",
+"cp" : "1.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4674509",
+"name" : "Reliance Industries Limited",
+"t" : "RELIANCE",
+"e" : "NSE",
+"l" : "938.75",
+"c" : "+4.50",
+"mc" : "5.95T",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Plot No. 8, Pocket No. 2 Khasra No. 335\u002F336,Block-A, NH-8 Rangpuri Extensions, NEW DELHI, 110037, India",
+"phone": "+91-11-32316262",
+"fax": "+91-11-26784281",
+"url": "http:\u002F\u002Fv2retail.com\u002F",
+"overview" : "V2 Retail Limited is a retail company. The Company is engaged in the business of retail sales of garments, textiles, accessories and consumer durables products in India. The Company carries on the business as trader, dealer, agent, distributor, consignor, consignee, retailer, job work, scourer, spinner, weaver, finisher, dyer, tailor and draper, and cutter of garments. It is also engaged in the import and export of all garments of men, women and children. The Company is also engaged in the business of retailing of products, such as apparels and household goods. The Company offers a portfolio of products, including apparel and non-apparel. It sells ready-made and other consumer goods, such as footwear, toys, games, handbags, cosmetics, home furnishing, decor product and sports items. It has 27 stores in India, out of which four are in Delhi- National Capital Region, 11 in Bihar, six in Uttar Pradesh, two in Odisha, and one each in Uttarakhand, Jharkhand, Karnataka and Assam."
+} ]
+, "management" : [
+{
+"name" : "Ram Chandra Agarwal",
+"age" : "49",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Manshu Tandon",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Umesh Kumar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Uma Agarwal",
+"age" : "37",
+"title" : "Wholetime Director"
+}
+,
+{
+"name" : "Ravinder Kumar Sharma",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Siya Ram",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,235 @@
+
+ [
+{
+"symbol" : "539043",
+"exchange" : "BOM",
+"id": "327556093628404",
+"t" : "539043",
+"e" : "BOM",
+"name" : "BKM Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539043"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539043"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539043"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.78%",
+"annual" : "18.59%",
+"ttm" : "9.02%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.81%",
+"annual" : "22.58%",
+"ttm" : "13.95%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "25.18%",
+"ttm" : "15.88%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.46%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.15%",
+"ttm" : ""
+}
+]
+, "c" : "-0.55",
+"l" : "35.40",
+"cp" : "-1.53",
+"ccol" : "chr",
+"op" : "36.00",
+"hi" : "36.00",
+"lo" : "34.20",
+"vo" : "3,755.00",
+"avvo" : "",
+"hi52" : "50.15",
+"lo52" : "24.55",
+"mc" : "2.24B",
+"pe" : "12.49",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.83",
+"dy" : "",
+"ldiv" : "",
+"shares" : "65.53M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "327556093628404",
+"name" : "BKM Industries Ltd",
+"t" : "539043",
+"e" : "BOM",
+"l" : "35.40",
+"c" : "-0.55",
+"mc" : "2.24B",
+"cp" : "-1.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "189631",
+"name" : "Yashraj Containeurs Ltd",
+"t" : "530063",
+"e" : "BOM",
+"l" : "3.00",
+"c" : "0.00",
+"mc" : "51.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16139803",
+"name" : "Balmer Lawrie and Company Ltd",
+"t" : "BALMLAWRIE",
+"e" : "NSE",
+"l" : "231.90",
+"c" : "+0.75",
+"mc" : "26.45B",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10498203",
+"name" : "Shetron Limited",
+"t" : "526137",
+"e" : "BOM",
+"l" : "54.20",
+"c" : "-1.80",
+"mc" : "495.95M",
+"cp" : "-3.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13137259",
+"name" : "Time Technoplast Limited",
+"t" : "TIMETECHNO",
+"e" : "NSE",
+"l" : "182.20",
+"c" : "-1.15",
+"mc" : "41.40B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "520020",
+"name" : "Nilkamal Ltd.",
+"t" : "NILKAMAL",
+"e" : "NSE",
+"l" : "1,695.00",
+"c" : "-0.80",
+"mc" : "25.34B",
+"cp" : "-0.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715562",
+"name" : "Balmer Lawrie Investments Ltd.",
+"t" : "532485",
+"e" : "BOM",
+"l" : "429.50",
+"c" : "-6.30",
+"mc" : "9.54B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9386080",
+"name" : "Sicagen India Limited",
+"t" : "SICAGEN",
+"e" : "NSE",
+"l" : "41.75",
+"c" : "-0.60",
+"mc" : "1.67B",
+"cp" : "-1.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "325895983037775",
+"name" : "Midfield Industries Ltd",
+"t" : "533220",
+"e" : "BOM",
+"l" : "12.05",
+"c" : "",
+"mc" : "163.31M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4636545",
+"name" : "Sanco Trans Ltd",
+"t" : "523116",
+"e" : "BOM",
+"l" : "259.90",
+"c" : "-0.10",
+"mc" : "467.82M",
+"cp" : "-0.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "116296903323442",
+"name" : "Skipper Ltd",
+"t" : "SKIPPER",
+"e" : "NSE",
+"l" : "240.00",
+"c" : "-1.05",
+"mc" : "24.68B",
+"cp" : "-0.44",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Bikaner Building 3rd Floor, 8\u002F1, Lal Bazar Street, KOLKATA, 700001, India",
+"phone": "+91-33-22310050",
+"fax": "+91-33-22300336",
+"url": "http:\u002F\u002Fwww.manaksia.com\u002Fpackaging_div.php",
+"overview" : "BKM Industries Limited, formerly Manaksia Industries Limited, is an India-based holding company. The Company is engaged in the business of metal packaging products and aluminum semi rigid containers. The Company\u0027s metal packaging products include Roll on Pilfer Proof (ROPP) closures for liquor and pharmaceutical sectors, and Crown Closures for beer and carbonated soft drink sectors. Other products of the Company are aluminum semi-rigid containers and table foil, printed metal sheets, printing inks, adhesives, lacquers and varnishes, plastic closures for carbonated soft drinks and mineral water sectors, and corrugated boxes made of cardboard. Under ROPP closures, the Company offers plain printed caps, top embossed caps, side embossed chamfered caps and deep drawn caps, among others. Its aluminum foil containers include round and oval containers, and industrial foil rolls. It has crown closure manufacturing units in Hyderabad and Silvasa in India."
+} ]
+,"moreresources" : [
+]
+}]

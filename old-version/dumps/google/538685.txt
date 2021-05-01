@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "538685",
+"exchange" : "BOM",
+"id": "597957683117435",
+"t" : "538685",
+"e" : "BOM",
+"name" : "Shemaroo Entertainment Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:538685"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:538685"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:538685"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "13.53%",
+"annual" : "14.03%",
+"ttm" : "14.91%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "26.02%",
+"annual" : "29.09%",
+"ttm" : "28.75%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "30.10%",
+"ttm" : "29.80%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.46%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "15.26%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "453",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.85",
+"l" : "522.00",
+"cp" : "-0.16",
+"ccol" : "chr",
+"op" : "523.00",
+"hi" : "537.00",
+"lo" : "522.00",
+"vo" : "310.00",
+"avvo" : "",
+"hi52" : "595.00",
+"lo52" : "316.55",
+"mc" : "14.39B",
+"pe" : "20.22",
+"fwpe" : "",
+"beta" : "",
+"eps" : "25.81",
+"dy" : "0.27",
+"ldiv" : "1.40",
+"shares" : "27.18M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "597957683117435",
+"name" : "Shemaroo Entertainment Ltd",
+"t" : "538685",
+"e" : "BOM",
+"l" : "522.00",
+"c" : "-0.85",
+"mc" : "14.39B",
+"cp" : "-0.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3950734",
+"name" : "TV18 Broadcast Ltd",
+"t" : "TV18BRDCST",
+"e" : "NSE",
+"l" : "60.00",
+"c" : "+1.55",
+"mc" : "102.69B",
+"cp" : "2.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715516",
+"name" : "Sahara One Media \u0026 Entertainment Ltd.",
+"t" : "503691",
+"e" : "BOM",
+"l" : "44.05",
+"c" : "0.00",
+"mc" : "948.18M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "672876",
+"name" : "Zee Entertainment Enterprises Limited",
+"t" : "505537",
+"e" : "BOM",
+"l" : "586.40",
+"c" : "+16.20",
+"mc" : "565.14B",
+"cp" : "2.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3689364",
+"name" : "Raj Television Network Limited",
+"t" : "RAJTV",
+"e" : "NSE",
+"l" : "56.55",
+"c" : "+1.05",
+"mc" : "2.93B",
+"cp" : "1.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1979135",
+"name" : "B.A.G Films \u0026 Media Ltd.",
+"t" : "BAGFILMS",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "-0.15",
+"mc" : "1.18B",
+"cp" : "-2.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6281100",
+"name" : "Sri Adhikari Brothers Television Network",
+"t" : "SABTN",
+"e" : "NSE",
+"l" : "21.25",
+"c" : "-0.10",
+"mc" : "737.39M",
+"cp" : "-0.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7989868",
+"name" : "Sun TV Network Ltd.",
+"t" : "SUNTV",
+"e" : "NSE",
+"l" : "947.50",
+"c" : "+18.95",
+"mc" : "373.94B",
+"cp" : "2.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "134378019443136",
+"name" : "Diksat Transworld Ltd",
+"t" : "540151",
+"e" : "BOM",
+"l" : "72.00",
+"c" : "0.00",
+"mc" : "1.24B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1803644",
+"name" : "Jain Studios Ltd",
+"t" : "JAINSTUDIO",
+"e" : "NSE",
+"l" : "4.45",
+"c" : "-0.20",
+"mc" : "127.25M",
+"cp" : "-4.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5919896",
+"name" : "New Delhi Television Limited",
+"t" : "NDTV",
+"e" : "NSE",
+"l" : "43.30",
+"c" : "0.00",
+"mc" : "2.80B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Shemaroo Hs,Plt No 18,Mrl Co-op.Indl Est Saug Baug,Mrl Nk,Off. Andhr-Krl Rd Andheri (E), MUMBAI, 400059, India",
+"phone": "+91-22-40319911",
+"fax": "+91-22-40319794",
+"url": "http:\u002F\u002Fwww.shemarooent.com\u002F",
+"overview" : "Shemaroo Entertainment Limited is a holding company. The Company is an entertainment company engaged in the business of motion picture, video and television program distribution activities. The Company is engaged in the distribution of content for satellite channels, physical formats and digital technologies, such as the Mobile, Internet, Broadband, Internet Protocol television and Direct To Home, among others. Its business activities include content library\u003B distribution platforms, including broadcast syndication, new media, home entertainment and other distribution platforms\u003B content licensing, and other business activities. Its Content Library consists of over 3,400 titles spanning various Hindi films. The Company also has non-film content and titles in various other regional languages, such as Marathi, Gujarati, Punjabi and Bengali, among others. Its content is distributed over various Internet video platforms, such as YouTube, Hooq, Hotstar, Apple iTunes, Google Play and Spuul."
+} ]
+, "management" : [
+{
+"name" : "Hiren Uday Gada",
+"age" : "44",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Dipesh Gosar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Raman Hirji Maroo",
+"age" : "64",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Atul Hirji Maru",
+"age" : "53",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Budhichand Hirji Maroo",
+"age" : "64",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Jai Buddhichand Maroo",
+"age" : "40",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Reeta Bharat Shah",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Gnanesh Gala",
+"age" : "51",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Kirit Gala",
+"age" : "51",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

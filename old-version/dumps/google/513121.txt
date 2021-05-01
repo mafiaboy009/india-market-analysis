@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "513121",
+"exchange" : "BOM",
+"id": "7627463",
+"t" : "513121",
+"e" : "BOM",
+"name" : "Oricon Enterprises Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=OREN.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:513121"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:513121"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:513121"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.01%",
+"annual" : "3.84%",
+"ttm" : "3.84%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.10%",
+"annual" : "3.71%",
+"ttm" : "3.28%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.16%",
+"ttm" : "8.30%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.75%",
+"ttm" : "2.75%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.52%",
+"ttm" : "5.52%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "65",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.35",
+"l" : "53.55",
+"cp" : "2.59",
+"ccol" : "chg",
+"op" : "51.95",
+"hi" : "53.90",
+"lo" : "51.60",
+"vo" : "17,501.00",
+"avvo" : "",
+"hi52" : "72.40",
+"lo52" : "47.30",
+"mc" : "8.57B",
+"pe" : "22.98",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.33",
+"dy" : "0.86",
+"ldiv" : "0.46",
+"shares" : "157.05M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7627463",
+"name" : "Oricon Enterprises Ltd",
+"t" : "513121",
+"e" : "BOM",
+"l" : "53.55",
+"c" : "+1.35",
+"mc" : "8.57B",
+"cp" : "2.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12466469",
+"name" : "Kothari Petrochemicals Ltd",
+"t" : "KOTHARIPET",
+"e" : "NSE",
+"l" : "31.30",
+"c" : "-0.60",
+"mc" : "1.85B",
+"cp" : "-1.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13666462",
+"name" : "Panama Petrochem Ltd.",
+"t" : "PANAMAPET",
+"e" : "NSE",
+"l" : "201.90",
+"c" : "+3.25",
+"mc" : "12.16B",
+"cp" : "1.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678042872340379",
+"name" : "Agarwal Industrial Corporation Ltd",
+"t" : "AGARIND",
+"e" : "NSE",
+"l" : "272.25",
+"c" : "-12.70",
+"mc" : "2.77B",
+"cp" : "-4.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715295",
+"name" : "Andhra Petrochemicals Ltd",
+"t" : "500012",
+"e" : "BOM",
+"l" : "58.00",
+"c" : "+0.10",
+"mc" : "4.95B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7973849",
+"name" : "Kavit Industries Ltd",
+"t" : "524444",
+"e" : "BOM",
+"l" : "26.90",
+"c" : "-1.10",
+"mc" : "1.59B",
+"cp" : "-3.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8277447",
+"name" : "Manali Petrochemicals Ltd",
+"t" : "MANALIPETC",
+"e" : "NSE",
+"l" : "34.30",
+"c" : "+0.15",
+"mc" : "5.90B",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7767474",
+"name" : "JIK Industries Limited",
+"t" : "JIKIND",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-0.55",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8479130",
+"name" : "Piramal Glass Ltd",
+"t" : "PIRGLASS",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6277124",
+"name" : "La Opala RG Limited",
+"t" : "LAOPALA",
+"e" : "NSE",
+"l" : "277.40",
+"c" : "-2.55",
+"mc" : "30.44B",
+"cp" : "-0.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715481",
+"name" : "Borosil Glass Works Ltd",
+"t" : "502219",
+"e" : "BOM",
+"l" : "884.00",
+"c" : "+3.75",
+"mc" : "20.47B",
+"cp" : "0.43",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "1076 DR. E MOSES ROAD P B No 6584, Worli, MUMBAI, 400018, India",
+"phone": "+91-22-24925581",
+"fax": "+91-22-24950314",
+"url": "http:\u002F\u002Fwww.oriconenterprises.com\u002F",
+"overview" : "Oricon Enterprises Limited is a holding company. The Company is engaged in the business of manufacturing of pentanes, liquid colorants and pet bottles. The Company\u0027s segments include Logistics, Automobiles, Packaging, Real Estate, Petrochemical, Trading, Liquid Colorants and Others. The Company manufactures mixed pentane and heptanes, with a manufacturing facility, which is located at Khopoli (Maharashtra), with a capacity of over 10,000 tons per annum. The Company owns land measuring over two acres at Worli Mumbai. The Company\u0027s subsidiaries include United Shippers Limited (USL) and Shinrai Auto Services Limited. USL is engaged in the business of lighterage, stevedoring and logistics, and operates through ports in Gujarat, Maharashtra and Goa. USL handles cargos, such as coal, petcoke, polypropylene polymer, cent, clinker, steel plates, salt and sugar. Shinrai Auto Services Limited is a dealer and service provider for Toyota cars in south Mumbai."
+} ]
+, "management" : [
+{
+"name" : "Pramod Sarda",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sanjay Jain",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajendra Somani",
+"title" : "Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Adarsh Somani",
+"title" : "Joint Managing Director, Director"
+}
+,
+{
+"name" : "Shivratan Jeetmal Taparia",
+"age" : "71",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "K. G. Gupta",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sujata Parekh Kumar",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "N. Ganga Ram",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Vishnu Narayan Khanna",
+"age" : "84",
+"title" : "Non-Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

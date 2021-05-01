@@ -1,0 +1,372 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 2729875456,
+            "fmt": "2.73B",
+            "longFmt": "2,729,875,456"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.02062,
+            "fmt": "2.06%"
+          },
+          "floatShares": {
+            "raw": 14937255,
+            "fmt": "14.94M",
+            "longFmt": "14,937,255"
+          },
+          "sharesOutstanding": {
+            "raw": 53715700,
+            "fmt": "53.72M",
+            "longFmt": "53,715,700"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.414459,
+            "fmt": "1.41"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 10.709,
+            "fmt": "10.71"
+          },
+          "priceToBook": {
+            "raw": 3.7912037,
+            "fmt": "3.79"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1498780800,
+            "fmt": "2017-06-30"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.143,
+            "fmt": "-14.30%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 77358000,
+            "fmt": "77.36M",
+            "longFmt": "77,358,000"
+          },
+          "trailingEps": {
+            "raw": 1.44,
+            "fmt": "1.44"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "5/1",
+          "lastSplitDate": {
+            "raw": 1516147200,
+            "fmt": "2018-01-17"
+          },
+          "enterpriseToRevenue": {
+            "raw": 0.728,
+            "fmt": "0.73"
+          },
+          "enterpriseToEbitda": {
+            "raw": 23.088,
+            "fmt": "23.09"
+          },
+          "52WeekChange": {
+            "raw": -0.20213783,
+            "fmt": "-20.21%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 0.36,
+                  "fmt": "0.36"
+                },
+                "estimate": {
+                  "raw": 1.77,
+                  "fmt": "1.77"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 2435430000,
+                  "fmt": "2.44B",
+                  "longFmt": "2,435,430,000"
+                },
+                "earnings": {
+                  "raw": 69737000,
+                  "fmt": "69.74M",
+                  "longFmt": "69,737,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 2853166000,
+                  "fmt": "2.85B",
+                  "longFmt": "2,853,166,000"
+                },
+                "earnings": {
+                  "raw": 64020000,
+                  "fmt": "64.02M",
+                  "longFmt": "64,020,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 3132856000,
+                  "fmt": "3.13B",
+                  "longFmt": "3,132,856,000"
+                },
+                "earnings": {
+                  "raw": 77841000,
+                  "fmt": "77.84M",
+                  "longFmt": "77,841,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 3728912000,
+                  "fmt": "3.73B",
+                  "longFmt": "3,728,912,000"
+                },
+                "earnings": {
+                  "raw": 80558000,
+                  "fmt": "80.56M",
+                  "longFmt": "80,558,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "3Q2016",
+                "revenue": {
+                  "raw": 916300000,
+                  "fmt": "916.3M",
+                  "longFmt": "916,300,000"
+                },
+                "earnings": {
+                  "raw": 25400000,
+                  "fmt": "25.4M",
+                  "longFmt": "25,400,000"
+                }
+              },
+              {
+                "date": "4Q2016",
+                "revenue": {
+                  "raw": 934200000,
+                  "fmt": "934.2M",
+                  "longFmt": "934,200,000"
+                },
+                "earnings": {
+                  "raw": 18800000,
+                  "fmt": "18.8M",
+                  "longFmt": "18,800,000"
+                }
+              },
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 921212000,
+                  "fmt": "921.21M",
+                  "longFmt": "921,212,000"
+                },
+                "earnings": {
+                  "raw": 13958000,
+                  "fmt": "13.96M",
+                  "longFmt": "13,958,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 981600000,
+                  "fmt": "981.6M",
+                  "longFmt": "981,600,000"
+                },
+                "earnings": {
+                  "raw": 19200000,
+                  "fmt": "19.2M",
+                  "longFmt": "19,200,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "A26/4, Mohan Cooperative Industrial Estate",
+          "address2": "2nd Floor",
+          "city": "New Delhi",
+          "zip": "110044",
+          "country": "India",
+          "phone": "91 11 4061 7777",
+          "fax": "91 11 4061 7799",
+          "website": "http://www.singerindia.net",
+          "industry": "Diversified Machinery",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Singer India Limited manufactures and trades in sewing machines and related accessories in India. It operates through Sewing and Domestic Appliances segments. The company's sewing machines comprise zig zag, electronic, embroidery, straight stitch, and industrial machines, as well as sewing machine accessories, oils, needles, etc. It also offers domestic appliances comprising irons and steam irons, food processors, mixers, toasters, kettles, air coolers, etc., as well as hair dryers. The company provides its products under the Singer and Merritt brands through its showrooms, shops and dealers/distributors, and after sales service network, as well as through online. Singer India Limited also exports its products. The company was formerly known as Indian Sewing Machine Company Limited. The company was incorporated in 1977 and is based in New Delhi, India. Singer India Limited is a subsidiary of Singer (India) B.V.",
+          "fullTimeEmployees": 406,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 40.6,
+            "fmt": "40.60"
+          },
+          "targetHighPrice": {
+            "raw": 160.0,
+            "fmt": "160.00"
+          },
+          "targetLowPrice": {
+            "raw": 160.0,
+            "fmt": "160.00"
+          },
+          "targetMeanPrice": {
+            "raw": 160.0,
+            "fmt": "160.00"
+          },
+          "targetMedianPrice": {
+            "raw": 160.0,
+            "fmt": "160.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 53437000,
+            "fmt": "53.44M",
+            "longFmt": "53,437,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.995,
+            "fmt": "1"
+          },
+          "ebitda": {
+            "raw": 118238920,
+            "fmt": "118.24M",
+            "longFmt": "118,238,920"
+          },
+          "totalDebt": {
+            "raw": 33070000,
+            "fmt": "33.07M",
+            "longFmt": "33,070,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 3752312064,
+            "fmt": "3.75B",
+            "longFmt": "3,752,312,064"
+          },
+          "debtToEquity": {
+            "raw": 5.749,
+            "fmt": "5.75"
+          },
+          "revenuePerShare": {
+            "raw": 69.841,
+            "fmt": "69.84"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 848680000,
+            "fmt": "848.68M",
+            "longFmt": "848,680,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.144,
+            "fmt": "-14.40%"
+          },
+          "revenueGrowth": {
+            "raw": 0.025,
+            "fmt": "2.50%"
+          },
+          "grossMargins": {
+            "raw": 0.27692,
+            "fmt": "27.69%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.03151,
+            "fmt": "3.15%"
+          },
+          "operatingMargins": {
+            "raw": 0.029070001,
+            "fmt": "2.91%"
+          },
+          "profitMargins": {
+            "raw": 0.02062,
+            "fmt": "2.06%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

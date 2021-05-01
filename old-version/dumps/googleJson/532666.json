@@ -1,0 +1,278 @@
+
+ [
+{
+"symbol" : "532666",
+"exchange" : "BOM",
+"id": "701567",
+"t" : "532666",
+"e" : "BOM",
+"name" : "FCS Software Solutions Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532666"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532666"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532666"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-95.71%",
+"annual" : "-124.48%",
+"ttm" : "-119.35%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-103.18%",
+"annual" : "-149.08%",
+"ttm" : "-146.10%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-20.72%",
+"ttm" : "-14.10%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-11.02%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-12.10%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "981",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.01",
+"l" : "0.37",
+"cp" : "2.78",
+"ccol" : "chg",
+"op" : "0.37",
+"hi" : "0.37",
+"lo" : "0.37",
+"vo" : "26,558.00",
+"avvo" : "",
+"hi52" : "0.37",
+"lo52" : "0.20",
+"mc" : "878.52M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.24",
+"dy" : "",
+"ldiv" : "",
+"shares" : "1.71B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "701567",
+"name" : "FCS Software Solutions Limited",
+"t" : "532666",
+"e" : "BOM",
+"l" : "0.37",
+"c" : "+0.01",
+"mc" : "878.52M",
+"cp" : "2.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9042073",
+"name" : "California Software Company Ltd.",
+"t" : "CALSOFT",
+"e" : "NSE",
+"l" : "60.60",
+"c" : "-1.90",
+"mc" : "745.74M",
+"cp" : "-3.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14848096",
+"name" : "CMC Limited (Parent)",
+"t" : "CMC",
+"e" : "NSE",
+"l" : "2,030.00",
+"c" : "",
+"mc" : "61.58B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7721410",
+"name" : "Kaashyap Technologies Ltd",
+"t" : "532283",
+"e" : "BOM",
+"l" : "0.17",
+"c" : "",
+"mc" : "114.72M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "335977539774197",
+"name" : "Compucom Software Ltd",
+"t" : "COMPUSOFT",
+"e" : "NSE",
+"l" : "13.10",
+"c" : "-0.10",
+"mc" : "1.03B",
+"cp" : "-0.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8892177",
+"name" : "Panoramic Universal Ltd",
+"t" : "PANORAMUNI",
+"e" : "NSE",
+"l" : "9.10",
+"c" : "-0.05",
+"mc" : "715.30M",
+"cp" : "-0.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2108958",
+"name" : "Xchanging Solutions Ltd",
+"t" : "XCHANGING",
+"e" : "NSE",
+"l" : "61.20",
+"c" : "-0.10",
+"mc" : "6.75B",
+"cp" : "-0.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12034000",
+"name" : "SQL Star International Limited",
+"t" : "532249",
+"e" : "BOM",
+"l" : "1.08",
+"c" : "",
+"mc" : "36.06M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8681724",
+"name" : "Crazy Infotech Ltd",
+"t" : "524388",
+"e" : "BOM",
+"l" : "0.20",
+"c" : "0.00",
+"mc" : "13.38M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "684602",
+"name" : "Padmalaya Telefilms Limited",
+"t" : "532350",
+"e" : "BOM",
+"l" : "4.74",
+"c" : "-0.05",
+"mc" : "80.58M",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7098095",
+"name" : "NIIT Limited",
+"t" : "NIITLTD",
+"e" : "NSE",
+"l" : "92.70",
+"c" : "-1.85",
+"mc" : "15.53B",
+"cp" : "-1.96",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "FCS House, Plot No 83 NSEZ,Noida Dadri Road, Phase II, NOIDA, 201305, India",
+"phone": "+91-120-4635900",
+"fax": "+91-120-4635941",
+"url": "http:\u002F\u002Fwww.fcsltd.com\u002F",
+"overview" : "FCS Software Solutions Limited is a holding company engaged in providing computer and related activities. The Company is engaged in software product development and marketing, and providing support services for corporate business entities in the business process outsourcing (BPO), software development and e-learning service sector. The Company operates in IT Consulting Services and BPO, Education\u002FE-Learning Division and Infrastructure management segments. It offers solutions for technologies, such as Lotus Notes, Sun technologies, Microsoft technologies, Oracle applications, Cold Fusion, Java, Linux and Visual Basic. The Company\u0027s core areas include sales force automation, portal development and management, user interface engineering and electronic data interchange. The Company\u0027s subsidiaries include FCS Software Solutions America Limited, F.C.S Software Middle East FZE, FCS Software Solutions GmbH, FCS Software (Shanghai) Co. Ltd. and Insync Business Solutions Limited."
+} ]
+, "management" : [
+{
+"name" : "Dalip Kumar",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Anil Sharma",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Harsha A",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Shyam Sunder Sharma",
+"age" : "55",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Sunil Sharma",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Shweta Shatsri",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Shiv Nandan Sharma",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

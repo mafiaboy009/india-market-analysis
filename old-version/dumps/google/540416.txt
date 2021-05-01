@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "540416",
+"exchange" : "BOM",
+"id": "523780427486422",
+"t" : "540416",
+"e" : "BOM",
+"name" : "Octaware Technologies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=OCTE.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:540416"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:540416"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:540416"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "20.07%",
+"annual" : "26.32%",
+"ttm" : "21.55%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "22.87%",
+"annual" : "25.56%",
+"ttm" : "22.98%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "29.41%",
+"ttm" : "25.35%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "21.07%",
+"annual" : "14.95%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "23.65%",
+"annual" : "19.68%",
+"ttm" : ""
+}
+]
+, "c" : "+0.50",
+"l" : "90.50",
+"cp" : "0.56",
+"ccol" : "chg",
+"op" : "90.50",
+"hi" : "90.50",
+"lo" : "90.50",
+"vo" : "14,400.00",
+"avvo" : "",
+"hi52" : "108.00",
+"lo52" : "90.00",
+"mc" : "324.95M",
+"pe" : "17.94",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.05",
+"dy" : "",
+"ldiv" : "",
+"shares" : "3.59M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "523780427486422",
+"name" : "Octaware Technologies Ltd",
+"t" : "540416",
+"e" : "BOM",
+"l" : "90.50",
+"c" : "+0.50",
+"mc" : "324.95M",
+"cp" : "0.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16385562",
+"name" : "Prism Informatics Limited",
+"t" : "505530",
+"e" : "BOM",
+"l" : "6.65",
+"c" : "0.00",
+"mc" : "165.87M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14501165",
+"name" : "Cambridge Technology Enterprises Limited",
+"t" : "CTE",
+"e" : "NSE",
+"l" : "73.20",
+"c" : "+1.40",
+"mc" : "1.42B",
+"cp" : "1.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12439267",
+"name" : "Mphasis Ltd.",
+"t" : "MPHASIS",
+"e" : "NSE",
+"l" : "891.20",
+"c" : "-15.60",
+"mc" : "173.47B",
+"cp" : "-1.72",
+"ccol" : "chr"
+}
+,
+{
+"id" : "706253",
+"name" : "Tera Software Ltd.",
+"t" : "533982",
+"e" : "BOM",
+"l" : "58.60",
+"c" : "-0.65",
+"mc" : "735.06M",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "678319",
+"name" : "DSQ Software Limited",
+"t" : "523864",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "11778873",
+"name" : "Trigyn Technologies Ltd",
+"t" : "TRIGYN",
+"e" : "NSE",
+"l" : "149.45",
+"c" : "+0.50",
+"mc" : "4.47B",
+"cp" : "0.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "759816835270826",
+"name" : "Jointeca Education Solutions Ltd",
+"t" : "534659",
+"e" : "BOM",
+"l" : "7.00",
+"c" : "0.00",
+"mc" : "70.11M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4794796",
+"name" : "Netvision Web Technologies Ltd",
+"t" : "532010",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-1.79",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8681724",
+"name" : "Crazy Infotech Ltd",
+"t" : "524388",
+"e" : "BOM",
+"l" : "0.20",
+"c" : "0.00",
+"mc" : "13.38M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "944668441075635",
+"name" : "CADSYS ( INDIA ) Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "204 Timmy Arcade Makwana Rdmarol Off Kurla Andheri Road, MUMBAI, 400059, India",
+"phone": "+91-22-40231431",
+"fax": "+91-22-28293959",
+"url": "http:\u002F\u002Fwww.octaware.com\u002F",
+"overview" : "Octaware Technologies Limited is an India-based offshore outsourcing company. The Company is engaged in the business of developing, designing and servicing computer software and information technology related applications and systems. It is engaged in Web, e-commerce, applications and systems development, as well as in Microsoft platform services and database management systems. It offers a range of services, including software development services, enterprise portal, enterprise resource planning (ERP) and customer relationship management (CRM) implementation, consulting services, mobile solutions, radio-frequency identification (RFID) solutions, cloud and information technology infrastructure services, and geospatial services. Its offerings include PowerERM-Employee Relationship Management, Hospice-Healthcare Solution and iOnAsset-Asset Tracking \u0026 Management System. It serves various industries, such as healthcare, education, government, oil and gas, and manufacturing."
+} ]
+, "management" : [
+{
+"name" : "Aslam Khan",
+"age" : "41",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Muzammil Memon",
+"title" : "Company Secretary \u0026 Compliance Officer"
+}
+,
+{
+"name" : "Haroon Baig",
+"title" : "General Manager - Projects \u0026 HR Head"
+}
+,
+{
+"name" : "Merajuddin Shaikh",
+"title" : "General Manager - Infrastructure"
+}
+,
+{
+"name" : "Shahnawaz Shaikh",
+"title" : "General Manager - Engineering and Finance Head"
+}
+,
+{
+"name" : "Siraj Gunwan",
+"age" : "43",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Sajid Hameed",
+"age" : "42",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Sohel Ansari",
+"title" : "Development Head"
+}
+,
+{
+"name" : "Khateeb Khan",
+"title" : "Product Head"
+}
+,
+{
+"name" : "Talha Khan",
+"title" : "Finance Manager\u002FController"
+}
+]
+,"moreresources" : [
+]
+}]

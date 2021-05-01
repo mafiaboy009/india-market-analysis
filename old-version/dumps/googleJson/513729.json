@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "513729",
+"exchange" : "BOM",
+"id": "9631351",
+"t" : "513729",
+"e" : "BOM",
+"name" : "Aro Granite Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:513729"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:513729"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:513729"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.31%",
+"annual" : "5.29%",
+"ttm" : "1.12%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.32%",
+"annual" : "8.48%",
+"ttm" : "2.54%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.30%",
+"ttm" : "6.92%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.09%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.69%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "134",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.95",
+"l" : "67.25",
+"cp" : "2.99",
+"ccol" : "chg",
+"op" : "66.35",
+"hi" : "70.50",
+"lo" : "66.00",
+"vo" : "24,249.00",
+"avvo" : "",
+"hi52" : "98.40",
+"lo52" : "57.00",
+"mc" : "1.04B",
+"pe" : "43.04",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.56",
+"dy" : "1.49",
+"ldiv" : "1.00",
+"shares" : "15.30M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9631351",
+"name" : "Aro Granite Industries Ltd",
+"t" : "513729",
+"e" : "BOM",
+"l" : "67.25",
+"c" : "+1.95",
+"mc" : "1.04B",
+"cp" : "2.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13682813",
+"name" : "Pacific Industries Ltd",
+"t" : "523483",
+"e" : "BOM",
+"l" : "165.00",
+"c" : "+10.00",
+"mc" : "223.00M",
+"cp" : "6.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3598372",
+"name" : "Glittek Granites Ltd",
+"t" : "513528",
+"e" : "BOM",
+"l" : "2.68",
+"c" : "-0.12",
+"mc" : "69.57M",
+"cp" : "-4.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4438161",
+"name" : "Bannari Amman Sugars Limited",
+"t" : "BANARISUG",
+"e" : "NSE",
+"l" : "1,800.00",
+"c" : "+30.00",
+"mc" : "22.57B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3156534",
+"name" : "Madhav Marble \u0026 Granites Ltd.",
+"t" : "MADHAV",
+"e" : "NSE",
+"l" : "61.90",
+"c" : "+0.75",
+"mc" : "554.73M",
+"cp" : "1.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12097295",
+"name" : "Inani Marbles And Industries Ltd",
+"t" : "531129",
+"e" : "BOM",
+"l" : "20.05",
+"c" : "-1.05",
+"mc" : "320.74M",
+"cp" : "-4.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715555",
+"name" : "Pokarna Ltd",
+"t" : "532486",
+"e" : "BOM",
+"l" : "215.00",
+"c" : "+8.15",
+"mc" : "6.66B",
+"cp" : "3.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14709004",
+"name" : "Oriental Trimex Limited",
+"t" : "ORIENTALTL",
+"e" : "NSE",
+"l" : "14.90",
+"c" : "-0.30",
+"mc" : "238.79M",
+"cp" : "-1.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7381386",
+"name" : "Global Stone India Ltd",
+"t" : "515115",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-2.45",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2733685",
+"name" : "Associated Stone Industries (Kotah) Ltd",
+"t" : "502015",
+"e" : "BOM",
+"l" : "36.35",
+"c" : "-0.05",
+"mc" : "3.03B",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1360590",
+"name" : "Rajdarshan Industries Ltd",
+"t" : "ARENTERP",
+"e" : "NSE",
+"l" : "20.80",
+"c" : "-1.05",
+"mc" : "64.65M",
+"cp" : "-4.81",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Koneripalli Village Via:Shoolagiri, Krishnagiri, HOSUR, 635117, India",
+"phone": "+91-4344-252384",
+"fax": "+91-4344-252217",
+"url": "http:\u002F\u002Fwww.arotile.com",
+"overview" : "Aro Granite Industries Limited is engaged in the business of granite tiles and slabs. The Company offers granite slabs in various colors, such as regular, Indian and international colors. It offers products in an array of finishes, such as polished finish, flamed finish, honed finish, brushed finish, leather finish and caress finish. The Company processes Indian, African, Finnish, Norwegian and Brazilian granite regularly, and offers slabs as per customer\u0027s specific requirement. The Company offers a product line of CUT-TO-SIZE slabs, which are cut according to customized requirement of the user, and are ready for use at the site without any further processing. The Company operates an export oriented unit based at Hosur in Tamil Nadu for processing polished\u002Fflamed granite tiles and slabs. The Company exports its products to North America, South America, Europe and Far East markets. Its slab plant has an installed capacity of approximately 390,000 square meters per annum."
+} ]
+, "management" : [
+{
+"name" : "Sabyasachi Panigrahi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sunil Kumar Arora",
+"age" : "53",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Sahil Arora",
+"age" : "29",
+"title" : "Additional Whole Time Director"
+}
+,
+{
+"name" : "K. Raghavendra Acharya",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Vanitha Sood",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sujata Arora",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "G. Sundareshwara",
+"age" : "56",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Rahul Gupta",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

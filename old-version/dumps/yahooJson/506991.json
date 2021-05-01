@@ -1,0 +1,169 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 93800000,
+            "fmt": "93.8M",
+            "longFmt": "93,800,000"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "floatShares": {
+            "raw": 14052197,
+            "fmt": "14.05M",
+            "longFmt": "14,052,197"
+          },
+          "sharesOutstanding": {
+            "raw": 19228100,
+            "fmt": "19.23M",
+            "longFmt": "19,228,100"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -13.835,
+            "fmt": "-13.84"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1506729600,
+            "fmt": "2017-09-30"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -8249182,
+            "fmt": "-8.25M",
+            "longFmt": "-8,249,182"
+          },
+          "trailingEps": {
+            "raw": -0.434,
+            "fmt": "-0.43"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {},
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": -0.4725511,
+            "fmt": "-47.26%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.1593206,
+            "fmt": "15.93%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "54/B, Shree Tower",
+          "address2": "West High Court Road Shankar Nagar (East)",
+          "city": "Nagpur",
+          "zip": "440010",
+          "country": "India",
+          "phone": "91 71 2253 8789",
+          "fax": "91 71 2253 8791",
+          "website": "http://neclindia.com",
+          "industry": "Specialty Chemicals",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Noble Explochem Limited does not have significant operations. Previously, it was engaged in the manufacture of industrial explosives and petrochemicals; and horticulture businesses. The company was incorporated in 1982 and is based in Nagpur, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 4.9,
+            "fmt": "4.90"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {},
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {},
+          "debtToEquity": {},
+          "revenuePerShare": {},
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": -113263,
+            "fmt": "-113.26k",
+            "longFmt": "-113,263"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

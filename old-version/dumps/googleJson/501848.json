@@ -1,0 +1,289 @@
+
+ [
+{
+"symbol" : "501848",
+"exchange" : "BOM",
+"id": "708063",
+"t" : "501848",
+"e" : "BOM",
+"name" : "Global Offshore Services Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:501848"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:501848"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:501848"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-202.96%",
+"annual" : "-108.07%",
+"ttm" : "-108.07%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-139.13%",
+"annual" : "-64.94%",
+"ttm" : "-69.40%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-22.82%",
+"ttm" : "-27.28%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-9.97%",
+"ttm" : "-9.97%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-30.62%",
+"ttm" : "-30.62%"
+}
+]
+, "c" : "+1.50",
+"l" : "32.35",
+"cp" : "4.86",
+"ccol" : "chg",
+"op" : "31.30",
+"hi" : "32.35",
+"lo" : "30.60",
+"vo" : "12,650.00",
+"avvo" : "",
+"hi52" : "60.50",
+"lo52" : "30.00",
+"mc" : "803.91M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-50.69",
+"dy" : "",
+"ldiv" : "",
+"shares" : "24.73M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "708063",
+"name" : "Global Offshore Services Ltd",
+"t" : "501848",
+"e" : "BOM",
+"l" : "32.35",
+"c" : "+1.50",
+"mc" : "803.91M",
+"cp" : "4.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9605998",
+"name" : "Essar Shipping Ltd",
+"t" : "ESSARSHPNG",
+"e" : "NSE",
+"l" : "25.40",
+"c" : "+0.05",
+"mc" : "5.26B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13099974",
+"name" : "shipping corporation of India Ltd",
+"t" : "SCI",
+"e" : "NSE",
+"l" : "73.95",
+"c" : "+0.85",
+"mc" : "34.54B",
+"cp" : "1.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14627387",
+"name" : "Varun Shipping Company Limited",
+"t" : "VARUNSHIP",
+"e" : "NSE",
+"l" : "9.55",
+"c" : "",
+"mc" : "1.48B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "713042",
+"name" : "Chowgule Steamships Ltd.",
+"t" : "501833",
+"e" : "BOM",
+"l" : "14.90",
+"c" : "+0.41",
+"mc" : "549.72M",
+"cp" : "2.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14685808",
+"name" : "Great Eastern Shipping Company Ltd",
+"t" : "GESHIP",
+"e" : "NSE",
+"l" : "370.40",
+"c" : "-8.95",
+"mc" : "55.86B",
+"cp" : "-2.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15317737",
+"name" : "Mercator Ltd",
+"t" : "MERCATOR",
+"e" : "NSE",
+"l" : "37.35",
+"c" : "+1.25",
+"mc" : "11.30B",
+"cp" : "3.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715562",
+"name" : "Balmer Lawrie Investments Ltd.",
+"t" : "532485",
+"e" : "BOM",
+"l" : "429.50",
+"c" : "-6.30",
+"mc" : "9.54B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2524258",
+"name" : "Shahi Shipping Ltd",
+"t" : "526508",
+"e" : "BOM",
+"l" : "7.63",
+"c" : "-0.36",
+"mc" : "110.60M",
+"cp" : "-4.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5263425",
+"name" : "Allcargo Logistics Ltd",
+"t" : "ALLCARGO",
+"e" : "NSE",
+"l" : "177.50",
+"c" : "-0.15",
+"mc" : "43.45B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "236607675430557",
+"name" : "Jet Freight Logistics Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "101 A-wing Swapnabhoomi, S K Bole Road, Dadar West, MUMBAI, 400028, India",
+"phone": "+91-22-24234000",
+"fax": "+91-22-24362764",
+"url": "http:\u002F\u002Fwww.globaloffshore.in\u002F",
+"overview" : "Global Offshore Services Limited, formerly Garware Offshore Services Ltd., is engaged in charter of offshore support vessels. The Company is engaged in providing offshore support services to exploration and production companies. The Company\u0027s vessels support oil and gas exploration activities, including transport of personnel to rigs\u002Fplatforms from onshore bases and vice-versa\u003B delivery of cargo\u002Fmaterial to rigs\u002Fplatforms\u003B anchor handling operations\u003B towing of rigs from one location to another, and support to offshore\u002Funderwater construction projects. Its platform supply vessels owned and operated by the Company and its subsidiaries are deployed in India, the North Sea, Brazil and West Africa. The Company and its anchor handling tug and supply vessels (AHTSVs) are deployed in India and Brazil."
+} ]
+, "management" : [
+{
+"name" : "Ashok Bhalchandra Garware",
+"age" : "76",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Aditya Ashok Garware",
+"age" : "44",
+"title" : "Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "K. S. Dave",
+"title" : "President - Commercial"
+}
+,
+{
+"name" : "A. C. Chandarana",
+"age" : "45",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Z. R. Mehta",
+"age" : "48",
+"title" : "General Manager - Technical"
+}
+,
+{
+"name" : "Paras S. Shah",
+"title" : "General Manager - Finance \u0026 Accounts"
+}
+,
+{
+"name" : "Niladri Sengupta",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "K. P. Kekre",
+"title" : "HEAD - HSSE \u0026 TRAINING"
+}
+,
+{
+"name" : "Maneesha S. Shah",
+"age" : "47",
+"title" : "Non-Whole Time Director"
+}
+,
+{
+"name" : "Shamsunder S. Aggarwal",
+"age" : "77",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

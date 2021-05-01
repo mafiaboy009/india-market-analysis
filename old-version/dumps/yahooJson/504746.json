@@ -1,0 +1,198 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 35537500,
+            "fmt": "35.54M",
+            "longFmt": "35,537,500"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.14142,
+            "fmt": "14.14%"
+          },
+          "floatShares": {
+            "raw": 21223,
+            "fmt": "21.22k",
+            "longFmt": "21,223"
+          },
+          "sharesOutstanding": {
+            "raw": 50000,
+            "fmt": "50k",
+            "longFmt": "50,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.121533,
+            "fmt": "-0.12"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 866.536,
+            "fmt": "866.54"
+          },
+          "priceToBook": {
+            "raw": 0.6862958,
+            "fmt": "0.69"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1024348,
+            "fmt": "1.02M",
+            "longFmt": "1,024,348"
+          },
+          "trailingEps": {
+            "raw": 20.487,
+            "fmt": "20.49"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 4.906,
+            "fmt": "4.91"
+          },
+          "enterpriseToEbitda": {
+            "raw": -32.962,
+            "fmt": "-32.96"
+          },
+          "52WeekChange": {
+            "raw": -0.0031847358,
+            "fmt": "-0.32%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "59, Sonawala Building",
+          "address2": "2nd Floor Mumbai Samachar Marg",
+          "city": "Mumbai",
+          "zip": "400023",
+          "country": "India",
+          "phone": "91 22 2266 1013",
+          "fax": "91 22 2266 4311",
+          "website": "http://www.inlinch.com",
+          "industry": "Steel & Iron",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "The Indian Link Chain Manufactures Limited engages in trading chains and chemicals in India. The company was incorporated in 1956 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 594.7,
+            "fmt": "594.70"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": -1078141,
+            "fmt": "-1.08M",
+            "longFmt": "-1,078,141"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 7243320,
+            "fmt": "7.24M",
+            "longFmt": "7,243,320"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 144.866,
+            "fmt": "144.87"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 885830,
+            "fmt": "885.83k",
+            "longFmt": "885,830"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.143,
+            "fmt": "-14.30%"
+          },
+          "grossMargins": {
+            "raw": 0.08708999,
+            "fmt": "8.71%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.14885001,
+            "fmt": "-14.89%"
+          },
+          "operatingMargins": {
+            "raw": -0.25361001,
+            "fmt": "-25.36%"
+          },
+          "profitMargins": {
+            "raw": 0.14142,
+            "fmt": "14.14%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

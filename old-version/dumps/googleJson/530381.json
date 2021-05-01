@@ -1,0 +1,283 @@
+
+ [
+{
+"symbol" : "530381",
+"exchange" : "BOM",
+"id": "715414",
+"t" : "530381",
+"e" : "BOM",
+"name" : "Petron Engineering Construction Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530381"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530381"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530381"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-142.85%",
+"annual" : "-3.92%",
+"ttm" : "-28.65%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-202.93%",
+"annual" : "-0.99%",
+"ttm" : "-37.42%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.04%",
+"ttm" : "-34.91%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.30%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-8.50%",
+"ttm" : ""
+}
+]
+, "c" : "-1.10",
+"l" : "117.40",
+"cp" : "-0.93",
+"ccol" : "chr",
+"op" : "118.00",
+"hi" : "121.85",
+"lo" : "116.50",
+"vo" : "469.00",
+"avvo" : "",
+"hi52" : "217.15",
+"lo52" : "112.00",
+"mc" : "885.01M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-104.37",
+"dy" : "",
+"ldiv" : "",
+"shares" : "7.54M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715414",
+"name" : "Petron Engineering Construction Ltd",
+"t" : "530381",
+"e" : "BOM",
+"l" : "117.40",
+"c" : "-1.10",
+"mc" : "885.01M",
+"cp" : "-0.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2325070",
+"name" : "Madhucon Projects Ltd.",
+"t" : "MADHUCON",
+"e" : "NSE",
+"l" : "27.70",
+"c" : "+0.30",
+"mc" : "2.04B",
+"cp" : "1.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1672734",
+"name" : "Hindustan Dorr-Oliver Ltd",
+"t" : "HINDDORROL",
+"e" : "NSE",
+"l" : "4.65",
+"c" : "+0.20",
+"mc" : "334.83M",
+"cp" : "4.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "627005",
+"name" : "Artson Engineering Ltd",
+"t" : "522134",
+"e" : "BOM",
+"l" : "84.50",
+"c" : "-0.70",
+"mc" : "3.14B",
+"cp" : "-0.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9403325",
+"name" : "Consolidated Construction Consortium Ltd",
+"t" : "CCCL",
+"e" : "NSE",
+"l" : "5.00",
+"c" : "-0.25",
+"mc" : "1.99B",
+"cp" : "-4.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8331198",
+"name" : "Reliance Infrastructure Ltd",
+"t" : "RELINFRA",
+"e" : "NSE",
+"l" : "465.70",
+"c" : "+11.15",
+"mc" : "122.62B",
+"cp" : "2.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9260292",
+"name" : "Ashoka Buildcon Ltd",
+"t" : "ASHOKA",
+"e" : "NSE",
+"l" : "223.00",
+"c" : "+1.20",
+"mc" : "41.70B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715513",
+"name" : "Marg Ltd.",
+"t" : "530543",
+"e" : "BOM",
+"l" : "19.45",
+"c" : "+0.90",
+"mc" : "731.55M",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2519667",
+"name" : "AXISCADES Engineering Technologies Ltd",
+"t" : "AXISCADES",
+"e" : "NSE",
+"l" : "168.60",
+"c" : "-4.90",
+"mc" : "6.36B",
+"cp" : "-2.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7676383",
+"name" : "Praj Industries Ltd",
+"t" : "PRAJIND",
+"e" : "NSE",
+"l" : "90.10",
+"c" : "-0.85",
+"mc" : "16.30B",
+"cp" : "-0.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "755604168500707",
+"name" : "Ani Integrated Services Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Swastik Chambers, 6th Floor, Sion Trombay Road, Chembur, MUMBAI, 400071, India",
+"phone": "+91-22-40856200",
+"fax": "+91-22-40856250",
+"url": "http:\u002F\u002Fwww.petronengineering.com\u002F",
+"overview" : "Petron Engineering Construction Limited is engaged in the business of engineering, procurement and construction of plants for oil and gas refineries, power, cement, petrochemical, fertilizer and other industries. The Company\u0027s geographical segments are Within India and Outside India. The Company also provides electrical and instrumentation services, and insulation and refractory application\u002Fmaintenance services. The Company\u0027s divisions include Petron Mechanical Division, Rockwool Insulation Division and Petrofab Division. The Company offers a complete package for fired heaters in refineries and petrochemical plants, construction of cement plants and installation and commissioning of boilers and auxiliaries, as well as balance of plant works in power plants. The Company has mechanical fabrication and manufacturing facilities in Maharashtra and Gujarat regions."
+} ]
+, "management" : [
+{
+"name" : "Manoj Kumar Gaur",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Himanshu Mohapatra",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "G. K. Roy",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Rashmi Patkar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Pulkit Goyal",
+"title" : "Head - Finance \u0026 Accounts"
+}
+,
+{
+"name" : "Raghavan K.",
+"title" : "Senior General Manager - Proposals"
+}
+,
+{
+"name" : "Manoj Verma",
+"title" : "Head - Procurement \u0026 Logistics"
+}
+,
+{
+"name" : "Ajay Hans",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sanjay Jain",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sudhir Kumar Jain",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

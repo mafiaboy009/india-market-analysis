@@ -1,0 +1,263 @@
+
+// [
+{
+"symbol" : "531727",
+"exchange" : "BOM",
+"id": "842984",
+"t" : "531727",
+"e" : "BOM",
+"name" : "Menon Pistons Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=MEPI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531727"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531727"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531727"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.91%",
+"annual" : "5.24%",
+"ttm" : "5.05%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.98%",
+"annual" : "7.40%",
+"ttm" : "6.95%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.70%",
+"ttm" : "10.03%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.83%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.80%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "446",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.20",
+"l" : "29.70",
+"cp" : "4.21",
+"ccol" : "chg",
+"op" : "29.90",
+"hi" : "29.90",
+"lo" : "28.50",
+"vo" : "21,303.00",
+"avvo" : "",
+"hi52" : "39.20",
+"lo52" : "18.85",
+"mc" : "1.48B",
+"pe" : "20.97",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.42",
+"dy" : "1.12",
+"ldiv" : "0.50",
+"shares" : "51.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "842984",
+"name" : "Menon Pistons Limited",
+"t" : "531727",
+"e" : "BOM",
+"l" : "29.70",
+"c" : "+1.20",
+"mc" : "1.48B",
+"cp" : "4.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11867337",
+"name" : "Samkrg Pistons And Rings Ltd",
+"t" : "520075",
+"e" : "BOM",
+"l" : "304.00",
+"c" : "+1.75",
+"mc" : "3.03B",
+"cp" : "0.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2371222",
+"name" : "Ucal Fuel Systems Limited",
+"t" : "UCALFUEL",
+"e" : "NSE",
+"l" : "275.00",
+"c" : "+5.15",
+"mc" : "6.08B",
+"cp" : "1.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "972155",
+"name" : "Amtek Auto Ltd",
+"t" : "AMTEKAUTO",
+"e" : "NSE",
+"l" : "24.30",
+"c" : "+1.15",
+"mc" : "6.05B",
+"cp" : "4.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9429204",
+"name" : "Federal-Mogul Goetze (India) Limited",
+"t" : "FMGOETZE",
+"e" : "NSE",
+"l" : "487.00",
+"c" : "+1.45",
+"mc" : "27.12B",
+"cp" : "0.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "388331",
+"name" : "IP Rings Limited",
+"t" : "IPRINGLTD",
+"e" : "NSE",
+"l" : "139.00",
+"c" : "",
+"mc" : "971.11M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "30688",
+"name" : "Triton Valves Limited",
+"t" : "505978",
+"e" : "BOM",
+"l" : "1,884.00",
+"c" : "-19.30",
+"mc" : "1.87B",
+"cp" : "-1.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6931017",
+"name" : "Rane Engine Valve Ltd",
+"t" : "RANEENGINE",
+"e" : "NSE",
+"l" : "530.00",
+"c" : "+3.70",
+"mc" : "3.56B",
+"cp" : "0.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "752068",
+"name" : "Kar Mobiles Limited",
+"t" : "590053",
+"e" : "BOM",
+"l" : "380.00",
+"c" : "",
+"mc" : "851.42M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "9043051",
+"name" : "Rane (Madras) Limited",
+"t" : "RML",
+"e" : "NSE",
+"l" : "868.00",
+"c" : "+46.00",
+"mc" : "10.15B",
+"cp" : "5.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5574558",
+"name" : "Menon Bearings Ltd",
+"t" : "523828",
+"e" : "BOM",
+"l" : "107.10",
+"c" : "+7.65",
+"mc" : "6.01B",
+"cp" : "7.69",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "182, Shiroli, KOLHAPUR, 416122, India",
+"phone": "+91-230-2468041",
+"fax": "+91-230-2468442",
+"url": "http:\u002F\u002Fwww.menonpistons.com\u002F",
+"overview" : "Menon Pistons Limited is engaged in manufacturing of auto components, such as pistons, gudgeon pins and rings required for commercial and passenger vehicles. The Company\u0027s product range consists of piston assemblies for an array of features catering to various applications, such as heavy duty diesel engines for power generation\u002Foff highway vehicles\u002Fgas engines\u003B heavy\u002Fmedium\u002Flight commercial vehicles with diesel engines\u003B passenger car (diesel and gasoline) engines, and bi-wheeler (four stroke)\u002Fsmall engine applications. The Company develops and produces pistons with diameters ranging from 130 millimeters to 190 millimeters featuring single alfin and dual alfin gravity die cast pistons. Its products include 1 MW Piston, 140 mm dia BEML Piston, Articulated Piston, Cooled Gallery Cut Section, TATA 497 Euro II Piston, TATA 4SP Euro III Piston and Kirloskar Copeland Pistons. The Company\u0027s plants are located at Kolhapur and Sangli."
+} ]
+, "management" : [
+{
+"name" : "Pramod Suryavanshi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sadhana Zadbuke",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Ajitkumar Shrinivasan Belur",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ramesh Dattatraya Dixit",
+"age" : "68",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

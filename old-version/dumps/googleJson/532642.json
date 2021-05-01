@@ -1,0 +1,277 @@
+
+ [
+{
+"symbol" : "532642",
+"exchange" : "BOM",
+"id": "715315",
+"t" : "532642",
+"e" : "BOM",
+"name" : "JSW Holdings Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532642"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532642"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532642"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "70.98%",
+"annual" : "74.79%",
+"ttm" : "76.38%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "89.52%",
+"annual" : "93.74%",
+"ttm" : "94.09%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "93.76%",
+"ttm" : "94.11%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.76%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.77%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.40",
+"l" : "1,743.50",
+"cp" : "-0.02",
+"ccol" : "chr",
+"op" : "1,746.00",
+"hi" : "1,758.00",
+"lo" : "1,743.50",
+"vo" : "44.00",
+"avvo" : "",
+"hi52" : "2,007.00",
+"lo52" : "1,496.00",
+"mc" : "19.35B",
+"pe" : "29.21",
+"fwpe" : "",
+"beta" : "",
+"eps" : "59.69",
+"dy" : "",
+"ldiv" : "",
+"shares" : "11.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715315",
+"name" : "JSW Holdings Ltd",
+"t" : "532642",
+"e" : "BOM",
+"l" : "1,743.50",
+"c" : "-0.40",
+"mc" : "19.35B",
+"cp" : "-0.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "717000",
+"name" : "Centrum Capital Ltd",
+"t" : "501150",
+"e" : "BOM",
+"l" : "64.20",
+"c" : "0.00",
+"mc" : "26.63B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3363326",
+"name" : "Stanrose Mafatlal Investment\u0026Finance Ltd",
+"t" : "506105",
+"e" : "BOM",
+"l" : "156.00",
+"c" : "+0.20",
+"mc" : "630.32M",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6327012",
+"name" : "Industrial \u0026 Prudential Investment",
+"t" : "501298",
+"e" : "BOM",
+"l" : "1,250.00",
+"c" : "+0.05",
+"mc" : "2.18B",
+"cp" : "0.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8710435",
+"name" : "Sumedha Fiscal Services Ltd",
+"t" : "530419",
+"e" : "BOM",
+"l" : "55.75",
+"c" : "+3.95",
+"mc" : "447.29M",
+"cp" : "7.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1260463",
+"name" : "Mahan Industries Ltd",
+"t" : "531515",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "17.64M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "615832738412871",
+"name" : "Innovassynth Investments Ltd",
+"t" : "533315",
+"e" : "BOM",
+"l" : "9.40",
+"c" : "-0.10",
+"mc" : "228.21M",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5261381",
+"name" : "Simplex Trading \u0026 Agencies Ltd",
+"t" : "504382",
+"e" : "BOM",
+"l" : "48.45",
+"c" : "0.00",
+"mc" : "2.32B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "334762453216766",
+"name" : "Amrapali Capital and Finance Servics Ltd",
+"t" : "536737",
+"e" : "BOM",
+"l" : "43.75",
+"c" : "0.00",
+"mc" : "427.81M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16629800",
+"name" : "Interface Financial Services Ltd",
+"t" : "530519",
+"e" : "BOM",
+"l" : "0.18",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3851186",
+"name" : "Bajrang Finance Ltd",
+"t" : "511139",
+"e" : "BOM",
+"l" : "11.97",
+"c" : "0.00",
+"mc" : "17.60M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "JSW Centre Bandra Kurla Complex, Bandra (East), MUMBAI, 400051, India",
+"phone": "+91-22-42861000",
+"fax": "+91-22-42863000",
+"url": "http:\u002F\u002Fwww.jsw.in\u002F",
+"overview" : "JSW Holdings Limited is a Core Investment Company. The Company is engaged in investing and financing. The Company\u0027s products and services include dividend, interest and pledge fees. The Company grants loans\u002Fadvances and provides guarantees\u002Fsecurities to only its Group Companies."
+} ]
+, "management" : [
+{
+"name" : "K. N. Patel",
+"age" : "63",
+"title" : "Chief Executive Officer, Chief Financial Officer, Joint Managing Director"
+}
+,
+{
+"name" : "Deepak Bhat",
+"title" : "Chief Compliance Officer, Secretary"
+}
+,
+{
+"name" : "Sajjan Jindal",
+"age" : "57",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Nirmal Kumar Jain",
+"age" : "68",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Atul Desai",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "I. Qureshi",
+"age" : "52",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

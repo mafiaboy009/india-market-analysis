@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "503722",
+"exchange" : "BOM",
+"id": "714731",
+"t" : "503722",
+"e" : "BOM",
+"name" : "Banswara Syntex Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:503722"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:503722"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:503722"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.44%",
+"annual" : "1.33%",
+"ttm" : "2.14%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.20%",
+"annual" : "5.91%",
+"ttm" : "8.08%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.53%",
+"ttm" : "12.86%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.58%",
+"ttm" : "2.57%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.46%",
+"ttm" : "11.56%"
+}
+]
+, "c" : "+1.00",
+"l" : "116.00",
+"cp" : "0.87",
+"ccol" : "chg",
+"op" : "114.20",
+"hi" : "118.00",
+"lo" : "114.20",
+"vo" : "745.00",
+"avvo" : "",
+"hi52" : "261.00",
+"lo52" : "108.00",
+"mc" : "2.00B",
+"pe" : "7.18",
+"fwpe" : "",
+"beta" : "",
+"eps" : "16.16",
+"dy" : "0.86",
+"ldiv" : "1.00",
+"shares" : "17.12M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "714731",
+"name" : "Banswara Syntex Ltd.",
+"t" : "503722",
+"e" : "BOM",
+"l" : "116.00",
+"c" : "+1.00",
+"mc" : "2.00B",
+"cp" : "0.87",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2690096",
+"name" : "BSL Ltd",
+"t" : "BSL",
+"e" : "NSE",
+"l" : "74.40",
+"c" : "-2.20",
+"mc" : "771.78M",
+"cp" : "-2.87",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16667826",
+"name" : "Nahar Industrial Enterprises Limited",
+"t" : "NAHARINDUS",
+"e" : "NSE",
+"l" : "88.90",
+"c" : "+0.15",
+"mc" : "3.54B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "728999961918613",
+"name" : "Safal Herbs Ltd",
+"t" : "532034",
+"e" : "BOM",
+"l" : "2.89",
+"c" : "-0.05",
+"mc" : "289.00M",
+"cp" : "-1.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10446262",
+"name" : "Zenith Exports Ltd",
+"t" : "ZENITHEXPO",
+"e" : "NSE",
+"l" : "49.00",
+"c" : "0.00",
+"mc" : "264.42M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6775313",
+"name" : "Salona Cotspin Ltd",
+"t" : "590056",
+"e" : "BOM",
+"l" : "122.45",
+"c" : "-4.55",
+"mc" : "613.94M",
+"cp" : "-3.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "896556",
+"name" : "Indo Count Industries Ltd",
+"t" : "ICIL",
+"e" : "NSE",
+"l" : "101.60",
+"c" : "+0.40",
+"mc" : "20.00B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715247",
+"name" : "Maharaja Shree Umaid Mills Ltd.",
+"t" : "530059",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13987133",
+"name" : "Gokaldas Exports Ltd.",
+"t" : "GOKEX",
+"e" : "NSE",
+"l" : "94.75",
+"c" : "-1.20",
+"mc" : "3.31B",
+"cp" : "-1.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9426201",
+"name" : "Kamadgiri Fashion Ltd",
+"t" : "514322",
+"e" : "BOM",
+"l" : "135.25",
+"c" : "-2.20",
+"mc" : "802.30M",
+"cp" : "-1.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715416",
+"name" : "Lakshmi Mills Company Ltd",
+"t" : "502958",
+"e" : "BOM",
+"l" : "3,500.00",
+"c" : "+50.00",
+"mc" : "2.43B",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "5th Floor Gopal Bhawan, 199, Princess Street, MUMBAI, 400002, India",
+"phone": "+91-22-56336571",
+"fax": "+91-22-22064486",
+"url": "http:\u002F\u002Fwww.banswarasyntex.com\u002F",
+"overview" : "Banswara Syntex Limited is a holding company. The Company is engaged in the production of textile products. The Company manufactures and markets spun synthetic blended yarn, cotton spun yarn, wool and wool mix yarn, spun synthetic and worsted fabrics, cotton and linen fabrics besides readymade garments. The Company also produces shirting and technical fabrics. The Company produces trousers and jackets at garment factories in Daman and Surat. The Company manufactures a range of yarns, including 100% Polyester, 100% Viscose, 100% Acrylic, 100% Wool, Polyester\u002FViscose (P\u002FV), P\u002FV\u002FWool, P\u002FV\u002FLycra, P\u002FV\u002FLinen and P\u002FV\u002FHigh Twists. The Company manufactures mono, bi-stretch and rigid fabrics for men\u0027s and women\u0027s wear and home textile furnishing fabrics in various blends, such as Worsted Spun Polyester\u002FWool, 100% Wool Specialties, 100% Viscose, Polyester\u002FViscose, Polyester\u002FModal, Polyester\u002FViscose\u002FLycra, Polyester\u002FViscose\u002FCotton, Polyester\u002FWool\u002FLycra, and Upholstery and Technical Fabric."
+} ]
+, "management" : [
+{
+"name" : "R. L. Toshniwal",
+"age" : "83",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "S. S. Sajal",
+"title" : "President"
+}
+,
+{
+"name" : "Rakesh Mehra",
+"age" : "60",
+"title" : "Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "J. K. Jain",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "J. K. Rathi",
+"title" : "President - Commercial"
+}
+,
+{
+"name" : "S. N. Gupta",
+"title" : "Senior Vice President - Technical"
+}
+,
+{
+"name" : "H. P. Kharwal",
+"age" : "34",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Basant Kala",
+"title" : "Vice President - Finance \u0026 Accounts"
+}
+,
+{
+"name" : "S. R. Jain",
+"title" : "Vice President - Engineering"
+}
+,
+{
+"name" : "Nailesh Joshi",
+"title" : "Vice President - Technical-Surat SEZ Unit"
+}
+]
+,"moreresources" : [
+]
+}]

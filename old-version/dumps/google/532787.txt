@@ -1,0 +1,290 @@
+
+// [
+{
+"symbol" : "532787",
+"exchange" : "BOM",
+"id": "708966",
+"t" : "532787",
+"e" : "BOM",
+"name" : "Ess Dee Aluminium Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532787"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532787"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532787"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-399.34%",
+"annual" : "-68747.04%",
+"ttm" : "-33.79%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-592.95%",
+"annual" : "-54772.27%",
+"ttm" : "-33.62%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-49073.71%",
+"ttm" : "-22.46%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-37.37%",
+"ttm" : "-8.66%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-122.25%",
+"ttm" : "-18.70%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "977",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.80",
+"l" : "65.60",
+"cp" : "2.82",
+"ccol" : "chg",
+"op" : "66.00",
+"hi" : "66.95",
+"lo" : "65.00",
+"vo" : "8,068.00",
+"avvo" : "",
+"hi52" : "93.00",
+"lo52" : "28.00",
+"mc" : "2.13B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-48.15",
+"dy" : "",
+"ldiv" : "",
+"shares" : "32.05M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "708966",
+"name" : "Ess Dee Aluminium Limited",
+"t" : "532787",
+"e" : "BOM",
+"l" : "65.60",
+"c" : "+1.80",
+"mc" : "2.13B",
+"cp" : "2.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15189846",
+"name" : "PG Foils Ltd",
+"t" : "526747",
+"e" : "BOM",
+"l" : "180.20",
+"c" : "-3.70",
+"mc" : "1.46B",
+"cp" : "-2.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15398212",
+"name" : "Biopac India Corp Ltd",
+"t" : "532330",
+"e" : "BOM",
+"l" : "28.15",
+"c" : "+1.20",
+"mc" : "485.59M",
+"cp" : "4.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9263360",
+"name" : "Parekh Aluminex Ltd",
+"t" : "PARAL",
+"e" : "NSE",
+"l" : "47.00",
+"c" : "",
+"mc" : "608.18M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "434058941224572",
+"name" : "Arcotech Limited",
+"t" : "ARCOTECH",
+"e" : "NSE",
+"l" : "45.70",
+"c" : "+0.50",
+"mc" : "4.80B",
+"cp" : "1.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "703857",
+"name" : "Bilcare Ltd",
+"t" : "526853",
+"e" : "BOM",
+"l" : "64.50",
+"c" : "+2.85",
+"mc" : "1.51B",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "427129",
+"name" : "Gujarat Foils Ltd.",
+"t" : "531410",
+"e" : "BOM",
+"l" : "12.00",
+"c" : "-0.50",
+"mc" : "98.42M",
+"cp" : "-4.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10497480",
+"name" : "Euro Ceramics Limited",
+"t" : "EUROCERA",
+"e" : "NSE",
+"l" : "7.25",
+"c" : "+0.10",
+"mc" : "248.07M",
+"cp" : "1.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13572853",
+"name" : "Sturdy Industries Ltd",
+"t" : "530611",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "143.69M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15493987",
+"name" : "Manaksia Limited",
+"t" : "MANAKSIA",
+"e" : "NSE",
+"l" : "60.60",
+"c" : "+5.35",
+"mc" : "3.97B",
+"cp" : "9.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "461463198539373",
+"name" : "Arfin India Ltd",
+"t" : "539151",
+"e" : "BOM",
+"l" : "511.60",
+"c" : "-1.95",
+"mc" : "6.22B",
+"cp" : "-0.38",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Ess Dee House Akurli Road, Kandivli (East), MUMBAI, 400101, India",
+"phone": "+91-22-66908247",
+"fax": "+91-22-66908396",
+"url": "http:\u002F\u002Fwww.essdee.in\u002F",
+"overview" : "Ess Dee Aluminium Limited is a manufacturer and supplier of primary packaging materials catering pharmaceutical, food and fast-moving consumer goods (FMCG) goods. The Company operates through the advanced packaging solutions segment. It develops cold form, child resistant and tropicalized blister packaging solutions. Its products include ESS DEE RX ASEPTIC, ESS DEE RX APERITIF, ESS DEE RX BUBBLE, ESS DEE RX BLISS, ESS DEE RX CURATIVE, ESS DEE RX DELIGHT, ESS DEE RX ELIXIR, ESS DEE RX HOLISTIC, ESS DEE RX INVASIVE, ESS DEE RX IGNITE, ESS DEE RX LEAVES, ESS DEE RX PARENTING, ESS DEE RX PROPHYLACTIC, ESS DEE RX SPECTRUM, ESS DEE RX SOLACE, ESS DEE RX THERAPY, ESS DEE RX MEMBRANE and ESS DEE RX FABRIC. Its manufacturing plants are located at Bhimpore, Daman\u003B Taratalla Road, Kolkata\u003B Bhenslore, Village Dunetha, Nani Daman\u003B Kundaim, Goa\u003B Kamarhatti, Kolkata, and P.S. Mogra, District Hooghly. The Company\u0027s subsidiaries include Flex Art Foil Limited and Ess Dee Aluminium Pvt. Limited."
+} ]
+, "management" : [
+{
+"name" : "Ashis Bhattacharya",
+"age" : "50",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Debdeep Bhattacharya",
+"age" : "47",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Vinaya Desai",
+"age" : "42",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Sudip Bijoy Dutta",
+"age" : "43",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Bijoy Kumar Pansari",
+"age" : "66",
+"title" : "Director"
+}
+,
+{
+"name" : "Madan Mohan Jain",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Gautam Mukherjee",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Dilip S. Phatarphekar",
+"age" : "77",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

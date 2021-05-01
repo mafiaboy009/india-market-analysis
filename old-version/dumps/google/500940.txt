@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "500940",
+"exchange" : "BOM",
+"id": "677328",
+"t" : "500940",
+"e" : "BOM",
+"name" : "Finolex Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:500940"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:500940"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:500940"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.58%",
+"annual" : "11.88%",
+"ttm" : "9.07%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.71%",
+"annual" : "17.00%",
+"ttm" : "13.31%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "18.85%",
+"ttm" : "14.23%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "13.19%",
+"ttm" : "10.70%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.17%",
+"ttm" : "17.38%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,221",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+11.50",
+"l" : "648.50",
+"cp" : "1.81",
+"ccol" : "chg",
+"op" : "652.00",
+"hi" : "654.00",
+"lo" : "640.40",
+"vo" : "5,655.00",
+"avvo" : "",
+"hi52" : "752.80",
+"lo52" : "525.00",
+"mc" : "79.28B",
+"pe" : "31.22",
+"fwpe" : "",
+"beta" : "",
+"eps" : "20.77",
+"dy" : "1.77",
+"ldiv" : "11.50",
+"shares" : "124.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677328",
+"name" : "Finolex Industries Ltd",
+"t" : "500940",
+"e" : "BOM",
+"l" : "648.50",
+"c" : "+11.50",
+"mc" : "79.28B",
+"cp" : "1.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "754596606759916",
+"name" : "Captain Pipes Ltd",
+"t" : "538817",
+"e" : "BOM",
+"l" : "59.00",
+"c" : "0.00",
+"mc" : "245.35M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11378130",
+"name" : "Texmo Pipes and products limited",
+"t" : "TEXMOPIPES",
+"e" : "NSE",
+"l" : "22.70",
+"c" : "+0.40",
+"mc" : "567.95M",
+"cp" : "1.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4234386",
+"name" : "Tulsi Extrusions Limited",
+"t" : "TULSI",
+"e" : "NSE",
+"l" : "3.00",
+"c" : "+0.10",
+"mc" : "82.48M",
+"cp" : "3.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4984349",
+"name" : "Kriti Industries India Ltd",
+"t" : "526423",
+"e" : "BOM",
+"l" : "52.00",
+"c" : "+0.50",
+"mc" : "2.58B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4691478",
+"name" : "Dutron Polymers Ltd",
+"t" : "517437",
+"e" : "BOM",
+"l" : "129.20",
+"c" : "-6.80",
+"mc" : "775.20M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4393042",
+"name" : "Astral Poly Technik Ltd",
+"t" : "ASTRAL",
+"e" : "NSE",
+"l" : "844.00",
+"c" : "+62.60",
+"mc" : "99.98B",
+"cp" : "8.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9526827",
+"name" : "Apollo Pipes Ltd",
+"t" : "531761",
+"e" : "BOM",
+"l" : "589.60",
+"c" : "+28.05",
+"mc" : "2.98B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8904073",
+"name" : "Tijaria Polypipes Ltd",
+"t" : "TIJARIA",
+"e" : "NSE",
+"l" : "10.80",
+"c" : "+0.50",
+"mc" : "255.17M",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10233386",
+"name" : "Sri KPR Industries Ltd",
+"t" : "514442",
+"e" : "BOM",
+"l" : "27.00",
+"c" : "-0.50",
+"mc" : "543.93M",
+"cp" : "-1.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "957998894687951",
+"name" : "Captain Polyplast Ltd",
+"t" : "536974",
+"e" : "BOM",
+"l" : "156.20",
+"c" : "-6.70",
+"mc" : "1.53B",
+"cp" : "-4.11",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "D 1\u002F10 MIDC Chinchwad, PUNE, 411019, India",
+"phone": "+91-20-27408200",
+"fax": "+91-20-27479000",
+"url": "http:\u002F\u002Fwww.finolexwater.com\u002F",
+"overview" : "Finolex Industries Limited is a manufacturer of polyvinyl chloride (PVC) pipes and fittings, and PVC resins. The Company operates through polyvinyl chloride (PVC), Pipes \u0026 fittings and Power segments. The Company offers its products in categories, including Agricultural Pipes and Fittings, and Plumbing and Sanitation Pipes and Fittings. Its products include Underground Sewerage Pipes, Female Threaded Adaptor, Service Saddle, Fabricated Repair Coupler and Screen Pipes with Ribs. It offers chlorinated polyvinyl chloride (CPVC) pipes and fittings, such as CPVC Pipes, Compact Ball Valve, Coupler, Cross Tee, Transition Bush, Reducing Elbow, Tank Nipple, Step Over Bend, Male Threaded Adaptor and others. Its PVC pipes and fittings are available in various sizes, pressure classes and diameters, and are used in agriculture, housing, telecommunications, construction and industries. Its manufacturing plants are located in Pune, Ratnagiri in Maharashtra and Masar, near Vadodara in Gujarat."
+} ]
+, "management" : [
+{
+"name" : "Prakash P. Chhabria",
+"age" : "52",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Anil V. Whabi",
+"title" : "Chief Financial Officer, Vice President - Finance, Whole-Time Director"
+}
+,
+{
+"name" : "Devang B. Trivedi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sanjay S. Math",
+"age" : "59",
+"title" : "Wholetime Director, Executive Director"
+}
+,
+{
+"name" : "Ritu Prakash Chhabria",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sanjay K. Asher J.D.",
+"age" : "72",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kanaiyalal N. Atmaramani",
+"age" : "76",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Dara N. Damania",
+"age" : "77",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Srikrishna Narhar Inamdar",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

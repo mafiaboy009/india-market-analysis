@@ -1,0 +1,257 @@
+
+// [
+{
+"symbol" : "538836",
+"exchange" : "BOM",
+"id": "243405394891099",
+"t" : "538836",
+"e" : "BOM",
+"name" : "Monte Carlo Fashions Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=MOCF.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:538836"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:538836"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:538836"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "13.43%",
+"annual" : "7.25%",
+"ttm" : "9.38%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "20.93%",
+"annual" : "9.00%",
+"ttm" : "12.58%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.24%",
+"ttm" : "15.96%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.01%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.06%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,656",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-4.80",
+"l" : "535.00",
+"cp" : "-0.89",
+"ccol" : "chr",
+"op" : "540.90",
+"hi" : "549.95",
+"lo" : "535.00",
+"vo" : "3,483.00",
+"avvo" : "",
+"hi52" : "664.00",
+"lo52" : "374.00",
+"mc" : "11.60B",
+"pe" : "18.90",
+"fwpe" : "",
+"beta" : "",
+"eps" : "28.30",
+"dy" : "1.87",
+"ldiv" : "10.00",
+"shares" : "21.73M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "243405394891099",
+"name" : "Monte Carlo Fashions Ltd",
+"t" : "538836",
+"e" : "BOM",
+"l" : "535.00",
+"c" : "-4.80",
+"mc" : "11.60B",
+"cp" : "-0.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "89871121181236",
+"name" : "Ghushine Fintrrade Ocean Ltd",
+"t" : "539864",
+"e" : "BOM",
+"l" : "6.77",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "447283458929672",
+"name" : "Amsons Apparels Ltd",
+"t" : "538861",
+"e" : "BOM",
+"l" : "3.75",
+"c" : "+0.03",
+"mc" : "",
+"cp" : "0.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "777975629688987",
+"name" : "Arman Holdings Ltd",
+"t" : "538556",
+"e" : "BOM",
+"l" : "110.00",
+"c" : "0.00",
+"mc" : "579.13M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12500615",
+"name" : "Standard Industries Limited",
+"t" : "SIL",
+"e" : "NSE",
+"l" : "23.25",
+"c" : "+0.55",
+"mc" : "1.49B",
+"cp" : "2.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "441447889093001",
+"name" : "IFL Enterprises Ltd",
+"t" : "540377",
+"e" : "BOM",
+"l" : "10.75",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715256",
+"name" : "Raghav Industries Ltd.",
+"t" : "526465",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-37.35",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1070243896263751",
+"name" : "Moryo Industries Ltd",
+"t" : "513305",
+"e" : "BOM",
+"l" : "157.95",
+"c" : "0.00",
+"mc" : "2.53B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2059533296753",
+"name" : "Divinus Fabrics Ltd",
+"t" : "538432",
+"e" : "BOM",
+"l" : "120.95",
+"c" : "0.00",
+"mc" : "539.07M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12171690",
+"name" : "Welspun Investments and Commercials Ltd",
+"t" : "WELINV",
+"e" : "NSE",
+"l" : "192.70",
+"c" : "+9.15",
+"mc" : "",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "680514275015472",
+"name" : "Neil Industries Ltd",
+"t" : "539016",
+"e" : "BOM",
+"l" : "20.00",
+"c" : "0.00",
+"mc" : "391.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "B-XXIX-106, G.T. Road, Sherpur, LUDHIANA, 141003, India",
+"phone": "+91-161-5048610",
+"fax": "+91-161-2542509",
+"url": "http:\u002F\u002Fwww.montecarlocollections.com\u002F",
+"overview" : "Monte Carlo Fashions Limited is engaged in manufacturing of all types of textile garments and clothing accessories. The Company is involved in manufacturing of designer woolen\u002Fcotton readymade apparels under its MONTE CARLO brand. Its woolen products include sweaters and cardigans. Its cotton knitted garments include T-Shirts and Track Suits. Its woven garments portfolio includes Shirts, Trousers, Suits, Jackets and Denims. The products offered under brand Monte Carlo, apart from Woolen knitted garments, include Trousers, Bermudas, Lowers, Hi-Street Fashion Shirts, Tops, Dresses, Jumpsuits, Urban Tunics, Shrugs, Shorts, Capris, Narrow Pants, Leggings, Track Suits and Solid T-Shirts for men, women and tweens (8-14 years) and home furnishing goods. The Company\u0027s products reach the end user through different channels, including through brand outlets, multi brand outlets, format outlets and through e-commerce Websites. It operates over three manufacturing facilities in Ludhiana, Punjab."
+} ]
+, "management" : [
+{
+"name" : "Jawahar Lal Oswal",
+"title" : "Chairman \u0026 Managing Director"
+}
+,
+{
+"name" : "Alok Kumar Misra",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Amrik Singh Sohi",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

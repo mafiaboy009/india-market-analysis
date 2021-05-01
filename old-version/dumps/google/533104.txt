@@ -1,0 +1,295 @@
+
+// [
+{
+"symbol" : "533104",
+"exchange" : "BOM",
+"id": "717961",
+"t" : "533104",
+"e" : "BOM",
+"name" : "Globus Spirits Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533104"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533104"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533104"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002715)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.11%",
+"annual" : "0.93%",
+"ttm" : "1.15%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.96%",
+"annual" : "2.12%",
+"ttm" : "3.44%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.95%",
+"ttm" : "8.34%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.94%",
+"ttm" : "1.09%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.02%",
+"ttm" : "1.91%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "276",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.40",
+"l" : "130.60",
+"cp" : "-1.06",
+"ccol" : "chr",
+"op" : "130.20",
+"hi" : "133.95",
+"lo" : "130.20",
+"vo" : "12,269.00",
+"avvo" : "",
+"hi52" : "178.05",
+"lo52" : "62.05",
+"mc" : "3.71B",
+"pe" : "51.65",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.53",
+"dy" : "",
+"ldiv" : "",
+"shares" : "28.80M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "717961",
+"name" : "Globus Spirits Ltd",
+"t" : "533104",
+"e" : "BOM",
+"l" : "130.60",
+"c" : "-1.40",
+"mc" : "3.71B",
+"cp" : "-1.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "280538538689192",
+"name" : "Pincon Spirit Ltd",
+"t" : "PINCON",
+"e" : "NSE",
+"l" : "33.95",
+"c" : "+1.00",
+"mc" : "1.55B",
+"cp" : "3.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16118513",
+"name" : "United Spirits Ltd",
+"t" : "MCDOWELL-N",
+"e" : "NSE",
+"l" : "3,242.00",
+"c" : "+3.15",
+"mc" : "470.54B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1432984",
+"name" : "Ravikumar Distilleries Limited",
+"t" : "RKDL",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "+0.35",
+"mc" : "380.40M",
+"cp" : "2.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "970784991072619",
+"name" : "Som Distilleries And Breweries Ltd",
+"t" : "SDBL",
+"e" : "NSE",
+"l" : "246.30",
+"c" : "-2.75",
+"mc" : "6.79B",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13751075",
+"name" : "Pioneer Distilleries Limited",
+"t" : "PIONDIST",
+"e" : "NSE",
+"l" : "188.00",
+"c" : "+2.45",
+"mc" : "2.51B",
+"cp" : "1.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16027919",
+"name" : "Ifb Agro Industries Ltd",
+"t" : "IFBAGRO",
+"e" : "NSE",
+"l" : "696.85",
+"c" : "+24.40",
+"mc" : "6.50B",
+"cp" : "3.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8902314",
+"name" : "Kesar Enterprises Ltd",
+"t" : "KESARENT",
+"e" : "NSE",
+"l" : "57.95",
+"c" : "-1.15",
+"mc" : "578.73M",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8491370",
+"name" : "Empee Distilleries Limited",
+"t" : "EDL",
+"e" : "NSE",
+"l" : "43.00",
+"c" : "-0.80",
+"mc" : "863.61M",
+"cp" : "-1.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7165807",
+"name" : "Associated Alcohol and Breweries Ltd",
+"t" : "507526",
+"e" : "BOM",
+"l" : "276.50",
+"c" : "+1.20",
+"mc" : "4.97B",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9672160",
+"name" : "Radico Khaitan Limited",
+"t" : "RADICO",
+"e" : "NSE",
+"l" : "354.30",
+"c" : "+1.30",
+"mc" : "47.16B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "24, Pangyoro 255beon-Gil, Bundang-Gu, NEW DELHI, 110065, India",
+"phone": "+91-11-66424600",
+"fax": "+91-11-66424629",
+"url": "http:\u002F\u002Fwww.globusspirits.com\u002F",
+"overview" : "Globus Spirits Limited is an India-based alcoholic beverages company. The Company is engaged in manufacturing, marketing and sale of Indian Made Indian Liquor (IMIL), Indian Made Foreign Liquor (IMFL), Bulk Alcohol and contract bottling for established IMFL brands. The Company operates through the Industrial and Potable Alcohol business segment. The Company\u0027s IMIL brands include Nimboo, Ghoomar, Heer Ranjha and Narangi. Its IMFL brands include Country Club, French Castle, Hannibal Legendary and White Lace. The Company offers IMFL bottling services to various brands, including Bagpiper Whisky, Moghul Monarch, Derby Special and Officer\u0027s Choice Whisky. The Company operates approximately three distilleries at Behror, Rajasthan, and Samalkha and Hisar, Haryana. The Company has over 90 million bulk liters of grain-based distillery capacity. The Company exports its products to Europe, Africa, the Middle-East Asia and Far-East."
+} ]
+, "management" : [
+{
+"name" : "Ajay Kumar Goyal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Bhaskar Roy",
+"title" : "Chief Operating Officer, Whole-Time Director"
+}
+,
+{
+"name" : "Santosh Kumar Pattanayak",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ajay Kumar Swarup",
+"age" : "56",
+"title" : "Managing Director, Executive Non-Independent Director"
+}
+,
+{
+"name" : "Manik Lal Dutta",
+"age" : "67",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Vijay Kumar Rekhi",
+"title" : "Additional Executive Director"
+}
+,
+{
+"name" : "Shekhar Swarup",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Vivek Gupta",
+"age" : "45",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Ruchika Bansal",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Richard Andrew Cornish Piliero",
+"title" : "Additional Director"
+}
+]
+,"moreresources" : [
+]
+}]

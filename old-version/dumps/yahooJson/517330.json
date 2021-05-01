@@ -1,0 +1,374 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 5129994752,
+            "fmt": "5.13B",
+            "longFmt": "5,129,994,752"
+          },
+          "forwardPE": {
+            "raw": 7.4803877,
+            "fmt": "7.48"
+          },
+          "profitMargins": {
+            "raw": 0.079380006,
+            "fmt": "7.94%"
+          },
+          "floatShares": {
+            "raw": 4493349,
+            "fmt": "4.49M",
+            "longFmt": "4,493,349"
+          },
+          "sharesOutstanding": {
+            "raw": 15027500,
+            "fmt": "15.03M",
+            "longFmt": "15,027,500"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.604464,
+            "fmt": "0.6"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 146.163,
+            "fmt": "146.16"
+          },
+          "priceToBook": {
+            "raw": 1.1090358,
+            "fmt": "1.11"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 2.352,
+            "fmt": "235.20%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 424917920,
+            "fmt": "424.92M",
+            "longFmt": "424,917,920"
+          },
+          "trailingEps": {
+            "raw": 28.225,
+            "fmt": "28.23"
+          },
+          "forwardEps": {
+            "raw": 21.67,
+            "fmt": "21.67"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.958,
+            "fmt": "0.96"
+          },
+          "enterpriseToEbitda": {
+            "raw": 6.343,
+            "fmt": "6.34"
+          },
+          "52WeekChange": {
+            "raw": -0.19084519,
+            "fmt": "-19.08%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2016",
+                "actual": {
+                  "raw": 3.82,
+                  "fmt": "3.82"
+                },
+                "estimate": {
+                  "raw": 4.36,
+                  "fmt": "4.36"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2016
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 1053299963,
+                  "fmt": "1.05B",
+                  "longFmt": "1,053,299,963"
+                },
+                "earnings": {
+                  "raw": 17682870,
+                  "fmt": "17.68M",
+                  "longFmt": "17,682,870"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1358354449,
+                  "fmt": "1.36B",
+                  "longFmt": "1,358,354,449"
+                },
+                "earnings": {
+                  "raw": 63039966,
+                  "fmt": "63.04M",
+                  "longFmt": "63,039,966"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 2409179306,
+                  "fmt": "2.41B",
+                  "longFmt": "2,409,179,306"
+                },
+                "earnings": {
+                  "raw": 1059806456,
+                  "fmt": "1.06B",
+                  "longFmt": "1,059,806,456"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 3803206364,
+                  "fmt": "3.8B",
+                  "longFmt": "3,803,206,364"
+                },
+                "earnings": {
+                  "raw": 300747934,
+                  "fmt": "300.75M",
+                  "longFmt": "300,747,934"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 1366895364,
+                  "fmt": "1.37B",
+                  "longFmt": "1,366,895,364"
+                },
+                "earnings": {
+                  "raw": 234652934,
+                  "fmt": "234.65M",
+                  "longFmt": "234,652,934"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 1318839000,
+                  "fmt": "1.32B",
+                  "longFmt": "1,318,839,000"
+                },
+                "earnings": {
+                  "raw": 60316000,
+                  "fmt": "60.32M",
+                  "longFmt": "60,316,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 1349460000,
+                  "fmt": "1.35B",
+                  "longFmt": "1,349,460,000"
+                },
+                "earnings": {
+                  "raw": 61436000,
+                  "fmt": "61.44M",
+                  "longFmt": "61,436,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 1350743000,
+                  "fmt": "1.35B",
+                  "longFmt": "1,350,743,000"
+                },
+                "earnings": {
+                  "raw": 68365000,
+                  "fmt": "68.36M",
+                  "longFmt": "68,365,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "New Delhi House",
+          "address2": "5th Floor Flat No. 501- 503 27 Barakhamba Road",
+          "city": "New Delhi",
+          "zip": "110001",
+          "country": "India",
+          "phone": "91 11 4957 0000",
+          "fax": "91 11 2373 9902",
+          "website": "http://www.cmilimited.in",
+          "industry": "Diversified Electronics",
+          "sector": "Technology",
+          "longBusinessSummary": "CMI Limited designs, manufactures, and provides aluminum, copper, and specialty cable products and system solutions worldwide. The company offers various type of cables, such as extra high voltage power, medium and high voltage power, low voltage power, control, instrumentation, aerial bunched, thermocouple, fire alarm, welding, flexible, composite, railway signaling and power, balise, counter quad, axle counter, fire survival/fire resistant, low-smoke zero halogen, PCM, PIJF telecom, jelly filled telecom, field bus, profibus, telephone, mining, nuclear, solar DC, wind turbine, submersible, antitheft, shipboard, naval ship, braided, and air field lighting cables; specialty cables for smart cities; and shielded, thermocouple extension, compensating, polythylene insulated jelly, PVC switch board, control, screened, FRLS, and data transmission cables, as well as onshore/offshore fire oil, gas, and petrochemical cables. It also provides bare overhead conductors; hard drawn copper contact, catenary, flexible, and house wires; and copper wires and flexibles. CMI Limited serves various industries, including railways, oil and gas, telecommunications, energy, industrial, power, petrochemicals, etc. The company was formerly known as Choudhari Metal Industries Pvt Ltd. CMI Limited was founded in 1967 and is headquartered in New Delhi, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 162.1,
+            "fmt": "162.10"
+          },
+          "targetHighPrice": {
+            "raw": 477.0,
+            "fmt": "477.00"
+          },
+          "targetLowPrice": {
+            "raw": 259.0,
+            "fmt": "259.00"
+          },
+          "targetMeanPrice": {
+            "raw": 347.0,
+            "fmt": "347.00"
+          },
+          "targetMedianPrice": {
+            "raw": 305.0,
+            "fmt": "305.00"
+          },
+          "recommendationMean": {
+            "raw": 1.3,
+            "fmt": "1.30"
+          },
+          "recommendationKey": "strong_buy",
+          "numberOfAnalystOpinions": {
+            "raw": 3,
+            "fmt": "3",
+            "longFmt": "3"
+          },
+          "totalCash": {
+            "raw": 108531000,
+            "fmt": "108.53M",
+            "longFmt": "108,531,000"
+          },
+          "totalCashPerShare": {
+            "raw": 7.239,
+            "fmt": "7.24"
+          },
+          "ebitda": {
+            "raw": 808777664,
+            "fmt": "808.78M",
+            "longFmt": "808,777,664"
+          },
+          "totalDebt": {
+            "raw": 1769302016,
+            "fmt": "1.77B",
+            "longFmt": "1,769,302,016"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 5353106432,
+            "fmt": "5.35B",
+            "longFmt": "5,353,106,432"
+          },
+          "debtToEquity": {
+            "raw": 80.193,
+            "fmt": "80.19"
+          },
+          "revenuePerShare": {
+            "raw": 355.584,
+            "fmt": "355.58"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 864207976,
+            "fmt": "864.21M",
+            "longFmt": "864,207,976"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 2.281,
+            "fmt": "228.10%"
+          },
+          "revenueGrowth": {
+            "raw": 0.808,
+            "fmt": "80.80%"
+          },
+          "grossMargins": {
+            "raw": 0.23367001,
+            "fmt": "23.37%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.15108,
+            "fmt": "15.11%"
+          },
+          "operatingMargins": {
+            "raw": 0.12297,
+            "fmt": "12.30%"
+          },
+          "profitMargins": {
+            "raw": 0.079380006,
+            "fmt": "7.94%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

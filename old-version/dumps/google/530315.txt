@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "530315",
+"exchange" : "BOM",
+"id": "10913122",
+"t" : "530315",
+"e" : "BOM",
+"name" : "Hindustan Tin Works Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=HTWK.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530315"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530315"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530315"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.65%",
+"annual" : "2.67%",
+"ttm" : "3.32%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.62%",
+"annual" : "6.05%",
+"ttm" : "7.04%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.03%",
+"ttm" : "8.82%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.70%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.70%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "439",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-6.45",
+"l" : "99.00",
+"cp" : "-6.12",
+"ccol" : "chr",
+"op" : "106.25",
+"hi" : "107.65",
+"lo" : "98.70",
+"vo" : "74,876.00",
+"avvo" : "",
+"hi52" : "116.80",
+"lo52" : "57.10",
+"mc" : "1.03B",
+"pe" : "10.31",
+"fwpe" : "",
+"beta" : "",
+"eps" : "9.60",
+"dy" : "1.01",
+"ldiv" : "1.00",
+"shares" : "10.40M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10913122",
+"name" : "Hindustan Tin Works Limited",
+"t" : "530315",
+"e" : "BOM",
+"l" : "99.00",
+"c" : "-6.45",
+"mc" : "1.03B",
+"cp" : "-6.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12852031",
+"name" : "Kaira Can Co Ltd",
+"t" : "504840",
+"e" : "BOM",
+"l" : "1,404.00",
+"c" : "-68.50",
+"mc" : "1.29B",
+"cp" : "-4.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10498203",
+"name" : "Shetron Limited",
+"t" : "526137",
+"e" : "BOM",
+"l" : "54.20",
+"c" : "-1.80",
+"mc" : "495.95M",
+"cp" : "-3.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "189631",
+"name" : "Yashraj Containeurs Ltd",
+"t" : "530063",
+"e" : "BOM",
+"l" : "3.00",
+"c" : "0.00",
+"mc" : "51.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "312261",
+"name" : "JVL Agro Industries Limited",
+"t" : "JVLAGRO",
+"e" : "NSE",
+"l" : "27.75",
+"c" : "+0.55",
+"mc" : "4.67B",
+"cp" : "2.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "624591",
+"name" : "Agro Dutch Industries Ltd",
+"t" : "AGRODUTCH",
+"e" : "NSE",
+"l" : "1.65",
+"c" : "",
+"mc" : "89.70M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "9386080",
+"name" : "Sicagen India Limited",
+"t" : "SICAGEN",
+"e" : "NSE",
+"l" : "41.75",
+"c" : "-0.60",
+"mc" : "1.67B",
+"cp" : "-1.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "325895983037775",
+"name" : "Midfield Industries Ltd",
+"t" : "533220",
+"e" : "BOM",
+"l" : "12.05",
+"c" : "",
+"mc" : "163.31M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "287317093954084",
+"name" : "BKM Industries Ltd",
+"t" : "BKMINDST",
+"e" : "NSE",
+"l" : "35.95",
+"c" : "+1.20",
+"mc" : "2.31B",
+"cp" : "3.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715562",
+"name" : "Balmer Lawrie Investments Ltd.",
+"t" : "532485",
+"e" : "BOM",
+"l" : "429.50",
+"c" : "-6.30",
+"mc" : "9.54B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16139803",
+"name" : "Balmer Lawrie and Company Ltd",
+"t" : "BALMLAWRIE",
+"e" : "NSE",
+"l" : "231.90",
+"c" : "+0.75",
+"mc" : "26.45B",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "426, DLF Tower A,Jasola,, NEW DELHI, 110025, India",
+"phone": "+91-11-49998888",
+"fax": "+91-11-49998889",
+"url": "http:\u002F\u002Fwww.hindustantin.biz\u002F",
+"overview" : "Hindustan Tin Works Limited is an India-based company engaged in the business of manufacturing tin cans, printed or lacquered sheets and components, and trading in tin plates. The Company\u0027s segments include Manufacturing and Trading. The Manufacturing segment\u0027s products include metal containers, components and printed or lacquered sheets. The Trading segment includes purchase and sale of tin plates and easy open ends. The Company\u0027s product range includes processed food (OTS) cans (flattened and built up) for fruit pulps and vegetables\u003B beverage cans for juice, milk and beverages, among others\u003B general line built-up cans for baby food, protein powder, coffee and ghee, among others\u003B pesticide cans\u003B paint cans\u003B thinner cans\u003B aerosol cans\u003B slip lid cans, and cans for shoe polish containers. The Company offers metal closures, such as food closures and sanitary ends, including ring, lid tagger assembly, bottoms and components\u003B paint closures, and composite can closures."
+} ]
+, "management" : [
+{
+"name" : "Vijay Kumar Bhatia",
+"age" : "69",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "M. K. Mittal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rajat Pathak",
+"title" : "Vice President - Finance, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sanjay Bhatia",
+"age" : "46",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Ashok Kumar Bhatia",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "P. P. Singh",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Aarti Sawhney",
+"title" : "Women Director"
+}
+,
+{
+"name" : "Ramesh Kumar Jain",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Behari Lal Khurana",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "N. P. Sahni",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

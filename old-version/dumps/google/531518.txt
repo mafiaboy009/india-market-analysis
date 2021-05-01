@@ -1,0 +1,271 @@
+
+// [
+{
+"symbol" : "531518",
+"exchange" : "BOM",
+"id": "11687726",
+"t" : "531518",
+"e" : "BOM",
+"name" : "Vikas Granaries Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=VIKS.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531518"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531518"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531518"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-444.46%",
+"ttm" : "-307.35%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "-408.01%",
+"ttm" : "-394.69%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-37.78%",
+"ttm" : "-12.56%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-4.21%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-17.32%",
+"ttm" : ""
+}
+]
+, "c" : "+0.55",
+"l" : "11.59",
+"cp" : "4.98",
+"ccol" : "chg",
+"op" : "11.59",
+"hi" : "11.59",
+"lo" : "11.59",
+"vo" : "3,926.00",
+"avvo" : "",
+"hi52" : "11.59",
+"lo52" : "4.32",
+"mc" : "209.98M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-3.54",
+"dy" : "",
+"ldiv" : "",
+"shares" : "18.12M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11687726",
+"name" : "Vikas Granaries Limited",
+"t" : "531518",
+"e" : "BOM",
+"l" : "11.59",
+"c" : "+0.55",
+"mc" : "209.98M",
+"cp" : "4.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1119887",
+"name" : "Kriti Nutrients Limited",
+"t" : "533210",
+"e" : "BOM",
+"l" : "48.50",
+"c" : "+1.50",
+"mc" : "2.38B",
+"cp" : "3.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11848072",
+"name" : "Sita Shree Food Products Ltd.",
+"t" : "SITASHREE",
+"e" : "NSE",
+"l" : "4.05",
+"c" : "+0.05",
+"mc" : "109.98M",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "711521",
+"name" : "KLRF Ltd",
+"t" : "507598",
+"e" : "BOM",
+"l" : "78.50",
+"c" : "+3.50",
+"mc" : "394.12M",
+"cp" : "4.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12386349",
+"name" : "Prima Agro Products Ltd",
+"t" : "519262",
+"e" : "BOM",
+"l" : "33.80",
+"c" : "0.00",
+"mc" : "175.59M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7785606",
+"name" : "Usher Agro Limited",
+"t" : "USHERAGRO",
+"e" : "NSE",
+"l" : "6.55",
+"c" : "+0.15",
+"mc" : "504.80M",
+"cp" : "2.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7103167",
+"name" : "Super Bakers Ltd",
+"t" : "530735",
+"e" : "BOM",
+"l" : "11.70",
+"c" : "0.00",
+"mc" : "35.35M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "687621",
+"name" : "Vikas WSP Limited",
+"t" : "519307",
+"e" : "BOM",
+"l" : "15.90",
+"c" : "-0.15",
+"mc" : "3.12B",
+"cp" : "-0.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3330741",
+"name" : "Gujarat Ambuja Exports Limited",
+"t" : "GAEL",
+"e" : "NSE",
+"l" : "255.95",
+"c" : "+12.40",
+"mc" : "29.44B",
+"cp" : "5.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3936107",
+"name" : "Poona Dal And Oil Industries Ltd",
+"t" : "519359",
+"e" : "BOM",
+"l" : "63.65",
+"c" : "+0.90",
+"mc" : "363.31M",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6650254",
+"name" : "Kohinoor Foods Ltd",
+"t" : "KOHINOOR",
+"e" : "NSE",
+"l" : "71.45",
+"c" : "+2.65",
+"mc" : "2.51B",
+"cp" : "3.85",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Hisar Road,, SIWANI, 127046, India",
+"phone": "+91-154-2494319",
+"fax": "+91-154-2494361",
+"url": "http:\u002F\u002Fvikasgranaries.in\u002F",
+"overview" : "Vikas Granaries Limited is an India-based company, which is engaged in manufacturing and grading of guar gum powder and grading of guar splits and its derivatives. The Company operates an integrated guar gum powder manufacturing plant with approximately 4,050 metric tons (MT) capacity at Chandisar in Gujarat, India. It also has prime seed-processing plant for the supply of guar gum split. It offers Adicol, which is an organically processed, genetically modified organism (GMO) free guar gum powder. Its offerings in Adicol include Adicol 50 NV, Adicol 50 EV, Adicol 75 EV, Adicol 75 NV, Adicol 75 DV, Adicol 150 NV, Adicol 150 EV and Adicol IG. It also produces technical\u002Findustrial grade with varied specification. Its products are used in bakery products, ice creams, pudding, frozen food, baby-food, vital fiber-food, instant-mixes, sauce-soups and pet-food, among others. The Company\u0027s operations include in the United States, Europe, Brazil, Japan, China, Australia and South Africa."
+} ]
+, "management" : [
+{
+"name" : "Praveen ..",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Bimla Devi Jindal",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "B. D. Agarwal",
+"title" : "Director"
+}
+,
+{
+"name" : "Kamini Jindal",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rakesh Jindal",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Ravi Sharma",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Mahesh Batra",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

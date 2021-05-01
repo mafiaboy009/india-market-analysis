@@ -1,0 +1,288 @@
+
+// [
+{
+"symbol" : "524648",
+"exchange" : "BOM",
+"id": "11440516",
+"t" : "524648",
+"e" : "BOM",
+"name" : "Indo Amines Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=INAM.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524648"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524648"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524648"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.45%",
+"annual" : "5.12%",
+"ttm" : "3.60%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.12%",
+"annual" : "7.96%",
+"ttm" : "7.13%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.12%",
+"ttm" : "11.92%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.99%",
+"ttm" : "5.64%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "26.51%",
+"ttm" : "19.20%"
+}
+]
+, "c" : "-0.10",
+"l" : "99.50",
+"cp" : "-0.10",
+"ccol" : "chr",
+"op" : "101.00",
+"hi" : "101.00",
+"lo" : "98.70",
+"vo" : "7,091.00",
+"avvo" : "",
+"hi52" : "144.90",
+"lo52" : "65.40",
+"mc" : "3.28B",
+"pe" : "36.01",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.76",
+"dy" : "1.51",
+"ldiv" : "1.00",
+"shares" : "32.92M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11440516",
+"name" : "Indo Amines Ltd",
+"t" : "524648",
+"e" : "BOM",
+"l" : "99.50",
+"c" : "-0.10",
+"mc" : "3.28B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13815576",
+"name" : "Shree Hari Chemicals Export Ltd",
+"t" : "524336",
+"e" : "BOM",
+"l" : "44.80",
+"c" : "0.00",
+"mc" : "199.19M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13937555",
+"name" : "Narmada Gelatines Ltd",
+"t" : "526739",
+"e" : "BOM",
+"l" : "157.10",
+"c" : "-0.70",
+"mc" : "954.62M",
+"cp" : "-0.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3553663",
+"name" : "Nitta Gelatin India Ltd",
+"t" : "506532",
+"e" : "BOM",
+"l" : "227.35",
+"c" : "+3.25",
+"mc" : "2.03B",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1720722",
+"name" : "Hardcastle \u0026 Waud Manufacturing Co Ltd",
+"t" : "509597",
+"e" : "BOM",
+"l" : "431.90",
+"c" : "+25.90",
+"mc" : "297.14M",
+"cp" : "6.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "207459545594332",
+"name" : "Metroglobal Ltd",
+"t" : "500159",
+"e" : "BOM",
+"l" : "86.20",
+"c" : "+3.45",
+"mc" : "1.42B",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715223",
+"name" : "India Gelatine \u0026 Chemicals Ltd.",
+"t" : "531253",
+"e" : "BOM",
+"l" : "114.70",
+"c" : "+1.85",
+"mc" : "793.11M",
+"cp" : "1.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "809737",
+"name" : "Dai Ichi Karkaria Ltd",
+"t" : "526821",
+"e" : "BOM",
+"l" : "488.90",
+"c" : "+18.90",
+"mc" : "3.64B",
+"cp" : "4.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715387",
+"name" : "Elantas Beck India Ltd",
+"t" : "500123",
+"e" : "BOM",
+"l" : "2,050.00",
+"c" : "-41.95",
+"mc" : "16.05B",
+"cp" : "-2.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2599551",
+"name" : "Chembond Chemicals Ltd",
+"t" : "530871",
+"e" : "BOM",
+"l" : "310.10",
+"c" : "+10.50",
+"mc" : "4.16B",
+"cp" : "3.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6354843",
+"name" : "NOCIL Limited",
+"t" : "NOCIL",
+"e" : "NSE",
+"l" : "186.95",
+"c" : "+2.70",
+"mc" : "30.69B",
+"cp" : "1.47",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Plot No-W-44 Phase-II,, MIDC, Dombivli (East), THANE, 421203, India",
+"phone": "+91-251-2870941",
+"fax": "+91-251-2871635",
+"url": "http:\u002F\u002Fwww.indoaminesltd.com\u002F",
+"overview" : "Indo Amines Limited is engaged in the manufacture of organic and inorganic chemical compounds. The Company\u0027s geographical segments are Inside India and Outside India. The Company manufactures fine, specialty and performance chemicals providing a package of products and technical services for Indian and global markets. It also develops and supplies perfumery chemicals and active pharmaceuticals ingredients. Its product range includes aliphatic amines, aromatic amines, aliphatic nitriles, aromatic nitriles, halides, alcohols, fatty acids, fatty amides, fatty tertiary amines, fatty poly amines, cycloalkanols and cycloalkanones. The products manufactured by the Company find application in various industries, such as pharmaceuticals, agrochemicals, fertilizers, petrochemicals, road construction, pesticides, perfumery chemicals, dyes and intermediates, among others. The Company has approximately four manufacturing sites, which are located at Baroda, Dombivli, Rabale and Dhule."
+} ]
+, "management" : [
+{
+"name" : "Vijay Bhalchandra Palkar",
+"title" : "Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "Tripti Sharma",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rahul Vijay Palkar",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Keyur Paresh Chitre",
+"age" : "36",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Changdeo Laxman Kadam",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Salim Dawood Memon",
+"age" : "68",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Bharati Vijay Palkar",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Kirit Harilal Shah",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Deepak Kanekar",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Lakshmi Mannepalli Kantham",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

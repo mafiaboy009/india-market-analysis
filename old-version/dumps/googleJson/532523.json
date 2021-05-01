@@ -1,0 +1,297 @@
+
+ [
+{
+"symbol" : "532523",
+"exchange" : "BOM",
+"id": "695535",
+"t" : "532523",
+"e" : "BOM",
+"name" : "Biocon Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532523"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532523"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532523"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.74%",
+"annual" : "17.55%",
+"ttm" : "11.53%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.75%",
+"annual" : "17.97%",
+"ttm" : "11.16%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "25.04%",
+"ttm" : "20.47%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "4.77%",
+"annual" : "7.71%",
+"ttm" : "4.76%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "7.37%",
+"annual" : "13.80%",
+"ttm" : "7.63%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,832",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.95",
+"l" : "625.00",
+"cp" : "-0.63",
+"ccol" : "chr",
+"op" : "630.00",
+"hi" : "633.45",
+"lo" : "619.45",
+"vo" : "152,309.00",
+"avvo" : "",
+"hi52" : "657.75",
+"lo52" : "295.00",
+"mc" : "374.37B",
+"pe" : "100.47",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.22",
+"dy" : "0.16",
+"ldiv" : "1.00",
+"shares" : "600.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "695535",
+"name" : "Biocon Ltd",
+"t" : "532523",
+"e" : "BOM",
+"l" : "625.00",
+"c" : "-3.95",
+"mc" : "374.37B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14566698",
+"name" : "Panacea Biotec Limited",
+"t" : "PANACEABIO",
+"e" : "NSE",
+"l" : "316.25",
+"c" : "-4.80",
+"mc" : "19.45B",
+"cp" : "-1.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9782784",
+"name" : "Hester Biosciences Ltd",
+"t" : "524669",
+"e" : "BOM",
+"l" : "1,599.15",
+"c" : "+16.25",
+"mc" : "13.75B",
+"cp" : "1.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2296064",
+"name" : "Titan Biotech Ltd",
+"t" : "524717",
+"e" : "BOM",
+"l" : "70.85",
+"c" : "+1.40",
+"mc" : "543.98M",
+"cp" : "2.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14964318",
+"name" : "Wockhardt Limited",
+"t" : "WOCKPHARMA",
+"e" : "NSE",
+"l" : "786.10",
+"c" : "+0.80",
+"mc" : "86.88B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13313409",
+"name" : "GlaxoSmithKline Pharmaceuticals Limited",
+"t" : "GLAXO",
+"e" : "NSE",
+"l" : "2,399.00",
+"c" : "-5.70",
+"mc" : "204.03B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5032817",
+"name" : "Jubilant Life Sciences Ltd",
+"t" : "JUBILANT",
+"e" : "NSE",
+"l" : "879.45",
+"c" : "-4.35",
+"mc" : "140.53B",
+"cp" : "-0.49",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4291267",
+"name" : "Lyka Labs Limited",
+"t" : "LYKALABS",
+"e" : "NSE",
+"l" : "58.00",
+"c" : "+1.55",
+"mc" : "1.63B",
+"cp" : "2.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1584468",
+"name" : "Wyeth Limited",
+"t" : "WYETH",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12258597",
+"name" : "Cadila Healthcare Ltd",
+"t" : "CADILAHC",
+"e" : "NSE",
+"l" : "408.80",
+"c" : "+2.25",
+"mc" : "419.59B",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678392",
+"name" : "Novartis India Limited",
+"t" : "500672",
+"e" : "BOM",
+"l" : "621.60",
+"c" : "+5.55",
+"mc" : "15.26B",
+"cp" : "0.90",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "20th KM, Hosur Road, Electronics City, BANGALORE, 560100, India",
+"phone": "+91-80-28082808",
+"fax": "+91-80-28523423",
+"url": "http:\u002F\u002Fwww.biocon.com\u002F",
+"overview" : "Biocon Limited is a biopharmaceutical company. The Company focuses to reduce therapy costs of chronic diseases like autoimmune, diabetes, and cancer. Through its products and research services it is enabling access to affordable healthcare for patients, partners and healthcare systems across the globe. The Company has developed and taken a range of Novel Biologics, Biosimilars, differentiated Small Molecules and affordable Recombinant Human Insulin and Analogs from Lab to Market. The Company’s brands include INSUGEN (rh-insulin), BASALOG (Glargine), CANMAb (Trastuzumab), BIOMAb-EGFR (Nimotuzumab) and ALZUMAb (Itolizumab), an anti-CD6 monoclonal antibody. It has a pipeline of Biosimilars and Novel Biologics at various stages of development, including Insulin Tregopil, an oral insulin analog."
+} ]
+, "management" : [
+{
+"name" : "Kiran Mazumdar-Shaw",
+"age" : "64",
+"title" : "Executive Non-Independent Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Arun Suresh Chandavarkar Ph.D.",
+"age" : "53",
+"title" : "Chief Executive Officer, Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Siddharth Mittal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Peter James Jonathan Bains",
+"age" : "58",
+"title" : "CEO \u0026 Director of Syngene"
+}
+,
+{
+"name" : "Abhijit Barve M.D. Ph.D.",
+"title" : "President - Research \u0026 Development"
+}
+,
+{
+"name" : "Ravi Limaye",
+"title" : "President - Marketing"
+}
+,
+{
+"name" : "Amitava Saha",
+"title" : "Senior Vice President - Human Resources"
+}
+,
+{
+"name" : "Rajiv Balakrishnan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Catherine Rosenberg",
+"age" : "54",
+"title" : "Director of Syngene"
+}
+,
+{
+"name" : "John Mccallum Marshall Shaw",
+"age" : "68",
+"title" : "Non-Executive Vice Chairman of the Board"
+}
+]
+,"moreresources" : [
+]
+}]

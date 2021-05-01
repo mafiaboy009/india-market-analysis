@@ -1,0 +1,274 @@
+
+// [
+{
+"symbol" : "532357",
+"exchange" : "BOM",
+"id": "677111",
+"t" : "532357",
+"e" : "BOM",
+"name" : "Mukta Arts Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532357"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532357"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532357"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-10.82%",
+"annual" : "-7.42%",
+"ttm" : "2.24%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-7.93%",
+"annual" : "-3.89%",
+"ttm" : "1.82%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.38%",
+"ttm" : "12.11%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-3.80%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-21.75%",
+"ttm" : ""
+}
+]
+, "c" : "-1.20",
+"l" : "75.60",
+"cp" : "-1.56",
+"ccol" : "chr",
+"op" : "76.00",
+"hi" : "77.00",
+"lo" : "75.55",
+"vo" : "3,258.00",
+"avvo" : "",
+"hi52" : "120.00",
+"lo52" : "72.35",
+"mc" : "1.68B",
+"pe" : "63.73",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.19",
+"dy" : "",
+"ldiv" : "",
+"shares" : "22.59M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677111",
+"name" : "Mukta Arts Limited",
+"t" : "532357",
+"e" : "BOM",
+"l" : "75.60",
+"c" : "-1.20",
+"mc" : "1.68B",
+"cp" : "-1.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715382",
+"name" : "GV Films Limited",
+"t" : "523277",
+"e" : "BOM",
+"l" : "0.80",
+"c" : "+0.02",
+"mc" : "434.93M",
+"cp" : "2.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4522105",
+"name" : "Shree Ashtavinayak Cine Vision Limited",
+"t" : "SHREEASHTA",
+"e" : "NSE",
+"l" : "0.80",
+"c" : "",
+"mc" : "737.14M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "2432769",
+"name" : "IDream Film Infrastructure Company Ltd",
+"t" : "504375",
+"e" : "BOM",
+"l" : "110.00",
+"c" : "0.00",
+"mc" : "16.50M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "717572",
+"name" : "MidValley Entertainment Limited",
+"t" : "533310",
+"e" : "BOM",
+"l" : "7.47",
+"c" : "+0.36",
+"mc" : "252.05M",
+"cp" : "5.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1979135",
+"name" : "B.A.G Films \u0026 Media Ltd.",
+"t" : "BAGFILMS",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "-0.15",
+"mc" : "1.18B",
+"cp" : "-2.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "713980079708144",
+"name" : "MaxAlert Systems Ltd",
+"t" : "534563",
+"e" : "BOM",
+"l" : "4.62",
+"c" : "0.00",
+"mc" : "42.50M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1834028",
+"name" : "Zee Learn Ltd",
+"t" : "ZEELEARN",
+"e" : "NSE",
+"l" : "41.45",
+"c" : "+0.05",
+"mc" : "13.51B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15510678",
+"name" : "Apollo Hospitals Enterprise Limited",
+"t" : "APOLLOHOSP",
+"e" : "NSE",
+"l" : "1,236.50",
+"c" : "+4.90",
+"mc" : "171.55B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4540763",
+"name" : "Aptech Ltd",
+"t" : "APTECHT",
+"e" : "NSE",
+"l" : "324.50",
+"c" : "-0.60",
+"mc" : "12.99B",
+"cp" : "-0.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14085263",
+"name" : "INOX Leisure Ltd",
+"t" : "INOXLEISUR",
+"e" : "NSE",
+"l" : "283.40",
+"c" : "+5.20",
+"mc" : "27.15B",
+"cp" : "1.87",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Film City Complex Aarey Colony, Goregaon East, Mumba, MUMBAI, 400065, India",
+"phone": "+91-22-33649400",
+"fax": "+91-22-33649401",
+"url": "http:\u002F\u002Fmuktaarts.com\u002F",
+"overview" : "Mukta Arts Limited is engaged in box office collection-exhibition, food and beverages, and rent and amenities charges business. The Company is primarily engaged in the business of film production, distribution and exhibition (wherein it provides film content to multiplexes and single screens across India, as well as manages\u002Foperates theatres). It operates through five segments: Software division, which is engaged in the film\u002Ftelevision production, distribution and exhibition operations\u003B Equipment division, which consists of the equipment given on hire to the outsider\u003B Education division, which is engaged in the operations of an education, research and training institute that imparts training in various skills related to films, television and media industry\u003B Theatrical exhibition division, which includes operations consisting of a range of activities\u002Fservices offered at theaters, including sale of tickets, catering of food and beverages, and Others, which consists of rental income."
+} ]
+, "management" : [
+{
+"name" : "Subhash Ghai",
+"age" : "71",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Monika Shah",
+"title" : "Company Secretary, Compliance Officer"
+}
+,
+{
+"name" : "Rahul Puri",
+"age" : "36",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Paulomi Dhawan",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Keval Handa",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Manmohan Shetty",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Pradeep Guha",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

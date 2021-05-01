@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "531147",
+"exchange" : "BOM",
+"id": "715422",
+"t" : "531147",
+"e" : "BOM",
+"name" : "Alicon Castalloy Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531147"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531147"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531147"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.97%",
+"annual" : "3.39%",
+"ttm" : "3.62%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.14%",
+"annual" : "7.70%",
+"ttm" : "7.24%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.24%",
+"ttm" : "10.37%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.68%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.44%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,074",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-5.75",
+"l" : "613.85",
+"cp" : "-0.93",
+"ccol" : "chr",
+"op" : "621.00",
+"hi" : "629.00",
+"lo" : "611.00",
+"vo" : "753.00",
+"avvo" : "",
+"hi52" : "763.00",
+"lo52" : "370.00",
+"mc" : "8.29B",
+"pe" : "22.86",
+"fwpe" : "",
+"beta" : "",
+"eps" : "26.86",
+"dy" : "0.33",
+"ldiv" : "2.00",
+"shares" : "13.37M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715422",
+"name" : "Alicon Castalloy Ltd",
+"t" : "531147",
+"e" : "BOM",
+"l" : "613.85",
+"c" : "-5.75",
+"mc" : "8.29B",
+"cp" : "-0.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "84135840067224",
+"name" : "Endurance Technologies Ltd (CN)",
+"t" : "ENDURANCE",
+"e" : "NSE",
+"l" : "1,312.00",
+"c" : "+34.95",
+"mc" : "185.57B",
+"cp" : "2.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15375890",
+"name" : "India Motor Parts Limited",
+"t" : "IMPAL",
+"e" : "NSE",
+"l" : "1,112.50",
+"c" : "+4.15",
+"mc" : "9.28B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5574558",
+"name" : "Menon Bearings Ltd",
+"t" : "523828",
+"e" : "BOM",
+"l" : "107.10",
+"c" : "+7.65",
+"mc" : "6.01B",
+"cp" : "7.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14794075",
+"name" : "Castex Technologies Ltd",
+"t" : "CASTEXTECH",
+"e" : "NSE",
+"l" : "4.95",
+"c" : "+0.10",
+"mc" : "1.87B",
+"cp" : "2.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "618885383318163",
+"name" : "Precision Camshafts Ltd",
+"t" : "PRECAM",
+"e" : "NSE",
+"l" : "113.00",
+"c" : "+2.05",
+"mc" : "10.66B",
+"cp" : "1.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15774934",
+"name" : "Swaraj Engines Limited",
+"t" : "SWARAJENG",
+"e" : "NSE",
+"l" : "1,933.05",
+"c" : "-10.90",
+"mc" : "24.12B",
+"cp" : "-0.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13341724",
+"name" : "JMT Auto Ltd",
+"t" : "JMTAUTOLTD",
+"e" : "NSE",
+"l" : "5.05",
+"c" : "+0.05",
+"mc" : "2.54B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10757396",
+"name" : "Harig Crankshafts Ltd",
+"t" : "500178",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-0.80",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8527896",
+"name" : "Kirloskar Oil Engines Ltd",
+"t" : "KIRLOSENG",
+"e" : "NSE",
+"l" : "357.35",
+"c" : "+3.90",
+"mc" : "51.72B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16529291",
+"name" : "Bosch Ltd",
+"t" : "BOSCHLTD",
+"e" : "NSE",
+"l" : "19,070.05",
+"c" : "+149.45",
+"mc" : "581.93B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Gat No.1426, Shikrapur, Taluka - Shirpur, PUNE, 412208, India",
+"phone": "+91-2137-677100",
+"fax": "+91-2137-677130",
+"url": "http:\u002F\u002Fwww.alicongroup.co.in\u002FAboutUs_CompanyProfile.aspx",
+"overview" : "Alicon Castalloy Limited is an India-based supplier of light alloy casting solutions. The Company, along with its subsidiaries, is engaged in designing, engineering, casting, machining and assembly, painting and surface treatment of aluminum components. The Company primarily manufactures aluminum alloy die castings mainly used in automotive segment of the industry in India. The Company offers auto components, such as cylinder heads, engine and transmission brackets, cac tanks, bridge fork top, intake manifold, swing arm and other components, and non-auto components, such as agricultural components, aero and marine components, locomotive components, infrastructure components, energy components, defense components, and medical and health components. The Company\u0027s plants are located at Village Shikrapur, Taluka Shirur, Pune, Maharashtra\u003B Chinchwad, Pune\u003B Village Binola, Haryana, and Zarnovica, Slovakia. The Company\u0027s tool rooms manufacture approximately 20 tools a month."
+} ]
+, "management" : [
+{
+"name" : "Rajeev Sikand",
+"age" : "51",
+"title" : "Group Chief Executive Officer"
+}
+,
+{
+"name" : "Vimal Gupta",
+"title" : "Chief Financial Officer, Compliance Officer"
+}
+,
+{
+"name" : "Shailendrajit Rai",
+"age" : "59",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "P. S. Rao",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Asis Ray",
+"age" : "60",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Junichi Suzuki",
+"age" : "65",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Ajay Nanavati",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "A. D. Harolikar",
+"age" : "63",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vinay Hiru Panjabi",
+"age" : "57",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,390 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 7387796992,
+            "fmt": "7.39B",
+            "longFmt": "7,387,796,992"
+          },
+          "forwardPE": {
+            "raw": 28.1201,
+            "fmt": "28.12"
+          },
+          "profitMargins": {
+            "raw": 0.09287,
+            "fmt": "9.29%"
+          },
+          "floatShares": {
+            "raw": 1410580,
+            "fmt": "1.41M",
+            "longFmt": "1,410,580"
+          },
+          "sharesOutstanding": {
+            "raw": 5585570,
+            "fmt": "5.59M",
+            "longFmt": "5,585,570"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.053034,
+            "fmt": "0.05"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 190.943,
+            "fmt": "190.94"
+          },
+          "priceToBook": {
+            "raw": 8.2647705,
+            "fmt": "8.26"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1206921600,
+            "fmt": "2008-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.587,
+            "fmt": "-58.70%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 294076000,
+            "fmt": "294.08M",
+            "longFmt": "294,076,000"
+          },
+          "trailingEps": {
+            "raw": 50.9,
+            "fmt": "50.90"
+          },
+          "forwardEps": {
+            "raw": 56.12,
+            "fmt": "56.12"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 2.333,
+            "fmt": "2.33"
+          },
+          "enterpriseToEbitda": {
+            "raw": 14.006,
+            "fmt": "14.01"
+          },
+          "52WeekChange": {
+            "raw": 0.843356,
+            "fmt": "84.34%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "2Q2016",
+                "actual": {
+                  "raw": 12.08,
+                  "fmt": "12.08"
+                },
+                "estimate": {
+                  "raw": 10.92,
+                  "fmt": "10.92"
+                }
+              },
+              {
+                "date": "3Q2016",
+                "actual": {
+                  "raw": 10.48,
+                  "fmt": "10.48"
+                },
+                "estimate": {
+                  "raw": 13.46,
+                  "fmt": "13.46"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2016
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 2692225000,
+                  "fmt": "2.69B",
+                  "longFmt": "2,692,225,000"
+                },
+                "earnings": {
+                  "raw": 75336000,
+                  "fmt": "75.34M",
+                  "longFmt": "75,336,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 2895984000,
+                  "fmt": "2.9B",
+                  "longFmt": "2,895,984,000"
+                },
+                "earnings": {
+                  "raw": 219681000,
+                  "fmt": "219.68M",
+                  "longFmt": "219,681,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 2837014000,
+                  "fmt": "2.84B",
+                  "longFmt": "2,837,014,000"
+                },
+                "earnings": {
+                  "raw": 212778000,
+                  "fmt": "212.78M",
+                  "longFmt": "212,778,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 3166371000,
+                  "fmt": "3.17B",
+                  "longFmt": "3,166,371,000"
+                },
+                "earnings": {
+                  "raw": 294076000,
+                  "fmt": "294.08M",
+                  "longFmt": "294,076,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2007",
+                "revenue": {
+                  "raw": 194400000,
+                  "fmt": "194.4M",
+                  "longFmt": "194,400,000"
+                },
+                "earnings": {
+                  "raw": -8900000,
+                  "fmt": "-8.9M",
+                  "longFmt": "-8,900,000"
+                }
+              },
+              {
+                "date": "3Q2007",
+                "revenue": {
+                  "raw": 273100000,
+                  "fmt": "273.1M",
+                  "longFmt": "273,100,000"
+                },
+                "earnings": {
+                  "raw": 5000000,
+                  "fmt": "5M",
+                  "longFmt": "5,000,000"
+                }
+              },
+              {
+                "date": "4Q2007",
+                "revenue": {
+                  "raw": 311700000,
+                  "fmt": "311.7M",
+                  "longFmt": "311,700,000"
+                },
+                "earnings": {
+                  "raw": 12300000,
+                  "fmt": "12.3M",
+                  "longFmt": "12,300,000"
+                }
+              },
+              {
+                "date": "1Q2008",
+                "revenue": {
+                  "raw": 293055000,
+                  "fmt": "293.06M",
+                  "longFmt": "293,055,000"
+                },
+                "earnings": {
+                  "raw": 3083000,
+                  "fmt": "3.08M",
+                  "longFmt": "3,083,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Marble Arch",
+          "address2": "6th Floor Race Course Circle",
+          "city": "Vadodara",
+          "zip": "390007",
+          "country": "India",
+          "phone": "91 26 5233 5444",
+          "fax": "91 26 5233 5758",
+          "website": "http://www.transpek.com",
+          "industry": "Chemicals - Major Diversified",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Transpek Industry Limited develops, manufactures, and sells chemical products in India. Its inorganic products include thionyl chloride, sulphur dichloride, sulphur monochloride, oleum, sulphur trioxide, sulphuric acid, and chloro sulphonic acid. The company's organic products comprise 4-chloro butyryl chloride, N-valeroyl chloride, cetyl chloride, 4-nitro benzoyl chloride, 3-nitro benzoyl chloride, N-butyryl chloride, N-butyl chloride, pivaloyl chloride, 2-ethyl hexanoyl chloride, 2-chloro ethyl amine HCI, isophthaloyl chloride, terephthaloyl chloride, tri ethylene glycol dichloride, diethylene glycol dichloride, and chloro acetyl chloride, as well as 2',4' dichlorovalerophenone. The company serves customers in various industries comprising textiles, pharmaceuticals, agrochemicals, polymers, etc. Transpek Industry Limited also exports its products. The company was founded in 1965 and is headquartered in Vadodara, India.",
+          "fullTimeEmployees": 486,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1578.1,
+            "fmt": "1,578.10"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 27923000,
+            "fmt": "27.92M",
+            "longFmt": "27,923,000"
+          },
+          "totalCashPerShare": {
+            "raw": 4.999,
+            "fmt": "5"
+          },
+          "ebitda": {
+            "raw": 527460992,
+            "fmt": "527.46M",
+            "longFmt": "527,460,992"
+          },
+          "totalDebt": {
+            "raw": 356678016,
+            "fmt": "356.68M",
+            "longFmt": "356,678,016"
+          },
+          "quickRatio": {
+            "raw": 0.655,
+            "fmt": "0.65"
+          },
+          "currentRatio": {
+            "raw": 1.113,
+            "fmt": "1.11"
+          },
+          "totalRevenue": {
+            "raw": 3166371072,
+            "fmt": "3.17B",
+            "longFmt": "3,166,371,072"
+          },
+          "debtToEquity": {
+            "raw": 85.847,
+            "fmt": "85.85"
+          },
+          "revenuePerShare": {
+            "raw": 548.093,
+            "fmt": "548.09"
+          },
+          "returnOnAssets": {
+            "raw": 0.11731,
+            "fmt": "11.73%"
+          },
+          "returnOnEquity": {
+            "raw": 0.29795,
+            "fmt": "29.79%"
+          },
+          "grossProfits": {
+            "raw": 1585162000,
+            "fmt": "1.59B",
+            "longFmt": "1,585,162,000"
+          },
+          "freeCashflow": {
+            "raw": -204497872,
+            "fmt": "-204.5M",
+            "longFmt": "-204,497,872"
+          },
+          "operatingCashflow": {
+            "raw": 326328000,
+            "fmt": "326.33M",
+            "longFmt": "326,328,000"
+          },
+          "earningsGrowth": {
+            "raw": -0.619,
+            "fmt": "-61.90%"
+          },
+          "revenueGrowth": {
+            "raw": 0.694,
+            "fmt": "69.40%"
+          },
+          "grossMargins": {
+            "raw": 0.50062,
+            "fmt": "50.06%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.16658,
+            "fmt": "16.66%"
+          },
+          "operatingMargins": {
+            "raw": 0.13939,
+            "fmt": "13.94%"
+          },
+          "profitMargins": {
+            "raw": 0.09287,
+            "fmt": "9.29%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,241 @@
+
+ [
+{
+"symbol" : "538835",
+"exchange" : "BOM",
+"id": "180359178195035",
+"t" : "538835",
+"e" : "BOM",
+"name" : "Intellect Design Arena Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:538835"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:538835"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:538835"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.00%",
+"annual" : "-2.45%",
+"ttm" : "4.27%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.20%",
+"annual" : "-5.36%",
+"ttm" : "2.96%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-2.71%",
+"ttm" : "5.32%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.04%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-3.70%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,834",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+5.95",
+"l" : "192.70",
+"cp" : "3.19",
+"ccol" : "chg",
+"op" : "187.50",
+"hi" : "195.25",
+"lo" : "186.70",
+"vo" : "134,029.00",
+"avvo" : "",
+"hi52" : "204.65",
+"lo52" : "96.50",
+"mc" : "24.29B",
+"pe" : "60.62",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.18",
+"dy" : "",
+"ldiv" : "",
+"shares" : "125.24M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "180359178195035",
+"name" : "Intellect Design Arena Ltd",
+"t" : "538835",
+"e" : "BOM",
+"l" : "192.70",
+"c" : "+5.95",
+"mc" : "24.29B",
+"cp" : "3.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "109526393043540",
+"name" : "Iris Business Services Ltd",
+"t" : "540735",
+"e" : "BOM",
+"l" : "56.75",
+"c" : "+1.60",
+"mc" : "1.07B",
+"cp" : "2.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11309305",
+"name" : "R S Software (India) Ltd",
+"t" : "RSSOFTWARE",
+"e" : "NSE",
+"l" : "64.85",
+"c" : "-0.40",
+"mc" : "1.67B",
+"cp" : "-0.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9269746",
+"name" : "Quintegra Solutions Ltd",
+"t" : "QUINTEGRA",
+"e" : "NSE",
+"l" : "1.60",
+"c" : "-0.15",
+"mc" : "42.90M",
+"cp" : "-8.57",
+"ccol" : "chr"
+}
+,
+{
+"id" : "465892466985145",
+"name" : "Bodhtree Consulting Ltd",
+"t" : "539122",
+"e" : "BOM",
+"l" : "87.50",
+"c" : "+0.15",
+"mc" : "1.71B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1968289",
+"name" : "Raminfo Ltd",
+"t" : "530951",
+"e" : "BOM",
+"l" : "43.00",
+"c" : "+2.40",
+"mc" : "275.15M",
+"cp" : "5.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "470485266865804",
+"name" : "Globalspace Technologies Ltd",
+"t" : "540654",
+"e" : "BOM",
+"l" : "65.00",
+"c" : "0.00",
+"mc" : "744.68M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "419080925750238",
+"name" : "Blue Cloud Softech Solutions Ltd",
+"t" : "539607",
+"e" : "BOM",
+"l" : "13.79",
+"c" : "0.00",
+"mc" : "329.59M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13873795",
+"name" : "Tutis Technologies Ltd",
+"t" : "532311",
+"e" : "BOM",
+"l" : "2.67",
+"c" : "0.00",
+"mc" : "43.52M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "23632091755113",
+"name" : "Ducon Infratechnologies Ltd",
+"t" : "DUCON",
+"e" : "NSE",
+"l" : "30.55",
+"c" : "-1.40",
+"mc" : "2.41B",
+"cp" : "-4.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13503250",
+"name" : "Integrated Hitech Ltd",
+"t" : "532303",
+"e" : "BOM",
+"l" : "4.57",
+"c" : "0.00",
+"mc" : "45.38M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Plot No.3\u002FG -3 , SIPCOT IT Park, Siruseri, CHENNAI, 600130, India",
+"phone": "+91-44-33418000",
+"fax": "+91-44-33418874",
+"url": "http:\u002F\u002Fwww.intellectdesign.com\u002F",
+"overview" : "Intellect Design Arena Limited, formerly Fin Tech Grid Limited, is a holding company. The Company is engaged in the business of software development, and providing software product license and related services. Its geographical segments include India, Middle East \u0026 Africa\u003B Asia Pacific\u003B Europe, and Americas. The Company has a portfolio of products across Global Consumer Banking, Central Banking, Risk and Treasury Management, Global Transaction Banking and Insurance. Its Global Consumer Banking products include Digital Core, a Web-enabled banking software\u003B Lending, a loan management system that supports all the financial facilities for the bank for market segments, from retail to corporate\u003B Wealth, an integrated front, middle and back-office solution for private banks, wealth management firms, advisory firms, broker dealers and independent financial advisors, and Quantum Central Banking Solution, a banking solution for the requirements of central banks with technology frameworks."
+} ]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,300 @@
+
+ [
+{
+"symbol" : "523716",
+"exchange" : "BOM",
+"id": "715282",
+"t" : "523716",
+"e" : "BOM",
+"name" : "Ashiana Housing Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:523716"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:523716"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:523716"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-10.85%",
+"annual" : "17.53%",
+"ttm" : "14.82%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-13.36%",
+"annual" : "22.26%",
+"ttm" : "21.45%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "24.34%",
+"ttm" : "23.33%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "-1.17%",
+"annual" : "5.58%",
+"ttm" : "4.91%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "-1.89%",
+"annual" : "9.76%",
+"ttm" : "8.68%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "519",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.25",
+"l" : "170.65",
+"cp" : "-1.30",
+"ccol" : "chr",
+"op" : "174.45",
+"hi" : "175.20",
+"lo" : "168.95",
+"vo" : "6,925.00",
+"avvo" : "",
+"hi52" : "250.35",
+"lo52" : "158.00",
+"mc" : "17.42B",
+"pe" : "26.51",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.44",
+"dy" : "0.15",
+"ldiv" : "0.25",
+"shares" : "102.35M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715282",
+"name" : "Ashiana Housing Ltd.",
+"t" : "523716",
+"e" : "BOM",
+"l" : "170.65",
+"c" : "-2.25",
+"mc" : "17.42B",
+"cp" : "-1.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1506782",
+"name" : "Prajay Engineers Syndicate Ltd",
+"t" : "PRAENG",
+"e" : "NSE",
+"l" : "13.10",
+"c" : "-0.15",
+"mc" : "902.54M",
+"cp" : "-1.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "51838132013166",
+"name" : "VKJ Infra Developers Ltd",
+"t" : "536128",
+"e" : "BOM",
+"l" : "1.69",
+"c" : "-0.09",
+"mc" : "3.15B",
+"cp" : "-5.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2805638",
+"name" : "Ansal Properties and Infrastructure Ltd",
+"t" : "ANSALAPI",
+"e" : "NSE",
+"l" : "23.80",
+"c" : "+0.15",
+"mc" : "3.75B",
+"cp" : "0.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11871803",
+"name" : "Manjeera Constructions Limited",
+"t" : "MANJEERA",
+"e" : "NSE",
+"l" : "62.20",
+"c" : "",
+"mc" : "778.02M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "9868297",
+"name" : "Shervani Industrial Syndicate Ltd",
+"t" : "526117",
+"e" : "BOM",
+"l" : "659.00",
+"c" : "+21.50",
+"mc" : "2.12B",
+"cp" : "3.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "714512",
+"name" : "Vipul Ltd.",
+"t" : "511726",
+"e" : "BOM",
+"l" : "64.10",
+"c" : "-1.40",
+"mc" : "7.68B",
+"cp" : "-2.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14698643",
+"name" : "Narendra Properties Ltd",
+"t" : "531416",
+"e" : "BOM",
+"l" : "10.45",
+"c" : "0.00",
+"mc" : "74.26M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "835863",
+"name" : "DLF Ltd",
+"t" : "DLF",
+"e" : "NSE",
+"l" : "228.20",
+"c" : "+3.05",
+"mc" : "408.12B",
+"cp" : "1.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4371740",
+"name" : "Peninsula Land Limited",
+"t" : "PENINLAND",
+"e" : "NSE",
+"l" : "28.85",
+"c" : "-0.35",
+"mc" : "8.11B",
+"cp" : "-1.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5226982",
+"name" : "IVRCL Assets \u0026 Holdings Limited",
+"t" : "IVRCLAH",
+"e" : "NSE",
+"l" : "37.75",
+"c" : "",
+"mc" : "7.44B",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Unit No-4 \u0026 5 3Rd Floor Plot No-D-Z, Southern Park, NEW DELHI, 110017, India",
+"phone": "+91-11-42654265",
+"fax": "+91-33-22884774",
+"url": "https:\u002F\u002Fwww.ashianahousing.com\u002F",
+"overview" : "Ashiana Housing Limited is engaged in real estate activities with own or leased property. The Company operates through the Real Estate Business segment. The Company\u0027s projects include comfort homes project, senior living project, care homes project and retail project. Its comfort homes projects include Treehouse Residences Bhiwadi-NCR\u003B Ashiana Town Bhiwadi-NCR\u003B Ashiana Navrang Halol, Gujarat\u003B Gulmohar Gardens Jaipur, Rajasthan\u003B Ashiana Aangan Neemrana, and Ashiana Tarang Bhiwadi-NCR. Its senior living projects include Ashiana Nirmay Bhiwadi-NCR\u003B Ashiana Utsav Bhiwadi-NCR, and Ashiana Utsav Lavasa. Its care homes projects include Ashiana Utsav Bhiwadi-NCR and Ashiana Utsav Jaipur. Its retail projects include Ashiana Treehouse Plaza Bhiwadi-NCR\u003B Ashiana Village Centre Bhiwadi-NCR\u003B Rangoli Plaza Jaipur, and Ashiana Marine Plaza Jamshedpur, Jharkhand. The Company\u0027s subsidiaries include Ashiana Maintenance Services Ltd., Latest Developers Advisory Ltd. and Topwell Projects Consultants Ltd."
+} ]
+, "management" : [
+{
+"name" : "Vikash Dugar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Nitin Sharma",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Shyamal Kumar Palit",
+"age" : "53",
+"title" : "Vice President - Operations"
+}
+,
+{
+"name" : "Kuldeep Gahlaut",
+"age" : "51",
+"title" : "Vice President"
+}
+,
+{
+"name" : "Shantanu Haldule",
+"age" : "47",
+"title" : "Vice President"
+}
+,
+{
+"name" : "Pramod Kumar Jaiswal",
+"age" : "56",
+"title" : "Vice President"
+}
+,
+{
+"name" : "Sanjeev Rawat",
+"age" : "54",
+"title" : "Vice President"
+}
+,
+{
+"name" : "Dinesh Singh",
+"age" : "55",
+"title" : "Vice President"
+}
+,
+{
+"name" : "Manoj Tyagi",
+"age" : "43",
+"title" : "Vice President"
+}
+,
+{
+"name" : "Ankur Gupta",
+"age" : "37",
+"title" : "Joint Managing Director, Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

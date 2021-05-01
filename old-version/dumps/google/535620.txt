@@ -1,0 +1,279 @@
+
+// [
+{
+"symbol" : "535620",
+"exchange" : "BOM",
+"id": "1023585993246197",
+"t" : "535620",
+"e" : "BOM",
+"name" : "Binny Mills Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=BINY.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:535620"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:535620"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:535620"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "17.73%",
+"annual" : "4.18%",
+"ttm" : "16.84%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "20.65%",
+"annual" : "7.23%",
+"ttm" : "20.05%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.93%",
+"ttm" : "20.49%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.22%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.22%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "17",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+11.85",
+"l" : "260.85",
+"cp" : "4.76",
+"ccol" : "chg",
+"op" : "255.00",
+"hi" : "261.30",
+"lo" : "255.00",
+"vo" : "33.00",
+"avvo" : "",
+"hi52" : "405.00",
+"lo52" : "186.35",
+"mc" : "831.71M",
+"pe" : "66.35",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.93",
+"dy" : "",
+"ldiv" : "",
+"shares" : "3.19M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1023585993246197",
+"name" : "Binny Mills Ltd",
+"t" : "535620",
+"e" : "BOM",
+"l" : "260.85",
+"c" : "+11.85",
+"mc" : "831.71M",
+"cp" : "4.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15842973",
+"name" : "Bhilwara Technical Textiles Ltd",
+"t" : "533108",
+"e" : "BOM",
+"l" : "14.50",
+"c" : "+0.20",
+"mc" : "864.55M",
+"cp" : "1.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5560090",
+"name" : "Suchak Trading Ltd",
+"t" : "512075",
+"e" : "BOM",
+"l" : "104.50",
+"c" : "0.00",
+"mc" : "1.18B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6458958",
+"name" : "Mk Exim india Ltd",
+"t" : "538890",
+"e" : "BOM",
+"l" : "8.60",
+"c" : "-0.45",
+"mc" : "61.75M",
+"cp" : "-4.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "302888",
+"name" : "Ashima Ltd",
+"t" : "ASHIMASYN",
+"e" : "NSE",
+"l" : "30.35",
+"c" : "-0.40",
+"mc" : "3.88B",
+"cp" : "-1.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15931576",
+"name" : "Alok Industries Ltd",
+"t" : "ALOKTEXT",
+"e" : "NSE",
+"l" : "3.40",
+"c" : "+0.15",
+"mc" : "4.68B",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "402870",
+"name" : "KG Denim Ltd",
+"t" : "500239",
+"e" : "BOM",
+"l" : "60.75",
+"c" : "+1.30",
+"mc" : "1.54B",
+"cp" : "2.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1418532",
+"name" : "Indus Fila Limited",
+"t" : "INDUSFILA",
+"e" : "NSE",
+"l" : "2.35",
+"c" : "",
+"mc" : "48.75M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6854111",
+"name" : "Raghuvir Synthetics Ltd",
+"t" : "514316",
+"e" : "BOM",
+"l" : "149.50",
+"c" : "+6.50",
+"mc" : "579.31M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9430261",
+"name" : "Tuni Textile Mills Ltd",
+"t" : "531411",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "64.01M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1113601822435558",
+"name" : "Triveni Enterprises Ltd",
+"t" : "538569",
+"e" : "BOM",
+"l" : "84.00",
+"c" : "-0.05",
+"mc" : "4.81B",
+"cp" : "-0.06",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "TCP Sapthagiri Bhavan No. 4, Karpagambal Nagar, Mylapore, CHENNAI, 600004, India",
+"phone": "+91-44-24991518",
+"fax": "+91-44-24991777",
+"url": "http:\u002F\u002Fwww.bmlindia.com\u002Finf1.html",
+"overview" : "Binny Mills Limited is engaged in the business of warehousing and storage, and trading of textile materials. The Company operates in four divisions: Warehousing, Showrooms, Agencies and Bintex. The Warehousing division has rented its warehouses and is deriving rental income from it. The Showrooms are engaged in retail selling of textile materials. The Agencies division is engaged in the business of selling Tarpaulin, rain coats and bags. The Bintex division is engaged in selling textile materials, particularly uniform materials, bed spreads, and other textile varieties. The Company derives rental income by letting out on rent, its warehouses situated in Perambur, Chennai, to various tenants. The Company buys and sells textile materials (trading in textile), including retail sales to customers, from its textile division at Chennai and from the showrooms in Bangalore and Kolkata."
+} ]
+, "management" : [
+{
+"name" : "V. Rajasekaran",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "P. Laxmidhar Prusty",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "V. R. Venkataachalam",
+"age" : "54",
+"title" : "Non-Executive Non-Independent Chairman of the Board"
+}
+,
+{
+"name" : "S. Natarajan",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "V. Sengutuvan",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Samyuktha Venkataachalam",
+"title" : "Non-Executive Woman Director"
+}
+,
+{
+"name" : "N. Jaiganesh",
+"age" : "37",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

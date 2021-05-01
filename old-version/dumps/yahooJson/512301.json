@@ -1,0 +1,191 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 49128000,
+            "fmt": "49.13M",
+            "longFmt": "49,128,000"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "floatShares": {
+            "raw": 6400169,
+            "fmt": "6.4M",
+            "longFmt": "6,400,169"
+          },
+          "sharesOutstanding": {
+            "raw": 7489590,
+            "fmt": "7.49M",
+            "longFmt": "7,489,590"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.794474,
+            "fmt": "0.79"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 16.36,
+            "fmt": "16.36"
+          },
+          "priceToBook": {
+            "raw": 0.110024445,
+            "fmt": "0.11"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.519,
+            "fmt": "51.90%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 83606,
+            "fmt": "83.61k",
+            "longFmt": "83,606"
+          },
+          "trailingEps": {
+            "raw": 0.01,
+            "fmt": "0.01"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {},
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": -0.78375,
+            "fmt": "-78.37%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "A-7 Shopping Centre",
+          "city": "Kota",
+          "zip": "324007",
+          "country": "India",
+          "phone": "91 74 4236 2346",
+          "fax": "91 74 4236 2346",
+          "website": "http://www.chambalkota.com",
+          "industry": "Beverages - Brewers",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Chambal Breweries & Distilleries Limited trades in and retails IMFL, beer, and country liquor. The company was founded in 1985 and is based in Kota, India.",
+          "fullTimeEmployees": 3,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1.8,
+            "fmt": "1.80"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 1052000,
+            "fmt": "1.05M",
+            "longFmt": "1,052,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.109,
+            "fmt": "0.11"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {},
+          "debtToEquity": {},
+          "revenuePerShare": {},
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {},
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.035,
+            "fmt": "3.50%"
+          },
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

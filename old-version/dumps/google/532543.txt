@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "532543",
+"exchange" : "BOM",
+"id": "5514861",
+"t" : "532543",
+"e" : "BOM",
+"name" : "GP Petroleums Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532543"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532543"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532543"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.92%",
+"annual" : "4.21%",
+"ttm" : "3.23%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.89%",
+"annual" : "5.63%",
+"ttm" : "4.88%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.67%",
+"ttm" : "5.34%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.21%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.96%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "257",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.80",
+"l" : "82.95",
+"cp" : "2.22",
+"ccol" : "chg",
+"op" : "81.15",
+"hi" : "86.00",
+"lo" : "81.15",
+"vo" : "7,945.00",
+"avvo" : "",
+"hi52" : "103.60",
+"lo52" : "70.40",
+"mc" : "4.21B",
+"pe" : "23.28",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.56",
+"dy" : "0.90",
+"ldiv" : "0.75",
+"shares" : "50.98M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5514861",
+"name" : "GP Petroleums Ltd",
+"t" : "532543",
+"e" : "BOM",
+"l" : "82.95",
+"c" : "+1.80",
+"mc" : "4.21B",
+"cp" : "2.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "173563087965749",
+"name" : "Castrol India Limited",
+"t" : "CASTROLIND",
+"e" : "NSE",
+"l" : "198.10",
+"c" : "+4.45",
+"mc" : "196.61B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2619765",
+"name" : "Tide Water Oil Co India Ltd",
+"t" : "TIDEWATER",
+"e" : "NSE",
+"l" : "6,498.00",
+"c" : "-26.80",
+"mc" : "22.82B",
+"cp" : "-0.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "317065588975587",
+"name" : "Gulf Oil Lubricants India Ltd",
+"t" : "GULFOILLUB",
+"e" : "NSE",
+"l" : "1,001.50",
+"c" : "+16.00",
+"mc" : "49.90B",
+"cp" : "1.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5320224",
+"name" : "GOCL Corp Ltd",
+"t" : "GOCLCORP",
+"e" : "NSE",
+"l" : "558.25",
+"c" : "-2.95",
+"mc" : "27.40B",
+"cp" : "-0.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "500320",
+"name" : "Ennore Coke Ltd",
+"t" : "512369",
+"e" : "BOM",
+"l" : "2.21",
+"c" : "-0.06",
+"mc" : "34.26M",
+"cp" : "-2.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7654474",
+"name" : "Apar Industries Ltd",
+"t" : "APARINDS",
+"e" : "NSE",
+"l" : "790.70",
+"c" : "+10.05",
+"mc" : "30.13B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13666462",
+"name" : "Panama Petrochem Ltd.",
+"t" : "PANAMAPET",
+"e" : "NSE",
+"l" : "192.00",
+"c" : "+5.20",
+"mc" : "11.60B",
+"cp" : "2.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16139803",
+"name" : "Balmer Lawrie and Company Ltd",
+"t" : "BALMLAWRIE",
+"e" : "NSE",
+"l" : "231.90",
+"c" : "+0.75",
+"mc" : "26.45B",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14746350",
+"name" : "Laffans Petrochemicals Ltd",
+"t" : "524522",
+"e" : "BOM",
+"l" : "27.00",
+"c" : "-0.25",
+"mc" : "214.69M",
+"cp" : "-0.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9762029",
+"name" : "Timken India Limited",
+"t" : "TIMKEN",
+"e" : "NSE",
+"l" : "802.00",
+"c" : "-18.80",
+"mc" : "54.79B",
+"cp" : "-2.29",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "406\u002F407, Embassy Centre, Nariman Point, MUMBAI, 400093, India",
+"phone": "+91-22-61482500",
+"fax": "+91-22-61482599",
+"url": "http:\u002F\u002Fgppetroleums.co.in\u002F",
+"overview" : "GP Petroleums Limited is engaged in the production of lubricating oils, greases, and rubber process oils and other products from crude oils. The Company\u0027s segments are Lubricants and Trading. The Company markets its products under the IPOL brand name. The Company\u0027s products include automotive lubricants, such as automotive engine oils, automotive gear and transmission oils, greases and specialties, two wheelers, cars and diesel engine oils\u003B industrial lubricants, such as industrial oils, industrial greases, metal working products and industrial specialty oils\u003B process oils, such as rubber process oils and secondary plasticizers\u003B transformer oils, and white oils, such as liquid paraffin. Its products cater to a range of industries, including general engineering, automotive, plastics, sugar mills, transformers, rubber, paint, cosmetics, tire, textiles, cement and adhesives. Its manufacturing facilities are located in Vasai and Daman, with a production capacity of 80,000 kiloliters."
+} ]
+, "management" : [
+{
+"name" : "Manan Goel",
+"title" : "Additional Chairman of the Board"
+}
+,
+{
+"name" : "Hari Prakash Moothedath",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Prerit Goel",
+"title" : "Additional Vice Chairman of the Board"
+}
+,
+{
+"name" : "Arjun Verma",
+"age" : "54",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Shiv Ram Singh",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ayush Goel",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Pallavi Goel",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Bruno P. Y. G. Seghin",
+"age" : "56",
+"title" : "Director"
+}
+,
+{
+"name" : "Bhaswar Mukherjee",
+"title" : "Additional Independent Non-Executive Director"
+}
+,
+{
+"name" : "Narothamkumar Girdharilal Puri",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

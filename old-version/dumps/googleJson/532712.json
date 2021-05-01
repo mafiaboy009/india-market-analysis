@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "532712",
+"exchange" : "BOM",
+"id": "705247",
+"t" : "532712",
+"e" : "BOM",
+"name" : "Reliance Communications Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532712"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532712"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532712"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.36%",
+"annual" : "3.74%",
+"ttm" : "-43.98%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.20%",
+"annual" : "4.94%",
+"ttm" : "-27.10%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "69.35%",
+"ttm" : "17.60%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.24%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.42%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "6,796",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.20",
+"l" : "29.75",
+"cp" : "7.99",
+"ccol" : "chg",
+"op" : "28.00",
+"hi" : "30.60",
+"lo" : "27.60",
+"vo" : "13.27M",
+"avvo" : "",
+"hi52" : "41.77",
+"lo52" : "9.60",
+"mc" : "82.27B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-15.94",
+"dy" : "",
+"ldiv" : "",
+"shares" : "2.77B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "705247",
+"name" : "Reliance Communications Ltd",
+"t" : "532712",
+"e" : "BOM",
+"l" : "29.75",
+"c" : "+2.20",
+"mc" : "82.27B",
+"cp" : "7.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4674509",
+"name" : "Reliance Industries Limited",
+"t" : "RELIANCE",
+"e" : "NSE",
+"l" : "938.75",
+"c" : "+4.50",
+"mc" : "5.95T",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8202974",
+"name" : "Tata Communications Limited",
+"t" : "TATACOMM",
+"e" : "NSE",
+"l" : "635.00",
+"c" : "-4.15",
+"mc" : "180.96B",
+"cp" : "-0.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7404816",
+"name" : "Mahanagar Telephone Nigam Ltd",
+"t" : "MTNL",
+"e" : "NSE",
+"l" : "22.75",
+"c" : "-0.95",
+"mc" : "14.36B",
+"cp" : "-4.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8331198",
+"name" : "Reliance Infrastructure Ltd",
+"t" : "RELINFRA",
+"e" : "NSE",
+"l" : "465.70",
+"c" : "+11.15",
+"mc" : "122.62B",
+"cp" : "2.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3626083",
+"name" : "Bharti Airtel Limited",
+"t" : "BHARTIARTL",
+"e" : "NSE",
+"l" : "423.00",
+"c" : "-2.55",
+"mc" : "1.69T",
+"cp" : "-0.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12508695",
+"name" : "Spanco Ltd",
+"t" : "SPANCO",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-10.50",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6969117",
+"name" : "ADC India Communications Limited",
+"t" : "523411",
+"e" : "BOM",
+"l" : "233.95",
+"c" : "+1.45",
+"mc" : "1.08B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9383828",
+"name" : "Megasoft Ltd",
+"t" : "MEGASOFT",
+"e" : "NSE",
+"l" : "13.70",
+"c" : "+0.10",
+"mc" : "606.46M",
+"cp" : "0.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11758968",
+"name" : "Idea Cellular Ltd",
+"t" : "IDEA",
+"e" : "NSE",
+"l" : "82.40",
+"c" : "+0.25",
+"mc" : "324.57B",
+"cp" : "0.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10984042",
+"name" : "GAIL (India) Limited",
+"t" : "GAIL",
+"e" : "NSE",
+"l" : "462.80",
+"c" : "+4.40",
+"mc" : "780.86B",
+"cp" : "0.96",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Dhirubhai Ambani Knowledge City, NAVI MUMBAI, 400710, India",
+"phone": "+91-22-30386286",
+"fax": "+91-22-30376622",
+"url": "http:\u002F\u002Fwww.rcom.co.in\u002F",
+"overview" : "Reliance Communications Limited is a telecommunications service provider. The Company operates through two segments: India Operations and Global Operations. India operations segment comprises wireless telecommunications services to retail customers through global system for mobile communication (GSM) technology-based networks across India\u003B voice, long distance services and broadband access to enterprise customers\u003B managed Internet data center services, and direct-to-home (DTH) business. Global operations comprise Carrier, Enterprise and Consumer Business units. It provides carrier\u0027s carrier voice, carrier\u0027s carrier bandwidth, enterprise data and consumer voice services. The Company owns and operates Internet protocol (IP) enabled connectivity infrastructure, comprising over 280,000 kilometers of fiber optic cable systems in India, the United States, Europe, Middle East and the Asia Pacific region."
+} ]
+, "management" : [
+{
+"name" : "Gurdeep Singh",
+"title" : "Co-Chief Executive Officer"
+}
+,
+{
+"name" : "Manikantan V.",
+"age" : "52",
+"title" : "Chief Financial Officer, Non Independent Executive Director"
+}
+,
+{
+"name" : "Prakash Shenoy",
+"title" : "Chief Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Punit Garg",
+"age" : "53",
+"title" : "Non-Independent Executive Director"
+}
+,
+{
+"name" : "Anil Dhirubhai Ambani",
+"age" : "58",
+"title" : "Non-Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "William Barney",
+"age" : "51",
+"title" : "Non Independent Non-Executive Director"
+}
+,
+{
+"name" : "Manjari Ashok Kacker",
+"age" : "64",
+"title" : "Non-Executive and Non-Independent Director"
+}
+,
+{
+"name" : "Suresh Rangachar",
+"age" : "53",
+"title" : "Non Independent Non-Executive Director"
+}
+,
+{
+"name" : "Ryna Karani",
+"age" : "49",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

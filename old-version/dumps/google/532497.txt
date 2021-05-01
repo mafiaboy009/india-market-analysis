@@ -1,0 +1,291 @@
+
+// [
+{
+"symbol" : "532497",
+"exchange" : "BOM",
+"id": "703776",
+"t" : "532497",
+"e" : "BOM",
+"name" : "Radico Khaitan Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532497"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532497"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532497"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.39%",
+"annual" : "1.66%",
+"ttm" : "1.66%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.04%",
+"annual" : "3.52%",
+"ttm" : "3.50%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.38%",
+"ttm" : "4.36%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.54%",
+"ttm" : "3.54%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.99%",
+"ttm" : "7.99%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,124",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.10",
+"l" : "352.10",
+"cp" : "-0.31",
+"ccol" : "chr",
+"op" : "355.15",
+"hi" : "358.95",
+"lo" : "350.30",
+"vo" : "123,377.00",
+"avvo" : "",
+"hi52" : "417.95",
+"lo52" : "107.00",
+"mc" : "46.84B",
+"pe" : "58.62",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.01",
+"dy" : "0.23",
+"ldiv" : "0.80",
+"shares" : "133.31M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703776",
+"name" : "Radico Khaitan Limited",
+"t" : "532497",
+"e" : "BOM",
+"l" : "352.10",
+"c" : "-1.10",
+"mc" : "46.84B",
+"cp" : "-0.31",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7165807",
+"name" : "Associated Alcohol and Breweries Ltd",
+"t" : "507526",
+"e" : "BOM",
+"l" : "276.50",
+"c" : "+1.20",
+"mc" : "4.97B",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7586898",
+"name" : "Tilaknagar Industries Ltd",
+"t" : "TI",
+"e" : "NSE",
+"l" : "18.10",
+"c" : "+0.30",
+"mc" : "2.26B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8315956",
+"name" : "G M Breweries Ltd",
+"t" : "GMBREW",
+"e" : "NSE",
+"l" : "923.60",
+"c" : "+4.85",
+"mc" : "13.54B",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3788558",
+"name" : "United Breweries (Holdings) Ltd.",
+"t" : "UBHOLDINGS",
+"e" : "NSE",
+"l" : "11.20",
+"c" : "+0.50",
+"mc" : "748.37M",
+"cp" : "4.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1661632",
+"name" : "Nuway Organic Naturals India Ltd",
+"t" : "531819",
+"e" : "BOM",
+"l" : "7.01",
+"c" : "0.00",
+"mc" : "67.19M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "705829",
+"name" : "Indage Vintners Ltd",
+"t" : "522059",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-13.55",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1432984",
+"name" : "Ravikumar Distilleries Limited",
+"t" : "RKDL",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "+0.35",
+"mc" : "380.40M",
+"cp" : "2.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3493013",
+"name" : "Ugar Sugar Works Limited",
+"t" : "UGARSUGAR",
+"e" : "NSE",
+"l" : "19.80",
+"c" : "-0.25",
+"mc" : "2.23B",
+"cp" : "-1.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11103399",
+"name" : "Khoday India Limited",
+"t" : "507435",
+"e" : "BOM",
+"l" : "75.00",
+"c" : "+1.55",
+"mc" : "2.54B",
+"cp" : "2.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16118513",
+"name" : "United Spirits Ltd",
+"t" : "MCDOWELL-N",
+"e" : "NSE",
+"l" : "3,242.00",
+"c" : "+3.15",
+"mc" : "470.54B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Bareilly Road, NEW DELHI, 110044, India",
+"phone": "+91-11-40975400",
+"fax": "+91-11-41678841",
+"url": "http:\u002F\u002Fwww.radicokhaitan.com\u002F",
+"overview" : "Radico Khaitan Limited manufactures alcohol and alcoholic products. The Company operates through the segment of liquor and related products. It offers various brands of Whisky, including 8PM Whisky, Royal Whytehall Whisky and After Dark Whisky\u003B Rum, including Contessa Rum and 8PM Bermuda Rum\u003B Brandy, including Old Admiral Brandy, 8PM Excellency Brandy and Morpheus Brandy\u003B Vodka, including Magic Moments Vodka, Magic Moments Remix Vodka and Verve, and Ready to Drink, including Electra. It produces extra neutral alcohol from molasses, as well as grain. It produces malt spirit and aged grain spirit, as well as matured malt spirit. It has over 33 bottling units spanning across the entire country, of which over five belong to it and over 28 are contract bottling units. Its Rampur Distillery manufactures various brands of Indian-made foreign liquor (IMFL) and country liquor. It operates over three distilleries and one joint venture with total capacity of over 150 million liters."
+} ]
+, "management" : [
+{
+"name" : "Lalit Khaitan",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Abhishek Khaitan",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "K. P. Singh",
+"age" : "62",
+"title" : "Wholetime Director"
+}
+,
+{
+"name" : "Amit Manchanda",
+"title" : "Group Head - Legal, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Karna Singh Mehta",
+"age" : "68",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ashutosh Patra",
+"age" : "68",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Shailja Saraf",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Raghupati Singhania",
+"age" : "67",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sarvesh Srivastava",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

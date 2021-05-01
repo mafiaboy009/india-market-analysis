@@ -1,0 +1,275 @@
+
+// [
+{
+"symbol" : "511736",
+"exchange" : "BOM",
+"id": "10680092",
+"t" : "511736",
+"e" : "BOM",
+"name" : "Ushdev International Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=USTF.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:511736"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:511736"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:511736"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-2.72%",
+"annual" : "-9.15%",
+"ttm" : "0.64%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "0.94%",
+"annual" : "-1.58%",
+"ttm" : "3.12%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-1.28%",
+"ttm" : "3.22%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-5.40%",
+"ttm" : "1.10%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-25.81%",
+"ttm" : "5.39%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "45",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "1.81",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "20.95",
+"lo52" : "1.73",
+"mc" : "612.67M",
+"pe" : "1.18",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.54",
+"dy" : "5.52",
+"ldiv" : "0.10",
+"shares" : "338.49M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10680092",
+"name" : "Ushdev International Ltd.",
+"t" : "511736",
+"e" : "BOM",
+"l" : "1.81",
+"c" : "0.00",
+"mc" : "612.67M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13684280",
+"name" : "Hariyana Ship Breakers Ltd",
+"t" : "526931",
+"e" : "BOM",
+"l" : "97.50",
+"c" : "+1.35",
+"mc" : "595.98M",
+"cp" : "1.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11345766",
+"name" : "Spectra Industries Ltd",
+"t" : "513687",
+"e" : "BOM",
+"l" : "25.60",
+"c" : "-0.55",
+"mc" : "181.56M",
+"cp" : "-2.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2754022821662",
+"name" : "Aseem Global Ltd",
+"t" : "534564",
+"e" : "BOM",
+"l" : "2.70",
+"c" : "0.00",
+"mc" : "28.57M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "859795182321279",
+"name" : "Omansh Enterprises Ltd",
+"t" : "538537",
+"e" : "BOM",
+"l" : "1.67",
+"c" : "0.00",
+"mc" : "29.64M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1044686203315341",
+"name" : "Hexa Tradex Ltd",
+"t" : "HEXATRADEX",
+"e" : "NSE",
+"l" : "54.90",
+"c" : "+2.45",
+"mc" : "3.07B",
+"cp" : "4.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "870440331812253",
+"name" : "MRC Exim Ltd",
+"t" : "540809",
+"e" : "BOM",
+"l" : "8.00",
+"c" : "0.00",
+"mc" : "83.37M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4294110",
+"name" : "Lesha Industries Ltd",
+"t" : "533602",
+"e" : "BOM",
+"l" : "10.25",
+"c" : "-0.50",
+"mc" : "11.60M",
+"cp" : "-4.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "211744694762293",
+"name" : "Best Steel Logistics Ltd",
+"t" : "538566",
+"e" : "BOM",
+"l" : "151.35",
+"c" : "+7.20",
+"mc" : "2.82B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "257471623794379",
+"name" : "Devhari Exports (India) Ltd",
+"t" : "539197",
+"e" : "BOM",
+"l" : "9.55",
+"c" : "0.00",
+"mc" : "709.41M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "132789078893137",
+"name" : "Agrimony Commodities Ltd",
+"t" : "537492",
+"e" : "BOM",
+"l" : "3.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "6Th Floor New Harileela House, Mint Road, Fort, MUMBAI, 400023, India",
+"phone": "+91-22-61948888",
+"fax": "+91-22-22821416",
+"url": "http:\u002F\u002Fwww.ushdev.com\u002F",
+"overview" : "Ushdev International Limited is engaged in the metal trading business. The Company is engaged in the trading of ferrous and non-ferrous metals, and power generation. Its products include raw materials, including metallurgical coal\u002Fcoke, sponge iron, iron ore-lumps, fines, pellets, pig iron, steel scrap and liquid metal\u003B flat products, such as galvanized products, annealed products, pickled products, color coated sheets, corrugated sheets, and tin, and long products, such as angles, beams, channels, billets, ingots, pipes, rods, wires, carbon and stainless steel bars\u002Frods\u002Fstructures, and wires. It trades copper cathodes, copper scrap, copper rods and copper concentrates in the copper category, and nickel wires, nickel cathodes and nickel briquettes in the nickel category. It imports metals from approximately 30 countries and also exports different forms of metals to approximately 30 countries around the world. It has an installed capacity of approximately 28.3 megawatts (MW)."
+} ]
+, "management" : [
+{
+"name" : "Prateek Gupta",
+"age" : "35",
+"title" : "Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Sucheta Jadhav",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Avinash Godse",
+"title" : "Legal Advisor, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Arvind Prasad",
+"age" : "54",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Suman Gupta",
+"age" : "59",
+"title" : "Non-Executive Chairperson of the Board"
+}
+,
+{
+"name" : "Mark Pawley",
+"title" : "Additional Director"
+}
+]
+,"moreresources" : [
+]
+}]

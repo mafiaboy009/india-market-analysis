@@ -1,0 +1,296 @@
+
+ [
+{
+"symbol" : "533655",
+"exchange" : "BOM",
+"id": "167935808823023",
+"t" : "533655",
+"e" : "BOM",
+"name" : "Triveni Turbine Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533655"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533655"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533655"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "11.70%",
+"annual" : "16.14%",
+"ttm" : "12.49%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "17.21%",
+"annual" : "19.92%",
+"ttm" : "16.83%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "22.12%",
+"ttm" : "19.40%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "20.26%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "35.16%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "596",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.75",
+"l" : "121.00",
+"cp" : "3.20",
+"ccol" : "chg",
+"op" : "115.60",
+"hi" : "123.00",
+"lo" : "114.00",
+"vo" : "9,473.00",
+"avvo" : "",
+"hi52" : "167.00",
+"lo52" : "113.95",
+"mc" : "39.96B",
+"pe" : "45.69",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.65",
+"dy" : "0.99",
+"ldiv" : "0.45",
+"shares" : "330.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "167935808823023",
+"name" : "Triveni Turbine Ltd",
+"t" : "533655",
+"e" : "BOM",
+"l" : "121.00",
+"c" : "+3.75",
+"mc" : "39.96B",
+"cp" : "3.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "918104",
+"name" : "TD Power Systems Ltd",
+"t" : "TDPOWERSYS",
+"e" : "NSE",
+"l" : "213.00",
+"c" : "-5.70",
+"mc" : "7.09B",
+"cp" : "-2.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15274130",
+"name" : "Bharat Heavy Electricals Limited",
+"t" : "BHEL",
+"e" : "NSE",
+"l" : "93.30",
+"c" : "+0.40",
+"mc" : "342.73B",
+"cp" : "0.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4296313",
+"name" : "Suzlon Energy Ltd",
+"t" : "SUZLON",
+"e" : "NSE",
+"l" : "13.05",
+"c" : "+0.05",
+"mc" : "69.42B",
+"cp" : "0.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "789150839368773",
+"name" : "Inox Wind Ltd",
+"t" : "INOXWIND",
+"e" : "NSE",
+"l" : "126.60",
+"c" : "-2.65",
+"mc" : "28.18B",
+"cp" : "-2.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12988274",
+"name" : "Honda Siel Power Products Limited",
+"t" : "HONDAPOWER",
+"e" : "NSE",
+"l" : "1,500.00",
+"c" : "+3.55",
+"mc" : "15.35B",
+"cp" : "0.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6808496",
+"name" : "NEPC India Ltd",
+"t" : "NEPCMICON",
+"e" : "NSE",
+"l" : "1.40",
+"c" : "",
+"mc" : "97.11M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13914119",
+"name" : "Triveni Engineering \u0026 Industries Ltd.",
+"t" : "TRIVENI",
+"e" : "NSE",
+"l" : "63.45",
+"c" : "-0.40",
+"mc" : "16.38B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12975418",
+"name" : "Kirloskar Brothers Limited",
+"t" : "KIRLOSBROS",
+"e" : "NSE",
+"l" : "327.50",
+"c" : "-4.65",
+"mc" : "25.98B",
+"cp" : "-1.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "706299",
+"name" : "Jyoti Ltd.",
+"t" : "504076",
+"e" : "BOM",
+"l" : "49.15",
+"c" : "+0.40",
+"mc" : "837.59M",
+"cp" : "0.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8286573",
+"name" : "Remi Edelstahl Tubulars Ltd",
+"t" : "513043",
+"e" : "BOM",
+"l" : "35.05",
+"c" : "+0.05",
+"mc" : "384.93M",
+"cp" : "0.14",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Express Trade Towers 8th Floor, 15-16, Sector 16A, NOIDA, 201301, India",
+"phone": "+91-120-4308000",
+"fax": "+91-80-22164100",
+"url": "http:\u002F\u002Fwww.triveniturbines.com\u002F",
+"overview" : "Triveni Turbine limited (TTL) is a holding company. The Company is engaged in the manufacturing of steam turbines and parts thereof. It is also involved in servicing, operation and maintenance of steam turbines. It operates through Power Generating Equipment and Solutions segment. It offers back-pressure and condensing steam turbines over 100 megawatt (MW) that works across a range of pressure and flow applications. Its condensing steam turbines include straight condensing type, bleed condensing type and injection condensing type. Its back-pressure steam turbines include straight back pressure type and bleed back pressure. Its applications include co-generation, combined heat and power, waste heat recovery and combined cycle power plant, incidental power generation from incineration, captive power plant, independent power producer and non-conventional energy sources. Its subsidiaries include GE Triveni Ltd (GETL), Triveni Turbine Europe Pvt Ltd (TTEPL) and Triveni Turbine DMCC (TTD)."
+} ]
+, "management" : [
+{
+"name" : "Dhruv M. Sawhney",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Nikhil Sawhney",
+"title" : "Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Deepak Kumar Sen",
+"title" : "Chief Financial Officer, General Manager"
+}
+,
+{
+"name" : "Rajiv Sawhney",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Arun Prabhakar Mote",
+"age" : "61",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Tarun Sawhney",
+"age" : "41",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Kanwal Kishan Hazari",
+"age" : "88",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vasantha Suresh Bharucha",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Shekhar Datta",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Santosh Pande",
+"age" : "65",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

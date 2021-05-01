@@ -1,0 +1,254 @@
+
+// [
+{
+"symbol" : "540023",
+"exchange" : "BOM",
+"id": "326398156692509",
+"t" : "540023",
+"e" : "BOM",
+"name" : "Millitoons Entertainment Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=MILT.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:540023"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:540023"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:540023"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "20.79%",
+"annual" : "1.92%",
+"ttm" : "6.35%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "29.71%",
+"annual" : "1.28%",
+"ttm" : "9.04%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.95%",
+"ttm" : "10.27%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.35%",
+"ttm" : "1.33%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.36%",
+"ttm" : "1.65%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "13",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.50",
+"l" : "27.60",
+"cp" : "9.96",
+"ccol" : "chg",
+"op" : "25.60",
+"hi" : "27.60",
+"lo" : "25.60",
+"vo" : "15,023.00",
+"avvo" : "",
+"hi52" : "64.00",
+"lo52" : "23.40",
+"mc" : "4.41B",
+"pe" : "376.28",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.07",
+"dy" : "0.04",
+"ldiv" : "0.01",
+"shares" : "170.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "326398156692509",
+"name" : "Millitoons Entertainment Ltd",
+"t" : "540023",
+"e" : "BOM",
+"l" : "27.60",
+"c" : "+2.50",
+"mc" : "4.41B",
+"cp" : "9.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12540710",
+"name" : "Accel Transmatic Ltd",
+"t" : "517494",
+"e" : "BOM",
+"l" : "3.36",
+"c" : "0.00",
+"mc" : "37.09M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13970120",
+"name" : "Eros International Media Limited",
+"t" : "EROSMEDIA",
+"e" : "NSE",
+"l" : "200.00",
+"c" : "-2.15",
+"mc" : "18.92B",
+"cp" : "-1.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "742091888478996",
+"name" : "Onesource Techmedia Ltd",
+"t" : "535647",
+"e" : "BOM",
+"l" : "13.06",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "684602",
+"name" : "Padmalaya Telefilms Limited",
+"t" : "532350",
+"e" : "BOM",
+"l" : "4.74",
+"c" : "-0.05",
+"mc" : "80.58M",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "729294",
+"name" : "Nextgen Animation Mediaa Ltd",
+"t" : "532999",
+"e" : "BOM",
+"l" : "1.76",
+"c" : "-0.02",
+"mc" : "109.12M",
+"cp" : "-1.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4522105",
+"name" : "Shree Ashtavinayak Cine Vision Limited",
+"t" : "SHREEASHTA",
+"e" : "NSE",
+"l" : "0.80",
+"c" : "",
+"mc" : "737.14M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "2432769",
+"name" : "IDream Film Infrastructure Company Ltd",
+"t" : "504375",
+"e" : "BOM",
+"l" : "110.00",
+"c" : "0.00",
+"mc" : "16.50M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6514116",
+"name" : "Mukta Arts Limited",
+"t" : "MUKTAARTS",
+"e" : "NSE",
+"l" : "76.90",
+"c" : "+0.90",
+"mc" : "1.74B",
+"cp" : "1.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "720591",
+"name" : "Sanraa Media Limited",
+"t" : "531312",
+"e" : "BOM",
+"l" : "0.06",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "15858087",
+"name" : "Balaji Telefilms Limited (Parent)",
+"t" : "BALAJITELE",
+"e" : "NSE",
+"l" : "143.40",
+"c" : "+2.50",
+"mc" : "14.45B",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": ", HYDERABAD, 500034, India",
+"phone": "+91-40-65359666",
+"overview" : "Millitoons Entertainment Limited is an integrated design solutions company. The Company is engaged in animation business. The Company is involved in film production, television commercials, animation and Web design. The Company is engaged in providing animated services. The Company offers imaging services, animation technologies, compatibility and conducive management. The Company operates in Hyderabad, Telangana, India."
+} ]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Feb 15, 2018",
+"time": "",
+"future": 0,
+"desc": "Q3 2018 Millitoons Entertainment Ltd Earnings Release (Estimated)"
+}
+,
+{
+"date": "Dec 14, 2017",
+"time": "",
+"future": 0,
+"desc": "Q2 2018 Millitoons Entertainment Ltd Earnings Release"
+}
+]
+}]

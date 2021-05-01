@@ -1,0 +1,290 @@
+
+ [
+{
+"symbol" : "532604",
+"exchange" : "BOM",
+"id": "715288",
+"t" : "532604",
+"e" : "BOM",
+"name" : "SAL Steel Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532604"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532604"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532604"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.77%",
+"annual" : "1.70%",
+"ttm" : "-1.36%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.66%",
+"annual" : "1.29%",
+"ttm" : "-1.83%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.21%",
+"ttm" : "-0.36%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.50%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+}
+]
+, "c" : "+0.34",
+"l" : "7.21",
+"cp" : "4.95",
+"ccol" : "chg",
+"op" : "7.21",
+"hi" : "7.21",
+"lo" : "7.07",
+"vo" : "14,650.00",
+"avvo" : "",
+"hi52" : "8.96",
+"lo52" : "4.65",
+"mc" : "619.74M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.79",
+"dy" : "",
+"ldiv" : "",
+"shares" : "84.97M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715288",
+"name" : "SAL Steel Ltd.",
+"t" : "532604",
+"e" : "BOM",
+"l" : "7.21",
+"c" : "+0.34",
+"mc" : "619.74M",
+"cp" : "4.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14744034",
+"name" : "Sarda Energy \u0026 Minerals Limited",
+"t" : "SARDAEN",
+"e" : "NSE",
+"l" : "502.00",
+"c" : "+4.00",
+"mc" : "18.02B",
+"cp" : "0.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5394407",
+"name" : "Visa Steel Limited",
+"t" : "VISASTEEL",
+"e" : "NSE",
+"l" : "18.40",
+"c" : "-0.55",
+"mc" : "2.13B",
+"cp" : "-2.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7019095",
+"name" : "Vikash Metal \u0026 Power Ltd.",
+"t" : "VIKASHMET",
+"e" : "NSE",
+"l" : "4.45",
+"c" : "0.00",
+"mc" : "316.80M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1253345",
+"name" : "Rohit Ferro-Tech Limited",
+"t" : "ROHITFERRO",
+"e" : "NSE",
+"l" : "3.60",
+"c" : "-0.10",
+"mc" : "409.59M",
+"cp" : "-2.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6774107",
+"name" : "Monnet Ispat \u0026 Energy Ltd.",
+"t" : "MONNETISPA",
+"e" : "NSE",
+"l" : "27.35",
+"c" : "+0.85",
+"mc" : "5.45B",
+"cp" : "3.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11539104",
+"name" : "Tata Steel Limited",
+"t" : "TATASTEEL",
+"e" : "NSE",
+"l" : "681.40",
+"c" : "+3.65",
+"mc" : "769.66B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11033843",
+"name" : "Godawari Power and Ispat Limited",
+"t" : "GPIL",
+"e" : "NSE",
+"l" : "521.70",
+"c" : "+24.80",
+"mc" : "18.38B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4196813",
+"name" : "Sandur Manganese \u0026 Iron Ores Ltd.",
+"t" : "504918",
+"e" : "BOM",
+"l" : "1,263.90",
+"c" : "+22.40",
+"mc" : "11.15B",
+"cp" : "1.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "187423",
+"name" : "Prakash Industries Limited",
+"t" : "PRAKASH",
+"e" : "NSE",
+"l" : "217.00",
+"c" : "+0.75",
+"mc" : "33.50B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1374673",
+"name" : "Nava Bharat Ventures Limited",
+"t" : "NBVENTURES",
+"e" : "NSE",
+"l" : "152.00",
+"c" : "+0.60",
+"mc" : "26.86B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Corporate House,Sola-Kalol Road, Santej, GANDHINAGAR, 382043, India",
+"phone": "+91-2764-286525",
+"fax": "+91-2764-286744",
+"url": "http:\u002F\u002Fwww.salsteel.co.in\u002F",
+"overview" : "S.A.L. Steel Limited is an India-based company, which is engaged in manufacturing sponge iron, ferro alloys, mild steel (MS) and stainless steel (SS) angle, and power. The Company\u0027s segments include Iron \u0026 Steel, and Power. The Company has a power plant with a capacity of 40 megawatts. Its product also includes ferro chrome. The Company also operates two rotary kilns with installed capacities of 100 tons per day (TPD) and 500 TPD."
+} ]
+, "management" : [
+{
+"name" : "Jayant Jagatkumar Garai",
+"title" : "Chief Executive Officer (Works)"
+}
+,
+{
+"name" : "AnilKumar S. Pandya",
+"age" : "58",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Sujal A. Shah",
+"title" : "Whole Time Director, Director - Purchase"
+}
+,
+{
+"name" : "Babulal M. Singhal",
+"age" : "57",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Kailash Chandra Thatoi Ph.D.",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Rajendra V. Shah",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Shefali M. Patel",
+"title" : "Director"
+}
+,
+{
+"name" : "Shrikant N. Jhaveri",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ambalal C. Patel",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Harshad M. Shah",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,300 @@
+
+ [
+{
+"symbol" : "503806",
+"exchange" : "BOM",
+"id": "703735",
+"t" : "503806",
+"e" : "BOM",
+"name" : "SRF Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:503806"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:503806"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:503806"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.39%",
+"annual" : "10.03%",
+"ttm" : "8.51%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.06%",
+"annual" : "13.35%",
+"ttm" : "9.95%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "18.87%",
+"ttm" : "15.46%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.62%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "17.32%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5,484",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+5.70",
+"l" : "1,925.20",
+"cp" : "0.30",
+"ccol" : "chg",
+"op" : "1,920.00",
+"hi" : "1,960.00",
+"lo" : "1,903.00",
+"vo" : "9,515.00",
+"avvo" : "",
+"hi52" : "2,045.00",
+"lo52" : "1,420.00",
+"mc" : "110.66B",
+"pe" : "23.67",
+"fwpe" : "",
+"beta" : "",
+"eps" : "81.33",
+"dy" : "0.47",
+"ldiv" : "6.00",
+"shares" : "57.42M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703735",
+"name" : "SRF Limited",
+"t" : "503806",
+"e" : "BOM",
+"l" : "1,925.20",
+"c" : "+5.70",
+"mc" : "110.66B",
+"cp" : "0.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9802596",
+"name" : "NRC Ltd",
+"t" : "NRC",
+"e" : "NSE",
+"l" : "2.80",
+"c" : "",
+"mc" : "104.26M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3770372",
+"name" : "JK Lakshmi Cement Limited",
+"t" : "JKLAKSHMI",
+"e" : "NSE",
+"l" : "433.55",
+"c" : "+7.75",
+"mc" : "51.24B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7650638",
+"name" : "Kama Holdings Ltd",
+"t" : "532468",
+"e" : "BOM",
+"l" : "4,250.00",
+"c" : "-23.25",
+"mc" : "25.48B",
+"cp" : "-0.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15581307",
+"name" : "Uflex Ltd",
+"t" : "UFLEX",
+"e" : "NSE",
+"l" : "373.00",
+"c" : "+7.80",
+"mc" : "26.73B",
+"cp" : "2.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12609898",
+"name" : "Alps Industries Ltd.",
+"t" : "ALPSINDUS",
+"e" : "NSE",
+"l" : "4.40",
+"c" : "-0.20",
+"mc" : "170.25M",
+"cp" : "-4.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715407",
+"name" : "Eskay K\u0027n\u0027IT (India) Ltd.",
+"t" : "514118",
+"e" : "BOM",
+"l" : "0.30",
+"c" : "0.00",
+"mc" : "84.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "758861346644905",
+"name" : "Swan Energy Ltd",
+"t" : "SWANENERGY",
+"e" : "NSE",
+"l" : "187.00",
+"c" : "-3.15",
+"mc" : "45.47B",
+"cp" : "-1.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5980140",
+"name" : "Bannari Amman Spinning Mills Ltd.",
+"t" : "BASML",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "+5.95",
+"mc" : "4.41B",
+"cp" : "2.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2378226",
+"name" : "Garware-Wall Ropes Ltd.",
+"t" : "GARWALLROP",
+"e" : "NSE",
+"l" : "930.70",
+"c" : "+9.55",
+"mc" : "20.39B",
+"cp" : "1.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1022713",
+"name" : "Loyal Textile Mills Ltd",
+"t" : "514036",
+"e" : "BOM",
+"l" : "643.00",
+"c" : "-2.65",
+"mc" : "3.11B",
+"cp" : "-0.41",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Block-C, Sector - 45, GURGAON, 122003, India",
+"phone": "+91-124-4354400",
+"fax": "+91-124-4354400",
+"url": "http:\u002F\u002Fwww.srf.com",
+"overview" : "SRF Limited is an India-based holding company. The Company is engaged in manufacturing of chemicals and polymers, technical textiles and packaging films. Its segments include Technical Textiles Business (TTB), which includes nylon tire cord fabric, belting fabric, coated fabric, polyester tire cord fabric and industrial yarns and its research and development\u003B Chemicals and Polymers Business (CPB), which includes refrigerant gases, pharmaceuticals and allied products, engineering plastics business and its research and development, and Packaging Films Business (PFB), which includes polyester films. Its chemicals and polymers plants are located at Alwar, Rajasthan\u003B Udham Singh Nagar\u003B Uttarakhand, and Bharuch, Gujarat. Its technical textiles plants are located at Chennai, Tamil Nadu\u003B Bhind, Madhya Pradesh\u003B Thiruvallur, Tamil Nadu\u003B Pudukottai, Tamil Nadu, and Udham SinghNagar, Uttarakhand. Its packaging films plants are located at Udham SinghNagar, Uttarakhand and Indore, Madhya Pradesh."
+} ]
+, "management" : [
+{
+"name" : "Arun Bharat Ram",
+"age" : "74",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Anoop K. Joshi",
+"age" : "55",
+"title" : "President, Chief Financial Officer, Company Secretary"
+}
+,
+{
+"name" : "Ekta Maheshwari",
+"title" : "Compliance Officer, Senior Manager - Secretarial"
+}
+,
+{
+"name" : "Ashish Bharat Ram",
+"age" : "46",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Kartik Bharat Ram",
+"age" : "42",
+"title" : "Deputy Managing Director, Executive Director"
+}
+,
+{
+"name" : "Pramod Gopaldas Gujarathi",
+"age" : "65",
+"title" : "Director - Safety \u0026 Environment, Additional Executive Director"
+}
+,
+{
+"name" : "Meenakshi Gopinath",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Pramod Bhasin",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vinayak Chatterjee",
+"age" : "56",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Tejpreet Singh Chopra",
+"age" : "47",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

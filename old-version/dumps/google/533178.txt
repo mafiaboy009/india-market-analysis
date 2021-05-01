@@ -1,0 +1,301 @@
+
+// [
+{
+"symbol" : "533178",
+"exchange" : "BOM",
+"id": "996971719196724",
+"t" : "533178",
+"e" : "BOM",
+"name" : "Pradip Overseas Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533178"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533178"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533178"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-4.91%",
+"annual" : "-123.83%",
+"ttm" : "-162.78%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.49%",
+"annual" : "-171.56%",
+"ttm" : "-220.36%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-163.80%",
+"ttm" : "-209.99%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-26.86%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "115",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.04",
+"l" : "2.39",
+"cp" : "-1.65",
+"ccol" : "chr",
+"op" : "2.40",
+"hi" : "2.40",
+"lo" : "2.39",
+"vo" : "1,200.00",
+"avvo" : "",
+"hi52" : "4.98",
+"lo52" : "1.42",
+"mc" : "100.05M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-40.20",
+"dy" : "",
+"ldiv" : "",
+"shares" : "48.44M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "996971719196724",
+"name" : "Pradip Overseas Limited",
+"t" : "533178",
+"e" : "BOM",
+"l" : "2.39",
+"c" : "-0.04",
+"mc" : "100.05M",
+"cp" : "-1.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8837405",
+"name" : "Welspun India Limited",
+"t" : "WELSPUNIND",
+"e" : "NSE",
+"l" : "62.75",
+"c" : "-0.65",
+"mc" : "63.00B",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "504981540979747",
+"name" : "Welspun Global Brands Ltd",
+"t" : "WELGLOB",
+"e" : "BOM",
+"l" : "57.00",
+"c" : "",
+"mc" : "597.10M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6107341",
+"name" : "Prashant India Ltd",
+"t" : "519014",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-1.20",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8147180",
+"name" : "Bombay Dyeing and Manufacturing Company",
+"t" : "BOMDYEING",
+"e" : "NSE",
+"l" : "272.95",
+"c" : "-7.05",
+"mc" : "56.43B",
+"cp" : "-2.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6734264",
+"name" : "K G Petro Chem Ltd",
+"t" : "531609",
+"e" : "BOM",
+"l" : "115.50",
+"c" : "+5.50",
+"mc" : "603.03M",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6926324",
+"name" : "Faze Three Ltd",
+"t" : "530079",
+"e" : "BOM",
+"l" : "73.00",
+"c" : "+0.40",
+"mc" : "1.78B",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "402870",
+"name" : "KG Denim Ltd",
+"t" : "500239",
+"e" : "BOM",
+"l" : "60.75",
+"c" : "+1.30",
+"mc" : "1.54B",
+"cp" : "2.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10814901",
+"name" : "Sel Manufacturing Company Ltd",
+"t" : "SELMCL",
+"e" : "NSE",
+"l" : "2.45",
+"c" : "-0.05",
+"mc" : "795.88M",
+"cp" : "-2.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8882505",
+"name" : "Himatsingka Seide Limited",
+"t" : "HIMATSEIDE",
+"e" : "NSE",
+"l" : "357.00",
+"c" : "+2.20",
+"mc" : "35.13B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3711845",
+"name" : "Vijay Textiles Ltd",
+"t" : "530151",
+"e" : "BOM",
+"l" : "56.45",
+"c" : "-0.10",
+"mc" : "748.18M",
+"cp" : "-0.18",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "104\u002F105,Chacharwadi Sarkhej Bawla Highway Opp. Zydus Cadilla, AHMEDABAD, 380009, India",
+"phone": "+91-79-26431594",
+"fax": "+91-79-26420408",
+"url": "http:\u002F\u002Fwww.pradipoverseas.com\u002F",
+"overview" : "Pradip Overseas Limited is engaged in manufacturing bed linen products. The Company operates through Textile segment. The Company\u0027s geographical segments include Within India and Outside India. The Company is a manufacturer and exporter of home textile, home decor and home furnishings. Its home furnishing range includes table linen, bed spreads, quilts, cushion covers and curtains. The Company offers a range of products, including bed in a bag, comforters, cotton, flannel, Jersey, micro, readymades, seersucker and towels. Its home textile articles range from 100% cotton sheeting, polyester cotton and 100% polyester satin, jacquard, stripes, from 150 thread count to 1,000 thread count. The Company manufactures a range of bed linen in various designs and finishing. The Company has its own stitching unit equipped with the capacity to stitch\u002Fdeliver 300,000 sets a month. The Company\u0027s plant is located at Ahmedabad."
+} ]
+, "management" : [
+{
+"name" : "Pradipkumar J. Karia",
+"age" : "52",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Amit H. Thakkar",
+"age" : "40",
+"title" : "President"
+}
+,
+{
+"name" : "Kaushik B. Kapadia",
+"age" : "58",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Alakh Niranjan Saboo",
+"age" : "55",
+"title" : "Vice President - HRD \u0026 Admin"
+}
+,
+{
+"name" : "Anil Agarwal",
+"age" : "45",
+"title" : "Vice President - Production"
+}
+,
+{
+"name" : "Anand Shilpkar",
+"age" : "58",
+"title" : "Vice President - Technical"
+}
+,
+{
+"name" : "Chetankumar J. Karia",
+"age" : "52",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Vishal R. Karia",
+"age" : "32",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Parulben Thakore",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Ramdas Gurpur Kamath",
+"age" : "67",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

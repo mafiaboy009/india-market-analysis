@@ -1,0 +1,283 @@
+
+ [
+{
+"symbol" : "532323",
+"exchange" : "BOM",
+"id": "13656884",
+"t" : "532323",
+"e" : "BOM",
+"name" : "Shiva Cement Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SHIV.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532323"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532323"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532323"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-203.17%",
+"annual" : "-94.76%",
+"ttm" : "-192.92%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-113.04%",
+"annual" : "-102.57%",
+"ttm" : "-187.43%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-22.69%",
+"ttm" : "-52.26%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-11.33%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-22.53%",
+"ttm" : ""
+}
+]
+, "c" : "+0.35",
+"l" : "28.30",
+"cp" : "1.25",
+"ccol" : "chg",
+"op" : "28.00",
+"hi" : "28.30",
+"lo" : "27.50",
+"vo" : "95,818.00",
+"avvo" : "",
+"hi52" : "41.40",
+"lo52" : "16.50",
+"mc" : "5.49B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-2.10",
+"dy" : "",
+"ldiv" : "",
+"shares" : "195.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "13656884",
+"name" : "Shiva Cement Ltd",
+"t" : "532323",
+"e" : "BOM",
+"l" : "28.30",
+"c" : "+0.35",
+"mc" : "5.49B",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715550",
+"name" : "Shree Digvijay Cement Company Ltd.",
+"t" : "502180",
+"e" : "BOM",
+"l" : "25.60",
+"c" : "-0.35",
+"mc" : "3.61B",
+"cp" : "-1.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "705329",
+"name" : "Bheema Cements Ltd",
+"t" : "518017",
+"e" : "BOM",
+"l" : "9.10",
+"c" : "0.00",
+"mc" : "250.73M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3770372",
+"name" : "JK Lakshmi Cement Limited",
+"t" : "JKLAKSHMI",
+"e" : "NSE",
+"l" : "433.55",
+"c" : "+7.75",
+"mc" : "51.24B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14881101",
+"name" : "Century Textile and Industries Ltd",
+"t" : "CENTURYTEX",
+"e" : "NSE",
+"l" : "1,216.05",
+"c" : "+21.35",
+"mc" : "135.82B",
+"cp" : "1.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4519199",
+"name" : "Anjani Portland Cement Ltd",
+"t" : "518091",
+"e" : "BOM",
+"l" : "198.40",
+"c" : "+6.90",
+"mc" : "5.05B",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715348",
+"name" : "Saurashtra Cement Ltd.",
+"t" : "502175",
+"e" : "BOM",
+"l" : "80.05",
+"c" : "-0.40",
+"mc" : "5.44B",
+"cp" : "-0.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16255299",
+"name" : "UltraTech Cement Ltd",
+"t" : "ULTRACEMCO",
+"e" : "NSE",
+"l" : "4,142.00",
+"c" : "+25.60",
+"mc" : "1.14T",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "714540",
+"name" : "Panyam Cements \u0026 Mineral Industries Ltd.",
+"t" : "500322",
+"e" : "BOM",
+"l" : "47.70",
+"c" : "-0.85",
+"mc" : "803.45M",
+"cp" : "-1.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15601450",
+"name" : "Shri Keshav Cements \u0026 Infra Limited",
+"t" : "530977",
+"e" : "BOM",
+"l" : "164.00",
+"c" : "+3.00",
+"mc" : "840.37M",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6613325",
+"name" : "Ambuja Cements Ltd",
+"t" : "AMBUJACEM",
+"e" : "NSE",
+"l" : "263.20",
+"c" : "+3.00",
+"mc" : "521.02B",
+"cp" : "1.15",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "YY-5, Civil Township, ROURKELA, 769004, India",
+"phone": "+91-661-2400828",
+"fax": "+91-661-2400172",
+"url": "http:\u002F\u002Fwww.shivacement.com\u002F",
+"overview" : "Shiva Cement Limited (SCL) is an India-based company, engaged in the manufacturing and selling of cement \u0026 its allied products. The Company caters to domestic markets. The manufacturing facility is located in Orissa, with raw material and ready markets in the vicinity. It’s marketing place is Odisha, West Bengal, Jharkhand \u0026 Bihar states. These states are historically in cement supply deficit, due to poor availability of Limestone reserve. The Company’s products include, Portland Slag Cement (PSC), Clinker and Limestone Chips. PSC cement is used for general construction purpose. Clinker is marketed to nearby stand-alone cement grinding units. The Company produces typical size of Limestone chips three millimeter to six millimeter as an essential input for Sponge Iron plants for de-sulpherization of steel."
+} ]
+, "management" : [
+{
+"name" : "Rajendra Prasad Gupta",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Girish Menon",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manoj Kumar Rustagi",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Sneha Bindra",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Sutapa Banerjee",
+"title" : "Director"
+}
+,
+{
+"name" : "Narinder Singh Kahlon",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "K. P. Jhunjhunwala",
+"age" : "84",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "B. K. Mangaraj",
+"age" : "66",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "D. K. Senapati",
+"title" : "Non-Executive Independent Director - Nominee of IPICOL"
+}
+]
+,"moreresources" : [
+]
+}]

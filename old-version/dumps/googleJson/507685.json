@@ -1,0 +1,295 @@
+
+ [
+{
+"symbol" : "507685",
+"exchange" : "BOM",
+"id": "680903",
+"t" : "507685",
+"e" : "BOM",
+"name" : "Wipro Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:507685"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:507685"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:507685"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.16%",
+"annual" : "15.47%",
+"ttm" : "15.49%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.47%",
+"annual" : "17.06%",
+"ttm" : "16.40%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.83%",
+"ttm" : "19.65%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "9.80%",
+"annual" : "11.22%",
+"ttm" : "11.00%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "15.04%",
+"annual" : "17.23%",
+"ttm" : "17.34%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "160,000",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.15",
+"l" : "292.00",
+"cp" : "-0.73",
+"ccol" : "chr",
+"op" : "295.00",
+"hi" : "295.45",
+"lo" : "290.60",
+"vo" : "118,276.00",
+"avvo" : "",
+"hi52" : "334.75",
+"lo52" : "240.05",
+"mc" : "1.33T",
+"pe" : "16.70",
+"fwpe" : "",
+"beta" : "",
+"eps" : "17.48",
+"dy" : "0.34",
+"ldiv" : "1.00",
+"shares" : "4.52B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "680903",
+"name" : "Wipro Limited",
+"t" : "507685",
+"e" : "BOM",
+"l" : "292.00",
+"c" : "-2.15",
+"mc" : "1.33T",
+"cp" : "-0.73",
+"ccol" : "chr"
+}
+,
+{
+"id" : "675530",
+"name" : "Infosys Ltd",
+"t" : "INFY",
+"e" : "NSE",
+"l" : "1,139.95",
+"c" : "-15.70",
+"mc" : "2.48T",
+"cp" : "-1.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6285453",
+"name" : "Hexaware Technologies Limited",
+"t" : "HEXAWARE",
+"e" : "NSE",
+"l" : "343.55",
+"c" : "-8.60",
+"mc" : "102.36B",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14805179",
+"name" : "Rolta India Limited",
+"t" : "ROLTA",
+"e" : "NSE",
+"l" : "71.00",
+"c" : "-0.30",
+"mc" : "11.75B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5907309",
+"name" : "Aditya Birla Nuvo Ltd",
+"t" : "ABIRLANUVO",
+"e" : "NSE",
+"l" : "1,880.00",
+"c" : "",
+"mc" : "245.92B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6565540",
+"name" : "Mahindra \u0026 Mahindra Limited",
+"t" : "M\u0026M",
+"e" : "NSE",
+"l" : "735.40",
+"c" : "+16.75",
+"mc" : "912.66B",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3962598",
+"name" : "HCL Infosystems Limited",
+"t" : "HCL-INSYS",
+"e" : "NSE",
+"l" : "62.90",
+"c" : "-1.00",
+"mc" : "20.79B",
+"cp" : "-1.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "675532",
+"name" : "Silverline Technologies Limited",
+"t" : "500389",
+"e" : "BOM",
+"l" : "2.19",
+"c" : "0.00",
+"mc" : "166.53M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "333553226683248",
+"name" : "Cerebra Integrated Technologies Ltd",
+"t" : "CEREBRAINT",
+"e" : "NSE",
+"l" : "61.30",
+"c" : "-0.15",
+"mc" : "7.34B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10839801",
+"name" : "COSYN Ltd",
+"t" : "538922",
+"e" : "BOM",
+"l" : "87.25",
+"c" : "-2.30",
+"mc" : "658.42M",
+"cp" : "-2.57",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13517186",
+"name" : "Gemini Communications Ltd.",
+"t" : "GEMINI",
+"e" : "NSE",
+"l" : "1.50",
+"c" : "+0.05",
+"mc" : "179.65M",
+"cp" : "3.45",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Survey #76P \u0026 #80P Doddakanahalli Villag Varthur Hobli Sarjapur Rd Bangalore, BANGALORE, 560035, India",
+"phone": "+91-80-28440011",
+"fax": "+91-80-28440051",
+"url": "http:\u002F\u002Fwww.wipro.com",
+"overview" : "Wipro Limited (Wipro) is a global information technology (IT) services provider. It operates through two segments: IT Services and IT Products. The Company\u0027s IT Services business provides a range of IT and IT-enabled services, which include digital strategy advisory, customer centric design, technology consulting, IT consulting, custom application design, development, re-engineering and maintenance, systems integration, package implementation, global infrastructure services, analytics services, business process services, research and development and hardware and software design. The IT Products segment provides a range of third-party IT products, which allows it to offer IT system integration services. Its products include computing, Platforms and Storage, Networking Solutions, Enterprise Information Security, and software products, including databases and operating systems. The Company is a reseller of third-party enterprise products through its direct sales force."
+} ]
+, "management" : [
+{
+"name" : "Azim H. Premji",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Abidali Z. Neemuchwala",
+"age" : "49",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "Jatin Pravinchandra Dalal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "M. Sanaulla Khan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rishad Azim Premji",
+"age" : "40",
+"title" : "Executive Director, Chief Strategy Officer"
+}
+,
+{
+"name" : "Patrick Lucien Andre Dupuis",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Patrick J. Ennis",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ashok Sekhar Ganguly",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "William Arthur Owens",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Mahendra Kumar Sharma",
+"age" : "70",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

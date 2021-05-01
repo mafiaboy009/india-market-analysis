@@ -1,0 +1,295 @@
+
+// [
+{
+"symbol" : "532488",
+"exchange" : "BOM",
+"id": "687480",
+"t" : "532488",
+"e" : "BOM",
+"name" : "Divi\u0027s Laboratories Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532488"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532488"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532488"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002715)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "28.20%",
+"annual" : "25.82%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "33.46%",
+"annual" : "33.19%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "36.19%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "19.17%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "21.98%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "9,735",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-13.40",
+"l" : "1,036.15",
+"cp" : "-1.28",
+"ccol" : "chr",
+"op" : "1,059.05",
+"hi" : "1,062.65",
+"lo" : "1,032.55",
+"vo" : "147,387.00",
+"avvo" : "",
+"hi52" : "1,141.75",
+"lo52" : "533.10",
+"mc" : "275.83B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "0.97",
+"ldiv" : "10.00",
+"shares" : "265.47M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "687480",
+"name" : "Divi\u0027s Laboratories Ltd",
+"t" : "532488",
+"e" : "BOM",
+"l" : "1,036.15",
+"c" : "-13.40",
+"mc" : "275.83B",
+"cp" : "-1.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3678877",
+"name" : "Jagsonpal Pharmaceuticals Ltd",
+"t" : "JAGSNPHARM",
+"e" : "NSE",
+"l" : "32.55",
+"c" : "+0.35",
+"mc" : "854.07M",
+"cp" : "1.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5394531",
+"name" : "Neuland Laboratories Ltd.",
+"t" : "NEULANDLAB",
+"e" : "NSE",
+"l" : "707.35",
+"c" : "+0.70",
+"mc" : "6.28B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "656764725561489",
+"name" : "Lasa Supergenerics Ltd",
+"t" : "LASA",
+"e" : "NSE",
+"l" : "121.40",
+"c" : "-6.35",
+"mc" : "2.78B",
+"cp" : "-4.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10555516",
+"name" : "Lupin Limited",
+"t" : "LUPIN",
+"e" : "NSE",
+"l" : "822.00",
+"c" : "+14.50",
+"mc" : "370.74B",
+"cp" : "1.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6286747",
+"name" : "Anuh Pharma Ltd",
+"t" : "506260",
+"e" : "BOM",
+"l" : "169.00",
+"c" : "-0.05",
+"mc" : "4.19B",
+"cp" : "-0.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6462769",
+"name" : "Torrent Pharmaceuticals Ltd",
+"t" : "TORNTPHARM",
+"e" : "NSE",
+"l" : "1,357.35",
+"c" : "+20.80",
+"mc" : "227.74B",
+"cp" : "1.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3249843",
+"name" : "IPCA Laboratories Ltd",
+"t" : "IPCALAB",
+"e" : "NSE",
+"l" : "672.75",
+"c" : "0.00",
+"mc" : "84.49B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13914165",
+"name" : "Strides Shasun Ltd",
+"t" : "STAR",
+"e" : "NSE",
+"l" : "710.00",
+"c" : "+16.50",
+"mc" : "63.59B",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11492859",
+"name" : "Sanofi India Ltd",
+"t" : "SANOFI",
+"e" : "NSE",
+"l" : "4,924.00",
+"c" : "+98.05",
+"mc" : "112.84B",
+"cp" : "2.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16302121",
+"name" : "Fresenius Kabi Oncology Ltd",
+"t" : "FKONCO",
+"e" : "NSE",
+"l" : "132.45",
+"c" : "-0.05",
+"mc" : "20.96B",
+"cp" : "-0.04",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "1-72\u002F23(P)\u002FDivis\u002F303 , Divi Towers, Cyber Hills, Gachibowli,, HYDERABAD, 500032, India",
+"phone": "+91-40-23786300",
+"fax": "+91-40-23786460",
+"url": "http:\u002F\u002Fwww.divislabs.com\u002F",
+"overview" : "Divi\u0027s Laboratories Limited is engaged in manufacturing and sale of active pharmaceutical ingredients (APIs) and Intermediates. The Company\u0027s geographical segments include India (Sales to customers within India) and other countries (Sales to customers outside India). Its products include Generic APIs, Intermediates, Peptide Building Blocks and Carotenoids. It is also involved in developing alternate, non-infringing processes for APIs, for the inventors to manage late life cycle and generic drug manufacturers. The Company develops carotenoids, such as Apocarotenal, Betacarotene, Lycopene, Astaxanthin and Canthaxanthin. It manufactures tert-butoxycarbonyl (BOC), Fluorenylmethyloxycarbonyl (FMOC) and Carboxybenzyl (CBZ) protected amino acids. It manufactures ligands, such as binol and binap. The Company exports its products to European and the American countries. Its manufacturing and research and development facilities are located in the State of Andhra Pradesh and Telangana in India."
+} ]
+, "management" : [
+{
+"name" : "Murali Krishna Prasad Divi",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "L. Kishore Babu",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "P. V. Lakshmi Rajani",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kiran Satchandra Divi",
+"age" : "40",
+"title" : "Director \u0026 President - Operations, Executive Director"
+}
+,
+{
+"name" : "Madhusudana Rao Divi",
+"age" : "73",
+"title" : "Director - Projects, Executive Director"
+}
+,
+{
+"name" : "Nilama Motaparti",
+"title" : "Additional Whole Time Director"
+}
+,
+{
+"name" : "N. V. Ramana",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "S Ganapaty",
+"age" : "64",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Ramesh B. V. Nimmagadda",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "G. Suresh Kumar",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

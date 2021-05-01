@@ -1,0 +1,386 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 156228878336,
+            "fmt": "156.23B",
+            "longFmt": "156,228,878,336"
+          },
+          "forwardPE": {
+            "raw": 45.923252,
+            "fmt": "45.92"
+          },
+          "profitMargins": {
+            "raw": -0.026659999,
+            "fmt": "-2.67%"
+          },
+          "floatShares": {
+            "raw": 62454202,
+            "fmt": "62.45M",
+            "longFmt": "62,454,202"
+          },
+          "sharesOutstanding": {
+            "raw": 121566000,
+            "fmt": "121.57M",
+            "longFmt": "121,566,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.054075,
+            "fmt": "-0.05"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 131.373,
+            "fmt": "131.37"
+          },
+          "priceToBook": {
+            "raw": 9.427736,
+            "fmt": "9.43"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1151625600,
+            "fmt": "2006-06-30"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -236610000,
+            "fmt": "-236.61M",
+            "longFmt": "-236,610,000"
+          },
+          "trailingEps": {
+            "raw": -1.96,
+            "fmt": "-1.96"
+          },
+          "forwardEps": {
+            "raw": 26.97,
+            "fmt": "26.97"
+          },
+          "pegRatio": {
+            "raw": 0.24,
+            "fmt": "0.24"
+          },
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1340323200,
+            "fmt": "2012-06-22"
+          },
+          "enterpriseToRevenue": {
+            "raw": 17.601,
+            "fmt": "17.60"
+          },
+          "enterpriseToEbitda": {
+            "raw": 89.425,
+            "fmt": "89.43"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 3.15,
+                  "fmt": "3.15"
+                },
+                "estimate": {
+                  "raw": 4.38,
+                  "fmt": "4.38"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 5.24,
+                  "fmt": "5.24"
+                },
+                "estimate": {
+                  "raw": 4.46,
+                  "fmt": "4.46"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 6.75,
+                  "fmt": "6.75"
+                },
+                "estimate": {
+                  "raw": 5.5,
+                  "fmt": "5.50"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 5.72,
+                  "fmt": "5.72"
+                },
+                "estimate": {
+                  "raw": 4.99,
+                  "fmt": "4.99"
+                }
+              }
+            ],
+            "currentQuarterEstimate": {
+              "raw": 5.5,
+              "fmt": "5.50"
+            },
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 5672240000,
+                  "fmt": "5.67B",
+                  "longFmt": "5,672,240,000"
+                },
+                "earnings": {
+                  "raw": 896650000,
+                  "fmt": "896.65M",
+                  "longFmt": "896,650,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 7324900000,
+                  "fmt": "7.32B",
+                  "longFmt": "7,324,900,000"
+                },
+                "earnings": {
+                  "raw": 240600000,
+                  "fmt": "240.6M",
+                  "longFmt": "240,600,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 7475120000,
+                  "fmt": "7.48B",
+                  "longFmt": "7,475,120,000"
+                },
+                "earnings": {
+                  "raw": 1355800000,
+                  "fmt": "1.36B",
+                  "longFmt": "1,355,800,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 8876310000,
+                  "fmt": "8.88B",
+                  "longFmt": "8,876,310,000"
+                },
+                "earnings": {
+                  "raw": -236610000,
+                  "fmt": "-236.61M",
+                  "longFmt": "-236,610,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2006",
+                "revenue": {
+                  "raw": 279180000,
+                  "fmt": "279.18M",
+                  "longFmt": "279,180,000"
+                },
+                "earnings": {
+                  "raw": 52230000,
+                  "fmt": "52.23M",
+                  "longFmt": "52,230,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "B-8, Sector-132",
+          "city": "Noida",
+          "zip": "201304",
+          "country": "India",
+          "phone": "91 12 0484 1100",
+          "fax": "91 12 0308 2095",
+          "website": "http://www.infoedge.in",
+          "industry": "Internet Information Providers",
+          "sector": "Technology",
+          "longBusinessSummary": "Info Edge (India) Limited operates as an on-line classifieds company in the areas of recruitment, matrimony, real estate, education, and related services in India and internationally. The company offers recruitment services through naukri.com, an online job Website for job seekers and corporate customers, including hiring consultants/firms; firstnaukri.com, a fresher hiring site; naukrigulf.com, a jobsite that focuses on the middle-east job markets; and quadranglesearch.com, a site that provides off-line placement services to middle and senior management. It also provides 99acres.com, which offers listing of properties for sale, purchase, and rent; and Jeevansathi.com, a site for matrimony related services. In addition, the company offers shiksha.com, an education classified Website; meritnation.com, which offers kindergarten to class 12 study material; and canvera.com, which provides solutions to professional photographers, as well as TV commercial services. Further, it provides brokerage services in the real estate sector; and operates an online food guide portal, zomato.com. The company was incorporated in 1995 and is based in Noida, India.",
+          "fullTimeEmployees": 951,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1238.55,
+            "fmt": "1,238.55"
+          },
+          "targetHighPrice": {
+            "raw": 1900.0,
+            "fmt": "1,900.00"
+          },
+          "targetLowPrice": {
+            "raw": 830.0,
+            "fmt": "830.00"
+          },
+          "targetMeanPrice": {
+            "raw": 1378.04,
+            "fmt": "1,378.04"
+          },
+          "targetMedianPrice": {
+            "raw": 1334.0,
+            "fmt": "1,334.00"
+          },
+          "recommendationMean": {
+            "raw": 2.5,
+            "fmt": "2.50"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 25,
+            "fmt": "25",
+            "longFmt": "25"
+          },
+          "totalCash": {
+            "raw": 506070016,
+            "fmt": "506.07M",
+            "longFmt": "506,070,016"
+          },
+          "totalCashPerShare": {
+            "raw": 4.175,
+            "fmt": "4.18"
+          },
+          "ebitda": {
+            "raw": 1747030016,
+            "fmt": "1.75B",
+            "longFmt": "1,747,030,016"
+          },
+          "totalDebt": {
+            "raw": 2450000,
+            "fmt": "2.45M",
+            "longFmt": "2,450,000"
+          },
+          "quickRatio": {
+            "raw": 3.047,
+            "fmt": "3.05"
+          },
+          "currentRatio": {
+            "raw": 3.085,
+            "fmt": "3.09"
+          },
+          "totalRevenue": {
+            "raw": 8876309504,
+            "fmt": "8.88B",
+            "longFmt": "8,876,309,504"
+          },
+          "debtToEquity": {
+            "raw": 0.82,
+            "fmt": "0.82"
+          },
+          "revenuePerShare": {
+            "raw": 73.422,
+            "fmt": "73.42"
+          },
+          "returnOnAssets": {
+            "raw": 0.04539,
+            "fmt": "4.54%"
+          },
+          "returnOnEquity": {
+            "raw": -0.027520001,
+            "fmt": "-2.75%"
+          },
+          "grossProfits": {
+            "raw": 3905470000,
+            "fmt": "3.91B",
+            "longFmt": "3,905,470,000"
+          },
+          "freeCashflow": {
+            "raw": 2038266240,
+            "fmt": "2.04B",
+            "longFmt": "2,038,266,240"
+          },
+          "operatingCashflow": {
+            "raw": 2132560000,
+            "fmt": "2.13B",
+            "longFmt": "2,132,560,000"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.43999,
+            "fmt": "44.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.19681999,
+            "fmt": "19.68%"
+          },
+          "operatingMargins": {
+            "raw": 0.16306,
+            "fmt": "16.31%"
+          },
+          "profitMargins": {
+            "raw": -0.026659999,
+            "fmt": "-2.67%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

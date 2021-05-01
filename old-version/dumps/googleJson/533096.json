@@ -1,0 +1,275 @@
+
+ [
+{
+"symbol" : "533096",
+"exchange" : "BOM",
+"id": "728392",
+"t" : "533096",
+"e" : "BOM",
+"name" : "Adani Power Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533096"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533096"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533096"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-26.43%",
+"annual" : "-27.10%",
+"ttm" : "-27.96%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.14%",
+"annual" : "-3.38%",
+"ttm" : "-5.47%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "26.25%",
+"ttm" : "24.94%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-8.38%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-117.97%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,220",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.55",
+"l" : "32.65",
+"cp" : "1.71",
+"ccol" : "chg",
+"op" : "32.40",
+"hi" : "33.05",
+"lo" : "31.75",
+"vo" : "1.32M",
+"avvo" : "",
+"hi52" : "47.75",
+"lo52" : "25.90",
+"mc" : "126.32B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-17.33",
+"dy" : "",
+"ldiv" : "",
+"shares" : "3.86B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "728392",
+"name" : "Adani Power Ltd",
+"t" : "533096",
+"e" : "BOM",
+"l" : "32.65",
+"c" : "+0.55",
+"mc" : "126.32B",
+"cp" : "1.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "964474125236560",
+"name" : "Adani Transmission Ltd",
+"t" : "ADANITRANS",
+"e" : "NSE",
+"l" : "208.50",
+"c" : "-0.90",
+"mc" : "229.47B",
+"cp" : "-0.43",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16032883",
+"name" : "CESC Ltd",
+"t" : "CESC",
+"e" : "NSE",
+"l" : "1,017.00",
+"c" : "+15.30",
+"mc" : "134.54B",
+"cp" : "1.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12998886",
+"name" : "KSK Energy Ventures Limited",
+"t" : "KSK",
+"e" : "NSE",
+"l" : "11.75",
+"c" : "-0.60",
+"mc" : "4.94B",
+"cp" : "-4.86",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6709566",
+"name" : "NTPC Limited",
+"t" : "NTPC",
+"e" : "NSE",
+"l" : "162.50",
+"c" : "-1.05",
+"mc" : "1.34T",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "717049",
+"name" : "Suryachakra Power Corporation Limited",
+"t" : "532874",
+"e" : "BOM",
+"l" : "1.04",
+"c" : "-0.05",
+"mc" : "155.62M",
+"cp" : "-4.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "958932",
+"name" : "Adani Enterprises Ltd",
+"t" : "ADANIENT",
+"e" : "NSE",
+"l" : "205.35",
+"c" : "+1.00",
+"mc" : "225.96B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13687989",
+"name" : "Gujarat Industries Power Company Limited",
+"t" : "GIPCL",
+"e" : "NSE",
+"l" : "114.80",
+"c" : "-1.45",
+"mc" : "17.27B",
+"cp" : "-1.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1374673",
+"name" : "Nava Bharat Ventures Limited",
+"t" : "NBVENTURES",
+"e" : "NSE",
+"l" : "152.00",
+"c" : "+0.60",
+"mc" : "26.86B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6633977",
+"name" : "NLC India Ltd",
+"t" : "NLCINDIA",
+"e" : "NSE",
+"l" : "99.85",
+"c" : "-0.10",
+"mc" : "152.55B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13137259",
+"name" : "Time Technoplast Limited",
+"t" : "TIMETECHNO",
+"e" : "NSE",
+"l" : "182.20",
+"c" : "-1.15",
+"mc" : "41.40B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Achalraj,Opp Mayor Bungalow,Law Garden, AHMEDABAD, 380006, India",
+"phone": "+91-79-25557555",
+"fax": "+91-79-25557177",
+"url": "http:\u002F\u002Fwww.adanipower.com\u002F",
+"overview" : "Adani Power Limited is a holding company. The Company is engaged in providing electric power generation by coal-based thermal power plants and coal trading. Its business activity is undertaken at Mundra Thermal Power Plant of the Company in Gujarat and Thermal Power Plant of its subsidiaries at Tiroda (Maharashtra), at Kawai (Rajasthan) and at Udupi (Karnataka). It has approximately five power projects. The Company operates an aggregate of approximately 10,480 megawatts generation capacity comprising of over 4,620 megawatts at Mundra\u003B approximately 3,300 megawatts at Tiroda\u003B over 1,320 megawatts at Kawai\u003B approximately 1,200 megawatts at Udupi, and over 40 megawatts (solar) at Kutch, Gujarat. It focuses to sell the power generated from these projects under a combination of long term Power Purchase Agreements and on merchant basis. Its subsidiaries include Adani Power Maharashtra Limited, Adani Power Rajasthan Limited, Udupi Power Corporation Limited and Adani Power Resources Limited."
+} ]
+, "management" : [
+{
+"name" : "Vinod Bhandawat",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Deepak Pandya",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajesh Shantilal Adani",
+"age" : "52",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Vneet S. Jaain",
+"age" : "44",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Gautam S. Adani",
+"age" : "55",
+"title" : "Non-Executive Non-Independent Chairman of the Board"
+}
+,
+{
+"name" : "Nandita Nagpal Vohra",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

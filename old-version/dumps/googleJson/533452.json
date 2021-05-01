@@ -1,0 +1,284 @@
+
+ [
+{
+"symbol" : "533452",
+"exchange" : "BOM",
+"id": "2834646",
+"t" : "533452",
+"e" : "BOM",
+"name" : "Weizmann Forex Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533452"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533452"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533452"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.45%",
+"annual" : "0.39%",
+"ttm" : "0.46%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "0.59%",
+"annual" : "0.85%",
+"ttm" : "0.80%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.94%",
+"ttm" : "0.90%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.66%",
+"ttm" : "8.19%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "21.06%",
+"ttm" : "16.51%"
+}
+]
+, "c" : "-18.40",
+"l" : "1,025.00",
+"cp" : "-1.76",
+"ccol" : "chr",
+"op" : "1,086.50",
+"hi" : "1,086.50",
+"lo" : "1,025.00",
+"vo" : "1,105.00",
+"avvo" : "",
+"hi52" : "1,640.25",
+"lo52" : "216.50",
+"mc" : "11.93B",
+"pe" : "80.21",
+"fwpe" : "",
+"beta" : "",
+"eps" : "12.78",
+"dy" : "0.29",
+"ldiv" : "3.00",
+"shares" : "11.56M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2834646",
+"name" : "Weizmann Forex Ltd",
+"t" : "533452",
+"e" : "BOM",
+"l" : "1,025.00",
+"c" : "-18.40",
+"mc" : "11.93B",
+"cp" : "-1.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "404197035331543",
+"name" : "Goenka Business \u0026 Finance Ltd",
+"t" : "538787",
+"e" : "BOM",
+"l" : "77.80",
+"c" : "-1.55",
+"mc" : "1.01B",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "368706764708701",
+"name" : "GCM Securities Ltd",
+"t" : "535431",
+"e" : "BOM",
+"l" : "14.65",
+"c" : "0.00",
+"mc" : "2.78B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3835053",
+"name" : "Inventure Growth and Securities Ltd",
+"t" : "INVENTURE",
+"e" : "NSE",
+"l" : "17.65",
+"c" : "+0.40",
+"mc" : "1.45B",
+"cp" : "2.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8937893",
+"name" : "Confidence Finance and Trading Ltd",
+"t" : "504340",
+"e" : "BOM",
+"l" : "4.90",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1319328",
+"name" : "Explicit Finance Ltd",
+"t" : "530571",
+"e" : "BOM",
+"l" : "2.62",
+"c" : "0.00",
+"mc" : "24.28M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "906980035074388",
+"name" : "BlueBlood Ventures Ltd",
+"t" : "539637",
+"e" : "BOM",
+"l" : "31.50",
+"c" : "+2.30",
+"mc" : "",
+"cp" : "7.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9532709",
+"name" : "Munoth Capital Markets Ltd",
+"t" : "511200",
+"e" : "BOM",
+"l" : "63.20",
+"c" : "0.00",
+"mc" : "568.23M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "633019395133539",
+"name" : "RSD Finance Ltd",
+"t" : "539875",
+"e" : "BOM",
+"l" : "75.00",
+"c" : "0.00",
+"mc" : "485.49M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "722862",
+"name" : "Monarch Networth Capital Ltd",
+"t" : "511551",
+"e" : "BOM",
+"l" : "72.00",
+"c" : "-0.90",
+"mc" : "2.18B",
+"cp" : "-1.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9113181",
+"name" : "Geojit Financial Services Ltd",
+"t" : "GEOJITFSL",
+"e" : "NSE",
+"l" : "98.55",
+"c" : "+0.20",
+"mc" : "23.07B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "#50, Millenium Towers, Queens Road, BANGALORE, 560051, India",
+"phone": "+91-80-22861597",
+"fax": "+91-80-22861592",
+"url": "https:\u002F\u002Fwww.weizmannforex.com\u002F",
+"overview" : "Provides foreign exchange services. The Company provides foreign exchange services to Indian corporations, multinational corporations, exporters, importers, leisure companies, and travelers in India. The Company offers foreign currencies, travel money, travelers cheques, travel currency cards, and money cards, as well as money transfer and encashment services for travel needs\u003B and issues foreign exchange for medical treatment, overseas education, immigration, employment, and film shoots. Weizmann Forex also remits money abroad for the purchase of overseas tour arrangements, education, examinations, subscriptions and medical treatment. The Company distributes life, health, fire, marine, motor, liability, and travel insurance products, as well as mutual funds. The Company was founded in 1993 and is based in Bengaluru, India. Weizmann Forex Limited operates as a subsidiary of Weizmann Ltd."
+} ]
+, "management" : [
+{
+"name" : "Shridevi Vungarala",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Smita V. Davda",
+"title" : "Vice President, Non Independent Director"
+}
+,
+{
+"name" : "B Karthikeyan",
+"title" : "Managing Director"
+}
+,
+{
+"name" : "Balady Shekar Shetty",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Dharmendra Gulabchand Siraj",
+"age" : "65",
+"title" : "Non-Executive Non-Independent Chairman of the Board"
+}
+,
+{
+"name" : "Chetan Durgadas Mehra",
+"title" : "Non-Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Hitesh V. Siraj",
+"age" : "48",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Neelkamal Vrajlal Siraj",
+"age" : "63",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Nakul Chopra",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

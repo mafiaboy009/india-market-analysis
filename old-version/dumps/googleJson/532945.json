@@ -1,0 +1,289 @@
+
+ [
+{
+"symbol" : "532945",
+"exchange" : "BOM",
+"id": "719809",
+"t" : "532945",
+"e" : "BOM",
+"name" : "Shriram EPC Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532945"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532945"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532945"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.78%",
+"annual" : "-29.33%",
+"ttm" : "-1.71%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.09%",
+"annual" : "2.53%",
+"ttm" : "3.51%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.90%",
+"ttm" : "4.02%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-7.26%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-21.46%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "653",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.55",
+"l" : "32.10",
+"cp" : "8.63",
+"ccol" : "chg",
+"op" : "30.45",
+"hi" : "33.10",
+"lo" : "30.00",
+"vo" : "242,772.00",
+"avvo" : "",
+"hi52" : "35.50",
+"lo52" : "17.20",
+"mc" : "31.13B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.27",
+"dy" : "",
+"ldiv" : "",
+"shares" : "971.53M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "719809",
+"name" : "Shriram EPC Limited",
+"t" : "532945",
+"e" : "BOM",
+"l" : "32.10",
+"c" : "+2.55",
+"mc" : "31.13B",
+"cp" : "8.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "631678",
+"name" : "Technofab Engineering",
+"t" : "TECHNOFAB",
+"e" : "NSE",
+"l" : "235.00",
+"c" : "+4.90",
+"mc" : "2.46B",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "620277",
+"name" : "Neueon Towers Ltd",
+"t" : "NTL",
+"e" : "NSE",
+"l" : "3.80",
+"c" : "-0.20",
+"mc" : "209.63M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8350602",
+"name" : "Veer Energy \u0026 Infrastructure Ltd",
+"t" : "503657",
+"e" : "BOM",
+"l" : "30.30",
+"c" : "+0.75",
+"mc" : "338.86M",
+"cp" : "2.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9964748",
+"name" : "Jyoti Structures Limited",
+"t" : "JYOTISTRUC",
+"e" : "NSE",
+"l" : "10.75",
+"c" : "+0.50",
+"mc" : "1.17B",
+"cp" : "4.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15284677",
+"name" : "Kalpataru Power Transmission Limited",
+"t" : "KALPATPOWR",
+"e" : "NSE",
+"l" : "483.00",
+"c" : "+22.35",
+"mc" : "73.82B",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4804197",
+"name" : "A2z Infra Engineering Ltd",
+"t" : "A2ZINFRA",
+"e" : "NSE",
+"l" : "34.85",
+"c" : "+1.05",
+"mc" : "5.07B",
+"cp" : "3.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "730951",
+"name" : "BS Ltd",
+"t" : "BSLIMITED",
+"e" : "NSE",
+"l" : "1.30",
+"c" : "+0.05",
+"mc" : "552.10M",
+"cp" : "4.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715522",
+"name" : "Techno Electric \u0026 Engineering. Co., Ltd.",
+"t" : "TECHNO",
+"e" : "NSE",
+"l" : "367.00",
+"c" : "+7.60",
+"mc" : "41.29B",
+"cp" : "2.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12319999",
+"name" : "GTL Infrastructure Limited",
+"t" : "GTLINFRA",
+"e" : "NSE",
+"l" : "5.15",
+"c" : "+0.05",
+"mc" : "63.06B",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "28179114825360",
+"name" : "Sharika Enterprises Ltd",
+"t" : "540786",
+"e" : "BOM",
+"l" : "55.25",
+"c" : "+3.75",
+"mc" : "598.08M",
+"cp" : "7.28",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "1st Floor (Northern Wing), RA Building Rukmini Lakshmipathi Salai(Marshlls Rd) Egmore, CHENNAI, 600008, India",
+"phone": "+91-44-49015678",
+"fax": "+91-44-49005599",
+"url": "http:\u002F\u002Fwww.shriramepc.com\u002F",
+"overview" : "Shriram EPC Limited is a holding company. The Company is a provider of integrated design, engineering, procurement, construction and project management services. The Company operates through three segments: Contracts, Windmill and Trading. The turnkey contracts represent the Company\u0027s engineering, procurement and construction projects business, which includes renewable energy projects, such as biomass-based power plants, metallurgical and process plant projects, and municipal services projects, such as water and wastewater treatment plants, water and sewer infrastructure and pipe rehabilitation. The Company is focused on providing turnkey solutions for ferrous and non-ferrous, cement, aluminum, copper and thermal power plants, water treatment and transmission, renewable energy, and cooling towers and material handling. The Company provides engineering service for all types of mining activities in the field of copper mines, iron mines, coal mines, gold mines and uranium mines."
+} ]
+, "management" : [
+{
+"name" : "Thyagarajan Shivaraman",
+"title" : "Chief Executive Officer, Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "R. S. Chandrasekharan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "K. Suresh",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "M. Amjad Shariff",
+"age" : "56",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Prabhakar Dattatraya Karandikar",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Chandra Ramesh",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sunil Kumar Kolangara",
+"title" : "Non-Independent Non-Executive Director - Nominee of Ascent Capital"
+}
+,
+{
+"name" : "Surender Singh",
+"age" : "57",
+"title" : "Non-Executive Director - Nominee of CDR Lender Bank"
+}
+,
+{
+"name" : "Rangaswamy Sundararajan",
+"title" : "Non-Executive Non-Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "532218",
+"exchange" : "BOM",
+"id": "10691211",
+"t" : "532218",
+"e" : "BOM",
+"name" : "South Indian Bank Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532218"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532218"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532218"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "17.21%",
+"annual" : "16.42%",
+"ttm" : "10.94%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "26.32%",
+"annual" : "25.10%",
+"ttm" : "16.73%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "37.25%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.57%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.03%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "7,405",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.30",
+"l" : "27.15",
+"cp" : "1.12",
+"ccol" : "chg",
+"op" : "27.90",
+"hi" : "27.90",
+"lo" : "26.85",
+"vo" : "838,597.00",
+"avvo" : "",
+"hi52" : "34.75",
+"lo52" : "19.65",
+"mc" : "49.02B",
+"pe" : "15.87",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.71",
+"dy" : "1.47",
+"ldiv" : "0.40",
+"shares" : "1.81B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10691211",
+"name" : "South Indian Bank Limited",
+"t" : "532218",
+"e" : "BOM",
+"l" : "27.15",
+"c" : "+0.30",
+"mc" : "49.02B",
+"cp" : "1.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "333651",
+"name" : "Punjab National Bank",
+"t" : "PNB",
+"e" : "NSE",
+"l" : "111.90",
+"c" : "-1.55",
+"mc" : "271.30B",
+"cp" : "-1.37",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12575761",
+"name" : "Indian Bank",
+"t" : "INDIANB",
+"e" : "NSE",
+"l" : "324.00",
+"c" : "+6.00",
+"mc" : "155.61B",
+"cp" : "1.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12144084",
+"name" : "DCB Bank Ltd",
+"t" : "DCBBANK",
+"e" : "NSE",
+"l" : "168.25",
+"c" : "+3.95",
+"mc" : "51.76B",
+"cp" : "2.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7445850",
+"name" : "LKP Finance Ltd",
+"t" : "507912",
+"e" : "BOM",
+"l" : "118.00",
+"c" : "+2.65",
+"mc" : "1.43B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6038505",
+"name" : "Dhanlaxmi Bank Limited",
+"t" : "DHANBANK",
+"e" : "NSE",
+"l" : "22.85",
+"c" : "-0.25",
+"mc" : "5.78B",
+"cp" : "-1.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3473026",
+"name" : "Karnataka Bank Limited",
+"t" : "KTKBANK",
+"e" : "NSE",
+"l" : "135.60",
+"c" : "+2.15",
+"mc" : "38.25B",
+"cp" : "1.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13082940",
+"name" : "HDFC Bank Limited",
+"t" : "HDFCBANK",
+"e" : "NSE",
+"l" : "1,912.50",
+"c" : "+31.95",
+"mc" : "4.97T",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5674106",
+"name" : "Yes Bank Limited",
+"t" : "YESBANK",
+"e" : "NSE",
+"l" : "324.35",
+"c" : "+0.90",
+"mc" : "746.27B",
+"cp" : "0.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15880885",
+"name" : "Karur Vysya Bank Ltd",
+"t" : "KARURVYSYA",
+"e" : "NSE",
+"l" : "110.50",
+"c" : "+0.40",
+"mc" : "80.73B",
+"cp" : "0.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "127191416119801",
+"name" : "RBL Bank Ltd",
+"t" : "RBLBANK",
+"e" : "NSE",
+"l" : "494.10",
+"c" : "+6.10",
+"mc" : "207.19B",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Branch Trichur West Ambika Arcade P B No 70, Mg Road, THRICHUR, 680001, India",
+"phone": "+91-487-2420020",
+"fax": "+91-487-2442021",
+"url": "https:\u002F\u002Fwww.southindianbank.com\u002F",
+"overview" : "The South Indian Bank Limited (the Bank) provides retail and corporate banking, Para banking activities, such as debit card, third-party product distribution, in addition to Treasury and Foreign Exchange Business. The Bank\u0027s segments include Treasury, Corporate\u002FWholesale Banking, Retail banking and Other Banking Operations. The treasury services segment consists of interest earnings on investments portfolio of the Bank, gains or losses on investment operations and earnings from foreign exchange business. The Corporate\u002FWholesale Banking segment provides loans to corporate segment. The Retail Banking segment provides loans to non-corporate customers. The Other Banking Operations segment includes income from para banking activities, such as debit cards, third-party product distribution and associated costs. The Bank has a network of approximately 830 branches, approximately 40 extension counters and approximately 1,290 automated teller machines (ATMs) in India."
+} ]
+, "management" : [
+{
+"name" : "V. G. Mathew",
+"title" : "Chief Executive Officer, Managing Director, Whole-time Director"
+}
+,
+{
+"name" : "C. P. Gireesh",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Jimmy Mathew",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "N. A. Murali",
+"title" : "General Manager"
+}
+,
+{
+"name" : "T. J. Raphael",
+"title" : "General Manager"
+}
+,
+{
+"name" : "John Thomas",
+"title" : "General Manager"
+}
+,
+{
+"name" : "A. G. Varughese",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Abraham K. George",
+"title" : "Deputy General Manager"
+}
+,
+{
+"name" : "Benoy Varghese",
+"title" : "Deputy General Manager"
+}
+,
+{
+"name" : "V. A. Joseph",
+"title" : "Whole Time Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,210 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 142070368,
+            "fmt": "142.07M",
+            "longFmt": "142,070,368"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.19847,
+            "fmt": "19.85%"
+          },
+          "floatShares": {
+            "raw": 2192576,
+            "fmt": "2.19M",
+            "longFmt": "2,192,576"
+          },
+          "sharesOutstanding": {
+            "raw": 6970100,
+            "fmt": "6.97M",
+            "longFmt": "6,970,100"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.126135,
+            "fmt": "1.13"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 16.382,
+            "fmt": "16.38"
+          },
+          "priceToBook": {
+            "raw": 0.49993894,
+            "fmt": "0.50"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 3422062,
+            "fmt": "3.42M",
+            "longFmt": "3,422,062"
+          },
+          "trailingEps": {
+            "raw": 0.498,
+            "fmt": "0.50"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 8.24,
+            "fmt": "8.24"
+          },
+          "enterpriseToEbitda": {
+            "raw": 19.965,
+            "fmt": "19.97"
+          },
+          "52WeekChange": {
+            "raw": -0.082352936,
+            "fmt": "-8.24%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Vyom Arcade",
+          "address2": "5th Floor, Tejpal Scheme Road No.5 Above United Bank of India Vile Parle (East)",
+          "city": "Mumbai",
+          "zip": "400057",
+          "country": "India",
+          "phone": "91 22 6145 3300",
+          "fax": "91 22 6691 4499",
+          "website": "http://www.tokyofinance.in",
+          "industry": "Credit Services",
+          "sector": "Financial",
+          "longBusinessSummary": "Tokyo Finance Limited engages in the non-banking financial activities in India. The company was incorporated in 1994 and is based in Mumbai, India.",
+          "fullTimeEmployees": 14,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 8.19,
+            "fmt": "8.19"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 429000,
+            "fmt": "429k",
+            "longFmt": "429,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.062,
+            "fmt": "0.06"
+          },
+          "ebitda": {
+            "raw": 7116021,
+            "fmt": "7.12M",
+            "longFmt": "7,116,021"
+          },
+          "totalDebt": {
+            "raw": 77591000,
+            "fmt": "77.59M",
+            "longFmt": "77,591,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 17242204,
+            "fmt": "17.24M",
+            "longFmt": "17,242,204"
+          },
+          "debtToEquity": {
+            "raw": 67.139,
+            "fmt": "67.14"
+          },
+          "revenuePerShare": {
+            "raw": 2.512,
+            "fmt": "2.51"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 16189203,
+            "fmt": "16.19M",
+            "longFmt": "16,189,203"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.133,
+            "fmt": "13.30%"
+          },
+          "grossMargins": {
+            "raw": 1.0,
+            "fmt": "100.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.41271,
+            "fmt": "41.27%"
+          },
+          "operatingMargins": {
+            "raw": 0.4087,
+            "fmt": "40.87%"
+          },
+          "profitMargins": {
+            "raw": 0.19847,
+            "fmt": "19.85%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,263 @@
+
+ [
+{
+"symbol" : "531215",
+"exchange" : "BOM",
+"id": "6476162",
+"t" : "531215",
+"e" : "BOM",
+"name" : "R T S Power Corpn Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=RTSP.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531215"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531215"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531215"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002714)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.25%",
+"annual" : "1.72%",
+"ttm" : "0.05%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.74%",
+"annual" : "6.35%",
+"ttm" : "6.07%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.63%",
+"ttm" : "7.11%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.48%",
+"ttm" : "0.05%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.38%",
+"ttm" : "0.17%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "124",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.00",
+"l" : "58.00",
+"cp" : "1.75",
+"ccol" : "chg",
+"op" : "58.00",
+"hi" : "58.05",
+"lo" : "58.00",
+"vo" : "1,450.00",
+"avvo" : "",
+"hi52" : "68.35",
+"lo52" : "26.10",
+"mc" : "473.77M",
+"pe" : "595.12",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.10",
+"dy" : "",
+"ldiv" : "",
+"shares" : "8.17M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "6476162",
+"name" : "R T S Power Corpn Ltd",
+"t" : "531215",
+"e" : "BOM",
+"l" : "58.00",
+"c" : "+1.00",
+"mc" : "473.77M",
+"cp" : "1.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6744385",
+"name" : "Shilchar Technologies Ltd",
+"t" : "531201",
+"e" : "BOM",
+"l" : "390.00",
+"c" : "+5.00",
+"mc" : "1.49B",
+"cp" : "1.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6638419",
+"name" : "Alfa Transformers Ltd",
+"t" : "517546",
+"e" : "BOM",
+"l" : "32.00",
+"c" : "-0.80",
+"mc" : "222.56M",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1659606",
+"name" : "Marsons Ltd",
+"t" : "517467",
+"e" : "BOM",
+"l" : "4.72",
+"c" : "-0.14",
+"mc" : "117.04M",
+"cp" : "-2.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15338302",
+"name" : "Indo Tech Transformers Limited",
+"t" : "INDOTECH",
+"e" : "NSE",
+"l" : "198.80",
+"c" : "+1.45",
+"mc" : "2.11B",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3425782",
+"name" : "CG Power and Industrial Solutions Ltd(P)",
+"t" : "CGPOWER",
+"e" : "NSE",
+"l" : "82.45",
+"c" : "-0.20",
+"mc" : "51.64B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11885845",
+"name" : "Accurate Transformers Ltd",
+"t" : "530513",
+"e" : "BOM",
+"l" : "24.35",
+"c" : "0.00",
+"mc" : "72.94M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8257960",
+"name" : "Tarapur Transformers Ltd",
+"t" : "TARAPUR",
+"e" : "NSE",
+"l" : "6.45",
+"c" : "-0.05",
+"mc" : "125.78M",
+"cp" : "-0.77",
+"ccol" : "chr"
+}
+,
+{
+"id" : "100085",
+"name" : "Voltamp Transformers Limited",
+"t" : "VOLTAMP",
+"e" : "NSE",
+"l" : "1,138.00",
+"c" : "+8.65",
+"mc" : "11.41B",
+"cp" : "0.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2758225",
+"name" : "IMP Powers Ltd",
+"t" : "INDLMETER",
+"e" : "NSE",
+"l" : "103.95",
+"c" : "-0.85",
+"mc" : "898.63M",
+"cp" : "-0.81",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9928106",
+"name" : "ECE Industries Ltd",
+"t" : "ECEIND",
+"e" : "NSE",
+"l" : "362.85",
+"c" : "+10.80",
+"mc" : "2.65B",
+"cp" : "3.07",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "56, Netaji Subhas Road, KOLKATA, 700001, India",
+"phone": "+91-33-22426025",
+"fax": "+91-33-22426732",
+"url": "http:\u002F\u002Fwww.rtspower.com\u002F",
+"overview" : "RTS Power Corporation Limited is engaged in providing power-conversion and power quality solutions. The Company manufactures power, distribution, extra high voltage and dry-type transformers. Its segments include transformers\u003B wind energy\u003B cables and conductors, and others. It manufactures a range of distribution transformers suitable for use in utilities and industries\u003B a range of power transformers between upwards of 1 mega volt ampere to 50 mega volt ampere range with 11\u002F33\u002F66\u002F132 kilo volt class, including two winding, three winding and auto transformers, and dry type transformers from 25 kilo volt ampere up to 2.500 mega volt ampere and 11 kilo volt. It also provides customized solutions for various industries, such as sugar, steel, textiles, real estate and pharmaceuticals, as well as electricity boards. It offers transformers with special features for wind and solar projects. It provides repair and re-engineering of damaged transformers of all makes."
+} ]
+, "management" : [
+{
+"name" : "Rajendra Bhutoria",
+"age" : "56",
+"title" : "Vice Chairman \u0026 Wholetime Director"
+}
+,
+{
+"name" : "Abhay Bhutoria",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Sardul Singh Jain",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Ram Lal Saini",
+"title" : "Non-Executive Non-Independent"
+}
+]
+,"moreresources" : [
+]
+}]

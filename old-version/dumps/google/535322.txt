@@ -1,0 +1,299 @@
+
+// [
+{
+"symbol" : "535322",
+"exchange" : "BOM",
+"id": "531930122472591",
+"t" : "535322",
+"e" : "BOM",
+"name" : "Repco Home Finance Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:535322"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:535322"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:535322"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "17.62%",
+"annual" : "17.45%",
+"ttm" : "17.04%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "27.01%",
+"annual" : "26.67%",
+"ttm" : "25.99%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "27.01%",
+"ttm" : "26.47%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.17%",
+"ttm" : "2.17%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "17.76%",
+"ttm" : "17.30%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "670",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+13.05",
+"l" : "560.20",
+"cp" : "2.39",
+"ccol" : "chg",
+"op" : "550.00",
+"hi" : "566.35",
+"lo" : "546.30",
+"vo" : "13,273.00",
+"avvo" : "",
+"hi52" : "923.00",
+"lo52" : "515.00",
+"mc" : "35.08B",
+"pe" : "22.73",
+"fwpe" : "",
+"beta" : "",
+"eps" : "24.64",
+"dy" : "0.36",
+"ldiv" : "2.00",
+"shares" : "62.56M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "531930122472591",
+"name" : "Repco Home Finance Ltd",
+"t" : "535322",
+"e" : "BOM",
+"l" : "560.20",
+"c" : "+13.05",
+"mc" : "35.08B",
+"cp" : "2.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3626563",
+"name" : "Muthoot Finance Ltd",
+"t" : "MUTHOOTFIN",
+"e" : "NSE",
+"l" : "388.25",
+"c" : "+0.45",
+"mc" : "154.91B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "762746439239580",
+"name" : "Reliance Home Finance Ltd",
+"t" : "RHFL",
+"e" : "NSE",
+"l" : "72.25",
+"c" : "-0.85",
+"mc" : "35.06B",
+"cp" : "-1.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7686660",
+"name" : "Shalibhadra Finance Ltd",
+"t" : "511754",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "-5.35",
+"mc" : "652.09M",
+"cp" : "-3.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1026704",
+"name" : "Magma Fincorp Ltd",
+"t" : "MAGMA",
+"e" : "NSE",
+"l" : "165.05",
+"c" : "+3.15",
+"mc" : "39.09B",
+"cp" : "1.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11734673",
+"name" : "Lakshmi Vilas Bank Ltd.",
+"t" : "LAKSHVILAS",
+"e" : "NSE",
+"l" : "114.45",
+"c" : "-0.55",
+"mc" : "29.32B",
+"cp" : "-0.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "675532",
+"name" : "Silverline Technologies Limited",
+"t" : "500389",
+"e" : "BOM",
+"l" : "2.19",
+"c" : "0.00",
+"mc" : "166.53M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "683767871705564",
+"name" : "SRG Housing Finance Ltd",
+"t" : "534680",
+"e" : "BOM",
+"l" : "301.00",
+"c" : "-4.35",
+"mc" : "3.98B",
+"cp" : "-1.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "894106935924088",
+"name" : "Paul Merchants Ltd",
+"t" : "539113",
+"e" : "BOM",
+"l" : "5,439.20",
+"c" : "+124.85",
+"mc" : "5.60B",
+"cp" : "2.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9257280",
+"name" : "Anar Industries Ltd",
+"t" : "531127",
+"e" : "BOM",
+"l" : "19.00",
+"c" : "0.00",
+"mc" : "190.66M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "310734544955946",
+"name" : "PNB Housing Finance Ltd.",
+"t" : "PNBHOUSING",
+"e" : "NSE",
+"l" : "1,225.00",
+"c" : "+9.60",
+"mc" : "203.32B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Alexander Square , New No : 2,, Sardar Patel Road,Guindy,, CHENNAI, 600032, India",
+"phone": "+91-44-42106650",
+"fax": "+91-44-42106651",
+"url": "https:\u002F\u002Fwww.repcohome.com\u002F",
+"overview" : "Repco Home Finance Limited is an India-based housing finance company. The Company provides a range of home loan products to individual borrowers in both the salaried and non-salaried (self-employed professional and self-employed non-professional) segments to suit various requirements. The Company has presence in two segments: Individual Home Loans and Loans Against Property. The Company\u0027s loans for construction or purchase of house property include Dream Home Loan, Super Loan, Fifty Plus Loan, NRI Housing Loan, New Horizon Loan, Repco - Rural Loan and Repco - Premium Loan. The Company\u0027s loans for repair and renovation\u002Fextension of existing property include Home Makeover Loan. The Company offers loans for purchase of plots, such as Plot Loans. The Company offers loans against property, such as Prosperity loan. The Company has a network of approximately 150 branches\u002Fsatellite centers. The Company also offers Repco - Delight, New Horizon Loan and Commercial Real Estate (CRE) Loan."
+} ]
+, "management" : [
+{
+"name" : "T Karunakaran",
+"age" : "43",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "K Prabhu",
+"age" : "32",
+"title" : "Company Secretary and Compliance Officer"
+}
+,
+{
+"name" : "R. Varadarajan",
+"age" : "60",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "K S Madhukar",
+"age" : "56",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Poonam Sen",
+"age" : "41",
+"title" : "General Manager"
+}
+,
+{
+"name" : "G Ramanujam",
+"age" : "56",
+"title" : "Deputy General Manager"
+}
+,
+{
+"name" : "V Raghu",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "K Ashok",
+"title" : "Chief General Manager"
+}
+,
+{
+"name" : "P. Natarajan",
+"age" : "56",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "K. Pandiarajan",
+"title" : "Assistant General Manager"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,278 @@
+
+ [
+{
+"symbol" : "523606",
+"exchange" : "BOM",
+"id": "16571496",
+"t" : "523606",
+"e" : "BOM",
+"name" : "Sika Interplant Systems Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SIKA.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:523606"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:523606"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:523606"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q2 (Jun \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.77%",
+"annual" : "5.47%",
+"ttm" : "3.83%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.41%",
+"annual" : "5.76%",
+"ttm" : "5.12%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.68%",
+"ttm" : "6.35%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.56%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.58%",
+"ttm" : ""
+}
+]
+, "c" : "+0.95",
+"l" : "169.95",
+"cp" : "0.56",
+"ccol" : "chg",
+"op" : "169.00",
+"hi" : "175.00",
+"lo" : "166.65",
+"vo" : "1,722.00",
+"avvo" : "",
+"hi52" : "285.00",
+"lo52" : "152.00",
+"mc" : "720.62M",
+"pe" : "36.72",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.63",
+"dy" : "0.47",
+"ldiv" : "0.80",
+"shares" : "4.24M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "16571496",
+"name" : "Sika Interplant Systems Ltd",
+"t" : "523606",
+"e" : "BOM",
+"l" : "169.95",
+"c" : "+0.95",
+"mc" : "720.62M",
+"cp" : "0.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8681840",
+"name" : "UMS Technologies Ltd",
+"t" : "530937",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4593144",
+"name" : "Bharat Electronics Ltd",
+"t" : "BEL",
+"e" : "NSE",
+"l" : "155.45",
+"c" : "+4.50",
+"mc" : "381.18B",
+"cp" : "2.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3298553",
+"name" : "Matra Kaushal Enterprise Ltd",
+"t" : "526671",
+"e" : "BOM",
+"l" : "2.36",
+"c" : "0.00",
+"mc" : "476.05M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "706009",
+"name" : "Zen Technologies Limited",
+"t" : "533339",
+"e" : "BOM",
+"l" : "118.50",
+"c" : "+0.65",
+"mc" : "9.16B",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6959690",
+"name" : "Enso Secutrack Limited",
+"t" : "532984",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-6.37",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13578694",
+"name" : "Investment \u0026 Precision Castings Ltd",
+"t" : "504786",
+"e" : "BOM",
+"l" : "440.00",
+"c" : "-0.30",
+"mc" : "2.22B",
+"cp" : "-0.07",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8564924",
+"name" : "Dynamatic Technologies Limited",
+"t" : "DYNAMATECH",
+"e" : "NSE",
+"l" : "1,914.00",
+"c" : "-33.65",
+"mc" : "12.14B",
+"cp" : "-1.73",
+"ccol" : "chr"
+}
+,
+{
+"id" : "422927",
+"name" : "Aplab Ltd",
+"t" : "APLAB",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-19.00",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6204336",
+"name" : "Siemens Ltd",
+"t" : "SIEMENS",
+"e" : "NSE",
+"l" : "1,169.00",
+"c" : "-3.10",
+"mc" : "415.99B",
+"cp" : "-0.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11849737",
+"name" : "Honeywell Automation India Ltd.",
+"t" : "HONAUT",
+"e" : "NSE",
+"l" : "16,347.00",
+"c" : "-258.90",
+"mc" : "144.58B",
+"cp" : "-1.56",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "3 Gangadhar Chetty Road, BANGALORE, 560042, India",
+"phone": "+91-80-49299144",
+"fax": "+91-80-25599501",
+"url": "http:\u002F\u002Fwww.sikaglobal.com\u002F",
+"overview" : "Sika Interplant Systems Limited (Sika) is a holding company. The Company is primarily engaged in the business of manufacturing and rendering services in engineering products, projects and designs. The Company offers engineering products for aerospace and defense. The Company\u0027s Engineered Projects \u0026 Systems group offers Design, Development, Precision Manufacturing, Assembly, Certification, Supply and Integration of Systems, and implementation of Projects. The Company\u0027s Products \u0026 Systems group offers technology Products and Systems for Aerospace, Space, Marine and Land applications. The Company\u0027s products include Airborne and Ship borne Handling Systems, Underwater Systems, Air Transport Rack (ATR)\u002FElectronic Units, Clean Energy Systems, Special equipment for Automotive industry, Drives, Amplifiers, Controllers, Feedback Sensors, Tachometers, Resolvers, Potentiometers, Pedestals, Tracking Systems, Quick Disconnecting Couplings, Air Intake particle separators and Test Systems."
+} ]
+, "management" : [
+{
+"name" : "Rajeev Sikka",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Kunal Sikka",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "K. S. Sathish",
+"title" : "Manager (Finance), Assistant Company Secretary, Compliance Officer"
+}
+,
+{
+"name" : "S. Santhanam",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "J. M. Debnath",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Krishna Sikka",
+"title" : "Non-Executive Additional Director"
+}
+,
+{
+"name" : "R. N. Chawhan",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "C. G. Krishnadas Nair",
+"age" : "75",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,282 @@
+
+// [
+{
+"symbol" : "514450",
+"exchange" : "BOM",
+"id": "14181559",
+"t" : "514450",
+"e" : "BOM",
+"name" : "Mahalaxmi Rubtech Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=MAHR.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:514450"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:514450"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:514450"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.84%",
+"annual" : "1.63%",
+"ttm" : "1.44%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.91%",
+"annual" : "3.05%",
+"ttm" : "2.49%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.02%",
+"ttm" : "6.08%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.31%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.79%",
+"ttm" : ""
+}
+]
+, "c" : "+0.20",
+"l" : "52.00",
+"cp" : "0.39",
+"ccol" : "chg",
+"op" : "52.50",
+"hi" : "54.15",
+"lo" : "51.30",
+"vo" : "6,351.00",
+"avvo" : "",
+"hi52" : "70.70",
+"lo52" : "43.00",
+"mc" : "459.10M",
+"pe" : "23.38",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.22",
+"dy" : "",
+"ldiv" : "",
+"shares" : "8.82M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "14181559",
+"name" : "Mahalaxmi Rubtech Ltd",
+"t" : "514450",
+"e" : "BOM",
+"l" : "52.00",
+"c" : "+0.20",
+"mc" : "459.10M",
+"cp" : "0.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "866461",
+"name" : "Jasch Industries Ltd",
+"t" : "500220",
+"e" : "BOM",
+"l" : "73.00",
+"c" : "+0.40",
+"mc" : "831.10M",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "687607",
+"name" : "JCT Ltd",
+"t" : "500223",
+"e" : "BOM",
+"l" : "3.30",
+"c" : "+0.06",
+"mc" : "1.96B",
+"cp" : "1.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15970548",
+"name" : "Asahi Industries Ltd",
+"t" : "514482",
+"e" : "BOM",
+"l" : "2.94",
+"c" : "0.00",
+"mc" : "195.34M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7244988",
+"name" : "Grabal Alok Impex Limited",
+"t" : "GRABALALK",
+"e" : "NSE",
+"l" : "20.15",
+"c" : "",
+"mc" : "453.07M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6987540",
+"name" : "Technocraft Industries (India) Ltd",
+"t" : "TIIL",
+"e" : "NSE",
+"l" : "546.00",
+"c" : "-0.40",
+"mc" : "14.34B",
+"cp" : "-0.07",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715464797513273",
+"name" : "Sysco Industries Ltd",
+"t" : "539842",
+"e" : "BOM",
+"l" : "48.00",
+"c" : "-2.00",
+"mc" : "381.78M",
+"cp" : "-4.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12388315",
+"name" : "Simplex Mills Company Limited",
+"t" : "533018",
+"e" : "BOM",
+"l" : "9.98",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "697973123520781",
+"name" : "Kavita Fabrics Ltd",
+"t" : "535136",
+"e" : "BOM",
+"l" : "7.10",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11183074",
+"name" : "Swasti Vinayaka Synthetics Ltd",
+"t" : "510245",
+"e" : "BOM",
+"l" : "3.86",
+"c" : "+0.06",
+"mc" : "273.80M",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1087940",
+"name" : "Dhanlaxmi Fabrics Ltd",
+"t" : "521151",
+"e" : "BOM",
+"l" : "36.15",
+"c" : "+1.70",
+"mc" : "310.21M",
+"cp" : "4.93",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "47 , New Cloth Market O\u002FS Raipur Gate Raipur, AHMEDABAD, 380015, India",
+"phone": "+91-79-40008000",
+"fax": "+91-79-40008030",
+"url": "http:\u002F\u002Fwww.mrtglobal.com\u002F",
+"overview" : "Mahalaxmi Rubtech Limited is an India-based company, which is engaged in weaving of textile and finishing of textile. The Company\u0027s segments include Rubber\u002FTechnical Textiles Products and Textiles Products. The Company operates in two areas: Traditional Textiles Division and Polymer Based Technical Textile Division. The Traditional Textile Division has two separate units for Weaving and Processing. In textile division, the Company operates three separates units: Maheeka Textech, which is a weaving unit\u003B Mahalaxmi Global, which is a trading unit, and Mahalaxmi Fabric Mills, which is a fabric processing unit. Maheeka Textech includes warping, sizing and automatic rapier looms for weaving of various types of fabrics. Maheeka Textech also has facility for manufacturing specialty fabrics used for technical textiles. Mahalaxmi operates in shirting and fabrics. Mahalaxmi Fabric Mills is engaged in dyeing, bleaching, printing and processing of various types of fabrics."
+} ]
+, "management" : [
+{
+"name" : "Rajendra Ratanchand Mehta",
+"age" : "48",
+"title" : "Group President, Chief Financial Officer"
+}
+,
+{
+"name" : "Shailesh Koshti",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anand J. Parekh",
+"age" : "35",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Rahul J. Parekh",
+"age" : "40",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Jeetmal B. Parekh",
+"age" : "69",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sangita Sandeep Singhi",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Malav J. Ajmera",
+"age" : "35",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Nehal Mayur Shah",
+"age" : "40",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

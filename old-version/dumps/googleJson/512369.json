@@ -1,0 +1,266 @@
+
+ [
+{
+"symbol" : "512369",
+"exchange" : "BOM",
+"id": "500320",
+"t" : "512369",
+"e" : "BOM",
+"name" : "Ennore Coke Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ENCK.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:512369"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:512369"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:512369"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-1243.30%",
+"ttm" : "-3188.49%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "-1530.97%",
+"ttm" : "-3674.57%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-1195.65%",
+"ttm" : "-2293.12%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-14.40%",
+"ttm" : "-8.33%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+}
+]
+, "c" : "-0.06",
+"l" : "2.21",
+"cp" : "-2.64",
+"ccol" : "chr",
+"op" : "2.21",
+"hi" : "2.21",
+"lo" : "2.21",
+"vo" : "26.00",
+"avvo" : "",
+"hi52" : "6.09",
+"lo52" : "2.16",
+"mc" : "34.26M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-11.87",
+"dy" : "",
+"ldiv" : "",
+"shares" : "15.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "500320",
+"name" : "Ennore Coke Ltd",
+"t" : "512369",
+"e" : "BOM",
+"l" : "2.21",
+"c" : "-0.06",
+"mc" : "34.26M",
+"cp" : "-2.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2619765",
+"name" : "Tide Water Oil Co India Ltd",
+"t" : "TIDEWATER",
+"e" : "NSE",
+"l" : "6,498.00",
+"c" : "-26.80",
+"mc" : "22.82B",
+"cp" : "-0.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "173563087965749",
+"name" : "Castrol India Limited",
+"t" : "CASTROLIND",
+"e" : "NSE",
+"l" : "198.10",
+"c" : "+4.45",
+"mc" : "196.61B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5623301",
+"name" : "GP Petroleums Ltd",
+"t" : "GULFPETRO",
+"e" : "NSE",
+"l" : "82.75",
+"c" : "+1.85",
+"mc" : "4.19B",
+"cp" : "2.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "317065588975587",
+"name" : "Gulf Oil Lubricants India Ltd",
+"t" : "GULFOILLUB",
+"e" : "NSE",
+"l" : "1,001.50",
+"c" : "+16.00",
+"mc" : "49.90B",
+"cp" : "1.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5320224",
+"name" : "GOCL Corp Ltd",
+"t" : "GOCLCORP",
+"e" : "NSE",
+"l" : "558.25",
+"c" : "-2.95",
+"mc" : "27.40B",
+"cp" : "-0.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16134436",
+"name" : "Coal India Ltd",
+"t" : "COALINDIA",
+"e" : "NSE",
+"l" : "312.40",
+"c" : "+1.45",
+"mc" : "1.94T",
+"cp" : "0.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10360734",
+"name" : "Bharat Petroleum Corp Ltd",
+"t" : "BPCL",
+"e" : "NSE",
+"l" : "431.85",
+"c" : "+1.95",
+"mc" : "936.14B",
+"cp" : "0.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7654474",
+"name" : "Apar Industries Ltd",
+"t" : "APARINDS",
+"e" : "NSE",
+"l" : "790.70",
+"c" : "+10.05",
+"mc" : "30.13B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16139803",
+"name" : "Balmer Lawrie and Company Ltd",
+"t" : "BALMLAWRIE",
+"e" : "NSE",
+"l" : "231.90",
+"c" : "+0.75",
+"mc" : "26.45B",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13666462",
+"name" : "Panama Petrochem Ltd.",
+"t" : "PANAMAPET",
+"e" : "NSE",
+"l" : "192.00",
+"c" : "+5.20",
+"mc" : "11.60B",
+"cp" : "2.78",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Alichak PO Khanjanchak, P S Durgachak , Haldia, CHENNAI, 600008, India",
+"phone": "+91-44-40406363",
+"fax": "+91-44-42699766",
+"url": "http:\u002F\u002Fwww.ennorecoke.com\u002Fdefault.aspx",
+"overview" : "Ennore Coke Limited is an India-based company, which is engaged in the business of manufacturing and trading of coke\u002Fcoal and generation of power. The Company\u0027s segments include Coke and Power. The Company is engaged in the activity of manufacturing and trading of metallurgical coke. The metallurgical coke is used as a fuel and reducing agent in the production of iron, steel, ferro-alloys, elemental phosphorus, calcium carbide and numerous other processes. The metallurgical coke is also used to produce carbon electrodes and to agglomerate sinter and iron ore pellets. The Company\u0027s installed capacity of non-recovery coke oven Plant at Haldia, West Bengal is approximately 130,000 tons per annum along with co-gen power plant. The Company\u0027s co-power generation installed capacity of the power plant is 6 to 8 megawatts. Haldia Coke and Chemicals Private Limited is the parent entity of the Company."
+} ]
+, "management" : [
+{
+"name" : "M. Natarajan",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "A. Ganesh",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "J. Kotteswari",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "K. U. Sivadas",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Uma Karthikeyan",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "M. Aravind Subramaniam",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

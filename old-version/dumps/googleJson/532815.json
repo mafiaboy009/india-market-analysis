@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "532815",
+"exchange" : "BOM",
+"id": "714888",
+"t" : "532815",
+"e" : "BOM",
+"name" : "SMS Pharmaceuticals Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532815"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532815"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532815"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002715)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.54%",
+"annual" : "7.37%",
+"ttm" : "6.08%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.56%",
+"annual" : "11.93%",
+"ttm" : "11.93%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.72%",
+"ttm" : "14.89%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.14%",
+"ttm" : "6.71%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.07%",
+"ttm" : "14.79%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,079",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.25",
+"l" : "89.10",
+"cp" : "0.28",
+"ccol" : "chg",
+"op" : "90.00",
+"hi" : "90.70",
+"lo" : "88.65",
+"vo" : "6,500.00",
+"avvo" : "",
+"hi52" : "120.90",
+"lo52" : "66.60",
+"mc" : "7.56B",
+"pe" : "21.40",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.16",
+"dy" : "0.22",
+"ldiv" : "0.20",
+"shares" : "84.65M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "714888",
+"name" : "SMS Pharmaceuticals Ltd",
+"t" : "532815",
+"e" : "BOM",
+"l" : "89.10",
+"c" : "+0.25",
+"mc" : "7.56B",
+"cp" : "0.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5397679",
+"name" : "Gennex Laboratories Ltd",
+"t" : "531739",
+"e" : "BOM",
+"l" : "4.43",
+"c" : "-0.15",
+"mc" : "567.85M",
+"cp" : "-3.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "451765",
+"name" : "J B Chemicals and Pharmaceuticals Ltd",
+"t" : "JBCHEPHARM",
+"e" : "NSE",
+"l" : "315.00",
+"c" : "+9.35",
+"mc" : "26.32B",
+"cp" : "3.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1333245",
+"name" : "Shilpa Medicare Ltd",
+"t" : "SHILPAMED",
+"e" : "NSE",
+"l" : "458.00",
+"c" : "+7.65",
+"mc" : "37.20B",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10030871",
+"name" : "Unichem Laboratories Limited",
+"t" : "UNICHEMLAB",
+"e" : "NSE",
+"l" : "320.95",
+"c" : "-9.05",
+"mc" : "29.26B",
+"cp" : "-2.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "677258",
+"name" : "Sun Pharmaceutical Industries Limited",
+"t" : "SUNPHARMA",
+"e" : "NSE",
+"l" : "555.40",
+"c" : "-14.25",
+"mc" : "1.32T",
+"cp" : "-2.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9025089",
+"name" : "RPG Life Sciences Limited",
+"t" : "RPGLIFE",
+"e" : "NSE",
+"l" : "463.00",
+"c" : "+10.95",
+"mc" : "7.69B",
+"cp" : "2.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722680",
+"name" : "Avon Lifesciences Ltd",
+"t" : "531541",
+"e" : "BOM",
+"l" : "11.65",
+"c" : "-0.60",
+"mc" : "277.56M",
+"cp" : "-4.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13868302",
+"name" : "Natural Capsules Ltd",
+"t" : "524654",
+"e" : "BOM",
+"l" : "116.00",
+"c" : "+5.05",
+"mc" : "722.99M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8874121",
+"name" : "Gujarat Themis Biosyn Ltd",
+"t" : "506879",
+"e" : "BOM",
+"l" : "43.30",
+"c" : "-3.05",
+"mc" : "625.72M",
+"cp" : "-6.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15490987",
+"name" : "TTK Health Care Ltd",
+"t" : "TTKHLTCARE",
+"e" : "NSE",
+"l" : "1,251.00",
+"c" : "-10.50",
+"mc" : "9.65B",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Plot No.19-III,OP BHARATIYA VIDYA BHAVAN PUBLIC ROAD NO 71, JUBILEE HILLS, HYDERABAD, 500096, India",
+"phone": "+91-40-66288888",
+"fax": "+91-40-23551401",
+"url": "http:\u002F\u002Fwww.smspharma.com\u002F",
+"overview" : "SMS Pharmaceuticals Limited is engaged in the manufacturing and sale of active pharmaceutical ingredients (APIs) and their intermediates. The Company\u0027s principal products\u002Fservices include pharmaceuticals. The Company\u0027s product range includes API and intermediates. The Company offers a range of anti-ulcer, anti-fungal, anti-migraine, anti-hypertensive and other API products, which include Famotidine USP\u002FPh.Eur\u002FJP, Lanoconazole USP\u002FJP, Sumatriptan Base USP, Imidapril Hcl and Ondansetron Hcl USP\u002FPh.Eur. The Company also offers a range of erectile dysfunction, anti-cancer, anti-viral and pulmonary arterial hypertension intermediate products, which include Ranitidine, Famotidine, Rizatriptan, Eletriptan HBr, Imidapril, Perindopril, Sildenafil citrate, Tadalafil, Imatinib and Lopinavir. The Company\u0027s plants are located in Telangana and Andhra Pradesh in India."
+} ]
+, "management" : [
+{
+"name" : "Ramesh Babu Potluri",
+"age" : "56",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "T. V. V. S. N. Murthy",
+"age" : "57",
+"title" : "Executive Vice Chairman of the Board, Joint Managing Director"
+}
+,
+{
+"name" : "N. Rajendra Prasad",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Vudari Satyanarayan Venkatish",
+"age" : "45",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "P. S. Rao",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Mihir K. Chaudhuri",
+"age" : "68",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Utpal Gokhale",
+"title" : "Non-Executive Independent Director - Nominee of EXIM Bank"
+}
+,
+{
+"name" : "P. Sharath Kumar",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "T. Neelaveni",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

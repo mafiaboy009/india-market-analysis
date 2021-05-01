@@ -1,0 +1,276 @@
+
+// [
+{
+"symbol" : "512257",
+"exchange" : "BOM",
+"id": "13918328",
+"t" : "512257",
+"e" : "BOM",
+"name" : "Swasti Vinayaka Art \u0026 Heritage Corp Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SVAH.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:512257"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:512257"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:512257"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "25.04%",
+"annual" : "29.06%",
+"ttm" : "32.99%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "41.72%",
+"annual" : "55.38%",
+"ttm" : "57.40%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "58.85%",
+"ttm" : "60.12%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.72%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "29.64%",
+"ttm" : ""
+}
+]
+, "c" : "+0.09",
+"l" : "5.82",
+"cp" : "1.57",
+"ccol" : "chg",
+"op" : "5.74",
+"hi" : "5.96",
+"lo" : "5.62",
+"vo" : "45,781.00",
+"avvo" : "",
+"hi52" : "9.99",
+"lo52" : "2.90",
+"mc" : "233.21M",
+"pe" : "7.12",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.82",
+"dy" : "3.44",
+"ldiv" : "0.20",
+"shares" : "40.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "13918328",
+"name" : "Swasti Vinayaka Art \u0026 Heritage Corp Ltd",
+"t" : "512257",
+"e" : "BOM",
+"l" : "5.82",
+"c" : "+0.09",
+"mc" : "233.21M",
+"cp" : "1.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "469690494193792",
+"name" : "PC Jeweller Ltd",
+"t" : "PCJEWELLER",
+"e" : "NSE",
+"l" : "335.80",
+"c" : "+3.45",
+"mc" : "132.58B",
+"cp" : "1.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "288088438044893",
+"name" : "Tara Jewels Ltd",
+"t" : "TARAJEWELS",
+"e" : "NSE",
+"l" : "16.15",
+"c" : "-0.35",
+"mc" : "395.26M",
+"cp" : "-2.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1486355",
+"name" : "Rajesh Exports Ltd.",
+"t" : "RAJESHEXPO",
+"e" : "NSE",
+"l" : "800.55",
+"c" : "-0.80",
+"mc" : "236.33B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3024096",
+"name" : "Renaissance Jewellery Limited",
+"t" : "RJL",
+"e" : "NSE",
+"l" : "342.30",
+"c" : "-4.80",
+"mc" : "6.48B",
+"cp" : "-1.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14694860",
+"name" : "Shree Ganesh Jewellery House (I) Ltd",
+"t" : "SGJHL",
+"e" : "NSE",
+"l" : "1.05",
+"c" : "",
+"mc" : "75.50M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14257224",
+"name" : "Golkunda Diamonds And Jewellery Ltd",
+"t" : "523676",
+"e" : "BOM",
+"l" : "18.35",
+"c" : "+0.85",
+"mc" : "127.79M",
+"cp" : "4.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7449820",
+"name" : "Shukra Jewellery Ltd",
+"t" : "523790",
+"e" : "BOM",
+"l" : "12.60",
+"c" : "+0.56",
+"mc" : "",
+"cp" : "4.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "332095320902103",
+"name" : "Bhakti Gems and Jewellery Ltd",
+"t" : "540545",
+"e" : "BOM",
+"l" : "20.50",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "878177257419572",
+"name" : "Patdiam Jewellery Ltd",
+"t" : "539401",
+"e" : "BOM",
+"l" : "86.80",
+"c" : "0.00",
+"mc" : "374.72M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "129447555669492",
+"name" : "Titan Company Ltd",
+"t" : "TITAN",
+"e" : "NSE",
+"l" : "823.00",
+"c" : "+8.80",
+"mc" : "730.24B",
+"cp" : "1.08",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "303, Tantia Jogan, Industrial J R Boricha marg Lower Parel, MUMBAI, 400011, India",
+"phone": "+91-22-43443555",
+"fax": "+91-22-23071511",
+"url": "http:\u002F\u002Fwww.svartcorp.in\u002F",
+"overview" : "Swasti Vinayaka Art And Heritage Corporation Limited is engaged in compensation\u002Frenting of immovable property. The Company is also engaged in the sale of jewelry, carvings, gemstones and diamonds. The Company\u0027s segments include Compensation from sub-lease property, and Sale of Goods. The Company offers Signio paintings that uses the Indian miniature technique, through canvases that tell tales of the Hindu epics, as well as Islamic histories and chronicles. The Company also offers couture jewelry and artifacts."
+} ]
+, "management" : [
+{
+"name" : "Ramprasad Poddar",
+"age" : "80",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Nagabhushan T. Hegde",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Dinesh Kumar Poddar",
+"age" : "48",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Shilpa Dinesh Poddar",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Rajesh Kumar Poddar",
+"age" : "45",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Rakesh Kumar Garodia",
+"age" : "50",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vishwanath Rungta",
+"age" : "78",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

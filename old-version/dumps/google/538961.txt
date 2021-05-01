@@ -1,0 +1,234 @@
+
+// [
+{
+"symbol" : "538961",
+"exchange" : "BOM",
+"id": "961206958321215",
+"t" : "538961",
+"e" : "BOM",
+"name" : "Genus Paper \u0026 Boards Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:538961"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:538961"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:538961"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.37%",
+"annual" : "2.25%",
+"ttm" : "4.30%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.49%",
+"annual" : "3.54%",
+"ttm" : "6.54%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.02%",
+"ttm" : "10.46%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.59%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.16%",
+"ttm" : ""
+}
+]
+, "c" : "-0.10",
+"l" : "14.50",
+"cp" : "-0.68",
+"ccol" : "chr",
+"op" : "15.30",
+"hi" : "15.30",
+"lo" : "13.95",
+"vo" : "480,903.00",
+"avvo" : "",
+"hi52" : "16.70",
+"lo52" : "4.16",
+"mc" : "3.72B",
+"pe" : "26.45",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.55",
+"dy" : "",
+"ldiv" : "",
+"shares" : "257.13M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "961206958321215",
+"name" : "Genus Paper \u0026 Boards Ltd",
+"t" : "538961",
+"e" : "BOM",
+"l" : "14.50",
+"c" : "-0.10",
+"mc" : "3.72B",
+"cp" : "-0.68",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11888066",
+"name" : "South India Paper Mills Limited",
+"t" : "516108",
+"e" : "BOM",
+"l" : "121.00",
+"c" : "-4.00",
+"mc" : "1.82B",
+"cp" : "-3.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11653988",
+"name" : "Rama Pulp And Papers Ltd",
+"t" : "502587",
+"e" : "BOM",
+"l" : "52.50",
+"c" : "-0.10",
+"mc" : "567.79M",
+"cp" : "-0.19",
+"ccol" : "chr"
+}
+,
+{
+"id" : "268467055867245",
+"name" : "Astron Paper \u0026 Board Mill Ltd",
+"t" : "ASTRON",
+"e" : "NSE",
+"l" : "131.95",
+"c" : "+4.05",
+"mc" : "6.18B",
+"cp" : "3.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2457336",
+"name" : "Shreyans Industries Ltd",
+"t" : "SHREYANIND",
+"e" : "NSE",
+"l" : "161.60",
+"c" : "+2.85",
+"mc" : "2.25B",
+"cp" : "1.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1786962",
+"name" : "Rainbow Papers Ltd",
+"t" : "RAINBOWPAP",
+"e" : "NSE",
+"l" : "3.00",
+"c" : "+0.05",
+"mc" : "313.34M",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16192730",
+"name" : "Shree Krishna Paper Mills\u0026Industries Ltd",
+"t" : "500388",
+"e" : "BOM",
+"l" : "39.90",
+"c" : "+0.15",
+"mc" : "539.52M",
+"cp" : "0.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10917064",
+"name" : "Ruchira Papers Limited",
+"t" : "RUCHIRA",
+"e" : "NSE",
+"l" : "177.70",
+"c" : "-1.80",
+"mc" : "3.99B",
+"cp" : "-1.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2406412",
+"name" : "Malu Paper Mills Ltd.",
+"t" : "MALUPAPER",
+"e" : "NSE",
+"l" : "37.65",
+"c" : "+0.85",
+"mc" : "646.67M",
+"cp" : "2.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11199775",
+"name" : "Tamilnadu Newsprint \u0026 Papers Ltd",
+"t" : "TNPL",
+"e" : "NSE",
+"l" : "363.20",
+"c" : "-4.95",
+"mc" : "25.20B",
+"cp" : "-1.34",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3266471",
+"name" : "International Paper APPM Ltd",
+"t" : "IPAPPM",
+"e" : "NSE",
+"l" : "316.95",
+"c" : "-1.80",
+"mc" : "12.60B",
+"cp" : "-0.56",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "D-116, Okhla Industrial Area, Phase-I, NEW DELHI, 110020, India",
+"phone": "+91-11-47114800",
+"fax": "+91-11-47114833",
+"overview" : "Genus Paper \u0026 Boards Limited is an India-based company, which is engaged in the business of manufacturing Kraft Paper and M. S. Ingot. The Company\u0027s segments include Paper and Steel. The Company has four independent plants within the factory premises. The Company manufactures Waste Paper-based Multi Layered Kraft Paper of High Tear Factor (TF), High Burst Factor (BF) that is 25+, 28+, 30+, 32+ and 35+ with grams per square meter (GSM) ranging from 80-450. It also manufactures Waste Paper-based Kraft Paper of 22+ BF with GSM ranging from 120-220. The Company also manufactures Waste Paper-based fiber waste sheets. The Company\u0027s plant is located in Village Aghwanpur, Kanth Road, Moradabad, Uttar Pradesh."
+} ]
+,"moreresources" : [
+]
+}]

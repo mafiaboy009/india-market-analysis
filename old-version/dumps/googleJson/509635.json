@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "509635",
+"exchange" : "BOM",
+"id": "715412",
+"t" : "509635",
+"e" : "BOM",
+"name" : "Hindustan Composites Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:509635"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:509635"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:509635"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-52.19%",
+"annual" : "12.78%",
+"ttm" : "12.78%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-82.20%",
+"annual" : "17.26%",
+"ttm" : "17.12%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "21.50%",
+"ttm" : "21.36%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.15%",
+"ttm" : "3.15%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.52%",
+"ttm" : "3.52%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "517",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+18.15",
+"l" : "466.10",
+"cp" : "4.05",
+"ccol" : "chg",
+"op" : "449.00",
+"hi" : "467.90",
+"lo" : "444.00",
+"vo" : "2,683.00",
+"avvo" : "",
+"hi52" : "1,605.00",
+"lo52" : "420.00",
+"mc" : "6.94B",
+"pe" : "29.65",
+"fwpe" : "",
+"beta" : "",
+"eps" : "15.72",
+"dy" : "0.11",
+"ldiv" : "0.50",
+"shares" : "14.77M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715412",
+"name" : "Hindustan Composites Limited",
+"t" : "509635",
+"e" : "BOM",
+"l" : "466.10",
+"c" : "+18.15",
+"mc" : "6.94B",
+"cp" : "4.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2990538",
+"name" : "Rane Brake Linings Ltd",
+"t" : "RBL",
+"e" : "NSE",
+"l" : "1,038.00",
+"c" : "+41.05",
+"mc" : "8.19B",
+"cp" : "4.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5804806",
+"name" : "Sundaram Brake Linings Ltd",
+"t" : "SUNDRMBRAK",
+"e" : "NSE",
+"l" : "577.95",
+"c" : "+7.75",
+"mc" : "2.26B",
+"cp" : "1.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4012093",
+"name" : "Wabco India Ltd",
+"t" : "WABCOINDIA",
+"e" : "NSE",
+"l" : "7,691.00",
+"c" : "+550.25",
+"mc" : "147.51B",
+"cp" : "7.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7769182",
+"name" : "Suprajit Engineering Ltd.",
+"t" : "SUPRAJIT",
+"e" : "NSE",
+"l" : "274.50",
+"c" : "-0.10",
+"mc" : "38.06B",
+"cp" : "-0.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11783675",
+"name" : "Brakes Auto (India) Ltd",
+"t" : "520115",
+"e" : "BOM",
+"l" : "0.93",
+"c" : "0.00",
+"mc" : "19.62M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11817741",
+"name" : "Talbros Automotive Components Ltd",
+"t" : "TALBROAUTO",
+"e" : "NSE",
+"l" : "293.75",
+"c" : "+0.50",
+"mc" : "3.62B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7064343",
+"name" : "Banco Products (I) Ltd.",
+"t" : "BANCOINDIA",
+"e" : "NSE",
+"l" : "220.00",
+"c" : "-4.85",
+"mc" : "15.76B",
+"cp" : "-2.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10611276",
+"name" : "SKF India Ltd",
+"t" : "SKFINDIA",
+"e" : "NSE",
+"l" : "1,828.00",
+"c" : "-11.85",
+"mc" : "93.84B",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15375890",
+"name" : "India Motor Parts Limited",
+"t" : "IMPAL",
+"e" : "NSE",
+"l" : "1,112.50",
+"c" : "+4.15",
+"mc" : "9.28B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "84135840067224",
+"name" : "Endurance Technologies Ltd (CN)",
+"t" : "ENDURANCE",
+"e" : "NSE",
+"l" : "1,312.00",
+"c" : "+34.95",
+"mc" : "185.57B",
+"cp" : "2.74",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "79, CRYSTAL, ANNIE BESANT ROAD, WORLI, MUMBAI, 400013, India",
+"phone": "+91-6653-010104",
+"fax": "+91-22-66530105",
+"url": "http:\u002F\u002Fwww.hindcompo.com\u002F",
+"overview" : "Hindustan Composites Limited is engaged in the manufacturing and marketing of fiber-based friction materials. The Company is also engaged in investment and treasury operation. The Company\u0027s segments include Composite Products and Investment. It offers friction materials, such as automotive brake linings, automotive roll linings, automotive clutch facings and ceramic buttons, automotive disc brake pads, railway brake blocks, friction sheets and industrial roll linings. Its industrial thrust bearing and insulation products include millboard sheets and millboard discs. Its clutch facings are used in a range of vehicles, such as passenger cars and light commercial vehicles. Its industrial roll linings are used in various applications, such as elevators, cranes, winches, hoists, drop hammers and concrete mixers. It caters to a range of sectors, such as railways, engineering, mining, aerospace, steel, chemical, fertilizer, atomic energy, electrical, oil exploration and automotive."
+} ]
+, "management" : [
+{
+"name" : "Raghu Nandan Mody",
+"age" : "77",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sunil Jindal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "P. K. Choudhary",
+"age" : "58",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Amit Goenka",
+"title" : "Vice President - Finance, Company Secretary"
+}
+,
+{
+"name" : "Sakshi Mody",
+"title" : "Additional Director (Non-Executive)"
+}
+,
+{
+"name" : "Kuldip Singh Brar",
+"age" : "79",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Chakrapani Misra",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "A. B. Vaidya",
+"age" : "73",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Deepak Sethi",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,384 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 119288184832,
+            "fmt": "119.29B",
+            "longFmt": "119,288,184,832"
+          },
+          "forwardPE": {
+            "raw": 53.78734,
+            "fmt": "53.79"
+          },
+          "profitMargins": {
+            "raw": 0.029749999,
+            "fmt": "2.97%"
+          },
+          "floatShares": {
+            "raw": 31249284,
+            "fmt": "31.25M",
+            "longFmt": "31,249,284"
+          },
+          "sharesOutstanding": {
+            "raw": 152168000,
+            "fmt": "152.17M",
+            "longFmt": "152,168,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.054766,
+            "fmt": "0.05"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 23.923,
+            "fmt": "23.92"
+          },
+          "priceToBook": {
+            "raw": 31.611837,
+            "fmt": "31.61"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.481,
+            "fmt": "-48.10%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1322729984,
+            "fmt": "1.32B",
+            "longFmt": "1,322,729,984"
+          },
+          "trailingEps": {
+            "raw": 8.679,
+            "fmt": "8.68"
+          },
+          "forwardEps": {
+            "raw": 14.06,
+            "fmt": "14.06"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "7/5",
+          "lastSplitDate": {
+            "raw": 1468368000,
+            "fmt": "2016-07-13"
+          },
+          "enterpriseToRevenue": {
+            "raw": 2.683,
+            "fmt": "2.68"
+          },
+          "enterpriseToEbitda": {
+            "raw": 28.785,
+            "fmt": "28.78"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 2.51,
+                  "fmt": "2.51"
+                },
+                "estimate": {
+                  "raw": 2.78,
+                  "fmt": "2.78"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 24935418000,
+                  "fmt": "24.94B",
+                  "longFmt": "24,935,418,000"
+                },
+                "earnings": {
+                  "raw": 816857000,
+                  "fmt": "816.86M",
+                  "longFmt": "816,857,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 29330857000,
+                  "fmt": "29.33B",
+                  "longFmt": "29,330,857,000"
+                },
+                "earnings": {
+                  "raw": 391567000,
+                  "fmt": "391.57M",
+                  "longFmt": "391,567,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 34392320000,
+                  "fmt": "34.39B",
+                  "longFmt": "34,392,320,000"
+                },
+                "earnings": {
+                  "raw": 604970000,
+                  "fmt": "604.97M",
+                  "longFmt": "604,970,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 41918365000,
+                  "fmt": "41.92B",
+                  "longFmt": "41,918,365,000"
+                },
+                "earnings": {
+                  "raw": 1339659000,
+                  "fmt": "1.34B",
+                  "longFmt": "1,339,659,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 12098264000,
+                  "fmt": "12.1B",
+                  "longFmt": "12,098,264,000"
+                },
+                "earnings": {
+                  "raw": 439202000,
+                  "fmt": "439.2M",
+                  "longFmt": "439,202,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 11687380000,
+                  "fmt": "11.69B",
+                  "longFmt": "11,687,380,000"
+                },
+                "earnings": {
+                  "raw": 351899000,
+                  "fmt": "351.9M",
+                  "longFmt": "351,899,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 10668360000,
+                  "fmt": "10.67B",
+                  "longFmt": "10,668,360,000"
+                },
+                "earnings": {
+                  "raw": 382107000,
+                  "fmt": "382.11M",
+                  "longFmt": "382,107,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 10026462000,
+                  "fmt": "10.03B",
+                  "longFmt": "10,026,462,000"
+                },
+                "earnings": {
+                  "raw": 149522000,
+                  "fmt": "149.52M",
+                  "longFmt": "149,522,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Domaine",
+          "address2": "Door No: 1/20A Rajiv Gandhi Salai (OMR) Karapakkam",
+          "city": "Chennai",
+          "zip": "600097",
+          "country": "India",
+          "phone": "91 44 2450 1622",
+          "fax": "91 44 2450 1422",
+          "website": "http://www.hatsun.com",
+          "industry": "Food - Major Diversified",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Hatsun Agro Product Limited manufactures and sells milk, milk products, and ice creams primarily in India. The company offers standardized, full cream, and toned milk, as well as curd, milkshakes, yogurt shakes, yogurt toppings, paneer snacks, coffee, and other hot beverages under the Arokya brand name. It also provides a range of ice cream products under the Arun brand; and ice cream cakes, bars, and pizzas, and signature cones, as well as operates a chain of 122 ice cream parlors under Ibaco brand name. In addition, the company offers curd, paneer, ghee, butter, skimmed milk powder, dairy whitener, butter milk, and lassi under the Hatsun brand name. Further, it provides cattle feed under the Santosa brand name; dairy ingredients for food and nutrition industry, including the dairy, bakery, pharmaceutical, confectionery, snacks, and savory markets; and ready to eat vegetarian pizzas under the Oyalo brand name. The company distributes its milk and curd products through a network of approximately 1,400 distribution centers and 650 dealers; and ice cream products through a network of approximately 2,305 Arun icecreams parlors in Tamil Nadu, Karnataka, and Andhra Pradesh. It also exports its products to approximately 40 countries, which primarily include the United States, the Middle East, and South Asia. Hatsun Agro Product Limited was founded in 1970 and is based in Chennai, India.",
+          "fullTimeEmployees": 5123,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 756.25,
+            "fmt": "756.25"
+          },
+          "targetHighPrice": {
+            "raw": 973.0,
+            "fmt": "973.00"
+          },
+          "targetLowPrice": {
+            "raw": 925.0,
+            "fmt": "925.00"
+          },
+          "targetMeanPrice": {
+            "raw": 949.0,
+            "fmt": "949.00"
+          },
+          "targetMedianPrice": {
+            "raw": 949.0,
+            "fmt": "949.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "totalCash": {
+            "raw": 249683008,
+            "fmt": "249.68M",
+            "longFmt": "249,683,008"
+          },
+          "totalCashPerShare": {
+            "raw": 1.641,
+            "fmt": "1.64"
+          },
+          "ebitda": {
+            "raw": 4144128256,
+            "fmt": "4.14B",
+            "longFmt": "4,144,128,256"
+          },
+          "totalDebt": {
+            "raw": 9033240576,
+            "fmt": "9.03B",
+            "longFmt": "9,033,240,576"
+          },
+          "quickRatio": {
+            "raw": 0.034,
+            "fmt": "0.03"
+          },
+          "currentRatio": {
+            "raw": 0.417,
+            "fmt": "0.42"
+          },
+          "totalRevenue": {
+            "raw": 44456153088,
+            "fmt": "44.46B",
+            "longFmt": "44,456,153,088"
+          },
+          "debtToEquity": {
+            "raw": 248.144,
+            "fmt": "248.14"
+          },
+          "revenuePerShare": {
+            "raw": 291.823,
+            "fmt": "291.82"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {
+            "raw": 0.41493,
+            "fmt": "41.49%"
+          },
+          "grossProfits": {
+            "raw": 10925937000,
+            "fmt": "10.93B",
+            "longFmt": "10,925,937,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.482,
+            "fmt": "-48.20%"
+          },
+          "revenueGrowth": {
+            "raw": 0.059,
+            "fmt": "5.90%"
+          },
+          "grossMargins": {
+            "raw": 0.25989,
+            "fmt": "25.99%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.093219995,
+            "fmt": "9.32%"
+          },
+          "operatingMargins": {
+            "raw": 0.054130003,
+            "fmt": "5.41%"
+          },
+          "profitMargins": {
+            "raw": 0.029749999,
+            "fmt": "2.97%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

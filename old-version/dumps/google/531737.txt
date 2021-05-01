@@ -1,0 +1,262 @@
+
+// [
+{
+"symbol" : "531737",
+"exchange" : "BOM",
+"id": "9033165",
+"t" : "531737",
+"e" : "BOM",
+"name" : "Greencrest Financial Services Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GRCR.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531737"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531737"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531737"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "18.02%",
+"annual" : "5.90%",
+"ttm" : "-43.07%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "18.02%",
+"annual" : "8.78%",
+"ttm" : "-40.54%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.05%",
+"ttm" : "-40.41%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.20%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.25%",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "32.95",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "32.95",
+"hi" : "32.95",
+"lo" : "32.95",
+"vo" : "1.00",
+"avvo" : "",
+"hi52" : "73.00",
+"lo52" : "32.95",
+"mc" : "12.04B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.14",
+"dy" : "",
+"ldiv" : "",
+"shares" : "365.51M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9033165",
+"name" : "Greencrest Financial Services Ltd",
+"t" : "531737",
+"e" : "BOM",
+"l" : "32.95",
+"c" : "0.00",
+"mc" : "12.04B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13631473",
+"name" : "Bharat Bhushan Finance \u0026 Cmdty Brkrs Ltd",
+"t" : "511501",
+"e" : "BOM",
+"l" : "20.70",
+"c" : "-1.25",
+"mc" : "69.97M",
+"cp" : "-5.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "23790631688686",
+"name" : "Jay Energy \u0026 S Energies Ltd",
+"t" : "526523",
+"e" : "BOM",
+"l" : "0.33",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "724490",
+"name" : "Parsoli Corporation Ltd.",
+"t" : "530071",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-18.05",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10541692",
+"name" : "Global Capital Markets Ltd",
+"t" : "530263",
+"e" : "BOM",
+"l" : "4.43",
+"c" : "+0.02",
+"mc" : "110.28M",
+"cp" : "0.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11711146",
+"name" : "Vertex Securities Ltd",
+"t" : "531950",
+"e" : "BOM",
+"l" : "2.50",
+"c" : "+0.03",
+"mc" : "184.28M",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3009176",
+"name" : "Skp Securities Ltd",
+"t" : "531169",
+"e" : "BOM",
+"l" : "76.15",
+"c" : "+3.60",
+"mc" : "335.25M",
+"cp" : "4.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13689501",
+"name" : "Rockon Enterprises Ltd",
+"t" : "531447",
+"e" : "BOM",
+"l" : "1.55",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "703339",
+"name" : "Inditrade Capital Ltd",
+"t" : "532745",
+"e" : "BOM",
+"l" : "73.90",
+"c" : "+1.75",
+"mc" : "1.70B",
+"cp" : "2.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "157978492217092",
+"name" : "GCM Commodity \u0026 Derivatives Ltd",
+"t" : "535917",
+"e" : "BOM",
+"l" : "6.78",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3611871",
+"name" : "Indiabulls Ventures Ltd",
+"t" : "IBVENTURES",
+"e" : "NSE",
+"l" : "262.40",
+"c" : "-4.90",
+"mc" : "137.80B",
+"cp" : "-1.83",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "8, 1St Floor, Ganesh Chandra Avenue, KOLKATA, 700013, India",
+"phone": "+91-33-22365426",
+"fax": "+91-33-22365520",
+"url": "http:\u002F\u002Fwww.greencrestfin.com\u002F",
+"overview" : "Greencrest Financial Services Limited, formerly Marigold Glass Industries Ltd., is a non-banking financial company (NBFC). The Company is into the business of finance and investments. The activities of the Company include financing, investing in shares and other securities, and commodities and other related activities of capital market. The Company operates through the segment of Trading activity of Commodity and Shares and financing activities."
+} ]
+, "management" : [
+{
+"name" : "Aditya Parakh",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Biswanath Roychowdhury",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Sunil Parakh",
+"age" : "51",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Dhirendra Sahani",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Shree Niwas Singhee",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

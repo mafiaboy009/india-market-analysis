@@ -1,0 +1,289 @@
+
+ [
+{
+"symbol" : "505714",
+"exchange" : "BOM",
+"id": "677738",
+"t" : "505714",
+"e" : "BOM",
+"name" : "Gabriel India Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:505714"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:505714"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:505714"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.84%",
+"annual" : "5.34%",
+"ttm" : "5.11%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.82%",
+"annual" : "7.14%",
+"ttm" : "6.97%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.55%",
+"ttm" : "9.10%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.32%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "19.66%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,679",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+4.75",
+"l" : "158.40",
+"cp" : "3.09",
+"ccol" : "chg",
+"op" : "155.70",
+"hi" : "162.15",
+"lo" : "155.65",
+"vo" : "15,917.00",
+"avvo" : "",
+"hi52" : "222.70",
+"lo52" : "111.00",
+"mc" : "22.81B",
+"pe" : "25.11",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.31",
+"dy" : "0.85",
+"ldiv" : "0.50",
+"shares" : "143.64M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677738",
+"name" : "Gabriel India Limited",
+"t" : "505714",
+"e" : "BOM",
+"l" : "158.40",
+"c" : "+4.75",
+"mc" : "22.81B",
+"cp" : "3.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "677072",
+"name" : "Munjal Showa Limited",
+"t" : "MUNJALSHOW",
+"e" : "NSE",
+"l" : "223.40",
+"c" : "-3.95",
+"mc" : "8.91B",
+"cp" : "-1.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2566408",
+"name" : "ANG Industries Ltd.",
+"t" : "ANGIND",
+"e" : "NSE",
+"l" : "5.95",
+"c" : "+0.20",
+"mc" : "94.10M",
+"cp" : "3.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5845409",
+"name" : "Sona Koyo Steering Systems Limited",
+"t" : "SONASTEER",
+"e" : "NSE",
+"l" : "103.55",
+"c" : "-0.65",
+"mc" : "20.62B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11817741",
+"name" : "Talbros Automotive Components Ltd",
+"t" : "TALBROAUTO",
+"e" : "NSE",
+"l" : "293.75",
+"c" : "+0.50",
+"mc" : "3.62B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715310",
+"name" : "ZF Steering Gear (India) Ltd",
+"t" : "505163",
+"e" : "BOM",
+"l" : "1,130.75",
+"c" : "+30.05",
+"mc" : "10.16B",
+"cp" : "2.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6093045",
+"name" : "Jay Bharat Maruti Ltd",
+"t" : "JAYBARMARU",
+"e" : "NSE",
+"l" : "469.00",
+"c" : "+2.35",
+"mc" : "10.10B",
+"cp" : "0.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "84135840067224",
+"name" : "Endurance Technologies Ltd (CN)",
+"t" : "ENDURANCE",
+"e" : "NSE",
+"l" : "1,312.00",
+"c" : "+34.95",
+"mc" : "185.57B",
+"cp" : "2.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13340222",
+"name" : "Omax Autos Limited",
+"t" : "OMAXAUTO",
+"e" : "NSE",
+"l" : "170.00",
+"c" : "-1.95",
+"mc" : "3.61B",
+"cp" : "-1.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13301226",
+"name" : "Gujarat Automotive Gears Ltd",
+"t" : "505712",
+"e" : "BOM",
+"l" : "290.00",
+"c" : "-11.25",
+"mc" : "507.50M",
+"cp" : "-3.73",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14794075",
+"name" : "Castex Technologies Ltd",
+"t" : "CASTEXTECH",
+"e" : "NSE",
+"l" : "4.95",
+"c" : "+0.10",
+"mc" : "1.87B",
+"cp" : "2.06",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "C22 G Blck 7Th F,The Ilfs Fncl Cntr Bandra Kurla Complex, Bandra East, PUNE, 410501, India",
+"phone": "+91-2135-610700",
+"fax": "+91-2135-610796",
+"url": "http:\u002F\u002Fwww.gabrielindia.com\u002F",
+"overview" : "Gabriel India Limited is engaged in the manufacturing and marketing of ride control products. The Company\u0027s portfolio includes a range of ride control products, which consists of shock absorbers, struts and front forks for every automotive segment. It operates through Auto Components and Parts business segment. Its business units include Commercial Vehicles \u0026 Railways, 2-Wheelers \u0026 3-Wheelers, Passenger Cars and Aftermarket. It manufactures front forks and rear shock absorbers for two-wheelers\u003B McPherson struts and shock absorbers for passenger cars\u003B cabin dampers, seat dampers and suspension shock absorbers for commercial vehicles, and shock absorbers for railway coaches. Its ride control products for various segments are marketed across The Association of Southeast Asian Nations, Iran, the United States, Latin America, North America, South Africa, Europe, Australia and Asia Pacific. It has manufacturing facilities in Chakan, Khandsa, Nashik, Hosur, Dewas, Parwanoo and Sanand."
+} ]
+, "management" : [
+{
+"name" : "Anjali Anand Singh",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Rajendran Arunachalam",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Nilesh Jain",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Manoj Kolhatkar",
+"age" : "46",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Rohit Philip",
+"title" : "Director"
+}
+,
+{
+"name" : "Jagdish Kumar",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Pradeep Banerjee",
+"age" : "58",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Pradipta Sen",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Aditya Vij",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

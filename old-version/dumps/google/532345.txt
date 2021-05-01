@@ -1,0 +1,278 @@
+
+// [
+{
+"symbol" : "532345",
+"exchange" : "BOM",
+"id": "703978",
+"t" : "532345",
+"e" : "BOM",
+"name" : "Gati Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532345"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532345"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532345"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.07%",
+"annual" : "2.21%",
+"ttm" : "3.21%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.73%",
+"annual" : "4.64%",
+"ttm" : "3.50%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.75%",
+"ttm" : "4.89%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.58%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.19%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "778",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.90",
+"l" : "114.20",
+"cp" : "0.79",
+"ccol" : "chg",
+"op" : "113.30",
+"hi" : "115.50",
+"lo" : "113.30",
+"vo" : "74,720.00",
+"avvo" : "",
+"hi52" : "154.45",
+"lo52" : "101.60",
+"mc" : "12.31B",
+"pe" : "24.59",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.64",
+"dy" : "0.70",
+"ldiv" : "0.80",
+"shares" : "108.25M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703978",
+"name" : "Gati Ltd",
+"t" : "532345",
+"e" : "BOM",
+"l" : "114.20",
+"c" : "+0.90",
+"mc" : "12.31B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "531384324138915",
+"name" : "TCI Express Ltd",
+"t" : "TCIEXP",
+"e" : "NSE",
+"l" : "525.00",
+"c" : "+4.90",
+"mc" : "20.11B",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "505062502728757",
+"name" : "Tiger Logistics (India) Ltd",
+"t" : "536264",
+"e" : "BOM",
+"l" : "213.55",
+"c" : "+2.45",
+"mc" : "2.25B",
+"cp" : "1.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715562",
+"name" : "Balmer Lawrie Investments Ltd.",
+"t" : "532485",
+"e" : "BOM",
+"l" : "429.50",
+"c" : "-6.30",
+"mc" : "9.54B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5263425",
+"name" : "Allcargo Logistics Ltd",
+"t" : "ALLCARGO",
+"e" : "NSE",
+"l" : "177.50",
+"c" : "-0.15",
+"mc" : "43.45B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "719545",
+"name" : "ABC INDIA LIMITED",
+"t" : "520123",
+"e" : "BOM",
+"l" : "91.75",
+"c" : "-3.15",
+"mc" : "499.13M",
+"cp" : "-3.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7864646",
+"name" : "Blue Dart Express Limited",
+"t" : "BLUEDART",
+"e" : "NSE",
+"l" : "4,264.00",
+"c" : "+70.90",
+"mc" : "100.50B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9687421",
+"name" : "Patel Integrated Logistics Ltd",
+"t" : "PATINTLOG",
+"e" : "NSE",
+"l" : "68.05",
+"c" : "+0.45",
+"mc" : "1.12B",
+"cp" : "0.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "703777",
+"name" : "SpiceJet Limited",
+"t" : "500285",
+"e" : "BOM",
+"l" : "140.20",
+"c" : "+2.70",
+"mc" : "84.20B",
+"cp" : "1.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "275181847863507",
+"name" : "Total Transport Systems Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "236607675430557",
+"name" : "Jet Freight Logistics Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "20 Survey No12, Kothaguda, Kondapur, HYDERABAD, 500084, India",
+"phone": "+91-40-27844284",
+"fax": "+91-40-23112316",
+"url": "http:\u002F\u002Fwww.gati.com\u002F",
+"overview" : "Gati Limited is engaged in the express distribution and supply chain solutions. The Company\u0027s segments include Express Distribution and Supply Chain, which covers integrated cargo services, such as road, rail and air transportation\u003B Shipping, which covers sea transportation, and Fuel Stations, which covers fuel stations dealing in petrol, diesel and lubricants, among others. Its supply chain solution offers an integrated supply chain service to businesses across industry verticals. It offers third-party logistics and contract logistics services\u003B e-fulfillment centers, and upstream supply chain management services, such as procurement management and order management. It is also engaged in the business of e-commerce and cold chain logistics. It offers customized solutions for temperature sensitive shipments, including consumer foods, pharmaceuticals, retail and agricultural-food sectors. It also provides services, such as freight forwarding, customs clearance and inventory management."
+} ]
+, "management" : [
+{
+"name" : "Mahendra Kumar Agarwal",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Sanjeev Kumar Jain",
+"title" : "Finance Director, Executive Director"
+}
+,
+{
+"name" : "Amit Pathak",
+"title" : "Compliance Officer, Company Secretary, Chief Investor Relations Officer"
+}
+,
+{
+"name" : "Krishan Lal Chugh",
+"age" : "78",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Yosuhiro Kaneda",
+"title" : "Nominee Director (Kintetsu World Express Inc)"
+}
+,
+{
+"name" : "Sheela Bhide",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Sunil Kumar Alagh",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "P. Sudhakar Reddy",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,274 @@
+
+ [
+{
+"symbol" : "532728",
+"exchange" : "BOM",
+"id": "705694",
+"t" : "532728",
+"e" : "BOM",
+"name" : "Malu Paper Mills Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532728"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532728"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532728"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.39%",
+"annual" : "1.16%",
+"ttm" : "0.58%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.06%",
+"annual" : "6.49%",
+"ttm" : "4.83%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.39%",
+"ttm" : "6.70%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.91%",
+"ttm" : "1.00%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.03%",
+"ttm" : "7.44%"
+}
+]
+, "c" : "+1.10",
+"l" : "37.85",
+"cp" : "2.99",
+"ccol" : "chg",
+"op" : "37.85",
+"hi" : "37.85",
+"lo" : "36.50",
+"vo" : "4,606.00",
+"avvo" : "",
+"hi52" : "52.80",
+"lo52" : "20.55",
+"mc" : "640.47M",
+"pe" : "42.79",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.88",
+"dy" : "",
+"ldiv" : "",
+"shares" : "17.06M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "705694",
+"name" : "Malu Paper Mills Ltd.",
+"t" : "532728",
+"e" : "BOM",
+"l" : "37.85",
+"c" : "+1.10",
+"mc" : "640.47M",
+"cp" : "2.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11199775",
+"name" : "Tamilnadu Newsprint \u0026 Papers Ltd",
+"t" : "TNPL",
+"e" : "NSE",
+"l" : "363.20",
+"c" : "-4.95",
+"mc" : "25.20B",
+"cp" : "-1.34",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1786962",
+"name" : "Rainbow Papers Ltd",
+"t" : "RAINBOWPAP",
+"e" : "NSE",
+"l" : "3.00",
+"c" : "+0.05",
+"mc" : "313.34M",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16192730",
+"name" : "Shree Krishna Paper Mills\u0026Industries Ltd",
+"t" : "500388",
+"e" : "BOM",
+"l" : "39.90",
+"c" : "+0.15",
+"mc" : "539.52M",
+"cp" : "0.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11653988",
+"name" : "Rama Pulp And Papers Ltd",
+"t" : "502587",
+"e" : "BOM",
+"l" : "52.50",
+"c" : "-0.10",
+"mc" : "567.79M",
+"cp" : "-0.19",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11888066",
+"name" : "South India Paper Mills Limited",
+"t" : "516108",
+"e" : "BOM",
+"l" : "121.00",
+"c" : "-4.00",
+"mc" : "1.82B",
+"cp" : "-3.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9390868",
+"name" : "Kuantum Papers Ltd",
+"t" : "532937",
+"e" : "BOM",
+"l" : "780.00",
+"c" : "+28.50",
+"mc" : "6.82B",
+"cp" : "3.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7549764",
+"name" : "Ganga Papers India Ltd",
+"t" : "531813",
+"e" : "BOM",
+"l" : "61.65",
+"c" : "0.00",
+"mc" : "665.13M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6480457",
+"name" : "Ballarpur Industries Ltd",
+"t" : "BALLARPUR",
+"e" : "NSE",
+"l" : "13.80",
+"c" : "-0.05",
+"mc" : "17.91B",
+"cp" : "-0.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12454728",
+"name" : "Seshasayee Paper \u0026 Boards Ltd",
+"t" : "SESHAPAPER",
+"e" : "NSE",
+"l" : "880.00",
+"c" : "+7.95",
+"mc" : "11.04B",
+"cp" : "0.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1883618",
+"name" : "Sundaram Multi Pap Ltd",
+"t" : "SUNDARAM",
+"e" : "NSE",
+"l" : "3.65",
+"c" : "-0.05",
+"mc" : "978.14M",
+"cp" : "-1.35",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Heera Plaza, 4th Floor Near Telephone Exchange Central Avenue, NAGPUR, 440002, India",
+"phone": "+91-712-2760308",
+"fax": "+91-712-2760310",
+"url": "http:\u002F\u002Fwww.malupaper.com\u002F",
+"overview" : "Malu Paper Mills Limited is an India-based company, which is engaged in manufacturing of paper. The Company manufactures Kraft paper and newsprint and writing printing paper. The Company has two divisions: Kraft Division and Newsprint \u0026 Writing Printing Division. The Company has approximately three paper manufacturing units in Nagpur, Central India, which have a capacity of over 13,500 tons per annum (TPA) of Kraft Paper, approximately 19,800 TPA of Newsprint and over 49,500 million tons (MT) of Newsprint and Writing Printing Paper. The Company has interests in steam coal trading, manufacturing of welding electrodes, manganese processing, steel castings and exports. The Company\u0027s plants are located in Saoner Taluka of Nagpur District approximately 30 kilometers from Nagpur on the Nagpur-Bhopal National Highway in Vidarbha Region of Maharashtra."
+} ]
+, "management" : [
+{
+"name" : "Banwarilal Malu",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Punamchand Malu",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Damodarlal Malu",
+"age" : "80",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Vasudeo Malu",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Satyanarayan Rathi",
+"age" : "59",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Shyamsunder Shivnarayan Sarda",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Chandrakant Thakar",
+"age" : "59",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

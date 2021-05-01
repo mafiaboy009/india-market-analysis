@@ -1,0 +1,290 @@
+
+// [
+{
+"symbol" : "523395",
+"exchange" : "BOM",
+"id": "715442",
+"t" : "523395",
+"e" : "BOM",
+"name" : "3M India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:523395"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:523395"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:523395"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.20%",
+"annual" : "9.80%",
+"ttm" : "12.07%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "18.00%",
+"annual" : "13.10%",
+"ttm" : "16.24%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.01%",
+"ttm" : "17.92%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "14.33%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "21.74%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,373",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-119.90",
+"l" : "20,631.25",
+"cp" : "-0.58",
+"ccol" : "chr",
+"op" : "20,752.40",
+"hi" : "20,937.75",
+"lo" : "20,605.00",
+"vo" : "65.00",
+"avvo" : "",
+"hi52" : "22,563.95",
+"lo52" : "10,750.00",
+"mc" : "232.90B",
+"pe" : "75.49",
+"fwpe" : "",
+"beta" : "",
+"eps" : "273.31",
+"dy" : "",
+"ldiv" : "",
+"shares" : "11.27M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715442",
+"name" : "3M India Ltd",
+"t" : "523395",
+"e" : "BOM",
+"l" : "20,631.25",
+"c" : "-119.90",
+"mc" : "232.90B",
+"cp" : "-0.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5434661",
+"name" : "Grindwell Norton Ltd",
+"t" : "GRINDWELL",
+"e" : "NSE",
+"l" : "495.50",
+"c" : "-2.70",
+"mc" : "54.66B",
+"cp" : "-0.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1443805",
+"name" : "Welcast Steels Ltd",
+"t" : "504988",
+"e" : "BOM",
+"l" : "936.00",
+"c" : "-13.15",
+"mc" : "589.34M",
+"cp" : "-1.39",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14172498",
+"name" : "Orient Abrasives Ltd.",
+"t" : "ORIENTABRA",
+"e" : "NSE",
+"l" : "44.90",
+"c" : "+2.05",
+"mc" : "5.33B",
+"cp" : "4.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1414659",
+"name" : "Carborundum Universal Ltd",
+"t" : "CARBORUNIV",
+"e" : "NSE",
+"l" : "358.35",
+"c" : "+1.45",
+"mc" : "67.68B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2889377",
+"name" : "Gillette India Limited",
+"t" : "GILLETTE",
+"e" : "NSE",
+"l" : "6,649.95",
+"c" : "+3.90",
+"mc" : "217.80B",
+"cp" : "0.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10831975",
+"name" : "JHS Svendgaard Laboratories Limited",
+"t" : "JHS",
+"e" : "NSE",
+"l" : "67.45",
+"c" : "-0.40",
+"mc" : "3.00B",
+"cp" : "-0.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12054339",
+"name" : "Elder Health Care Ltd",
+"t" : "524830",
+"e" : "BOM",
+"l" : "8.55",
+"c" : "0.00",
+"mc" : "34.91M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7129747",
+"name" : "Brushman (India) Limited",
+"t" : "590061",
+"e" : "BOM",
+"l" : "1.15",
+"c" : "",
+"mc" : "16.97M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "2987318",
+"name" : "Bombay Burmah Trading Corporation Ltd",
+"t" : "BBTC",
+"e" : "NSE",
+"l" : "1,523.10",
+"c" : "-28.40",
+"mc" : "106.37B",
+"cp" : "-1.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8719871",
+"name" : "I Power Solutions India Ltd",
+"t" : "512405",
+"e" : "BOM",
+"l" : "1.78",
+"c" : "0.00",
+"mc" : "7.92M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Concorde Block UB City, 24,Vittal Mallaya Road, BANGALORE, 560001, India",
+"phone": "+91-80-22231414",
+"fax": "+91-80-22231450",
+"url": "http:\u002F\u002Fwww.3mindia.in\u002F3M\u002Fen_IN\u002Fcompany-in\u002F?WT.mc_id=www.3MIndia.in",
+"overview" : "3M India Limited is a technology company. The Company\u0027s segments include Industrial segment, which offers tapes, adhesives, advanced ceramics, sealants, specialty materials, closure systems for personal hygiene products, as well as offers Scotch Masking Tape, Scotch Filament Tape and Scotch Packaging Tape\u003B packaging equipment, and 3M VHB Bonding Tapes\u003B Health Care segment, which offers medical and surgical supplies, medical devices, skin and wound care and infection prevention products and solutions and drug delivery systems\u003B Safety and Graphics segment, which offers personal protection products and security products, among others\u003B Consumer segment, which offers office supply products, stationery products and home care products in brands, such as Post-it, Scotch-Brite and Nexcare, and Energy segment offers 3M Scotchkote Fusion Bonded Epoxy powders. The Company also supports solar and wind energy projects through product solutions, such as films, tapes, coatings and adhesives."
+} ]
+, "management" : [
+{
+"name" : "Bharat D. Shah",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "V. Srinivasan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Debarati Sen",
+"title" : "Managing Director, Additional Director"
+}
+,
+{
+"name" : "B. V. Shankaranarayana Rao",
+"age" : "56",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Manuel Benigno Pardo Herrera",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Amit Laroya",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Jong-Ho Lee",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Ramesh Ramadurai",
+"age" : "53",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Albert C. Wang",
+"age" : "46",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

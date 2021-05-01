@@ -1,0 +1,276 @@
+
+// [
+{
+"symbol" : "539354",
+"exchange" : "BOM",
+"id": "706098",
+"t" : "539354",
+"e" : "BOM",
+"name" : "Polyspin Exports Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=POEX.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:539354"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:539354"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:539354"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.84%",
+"annual" : "2.10%",
+"ttm" : "2.78%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.18%",
+"annual" : "2.68%",
+"ttm" : "3.93%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.54%",
+"ttm" : "5.64%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.46%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.47%",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "130.00",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "133.50",
+"hi" : "133.50",
+"lo" : "125.00",
+"vo" : "692.00",
+"avvo" : "",
+"hi52" : "139.90",
+"lo52" : "58.65",
+"mc" : "520.00M",
+"pe" : "10.83",
+"fwpe" : "",
+"beta" : "",
+"eps" : "12.00",
+"dy" : "0.92",
+"ldiv" : "1.20",
+"shares" : "4.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "706098",
+"name" : "Polyspin Exports Ltd.",
+"t" : "539354",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "0.00",
+"mc" : "520.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2136769",
+"name" : "Jumbo Bag Ltd",
+"t" : "JUMBO",
+"e" : "NSE",
+"l" : "4.30",
+"c" : "",
+"mc" : "36.01M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "719858",
+"name" : "Kanpur Plastipack Limited",
+"t" : "507779",
+"e" : "BOM",
+"l" : "138.50",
+"c" : "-2.30",
+"mc" : "1.65B",
+"cp" : "-1.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6629361",
+"name" : "Flexituff International Ltd",
+"t" : "FLEXITUFF",
+"e" : "NSE",
+"l" : "70.50",
+"c" : "-0.60",
+"mc" : "1.76B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "876875204718610",
+"name" : "Commercial Syn Bags Ltd",
+"t" : "539986",
+"e" : "BOM",
+"l" : "48.00",
+"c" : "0.00",
+"mc" : "567.24M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1432072",
+"name" : "Neo Corp International Ltd",
+"t" : "523820",
+"e" : "BOM",
+"l" : "3.01",
+"c" : "0.00",
+"mc" : "114.45M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11726545",
+"name" : "Rishi Techtex Ltd",
+"t" : "523021",
+"e" : "BOM",
+"l" : "66.50",
+"c" : "-4.00",
+"mc" : "491.50M",
+"cp" : "-5.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "728728",
+"name" : "Gloster Ltd",
+"t" : "538595",
+"e" : "BOM",
+"l" : "658.00",
+"c" : "-8.10",
+"mc" : "6.88B",
+"cp" : "-1.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "716770",
+"name" : "Jai Corp Ltd",
+"t" : "512237",
+"e" : "BOM",
+"l" : "164.70",
+"c" : "+2.75",
+"mc" : "29.44B",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10814901",
+"name" : "Sel Manufacturing Company Ltd",
+"t" : "SELMCL",
+"e" : "NSE",
+"l" : "2.45",
+"c" : "-0.05",
+"mc" : "795.88M",
+"cp" : "-2.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "720439",
+"name" : "Jhaveri Flexo India Limited",
+"t" : "JHAVFLEXO",
+"e" : "BOM",
+"l" : "24.50",
+"c" : "",
+"mc" : "616.44M",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "1, Railway Feeder Road, Cholapuram South, CHOLAPURAM, 626139, India",
+"phone": "+91-4563-284503",
+"fax": "+91-4563-284505",
+"url": "http:\u002F\u002Fwww.polyspin.in\u002F",
+"overview" : "Polyspin Exports Limited is an India-based company, which is engaged in the production and sale of flexible intermediate bulk container (FIBC) bags, fabric and yarn, and cotton yarn. The Company\u0027s segments include FIBC Bags, Fabric, Yarn, and Cotton Yarn. The Company\u0027s products also include open-end (OE) spinning yarn, polypropylene (PP) Woven Bags, PP Woven Fabrics, PP Yarn and Paper Bags. It is also engaged in generating power from the Windmill installed at Pazhavoor Taluk. The Company\u0027s manufacturing plants include export oriented unit (EOU)-FIBC Bags and Woven Bags Division, which is located in Rajapalayam, Tamilnadu\u003B OE Yarn Unit-division, which is located in Cholapuram South, Rajapalayam, and Windmill Unit (approximately 250 kilowatts), which is located in Pazhavoor Taluk, Tirunelveli District."
+} ]
+, "management" : [
+{
+"name" : "S. Seenivasa Varathan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "R. Ramji",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "S. V. Ravi",
+"age" : "52",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "S. R. Subramanian",
+"age" : "70",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "K. Lakshmi Narayanan",
+"age" : "80",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "A. Thiruppathy Raja",
+"age" : "64",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "S. Sankar",
+"age" : "54",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

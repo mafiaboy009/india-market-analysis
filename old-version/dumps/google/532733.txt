@@ -1,0 +1,296 @@
+
+// [
+{
+"symbol" : "532733",
+"exchange" : "BOM",
+"id": "705697",
+"t" : "532733",
+"e" : "BOM",
+"name" : "Sun TV Network Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532733"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532733"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532733"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002708)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.23%",
+"annual" : "38.96%",
+"ttm" : "35.85%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "33.36%",
+"annual" : "52.07%",
+"ttm" : "54.44%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "76.44%",
+"ttm" : "68.69%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "25.32%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "27.46%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,959",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+20.45",
+"l" : "949.50",
+"cp" : "2.20",
+"ccol" : "chg",
+"op" : "944.95",
+"hi" : "956.40",
+"lo" : "923.00",
+"vo" : "71,222.00",
+"avvo" : "",
+"hi52" : "1,097.05",
+"lo52" : "652.30",
+"mc" : "372.64B",
+"pe" : "89.15",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.65",
+"dy" : "0.79",
+"ldiv" : "2.50",
+"shares" : "394.08M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "705697",
+"name" : "Sun TV Network Ltd.",
+"t" : "532733",
+"e" : "BOM",
+"l" : "949.50",
+"c" : "+20.45",
+"mc" : "372.64B",
+"cp" : "2.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "134378019443136",
+"name" : "Diksat Transworld Ltd",
+"t" : "540151",
+"e" : "BOM",
+"l" : "72.00",
+"c" : "0.00",
+"mc" : "1.24B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "672876",
+"name" : "Zee Entertainment Enterprises Limited",
+"t" : "505537",
+"e" : "BOM",
+"l" : "586.40",
+"c" : "+16.20",
+"mc" : "565.14B",
+"cp" : "2.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1803644",
+"name" : "Jain Studios Ltd",
+"t" : "JAINSTUDIO",
+"e" : "NSE",
+"l" : "4.45",
+"c" : "-0.20",
+"mc" : "127.25M",
+"cp" : "-4.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "26837369213470",
+"name" : "Shemaroo Entertainment Ltd",
+"t" : "SHEMAROO",
+"e" : "NSE",
+"l" : "527.00",
+"c" : "+2.55",
+"mc" : "14.39B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5919896",
+"name" : "New Delhi Television Limited",
+"t" : "NDTV",
+"e" : "NSE",
+"l" : "43.30",
+"c" : "0.00",
+"mc" : "2.80B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6281100",
+"name" : "Sri Adhikari Brothers Television Network",
+"t" : "SABTN",
+"e" : "NSE",
+"l" : "21.25",
+"c" : "-0.10",
+"mc" : "737.39M",
+"cp" : "-0.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3689364",
+"name" : "Raj Television Network Limited",
+"t" : "RAJTV",
+"e" : "NSE",
+"l" : "56.55",
+"c" : "+1.05",
+"mc" : "2.93B",
+"cp" : "1.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1979135",
+"name" : "B.A.G Films \u0026 Media Ltd.",
+"t" : "BAGFILMS",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "-0.15",
+"mc" : "1.18B",
+"cp" : "-2.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3950734",
+"name" : "TV18 Broadcast Ltd",
+"t" : "TV18BRDCST",
+"e" : "NSE",
+"l" : "60.00",
+"c" : "+1.55",
+"mc" : "102.69B",
+"cp" : "2.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715516",
+"name" : "Sahara One Media \u0026 Entertainment Ltd.",
+"t" : "503691",
+"e" : "BOM",
+"l" : "44.05",
+"c" : "0.00",
+"mc" : "948.18M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Murasoli Maran Towers 73, MRC Nagar Main Road, MRC Nagar, CHENNAI, 600028, India",
+"phone": "+91-44-44676767",
+"fax": "+91-44-40676161",
+"url": "http:\u002F\u002Fwww.sunnetwork.in\u002F",
+"overview" : "Sun TV Network Limited is engaged in providing broadcasting services. The Company operates through Media and Entertainment segment. Its geographical segments include India and Others. It is engaged in producing and broadcasting satellite television and radio software programming in the regional languages of South India. It operates television channels in approximately four South Indian languages to viewers in India, and also to viewers in Sri Lanka, Singapore, Malaysia, the United Kingdom, Europe, the Middle East, the United States, Australia, South Africa and Canada. It operates Sun TV channel. Its other satellite channels are Surya TV, Gemini TV and Udaya TV. It is also into the business of frequency modulation (FM) radio broadcasting at Chennai, Coimbatore and Tirunelveli. It also has the license to operate an Indian Premier League franchise Sun Risers Hyderabad. It has presence across various genres, such as general entertainment, movies, music, news, kids, action and life."
+} ]
+, "management" : [
+{
+"name" : "Kalanithi Maran",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "K. Vijaykumar",
+"age" : "47",
+"title" : "Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "V. C. Unnikrishnan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "C. Praveen",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "S. Kannan",
+"title" : "Chief Technical Officer"
+}
+,
+{
+"name" : "R. Ravi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kavery Kalanithi",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "S. Selvam",
+"age" : "74",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "M. K. Harinarayanan",
+"age" : "49",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Nicholas Martin Paul",
+"age" : "47",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

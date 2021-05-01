@@ -1,0 +1,360 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 55045603328,
+            "fmt": "55.05B",
+            "longFmt": "55,045,603,328"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.60735,
+            "fmt": "-60.73%"
+          },
+          "floatShares": {
+            "raw": 109698775,
+            "fmt": "109.7M",
+            "longFmt": "109,698,775"
+          },
+          "sharesOutstanding": {
+            "raw": 157296992,
+            "fmt": "157.3M",
+            "longFmt": "157,296,992"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.899186,
+            "fmt": "0.9"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -379.445,
+            "fmt": "-379.45"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1396224000,
+            "fmt": "2014-03-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -9938700288,
+            "fmt": "-9.94B",
+            "longFmt": "-9,938,700,288"
+          },
+          "trailingEps": {
+            "raw": -63.183,
+            "fmt": "-63.18"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 3.364,
+            "fmt": "3.36"
+          },
+          "enterpriseToEbitda": {
+            "raw": -64.805,
+            "fmt": "-64.81"
+          },
+          "52WeekChange": {
+            "raw": -0.6203077,
+            "fmt": "-62.03%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 16181300000,
+                  "fmt": "16.18B",
+                  "longFmt": "16,181,300,000"
+                },
+                "earnings": {
+                  "raw": -5613900000,
+                  "fmt": "-5.61B",
+                  "longFmt": "-5,613,900,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 16746900000,
+                  "fmt": "16.75B",
+                  "longFmt": "16,746,900,000"
+                },
+                "earnings": {
+                  "raw": -11148900000,
+                  "fmt": "-11.15B",
+                  "longFmt": "-11,148,900,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 16831900000,
+                  "fmt": "16.83B",
+                  "longFmt": "16,831,900,000"
+                },
+                "earnings": {
+                  "raw": -28676100000,
+                  "fmt": "-28.68B",
+                  "longFmt": "-28,676,100,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 16362600000,
+                  "fmt": "16.36B",
+                  "longFmt": "16,362,600,000"
+                },
+                "earnings": {
+                  "raw": -9937900000,
+                  "fmt": "-9.94B",
+                  "longFmt": "-9,937,900,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2013",
+                "revenue": {
+                  "raw": 6518100000,
+                  "fmt": "6.52B",
+                  "longFmt": "6,518,100,000"
+                },
+                "earnings": {
+                  "raw": -1397100000,
+                  "fmt": "-1.4B",
+                  "longFmt": "-1,397,100,000"
+                }
+              },
+              {
+                "date": "3Q2013",
+                "revenue": {
+                  "raw": 6298600000,
+                  "fmt": "6.3B",
+                  "longFmt": "6,298,600,000"
+                },
+                "earnings": {
+                  "raw": -1817400000,
+                  "fmt": "-1.82B",
+                  "longFmt": "-1,817,400,000"
+                }
+              },
+              {
+                "date": "4Q2013",
+                "revenue": {
+                  "raw": 7252730000,
+                  "fmt": "7.25B",
+                  "longFmt": "7,252,730,000"
+                },
+                "earnings": {
+                  "raw": -1446086000,
+                  "fmt": "-1.45B",
+                  "longFmt": "-1,446,086,000"
+                }
+              },
+              {
+                "date": "1Q2014",
+                "revenue": {
+                  "raw": 6260926000,
+                  "fmt": "6.26B",
+                  "longFmt": "6,260,926,000"
+                },
+                "earnings": {
+                  "raw": -953291000,
+                  "fmt": "-953.29M",
+                  "longFmt": "-953,291,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "412, Jamabhoomi Chambers",
+          "address2": "29, Walchand Hirachand Marg Ballard Estate",
+          "city": "Mumbai",
+          "zip": "400038",
+          "country": "India",
+          "phone": "91 22 2271 5000",
+          "fax": "91 22 2271 5332",
+          "website": "http://www.gtllimited.com",
+          "industry": "Information Technology Services",
+          "sector": "Technology",
+          "longBusinessSummary": "GTL Limited, a network services company, offers services and solutions to address the network life cycle requirements of telecom operators, technology providers (OEM's), and tower companies in the Asia Pacific, Europe, and the Middle East. The company provides network planning and design services, including radio frequency and transmission engineering, as well as fixed and core network engineering for GSM, CDMA, microwave transmission, SDH, DWDM, WiMAX, and broadband networks; and benchmarking and optimization solutions. It also offers network deployment services; operations and maintenance services; managed network services comprising network planning and design, system engineering, installation and commissioning, system integration, optimization, network operations, and field maintenance; and energy management solutions. In addition, the company provides site acquisition services, consulting, and professional services. GTL Limited was incorporated in 1987 and is based in Mumbai, India.",
+          "fullTimeEmployees": 6383,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 6.03,
+            "fmt": "6.03"
+          },
+          "targetHighPrice": {
+            "raw": 484.0,
+            "fmt": "484.00"
+          },
+          "targetLowPrice": {
+            "raw": 484.0,
+            "fmt": "484.00"
+          },
+          "targetMeanPrice": {
+            "raw": 484.0,
+            "fmt": "484.00"
+          },
+          "targetMedianPrice": {
+            "raw": 484.0,
+            "fmt": "484.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 2650299904,
+            "fmt": "2.65B",
+            "longFmt": "2,650,299,904"
+          },
+          "totalCashPerShare": {
+            "raw": 16.849,
+            "fmt": "16.85"
+          },
+          "ebitda": {
+            "raw": -849400000,
+            "fmt": "-849.4M",
+            "longFmt": "-849,400,000"
+          },
+          "totalDebt": {
+            "raw": 55781601280,
+            "fmt": "55.78B",
+            "longFmt": "55,781,601,280"
+          },
+          "quickRatio": {
+            "raw": 0.057,
+            "fmt": "0.06"
+          },
+          "currentRatio": {
+            "raw": 0.099,
+            "fmt": "0.10"
+          },
+          "totalRevenue": {
+            "raw": 16362600448,
+            "fmt": "16.36B",
+            "longFmt": "16,362,600,448"
+          },
+          "debtToEquity": {
+            "raw": 516.343,
+            "fmt": "516.34"
+          },
+          "revenuePerShare": {
+            "raw": 104.022,
+            "fmt": "104.02"
+          },
+          "returnOnAssets": {
+            "raw": -0.0388,
+            "fmt": "-3.88%"
+          },
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 2752500000,
+            "fmt": "2.75B",
+            "longFmt": "2,752,500,000"
+          },
+          "freeCashflow": {
+            "raw": 1434974976,
+            "fmt": "1.43B",
+            "longFmt": "1,434,974,976"
+          },
+          "operatingCashflow": {
+            "raw": 761000000,
+            "fmt": "761M",
+            "longFmt": "761,000,000"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.043,
+            "fmt": "-4.30%"
+          },
+          "grossMargins": {
+            "raw": 0.16822,
+            "fmt": "16.82%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.051909998,
+            "fmt": "-5.19%"
+          },
+          "operatingMargins": {
+            "raw": -0.082440004,
+            "fmt": "-8.24%"
+          },
+          "profitMargins": {
+            "raw": -0.60735,
+            "fmt": "-60.73%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

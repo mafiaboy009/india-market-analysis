@@ -1,0 +1,300 @@
+
+ [
+{
+"symbol" : "534816",
+"exchange" : "BOM",
+"id": "528253540142002",
+"t" : "534816",
+"e" : "BOM",
+"name" : "Bharti Infratel Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:534816"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:534816"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:534816"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "34.51%",
+"annual" : "45.15%",
+"ttm" : "37.91%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "29.76%",
+"annual" : "27.27%",
+"ttm" : "29.82%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "47.27%",
+"ttm" : "47.89%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "12.60%",
+"annual" : "13.24%",
+"ttm" : "12.72%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "14.57%",
+"annual" : "16.28%",
+"ttm" : "14.61%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,279",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+5.50",
+"l" : "345.70",
+"cp" : "1.62",
+"ccol" : "chg",
+"op" : "339.50",
+"hi" : "347.45",
+"lo" : "336.40",
+"vo" : "34,818.00",
+"avvo" : "",
+"hi52" : "481.90",
+"lo52" : "283.10",
+"mc" : "643.00B",
+"pe" : "25.79",
+"fwpe" : "",
+"beta" : "",
+"eps" : "13.41",
+"dy" : "4.63",
+"ldiv" : "4.00",
+"shares" : "1.85B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "528253540142002",
+"name" : "Bharti Infratel Ltd",
+"t" : "534816",
+"e" : "BOM",
+"l" : "345.70",
+"c" : "+5.50",
+"mc" : "643.00B",
+"cp" : "1.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12319999",
+"name" : "GTL Infrastructure Limited",
+"t" : "GTLINFRA",
+"e" : "NSE",
+"l" : "5.15",
+"c" : "+0.05",
+"mc" : "63.06B",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "620277",
+"name" : "Neueon Towers Ltd",
+"t" : "NTL",
+"e" : "NSE",
+"l" : "3.80",
+"c" : "-0.20",
+"mc" : "209.63M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "730951",
+"name" : "BS Ltd",
+"t" : "BSLIMITED",
+"e" : "NSE",
+"l" : "1.30",
+"c" : "+0.05",
+"mc" : "552.10M",
+"cp" : "4.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10407021",
+"name" : "Shriram EPC Limited",
+"t" : "SHRIRAMEPC",
+"e" : "NSE",
+"l" : "32.00",
+"c" : "+2.55",
+"mc" : "31.19B",
+"cp" : "8.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10762689",
+"name" : "Expo Gas Containers Ltd",
+"t" : "526614",
+"e" : "BOM",
+"l" : "11.00",
+"c" : "+0.01",
+"mc" : "209.40M",
+"cp" : "0.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15284677",
+"name" : "Kalpataru Power Transmission Limited",
+"t" : "KALPATPOWR",
+"e" : "NSE",
+"l" : "483.00",
+"c" : "+22.35",
+"mc" : "73.82B",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9964748",
+"name" : "Jyoti Structures Limited",
+"t" : "JYOTISTRUC",
+"e" : "NSE",
+"l" : "10.75",
+"c" : "+0.50",
+"mc" : "1.17B",
+"cp" : "4.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9747293",
+"name" : "Mukand Engineers Limited",
+"t" : "MUKANDENGG",
+"e" : "NSE",
+"l" : "42.75",
+"c" : "+0.90",
+"mc" : "538.11M",
+"cp" : "2.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4100224",
+"name" : "Om Metals Infraprojects Ltd.",
+"t" : "OMMETALS",
+"e" : "NSE",
+"l" : "62.35",
+"c" : "+0.50",
+"mc" : "5.99B",
+"cp" : "0.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "571281",
+"name" : "Premier Energy and Infrastructure Ltd",
+"t" : "533100",
+"e" : "BOM",
+"l" : "4.60",
+"c" : "0.00",
+"mc" : "190.21M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Park Centra Sector-30, village Silokhara, GURGAON, 122001, India",
+"phone": "+91-124-4132222",
+"fax": "+91-124-4109580",
+"url": "http:\u002F\u002Fwww.bharti-infratel.com\u002F",
+"overview" : "Bharti Infratel Limited is a provider of tower and related infrastructure, and deploys, owns and manages telecom towers and communication structures for various mobile operators. . The Company’s consolidated portfolio consists of over 90,000 telecom towers, which includes over 38,997 of its own towers and the balance from its 42% equity interest in Indus Towers Limited, and has a presence in all 22 telecom circles in India. The services offered by the Company include Tower Infrastructure Solutions, Tower Operations Center, Infratel Enterprise Suite and Advantage Infratel."
+} ]
+, "management" : [
+{
+"name" : "Akhil Kumar Gupta",
+"age" : "61",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Devender Singh Rawat",
+"age" : "49",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Pankaj Miglani",
+"age" : "47",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Dhananjay K. Joshi",
+"age" : "57",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Dipak Roy",
+"age" : "50",
+"title" : "Chief Human Resource Officer"
+}
+,
+{
+"name" : "Alka Selot Asthana",
+"title" : "Chief Technology Officer"
+}
+,
+{
+"name" : "Prashant Veer Singh",
+"age" : "47",
+"title" : "Chief Information Officer"
+}
+,
+{
+"name" : "Biswajit Patnaik",
+"age" : "44",
+"title" : "Chief Sales \u0026 Marketing Officer"
+}
+,
+{
+"name" : "Samridhi Rodhe",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajiv Arora",
+"age" : "46",
+"title" : "Chief Legal Regulatory Affairs"
+}
+]
+,"moreresources" : [
+]
+}]

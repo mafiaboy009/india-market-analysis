@@ -1,0 +1,295 @@
+
+// [
+{
+"symbol" : "532286",
+"exchange" : "BOM",
+"id": "690281",
+"t" : "532286",
+"e" : "BOM",
+"name" : "Jindal Steel \u0026 Power Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532286"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532286"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532286"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-3.96%",
+"annual" : "-11.19%",
+"ttm" : "-5.08%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.20%",
+"annual" : "1.68%",
+"ttm" : "7.90%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "21.09%",
+"ttm" : "22.88%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.78%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-7.30%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "6,071",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.70",
+"l" : "267.40",
+"cp" : "1.02",
+"ccol" : "chg",
+"op" : "267.00",
+"hi" : "270.80",
+"lo" : "264.85",
+"vo" : "593,793.00",
+"avvo" : "",
+"hi52" : "294.15",
+"lo52" : "103.00",
+"mc" : "245.06B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-12.54",
+"dy" : "",
+"ldiv" : "",
+"shares" : "916.44M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "690281",
+"name" : "Jindal Steel \u0026 Power Limited",
+"t" : "532286",
+"e" : "BOM",
+"l" : "267.40",
+"c" : "+2.70",
+"mc" : "245.06B",
+"cp" : "1.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3952531",
+"name" : "Pennar Industries Ltd",
+"t" : "PENIND",
+"e" : "NSE",
+"l" : "61.50",
+"c" : "+2.15",
+"mc" : "7.40B",
+"cp" : "3.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722448",
+"name" : "Rajkumar Forge limited",
+"t" : "513369",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "+1.60",
+"mc" : "437.58M",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15110548",
+"name" : "Srikalahasthi Pipes Ltd",
+"t" : "SRIPIPES",
+"e" : "NSE",
+"l" : "358.25",
+"c" : "+2.25",
+"mc" : "16.70B",
+"cp" : "0.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15239521",
+"name" : "K I C Metaliks Ltd",
+"t" : "513693",
+"e" : "BOM",
+"l" : "184.95",
+"c" : "-3.75",
+"mc" : "1.31B",
+"cp" : "-1.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15391558",
+"name" : "Kamdhenu Ltd",
+"t" : "KAMDHENU",
+"e" : "NSE",
+"l" : "266.85",
+"c" : "+12.70",
+"mc" : "6.24B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3354749",
+"name" : "Surana Industries Ltd",
+"t" : "SURANAIND",
+"e" : "NSE",
+"l" : "3.20",
+"c" : "0.00",
+"mc" : "138.14M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "116296903323442",
+"name" : "Skipper Ltd",
+"t" : "SKIPPER",
+"e" : "NSE",
+"l" : "240.00",
+"c" : "-1.05",
+"mc" : "24.68B",
+"cp" : "-0.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14710679",
+"name" : "OCL Iron and Steel Limited",
+"t" : "OISL",
+"e" : "NSE",
+"l" : "3.70",
+"c" : "-0.10",
+"mc" : "502.95M",
+"cp" : "-2.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7019095",
+"name" : "Vikash Metal \u0026 Power Ltd.",
+"t" : "VIKASHMET",
+"e" : "NSE",
+"l" : "4.45",
+"c" : "0.00",
+"mc" : "316.80M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Jindal Centre, 12 Bhikaiji Cama Place, NEW DELHI, 110066, India",
+"phone": "+91-11-26188340",
+"fax": "+91-11-26161271",
+"url": "http:\u002F\u002Fwww.jindalsteelpower.com",
+"overview" : "Jindal Steel and Power Limited is an India-based steel producer. The Company\u0027s segments include Iron \u0026 Steel, Power and Other. The Other segment consists of aviation services and machinery division. The Company\u0027s product portfolio consists of steel product mix, construction solutions, and construction material and solutions. Its steel product mix category includes rails and head hardened rails, parallel flange beams and columns, angles and channels, plates, coils and wire rods. Its construction solutions category includes fabricated steel section, speedfloor, light gauge structures, insulated dry wall panel and Jindal Global Road Stabilizers (JGRS). Its construction material and solutions category includes Jindal Panther Cement, Fly-Ash Bricks and Light Weight Aggregate (LWA). It has an installed steel-making capacity of over 6.75 million tons per annum (MTPA)\u003B an installed power generation capacity of approximately 5,060 megawatts, and pellet-making capacity of over nine MTPA."
+} ]
+, "management" : [
+{
+"name" : "Naveen Jindal",
+"age" : "42",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Deepak Sogani",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Jagadish Patrra",
+"title" : "Vice President, Company Secretary"
+}
+,
+{
+"name" : "Rajeev Rupendra Bhadauria",
+"age" : "54",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Dinesh Kumar Saraogi",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Anjan Barua",
+"title" : "Nominee Director - State Bank India"
+}
+,
+{
+"name" : "Shallu Jindal",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Amar Singh",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Sudershan Kumar Garg",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Arun Kumar",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

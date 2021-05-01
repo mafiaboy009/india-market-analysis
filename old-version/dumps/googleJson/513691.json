@@ -1,0 +1,281 @@
+
+ [
+{
+"symbol" : "513691",
+"exchange" : "BOM",
+"id": "715322",
+"t" : "513691",
+"e" : "BOM",
+"name" : "JMT Auto Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:513691"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:513691"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:513691"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.78%",
+"annual" : "1.37%",
+"ttm" : "1.52%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.96%",
+"annual" : "7.52%",
+"ttm" : "7.17%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.85%",
+"ttm" : "42.69%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.24%",
+"ttm" : "0.38%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.08%",
+"ttm" : "2.27%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "626",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.07",
+"l" : "5.07",
+"cp" : "1.40",
+"ccol" : "chg",
+"op" : "5.05",
+"hi" : "5.18",
+"lo" : "4.90",
+"vo" : "131,351.00",
+"avvo" : "",
+"hi52" : "15.50",
+"lo52" : "3.45",
+"mc" : "2.55B",
+"pe" : "50.13",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.10",
+"dy" : "",
+"ldiv" : "",
+"shares" : "503.75M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715322",
+"name" : "JMT Auto Ltd",
+"t" : "513691",
+"e" : "BOM",
+"l" : "5.07",
+"c" : "+0.07",
+"mc" : "2.55B",
+"cp" : "1.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16529291",
+"name" : "Bosch Ltd",
+"t" : "BOSCHLTD",
+"e" : "NSE",
+"l" : "19,070.05",
+"c" : "+149.45",
+"mc" : "581.93B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "703781",
+"name" : "Greaves Cotton Ltd",
+"t" : "GREAVESCOT",
+"e" : "NSE",
+"l" : "126.05",
+"c" : "+2.30",
+"mc" : "30.63B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5574558",
+"name" : "Menon Bearings Ltd",
+"t" : "523828",
+"e" : "BOM",
+"l" : "107.10",
+"c" : "+7.65",
+"mc" : "6.01B",
+"cp" : "7.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14794075",
+"name" : "Castex Technologies Ltd",
+"t" : "CASTEXTECH",
+"e" : "NSE",
+"l" : "4.95",
+"c" : "+0.10",
+"mc" : "1.87B",
+"cp" : "2.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "84135840067224",
+"name" : "Endurance Technologies Ltd (CN)",
+"t" : "ENDURANCE",
+"e" : "NSE",
+"l" : "1,312.00",
+"c" : "+34.95",
+"mc" : "185.57B",
+"cp" : "2.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8527896",
+"name" : "Kirloskar Oil Engines Ltd",
+"t" : "KIRLOSENG",
+"e" : "NSE",
+"l" : "357.35",
+"c" : "+3.90",
+"mc" : "51.72B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15375890",
+"name" : "India Motor Parts Limited",
+"t" : "IMPAL",
+"e" : "NSE",
+"l" : "1,112.50",
+"c" : "+4.15",
+"mc" : "9.28B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3070975",
+"name" : "Alicon Castalloy Ltd",
+"t" : "ALICON",
+"e" : "NSE",
+"l" : "617.95",
+"c" : "-5.85",
+"mc" : "8.22B",
+"cp" : "-0.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15774934",
+"name" : "Swaraj Engines Limited",
+"t" : "SWARAJENG",
+"e" : "NSE",
+"l" : "1,933.05",
+"c" : "-10.90",
+"mc" : "24.12B",
+"cp" : "-0.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10757396",
+"name" : "Harig Crankshafts Ltd",
+"t" : "500178",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-0.80",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "C-19 \u0026 20, D-2-3, D-8-12, NS-29-34 7th Phase, Industrial Area Adityapur, JAMSHEDPUR, 832109, India",
+"phone": "+91-657-6626331",
+"fax": "+91-33-6572200280",
+"url": "http:\u002F\u002Fjmtauto.com\u002F",
+"overview" : "JMT Auto Limited is an auto component manufacturer in the eastern region. The Company is engaged in providing motor vehicle part and accessory manufacturing services. The Company operates in two geographical segments, which include Domestic and Export. The Company supplies a range of automotive components through technology-based manufacturing processes. It focuses on the industries, including light, medium and heavy commercial vehicles, tractors, diesel engines, and oil and gas. The Company manufactures approximately 2,000 components, which range from engine components, gears, shafts, pins, bushes, idler bearings, carrier housing, gear rings, axles, synchro cones, carriers, gear box assemblies, seal wear rings, oil pump cover, drums sleeves, carrier assemblies, pipe assemblies, flywheel assemblies, sear wear ring, cone and cup (heat treatment), bushes, oil pump gear, seat valve, lever rocker assembly, steering spindle, assemblies, engine gears, spindles, tractors and diesel engines."
+} ]
+, "management" : [
+{
+"name" : "Sanjay Tiku",
+"age" : "44",
+"title" : "Chief Executive Officer, Whole Time Director"
+}
+,
+{
+"name" : "Mona K. Bahadur",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sanjay Chhabra",
+"age" : "55",
+"title" : "Chairman of the Board, Independent Director"
+}
+,
+{
+"name" : "Aditya Malhotra",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Gautam Malhotra",
+"age" : "35",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "John Ernest Flintham",
+"age" : "62",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Anuradha Kapur",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

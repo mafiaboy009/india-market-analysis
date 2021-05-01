@@ -1,0 +1,203 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 48845000,
+            "fmt": "48.84M",
+            "longFmt": "48,845,000"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -2.26775,
+            "fmt": "-226.78%"
+          },
+          "floatShares": {
+            "raw": 6516705,
+            "fmt": "6.52M",
+            "longFmt": "6,516,705"
+          },
+          "sharesOutstanding": {
+            "raw": 17218800,
+            "fmt": "17.22M",
+            "longFmt": "17,218,800"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.455622,
+            "fmt": "0.46"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 9.477,
+            "fmt": "9.48"
+          },
+          "priceToBook": {
+            "raw": 0.32499734,
+            "fmt": "0.32"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -1140681,
+            "fmt": "-1.14M",
+            "longFmt": "-1,140,681"
+          },
+          "trailingEps": {
+            "raw": -0.064,
+            "fmt": "-0.06"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 97.107,
+            "fmt": "97.11"
+          },
+          "enterpriseToEbitda": {
+            "raw": -85.737,
+            "fmt": "-85.74"
+          },
+          "52WeekChange": {
+            "raw": 2.1914895,
+            "fmt": "219.15%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Wahab Complex",
+          "address2": "2nd Floor No. 60/134, Gowdia Mutt Road Royapettah",
+          "city": "Chennai",
+          "zip": "600014",
+          "country": "India",
+          "industry": "Technical & System Software",
+          "sector": "Technology",
+          "longBusinessSummary": "Omni Ax's Software Limited develops, produces, and sells computer software products in India. The company was incorporated in 1992 and is based in Chennai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 3.08,
+            "fmt": "3.08"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 480000,
+            "fmt": "480k",
+            "longFmt": "480,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.025,
+            "fmt": "0.03"
+          },
+          "ebitda": {
+            "raw": -569709,
+            "fmt": "-569.71k",
+            "longFmt": "-569,709"
+          },
+          "totalDebt": {
+            "raw": 575000,
+            "fmt": "575k",
+            "longFmt": "575,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 503000,
+            "fmt": "503k",
+            "longFmt": "503,000"
+          },
+          "debtToEquity": {
+            "raw": 0.463,
+            "fmt": "0.46"
+          },
+          "revenuePerShare": {
+            "raw": 0.028,
+            "fmt": "0.03"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": -45000,
+            "fmt": "-45k",
+            "longFmt": "-45,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.09543,
+            "fmt": "9.54%"
+          },
+          "ebitdaMargins": {
+            "raw": -1.13262,
+            "fmt": "-113.26%"
+          },
+          "operatingMargins": {
+            "raw": -2.24197,
+            "fmt": "-224.20%"
+          },
+          "profitMargins": {
+            "raw": -2.26775,
+            "fmt": "-226.78%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

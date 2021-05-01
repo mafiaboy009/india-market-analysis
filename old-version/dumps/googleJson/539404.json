@@ -1,0 +1,283 @@
+
+ [
+{
+"symbol" : "539404",
+"exchange" : "BOM",
+"id": "857618514848189",
+"t" : "539404",
+"e" : "BOM",
+"name" : "Satin Creditcare Network Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539404"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539404"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539404"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.20%",
+"annual" : "3.11%",
+"ttm" : "-9.86%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "60.00%",
+"annual" : "59.12%",
+"ttm" : "38.27%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "59.87%",
+"ttm" : "39.69%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.62%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.04%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5,801",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.35",
+"l" : "447.00",
+"cp" : "-0.74",
+"ccol" : "chr",
+"op" : "451.80",
+"hi" : "453.20",
+"lo" : "445.00",
+"vo" : "895.00",
+"avvo" : "",
+"hi52" : "525.25",
+"lo52" : "243.55",
+"mc" : "21.32B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-23.38",
+"dy" : "",
+"ldiv" : "",
+"shares" : "47.67M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "857618514848189",
+"name" : "Satin Creditcare Network Ltd",
+"t" : "539404",
+"e" : "BOM",
+"l" : "447.00",
+"c" : "-3.35",
+"mc" : "21.32B",
+"cp" : "-0.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8460861",
+"name" : "Capri Global Capital Ltd",
+"t" : "CGCL",
+"e" : "NSE",
+"l" : "101.50",
+"c" : "+1.65",
+"mc" : "17.80B",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "399986380824131",
+"name" : "SRS Finance Ltd",
+"t" : "536799",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "-0.04",
+"mc" : "93.22M",
+"cp" : "-4.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3873499",
+"name" : "Paragon Finance Ltd",
+"t" : "531255",
+"e" : "BOM",
+"l" : "24.90",
+"c" : "-2.60",
+"mc" : "105.82M",
+"cp" : "-9.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2203016",
+"name" : "Manappuram Finance Ltd",
+"t" : "MANAPPURAM",
+"e" : "NSE",
+"l" : "109.50",
+"c" : "+1.25",
+"mc" : "92.11B",
+"cp" : "1.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12125324",
+"name" : "Bharat Financial Inclusion Ltd",
+"t" : "BHARATFIN",
+"e" : "NSE",
+"l" : "1,030.45",
+"c" : "+30.25",
+"mc" : "141.96B",
+"cp" : "3.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "557538143932497",
+"name" : "MAS Financial Services Ltd",
+"t" : "MASFIN",
+"e" : "NSE",
+"l" : "597.05",
+"c" : "-3.95",
+"mc" : "32.64B",
+"cp" : "-0.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1026704",
+"name" : "Magma Fincorp Ltd",
+"t" : "MAGMA",
+"e" : "NSE",
+"l" : "165.05",
+"c" : "+3.15",
+"mc" : "39.09B",
+"cp" : "1.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7977316",
+"name" : "L\u0026T Finance Holdings Ltd",
+"t" : "L\u0026TFH",
+"e" : "NSE",
+"l" : "168.00",
+"c" : "+5.80",
+"mc" : "305.14B",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2732015",
+"name" : "Capital First Ltd",
+"t" : "CAPF",
+"e" : "NSE",
+"l" : "674.00",
+"c" : "+1.45",
+"mc" : "66.57B",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6507757",
+"name" : "Haryana Financial Corp",
+"t" : "530927",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-24.65",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": ", NEW DELHI, 110001, India",
+"phone": "+91-11-47545000",
+"fax": "+91-11-23328951",
+"url": "http:\u002F\u002Fwww.satincreditcare.com",
+"overview" : "Satin Creditcare Network Limited is a non-deposit accepting micro finance non-banking financial company, which is engaged in microfinance activities. The Company operates through finance segment. The Company\u0027s products and services include agriculture and animal husbandry, trading and service, production and others. The Company also offers loans to individual businesses\u003B loans to micro, small and medium enterprises (MSMEs)\u003B product loans for financing purchase of solar lamps, and loans for development of water connection and sanitation facilities. The Company offers its clients income generating loan (IGL) product based on their repayment ability. It operates in Uttar Pradesh, Bihar, Madhya Pradesh, Punjab, Uttarakhand, Rajasthan, Haryana, Maharashtra, Delhi and National Capital Region (NCR), Jharkhand, Chhattisgarh, Gujarat, West Bengal, Jammu and Kashmir, Himachal Pradesh and Chandigarh, with a focus on rural and semi-rural areas."
+} ]
+, "management" : [
+{
+"name" : "H.P. Singh",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Jugal Kataria",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Vivek Tiwari",
+"title" : "Head of Rural Operations"
+}
+,
+{
+"name" : "Sanjaya Gupta",
+"age" : "53",
+"title" : "Nominee Director of Asian Development Bank"
+}
+,
+{
+"name" : "Daniel Simpson Jacobs",
+"title" : "Nominee Director"
+}
+,
+{
+"name" : "Rakesh Sachdeva",
+"title" : "Board Member"
+}
+,
+{
+"name" : "Satvinder Singh",
+"title" : "Board Member"
+}
+,
+{
+"name" : "Arthur Sletteberg",
+"title" : "Director"
+}
+]
+,"moreresources" : [
+]
+}]

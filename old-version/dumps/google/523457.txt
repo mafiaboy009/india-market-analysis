@@ -1,0 +1,288 @@
+
+// [
+{
+"symbol" : "523457",
+"exchange" : "BOM",
+"id": "703837",
+"t" : "523457",
+"e" : "BOM",
+"name" : "Linde India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:523457"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:523457"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:523457"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002716)",
+"kr_annual_date" : "2016",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.71%",
+"annual" : "0.83%",
+"ttm" : "0.83%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.00%",
+"annual" : "6.05%",
+"ttm" : "5.94%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.80%",
+"ttm" : "16.68%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.41%",
+"ttm" : "0.41%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.10%",
+"ttm" : "1.10%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "759",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+30.85",
+"l" : "516.55",
+"cp" : "6.35",
+"ccol" : "chg",
+"op" : "490.05",
+"hi" : "528.80",
+"lo" : "489.10",
+"vo" : "5,844.00",
+"avvo" : "",
+"hi52" : "598.85",
+"lo52" : "360.00",
+"mc" : "44.07B",
+"pe" : "283.26",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.82",
+"dy" : "0.19",
+"ldiv" : "1.00",
+"shares" : "85.29M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703837",
+"name" : "Linde India Ltd",
+"t" : "523457",
+"e" : "BOM",
+"l" : "516.55",
+"c" : "+30.85",
+"mc" : "44.07B",
+"cp" : "6.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "729150",
+"name" : "Ellenbarrie Industrial Gases Limited",
+"t" : "590087",
+"e" : "BOM",
+"l" : "310.00",
+"c" : "",
+"mc" : "5.13B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6799438",
+"name" : "National Oxygen Ltd",
+"t" : "507813",
+"e" : "BOM",
+"l" : "42.75",
+"c" : "+0.05",
+"mc" : "205.06M",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9271331",
+"name" : "Bombay Oxygen Corporation Ltd",
+"t" : "509470",
+"e" : "BOM",
+"l" : "5,680.50",
+"c" : "0.00",
+"mc" : "852.08M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5235368",
+"name" : "Refex Industries Ltd",
+"t" : "REFEX",
+"e" : "NSE",
+"l" : "18.20",
+"c" : "+0.10",
+"mc" : "280.10M",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11806955",
+"name" : "India Glycols Ltd.",
+"t" : "INDIAGLYCO",
+"e" : "NSE",
+"l" : "506.90",
+"c" : "-0.40",
+"mc" : "15.75B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5061661",
+"name" : "Aditya Birla Chemicals (India) Limited",
+"t" : "ABCIL",
+"e" : "NSE",
+"l" : "227.70",
+"c" : "",
+"mc" : "5.47B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5808868",
+"name" : "Gujarat Fluorochemicals Limited",
+"t" : "GUJFLUORO",
+"e" : "NSE",
+"l" : "775.00",
+"c" : "-2.10",
+"mc" : "84.82B",
+"cp" : "-0.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11146294",
+"name" : "Chemfab Alkalis Ltd",
+"t" : "CHEMFALKAL",
+"e" : "NSE",
+"l" : "262.00",
+"c" : "",
+"mc" : "2.41B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4777716",
+"name" : "Steel Authority of India Limited",
+"t" : "SAIL",
+"e" : "NSE",
+"l" : "86.40",
+"c" : "-0.65",
+"mc" : "355.24B",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4670420",
+"name" : "Sree Rayalaseema Hi Strength Hypo Ltd",
+"t" : "SRHHYPOLTD",
+"e" : "NSE",
+"l" : "169.00",
+"c" : "-0.50",
+"mc" : "2.62B",
+"cp" : "-0.29",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Oxygen House, P43, Taratala Road, KOLKATA, 700088, India",
+"phone": "+91-33-66021600",
+"fax": "+91-33-24014206",
+"url": "http:\u002F\u002Fwww.linde.in\u002Fen\u002Fabout_linde_india_limited\u002Findex.html",
+"overview" : "Linde India Limited, formerly BOC India Limited, is engaged in the gases business. The Company is engaged in the manufacturing of liquefied or compressed inorganic industrial or medical gases and construction of utility projects. Its segments include Gases and Related Products and Project Engineering. The Gases and Related Products segment consists of pipeline gas supplies to industrial customers\u003B supply of liquefied gases to mid-size demands, and compressed gas supply in cylinders for meeting smaller demand for gases across fabrication, manufacturing and construction industry. The Project Engineering segment is engaged in the business of designing and engineering, supply, installation and commissioning of tonnage air separation units, nitrogen plants, hydrogen pressure swing adsorption plants, compressed air systems and gas distribution systems. The Project Engineering Division also manufactures cryogenic vessels, steam bath vaporizers and containerized micro plants, among others."
+} ]
+, "management" : [
+{
+"name" : "Indranil Bagchi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Pawan Marda",
+"age" : "56",
+"title" : "Assistant Vice President, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Moloy Banerjee",
+"age" : "49",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Sanjiv Lamba",
+"age" : "53",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Desiree Co Bacher",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Arun Balakrishnan",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Jyotin Mehta",
+"age" : "55",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Aditya Narayan",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

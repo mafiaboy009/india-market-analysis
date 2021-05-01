@@ -1,0 +1,270 @@
+
+// [
+{
+"symbol" : "532141",
+"exchange" : "BOM",
+"id": "715554",
+"t" : "532141",
+"e" : "BOM",
+"name" : "Andhra Cements Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532141"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532141"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532141"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-29.68%",
+"annual" : "-25.46%",
+"ttm" : "-17.01%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-4.82%",
+"annual" : "-0.28%",
+"ttm" : "7.77%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.61%",
+"ttm" : "8.39%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-8.25%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+}
+]
+, "c" : "+0.25",
+"l" : "11.25",
+"cp" : "2.27",
+"ccol" : "chg",
+"op" : "11.34",
+"hi" : "11.34",
+"lo" : "11.10",
+"vo" : "18,786.00",
+"avvo" : "",
+"hi52" : "16.02",
+"lo52" : "8.30",
+"mc" : "3.32B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-2.70",
+"dy" : "",
+"ldiv" : "",
+"shares" : "293.52M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715554",
+"name" : "Andhra Cements Ltd",
+"t" : "532141",
+"e" : "BOM",
+"l" : "11.25",
+"c" : "+0.25",
+"mc" : "3.32B",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705329",
+"name" : "Bheema Cements Ltd",
+"t" : "518017",
+"e" : "BOM",
+"l" : "9.10",
+"c" : "0.00",
+"mc" : "250.73M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6118813",
+"name" : "Deccan Cements Ltd.",
+"t" : "DECCANCE",
+"e" : "NSE",
+"l" : "574.00",
+"c" : "-2.70",
+"mc" : "7.97B",
+"cp" : "-0.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1915951",
+"name" : "NCL Industries Limited",
+"t" : "NCLIND",
+"e" : "NSE",
+"l" : "229.90",
+"c" : "-0.25",
+"mc" : "10.42B",
+"cp" : "-0.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3327918",
+"name" : "Ramco Cements Ltd",
+"t" : "RAMCOCEM",
+"e" : "NSE",
+"l" : "731.40",
+"c" : "+13.10",
+"mc" : "173.22B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7081694",
+"name" : "Heidelbergcement India Ltd",
+"t" : "HEIDELBERG",
+"e" : "NSE",
+"l" : "161.35",
+"c" : "+6.60",
+"mc" : "36.52B",
+"cp" : "4.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14797552",
+"name" : "J K Cement Ltd",
+"t" : "JKCEMENT",
+"e" : "NSE",
+"l" : "1,005.00",
+"c" : "-24.20",
+"mc" : "70.36B",
+"cp" : "-2.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11753233",
+"name" : "Birla Corporation Limited",
+"t" : "BIRLACORPN",
+"e" : "NSE",
+"l" : "894.50",
+"c" : "+23.00",
+"mc" : "69.00B",
+"cp" : "2.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5410484",
+"name" : "Chettinad Cement Corporation Pvt Ltd",
+"t" : "CHETTINAD",
+"e" : "NSE",
+"l" : "709.25",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6078754",
+"name" : "Kakatiya Cement Sugar And Industries Ltd",
+"t" : "KAKATCEM",
+"e" : "NSE",
+"l" : "298.00",
+"c" : "+3.65",
+"mc" : "2.33B",
+"cp" : "1.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "714540",
+"name" : "Panyam Cements \u0026 Mineral Industries Ltd.",
+"t" : "500322",
+"e" : "BOM",
+"l" : "47.70",
+"c" : "-0.85",
+"mc" : "803.45M",
+"cp" : "-1.75",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Welspun House, 3rd Floor,Kml Mills Cmpnd Senapati Bapat Marg Lower Parel (W), HYDERABAD, 500016, India",
+"phone": "+91-40-67272727",
+"fax": "+91-40-27810103",
+"url": "http:\u002F\u002Fwww.andhracements.com\u002F",
+"overview" : "Andhra Cements Limited is engaged in cement manufacturing. The Company is engaged in the manufacture and sale of cement, including Ordinary Portland Cement, Portland Pozolana Cement, Portland Slag Cement and Ground Granulated Blast Slag. The Company is engaged in the business of cement and cement-related products. The Company\u0027s plants include Durga Cement Works (DCM), which is located at Guntur, Andhra Pradesh, and Visakha Cement Works (VCM), which is located at Visakhapatnam, Andhra Pradesh. In the domestic market, the Company operates through a network of dealers and agents for sale of its products. The Company\u0027s markets include Andhra Pradesh, Tamil Nadu, Orissa, Karnataka and other nearby states. The Company\u0027s holding company is Jaypee Development Corporation Limited. The Company is a part of the Jaypee Group."
+} ]
+, "management" : [
+{
+"name" : "G. Tirupati Rao",
+"title" : "Compliance Officer, General Manager - Legal, Company Secretary"
+}
+,
+{
+"name" : "Kailash Nath Bhandari",
+"age" : "75",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "R. B. Singh",
+"title" : "Director"
+}
+,
+{
+"name" : "Pankaj Gaur",
+"age" : "46",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Vijay Kumar Jain",
+"age" : "66",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Naveen Kumar Singh",
+"age" : "39",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

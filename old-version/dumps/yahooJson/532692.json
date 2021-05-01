@@ -1,0 +1,320 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 3275926272,
+            "fmt": "3.28B",
+            "longFmt": "3,275,926,272"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.033299997,
+            "fmt": "3.33%"
+          },
+          "floatShares": {
+            "raw": 26674075,
+            "fmt": "26.67M",
+            "longFmt": "26,674,075"
+          },
+          "sharesOutstanding": {
+            "raw": 66342300,
+            "fmt": "66.34M",
+            "longFmt": "66,342,300"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.388787,
+            "fmt": "0.39"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -15.365,
+            "fmt": "-15.36"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 62560000,
+            "fmt": "62.56M",
+            "longFmt": "62,560,000"
+          },
+          "trailingEps": {
+            "raw": 0.819,
+            "fmt": "0.82"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.744,
+            "fmt": "1.74"
+          },
+          "enterpriseToEbitda": {
+            "raw": 43.643,
+            "fmt": "43.64"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 166990000,
+                  "fmt": "166.99M",
+                  "longFmt": "166,990,000"
+                },
+                "earnings": {
+                  "raw": -793560000,
+                  "fmt": "-793.56M",
+                  "longFmt": "-793,560,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1119510000,
+                  "fmt": "1.12B",
+                  "longFmt": "1,119,510,000"
+                },
+                "earnings": {
+                  "raw": 1183520000,
+                  "fmt": "1.18B",
+                  "longFmt": "1,183,520,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 2349740000,
+                  "fmt": "2.35B",
+                  "longFmt": "2,349,740,000"
+                },
+                "earnings": {
+                  "raw": 130100000,
+                  "fmt": "130.1M",
+                  "longFmt": "130,100,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 1359320000,
+                  "fmt": "1.36B",
+                  "longFmt": "1,359,320,000"
+                },
+                "earnings": {
+                  "raw": -32610000,
+                  "fmt": "-32.61M",
+                  "longFmt": "-32,610,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 380530000,
+                  "fmt": "380.53M",
+                  "longFmt": "380,530,000"
+                },
+                "earnings": {
+                  "raw": -100000,
+                  "fmt": "-100k",
+                  "longFmt": "-100,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 447150000,
+                  "fmt": "447.15M",
+                  "longFmt": "447,150,000"
+                },
+                "earnings": {
+                  "raw": -240000,
+                  "fmt": "-240k",
+                  "longFmt": "-240,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 461390000,
+                  "fmt": "461.39M",
+                  "longFmt": "461,390,000"
+                },
+                "earnings": {
+                  "raw": 26240000,
+                  "fmt": "26.24M",
+                  "longFmt": "26,240,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 589650000,
+                  "fmt": "589.65M",
+                  "longFmt": "589,650,000"
+                },
+                "earnings": {
+                  "raw": 36720000,
+                  "fmt": "36.72M",
+                  "longFmt": "36,720,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Daman Industrial Estate",
+          "address2": "Survey No 50/9/A Kadaiya",
+          "city": "Daman",
+          "zip": "396210",
+          "country": "India",
+          "phone": "91 26 0661 9000",
+          "fax": "91 26 0222 0177",
+          "website": "http://www.rmclindia.co.in",
+          "industry": "Packaging & Containers",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Radha Madhav Corporation Limited manufactures and sells packaging products in India and internationally. The company also offers MOPVC and MOPET shrink films, polyolefin shrink films, extrusion coated and printed laminates, lami tubes, specialty films, preformed pouches, biaxially-oriented polypropylene (BOPP) films, offset printed cartons and liner cartons, soap wrappers, BOPP tapes, PET-PP straps, air bubble sheets, paper tubes, metalized shrink films, PVC twist wrap films and calendar sheets, and lamination films. In addition, it provides PVDC coated and cold formed blisters, PVC rigid sheets, collapsible tubes, masking films, PVDC coated laminates, vacuum bags, liner bags, preformed pouches, nylon based five layer films, surface printed three layer barrier films, dual color five barrier films, PVC thermoformed sheets, poly poly laminates, hot foil stampings, coated films, thermoforamble PVC films, vacuum bags, jumbo bags, PP and BOPP bags, edge guards, and stretch and thermal films. Further, the company offers packaging design and development services and solutions; packaging testing services; technical packaging advisory services; packaging machinery systems; and pre-press services. Radha Madhav Corporation Limited was incorporated in 2005 and is based in Daman, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 28.1,
+            "fmt": "28.10"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 34550000,
+            "fmt": "34.55M",
+            "longFmt": "34,550,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.517,
+            "fmt": "0.52"
+          },
+          "ebitda": {
+            "raw": 75062496,
+            "fmt": "75.06M",
+            "longFmt": "75,062,496"
+          },
+          "totalDebt": {
+            "raw": 1541240064,
+            "fmt": "1.54B",
+            "longFmt": "1,541,240,064"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1878720000,
+            "fmt": "1.88B",
+            "longFmt": "1,878,720,000"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 28.385,
+            "fmt": "28.39"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 589420000,
+            "fmt": "589.42M",
+            "longFmt": "589,420,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 1.078,
+            "fmt": "107.80%"
+          },
+          "grossMargins": {
+            "raw": 0.47637,
+            "fmt": "47.64%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.03995,
+            "fmt": "3.99%"
+          },
+          "operatingMargins": {
+            "raw": 0.0321,
+            "fmt": "3.21%"
+          },
+          "profitMargins": {
+            "raw": 0.033299997,
+            "fmt": "3.33%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

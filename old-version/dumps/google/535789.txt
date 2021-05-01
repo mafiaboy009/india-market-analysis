@@ -1,0 +1,293 @@
+
+// [
+{
+"symbol" : "535789",
+"exchange" : "BOM",
+"id": "1040393588504200",
+"t" : "535789",
+"e" : "BOM",
+"name" : "Indiabulls Housing Finance Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:535789"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:535789"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:535789"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "34.80%",
+"annual" : "27.97%",
+"ttm" : "29.57%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "23.97%",
+"annual" : "23.74%",
+"ttm" : "25.26%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "23.97%",
+"ttm" : "25.51%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.24%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "25.48%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "6,407",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+13.20",
+"l" : "1,294.95",
+"cp" : "1.03",
+"ccol" : "chg",
+"op" : "1,306.00",
+"hi" : "1,306.00",
+"lo" : "1,284.35",
+"vo" : "36,323.00",
+"avvo" : "",
+"hi52" : "1,439.40",
+"lo52" : "834.20",
+"mc" : "552.19B",
+"pe" : "15.21",
+"fwpe" : "",
+"beta" : "",
+"eps" : "85.15",
+"dy" : "3.17",
+"ldiv" : "14.00",
+"shares" : "426.54M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1040393588504200",
+"name" : "Indiabulls Housing Finance Ltd",
+"t" : "535789",
+"e" : "BOM",
+"l" : "1,294.95",
+"c" : "+13.20",
+"mc" : "552.19B",
+"cp" : "1.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7686660",
+"name" : "Shalibhadra Finance Ltd",
+"t" : "511754",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "-5.35",
+"mc" : "652.09M",
+"cp" : "-3.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8460861",
+"name" : "Capri Global Capital Ltd",
+"t" : "CGCL",
+"e" : "NSE",
+"l" : "101.50",
+"c" : "+1.65",
+"mc" : "17.80B",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7977316",
+"name" : "L\u0026T Finance Holdings Ltd",
+"t" : "L\u0026TFH",
+"e" : "NSE",
+"l" : "168.00",
+"c" : "+5.80",
+"mc" : "305.14B",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6831008",
+"name" : "Tourism Finance Corporation of India Ltd",
+"t" : "TFCILTD",
+"e" : "NSE",
+"l" : "163.20",
+"c" : "+1.95",
+"mc" : "13.19B",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16455919",
+"name" : "Cholamandalam Investment and Fin Co Ltd",
+"t" : "CHOLAFIN",
+"e" : "NSE",
+"l" : "1,438.00",
+"c" : "+22.40",
+"mc" : "223.74B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11784956",
+"name" : "Mahindra \u0026 Mahindra Fin. Services Ltd.",
+"t" : "M\u0026MFIN",
+"e" : "NSE",
+"l" : "445.75",
+"c" : "+4.40",
+"mc" : "274.84B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "557538143932497",
+"name" : "MAS Financial Services Ltd",
+"t" : "MASFIN",
+"e" : "NSE",
+"l" : "597.05",
+"c" : "-3.95",
+"mc" : "32.64B",
+"cp" : "-0.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10438521",
+"name" : "Kailash Auto Finance Ltd",
+"t" : "511357",
+"e" : "BOM",
+"l" : "0.64",
+"c" : "0.00",
+"mc" : "380.76M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "138715870326043",
+"name" : "Money Masters Leasing and Finance Ltd",
+"t" : "535910",
+"e" : "BOM",
+"l" : "4.55",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7549254",
+"name" : "Baid Leasing \u0026 Finance Co",
+"t" : "511724",
+"e" : "BOM",
+"l" : "167.40",
+"c" : "+1.55",
+"mc" : "1.69B",
+"cp" : "0.93",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Indiabulls House 448-451,Udyog Vihar, Phase-V, GURGAON, 122016, India",
+"phone": "+91-124-6681199",
+"fax": "+91-124-6681240",
+"url": "https:\u002F\u002Fwww.indiabullshomeloans.com\u002F",
+"overview" : "Indiabulls Housing Finance Limited is a housing finance company. The Company\u0027s primary business activities are to carry on business of investing and finance related activities (investing in various subsidiaries, financing of loans and credit activities) and fee income, which mainly consists of financial service related fee income from services, selling of insurance products as a licensed corporate agent, and other related ancillary services. Its geographic segment includes Within India. It is engaged in the business to provide finance and to undertake all lending and finance to person or persons, co-operative society, association of persons, body of individuals, companies, institutions, firms, builders, developers, contractors, tenants and others either at interest or without and\u002For with or without any security for construction, erection, building, repair, remodeling, development, improvement, purchase of houses, apartments, flats, bungalows, rooms, huts and townships, among others."
+} ]
+, "management" : [
+{
+"name" : "Sameer Gehlaut",
+"age" : "43",
+"title" : "Executive Chairman of the Board, Founder"
+}
+,
+{
+"name" : "Gagan Banga",
+"title" : "Vice Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Mukesh Kumar Garg",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sachin Chaudhary",
+"title" : "Chief Operating Officer, Executive Director"
+}
+,
+{
+"name" : "Nafees Ahmed",
+"title" : "Chief Information Officer"
+}
+,
+{
+"name" : "Amit Jain",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ashwini Omprakash Kumar",
+"title" : "Deputy Managing Director, Executive Director"
+}
+,
+{
+"name" : "Ashwin Mallick",
+"title" : "Head - Liabilities and Treasurer"
+}
+,
+{
+"name" : "Ajit Kumar Mittal",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Ramnath Shenoy",
+"title" : "Head - Analytics and Investor Relations"
+}
+]
+,"moreresources" : [
+]
+}]

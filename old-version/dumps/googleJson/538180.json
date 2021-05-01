@@ -1,0 +1,241 @@
+
+ [
+{
+"symbol" : "538180",
+"exchange" : "BOM",
+"id": "672122959259020",
+"t" : "538180",
+"e" : "BOM",
+"name" : "Gold Line International Finvest Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GDLN.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:538180"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:538180"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:538180"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.18%",
+"annual" : "1.71%",
+"ttm" : "4.86%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.18%",
+"annual" : "3.08%",
+"ttm" : "7.51%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.66%",
+"ttm" : "13.38%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.11%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.13%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "10.08",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "10.08",
+"hi" : "10.08",
+"lo" : "10.08",
+"vo" : "42.00",
+"avvo" : "",
+"hi52" : "19.15",
+"lo52" : "10.08",
+"mc" : "5.25B",
+"pe" : "5,040.00",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.00",
+"dy" : "",
+"ldiv" : "",
+"shares" : "520.96M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "672122959259020",
+"name" : "Gold Line International Finvest Ltd",
+"t" : "538180",
+"e" : "BOM",
+"l" : "10.08",
+"c" : "0.00",
+"mc" : "5.25B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4065577",
+"name" : "JM Financial Limited",
+"t" : "JMFINANCIL",
+"e" : "NSE",
+"l" : "150.90",
+"c" : "+2.75",
+"mc" : "126.55B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "221364041789212",
+"name" : "Arnold Holdings Ltd",
+"t" : "537069",
+"e" : "BOM",
+"l" : "6.68",
+"c" : "+0.13",
+"mc" : "1.00B",
+"cp" : "1.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "137111030584312",
+"name" : "AU Small Finance Bank Ltd",
+"t" : "AUBANK",
+"e" : "NSE",
+"l" : "592.40",
+"c" : "+16.55",
+"mc" : "168.40B",
+"cp" : "2.87",
+"ccol" : "chg"
+}
+,
+{
+"id" : "218305694916551",
+"name" : "Panafic Industrials Ltd",
+"t" : "538860",
+"e" : "BOM",
+"l" : "0.51",
+"c" : "+0.01",
+"mc" : "41.88M",
+"cp" : "2.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "292092841201140",
+"name" : "India Finsec Ltd",
+"t" : "535667",
+"e" : "BOM",
+"l" : "34.50",
+"c" : "0.00",
+"mc" : "860.49M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13414243",
+"name" : "CSL Finance Ltd",
+"t" : "530067",
+"e" : "BOM",
+"l" : "602.20",
+"c" : "-7.80",
+"mc" : "3.56B",
+"cp" : "-1.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15722739",
+"name" : "India Home Loan Ltd",
+"t" : "530979",
+"e" : "BOM",
+"l" : "116.05",
+"c" : "-4.85",
+"mc" : "1.66B",
+"cp" : "-4.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16384607",
+"name" : "Power Finance Corporation Limited",
+"t" : "PFC",
+"e" : "NSE",
+"l" : "110.40",
+"c" : "+2.60",
+"mc" : "291.06B",
+"cp" : "2.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "808795142982142",
+"name" : "Mangalam Industrial Finance Ltd",
+"t" : "537800",
+"e" : "BOM",
+"l" : "1.43",
+"c" : "-0.07",
+"mc" : "1.38B",
+"cp" : "-4.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "221197",
+"name" : "Transwarranty Finance Limited",
+"t" : "TFL",
+"e" : "NSE",
+"l" : "11.70",
+"c" : "-0.10",
+"mc" : "286.19M",
+"cp" : "-0.85",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": ", NEW DELHI, 110019, India",
+"phone": "+91-11-32223974",
+"fax": "+91-11-32223974",
+"url": "http:\u002F\u002Fwww.goldlineinternationalltd.com\u002F",
+"overview" : "Gold Line International Finvest Limited is an India-based non-banking finance company. The Company is engaged in investment business. The Company is engaged in selling, buying, acquiring and holding of shares, debentures, bonds, stock and units. The Company is engaged in offering services, such as advancing loan against listed shares, securities and properties, and margin funding. The Company offers corporate loans and personal loans. The Company is engaged in trading in shares and securities, trade financing and bills discounting. The Company offers investment advisory services in India and abroad in order to undertake money market operations and treasury managements. It also acts as administration of different investment trusts. The Company also provides solutions for working capital financing. It provides loan against property to meet other financial and social commitments. It offers loan against shares to individuals and corporate."
+} ]
+,"moreresources" : [
+]
+}]

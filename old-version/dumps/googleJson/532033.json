@@ -1,0 +1,264 @@
+
+ [
+{
+"symbol" : "532033",
+"exchange" : "BOM",
+"id": "11246933",
+"t" : "532033",
+"e" : "BOM",
+"name" : "Jain Studios Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532033"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532033"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532033"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-143.24%",
+"annual" : "5.27%",
+"ttm" : "-8.10%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-143.09%",
+"annual" : "-8.99%",
+"ttm" : "-25.32%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.38%",
+"ttm" : "-10.70%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.59%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.15%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "77",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.03",
+"l" : "3.48",
+"cp" : "0.87",
+"ccol" : "chg",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "6.15",
+"lo52" : "3.01",
+"mc" : "94.36M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.16",
+"dy" : "",
+"ldiv" : "",
+"shares" : "28.59M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11246933",
+"name" : "Jain Studios Ltd",
+"t" : "532033",
+"e" : "BOM",
+"l" : "3.48",
+"c" : "+0.03",
+"mc" : "94.36M",
+"cp" : "0.87",
+"ccol" : "chg"
+}
+,
+{
+"id" : "672876",
+"name" : "Zee Entertainment Enterprises Limited",
+"t" : "505537",
+"e" : "BOM",
+"l" : "593.00",
+"c" : "+4.00",
+"mc" : "571.38B",
+"cp" : "0.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "134378019443136",
+"name" : "Diksat Transworld Ltd",
+"t" : "540151",
+"e" : "BOM",
+"l" : "99.75",
+"c" : "0.00",
+"mc" : "1.77B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7989868",
+"name" : "Sun TV Network Ltd.",
+"t" : "SUNTV",
+"e" : "NSE",
+"l" : "879.00",
+"c" : "+23.80",
+"mc" : "348.01B",
+"cp" : "2.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715516",
+"name" : "Sahara One Media \u0026 Entertainment Ltd.",
+"t" : "503691",
+"e" : "BOM",
+"l" : "36.30",
+"c" : "0.00",
+"mc" : "781.36M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1979135",
+"name" : "B.A.G Films \u0026 Media Ltd.",
+"t" : "BAGFILMS",
+"e" : "NSE",
+"l" : "5.00",
+"c" : "-0.10",
+"mc" : "959.03M",
+"cp" : "-1.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6281100",
+"name" : "Sri Adhikari Brothers Television Network",
+"t" : "SABTN",
+"e" : "NSE",
+"l" : "13.50",
+"c" : "-0.40",
+"mc" : "466.75M",
+"cp" : "-2.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "26837369213470",
+"name" : "Shemaroo Entertainment Ltd",
+"t" : "SHEMAROO",
+"e" : "NSE",
+"l" : "462.00",
+"c" : "+3.90",
+"mc" : "12.79B",
+"cp" : "0.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5919896",
+"name" : "New Delhi Television Limited",
+"t" : "NDTV",
+"e" : "NSE",
+"l" : "39.60",
+"c" : "-0.50",
+"mc" : "2.55B",
+"cp" : "-1.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3689364",
+"name" : "Raj Television Network Limited",
+"t" : "RAJTV",
+"e" : "NSE",
+"l" : "50.30",
+"c" : "-1.60",
+"mc" : "2.58B",
+"cp" : "-3.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3950734",
+"name" : "TV18 Broadcast Ltd",
+"t" : "TV18BRDCST",
+"e" : "NSE",
+"l" : "59.15",
+"c" : "-0.25",
+"mc" : "99.37B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Scindia Villa, Sarojini Nagar, Ring Road, NEW DELHI, 110023, India",
+"phone": "+91-11-26874043",
+"fax": "+91-11-26874046",
+"url": "http:\u002F\u002Fwww.jainstudiosltd.com\u002F",
+"overview" : "Jain Studios Limited is engaged in media and broadcasting business. The Company\u0027s segments include Television, Education Infrastructure and Technology, Mobile Health Services, Teleport and Others. The Television segment is engaged in marketing, production and broadcasting of television programs and advertisement. The Education Infrastructure and Technology segment is engaged in imparting the full and part time education. The Company\u0027s Teleport segment includes uplinking, video clipping and news feeding charges through digital satellite news gathering equipment. The Others segment is engaged in production and distribution of cinema photographic films. It operates around the clock news and current affairs channel under the brand name JAIN Television. It offers a range of services under categories, such as electronic, including audio-video productions, and conventional and digital format films\u003B print, including posters and brochures, and outdoor, including banners and wall painting."
+} ]
+, "management" : [
+{
+"name" : "Dilip K. Singh",
+"age" : "48",
+"title" : "Chief Executive Officer, Additional Director"
+}
+,
+{
+"name" : "Deepanshu Arora",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Bharti Jain",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Ragini Jain",
+"age" : "63",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

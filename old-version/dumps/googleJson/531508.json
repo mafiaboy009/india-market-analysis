@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "531508",
+"exchange" : "BOM",
+"id": "680056",
+"t" : "531508",
+"e" : "BOM",
+"name" : "Eveready Industries India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531508"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531508"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531508"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002710)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "22.71%",
+"annual" : "6.58%",
+"ttm" : "11.51%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "26.25%",
+"annual" : "8.38%",
+"ttm" : "15.65%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.43%",
+"ttm" : "9.19%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "12.68%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "37.73%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,866",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.55",
+"l" : "384.25",
+"cp" : "0.14",
+"ccol" : "chg",
+"op" : "386.35",
+"hi" : "388.05",
+"lo" : "380.05",
+"vo" : "1,403.00",
+"avvo" : "",
+"hi52" : "465.00",
+"lo52" : "228.00",
+"mc" : "27.82B",
+"pe" : "21.95",
+"fwpe" : "",
+"beta" : "",
+"eps" : "17.50",
+"dy" : "0.52",
+"ldiv" : "1.00",
+"shares" : "72.69M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "680056",
+"name" : "Eveready Industries India Ltd",
+"t" : "531508",
+"e" : "BOM",
+"l" : "384.25",
+"c" : "+0.55",
+"mc" : "27.82B",
+"cp" : "0.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15838661",
+"name" : "Indo National Ltd",
+"t" : "NIPPOBATRY",
+"e" : "NSE",
+"l" : "866.10",
+"c" : "-5.45",
+"mc" : "3.24B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "687624",
+"name" : "Panasonic Energy India Co Ltd",
+"t" : "504093",
+"e" : "BOM",
+"l" : "369.75",
+"c" : "+17.60",
+"mc" : "2.78B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8081566",
+"name" : "Khaitan Electricals Ltd",
+"t" : "KHAITANELE",
+"e" : "NSE",
+"l" : "9.80",
+"c" : "-0.50",
+"mc" : "112.70M",
+"cp" : "-4.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6698190",
+"name" : "Bajaj Electricals Ltd",
+"t" : "BAJAJELEC",
+"e" : "NSE",
+"l" : "531.40",
+"c" : "+25.80",
+"mc" : "54.21B",
+"cp" : "5.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12863366",
+"name" : "Finolex Cables Ltd",
+"t" : "FINCABLES",
+"e" : "NSE",
+"l" : "700.55",
+"c" : "-3.80",
+"mc" : "107.04B",
+"cp" : "-0.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8835592",
+"name" : "Exide Industries Ltd",
+"t" : "EXIDEIND",
+"e" : "NSE",
+"l" : "211.05",
+"c" : "+1.00",
+"mc" : "179.82B",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2893964",
+"name" : "High Energy Batteries (India) Ltd",
+"t" : "504176",
+"e" : "BOM",
+"l" : "494.90",
+"c" : "+8.95",
+"mc" : "887.15M",
+"cp" : "1.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10694112",
+"name" : "HBL Power Systems Ltd",
+"t" : "HBLPOWER",
+"e" : "NSE",
+"l" : "56.75",
+"c" : "-0.55",
+"mc" : "15.70B",
+"cp" : "-0.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5736517",
+"name" : "Polar Industries Ltd",
+"t" : "POLARIND",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-2.00",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6533067",
+"name" : "Calcom Vision Ltd",
+"t" : "517236",
+"e" : "BOM",
+"l" : "13.68",
+"c" : "0.00",
+"mc" : "110.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "2., Rainey Park, KOLKATA, 700019, India",
+"phone": "+91-33-24864961",
+"fax": "+91-33-24864673",
+"url": "http:\u002F\u002Fwww.evereadyindustries.com\u002F",
+"overview" : "Eveready Industries India Limited is engaged in the business of marketing of fast moving consumer goods (FMCG), such as dry cell batteries, rechargeable batteries, flashlights, packet tea and general lighting products. The Company also distributes a range of electrical products. The Company\u0027s product portfolio includes Dry cell and rechargeable batteries under the brand names Eveready, Powercell and Uniross\u003B Flashlights and lanterns under the brand names Eveready and Powercell\u003B Packet tea under the brand names Tez, Jaago and Premium Gold\u003B light-emitting diode (LED) bulbs and luminaires under the brand names Eveready and Powercell\u003B devices, such as mobile power banks, rechargeable fans and radio, under the Eveready brand, and small home appliances under the Eveready brand. The Company\u0027s manufacturing facilities are located in Chennai, Lucknow, Noida, Haridwar, Maddur and Kolkata, and it is supported by sales and distribution network across the country."
+} ]
+, "management" : [
+{
+"name" : "Suvamoy Saha",
+"title" : "Chief Financial Officer, Wholetime Director"
+}
+,
+{
+"name" : "Tehnaz Punwani",
+"title" : "Senior General Manager - Legal, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Amritanshu Khaitan",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Brij Mohan Khaitan",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Aditya Khaitan",
+"age" : "47",
+"title" : "Non-Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Ajay Kaul",
+"age" : "53",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Subir Ranjan Dasgupta",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sanjiv Goenka",
+"age" : "54",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

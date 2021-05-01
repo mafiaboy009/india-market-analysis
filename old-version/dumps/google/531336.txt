@@ -1,0 +1,126 @@
+
+// [
+{
+"symbol" : "531336",
+"exchange" : "BOM",
+"id": "15695662",
+"t" : "531336",
+"e" : "BOM",
+"name" : "AUROMA COKE LTD."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531336"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531336"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531336"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+]
+, "c" : "-0.37",
+"l" : "7.13",
+"cp" : "-4.93",
+"ccol" : "chr",
+"op" : "7.13",
+"hi" : "7.13",
+"lo" : "7.13",
+"vo" : "5.00",
+"avvo" : "",
+"hi52" : "7.89",
+"lo52" : "5.14",
+"mc" : "",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "",
+"ldiv" : "",
+"shares" : "",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15695662",
+"name" : "AUROMA COKE LTD.",
+"t" : "531336",
+"e" : "BOM",
+"l" : "7.13",
+"c" : "-0.37",
+"mc" : "",
+"cp" : "-4.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "497990",
+"name" : "EXOTIC COAL LTD.",
+"t" : "531320",
+"e" : "BOM",
+"l" : "3.61",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4254979",
+"name" : "FOUNDRY FUEL PRODUCTS LTD.",
+"t" : "513579",
+"e" : "BOM",
+"l" : "4.60",
+"c" : "+0.01",
+"mc" : "",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14594562",
+"name" : "MIDWEST GOLD LTD.",
+"t" : "526570",
+"e" : "BOM",
+"l" : "12.50",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15236430",
+"name" : "SRI VAJRA GRANITES LTD.",
+"t" : "515081",
+"e" : "BOM",
+"l" : "2.71",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+,"moreresources" : [
+]
+}]

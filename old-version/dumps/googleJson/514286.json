@@ -1,0 +1,282 @@
+
+ [
+{
+"symbol" : "514286",
+"exchange" : "BOM",
+"id": "13327928",
+"t" : "514286",
+"e" : "BOM",
+"name" : "Ashima Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:514286"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:514286"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:514286"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "117.30%",
+"annual" : "13.37%",
+"ttm" : "68.39%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "117.90%",
+"annual" : "18.68%",
+"ttm" : "71.20%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-6.45%",
+"ttm" : "-4.78%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "12.37%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "67.28%",
+"ttm" : ""
+}
+]
+, "c" : "-0.60",
+"l" : "30.10",
+"cp" : "-1.95",
+"ccol" : "chr",
+"op" : "32.00",
+"hi" : "32.35",
+"lo" : "29.80",
+"vo" : "63,137.00",
+"avvo" : "",
+"hi52" : "38.30",
+"lo52" : "14.00",
+"mc" : "3.88B",
+"pe" : "2.58",
+"fwpe" : "",
+"beta" : "",
+"eps" : "11.68",
+"dy" : "",
+"ldiv" : "",
+"shares" : "128.45M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "13327928",
+"name" : "Ashima Ltd",
+"t" : "514286",
+"e" : "BOM",
+"l" : "30.10",
+"c" : "-0.60",
+"mc" : "3.88B",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12579026",
+"name" : "Modern Denim Ltd",
+"t" : "500451",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-0.40",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15959423",
+"name" : "Rainbow Denim Ltd",
+"t" : "532441",
+"e" : "BOM",
+"l" : "7.50",
+"c" : "+0.31",
+"mc" : "99.63M",
+"cp" : "4.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "402870",
+"name" : "KG Denim Ltd",
+"t" : "500239",
+"e" : "BOM",
+"l" : "60.75",
+"c" : "+1.30",
+"mc" : "1.54B",
+"cp" : "2.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4438813",
+"name" : "International Hometex Ltd",
+"t" : "526185",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-2.73",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11965403",
+"name" : "Aarvee Denims \u0026 Exports Ltd.",
+"t" : "AARVEEDEN",
+"e" : "NSE",
+"l" : "49.10",
+"c" : "-0.35",
+"mc" : "1.15B",
+"cp" : "-0.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2080435",
+"name" : "Blue Blends India Ltd",
+"t" : "BLUEBLENDS",
+"e" : "NSE",
+"l" : "25.90",
+"c" : "-0.15",
+"mc" : "562.93M",
+"cp" : "-0.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2352428",
+"name" : "Nandan Denim Ltd",
+"t" : "NDL",
+"e" : "NSE",
+"l" : "144.55",
+"c" : "+2.40",
+"mc" : "6.95B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "317791194123262",
+"name" : "R \u0026 B Denims Ltd",
+"t" : "538119",
+"e" : "BOM",
+"l" : "52.10",
+"c" : "+0.85",
+"mc" : "729.12M",
+"cp" : "1.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11156651",
+"name" : "Riba Textiles Ltd",
+"t" : "531952",
+"e" : "BOM",
+"l" : "94.20",
+"c" : "-2.80",
+"mc" : "909.30M",
+"cp" : "-2.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3179533",
+"name" : "Raymond Limited (Parent)",
+"t" : "RAYMOND",
+"e" : "NSE",
+"l" : "954.10",
+"c" : "+3.15",
+"mc" : "58.56B",
+"cp" : "0.33",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Texcellence Complex Khokhara, Mahemdabad, AHMEDABAD, 380021, India",
+"phone": "+91-79-67777000",
+"fax": "+91-79-22773061",
+"url": "http:\u002F\u002Fwww.ashima.in\u002F",
+"overview" : "Ashima Limited is engaged in the business of cotton fabrics. The Company operates through Textiles segment. The Company\u0027s divisions include Denim Division, Spinfab Division and Attires Division. The Company offers a range of cotton textile products, including denims, shirtings, bottom weights and interlinings. It offers various types of denims, including open end denim, ring denim, slub denim, cross-hatch denim, stretch denim, fashion denim, polyester denim, linen denim, Floc coated denim and over dyed denim. Its shirting products include yarn dyed shirting, piece dyed shirting and fully bleached white shirting. It offers bottom weights in categories, including piece dyed and yarn dyed. The Company offers interlinings in soft, medium and stiff finishes with high-density polyethylene (HDPE) or low-density polyethylene (LDPE) and polyester powder coating. The Company offers its products under ICON and Frank Jefferson brand names."
+} ]
+, "management" : [
+{
+"name" : "Chintan N. Parikh",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Jayesh C. Bhayani",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Hiren S. Mahadevia",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Krishnachintan Parikh",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Koushlya Melwani",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Neeraj Golas",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Atul Kumar Singh",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Bakul H. Dholakia",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Bihari B. Shah",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

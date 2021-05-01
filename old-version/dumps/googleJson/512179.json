@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "512179",
+"exchange" : "BOM",
+"id": "722537",
+"t" : "512179",
+"e" : "BOM",
+"name" : "Sunteck Realty Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:512179"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:512179"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:512179"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "29.02%",
+"annual" : "23.23%",
+"ttm" : "23.01%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "43.93%",
+"annual" : "36.86%",
+"ttm" : "40.23%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "37.09%",
+"ttm" : "40.45%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.64%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.02%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "206",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+10.85",
+"l" : "411.05",
+"cp" : "2.71",
+"ccol" : "chg",
+"op" : "401.50",
+"hi" : "414.00",
+"lo" : "398.65",
+"vo" : "59,639.00",
+"avvo" : "",
+"hi52" : "533.00",
+"lo52" : "214.00",
+"mc" : "60.17B",
+"pe" : "28.04",
+"fwpe" : "",
+"beta" : "",
+"eps" : "14.66",
+"dy" : "0.36",
+"ldiv" : "1.50",
+"shares" : "146.32M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "722537",
+"name" : "Sunteck Realty Ltd",
+"t" : "512179",
+"e" : "BOM",
+"l" : "411.05",
+"c" : "+10.85",
+"mc" : "60.17B",
+"cp" : "2.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7988690",
+"name" : "Mahindra Lifespace Developers Ltd.",
+"t" : "MAHLIFE",
+"e" : "NSE",
+"l" : "459.50",
+"c" : "+6.20",
+"mc" : "23.60B",
+"cp" : "1.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715281",
+"name" : "Lancor Holdings Ltd",
+"t" : "509048",
+"e" : "BOM",
+"l" : "30.70",
+"c" : "+0.95",
+"mc" : "1.25B",
+"cp" : "3.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15183829",
+"name" : "Omaxe Ltd",
+"t" : "OMAXE",
+"e" : "NSE",
+"l" : "225.60",
+"c" : "+0.35",
+"mc" : "41.26B",
+"cp" : "0.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5820065",
+"name" : "Unitech Limited",
+"t" : "UNITECH",
+"e" : "NSE",
+"l" : "7.40",
+"c" : "+0.25",
+"mc" : "19.36B",
+"cp" : "3.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6559289",
+"name" : "Newtime Infrastructure Ltd",
+"t" : "531959",
+"e" : "BOM",
+"l" : "22.15",
+"c" : "0.00",
+"mc" : "3.61B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10573490",
+"name" : "Hubtown Ltd",
+"t" : "HUBTOWN",
+"e" : "NSE",
+"l" : "93.75",
+"c" : "+5.95",
+"mc" : "6.83B",
+"cp" : "6.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5678833",
+"name" : "Anant Raj Ltd",
+"t" : "ANANTRAJ",
+"e" : "NSE",
+"l" : "58.30",
+"c" : "+0.80",
+"mc" : "17.16B",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9400569",
+"name" : "Prerna Infrabuild Ltd",
+"t" : "531802",
+"e" : "BOM",
+"l" : "19.40",
+"c" : "+0.70",
+"mc" : "229.94M",
+"cp" : "3.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "403607444213289",
+"name" : "Unishire Urban Infra Ltd",
+"t" : "537582",
+"e" : "BOM",
+"l" : "9.29",
+"c" : "+0.02",
+"mc" : "",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14341079",
+"name" : "Radhe Developers (India) Ltd",
+"t" : "531273",
+"e" : "BOM",
+"l" : "19.80",
+"c" : "-1.55",
+"mc" : "498.56M",
+"cp" : "-7.26",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "5th Floor, Sunteck Centre 37-40, Subhash Rd near united ink fctry Vile Parle (East), MUMBAI, 400057, India",
+"phone": "+91-22-26267800",
+"fax": "+91-22-26267890",
+"url": "http:\u002F\u002Fwww.sunteckindia.com\u002F",
+"overview" : "Sunteck Realty Limited is a real estate development company. The Company is primarily engaged in the business of real estate\u002Freal estate development and incidental services. The Company is engaged in real estate activities with own or leased property. Its business focuses on designing, developing and managing residential and commercial properties. It is focused on city-centric developments spread-out across Mumbai Metropolitan Region (MMR). The Company\u0027s residential projects include Signature Island, Signia Pearl, Signia Isles and Signia High. Its commercial projects include Sunteck Centre, Sunteck Grandeur and Sunteck Certainity. The Company\u0027s other projects include approximately 20 acres of mixed-use development in Goregaon in the form of Sunteck City, Sion, Mulund amongst other locations in Mumbai, Navi Mumbai, over 80 acres in Jaipur, Nagpur and Goa in India. Its subsidiaries include Amenity Software Private Limited and Magenta Computer Software Private Limited, among others."
+} ]
+, "management" : [
+{
+"name" : "Kamal Khetan",
+"age" : "46",
+"title" : "Executive Non-Independent Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Jitendra Mehta",
+"age" : "58",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sumesh Mishra",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Rachana Hingarajia",
+"title" : "Compliance Officer, Executive Director, Company Secretary"
+}
+,
+{
+"name" : "Jignesh Sanghavi",
+"age" : "45",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Mahesh Sheregar",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Sanjay Dutt",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Mahadeven Kalahasthi",
+"age" : "54",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ramakant Madhav Nayak",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kishore M. Vussonji",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

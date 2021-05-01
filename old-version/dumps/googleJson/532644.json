@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "532644",
+"exchange" : "BOM",
+"id": "703851",
+"t" : "532644",
+"e" : "BOM",
+"name" : "J K Cement Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532644"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532644"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532644"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002710)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.82%",
+"annual" : "4.70%",
+"ttm" : "12.16%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.86%",
+"annual" : "11.31%",
+"ttm" : "20.12%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.34%",
+"ttm" : "24.75%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.51%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.54%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,855",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-16.50",
+"l" : "1,010.20",
+"cp" : "-1.61",
+"ccol" : "chr",
+"op" : "1,023.85",
+"hi" : "1,024.90",
+"lo" : "1,007.85",
+"vo" : "542.00",
+"avvo" : "",
+"hi52" : "1,194.95",
+"lo52" : "838.00",
+"mc" : "70.99B",
+"pe" : "31.45",
+"fwpe" : "",
+"beta" : "",
+"eps" : "32.12",
+"dy" : "0.79",
+"ldiv" : "8.00",
+"shares" : "69.93M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703851",
+"name" : "J K Cement Ltd",
+"t" : "532644",
+"e" : "BOM",
+"l" : "1,010.20",
+"c" : "-16.50",
+"mc" : "70.99B",
+"cp" : "-1.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16255299",
+"name" : "UltraTech Cement Ltd",
+"t" : "ULTRACEMCO",
+"e" : "NSE",
+"l" : "4,142.00",
+"c" : "+25.60",
+"mc" : "1.14T",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1608461",
+"name" : "Gujarat Sidhee Cement Ltd",
+"t" : "GSCLCEMENT",
+"e" : "NSE",
+"l" : "31.90",
+"c" : "-0.20",
+"mc" : "2.77B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6118813",
+"name" : "Deccan Cements Ltd.",
+"t" : "DECCANCE",
+"e" : "NSE",
+"l" : "574.00",
+"c" : "-2.70",
+"mc" : "7.97B",
+"cp" : "-0.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "485003498717103",
+"name" : "Star Cement Ltd",
+"t" : "STARCEMENT",
+"e" : "NSE",
+"l" : "126.95",
+"c" : "-1.20",
+"mc" : "53.08B",
+"cp" : "-0.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5410484",
+"name" : "Chettinad Cement Corporation Pvt Ltd",
+"t" : "CHETTINAD",
+"e" : "NSE",
+"l" : "709.25",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "11753233",
+"name" : "Birla Corporation Limited",
+"t" : "BIRLACORPN",
+"e" : "NSE",
+"l" : "894.50",
+"c" : "+23.00",
+"mc" : "69.00B",
+"cp" : "2.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11014996",
+"name" : "Mangalam Cement Ltd.",
+"t" : "MANGLMCEM",
+"e" : "NSE",
+"l" : "331.40",
+"c" : "-0.50",
+"mc" : "8.85B",
+"cp" : "-0.15",
+"ccol" : "chr"
+}
+,
+{
+"id" : "714540",
+"name" : "Panyam Cements \u0026 Mineral Industries Ltd.",
+"t" : "500322",
+"e" : "BOM",
+"l" : "47.70",
+"c" : "-0.85",
+"mc" : "803.45M",
+"cp" : "-1.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3327918",
+"name" : "Ramco Cements Ltd",
+"t" : "RAMCOCEM",
+"e" : "NSE",
+"l" : "731.40",
+"c" : "+13.10",
+"mc" : "173.22B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7081694",
+"name" : "Heidelbergcement India Ltd",
+"t" : "HEIDELBERG",
+"e" : "NSE",
+"l" : "161.35",
+"c" : "+6.60",
+"mc" : "36.52B",
+"cp" : "4.26",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Kamla Tower, KANPUR, 208001, India",
+"phone": "+91-512-2371478",
+"fax": "+91-512-2399854",
+"url": "http:\u002F\u002Fwww.jkcement.com",
+"overview" : "J.K. Cement Limited is an India-based holding company. The Company is engaged in manufacturing cement and cement products. Its product portfolio includes grey cement, white cement and wall putty. It offers a range of grey cement, which include Portland Pozzolana cement (PPC), ordinary Portland cement (OPC) and Portland slag cement. Its white cement portfolio includes J.K. White Cement, J.K. Wall Putty, J.K. Waterproof and J.K. Primaxx. It white cement is used for decorative and architectural applications. J.K. Wall Putty is a white cement based fine powder, which provides a base for concrete\u002Fcement plastered walls and ceilings. J.K. Water Proof is a water repellant powder, which prevents passage of water through pores and capillaries of the concrete. JK PRIMAXX is a product used for interiors and exteriors. Its grey cement plants are located in Rajasthan and Karnataka. Its white cement and white cement-based wall putty plants are located in Rajasthan and Madhya Pradesh."
+} ]
+, "management" : [
+{
+"name" : "Yadupati Singhania",
+"title" : "Executive Non-Independent Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Ajay Kumar Saraogi",
+"title" : "Chief Financial Officer\u003B President - Corporate Affairs"
+}
+,
+{
+"name" : "B. K. Arora",
+"title" : "President (Works) – White Cement"
+}
+,
+{
+"name" : "Christer Mikael Eriksson",
+"title" : "Chief Executive Officer - J. K. Cement Works (Fujairah) FZC"
+}
+,
+{
+"name" : "Deepak Mehra",
+"title" : "President - Marketing of Grey Cement"
+}
+,
+{
+"name" : "Niranjan Mishra",
+"title" : "President - Marketing of White Cement"
+}
+,
+{
+"name" : "D. Ravi Shanker",
+"title" : "President - Projects"
+}
+,
+{
+"name" : "Shambhu Singh",
+"title" : "Chief Investment Officer"
+}
+,
+{
+"name" : "Harish Agarwal",
+"title" : "Unit Head – Grey Cement, Haryana"
+}
+,
+{
+"name" : "Antriksha Kumar Jain",
+"title" : "Unit Head - Grey Cement, South"
+}
+]
+,"moreresources" : [
+]
+}]

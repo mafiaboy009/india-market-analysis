@@ -1,0 +1,332 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 2224145152,
+            "fmt": "2.22B",
+            "longFmt": "2,224,145,152"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.055910002,
+            "fmt": "-5.59%"
+          },
+          "floatShares": {
+            "raw": 6357169,
+            "fmt": "6.36M",
+            "longFmt": "6,357,169"
+          },
+          "sharesOutstanding": {
+            "raw": 11005000,
+            "fmt": "11.01M",
+            "longFmt": "11,005,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 2.215226,
+            "fmt": "2.22"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -73.944,
+            "fmt": "-73.94"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -583478976,
+            "fmt": "-583.48M",
+            "longFmt": "-583,478,976"
+          },
+          "trailingEps": {
+            "raw": -51.727,
+            "fmt": "-51.73"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1248998400,
+            "fmt": "2009-07-31"
+          },
+          "enterpriseToRevenue": {
+            "raw": 0.218,
+            "fmt": "0.22"
+          },
+          "enterpriseToEbitda": {
+            "raw": -6.043,
+            "fmt": "-6.04"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 11812463000,
+                  "fmt": "11.81B",
+                  "longFmt": "11,812,463,000"
+                },
+                "earnings": {
+                  "raw": -288691000,
+                  "fmt": "-288.69M",
+                  "longFmt": "-288,691,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 11306795000,
+                  "fmt": "11.31B",
+                  "longFmt": "11,306,795,000"
+                },
+                "earnings": {
+                  "raw": -649834000,
+                  "fmt": "-649.83M",
+                  "longFmt": "-649,834,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 9692430000,
+                  "fmt": "9.69B",
+                  "longFmt": "9,692,430,000"
+                },
+                "earnings": {
+                  "raw": -408755000,
+                  "fmt": "-408.75M",
+                  "longFmt": "-408,755,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 9650640000,
+                  "fmt": "9.65B",
+                  "longFmt": "9,650,640,000"
+                },
+                "earnings": {
+                  "raw": -240985000,
+                  "fmt": "-240.99M",
+                  "longFmt": "-240,985,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 2976902000,
+                  "fmt": "2.98B",
+                  "longFmt": "2,976,902,000"
+                },
+                "earnings": {
+                  "raw": 78332000,
+                  "fmt": "78.33M",
+                  "longFmt": "78,332,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 2431656000,
+                  "fmt": "2.43B",
+                  "longFmt": "2,431,656,000"
+                },
+                "earnings": {
+                  "raw": -91504000,
+                  "fmt": "-91.5M",
+                  "longFmt": "-91,504,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 2187850000,
+                  "fmt": "2.19B",
+                  "longFmt": "2,187,850,000"
+                },
+                "earnings": {
+                  "raw": -319080000,
+                  "fmt": "-319.08M",
+                  "longFmt": "-319,080,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 2585121000,
+                  "fmt": "2.59B",
+                  "longFmt": "2,585,121,000"
+                },
+                "earnings": {
+                  "raw": -237000000,
+                  "fmt": "-237M",
+                  "longFmt": "-237,000,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "11, Station Road",
+          "address2": "Burmamines",
+          "city": "Jamshedpur",
+          "zip": "831007",
+          "country": "India",
+          "phone": "91 65 7304 6326",
+          "fax": "91 65 7234 5732",
+          "website": "http://www.trf.co.in",
+          "industry": "Diversified Machinery",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "TRF Limited provides solutions for material handling equipment and processing systems for infrastructure development and automotive applications in India and internationally. Its Bulk Material Handling Equipment division designs and manufactures various material handling equipment used in the infrastructure industries, such as wagon tipplers, stackerer reclaimers, ship loaders and unloaders, travelling wagon loaders. This division is also involved in operation and maintenance services business. Its Port and Yard Equipment division focuses on the design, supply, erection, and the commissioning of material handling equipment for ports and stockyards, including level luffing cranes, ship loaders and unloaders, container cranes, stacker-reclaimers, and special purpose cranes for power and metallurgical plants. The company is also involved in the manufacture of trailers comprising bomb cart trailers and lowbed trailers with side pillars; and manufacture and sale of trailer under gears consisting of trailer axles, mechanical and air suspensions, landing gears, fifth wheel couplers, and trailer ABS. In addition, it engages in the provision of solutions for automotive applications. TRF Limited was founded in 1962 and is based in Jamshedpur, India.",
+          "fullTimeEmployees": 1376,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 185.55,
+            "fmt": "185.55"
+          },
+          "targetHighPrice": {
+            "raw": 100.0,
+            "fmt": "100.00"
+          },
+          "targetLowPrice": {
+            "raw": 100.0,
+            "fmt": "100.00"
+          },
+          "targetMeanPrice": {
+            "raw": 100.0,
+            "fmt": "100.00"
+          },
+          "targetMedianPrice": {
+            "raw": 100.0,
+            "fmt": "100.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": -368038016,
+            "fmt": "-368.04M",
+            "longFmt": "-368,038,016"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 10181526528,
+            "fmt": "10.18B",
+            "longFmt": "10,181,526,528"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 925.18,
+            "fmt": "925.18"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 2465137000,
+            "fmt": "2.47B",
+            "longFmt": "2,465,137,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.167,
+            "fmt": "16.70%"
+          },
+          "grossMargins": {
+            "raw": 0.21041,
+            "fmt": "21.04%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.03615,
+            "fmt": "-3.62%"
+          },
+          "operatingMargins": {
+            "raw": -0.04521,
+            "fmt": "-4.52%"
+          },
+          "profitMargins": {
+            "raw": -0.055910002,
+            "fmt": "-5.59%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

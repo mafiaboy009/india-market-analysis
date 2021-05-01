@@ -1,0 +1,290 @@
+
+ [
+{
+"symbol" : "533309",
+"exchange" : "BOM",
+"id": "3333768",
+"t" : "533309",
+"e" : "BOM",
+"name" : "Dalmia Bharat Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533309"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533309"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533309"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.98%",
+"annual" : "4.01%",
+"ttm" : "7.18%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.25%",
+"annual" : "14.09%",
+"ttm" : "15.33%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "22.72%",
+"ttm" : "23.14%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.86%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.81%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5,832",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-17.80",
+"l" : "2,695.90",
+"cp" : "-0.66",
+"ccol" : "chr",
+"op" : "2,715.25",
+"hi" : "2,715.25",
+"lo" : "2,671.10",
+"vo" : "5,841.00",
+"avvo" : "",
+"hi52" : "3,348.95",
+"lo52" : "1,842.40",
+"mc" : "240.22B",
+"pe" : "47.65",
+"fwpe" : "",
+"beta" : "",
+"eps" : "56.58",
+"dy" : "0.08",
+"ldiv" : "2.20",
+"shares" : "88.95M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "3333768",
+"name" : "Dalmia Bharat Ltd",
+"t" : "533309",
+"e" : "BOM",
+"l" : "2,695.90",
+"c" : "-17.80",
+"mc" : "240.22B",
+"cp" : "-0.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10458838",
+"name" : "Bombay Potteries \u0026 Tiles Ltd",
+"t" : "502216",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-2,505.30",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "884177482572568",
+"name" : "Dalmia Refractories Ltd",
+"t" : "DALMIAREF",
+"e" : "NSE",
+"l" : "112.50",
+"c" : "",
+"mc" : "354.61M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3327918",
+"name" : "Ramco Cements Ltd",
+"t" : "RAMCOCEM",
+"e" : "NSE",
+"l" : "731.40",
+"c" : "+13.10",
+"mc" : "173.22B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15954732",
+"name" : "OCL India Limited",
+"t" : "OCL",
+"e" : "NSE",
+"l" : "1,268.00",
+"c" : "+2.25",
+"mc" : "71.96B",
+"cp" : "0.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7995468",
+"name" : "HIL Ltd",
+"t" : "HIL",
+"e" : "NSE",
+"l" : "1,755.00",
+"c" : "+27.50",
+"mc" : "13.04B",
+"cp" : "1.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14172498",
+"name" : "Orient Abrasives Ltd.",
+"t" : "ORIENTABRA",
+"e" : "NSE",
+"l" : "44.90",
+"c" : "+2.05",
+"mc" : "5.33B",
+"cp" : "4.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4073776",
+"name" : "IFGL Refractories Ltd",
+"t" : "IFGLREFRAC",
+"e" : "NSE",
+"l" : "280.00",
+"c" : "",
+"mc" : "9.66B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13927346",
+"name" : "Greenearth Resources and Projects Ltd",
+"t" : "AUSTRAL",
+"e" : "NSE",
+"l" : "0.35",
+"c" : "-0.05",
+"mc" : "101.60M",
+"cp" : "-12.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5434661",
+"name" : "Grindwell Norton Ltd",
+"t" : "GRINDWELL",
+"e" : "NSE",
+"l" : "495.50",
+"c" : "-2.70",
+"mc" : "54.66B",
+"cp" : "-0.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10789283",
+"name" : "Morganite Crucible (India) Ltd",
+"t" : "523160",
+"e" : "BOM",
+"l" : "1,025.00",
+"c" : "+4.35",
+"mc" : "2.87B",
+"cp" : "0.43",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "11Th\u002F12Th Floors Hansalaya building, 15, Barakhamba Road, NEW DELHI, 110001, India",
+"phone": "+91-11-23465168",
+"fax": "+91-11-23313303",
+"url": "https:\u002F\u002Fwww.dalmiabl.com\u002F",
+"overview" : "Dalmia Bharat Limited is an India-based holding company. The Company operates as a cement manufacturing company. The Company\u0027s segments include Own Manufactured Cement, Refractory, Management Services and Others. The Company\u0027s brands include Dalmia DSP, Dalmia, Dalmia Ultra, Dalmia Super Roof, Vajram and Konark. The Company manufactures cement for use in lining of oil wells, airport strips and railway sleepers, among others. The Company owns a 5.5-megawatt capacity solar power plant at Medinipur, West Bengal. The Company also owns thermal power plants, co-generation plants and wind farms. The Company has manufacturing facilities in approximately 11 locations with an installed capacity of 25 million tons per annum. The Company\u0027s subsidiaries include Dalmia Power Limited, Adwetha Cement Holdings Limited, Kanika Investment Limited and Dalmia Cement (Bharat) Limited."
+} ]
+, "management" : [
+{
+"name" : "Jayesh Doshi",
+"title" : "Chief Financial Officer, Director"
+}
+,
+{
+"name" : "Sanjeev Gemawat Ph.D.",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Jai Hari Dalmia",
+"age" : "66",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Yadu Hari Dalmia",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Pradip Kumar Khaitan",
+"age" : "74",
+"title" : "Non-Executive Non - Independent Chairman of the Board"
+}
+,
+{
+"name" : "Sudha Pillai",
+"title" : "Director"
+}
+,
+{
+"name" : "Gautam Dalmia",
+"age" : "47",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Puneet Yadu Dalmia",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "N. Gopalaswamy",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,288 @@
+
+// [
+{
+"symbol" : "532673",
+"exchange" : "BOM",
+"id": "701988",
+"t" : "532673",
+"e" : "BOM",
+"name" : "KM Sugar Mills Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532673"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532673"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532673"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002715)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-7.14%",
+"annual" : "8.31%",
+"ttm" : "-0.50%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-9.48%",
+"annual" : "11.05%",
+"ttm" : "1.08%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "14.38%",
+"ttm" : "3.73%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.31%",
+"ttm" : "-0.56%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "65.80%",
+"ttm" : "-9.77%"
+}
+]
+, "c" : "+0.05",
+"l" : "14.40",
+"cp" : "0.35",
+"ccol" : "chg",
+"op" : "14.65",
+"hi" : "14.65",
+"lo" : "14.20",
+"vo" : "18,955.00",
+"avvo" : "",
+"hi52" : "31.30",
+"lo52" : "14.05",
+"mc" : "1.35B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.20",
+"dy" : "",
+"ldiv" : "",
+"shares" : "92.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "701988",
+"name" : "KM Sugar Mills Ltd.",
+"t" : "532673",
+"e" : "BOM",
+"l" : "14.40",
+"c" : "+0.05",
+"mc" : "1.35B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12172014",
+"name" : "Upper Ganges Sugar \u0026 Industries Ltd.",
+"t" : "UPERGANGES",
+"e" : "NSE",
+"l" : "376.60",
+"c" : "",
+"mc" : "4.37B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4438161",
+"name" : "Bannari Amman Sugars Limited",
+"t" : "BANARISUG",
+"e" : "NSE",
+"l" : "1,800.00",
+"c" : "+30.00",
+"mc" : "22.57B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14089507",
+"name" : "Rana Sugars Ltd.",
+"t" : "RANASUG",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "-0.05",
+"mc" : "952.12M",
+"cp" : "-0.81",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6592407",
+"name" : "E.I.D-Parry (India) Ltd",
+"t" : "EIDPARRY",
+"e" : "NSE",
+"l" : "315.65",
+"c" : "-4.05",
+"mc" : "55.85B",
+"cp" : "-1.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8902314",
+"name" : "Kesar Enterprises Ltd",
+"t" : "KESARENT",
+"e" : "NSE",
+"l" : "57.95",
+"c" : "-1.15",
+"mc" : "578.73M",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13114484",
+"name" : "Simbhaoli Sugars Ltd.",
+"t" : "SIMBHSUGAR",
+"e" : "NSE",
+"l" : "28.60",
+"c" : "",
+"mc" : "807.34M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3493013",
+"name" : "Ugar Sugar Works Limited",
+"t" : "UGARSUGAR",
+"e" : "NSE",
+"l" : "19.80",
+"c" : "-0.25",
+"mc" : "2.23B",
+"cp" : "-1.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715557",
+"name" : "Jeypore Sugar Company Ltd",
+"t" : "590054",
+"e" : "BOM",
+"l" : "48.70",
+"c" : "",
+"mc" : "220.83M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13914119",
+"name" : "Triveni Engineering \u0026 Industries Ltd.",
+"t" : "TRIVENI",
+"e" : "NSE",
+"l" : "63.45",
+"c" : "-0.40",
+"mc" : "16.38B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14034255",
+"name" : "Parrys Sugar Industries Ltd",
+"t" : "PARRYSUGAR",
+"e" : "NSE",
+"l" : "48.40",
+"c" : "",
+"mc" : "976.13M",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "76 Faizabad, LUCKNOW, 226010, India",
+"phone": "+91-522-4079561",
+"fax": "+91-522-2308772",
+"url": "http:\u002F\u002Fwww.kmsugar.com\u002F",
+"overview" : "K.M. Sugar Mills Limited manufactures sugar and rectified spirit\u002Fethanol. The Company\u0027s segments include Sugar, Power Generation, Distillery and Others. It manufactures and sells three grades of sugar in jute bags, as well as in polypropylene (PP) bags. It offers various sized sugar products, including L 31, M 31, M 30, S 31 and S 30. It manufactures rectified spirit, ethanol and extra neutral alcohol at its facility at Motinagar, Faizabad. It has its own baggased-based co-generation power plant with the capacity of 25 megawatts in Motinagar, Faizabad, Uttar Pradesh. Its Bio Compost unit manufactures bio fertilizer, which is marketed in the name of Moti Super. Its Bio Fertilizer is manufactured by utilizing the by-product of sugar unit, Press Mud and the by-product of Distillery division, spent wash along with culture. Its bottling plant is located in Bapudham Motihari, Bihar that supplies country liquor in pet bottles of 200 milliliters with the capacity of four lacs bottles per day."
+} ]
+, "management" : [
+{
+"name" : "L. K. Jhunjhunwala",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "A. K. Gupta",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rajeev Kumar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Aditya Jhunjhunwala",
+"title" : "Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Sanjay Jhunjhunwala",
+"age" : "39",
+"title" : "Joint Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Subhash Chandra Aggrawal",
+"age" : "53",
+"title" : "Chief Executive Officer, Whole Time Director"
+}
+,
+{
+"name" : "Madhu Mathur",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "P. N. Mathur",
+"title" : "Director - Nominee of Punjab National Bank"
+}
+,
+{
+"name" : "S. B. Singh",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "S. K. Gupta",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

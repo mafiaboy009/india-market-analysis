@@ -1,0 +1,269 @@
+
+ [
+{
+"symbol" : "531831",
+"exchange" : "BOM",
+"id": "8456050",
+"t" : "531831",
+"e" : "BOM",
+"name" : "Unisys Softwares and Holding Indus"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=UISY.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531831"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531831"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531831"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "74.43%",
+"annual" : "0.02%",
+"ttm" : "0.07%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "74.43%",
+"annual" : "-0.29%",
+"ttm" : "-0.02%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-0.25%",
+"ttm" : "0.04%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.03%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.13%",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "22.90",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "39.15",
+"lo52" : "22.55",
+"mc" : "526.70M",
+"pe" : "288.56",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.08",
+"dy" : "",
+"ldiv" : "",
+"shares" : "23.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "8456050",
+"name" : "Unisys Softwares and Holding Indus",
+"t" : "531831",
+"e" : "BOM",
+"l" : "22.90",
+"c" : "0.00",
+"mc" : "526.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16455919",
+"name" : "Cholamandalam Investment and Fin Co Ltd",
+"t" : "CHOLAFIN",
+"e" : "NSE",
+"l" : "1,438.00",
+"c" : "+22.40",
+"mc" : "223.74B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7686660",
+"name" : "Shalibhadra Finance Ltd",
+"t" : "511754",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "-5.35",
+"mc" : "652.09M",
+"cp" : "-3.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14338771",
+"name" : "India Securities Ltd",
+"t" : "INDSEC",
+"e" : "BOM",
+"l" : "57.00",
+"c" : "",
+"mc" : "49.92B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7977316",
+"name" : "L\u0026T Finance Holdings Ltd",
+"t" : "L\u0026TFH",
+"e" : "NSE",
+"l" : "168.00",
+"c" : "+5.80",
+"mc" : "305.14B",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14153912",
+"name" : "IDFC Ltd",
+"t" : "IDFC",
+"e" : "NSE",
+"l" : "53.45",
+"c" : "+0.45",
+"mc" : "84.92B",
+"cp" : "0.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11124528",
+"name" : "SREI Infrastructure Finance Limited",
+"t" : "SREINFRA",
+"e" : "NSE",
+"l" : "83.25",
+"c" : "+1.55",
+"mc" : "41.73B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15373457",
+"name" : "IIFL Holdings Ltd",
+"t" : "IIFL",
+"e" : "NSE",
+"l" : "731.00",
+"c" : "-4.75",
+"mc" : "230.86B",
+"cp" : "-0.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6950297",
+"name" : "Sundaram Finance Limited",
+"t" : "SUNDARMFIN",
+"e" : "NSE",
+"l" : "1,725.00",
+"c" : "+30.00",
+"mc" : "191.65B",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1092300173810390",
+"name" : "Aditya Birla Capital Ltd",
+"t" : "ABCAPITAL",
+"e" : "NSE",
+"l" : "163.40",
+"c" : "-0.70",
+"mc" : "359.30B",
+"cp" : "-0.43",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11784956",
+"name" : "Mahindra \u0026 Mahindra Fin. Services Ltd.",
+"t" : "M\u0026MFIN",
+"e" : "NSE",
+"l" : "445.75",
+"c" : "+4.40",
+"mc" : "274.84B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "75c, KOLKATA, 700016, India",
+"phone": "+91-33-22295359",
+"fax": "+91-33-22291967",
+"url": "http:\u002F\u002Fwww.unisyssoftwares.com\u002F",
+"overview" : "Unisys Softwares \u0026 Holding Industries Limited is an India-based non-banking financial company (NBFC). The Company is engaged in financing and trading activities. The Company operates through two segments, which include Trading in Software \u0026 Hardware Products, and Investments in Capital Market \u0026 Mutual Fund related activities. The Company is also engaged in the business of investment activities in shares and securities of both listed and un-listed companies. The Company is engaged in the business of trading of software (mobile applications), which is known as MVAS Software. The Company is involved in other related activities of capital market, as well as Commodity Market. The Company is also engaged in providing advisory services to its corporate clients and high-net-worth individuals (HNIs)."
+} ]
+, "management" : [
+{
+"name" : "Jagdish Prasad Purohit",
+"age" : "55",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Kanchan Jhawar",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Sushil Kumar Purohit",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Saroj Devi Kothari",
+"age" : "47",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Mohit Jhunjhunwala",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Joharpal Singh",
+"age" : "66",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

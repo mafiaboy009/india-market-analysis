@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "520119",
+"exchange" : "BOM",
+"id": "12893874",
+"t" : "520119",
+"e" : "BOM",
+"name" : "Automotive Stampings and Assemblies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:520119"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:520119"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:520119"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-12.49%",
+"annual" : "-0.87%",
+"ttm" : "-11.64%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-9.18%",
+"annual" : "1.36%",
+"ttm" : "-8.74%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.29%",
+"ttm" : "-5.75%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.40%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-14.84%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,599",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.95",
+"l" : "79.25",
+"cp" : "-3.59",
+"ccol" : "chr",
+"op" : "81.40",
+"hi" : "81.55",
+"lo" : "79.25",
+"vo" : "13,763.00",
+"avvo" : "",
+"hi52" : "119.50",
+"lo52" : "63.90",
+"mc" : "1.26B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-24.47",
+"dy" : "",
+"ldiv" : "",
+"shares" : "15.86M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12893874",
+"name" : "Automotive Stampings and Assemblies Ltd",
+"t" : "520119",
+"e" : "BOM",
+"l" : "79.25",
+"c" : "-2.95",
+"mc" : "1.26B",
+"cp" : "-3.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715564",
+"name" : "IST Ltd.",
+"t" : "508807",
+"e" : "BOM",
+"l" : "1,085.00",
+"c" : "+23.00",
+"mc" : "6.33B",
+"cp" : "2.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9974936",
+"name" : "Bharat Forge Ltd",
+"t" : "BHARATFORG",
+"e" : "NSE",
+"l" : "767.25",
+"c" : "+17.25",
+"mc" : "357.18B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13340222",
+"name" : "Omax Autos Limited",
+"t" : "OMAXAUTO",
+"e" : "NSE",
+"l" : "170.00",
+"c" : "-1.95",
+"mc" : "3.61B",
+"cp" : "-1.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1863710",
+"name" : "Sundram Fasteners Limited",
+"t" : "SUNDRMFAST",
+"e" : "NSE",
+"l" : "559.00",
+"c" : "-14.65",
+"mc" : "116.98B",
+"cp" : "-2.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11817741",
+"name" : "Talbros Automotive Components Ltd",
+"t" : "TALBROAUTO",
+"e" : "NSE",
+"l" : "293.75",
+"c" : "+0.50",
+"mc" : "3.62B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5996806",
+"name" : "Rasandik Engineering Industres India Ltd",
+"t" : "522207",
+"e" : "BOM",
+"l" : "192.00",
+"c" : "-8.75",
+"mc" : "897.14M",
+"cp" : "-4.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9156721",
+"name" : "Jay Ushin Ltd",
+"t" : "513252",
+"e" : "BOM",
+"l" : "648.80",
+"c" : "+18.05",
+"mc" : "2.51B",
+"cp" : "2.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "677072",
+"name" : "Munjal Showa Limited",
+"t" : "MUNJALSHOW",
+"e" : "NSE",
+"l" : "223.40",
+"c" : "-3.95",
+"mc" : "8.91B",
+"cp" : "-1.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715310",
+"name" : "ZF Steering Gear (India) Ltd",
+"t" : "505163",
+"e" : "BOM",
+"l" : "1,130.75",
+"c" : "+30.05",
+"mc" : "10.16B",
+"cp" : "2.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11783675",
+"name" : "Brakes Auto (India) Ltd",
+"t" : "520115",
+"e" : "BOM",
+"l" : "0.93",
+"c" : "0.00",
+"mc" : "19.62M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Gat No. 427,, Juna Chakan, Medankarwadi,, PUNE, 410501, India",
+"phone": "+91-2135-679801",
+"fax": "+91-20-66314300",
+"url": "http:\u002F\u002Fwww.autostampings.com\u002F",
+"overview" : "Automotive Stampings and Assemblies Limited is an India-based auto components supplier. The Company is engaged in the business of manufacturing sheet metal stampings, welded assemblies and modules for the automotive industry. The Company\u0027s product range includes body-in-white (BIW) structural panels, skin panels, fuel tanks, oil sumps and suspension parts, mainly for passenger and commercial vehicles. The Company also manufactures sheet metal components for tractors. Its skin parts of cars include side panel, rear door panel (Palio), front door panel (Palio), front mudguard (Palio) and cabin inner panel. Its BIW components include Rear Quarter Glass (Safari), Panel Dash (Safari), Door Inner panel-(Tata Mobile), Bonnet inner-(Palio) and Panel Inner rear door (Tata Mobile). The Company has approximately four plants in India located at Bhosari, Maharashtra\u003B Chakan, Maharashtra\u003B Halol, Gujarat, and Pantnagar, Uttarakhand. Its customers are vehicle manufacturers."
+} ]
+, "management" : [
+{
+"name" : "Prashant Mahindrakar",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Anubhav Maheshwari",
+"age" : "37",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ashutosh Kulkarni",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ramnath N. Mukhija",
+"age" : "73",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Bharatkumar B. Parekh",
+"title" : "Additional Non-Independent Non-Executive Director"
+}
+,
+{
+"name" : "Harish Pathak",
+"title" : "Additional Non-Independent Non-Executive Director"
+}
+,
+{
+"name" : "Deepak Rastogi",
+"age" : "47",
+"title" : "Non-Executive , Non-Independent Director"
+}
+,
+{
+"name" : "Ajay Tandon",
+"age" : "56",
+"title" : "Non-Executive , Non-Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

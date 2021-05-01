@@ -1,0 +1,278 @@
+
+ [
+{
+"symbol" : "534422",
+"exchange" : "BOM",
+"id": "826759680749506",
+"t" : "534422",
+"e" : "BOM",
+"name" : "Looks Health Services Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=LOOK.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:534422"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:534422"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:534422"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.53%",
+"annual" : "0.35%",
+"ttm" : "-18.08%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-34.27%",
+"annual" : "-31.05%",
+"ttm" : "-20.36%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-17.53%",
+"ttm" : "-7.90%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.03%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.04%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "25",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.70",
+"l" : "15.70",
+"cp" : "4.67",
+"ccol" : "chg",
+"op" : "15.70",
+"hi" : "15.70",
+"lo" : "15.70",
+"vo" : "40.00",
+"avvo" : "",
+"hi52" : "22.40",
+"lo52" : "11.90",
+"mc" : "164.85M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.30",
+"dy" : "",
+"ldiv" : "",
+"shares" : "10.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "826759680749506",
+"name" : "Looks Health Services Ltd",
+"t" : "534422",
+"e" : "BOM",
+"l" : "15.70",
+"c" : "+0.70",
+"mc" : "164.85M",
+"cp" : "4.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "515387340809167",
+"name" : "Sanghvi Brands Ltd",
+"t" : "540782",
+"e" : "BOM",
+"l" : "110.60",
+"c" : "+5.25",
+"mc" : "1.15B",
+"cp" : "4.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12606616",
+"name" : "Birla Pacific Medspa Limited",
+"t" : "533469",
+"e" : "BOM",
+"l" : "0.28",
+"c" : "0.00",
+"mc" : "30.60M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "677375",
+"name" : "Marico Limited",
+"t" : "531642",
+"e" : "BOM",
+"l" : "306.65",
+"c" : "+0.40",
+"mc" : "395.94B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "839692224082979",
+"name" : "Aditya Consumer Marketing Ltd",
+"t" : "540146",
+"e" : "BOM",
+"l" : "185.30",
+"c" : "-5.05",
+"mc" : "2.71B",
+"cp" : "-2.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15030776",
+"name" : "Landmarc Leisure Corporation Ltd",
+"t" : "532275",
+"e" : "BOM",
+"l" : "0.70",
+"c" : "+0.01",
+"mc" : "544.23M",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "827220505989971",
+"name" : "Kaya Ltd",
+"t" : "KAYA",
+"e" : "NSE",
+"l" : "1,094.00",
+"c" : "+109.70",
+"mc" : "14.19B",
+"cp" : "11.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "347712390162697",
+"name" : "Khemani Distributors \u0026 Marketing Ltd",
+"t" : "539788",
+"e" : "BOM",
+"l" : "186.00",
+"c" : "0.00",
+"mc" : "2.14B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7129747",
+"name" : "Brushman (India) Limited",
+"t" : "590061",
+"e" : "BOM",
+"l" : "1.15",
+"c" : "",
+"mc" : "16.97M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3193458",
+"name" : "Trent Ltd",
+"t" : "TRENT",
+"e" : "NSE",
+"l" : "310.00",
+"c" : "-3.00",
+"mc" : "102.69B",
+"cp" : "-0.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1188812",
+"name" : "Emami Ltd",
+"t" : "EMAMILTD",
+"e" : "NSE",
+"l" : "1,105.50",
+"c" : "+33.30",
+"mc" : "250.26B",
+"cp" : "3.11",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "28\u002F3, Next to Jari Mandir SV Road,OPP.BANDRA TALAO, Bandra (West), MUMBAI, 400053, India",
+"phone": "+91-22-42952616",
+"fax": "+91-22-26420660",
+"url": "http:\u002F\u002Fwww.looksclinic.com\u002F",
+"overview" : "Looks Health Services Limited is an India-based company engaged in beauty and cosmetic treatment services, dental service and cosmetic medicine. The Company operates through the Cosmetic \u0026 Non Cosmetic Treatments segment. It operates the Looks Cosmetic Clinic, which is a cosmetic clinic equipped for both surgical and non-surgical cosmetic and aesthetic treatments. Its services include cosmetic surgeries and cosmetology, including breast surgeries, skin treatment, weight reduction, liposuction, tummy tuck and hair transplant. The Company operates its clinics in Mumbai and Goa."
+} ]
+, "management" : [
+{
+"name" : "Rupali Verma",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Nishita Kishorchandra Sheth",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Pritesh Champalal Doshi",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Prashant Ramakant Vikram",
+"age" : "48",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Quincy Sanadhya",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Narpatraj Bafna",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Deepak Meghraj Doshi",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

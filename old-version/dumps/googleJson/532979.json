@@ -1,0 +1,273 @@
+
+ [
+{
+"symbol" : "532979",
+"exchange" : "BOM",
+"id": "728625",
+"t" : "532979",
+"e" : "BOM",
+"name" : "Piramal Phytocare Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532979"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532979"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532979"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-103.07%",
+"annual" : "4.60%",
+"ttm" : "-62.87%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-105.28%",
+"annual" : "-2.35%",
+"ttm" : "-64.23%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-1.34%",
+"ttm" : "-64.04%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.17%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.78%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "362",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.20",
+"l" : "46.20",
+"cp" : "5.00",
+"ccol" : "chg",
+"op" : "42.00",
+"hi" : "46.20",
+"lo" : "41.80",
+"vo" : "3,690.00",
+"avvo" : "",
+"hi52" : "96.00",
+"lo52" : "33.25",
+"mc" : "1.25B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-5.51",
+"dy" : "",
+"ldiv" : "",
+"shares" : "25.96M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "728625",
+"name" : "Piramal Phytocare Ltd",
+"t" : "532979",
+"e" : "BOM",
+"l" : "46.20",
+"c" : "+2.20",
+"mc" : "1.25B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13868302",
+"name" : "Natural Capsules Ltd",
+"t" : "524654",
+"e" : "BOM",
+"l" : "116.00",
+"c" : "+5.05",
+"mc" : "722.99M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14699244",
+"name" : "Veerhealth Care Ltd",
+"t" : "511523",
+"e" : "BOM",
+"l" : "15.00",
+"c" : "-0.70",
+"mc" : "104.01M",
+"cp" : "-4.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13983860",
+"name" : "ABL Bio Technologies Ltd",
+"t" : "526955",
+"e" : "BOM",
+"l" : "0.81",
+"c" : "0.00",
+"mc" : "6.65M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15037478",
+"name" : "Choksi Laboratories Ltd",
+"t" : "526546",
+"e" : "BOM",
+"l" : "29.50",
+"c" : "+1.10",
+"mc" : "",
+"cp" : "3.87",
+"ccol" : "chg"
+}
+,
+{
+"id" : "32365199179840",
+"name" : "Syngene International Ltd",
+"t" : "SYNGENE",
+"e" : "NSE",
+"l" : "580.00",
+"c" : "+1.10",
+"mc" : "116.22B",
+"cp" : "0.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2999824",
+"name" : "Vimta Labs Ltd",
+"t" : "VIMTALABS",
+"e" : "NSE",
+"l" : "206.50",
+"c" : "-2.05",
+"mc" : "4.51B",
+"cp" : "-0.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "949474959909055",
+"name" : "Jeevan Scientific Technology Ltd",
+"t" : "538837",
+"e" : "BOM",
+"l" : "45.05",
+"c" : "-0.70",
+"mc" : "418.04M",
+"cp" : "-1.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "102277204733809",
+"name" : "Dr Habeebullah Life Sciences Ltd",
+"t" : "539267",
+"e" : "BOM",
+"l" : "46.05",
+"c" : "0.00",
+"mc" : "541.49M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "994065790707556",
+"name" : "R J Biotech Ltd",
+"t" : "536456",
+"e" : "BOM",
+"l" : "22.00",
+"c" : "+0.55",
+"mc" : "208.29M",
+"cp" : "2.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "937143777336528",
+"name" : "Vanta Bioscience Ltd",
+"t" : "540729",
+"e" : "BOM",
+"l" : "53.50",
+"c" : "-1.70",
+"mc" : "306.45M",
+"cp" : "-3.08",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Piramal Tower Ganpatrao Kadam Marg, Lower Parel, MUMBAI, 400013, India",
+"phone": "+91-22-30467953",
+"fax": "+91-22-30467855",
+"url": "http:\u002F\u002Fpiramalphytocare.com\u002F",
+"overview" : "Piramal Phytocare Limited, formerly Piramal Life Sciences Limited, is engaged in pharmaceutical business. The Company is engaged in the manufacturing and marketing of herbal products and other products. Its medicinal products are made from herbal extracts. It is engaged in global marketing of finished pharmaceutical dosage forms especially Proprietary Formulations, wherein the active ingredients are derived from natural sources. It offers a range of products that are developed to manage lifestyle ailments, such as diabetes, arthritis, obesity, constipation, liver damage, anxiety, sexual dysfunction, cough and cold. Its products include Sleecap capsule, Pylee capsule, Soyaklin forte capsule, Prementrid capsule, Zayata capsule, Rtunorm capsule, Khasceeze syrup, Intelimax capsule, Contudol gel, Phyleclip capsule, Contudol capsule, Sugarcare capsule, Stresscare capsule, Cardiocare capsule, Dormocare capsule, Femincare capsule and Menacare capsule. It is a part of the Piramal Group."
+} ]
+, "management" : [
+{
+"name" : "Karthik Muralidharan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Maneesh Sharma",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Rajesh Laddha",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Rashida Najmi",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "N. L. Bhatia",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Gautam Bhailal Doshi",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,298 @@
+
+// [
+{
+"symbol" : "532762",
+"exchange" : "BOM",
+"id": "709205",
+"t" : "532762",
+"e" : "BOM",
+"name" : "Action Construction Equipment Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532762"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532762"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532762"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002708)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.15%",
+"annual" : "2.41%",
+"ttm" : "8.36%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.26%",
+"annual" : "3.87%",
+"ttm" : "8.60%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.44%",
+"ttm" : "9.40%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.02%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.53%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "631",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+6.45",
+"l" : "188.75",
+"cp" : "3.54",
+"ccol" : "chg",
+"op" : "181.10",
+"hi" : "190.75",
+"lo" : "181.10",
+"vo" : "148,418.00",
+"avvo" : "",
+"hi52" : "204.20",
+"lo52" : "51.00",
+"mc" : "22.09B",
+"pe" : "50.07",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.77",
+"dy" : "0.16",
+"ldiv" : "0.30",
+"shares" : "117.32M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "709205",
+"name" : "Action Construction Equipment Limited",
+"t" : "532762",
+"e" : "BOM",
+"l" : "188.75",
+"c" : "+6.45",
+"mc" : "22.09B",
+"cp" : "3.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10122734",
+"name" : "Hercules Hoists Ltd.",
+"t" : "HERCULES",
+"e" : "NSE",
+"l" : "130.00",
+"c" : "+0.90",
+"mc" : "4.14B",
+"cp" : "0.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "713850",
+"name" : "Skyline Millars Ltd",
+"t" : "505650",
+"e" : "BOM",
+"l" : "3.55",
+"c" : "-0.11",
+"mc" : "142.80M",
+"cp" : "-3.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3721033",
+"name" : "Brady \u0026 Morris Engineering. Company Ltd",
+"t" : "505690",
+"e" : "BOM",
+"l" : "65.00",
+"c" : "0.00",
+"mc" : "146.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4330041",
+"name" : "TRF Ltd.",
+"t" : "TRF",
+"e" : "NSE",
+"l" : "223.00",
+"c" : "-0.45",
+"mc" : "2.46B",
+"cp" : "-0.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10556357",
+"name" : "BEML Ltd",
+"t" : "BEML",
+"e" : "NSE",
+"l" : "1,252.00",
+"c" : "+19.50",
+"mc" : "52.32B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15853858",
+"name" : "TIL Limited",
+"t" : "TIL",
+"e" : "NSE",
+"l" : "512.35",
+"c" : "+2.45",
+"mc" : "5.14B",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6380469",
+"name" : "Escorts Limited",
+"t" : "ESCORTS",
+"e" : "NSE",
+"l" : "886.10",
+"c" : "+7.50",
+"mc" : "108.76B",
+"cp" : "0.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "707721",
+"name" : "Eimco Elecon Ltd.",
+"t" : "EIMCOELECO",
+"e" : "NSE",
+"l" : "486.00",
+"c" : "-6.35",
+"mc" : "2.79B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10827648",
+"name" : "Revathi Equipment Ltd",
+"t" : "REVATHI",
+"e" : "NSE",
+"l" : "634.00",
+"c" : "-1.80",
+"mc" : "2.00B",
+"cp" : "-0.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13341724",
+"name" : "JMT Auto Ltd",
+"t" : "JMTAUTOLTD",
+"e" : "NSE",
+"l" : "5.05",
+"c" : "+0.05",
+"mc" : "2.54B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "5th Floor, TDI Center, Jasola, FARIDABAD, 121004, India",
+"phone": "+91-129-2307922",
+"fax": "+91-129-2307562",
+"url": "http:\u002F\u002Fwww.ace-cranes.com\u002F",
+"overview" : "Action Construction Equipment Ltd. is an India-based material handling and construction equipment manufacturing company. The Company is engaged in manufacturing general purpose and special purpose machinery. The Company operates through segments, including cranes, material handling\u002Fconstruction equipment, and agri equipment. The Company offers mobile cranes and tower cranes. The Company also offers mobile and fixed tower cranes, crawler cranes, truck mounted cranes, lorry loaders, backhoe loaders and loaders, vibratory rollers, forklifts, tractors and harvesters, and other construction equipment. The Company\u0027s production facilities are located at industrial townships of Faridabad, Haryana, and Kashipur, Uttarakhand. Its products are applicable in power projects, ports and shipyards, dams, metro rail, roads, mining, steel industry, engineering industry, railways, cement, petroleum, defense, warehousing, logistics and building construction, among others."
+} ]
+, "management" : [
+{
+"name" : "Vijay Agarwal",
+"age" : "62",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Rajan Luthra",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Anil Kumar",
+"title" : "Chief Compliance Officer, Secretary"
+}
+,
+{
+"name" : "Mona Agarwal",
+"age" : "57",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Sorab Agarwal",
+"age" : "37",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Surbhi Garg",
+"age" : "38",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "K. C. Agarwal Ph.D.",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Girish Narian Mehra",
+"age" : "82",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Amar Singhal M.D.",
+"age" : "56",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Subhash Chander Verma",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

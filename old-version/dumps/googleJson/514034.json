@@ -1,0 +1,296 @@
+
+ [
+{
+"symbol" : "514034",
+"exchange" : "BOM",
+"id": "703972",
+"t" : "514034",
+"e" : "BOM",
+"name" : "JBF Industries Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:514034"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:514034"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:514034"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-7.91%",
+"annual" : "-4.18%",
+"ttm" : "-2.53%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-0.66%",
+"annual" : "1.61%",
+"ttm" : "4.05%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.29%",
+"ttm" : "8.07%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.38%",
+"ttm" : "-1.52%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-15.16%",
+"ttm" : "-8.93%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,644",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.55",
+"l" : "157.30",
+"cp" : "-1.60",
+"ccol" : "chr",
+"op" : "161.20",
+"hi" : "161.40",
+"lo" : "154.35",
+"vo" : "7,529.00",
+"avvo" : "",
+"hi52" : "326.00",
+"lo52" : "136.00",
+"mc" : "12.87B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-26.92",
+"dy" : "0.32",
+"ldiv" : "0.50",
+"shares" : "81.87M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703972",
+"name" : "JBF Industries Ltd.",
+"t" : "514034",
+"e" : "BOM",
+"l" : "157.30",
+"c" : "-2.55",
+"mc" : "12.87B",
+"cp" : "-1.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12923600",
+"name" : "AYM Syntex Ltd",
+"t" : "508933",
+"e" : "BOM",
+"l" : "68.50",
+"c" : "+0.90",
+"mc" : "2.69B",
+"cp" : "1.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11730081",
+"name" : "Sumeet Industries Ltd",
+"t" : "SUMEETINDS",
+"e" : "NSE",
+"l" : "26.55",
+"c" : "+0.85",
+"mc" : "2.18B",
+"cp" : "3.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6803082",
+"name" : "Nitin Spinners Limited",
+"t" : "NITINSPIN",
+"e" : "NSE",
+"l" : "106.25",
+"c" : "-2.30",
+"mc" : "5.86B",
+"cp" : "-2.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "885040",
+"name" : "Damodar Industries Ltd",
+"t" : "521220",
+"e" : "BOM",
+"l" : "135.90",
+"c" : "+4.75",
+"mc" : "1.52B",
+"cp" : "3.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7933976",
+"name" : "Deepak Spinners Ltd",
+"t" : "514030",
+"e" : "BOM",
+"l" : "85.80",
+"c" : "-3.45",
+"mc" : "616.85M",
+"cp" : "-3.87",
+"ccol" : "chr"
+}
+,
+{
+"id" : "658362",
+"name" : "CIL Nova Petrochemicals Ltd",
+"t" : "CNOVAPETRO",
+"e" : "NSE",
+"l" : "38.10",
+"c" : "+1.45",
+"mc" : "1.03B",
+"cp" : "3.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14837681",
+"name" : "Modern Threads (India) Ltd",
+"t" : "500282",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-0.80",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7676883",
+"name" : "Century Enka Limited",
+"t" : "CENTENKA",
+"e" : "NSE",
+"l" : "350.55",
+"c" : "+2.15",
+"mc" : "7.65B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "64781706021168",
+"name" : "Titaanium Ten Enterprise Ltd",
+"t" : "539985",
+"e" : "BOM",
+"l" : "11.90",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16684219",
+"name" : "Raj Rayon Industries Ltd",
+"t" : "RAJRAYON",
+"e" : "NSE",
+"l" : "0.40",
+"c" : "-0.05",
+"mc" : "138.58M",
+"cp" : "-11.11",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "8th Floor, Express Tower, Nariman Point, MUMBAI, 400021, India",
+"phone": "+91-22-22885959",
+"fax": "+91-22-22886393",
+"url": "http:\u002F\u002Fwww.jbfindia.com",
+"overview" : "JBF Industries Limited is a manufacturer of polyester chips, polyester yarn and processed yarn from polyester chips. The Company\u0027s segments include Polyester Film, Other Polyester Products and Other. The Company\u0027s geographical segments include Domestic and International. Its polyester chips of textile-grade consist of semi bright chips, super bright chips, homobright chips, full dull chips, cationic semi dull, cationic super bright, cationic super bright, easy dyeable semi dull and easy dyeable super bright, among others. Its polyester chips of film-grade consist of super bright chips and silica chips. Its bottle-grade polyethylene terephthalate (PET) includes ARYAPET, which consists of AP0076, AP0076 HF, AP0080, AP0084, AP0084 FRH and AP0089. Its partially oriented yarn (POY) consists of raw white semi dull round and dope dyed black round. It also offers fully draw yarn, which consists of semi dull and super bright trilobal, and polyester textured yarn\u002Fsewing thread."
+} ]
+, "management" : [
+{
+"name" : "Bhagirath Chandulal Arya",
+"age" : "63",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Rakesh Gothi",
+"age" : "63",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Ajay Agarwal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ujjwala G. Apte",
+"title" : "Chief Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "N. K. Shah",
+"title" : "Director- Commercial, Executive Director"
+}
+,
+{
+"name" : "Purshottam N. Thakore",
+"age" : "59",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Cheerag Bhagirath Arya",
+"title" : "Member of Key Managerial Personnel"
+}
+,
+{
+"name" : "Sangita Vikash Chudiwala",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Baldevraj Hansraj Gupta",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Prakash Vasantlal Mehta",
+"age" : "73",
+"title" : "Additional Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "522101",
+"exchange" : "BOM",
+"id": "12507265",
+"t" : "522101",
+"e" : "BOM",
+"name" : "Kilburn Engineering Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KLBE.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:522101"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:522101"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:522101"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.73%",
+"annual" : "5.39%",
+"ttm" : "5.25%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.28%",
+"annual" : "11.40%",
+"ttm" : "7.29%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.08%",
+"ttm" : "10.86%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.88%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.88%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "148",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.35",
+"l" : "83.80",
+"cp" : "-0.42",
+"ccol" : "chr",
+"op" : "84.00",
+"hi" : "86.40",
+"lo" : "82.60",
+"vo" : "4,656.00",
+"avvo" : "",
+"hi52" : "86.40",
+"lo52" : "8.10",
+"mc" : "1.11B",
+"pe" : "15.97",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.25",
+"dy" : "2.39",
+"ldiv" : "2.00",
+"shares" : "13.26M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12507265",
+"name" : "Kilburn Engineering Ltd",
+"t" : "522101",
+"e" : "BOM",
+"l" : "83.80",
+"c" : "-0.35",
+"mc" : "1.11B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4305293",
+"name" : "Patels Airtemp (India) Ltd",
+"t" : "517417",
+"e" : "BOM",
+"l" : "181.00",
+"c" : "+1.05",
+"mc" : "924.65M",
+"cp" : "0.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12753529",
+"name" : "Ravindra Energy Ltd",
+"t" : "504341",
+"e" : "BOM",
+"l" : "36.10",
+"c" : "+0.10",
+"mc" : "4.41B",
+"cp" : "0.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11849737",
+"name" : "Honeywell Automation India Ltd.",
+"t" : "HONAUT",
+"e" : "NSE",
+"l" : "16,347.00",
+"c" : "-258.90",
+"mc" : "144.58B",
+"cp" : "-1.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1004817546131213",
+"name" : "LOYAL EQUIPMENTS Ltd",
+"t" : "539227",
+"e" : "BOM",
+"l" : "55.00",
+"c" : "+1.90",
+"mc" : "561.00M",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9539343",
+"name" : "Thermax Limited",
+"t" : "THERMAX",
+"e" : "NSE",
+"l" : "1,174.00",
+"c" : "+20.50",
+"mc" : "139.95B",
+"cp" : "1.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715420",
+"name" : "Batliboi Ltd.",
+"t" : "522004",
+"e" : "BOM",
+"l" : "28.50",
+"c" : "-1.50",
+"mc" : "818.40M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715417",
+"name" : "Andrew Yule \u0026 Co. Ltd.",
+"t" : "526173",
+"e" : "BOM",
+"l" : "31.10",
+"c" : "-0.20",
+"mc" : "15.16B",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7841120",
+"name" : "Ingersoll Rand India Limited",
+"t" : "INGERRAND",
+"e" : "NSE",
+"l" : "722.95",
+"c" : "-6.20",
+"mc" : "22.77B",
+"cp" : "-0.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7070333",
+"name" : "Hindustan Construction Company Ltd",
+"t" : "HCC",
+"e" : "NSE",
+"l" : "34.40",
+"c" : "+0.40",
+"mc" : "34.93B",
+"cp" : "1.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "527344562587583",
+"name" : "Zodiac Energy Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Plot No.141\u002F2 \u0026 142 IDA, Phase-II, Cherlapally, THANE, 421311, India",
+"phone": "+91-2522-663800",
+"fax": "+91-2522-280166",
+"url": "http:\u002F\u002Fwww.kilburnengg.com\u002F",
+"overview" : "Kilburn Engineering Limited is engaged in designing, manufacturing and commissioning customized equipment\u002Fsystems for diverse applications. The Company operates through engineering segment. The Company\u0027s geographical segments include India and Outside India. The Company\u0027s principal products\u002Fservices include Industrial Machinery, Dryer and Cooler. The Company\u0027s business is primarily focused in two segments: Process Equipment and Tea Drying Equipment. Its range of products includes Solid Drying Systems, Oil Field Systems, Drying Systems for Food \u0026 Agriculture, Fabricated Equipments, Heat Transfer\u002FCombustion Systems, Air Handling Systems, Adsorption Systems and Material Handling Systems. Its applications range from drying and processing of materials, such as Polyvinyl chloride (PVC), Carbon Black, Soda Ash, Sodium Cyanide, Rubber, Heavy Chemicals to Sugar, Paddy and Tea. It provides specialized dryers for products, such as Sugar, Rice, Coconut, Salt, Chili and other food products."
+} ]
+, "management" : [
+{
+"name" : "A. Suresh",
+"title" : "Chief Financial Officer, Vice President - Finance"
+}
+,
+{
+"name" : "Arvind Bajoria",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Supriya Mukherjee",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Subir Chaki",
+"title" : "Whole Time Director - Operations, Director"
+}
+,
+{
+"name" : "Aditya Khaitan",
+"age" : "47",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Rahul Asthana",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Amritanshu Khaitan",
+"age" : "30",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Priya Saran Chaudhri",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Subir Ranjan Dasgupta",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

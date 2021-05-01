@@ -1,0 +1,297 @@
+
+ [
+{
+"symbol" : "535602",
+"exchange" : "BOM",
+"id": "55087070199103",
+"t" : "535602",
+"e" : "BOM",
+"name" : "Sharda Motor Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SHAD.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:535602"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:535602"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:535602"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.60%",
+"annual" : "5.37%",
+"ttm" : "3.60%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.23%",
+"annual" : "7.03%",
+"ttm" : "5.23%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.67%",
+"ttm" : "10.40%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "6.25%",
+"annual" : "10.10%",
+"ttm" : "6.27%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "15.57%",
+"annual" : "21.75%",
+"ttm" : "15.62%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,220",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-49.40",
+"l" : "2,216.00",
+"cp" : "-2.18",
+"ccol" : "chr",
+"op" : "2,248.15",
+"hi" : "2,274.35",
+"lo" : "2,200.05",
+"vo" : "589.00",
+"avvo" : "",
+"hi52" : "3,099.65",
+"lo52" : "1,290.10",
+"mc" : "13.14B",
+"pe" : "37.32",
+"fwpe" : "",
+"beta" : "",
+"eps" : "59.38",
+"dy" : "0.56",
+"ldiv" : "6.25",
+"shares" : "5.95M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "55087070199103",
+"name" : "Sharda Motor Industries Ltd",
+"t" : "535602",
+"e" : "BOM",
+"l" : "2,216.00",
+"c" : "-49.40",
+"mc" : "13.14B",
+"cp" : "-2.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10798398",
+"name" : "Pitti Laminations Limited",
+"t" : "PITTILAM",
+"e" : "NSE",
+"l" : "91.00",
+"c" : "-1.75",
+"mc" : "2.46B",
+"cp" : "-1.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2745957",
+"name" : "Birla Power Solutions Limited",
+"t" : "BIRLAPOWER",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-0.15",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11467851",
+"name" : "Kirloskar Electric Company Ltd",
+"t" : "KECL",
+"e" : "NSE",
+"l" : "38.00",
+"c" : "+0.20",
+"mc" : "2.51B",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4012093",
+"name" : "Wabco India Ltd",
+"t" : "WABCOINDIA",
+"e" : "NSE",
+"l" : "7,691.00",
+"c" : "+550.25",
+"mc" : "147.51B",
+"cp" : "7.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "324729",
+"name" : "ELGI Equipments Ltd",
+"t" : "ELGIEQUIP",
+"e" : "NSE",
+"l" : "313.80",
+"c" : "+3.55",
+"mc" : "49.76B",
+"cp" : "1.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12700566",
+"name" : "Subros Limited",
+"t" : "SUBROS",
+"e" : "NSE",
+"l" : "348.10",
+"c" : "+14.45",
+"mc" : "20.86B",
+"cp" : "4.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3848292",
+"name" : "Bharat Seats Ltd",
+"t" : "523229",
+"e" : "BOM",
+"l" : "200.25",
+"c" : "-3.30",
+"mc" : "6.25B",
+"cp" : "-1.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1682492",
+"name" : "Aunde India Ltd",
+"t" : "532459",
+"e" : "BOM",
+"l" : "53.00",
+"c" : "-1.40",
+"mc" : "568.33M",
+"cp" : "-2.57",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9385336",
+"name" : "Harita Seating Systems Ltd",
+"t" : "HARITASEAT",
+"e" : "NSE",
+"l" : "942.05",
+"c" : "-12.05",
+"mc" : "7.27B",
+"cp" : "-1.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "717002",
+"name" : "OK Play India Ltd",
+"t" : "526415",
+"e" : "BOM",
+"l" : "108.75",
+"c" : "-3.00",
+"mc" : "2.03B",
+"cp" : "-2.68",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "D-188, Okhla Industrial Area, Phase-I, NEW DELHI, 110020, India",
+"phone": "+91-11-47334100",
+"fax": "+91-11-26811676",
+"url": "http:\u002F\u002Fwww.shardamotor.com\u002F",
+"overview" : "Sharda Motor Industries Limited is engaged in the manufacturing and assembly of Auto Components and White Goods Components. The Company\u0027s principal products\u002Fservices include Motor vehicles parts, such as suspension, silencer, exhaust pipes, and Car seats frame and seats cover. The Company operates in two segments, which include automotive components and white goods. The Company\u0027s production range includes Exhaust Systems, Catalytic Convertors, Suspension Systems, Sheet Metal Components and Plastic parts for the Automotive and White Goods Industries. The Company also manufactures products, including soft top canopies, plastic flexible hoses, front and rear axles, seat trims and pressed part-room air conditioners body. The Company serves its products to various automobiles and electronics original equipment manufacturers (OEMs). The Company\u0027s manufacturing facilities are located across 13 locations in seven states of India."
+} ]
+, "management" : [
+{
+"name" : "Sharda Relan",
+"title" : "Co-Chairperson of the Board, Whole-Time Director"
+}
+,
+{
+"name" : "Vivek Bhatia",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Nitin Vishnoi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "D. A. Aggarwal",
+"title" : "Vice President"
+}
+,
+{
+"name" : "Ajay Relan",
+"age" : "85",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Udayan Banerjee",
+"age" : "66",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Kishan Nagin Parikh",
+"age" : "48",
+"title" : "Non-Executive Independent Chairman"
+}
+,
+{
+"name" : "Satinder Kumar Lambah",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Ashok KUMAR Bhattacharya",
+"age" : "68",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "R. P. Chowdhry",
+"age" : "89",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

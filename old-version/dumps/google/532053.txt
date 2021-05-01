@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "532053",
+"exchange" : "BOM",
+"id": "1344533",
+"t" : "532053",
+"e" : "BOM",
+"name" : "Wallfort Financial Services Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=WFFS.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532053"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532053"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532053"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "63.23%",
+"annual" : "49.78%",
+"ttm" : "56.87%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "77.42%",
+"annual" : "59.91%",
+"ttm" : "70.73%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "61.55%",
+"ttm" : "71.46%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "10.84%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.52%",
+"ttm" : ""
+}
+]
+, "c" : "+0.50",
+"l" : "124.00",
+"cp" : "0.40",
+"ccol" : "chg",
+"op" : "123.05",
+"hi" : "125.00",
+"lo" : "123.05",
+"vo" : "16,804.00",
+"avvo" : "",
+"hi52" : "147.85",
+"lo52" : "44.50",
+"mc" : "1.20B",
+"pe" : "5.46",
+"fwpe" : "",
+"beta" : "",
+"eps" : "22.72",
+"dy" : "",
+"ldiv" : "",
+"shares" : "9.69M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1344533",
+"name" : "Wallfort Financial Services Ltd",
+"t" : "532053",
+"e" : "BOM",
+"l" : "124.00",
+"c" : "+0.50",
+"mc" : "1.20B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "724702",
+"name" : "Fortune Financial Services (India) Ltd",
+"t" : "530023",
+"e" : "BOM",
+"l" : "249.00",
+"c" : "+1.90",
+"mc" : "12.68B",
+"cp" : "0.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5242351",
+"name" : "Motilal Oswal Financial Services Limited",
+"t" : "MOTILALOFS",
+"e" : "NSE",
+"l" : "1,157.00",
+"c" : "-25.05",
+"mc" : "168.45B",
+"cp" : "-2.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15446887",
+"name" : "Arihant Capital Markets Ltd",
+"t" : "511605",
+"e" : "BOM",
+"l" : "134.00",
+"c" : "-5.35",
+"mc" : "2.78B",
+"cp" : "-3.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5317586",
+"name" : "Master Trust Ltd",
+"t" : "511768",
+"e" : "BOM",
+"l" : "98.00",
+"c" : "-0.95",
+"mc" : "1.07B",
+"cp" : "-0.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3611871",
+"name" : "Indiabulls Ventures Ltd",
+"t" : "IBVENTURES",
+"e" : "NSE",
+"l" : "262.40",
+"c" : "-4.90",
+"mc" : "137.80B",
+"cp" : "-1.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13460263",
+"name" : "Emkay Global Financial Services Ltd",
+"t" : "EMKAY",
+"e" : "NSE",
+"l" : "196.80",
+"c" : "-7.00",
+"mc" : "4.84B",
+"cp" : "-3.43",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3009176",
+"name" : "Skp Securities Ltd",
+"t" : "531169",
+"e" : "BOM",
+"l" : "76.15",
+"c" : "+3.60",
+"mc" : "335.25M",
+"cp" : "4.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7256710",
+"name" : "Mindvision Capital Ltd",
+"t" : "530955",
+"e" : "BOM",
+"l" : "11.25",
+"c" : "0.00",
+"mc" : "59.62M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13962542",
+"name" : "BLB Ltd",
+"t" : "BLBLIMITED",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "+0.10",
+"mc" : "327.83M",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "299958836652076",
+"name" : "DB International Stock Brokers Ltd",
+"t" : "DBSTOCKBRO",
+"e" : "NSE",
+"l" : "10.20",
+"c" : "0.00",
+"mc" : "357.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "205A, Hari Chambers , 58\u002F64, S.B.Singh Road, Fort, MUMBAI, 400001, India",
+"phone": "+91-22-61176011",
+"fax": "+91-22-22704296",
+"url": "http:\u002F\u002Fwww.wallfort.com\u002F",
+"overview" : "Wallfort Financial Services Limited is an India-based institutional stockbroker. The Company is a share and stockbroker, finance broker, underwriter and sub-underwriter and act as depository participant of National Securities Depository Limited (NSDL) and Central Depository Securities Limited (CSDL). The Company is engaged in offering both institutional stockbroking services and corporate advisory focusing on banks, financial institutions, mutual funds and foreign institutional investors. The Company is a provider of broking and other allied financial services with research and investment advisory both in the cash and in derivative segment. Its institutional stockbroking business incorporates equity research and trading. The Company\u0027s services include Internet trading, depository services, back office and high net worth individual (HNI) broking. The Company provides research on individual stocks, as well as sector-based and thematic work."
+} ]
+, "management" : [
+{
+"name" : "Ashok Bharadia",
+"age" : "48",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Deepak Lahoti",
+"age" : "40",
+"title" : "Chief Financial Officer, Whole Time Director"
+}
+,
+{
+"name" : "Aniket Ashok Bharadia",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Manoj Bharadia",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Sangeeta Bharadia",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Krishnagopal Biyani",
+"age" : "44",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ritesh Chandalia",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Pramod Gupte",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ajay Mantri",
+"age" : "51",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

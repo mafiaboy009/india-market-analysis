@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "531746",
+"exchange" : "BOM",
+"id": "706245",
+"t" : "531746",
+"e" : "BOM",
+"name" : "Prajay Engineers Syndicate Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531746"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531746"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531746"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002708)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-6.63%",
+"annual" : "-34.95%",
+"ttm" : "29.49%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-2.16%",
+"annual" : "-15.97%",
+"ttm" : "36.61%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-7.59%",
+"ttm" : "39.90%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.86%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-3.69%",
+"ttm" : ""
+}
+]
+, "c" : "-0.10",
+"l" : "13.15",
+"cp" : "-0.75",
+"ccol" : "chr",
+"op" : "13.00",
+"hi" : "13.25",
+"lo" : "13.00",
+"vo" : "25,597.00",
+"avvo" : "",
+"hi52" : "20.34",
+"lo52" : "7.50",
+"mc" : "909.36M",
+"pe" : "0.49",
+"fwpe" : "",
+"beta" : "",
+"eps" : "26.72",
+"dy" : "",
+"ldiv" : "",
+"shares" : "69.94M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "706245",
+"name" : "Prajay Engineers Syndicate Ltd",
+"t" : "531746",
+"e" : "BOM",
+"l" : "13.15",
+"c" : "-0.10",
+"mc" : "909.36M",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9090968",
+"name" : "Ashiana Housing Ltd.",
+"t" : "ASHIANA",
+"e" : "NSE",
+"l" : "170.65",
+"c" : "-2.00",
+"mc" : "17.43B",
+"cp" : "-1.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11871803",
+"name" : "Manjeera Constructions Limited",
+"t" : "MANJEERA",
+"e" : "NSE",
+"l" : "62.20",
+"c" : "",
+"mc" : "778.02M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "986880561686244",
+"name" : "Relstruct Buildcon Ltd",
+"t" : "540426",
+"e" : "BOM",
+"l" : "35.00",
+"c" : "-1.00",
+"mc" : "513.48M",
+"cp" : "-2.78",
+"ccol" : "chr"
+}
+,
+{
+"id" : "269681",
+"name" : "BSEL Infrastructure Realty Limited",
+"t" : "BSELINFRA",
+"e" : "NSE",
+"l" : "4.55",
+"c" : "0.00",
+"mc" : "367.82M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5226982",
+"name" : "IVRCL Assets \u0026 Holdings Limited",
+"t" : "IVRCLAH",
+"e" : "NSE",
+"l" : "37.75",
+"c" : "",
+"mc" : "7.44B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14698643",
+"name" : "Narendra Properties Ltd",
+"t" : "531416",
+"e" : "BOM",
+"l" : "10.45",
+"c" : "0.00",
+"mc" : "74.26M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3799217",
+"name" : "PSL Limited",
+"t" : "PSL",
+"e" : "NSE",
+"l" : "4.30",
+"c" : "+0.10",
+"mc" : "537.22M",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11428734",
+"name" : "Godrej Properties Ltd",
+"t" : "GODREJPROP",
+"e" : "NSE",
+"l" : "785.00",
+"c" : "+4.10",
+"mc" : "169.48B",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7406670",
+"name" : "Ganesh Housing Corporation Ltd",
+"t" : "GANESHHOUC",
+"e" : "NSE",
+"l" : "151.90",
+"c" : "-1.60",
+"mc" : "7.47B",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3436661",
+"name" : "Kolte Patil Developers Ltd",
+"t" : "KOLTEPATIL",
+"e" : "NSE",
+"l" : "362.50",
+"c" : "+24.95",
+"mc" : "27.35B",
+"cp" : "7.39",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "5th floor Prajay Corporate House Chikoti Gardens, Begumpet, HYDERABAD, 500016, India",
+"phone": "+91-40-55329999",
+"fax": "+91-40-55266669",
+"url": "http:\u002F\u002Fwww.prajayengineers.com\u002F",
+"overview" : "Prajay Engineers Syndicate Limited is a holding company. The Company is engaged in construction and real estate development, and hospitality-hotels and resorts. The Company operates through two segments: Construction and Development of Property, and Hospitality-Hotels \u0026 Resorts. Its projects include Prajay Waterfront City situated at Murharpally Village, Shamirpet\u003B Prajay Virgin County (SPV Project) situated at Baghmankhal Village, Maheshwaram Mandal, R.R. District\u003B Prajay Megapolis (SPV Project) situated at Hafeezpet Village, Serilingampally mandal, R.R. District\u003B Prajay Windsor Park situated at Pocharam, Ghatkesar Mandal, R.R. District\u003B Prajay Gulmohar situated at Kuntloor, Hayathnagar Mandal\u003B Prajay Homes Extension\u003B Prajay Princeton Towers situated at L.B. Nagar, Saroornagar Mandal, R.R. District, and Prajay Blue Hope. The Company operates in India."
+} ]
+, "management" : [
+{
+"name" : "P. Bhaskara Rao",
+"title" : "Chief Financial Officer, General Manager - Accounts \u0026 Finance"
+}
+,
+{
+"name" : "D. Madhavi Latha",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "D. Rohit Reddy",
+"title" : "Managing Director, Additional Director"
+}
+,
+{
+"name" : ".. Jayadeva",
+"title" : "Senior General Manager - Projects"
+}
+,
+{
+"name" : "De Sameer",
+"title" : "General Manager - Projects"
+}
+,
+{
+"name" : "C. N. Rao",
+"title" : "Deputy General Manager - Finance \u0026 Accounts"
+}
+,
+{
+"name" : "Sumit Sen",
+"title" : "Whole Time Director - Sales and Marketing, Director"
+}
+,
+{
+"name" : "K. Ravi Kumar",
+"title" : "Whole Time Director - Technical, Director"
+}
+,
+{
+"name" : "N. Ravinder Reddy",
+"title" : "Whole Time Director - Operations, Director"
+}
+,
+{
+"name" : "Anil Haldar",
+"title" : "Head - Sales, Construction and Hospitality Divisions"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,290 @@
+
+// [
+{
+"symbol" : "512579",
+"exchange" : "BOM",
+"id": "703814",
+"t" : "512579",
+"e" : "BOM",
+"name" : "Gujarat NRE Coke Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:512579"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:512579"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:512579"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002709)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-2.84%",
+"annual" : "-124.87%",
+"ttm" : "5.96%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "0.08%",
+"annual" : "-53.04%",
+"ttm" : "9.68%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-41.99%",
+"ttm" : "13.15%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-16.47%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-120.60%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "305",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "0.93",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "3.09",
+"lo52" : "0.93",
+"mc" : "1.49B",
+"pe" : "0.36",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.57",
+"dy" : "",
+"ldiv" : "",
+"shares" : "1.60B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703814",
+"name" : "Gujarat NRE Coke Ltd.",
+"t" : "512579",
+"e" : "BOM",
+"l" : "0.93",
+"c" : "0.00",
+"mc" : "1.49B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13927346",
+"name" : "Greenearth Resources and Projects Ltd",
+"t" : "AUSTRAL",
+"e" : "NSE",
+"l" : "0.35",
+"c" : "-0.05",
+"mc" : "101.60M",
+"cp" : "-12.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14744034",
+"name" : "Sarda Energy \u0026 Minerals Limited",
+"t" : "SARDAEN",
+"e" : "NSE",
+"l" : "502.00",
+"c" : "+4.00",
+"mc" : "18.02B",
+"cp" : "0.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11539104",
+"name" : "Tata Steel Limited",
+"t" : "TATASTEEL",
+"e" : "NSE",
+"l" : "681.40",
+"c" : "+3.65",
+"mc" : "769.66B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "450845042559084",
+"name" : "Supremex Shine Steels Ltd",
+"t" : "534733",
+"e" : "BOM",
+"l" : "17.90",
+"c" : "0.00",
+"mc" : "564.57M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "272373390138041",
+"name" : "Manaksia Steels Ltd",
+"t" : "MANAKSTEEL",
+"e" : "NSE",
+"l" : "33.50",
+"c" : "-1.55",
+"mc" : "2.19B",
+"cp" : "-4.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15926385",
+"name" : "Jindal Steel \u0026 Power Limited",
+"t" : "JINDALSTEL",
+"e" : "NSE",
+"l" : "266.60",
+"c" : "+1.60",
+"mc" : "244.05B",
+"cp" : "0.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15105252",
+"name" : "Sanghvi Forging and Engineering Ltd",
+"t" : "SANGHVIFOR",
+"e" : "NSE",
+"l" : "35.85",
+"c" : "-0.30",
+"mc" : "536.11M",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "396911592447988",
+"name" : "Ankit Metal \u0026 Power Ltd",
+"t" : "ANKITMETAL",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-1.30",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1433939",
+"name" : "Electrosteel Steels Ltd",
+"t" : "ESL",
+"e" : "NSE",
+"l" : "3.45",
+"c" : "-0.15",
+"mc" : "8.31B",
+"cp" : "-4.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7175371",
+"name" : "Sathavahana Ispat Ltd.",
+"t" : "SATHAISPAT",
+"e" : "NSE",
+"l" : "22.85",
+"c" : "+0.95",
+"mc" : "1.15B",
+"cp" : "4.34",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "22 Camac Street, Block C 5Th Floor, KOLKATA, 700016, India",
+"phone": "+91-33-22891471",
+"fax": "+91-33-22891470",
+"url": "http:\u002F\u002Fwww.gujaratnre.com",
+"overview" : "Gujarat NRE Coke Limited is an India-based company, which is engaged in coal and coke, and steel\u002Fthermo mechanically treated (TMT) bars. The Company\u0027s segments include Coal \u0026 Coke and Steel. The Company has a capacity of approximately 1.458 million tons per annum (MTPA) metallurgical coke production. It has metallurgical coke plants located at Khambhalia, Gujarat with an installed capacity of approximately 0.358 MTPA\u003B Bhachau, Gujarat with an installed capacity of approximately 0.311 MTPA, and Dharwad, Karnataka with an installed capacity of approximately 0.248 MTPA. The Company has set up wind power projects of installed capacity of approximately 87.5 Megawatts. The green energy from the wind turbines are used for captive consumption. In addition to the wind power project, the Company is focused on implementing power plants through waste heat recovery. The Company has export operations in Brazil, South East Asian Countries and the Middle East."
+} ]
+, "management" : [
+{
+"name" : "Arun Kumar Jagatramka",
+"age" : "54",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Nitin Daga",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Pawan Kumar Agrawal",
+"title" : "Chief Commercial Officer"
+}
+,
+{
+"name" : "Mukund Chandak",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Girdharilal Jagatramka",
+"title" : "Chairman Emeritus"
+}
+,
+{
+"name" : "Sisir Kumar Mukherjee",
+"title" : "Director"
+}
+,
+{
+"name" : "Mona Jagatramka",
+"age" : "51",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Amit Kumar Majumdar",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Mahendra Kumar Loyalka",
+"age" : "76",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

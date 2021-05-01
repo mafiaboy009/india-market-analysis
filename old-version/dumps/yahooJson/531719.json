@@ -1,0 +1,215 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 2474434048,
+            "fmt": "2.47B",
+            "longFmt": "2,474,434,048"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.02375,
+            "fmt": "2.37%"
+          },
+          "floatShares": {
+            "raw": 1591603,
+            "fmt": "1.59M",
+            "longFmt": "1,591,603"
+          },
+          "sharesOutstanding": {
+            "raw": 7793700,
+            "fmt": "7.79M",
+            "longFmt": "7,793,700"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.600785,
+            "fmt": "1.6"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 101.783,
+            "fmt": "101.78"
+          },
+          "priceToBook": {
+            "raw": 2.7995837,
+            "fmt": "2.80"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 7.491,
+            "fmt": "749.10%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 44616336,
+            "fmt": "44.62M",
+            "longFmt": "44,616,336"
+          },
+          "trailingEps": {
+            "raw": 7.176,
+            "fmt": "7.18"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.317,
+            "fmt": "1.32"
+          },
+          "enterpriseToEbitda": {
+            "raw": 28.531,
+            "fmt": "28.53"
+          },
+          "52WeekChange": {
+            "raw": 0.63766,
+            "fmt": "63.77%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Plot No. 3, Sagar Society",
+          "address2": "Road No. 2, Banjara Hills",
+          "city": "Hyderabad",
+          "zip": "500034",
+          "country": "India",
+          "phone": "91 40 4222 1212",
+          "fax": "91 40 2354 0444",
+          "website": "http://www.bhagirad.com",
+          "industry": "Agricultural Chemicals",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Bhagiradha Chemicals & Industries Limited manufactures and sells agrochemicals in India. It offers various insecticides, including chlorpyrifos, chlorpyrifos-methyl, fipronil, buprofezin, thiamethoxam, and imidacloprid; fungicides, such as azoxystrobin; herbicides comprising imazethapyr, clodinafop-propargyl, and cloquintocet-mexyl; plant growth regulators; and intermediates. The company also exports its products to Australia, South Africa, China, Germany, Singapore, Spain, the United Kingdom, Belgium, Greece, Italy, Malaysia, Taiwan, Indonesia, Peru, Brazil, etc. Bhagiradha Chemicals & Industries Limited was founded in 1993 and is headquartered in Hyderabad, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 284.95,
+            "fmt": "284.95"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 7912000,
+            "fmt": "7.91M",
+            "longFmt": "7,912,000"
+          },
+          "totalCashPerShare": {
+            "raw": 1.273,
+            "fmt": "1.27"
+          },
+          "ebitda": {
+            "raw": 86728632,
+            "fmt": "86.73M",
+            "longFmt": "86,728,632"
+          },
+          "totalDebt": {
+            "raw": 692632000,
+            "fmt": "692.63M",
+            "longFmt": "692,632,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1878867328,
+            "fmt": "1.88B",
+            "longFmt": "1,878,867,328"
+          },
+          "debtToEquity": {
+            "raw": 134.769,
+            "fmt": "134.77"
+          },
+          "revenuePerShare": {
+            "raw": 310.624,
+            "fmt": "310.62"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 613857410,
+            "fmt": "613.86M",
+            "longFmt": "613,857,410"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 5.667,
+            "fmt": "566.70%"
+          },
+          "revenueGrowth": {
+            "raw": -0.168,
+            "fmt": "-16.80%"
+          },
+          "grossMargins": {
+            "raw": 0.2768,
+            "fmt": "27.68%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.04616,
+            "fmt": "4.62%"
+          },
+          "operatingMargins": {
+            "raw": 0.02495,
+            "fmt": "2.49%"
+          },
+          "profitMargins": {
+            "raw": 0.02375,
+            "fmt": "2.37%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "514322",
+"exchange" : "BOM",
+"id": "9426201",
+"t" : "514322",
+"e" : "BOM",
+"name" : "Kamadgiri Fashion Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KMDG.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:514322"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:514322"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:514322"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.19%",
+"annual" : "0.80%",
+"ttm" : "1.77%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.19%",
+"annual" : "3.89%",
+"ttm" : "4.57%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.29%",
+"ttm" : "5.93%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.76%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.55%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,291",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.20",
+"l" : "135.25",
+"cp" : "-1.60",
+"ccol" : "chr",
+"op" : "141.50",
+"hi" : "141.50",
+"lo" : "133.35",
+"vo" : "15,114.00",
+"avvo" : "",
+"hi52" : "188.00",
+"lo52" : "59.00",
+"mc" : "802.30M",
+"pe" : "13.94",
+"fwpe" : "",
+"beta" : "",
+"eps" : "9.70",
+"dy" : "1.11",
+"ldiv" : "1.50",
+"shares" : "5.87M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9426201",
+"name" : "Kamadgiri Fashion Ltd",
+"t" : "514322",
+"e" : "BOM",
+"l" : "135.25",
+"c" : "-2.20",
+"mc" : "802.30M",
+"cp" : "-1.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715247",
+"name" : "Maharaja Shree Umaid Mills Ltd.",
+"t" : "530059",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6775313",
+"name" : "Salona Cotspin Ltd",
+"t" : "590056",
+"e" : "BOM",
+"l" : "122.45",
+"c" : "-4.55",
+"mc" : "613.94M",
+"cp" : "-3.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9534454",
+"name" : "Banswara Syntex Ltd.",
+"t" : "BANSWRAS",
+"e" : "NSE",
+"l" : "117.00",
+"c" : "+1.40",
+"mc" : "2.01B",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10446262",
+"name" : "Zenith Exports Ltd",
+"t" : "ZENITHEXPO",
+"e" : "NSE",
+"l" : "49.00",
+"c" : "0.00",
+"mc" : "264.42M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "728999961918613",
+"name" : "Safal Herbs Ltd",
+"t" : "532034",
+"e" : "BOM",
+"l" : "2.89",
+"c" : "-0.05",
+"mc" : "289.00M",
+"cp" : "-1.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2690096",
+"name" : "BSL Ltd",
+"t" : "BSL",
+"e" : "NSE",
+"l" : "74.40",
+"c" : "-2.20",
+"mc" : "771.78M",
+"cp" : "-2.87",
+"ccol" : "chr"
+}
+,
+{
+"id" : "896556",
+"name" : "Indo Count Industries Ltd",
+"t" : "ICIL",
+"e" : "NSE",
+"l" : "101.60",
+"c" : "+0.40",
+"mc" : "20.00B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16667826",
+"name" : "Nahar Industrial Enterprises Limited",
+"t" : "NAHARINDUS",
+"e" : "NSE",
+"l" : "88.90",
+"c" : "+0.15",
+"mc" : "3.54B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2198142",
+"name" : "Hindoostan Mills Ltd",
+"t" : "509895",
+"e" : "BOM",
+"l" : "365.00",
+"c" : "+19.75",
+"mc" : "607.56M",
+"cp" : "5.72",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1774482",
+"name" : "Siyaram Silk Mills Ltd",
+"t" : "SIYSIL",
+"e" : "NSE",
+"l" : "647.00",
+"c" : "-8.25",
+"mc" : "30.34B",
+"cp" : "-1.26",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "B-104 The Qube M.V Road, Marol, Andheri (E), MUMBAI, 400059, India",
+"phone": "+91-22-71613131",
+"fax": "+91-22-71613199",
+"url": "http:\u002F\u002Fkflindia.com\u002F",
+"overview" : "Kamadgiri Fashion Limited is an India-based company, which is engaged in the manufacturing and job work in textile industry. The Company is engaged in the manufacturing and trading of (in-house and outsourced) fabrics and ready to wear garments. It is involved in weaving of fabrics in an array of colors, as well as a range of counts and textures. The Company\u0027s Uniform Solutions specializes in servicing uniform and dress code requirements of corporates and industry across sectors, such as retail, hotels, aviation, healthcare, education, software, manufacturing and others. The Uniform Solutions also services events. The Company offers shirts, formal trousers, denims and linen products. The Company\u0027s own brands in fabrics include True Value and True Linen. Its plants are located at Umbergaon, District Valsad, Gujarat, and Tarapur, District Thane, Maharashtra."
+} ]
+, "management" : [
+{
+"name" : "Pradip Kumar Goenka",
+"age" : "52",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Abhay Kumat",
+"age" : "51",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Jagdish Prasad Dave",
+"title" : "Chief Financial Officer, Compliance Officer"
+}
+,
+{
+"name" : "Lalit Kumar Goenka",
+"title" : "Director"
+}
+,
+{
+"name" : "Bindu Shah",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Anil Biyani",
+"age" : "48",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Ashwani S. Bhatia",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sanjeev Maheshwari",
+"age" : "47",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

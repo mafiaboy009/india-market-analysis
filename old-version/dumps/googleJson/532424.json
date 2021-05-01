@@ -1,0 +1,295 @@
+
+ [
+{
+"symbol" : "532424",
+"exchange" : "BOM",
+"id": "687566",
+"t" : "532424",
+"e" : "BOM",
+"name" : "Godrej Consumer Products Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532424"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532424"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532424"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "16.34%",
+"annual" : "13.61%",
+"ttm" : "14.19%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "21.17%",
+"annual" : "18.44%",
+"ttm" : "18.97%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.91%",
+"ttm" : "20.58%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.48%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "27.26%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,457",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+17.15",
+"l" : "1,065.00",
+"cp" : "1.64",
+"ccol" : "chg",
+"op" : "1,054.50",
+"hi" : "1,072.75",
+"lo" : "1,044.85",
+"vo" : "12,560.00",
+"avvo" : "",
+"hi52" : "1,124.70",
+"lo52" : "798.00",
+"mc" : "727.59B",
+"pe" : "51.66",
+"fwpe" : "",
+"beta" : "",
+"eps" : "20.62",
+"dy" : "0.85",
+"ldiv" : "1.00",
+"shares" : "681.30M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "687566",
+"name" : "Godrej Consumer Products Limited",
+"t" : "532424",
+"e" : "BOM",
+"l" : "1,065.00",
+"c" : "+17.15",
+"mc" : "727.59B",
+"cp" : "1.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11830591",
+"name" : "Jyothy Laboratories, Ltd.",
+"t" : "JYOTHYLAB",
+"e" : "NSE",
+"l" : "347.90",
+"c" : "+1.05",
+"mc" : "63.21B",
+"cp" : "0.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "674866",
+"name" : "Nirma Limited",
+"t" : "600308",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4763666",
+"name" : "Amar Remedies Ltd",
+"t" : "AMAR",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-9.50",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12883614",
+"name" : "Colgate-Palmolive (India) Limited",
+"t" : "COLPAL",
+"e" : "NSE",
+"l" : "1,060.50",
+"c" : "+10.70",
+"mc" : "288.39B",
+"cp" : "1.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10831975",
+"name" : "JHS Svendgaard Laboratories Limited",
+"t" : "JHS",
+"e" : "NSE",
+"l" : "67.45",
+"c" : "-0.40",
+"mc" : "3.00B",
+"cp" : "-0.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5355859",
+"name" : "Jocil Ltd",
+"t" : "JOCIL",
+"e" : "NSE",
+"l" : "182.00",
+"c" : "+8.00",
+"mc" : "1.61B",
+"cp" : "4.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8603705",
+"name" : "Pee Cee Cosma Sope Ltd",
+"t" : "524136",
+"e" : "BOM",
+"l" : "174.25",
+"c" : "-9.00",
+"mc" : "461.74M",
+"cp" : "-4.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "267163",
+"name" : "Hindustan Unilever Ltd",
+"t" : "HINDUNILVR",
+"e" : "NSE",
+"l" : "1,332.85",
+"c" : "+9.70",
+"mc" : "2.89T",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14928615",
+"name" : "Farmax India Limited",
+"t" : "FARMAXIND",
+"e" : "NSE",
+"l" : "0.05",
+"c" : "0.00",
+"mc" : "26.71M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "829919",
+"name" : "Dabur India Ltd",
+"t" : "DABUR",
+"e" : "NSE",
+"l" : "331.75",
+"c" : "+1.15",
+"mc" : "580.17B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Pirojshanagar Eastern Express Highway, Vikhroli, MUMBAI, 400079, India",
+"phone": "+91-22-25188010",
+"fax": "+91-22-25188040",
+"url": "http:\u002F\u002Fwww.godrejcp.com\u002F",
+"overview" : "Godrej Consumer Products Limited is an India-based company, which is engaged in the manufacture of personal and household care products. The Company\u0027s geographic segments include Within India and Outside India. It offers hair care products. The Company\u0027s Personal Care range of brands includes Cinthol, Grade 1 soap, protekt, Soft \u0026 Gentle, Cuticura, Mitu and Pamela Grant. Its home care range of brands includes Good knight, HIT, aer, Ezee and Stella. Its hair care range of brands includes Ilicit, Touch of Silver, Roby and Renew. The Company focuses on regions, including India, Asia, Africa, Latin America and Europe. The Company offers a range of products in India, which include household insecticides, such as aerosols, liquid vaporizers, coils and mats\u003B hair colors\u003B soaps and air fresheners. Its protekt range of products consist of approximately three hand washes, a hand sanitizer and a personal mosquito repellent spray, including instant foam hand wash and alcohol-free sanitizer."
+} ]
+, "management" : [
+{
+"name" : "Nisaba Adi Godrej",
+"age" : "39",
+"title" : "Executive Chairperson"
+}
+,
+{
+"name" : "Vivek Gambhir",
+"age" : "48",
+"title" : "Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "V. Srinivasan",
+"title" : "Chief Financial Officer, Company Secretary"
+}
+,
+{
+"name" : "Adi Burjorji Godrej",
+"age" : "75",
+"title" : "Chairman Emeritus, whole time Director"
+}
+,
+{
+"name" : "Bharat Narotam Doshi",
+"age" : "68",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Tanya Arvind Dubash",
+"age" : "49",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Jamshyd N. Godrej",
+"age" : "68",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Nadir Burjorji Godrej",
+"age" : "66",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Pirojsha A. Godrej",
+"age" : "33",
+"title" : "Additional Non-Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

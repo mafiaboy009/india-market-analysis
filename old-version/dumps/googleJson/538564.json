@@ -1,0 +1,280 @@
+
+ [
+{
+"symbol" : "538564",
+"exchange" : "BOM",
+"id": "222066081939591",
+"t" : "538564",
+"e" : "BOM",
+"name" : "James Warren Tea Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=JWTL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:538564"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:538564"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:538564"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.68%",
+"annual" : "5.01%",
+"ttm" : "-0.32%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.45%",
+"annual" : "2.27%",
+"ttm" : "-0.69%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.62%",
+"ttm" : "1.60%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.40%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.44%",
+"ttm" : ""
+}
+]
+, "c" : "-0.05",
+"l" : "131.00",
+"cp" : "-0.04",
+"ccol" : "chr",
+"op" : "131.00",
+"hi" : "131.00",
+"lo" : "131.00",
+"vo" : "1,254.00",
+"avvo" : "",
+"hi52" : "160.00",
+"lo52" : "110.00",
+"mc" : "1.57B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.32",
+"dy" : "",
+"ldiv" : "",
+"shares" : "12.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "222066081939591",
+"name" : "James Warren Tea Ltd",
+"t" : "538564",
+"e" : "BOM",
+"l" : "131.00",
+"c" : "-0.05",
+"mc" : "1.57B",
+"cp" : "-0.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13338703",
+"name" : "Terai Tea Co Ltd",
+"t" : "530533",
+"e" : "BOM",
+"l" : "50.00",
+"c" : "+2.25",
+"mc" : "343.97M",
+"cp" : "4.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "866928210898429",
+"name" : "Dhunseri Tea \u0026 Industries Ltd",
+"t" : "DTIL",
+"e" : "NSE",
+"l" : "330.15",
+"c" : "+0.05",
+"mc" : "2.31B",
+"cp" : "0.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9957022",
+"name" : "Diana Tea Company Ltd",
+"t" : "530959",
+"e" : "BOM",
+"l" : "23.65",
+"c" : "+0.15",
+"mc" : "350.81M",
+"cp" : "0.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "736634646201397",
+"name" : "Rossell India Ltd",
+"t" : "ROSSELLIND",
+"e" : "NSE",
+"l" : "105.60",
+"c" : "-2.35",
+"mc" : "3.86B",
+"cp" : "-2.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11534046",
+"name" : "Harrisons Malayalam Limited",
+"t" : "HARRMALAYA",
+"e" : "NSE",
+"l" : "84.85",
+"c" : "+1.70",
+"mc" : "1.56B",
+"cp" : "2.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715417",
+"name" : "Andrew Yule \u0026 Co. Ltd.",
+"t" : "526173",
+"e" : "BOM",
+"l" : "31.10",
+"c" : "-0.20",
+"mc" : "15.16B",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13554199",
+"name" : "Assam Company India Limited",
+"t" : "ASSAMCO",
+"e" : "NSE",
+"l" : "4.75",
+"c" : "-0.05",
+"mc" : "1.46B",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13996576",
+"name" : "Duncans Industries Ltd",
+"t" : "DUNCANSLTD",
+"e" : "NSE",
+"l" : "11.20",
+"c" : "",
+"mc" : "708.84M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3759185",
+"name" : "Advanta Ltd",
+"t" : "ADVANTA",
+"e" : "NSE",
+"l" : "645.20",
+"c" : "",
+"mc" : "80.42B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14204284",
+"name" : "Sakuma Exports Limited",
+"t" : "SAKUMA",
+"e" : "NSE",
+"l" : "202.00",
+"c" : "+4.05",
+"mc" : "4.33B",
+"cp" : "2.05",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Aspirations Vintage, 12, Pretoria Street, KOLKATA, 700071, India",
+"phone": "+91-33-40341000",
+"fax": "+91-33-40341015",
+"overview" : "James Warren Tea Limited is an India-based company, which is engaged in the production of tea. The Company is primarily engaged in the cultivation, manufacturing and selling of tea. The Company manufactures and markets its tea in seven tea estates, including Dhoedaam Tea Estate, Deamoolie Tea Estate, Balijan (H) Tea Estate, Rajah Alli Tea Estate, Thowra Tea Estate, Tippuk Tea Estate and Zaloni Tea Estate. The Company exports its tea to various countries in the world,including Germany, the United Kingdom, the United Arab Emirates and the United States. The Company\u0027s tea estates produces a range of teas, such as CTC and orthodox. The Company’s estates are located in the belt of the South Bank in Upper Assam."
+} ]
+, "management" : [
+{
+"name" : "Vikram Saraogi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Gyanendra Singh",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sudeep Kumar",
+"title" : "Whole time Director"
+}
+,
+{
+"name" : "Akhil Kumar Ruia",
+"age" : "34",
+"title" : "Wholetime and Non Independent Director"
+}
+,
+{
+"name" : "Anil Kumar Ruia",
+"age" : "59",
+"title" : "Non Executive and Non Independent Director – Chairman of the Board"
+}
+,
+{
+"name" : "Arup Kumar Chowdhuri",
+"age" : "63",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sucharita Basu De",
+"age" : "39",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Abhiram Kastur Sheth",
+"age" : "35",
+"title" : "Non-Executive and Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

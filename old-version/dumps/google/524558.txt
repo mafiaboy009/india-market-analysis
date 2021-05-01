@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "524558",
+"exchange" : "BOM",
+"id": "12946736",
+"t" : "524558",
+"e" : "BOM",
+"name" : "Neuland Laboratories Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524558"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524558"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524558"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002709)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.57%",
+"annual" : "5.73%",
+"ttm" : "3.89%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.02%",
+"annual" : "12.38%",
+"ttm" : "6.01%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.63%",
+"ttm" : "8.33%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.92%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.15%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "906",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.20",
+"l" : "705.50",
+"cp" : "-0.17",
+"ccol" : "chr",
+"op" : "698.00",
+"hi" : "711.25",
+"lo" : "698.00",
+"vo" : "1,911.00",
+"avvo" : "",
+"hi52" : "1,680.00",
+"lo52" : "685.00",
+"mc" : "6.26B",
+"pe" : "38.82",
+"fwpe" : "",
+"beta" : "",
+"eps" : "18.17",
+"dy" : "0.28",
+"ldiv" : "2.00",
+"shares" : "8.88M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12946736",
+"name" : "Neuland Laboratories Ltd.",
+"t" : "524558",
+"e" : "BOM",
+"l" : "705.50",
+"c" : "-1.20",
+"mc" : "6.26B",
+"cp" : "-0.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3033292",
+"name" : "Hiran Orgochem Ltd",
+"t" : "506170",
+"e" : "BOM",
+"l" : "0.48",
+"c" : "0.00",
+"mc" : "46.10M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16770484",
+"name" : "Suven Life Sciences Ltd.",
+"t" : "SUVEN",
+"e" : "NSE",
+"l" : "191.70",
+"c" : "+1.75",
+"mc" : "24.42B",
+"cp" : "0.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2456500",
+"name" : "Wanbury Limited",
+"t" : "WANBURY",
+"e" : "NSE",
+"l" : "40.00",
+"c" : "+1.00",
+"mc" : "928.80M",
+"cp" : "2.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6286747",
+"name" : "Anuh Pharma Ltd",
+"t" : "506260",
+"e" : "BOM",
+"l" : "169.00",
+"c" : "-0.05",
+"mc" : "4.19B",
+"cp" : "-0.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6346721",
+"name" : "Glenmark Pharmaceuticals Ltd",
+"t" : "GLENMARK",
+"e" : "NSE",
+"l" : "537.00",
+"c" : "+2.70",
+"mc" : "151.37B",
+"cp" : "0.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "986830",
+"name" : "Parabolic Drugs Limited",
+"t" : "PARABDRUGS",
+"e" : "NSE",
+"l" : "8.65",
+"c" : "-0.05",
+"mc" : "535.37M",
+"cp" : "-0.57",
+"ccol" : "chr"
+}
+,
+{
+"id" : "289536",
+"name" : "Panchsheel Organics Ltd",
+"t" : "531726",
+"e" : "BOM",
+"l" : "89.80",
+"c" : "0.00",
+"mc" : "450.38M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16302121",
+"name" : "Fresenius Kabi Oncology Ltd",
+"t" : "FKONCO",
+"e" : "NSE",
+"l" : "132.45",
+"c" : "-0.05",
+"mc" : "20.96B",
+"cp" : "-0.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "478315",
+"name" : "Wintac Ltd",
+"t" : "524758",
+"e" : "BOM",
+"l" : "236.50",
+"c" : "-3.50",
+"mc" : "2.37B",
+"cp" : "-1.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6462769",
+"name" : "Torrent Pharmaceuticals Ltd",
+"t" : "TORNTPHARM",
+"e" : "NSE",
+"l" : "1,357.35",
+"c" : "+20.80",
+"mc" : "227.74B",
+"cp" : "1.56",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "\u0027A\u0027 Block, Ground Floor, 8-2-120\u002F113 Rd No 2, Banjara Hills, Sanali Info Park, HYDERABAD, 500034, India",
+"phone": "+91-40-30211600",
+"fax": "+91-40-30211602",
+"url": "http:\u002F\u002Fwww.neulandlabs.com\u002F",
+"overview" : "Neuland Laboratories Limited is engaged in manufacturing active pharmaceutical ingredient (API). The Company also provides Custom Manufacturing Solutions (CMS) to develop and manufacture pharmaceutical ingredients and intermediates. Its geographical segments include Europe, India, USA and Rest of the world. The Company\u0027s API products include Alcaftadine, Aripiprazole, Bosentan Monohydrate, Dabigatran Etexilate Mesylate, Deferasirox, Enalapril Maleate, Escitalopram Oxalate, Labetalol Hydrochloride, Posaconazole, Propofol, Ropinirole Hydrochloride, Ticagrelor, Levofloxacin Hemihydrate and Ciprofloxacin Base. It caters to therapeutic categories, including ophthalmic, schizophrenia, vasodilator, fluoroquinolones, ironchelator, chronic obstructive pulmonary disease and cardiovascular. The Company also offers peptide synthesis services, including manufacture of complex amino acids, and manufacture of peptide APIs, new chemical entities (NCEs) and impurities."
+} ]
+, "management" : [
+{
+"name" : "Davuluri Rama Mohan Rao",
+"age" : "68",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Davuluri Sucheth Rao",
+"age" : "37",
+"title" : "Chief Executive Officer, Whole-time Vice Chairman of the Board"
+}
+,
+{
+"name" : "Amit Agarwal",
+"age" : "47",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sarada Bhamidipati",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Davuluri Saharsh Rao",
+"age" : "33",
+"title" : "Joint Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Nirmala Murthy",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Bharati Rao",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Christopher M. Cimarusti",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Humayun Dhanrajgir",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Parampally Vasudeva Maiya",
+"age" : "77",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

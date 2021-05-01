@@ -1,0 +1,374 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 3109129472,
+            "fmt": "3.11B",
+            "longFmt": "3,109,129,472"
+          },
+          "forwardPE": {
+            "raw": 18.688108,
+            "fmt": "18.69"
+          },
+          "profitMargins": {
+            "raw": 0.06244,
+            "fmt": "6.24%"
+          },
+          "floatShares": {
+            "raw": 1263136,
+            "fmt": "1.26M",
+            "longFmt": "1,263,136"
+          },
+          "sharesOutstanding": {
+            "raw": 5188980,
+            "fmt": "5.19M",
+            "longFmt": "5,188,980"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.385049,
+            "fmt": "-0.39"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 223.263,
+            "fmt": "223.26"
+          },
+          "priceToBook": {
+            "raw": 2.4851856,
+            "fmt": "2.49"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 1.135,
+            "fmt": "113.50%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 117213968,
+            "fmt": "117.21M",
+            "longFmt": "117,213,968"
+          },
+          "trailingEps": {
+            "raw": 22.59,
+            "fmt": "22.59"
+          },
+          "forwardEps": {
+            "raw": 29.69,
+            "fmt": "29.69"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "3/2",
+          "lastSplitDate": {
+            "raw": 1348704000,
+            "fmt": "2012-09-27"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.656,
+            "fmt": "1.66"
+          },
+          "enterpriseToEbitda": {
+            "raw": 12.095,
+            "fmt": "12.10"
+          },
+          "52WeekChange": {
+            "raw": 0.12892234,
+            "fmt": "12.89%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 7.8,
+                  "fmt": "7.80"
+                },
+                "estimate": {
+                  "raw": 7.31,
+                  "fmt": "7.31"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 1064606697,
+                  "fmt": "1.06B",
+                  "longFmt": "1,064,606,697"
+                },
+                "earnings": {
+                  "raw": 77226842,
+                  "fmt": "77.23M",
+                  "longFmt": "77,226,842"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1271039760,
+                  "fmt": "1.27B",
+                  "longFmt": "1,271,039,760"
+                },
+                "earnings": {
+                  "raw": 87310074,
+                  "fmt": "87.31M",
+                  "longFmt": "87,310,074"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 1738251584,
+                  "fmt": "1.74B",
+                  "longFmt": "1,738,251,584"
+                },
+                "earnings": {
+                  "raw": 109116299,
+                  "fmt": "109.12M",
+                  "longFmt": "109,116,299"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 1813096409,
+                  "fmt": "1.81B",
+                  "longFmt": "1,813,096,409"
+                },
+                "earnings": {
+                  "raw": 93511969,
+                  "fmt": "93.51M",
+                  "longFmt": "93,511,969"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 401255409,
+                  "fmt": "401.26M",
+                  "longFmt": "401,255,409"
+                },
+                "earnings": {
+                  "raw": 19923969,
+                  "fmt": "19.92M",
+                  "longFmt": "19,923,969"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 467300000,
+                  "fmt": "467.3M",
+                  "longFmt": "467,300,000"
+                },
+                "earnings": {
+                  "raw": 36850000,
+                  "fmt": "36.85M",
+                  "longFmt": "36,850,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 525107000,
+                  "fmt": "525.11M",
+                  "longFmt": "525,107,000"
+                },
+                "earnings": {
+                  "raw": 40475000,
+                  "fmt": "40.48M",
+                  "longFmt": "40,475,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 482440000,
+                  "fmt": "482.44M",
+                  "longFmt": "482,440,000"
+                },
+                "earnings": {
+                  "raw": 17990000,
+                  "fmt": "17.99M",
+                  "longFmt": "17,990,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Survey No. 312",
+          "address2": "Bhavnagar - Rajkot Highway Navagam Vartej",
+          "city": "Bhavnagar",
+          "zip": "364060",
+          "country": "India",
+          "phone": "91 27 8254 0218",
+          "fax": "91 27 8254 0558",
+          "website": "http://www.acrysil.com",
+          "industry": "Home Furnishings & Fixtures",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Acrysil Limited, together with its subsidiaries, designs, manufactures, and sells kitchen sinks and appliances, bathroom products, and other products in India. The company offers granite sinks, stainless steel sinks, and wash basins; appliances, including faucets, hoods and chimneys, hobs and cook tops, ovens and microwave ovens, cooking ranges, ice makers, food waste disposers, dish washers, and wine chillers; 3D quartz wall tiles; and bathroom interiors under the Carysil and Sternhagen brands. It also imports and markets kitchen sinks; and deals in faucets and allied products. The company also exports its products. Acrysil Limited was incorporated in 1987 and is headquartered in Bhavnagar, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 554.85,
+            "fmt": "554.85"
+          },
+          "targetHighPrice": {
+            "raw": 800.0,
+            "fmt": "800.00"
+          },
+          "targetLowPrice": {
+            "raw": 800.0,
+            "fmt": "800.00"
+          },
+          "targetMeanPrice": {
+            "raw": 800.0,
+            "fmt": "800.00"
+          },
+          "targetMedianPrice": {
+            "raw": 800.0,
+            "fmt": "800.00"
+          },
+          "recommendationMean": {
+            "raw": 1.5,
+            "fmt": "1.50"
+          },
+          "recommendationKey": "strong_buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 337812000,
+            "fmt": "337.81M",
+            "longFmt": "337,812,000"
+          },
+          "totalCashPerShare": {
+            "raw": 65.159,
+            "fmt": "65.16"
+          },
+          "ebitda": {
+            "raw": 257051504,
+            "fmt": "257.05M",
+            "longFmt": "257,051,504"
+          },
+          "totalDebt": {
+            "raw": 781622016,
+            "fmt": "781.62M",
+            "longFmt": "781,622,016"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1877342464,
+            "fmt": "1.88B",
+            "longFmt": "1,877,342,464"
+          },
+          "debtToEquity": {
+            "raw": 66.268,
+            "fmt": "66.27"
+          },
+          "revenuePerShare": {
+            "raw": 361.803,
+            "fmt": "361.80"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1097354131,
+            "fmt": "1.1B",
+            "longFmt": "1,097,354,131"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 1.142,
+            "fmt": "114.20%"
+          },
+          "revenueGrowth": {
+            "raw": 0.172,
+            "fmt": "17.20%"
+          },
+          "grossMargins": {
+            "raw": 0.58275,
+            "fmt": "58.28%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.13692,
+            "fmt": "13.69%"
+          },
+          "operatingMargins": {
+            "raw": 0.10657,
+            "fmt": "10.66%"
+          },
+          "profitMargins": {
+            "raw": 0.06244,
+            "fmt": "6.24%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

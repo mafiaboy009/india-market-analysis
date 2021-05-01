@@ -1,0 +1,300 @@
+
+ [
+{
+"symbol" : "524000",
+"exchange" : "BOM",
+"id": "715346",
+"t" : "524000",
+"e" : "BOM",
+"name" : "Magma Fincorp Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:524000"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:524000"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:524000"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "11.20%",
+"annual" : "0.54%",
+"ttm" : "1.67%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.22%",
+"annual" : "0.76%",
+"ttm" : "1.23%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.85%",
+"ttm" : "3.42%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.09%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.94%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,195",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+5.45",
+"l" : "166.95",
+"cp" : "3.37",
+"ccol" : "chg",
+"op" : "164.00",
+"hi" : "166.95",
+"lo" : "162.25",
+"vo" : "5,950.00",
+"avvo" : "",
+"hi52" : "191.40",
+"lo52" : "94.50",
+"mc" : "39.55B",
+"pe" : "88.59",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.88",
+"dy" : "0.48",
+"ldiv" : "0.80",
+"shares" : "237.03M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715346",
+"name" : "Magma Fincorp Ltd",
+"t" : "524000",
+"e" : "BOM",
+"l" : "166.95",
+"c" : "+5.45",
+"mc" : "39.55B",
+"cp" : "3.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7686660",
+"name" : "Shalibhadra Finance Ltd",
+"t" : "511754",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "-5.35",
+"mc" : "652.09M",
+"cp" : "-3.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7977316",
+"name" : "L\u0026T Finance Holdings Ltd",
+"t" : "L\u0026TFH",
+"e" : "NSE",
+"l" : "168.00",
+"c" : "+5.80",
+"mc" : "305.14B",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6950297",
+"name" : "Sundaram Finance Limited",
+"t" : "SUNDARMFIN",
+"e" : "NSE",
+"l" : "1,725.00",
+"c" : "+30.00",
+"mc" : "191.65B",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8460861",
+"name" : "Capri Global Capital Ltd",
+"t" : "CGCL",
+"e" : "NSE",
+"l" : "101.50",
+"c" : "+1.65",
+"mc" : "17.80B",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "399986380824131",
+"name" : "SRS Finance Ltd",
+"t" : "536799",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "-0.04",
+"mc" : "93.22M",
+"cp" : "-4.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2732015",
+"name" : "Capital First Ltd",
+"t" : "CAPF",
+"e" : "NSE",
+"l" : "674.00",
+"c" : "+1.45",
+"mc" : "66.57B",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11784956",
+"name" : "Mahindra \u0026 Mahindra Fin. Services Ltd.",
+"t" : "M\u0026MFIN",
+"e" : "NSE",
+"l" : "445.75",
+"c" : "+4.40",
+"mc" : "274.84B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "314357446187987",
+"name" : "CRP Risk Management Ltd",
+"t" : "540903",
+"e" : "BOM",
+"l" : "60.00",
+"c" : "+3.50",
+"mc" : "1.05B",
+"cp" : "6.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15373457",
+"name" : "IIFL Holdings Ltd",
+"t" : "IIFL",
+"e" : "NSE",
+"l" : "731.00",
+"c" : "-4.75",
+"mc" : "230.86B",
+"cp" : "-0.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11124528",
+"name" : "SREI Infrastructure Finance Limited",
+"t" : "SREINFRA",
+"e" : "NSE",
+"l" : "83.25",
+"c" : "+1.55",
+"mc" : "41.73B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "24 Magma House, Park Street, KOLKATA, 700016, India",
+"phone": "+91-33-44027714",
+"fax": "+91-33-44027731",
+"url": "https:\u002F\u002Fmagma.co.in\u002F",
+"overview" : "Magma Fincorp Limited is a non-banking finance company. The Company is primarily engaged in the business of asset financing. Its principal activities include Financing for Tractors, Commercial Vehicle (CV), Construction Equipment (CE), Cars and Used Vehicles, and mortgage and loans to micro, small and medium enterprises (MSME). Its segments include Finance and mortgages, which includes asset finance and housing finance\u003B General insurance, which includes general insurance business, and Others, which includes windmill and other allied activities. The Company, through Magma HDI General Insurance Company Limited, a joint venture between the Company and HDI Global SE, offers motor insurance, liability insurance, fire insurance, engineering insurance, marine insurance, and burglary and risk insurance. It provides loans for a range of used commercial vehicles from small commercial vehicles to tractor trailers. It offers home loans for residential, commercial and plot collateral security."
+} ]
+, "management" : [
+{
+"name" : "Mayank Poddar",
+"age" : "61",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sanjay Chamria",
+"age" : "51",
+"title" : "Executive Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Kailash Baheti",
+"age" : "52",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ashutosh Shukla",
+"age" : "52",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Ram Kalyan Kumar Medury",
+"age" : "40",
+"title" : "Chief Information Officer"
+}
+,
+{
+"name" : "Sandeep Walunj",
+"title" : "Chief Marketing Officer"
+}
+,
+{
+"name" : "Shabnum Zaman",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Pranab Goel",
+"age" : "42",
+"title" : "Vice President - Treasury"
+}
+,
+{
+"name" : "Ashok Shukla",
+"age" : "49",
+"title" : "Vice President - Credit"
+}
+,
+{
+"name" : "Shiladitya Sinha",
+"age" : "51",
+"title" : "Vice President - Legal"
+}
+]
+,"moreresources" : [
+]
+}]

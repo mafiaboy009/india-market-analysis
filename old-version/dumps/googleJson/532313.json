@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "532313",
+"exchange" : "BOM",
+"id": "703812",
+"t" : "532313",
+"e" : "BOM",
+"name" : "Mahindra Lifespace Developers Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532313"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532313"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532313"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "16.12%",
+"annual" : "13.89%",
+"ttm" : "10.27%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.72%",
+"annual" : "6.00%",
+"ttm" : "4.92%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.60%",
+"ttm" : "5.53%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.57%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.14%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "349",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+5.65",
+"l" : "459.20",
+"cp" : "1.25",
+"ccol" : "chg",
+"op" : "460.10",
+"hi" : "460.10",
+"lo" : "450.05",
+"vo" : "1,460.00",
+"avvo" : "",
+"hi52" : "563.00",
+"lo52" : "342.05",
+"mc" : "23.69B",
+"pe" : "31.54",
+"fwpe" : "",
+"beta" : "",
+"eps" : "14.56",
+"dy" : "1.31",
+"ldiv" : "6.00",
+"shares" : "51.32M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703812",
+"name" : "Mahindra Lifespace Developers Ltd.",
+"t" : "532313",
+"e" : "BOM",
+"l" : "459.20",
+"c" : "+5.65",
+"mc" : "23.69B",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6565540",
+"name" : "Mahindra \u0026 Mahindra Limited",
+"t" : "M\u0026M",
+"e" : "NSE",
+"l" : "735.40",
+"c" : "+16.75",
+"mc" : "912.66B",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15672667",
+"name" : "Sunteck Realty Ltd",
+"t" : "SUNTECK",
+"e" : "NSE",
+"l" : "413.50",
+"c" : "+14.40",
+"mc" : "60.49B",
+"cp" : "3.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715281",
+"name" : "Lancor Holdings Ltd",
+"t" : "509048",
+"e" : "BOM",
+"l" : "30.70",
+"c" : "+0.95",
+"mc" : "1.25B",
+"cp" : "3.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6559289",
+"name" : "Newtime Infrastructure Ltd",
+"t" : "531959",
+"e" : "BOM",
+"l" : "22.15",
+"c" : "0.00",
+"mc" : "3.61B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5820065",
+"name" : "Unitech Limited",
+"t" : "UNITECH",
+"e" : "NSE",
+"l" : "7.40",
+"c" : "+0.25",
+"mc" : "19.36B",
+"cp" : "3.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9400569",
+"name" : "Prerna Infrabuild Ltd",
+"t" : "531802",
+"e" : "BOM",
+"l" : "19.40",
+"c" : "+0.70",
+"mc" : "229.94M",
+"cp" : "3.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15183829",
+"name" : "Omaxe Ltd",
+"t" : "OMAXE",
+"e" : "NSE",
+"l" : "225.60",
+"c" : "+0.35",
+"mc" : "41.26B",
+"cp" : "0.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2944265",
+"name" : "Rajeswari Infrastructure Ltd",
+"t" : "526823",
+"e" : "BOM",
+"l" : "7.26",
+"c" : "-0.38",
+"mc" : "40.15M",
+"cp" : "-4.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14341079",
+"name" : "Radhe Developers (India) Ltd",
+"t" : "531273",
+"e" : "BOM",
+"l" : "19.80",
+"c" : "-1.55",
+"mc" : "498.56M",
+"cp" : "-7.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2803726",
+"name" : "Tirupati Sarjan Ltd",
+"t" : "531814",
+"e" : "BOM",
+"l" : "20.50",
+"c" : "+1.10",
+"mc" : "664.47M",
+"cp" : "5.67",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "5Th Floor Mahindra Towers, P K Kurne Chowk Worli, MUMBAI, 400018, India",
+"phone": "+91-22-67478600",
+"fax": "+91-22-24975084",
+"url": "http:\u002F\u002Fwww.mahindralifespaces.com",
+"overview" : "Mahindra Lifespace Developers Limited is a real estate development company. The Company, along with its subsidiary companies, is engaged in the development of residential projects and large format developments, such as integrated cities and industrial clusters. The Company is engaged in construction of buildings. Its segments include Projects, Project Management and Development activities, and Operating of commercial complexes. It serves both consumer households and businesses. Its projects in Chennai include Aqualily, Iris Court and Nova. Its projects in Mumbai include Vivante, The Serenes and Happinest. The Company\u0027s projects in Pune include L\u0027Artista and Antheia. The Company\u0027s projects in Gurgaon include Aura and Luminare. The Company\u0027s projects in Hyderabad include Ashvita. Its projects in Bangalore include Windchimes. Its projects in Nagpur include Bloomdale. The Company\u0027s subsidiaries include Mahindra Infrastructure Developers Limited and Mahindra World City Developers Limited."
+} ]
+, "management" : [
+{
+"name" : "Anita Arjundas",
+"title" : "Chief Executive Officer, Managing Director, Executive Director\u003B CEO, Real Estate Sector"
+}
+,
+{
+"name" : "Jayantt Manmadkar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sangeeta Prasad",
+"title" : "CEO - Integrated cities and Industrial clusters Business \u0026 Business Head - South"
+}
+,
+{
+"name" : "Suhas Kulkarni",
+"title" : "Sr. Vice President - Legal \u0026 Company Secretary"
+}
+,
+{
+"name" : "Lokesh Kumar Gupta",
+"title" : "Vice President – Operations, North"
+}
+,
+{
+"name" : "Smeeta Neogi",
+"title" : "Vice President - Marketing"
+}
+,
+{
+"name" : "Siddharth Bafna",
+"title" : "General Manager - Strategy"
+}
+,
+{
+"name" : "S. Chandru",
+"title" : "COO, Mahindra World City, Chennai"
+}
+,
+{
+"name" : "Lancelot Cutinha",
+"title" : "Head - Human Resources"
+}
+,
+{
+"name" : "Rajendra Joshi",
+"title" : "Business Head, West"
+}
+]
+,"moreresources" : [
+]
+}]

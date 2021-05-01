@@ -1,0 +1,325 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 386098208,
+            "fmt": "386.1M",
+            "longFmt": "386,098,208"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "floatShares": {
+            "raw": 11157345,
+            "fmt": "11.16M",
+            "longFmt": "11,157,345"
+          },
+          "sharesOutstanding": {
+            "raw": 18906700,
+            "fmt": "18.91M",
+            "longFmt": "18,906,700"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.430046,
+            "fmt": "1.43"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 16.264,
+            "fmt": "16.26"
+          },
+          "priceToBook": {
+            "raw": 0.2723807,
+            "fmt": "0.27"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -129982000,
+            "fmt": "-129.98M",
+            "longFmt": "-129,982,000"
+          },
+          "trailingEps": {
+            "raw": -6.881,
+            "fmt": "-6.88"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {},
+          "enterpriseToEbitda": {
+            "raw": -10.274,
+            "fmt": "-10.27"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 1197363423,
+                  "fmt": "1.2B",
+                  "longFmt": "1,197,363,423"
+                },
+                "earnings": {
+                  "raw": 103667239,
+                  "fmt": "103.67M",
+                  "longFmt": "103,667,239"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1391247425,
+                  "fmt": "1.39B",
+                  "longFmt": "1,391,247,425"
+                },
+                "earnings": {
+                  "raw": 11471328,
+                  "fmt": "11.47M",
+                  "longFmt": "11,471,328"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 96721258,
+                  "fmt": "96.72M",
+                  "longFmt": "96,721,258"
+                },
+                "earnings": {
+                  "raw": -517732966,
+                  "fmt": "-517.73M",
+                  "longFmt": "-517,732,966"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 0,
+                  "fmt": null,
+                  "longFmt": "0"
+                },
+                "earnings": {
+                  "raw": -145766000,
+                  "fmt": "-145.77M",
+                  "longFmt": "-145,766,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 0,
+                  "fmt": null,
+                  "longFmt": "0"
+                },
+                "earnings": {
+                  "raw": -45919000,
+                  "fmt": "-45.92M",
+                  "longFmt": "-45,919,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 0,
+                  "fmt": null,
+                  "longFmt": "0"
+                },
+                "earnings": {
+                  "raw": -29141000,
+                  "fmt": "-29.14M",
+                  "longFmt": "-29,141,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 0,
+                  "fmt": null,
+                  "longFmt": "0"
+                },
+                "earnings": {
+                  "raw": -27616000,
+                  "fmt": "-27.62M",
+                  "longFmt": "-27,616,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 0,
+                  "fmt": null,
+                  "longFmt": "0"
+                },
+                "earnings": {
+                  "raw": -27306000,
+                  "fmt": "-27.31M",
+                  "longFmt": "-27,306,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Alexandria Knowledge Park",
+          "address2": "Plot No-7, Phase ? II Kolthur Village Shamirpet Mandal",
+          "city": "Ranga Reddy",
+          "zip": "500078",
+          "country": "India",
+          "phone": "91 40 2777 8999",
+          "fax": "91 40 2777 8777",
+          "website": "http://www.pochiraju.co.in",
+          "industry": "Farm Products",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Pochiraju Industries Limited engages in the agricultural, pharmaceutical, and bio-technology and life sciences businesses in India and internationally. The company is involved in cultivating, processing, and exporting cut flower roses; and offers various other roses and flowers, such as coronations, chrisanthamums, tuberoses, zeberas, etc. to wholesalers, importers, and retail outlets. It also offers a range of pharmaceutical formulations in branded and generic product forms for various therapeutic areas, including the cardio-vascular, neuro, diabetes management, respiratory, anti-infective, gastro-intestinal, dermatology, NSAIDS, antibacterial, and antibiotics; and nutritional life style management products consisting of vitamins, minerals, anti-obesity drugs, and probiotics. In addition, the company develops, manufactures, and markets injectables; bio-parenterals, including oncology products; and bio-similar products, such as erythropoietin, G-CSF, interferon alpha, interferon beta, human growth hormone, and recombinant human insulin. Further, it manufactures biological products, therapeutic proteins, and monoclonal antibodies, as well as provides contract manufacturing services, such as bio-processing/purification of active materials, scale up, formulation development, validation, packing design, QC/QA testing, and regulatory affairs. Pochiraju Industries Limited was founded in 1995 and is based in Ranga Reddy, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 4.43,
+            "fmt": "4.43"
+          },
+          "targetHighPrice": {
+            "raw": 83.0,
+            "fmt": "83.00"
+          },
+          "targetLowPrice": {
+            "raw": 83.0,
+            "fmt": "83.00"
+          },
+          "targetMeanPrice": {
+            "raw": 83.0,
+            "fmt": "83.00"
+          },
+          "targetMedianPrice": {
+            "raw": 83.0,
+            "fmt": "83.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 12540,
+            "fmt": "12.54k",
+            "longFmt": "12,540"
+          },
+          "totalCashPerShare": {
+            "raw": 0.001,
+            "fmt": "0"
+          },
+          "ebitda": {
+            "raw": -37579440,
+            "fmt": "-37.58M",
+            "longFmt": "-37,579,440"
+          },
+          "totalDebt": {
+            "raw": 295469984,
+            "fmt": "295.47M",
+            "longFmt": "295,469,984"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {},
+          "debtToEquity": {
+            "raw": 96.046,
+            "fmt": "96.05"
+          },
+          "revenuePerShare": {},
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {},
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

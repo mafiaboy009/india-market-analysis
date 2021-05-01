@@ -1,0 +1,301 @@
+
+ [
+{
+"symbol" : "538635",
+"exchange" : "BOM",
+"id": "1094949189395207",
+"t" : "538635",
+"e" : "BOM",
+"name" : "Snowman Logistics Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:538635"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:538635"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:538635"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.54%",
+"annual" : "-2.60%",
+"ttm" : "-0.98%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.20%",
+"annual" : "-2.55%",
+"ttm" : "-1.63%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.24%",
+"ttm" : "20.46%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.81%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-1.14%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "362",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.05",
+"l" : "52.10",
+"cp" : "0.10",
+"ccol" : "chg",
+"op" : "52.30",
+"hi" : "52.80",
+"lo" : "52.10",
+"vo" : "111,651.00",
+"avvo" : "",
+"hi52" : "71.00",
+"lo52" : "46.00",
+"mc" : "8.72B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.11",
+"dy" : "",
+"ldiv" : "",
+"shares" : "167.09M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1094949189395207",
+"name" : "Snowman Logistics Ltd",
+"t" : "538635",
+"e" : "BOM",
+"l" : "52.10",
+"c" : "+0.05",
+"mc" : "8.72B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5045847",
+"name" : "Gateway Distriparks Ltd.",
+"t" : "GDL",
+"e" : "NSE",
+"l" : "205.00",
+"c" : "+3.75",
+"mc" : "22.32B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "253239287644492",
+"name" : "Prime Customer Services Ltd",
+"t" : "540404",
+"e" : "BOM",
+"l" : "186.00",
+"c" : "+1.05",
+"mc" : "646.03M",
+"cp" : "0.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5560090",
+"name" : "Suchak Trading Ltd",
+"t" : "512075",
+"e" : "BOM",
+"l" : "104.50",
+"c" : "0.00",
+"mc" : "1.18B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9241636",
+"name" : "Shreyas Shipping \u0026 Logistics Ltd",
+"t" : "SHREYAS",
+"e" : "NSE",
+"l" : "560.05",
+"c" : "-1.70",
+"mc" : "12.25B",
+"cp" : "-0.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11312739",
+"name" : "Transport Corporation of India Limited",
+"t" : "TCI",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "-0.90",
+"mc" : "21.50B",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5263425",
+"name" : "Allcargo Logistics Ltd",
+"t" : "ALLCARGO",
+"e" : "NSE",
+"l" : "177.50",
+"c" : "-0.15",
+"mc" : "43.45B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7864646",
+"name" : "Blue Dart Express Limited",
+"t" : "BLUEDART",
+"e" : "NSE",
+"l" : "4,264.00",
+"c" : "+70.90",
+"mc" : "100.50B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "606917445571934",
+"name" : "North Eastern Carrying Corporation Ltd",
+"t" : "534615",
+"e" : "BOM",
+"l" : "25.60",
+"c" : "+0.20",
+"mc" : "1.27B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9687421",
+"name" : "Patel Integrated Logistics Ltd",
+"t" : "PATINTLOG",
+"e" : "NSE",
+"l" : "68.05",
+"c" : "+0.45",
+"mc" : "1.12B",
+"cp" : "0.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "719545",
+"name" : "ABC INDIA LIMITED",
+"t" : "520123",
+"e" : "BOM",
+"l" : "91.75",
+"c" : "-3.15",
+"mc" : "499.13M",
+"cp" : "-3.32",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "54 Old Madras Road Virgonagar, BANGALORE, 560049, India",
+"phone": "+91-80-39939500",
+"fax": "+91-80-39939500",
+"url": "http:\u002F\u002Fsnowman.in\u002F",
+"overview" : "Snowman Logistics Limited is engaged in providing temperature-controlled logistics, including storage, transportation by road, and distribution of products requiring a temperature controlled environment. It is engaged in cold chain business in India. It offers a range of facilities for transportation, storage, handling and retail distribution of frozen and chilled products. Its segments include Temperature Controlled Services and Ambient Services. Its Cold Chain Related Logistic includes providing transportation, cold storage and consignment agency facilities. Its services include Warehousing, Distribution and Value Added Services. It caters to various product segments, including ice-cream, sea food, healthcare and pharmaceutical products, and fruits and vegetables. Its service includes door to door service, customized milk runs and part cargo consolidation. It provides secondary transportation, such as last mile distribution, supplying, retail outlets, restaurants and the hotels."
+} ]
+, "management" : [
+{
+"name" : "Prem Kishan Dass Gupta",
+"age" : "57",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Sunil Nair",
+"title" : "Chief Executive Officer, Whole time Director"
+}
+,
+{
+"name" : "Nitin Bhide",
+"age" : "53",
+"title" : "Assistant General Manager"
+}
+,
+{
+"name" : "Paniraj Murthy",
+"age" : "41",
+"title" : "General Manager - Transportation"
+}
+,
+{
+"name" : "Sanjay Sharma",
+"age" : "45",
+"title" : "General Manager - Distribution"
+}
+,
+{
+"name" : "Shailesh Acharya",
+"age" : "38",
+"title" : "Deputy General Manager - Sales"
+}
+,
+{
+"name" : "Shivanand N.",
+"age" : "30",
+"title" : "Deputy General Manager - Accounts and Finance"
+}
+,
+{
+"name" : "Jayant Ojha",
+"age" : "46",
+"title" : "Deputy General Manager - Sales"
+}
+,
+{
+"name" : "Debabrata Satpathy",
+"age" : "41",
+"title" : "Deputy General Manager, East"
+}
+,
+{
+"name" : "Sundar Mangadu Agaram",
+"age" : "52",
+"title" : "Chief Financial Officer, Compliance Officer, Company Secretary"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "532799",
+"exchange" : "BOM",
+"id": "710373",
+"t" : "532799",
+"e" : "BOM",
+"name" : "Hubtown Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532799"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532799"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532799"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002713)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-58.29%",
+"annual" : "-10.46%",
+"ttm" : "-0.59%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "53.85%",
+"annual" : "62.06%",
+"ttm" : "68.98%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "63.79%",
+"ttm" : "71.41%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.18%",
+"ttm" : "-0.06%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-3.96%",
+"ttm" : "-0.13%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "231",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+6.00",
+"l" : "93.50",
+"cp" : "6.86",
+"ccol" : "chg",
+"op" : "88.35",
+"hi" : "94.50",
+"lo" : "87.90",
+"vo" : "154,054.00",
+"avvo" : "",
+"hi52" : "173.00",
+"lo52" : "83.40",
+"mc" : "6.82B",
+"pe" : "1,392.41",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.07",
+"dy" : "",
+"ldiv" : "",
+"shares" : "72.74M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "710373",
+"name" : "Hubtown Ltd",
+"t" : "532799",
+"e" : "BOM",
+"l" : "93.50",
+"c" : "+6.00",
+"mc" : "6.82B",
+"cp" : "6.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715238",
+"name" : "Satra Properties (India) Ltd.",
+"t" : "508996",
+"e" : "BOM",
+"l" : "5.08",
+"c" : "0.00",
+"mc" : "906.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15672667",
+"name" : "Sunteck Realty Ltd",
+"t" : "SUNTECK",
+"e" : "NSE",
+"l" : "413.50",
+"c" : "+14.40",
+"mc" : "60.49B",
+"cp" : "3.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14341079",
+"name" : "Radhe Developers (India) Ltd",
+"t" : "531273",
+"e" : "BOM",
+"l" : "19.80",
+"c" : "-1.55",
+"mc" : "498.56M",
+"cp" : "-7.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "986880561686244",
+"name" : "Relstruct Buildcon Ltd",
+"t" : "540426",
+"e" : "BOM",
+"l" : "35.00",
+"c" : "-1.00",
+"mc" : "513.48M",
+"cp" : "-2.78",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9400569",
+"name" : "Prerna Infrabuild Ltd",
+"t" : "531802",
+"e" : "BOM",
+"l" : "19.40",
+"c" : "+0.70",
+"mc" : "229.94M",
+"cp" : "3.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "403607444213289",
+"name" : "Unishire Urban Infra Ltd",
+"t" : "537582",
+"e" : "BOM",
+"l" : "9.29",
+"c" : "+0.02",
+"mc" : "",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5678833",
+"name" : "Anant Raj Ltd",
+"t" : "ANANTRAJ",
+"e" : "NSE",
+"l" : "58.30",
+"c" : "+0.80",
+"mc" : "17.16B",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7988690",
+"name" : "Mahindra Lifespace Developers Ltd.",
+"t" : "MAHLIFE",
+"e" : "NSE",
+"l" : "459.50",
+"c" : "+6.20",
+"mc" : "23.60B",
+"cp" : "1.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9403713",
+"name" : "Orbit Corporation Limited",
+"t" : "ORBITCORP",
+"e" : "NSE",
+"l" : "1.80",
+"c" : "0.00",
+"mc" : "205.13M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1047024330447169",
+"name" : "Generic Engineering Constrt \u0026 Prjcts Ltd",
+"t" : "539407",
+"e" : "BOM",
+"l" : "224.40",
+"c" : "+6.55",
+"mc" : "3.68B",
+"cp" : "3.01",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Ackruti Center Point, 6th Floor Central Road, Marol MIDC Andheri (East), MUMBAI, 400093, India",
+"phone": "+91-22-67037427",
+"fax": "+91-22-66830602",
+"url": "http:\u002F\u002Fhubtown.co.in",
+"overview" : "Hubtown Limited is a real estate company. The Company is engaged in the business of execution and development of real estate projects and operates both on its own and through its subsidiaries\u002Fjoint ventures\u002Fassociate companies, partnerships firms and public private partnerships encompassing the construction and development of residential and commercial premises, and build operate transfer (BOT) Projects. The Company has a Western India focus with presence in Mumbai, Thane, Pune, Surat, Ahmedabad, Vadodara and Mehsana. The Company\u0027s residential projects include Hubtown Sunmist-\u0027A\u0027 Wing-Andheri (East)\u003B Hubtown Seasons Chembur\u003B Hubtown Gardenia-Mira Road\u003B Hubtown Greenwoods-Thane\u003B Hubtown Heaven-Matunga (East)\u003B Hubtown Vedant-Sion (East), and Hubtown Sunstone-Bandra (East). Its commercial projects include Hubtown Solaris Phase-II-Andheri (East)\u003B Hubtown Central-Surat\u003B Hubtown Central-Ahmedabad\u003B Hubtown Central-Mehsana, and Hubtown Central-Vadodara."
+} ]
+, "management" : [
+{
+"name" : "Hemant M. Shah",
+"age" : "60",
+"title" : "Non-Independent Executive Chairman of the Board"
+}
+,
+{
+"name" : "Nancy Pereira",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Chetan S. Mody",
+"title" : "Company Secretary, Compliance Officer"
+}
+,
+{
+"name" : "Anil Ahluwalia",
+"title" : "Vice President - Risk Management and Compliance"
+}
+,
+{
+"name" : "Vyomesh M. Shah",
+"age" : "53",
+"title" : "Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Priti K. Shah",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sunil C. Shah",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Abhijit Datta",
+"age" : "65",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

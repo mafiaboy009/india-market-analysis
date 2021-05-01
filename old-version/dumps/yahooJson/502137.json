@@ -1,0 +1,389 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 7737805312,
+            "fmt": "7.74B",
+            "longFmt": "7,737,805,312"
+          },
+          "forwardPE": {
+            "raw": 9.831695,
+            "fmt": "9.83"
+          },
+          "profitMargins": {
+            "raw": 0.06669,
+            "fmt": "6.67%"
+          },
+          "floatShares": {
+            "raw": 4904493,
+            "fmt": "4.9M",
+            "longFmt": "4,904,493"
+          },
+          "sharesOutstanding": {
+            "raw": 14007500,
+            "fmt": "14.01M",
+            "longFmt": "14,007,500"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.348055,
+            "fmt": "0.35"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 248.773,
+            "fmt": "248.77"
+          },
+          "priceToBook": {
+            "raw": 1.6084945,
+            "fmt": "1.61"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514592000,
+            "fmt": "2017-12-30"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.188,
+            "fmt": "-18.80%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 402608000,
+            "fmt": "402.61M",
+            "longFmt": "402,608,000"
+          },
+          "trailingEps": {
+            "raw": 28.854,
+            "fmt": "28.85"
+          },
+          "forwardEps": {
+            "raw": 40.7,
+            "fmt": "40.7"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1505088000,
+            "fmt": "2017-09-11"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.282,
+            "fmt": "1.28"
+          },
+          "enterpriseToEbitda": {
+            "raw": 8.472,
+            "fmt": "8.47"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 15.34,
+                  "fmt": "15.34"
+                },
+                "estimate": {
+                  "raw": 19.64,
+                  "fmt": "19.64"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 6.79,
+                  "fmt": "6.79"
+                },
+                "estimate": {
+                  "raw": 9.15,
+                  "fmt": "9.15"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 3913688000,
+                  "fmt": "3.91B",
+                  "longFmt": "3,913,688,000"
+                },
+                "earnings": {
+                  "raw": 50235000,
+                  "fmt": "50.23M",
+                  "longFmt": "50,235,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 4377768000,
+                  "fmt": "4.38B",
+                  "longFmt": "4,377,768,000"
+                },
+                "earnings": {
+                  "raw": 198789000,
+                  "fmt": "198.79M",
+                  "longFmt": "198,789,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 5790666000,
+                  "fmt": "5.79B",
+                  "longFmt": "5,790,666,000"
+                },
+                "earnings": {
+                  "raw": 455625000,
+                  "fmt": "455.62M",
+                  "longFmt": "455,625,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 5578317000,
+                  "fmt": "5.58B",
+                  "longFmt": "5,578,317,000"
+                },
+                "earnings": {
+                  "raw": 465970000,
+                  "fmt": "465.97M",
+                  "longFmt": "465,970,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 1497203000,
+                  "fmt": "1.5B",
+                  "longFmt": "1,497,203,000"
+                },
+                "earnings": {
+                  "raw": 107440000,
+                  "fmt": "107.44M",
+                  "longFmt": "107,440,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 1355461000,
+                  "fmt": "1.36B",
+                  "longFmt": "1,355,461,000"
+                },
+                "earnings": {
+                  "raw": 113888000,
+                  "fmt": "113.89M",
+                  "longFmt": "113,888,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 1361609000,
+                  "fmt": "1.36B",
+                  "longFmt": "1,361,609,000"
+                },
+                "earnings": {
+                  "raw": 95099000,
+                  "fmt": "95.1M",
+                  "longFmt": "95,099,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 1339619000,
+                  "fmt": "1.34B",
+                  "longFmt": "1,339,619,000"
+                },
+                "earnings": {
+                  "raw": 89496000,
+                  "fmt": "89.5M",
+                  "longFmt": "89,496,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Deccan Chambers",
+          "address2": "6-3-666/B Somajiguda",
+          "city": "Hyderabad",
+          "zip": "500082",
+          "country": "India",
+          "phone": "91 40 2331 0168",
+          "fax": "91 40 2331 8366",
+          "website": "http://www.deccancements.com",
+          "industry": "General Building Materials",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Deccan Cements Limited manufactures, markets, and sells cement in India. The company offers ordinary Portland, Portland pozzolana, and Portland slag cement products; and other specialty cement products, such as sulphate resistant, rapid hardening, high alumina, and oil well cement, as well as 53-S grade ordinary Portland cement, a specialty cement for railway applications. It also generates and sells electricity through thermal, wind, and hydel sources. Deccan Cements Limited was incorporated in 1979 and is headquartered in Hyderabad, India.",
+          "fullTimeEmployees": 316,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 400.15,
+            "fmt": "400.15"
+          },
+          "targetHighPrice": {
+            "raw": 752.0,
+            "fmt": "752.00"
+          },
+          "targetLowPrice": {
+            "raw": 712.5,
+            "fmt": "712.50"
+          },
+          "targetMeanPrice": {
+            "raw": 729.63,
+            "fmt": "729.63"
+          },
+          "targetMedianPrice": {
+            "raw": 727.0,
+            "fmt": "727.00"
+          },
+          "recommendationMean": {
+            "raw": 1.8,
+            "fmt": "1.80"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 4,
+            "fmt": "4",
+            "longFmt": "4"
+          },
+          "totalCash": {
+            "raw": 340891008,
+            "fmt": "340.89M",
+            "longFmt": "340,891,008"
+          },
+          "totalCashPerShare": {
+            "raw": 24.34,
+            "fmt": "24.34"
+          },
+          "ebitda": {
+            "raw": 913364480,
+            "fmt": "913.36M",
+            "longFmt": "913,364,480"
+          },
+          "totalDebt": {
+            "raw": 390304000,
+            "fmt": "390.3M",
+            "longFmt": "390,304,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 6037218816,
+            "fmt": "6.04B",
+            "longFmt": "6,037,218,816"
+          },
+          "debtToEquity": {
+            "raw": 11.202,
+            "fmt": "11.20"
+          },
+          "revenuePerShare": {
+            "raw": 432.687,
+            "fmt": "432.69"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 3584824000,
+            "fmt": "3.58B",
+            "longFmt": "3,584,824,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.188,
+            "fmt": "-18.80%"
+          },
+          "revenueGrowth": {
+            "raw": 0.026,
+            "fmt": "2.60%"
+          },
+          "grossMargins": {
+            "raw": 0.62724,
+            "fmt": "62.72%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.15129,
+            "fmt": "15.13%"
+          },
+          "operatingMargins": {
+            "raw": 0.11411,
+            "fmt": "11.41%"
+          },
+          "profitMargins": {
+            "raw": 0.06669,
+            "fmt": "6.67%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

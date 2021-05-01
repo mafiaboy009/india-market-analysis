@@ -1,0 +1,284 @@
+
+// [
+{
+"symbol" : "532934",
+"exchange" : "BOM",
+"id": "717658",
+"t" : "532934",
+"e" : "BOM",
+"name" : "PPAP Automotive Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532934"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532934"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532934"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.21%",
+"annual" : "7.16%",
+"ttm" : "4.40%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.00%",
+"annual" : "11.61%",
+"ttm" : "8.88%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "18.82%",
+"ttm" : "16.63%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.70%",
+"ttm" : "4.29%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.05%",
+"ttm" : "6.94%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "802",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+10.65",
+"l" : "551.00",
+"cp" : "1.97",
+"ccol" : "chg",
+"op" : "547.35",
+"hi" : "552.65",
+"lo" : "542.70",
+"vo" : "1,580.00",
+"avvo" : "",
+"hi52" : "721.00",
+"lo52" : "206.55",
+"mc" : "7.73B",
+"pe" : "55.00",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.02",
+"dy" : "0.68",
+"ldiv" : "2.00",
+"shares" : "14.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "717658",
+"name" : "PPAP Automotive Ltd",
+"t" : "532934",
+"e" : "BOM",
+"l" : "551.00",
+"c" : "+10.65",
+"mc" : "7.73B",
+"cp" : "1.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13659974",
+"name" : "Majestic Auto Ltd",
+"t" : "500267",
+"e" : "BOM",
+"l" : "161.20",
+"c" : "-2.35",
+"mc" : "1.68B",
+"cp" : "-1.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13309952",
+"name" : "Motherson Sumi Systems Limited",
+"t" : "MOTHERSUMI",
+"e" : "NSE",
+"l" : "328.95",
+"c" : "+10.05",
+"mc" : "690.37B",
+"cp" : "3.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8999255",
+"name" : "Remsons Industries Ltd",
+"t" : "REMSONSIND",
+"e" : "NSE",
+"l" : "86.30",
+"c" : "+0.75",
+"mc" : "493.06M",
+"cp" : "0.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2055807",
+"name" : "India Nippon Electricals Ltd",
+"t" : "INDNIPPON",
+"e" : "NSE",
+"l" : "1,000.00",
+"c" : "+3.70",
+"mc" : "11.34B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16541201",
+"name" : "Minda Industries Ltd",
+"t" : "MINDAIND",
+"e" : "NSE",
+"l" : "1,122.00",
+"c" : "+17.70",
+"mc" : "97.07B",
+"cp" : "1.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6715972",
+"name" : "REIL Electricals India Ltd",
+"t" : "505817",
+"e" : "BOM",
+"l" : "230.00",
+"c" : "0.00",
+"mc" : "868.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12232770",
+"name" : "Denso India Pvt Ltd",
+"t" : "DENSO",
+"e" : "NSE",
+"l" : "142.75",
+"c" : "0.00",
+"mc" : "3.98B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "149556745650340",
+"name" : "Minda Corp Ltd",
+"t" : "MINDACORP",
+"e" : "NSE",
+"l" : "192.55",
+"c" : "-3.25",
+"mc" : "40.20B",
+"cp" : "-1.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "135030",
+"name" : "Igarashi Motors India Ltd.",
+"t" : "IGARASHI",
+"e" : "NSE",
+"l" : "830.00",
+"c" : "+3.45",
+"mc" : "25.36B",
+"cp" : "0.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3115321",
+"name" : "Bloom Dekor Ltd",
+"t" : "526225",
+"e" : "BOM",
+"l" : "55.00",
+"c" : "+1.95",
+"mc" : "363.39M",
+"cp" : "3.68",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "B-206A, Sector 81, Phase II, NOIDA, 201305, India",
+"phone": "+91-120-2462552",
+"fax": "+91-120-2461371",
+"url": "http:\u002F\u002Fppapco.in\u002F",
+"overview" : "PPAP Automotive Limited is engaged in the business of manufacturing of automotive parts. The Company manufactures automotive sealing systems, and interior and exterior automotive parts in India. The Company offers polymer extrusion-based automotive sealing system and injection-molded products. The Company\u0027s automotive sealing system product range includes outer belt molding (black type\u002Fbright type), inner belt molding, windshield molding, roof molding, quarter window molding, air spoiler, a-pillar garnish, b-pillar garnish, body side protector, skirt air damper and slide rail system. The Company also manufactures interior and exterior Injection molded products, such as door trims, interior pillars, rear parcel shelf, trunk linings and fender Inner. It has injection molding machines, ranging from 60 tons to 2,500 tons. The Company\u0027s manufacturing facilities are located in Noida (Uttar Pradesh), Greater Noida (Uttar Pradesh), Chennai (Tamil Nadu) and Pathredi (Rajasthan)."
+} ]
+, "management" : [
+{
+"name" : "Ajay Kumar Jain",
+"age" : "62",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Abhishek Jain",
+"age" : "36",
+"title" : "Chief Executive Officer, Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Manish Dhariwal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sonia Bhandari",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Bhuwan Kumar Chaturvedi",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Ashok Kumar Jain",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Vinay Kumari Jain",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Pravin Kumar Gupta",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

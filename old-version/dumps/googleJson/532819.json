@@ -1,0 +1,297 @@
+
+ [
+{
+"symbol" : "532819",
+"exchange" : "BOM",
+"id": "712987",
+"t" : "532819",
+"e" : "BOM",
+"name" : "MindTree Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532819"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532819"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532819"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.27%",
+"annual" : "7.99%",
+"ttm" : "9.12%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.01%",
+"annual" : "10.17%",
+"ttm" : "9.37%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.71%",
+"ttm" : "12.76%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "16.38%",
+"annual" : "12.56%",
+"ttm" : "14.26%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "22.22%",
+"annual" : "16.77%",
+"ttm" : "18.76%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "16,470",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-10.25",
+"l" : "802.10",
+"cp" : "-1.26",
+"ccol" : "chr",
+"op" : "824.00",
+"hi" : "826.50",
+"lo" : "777.70",
+"vo" : "226,218.00",
+"avvo" : "",
+"hi52" : "826.50",
+"lo52" : "435.00",
+"mc" : "131.03B",
+"pe" : "27.60",
+"fwpe" : "",
+"beta" : "",
+"eps" : "29.06",
+"dy" : "0.87",
+"ldiv" : "2.00",
+"shares" : "163.93M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "712987",
+"name" : "MindTree Ltd",
+"t" : "532819",
+"e" : "BOM",
+"l" : "802.10",
+"c" : "-10.25",
+"mc" : "131.03B",
+"cp" : "-1.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "675530",
+"name" : "Infosys Ltd",
+"t" : "INFY",
+"e" : "NSE",
+"l" : "1,139.95",
+"c" : "-15.70",
+"mc" : "2.48T",
+"cp" : "-1.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13920819",
+"name" : "Cura Technologies Ltd",
+"t" : "CURATECH",
+"e" : "NSE",
+"l" : "5.50",
+"c" : "0.00",
+"mc" : "52.55M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10839801",
+"name" : "COSYN Ltd",
+"t" : "538922",
+"e" : "BOM",
+"l" : "87.25",
+"c" : "-2.30",
+"mc" : "658.42M",
+"cp" : "-2.57",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9055815",
+"name" : "Wipro Limited",
+"t" : "WIPRO",
+"e" : "NSE",
+"l" : "291.75",
+"c" : "-3.25",
+"mc" : "1.32T",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1420125",
+"name" : "KLG Systel Ltd.",
+"t" : "KLGSYSTEL",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-5.80",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "687619",
+"name" : "Athena Global Technologies Ltd",
+"t" : "517429",
+"e" : "BOM",
+"l" : "17.00",
+"c" : "0.00",
+"mc" : "176.27M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2108958",
+"name" : "Xchanging Solutions Ltd",
+"t" : "XCHANGING",
+"e" : "NSE",
+"l" : "61.20",
+"c" : "-0.10",
+"mc" : "6.75B",
+"cp" : "-0.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16623444",
+"name" : "Zigma Software Ltd",
+"t" : "532177",
+"e" : "BOM",
+"l" : "2.10",
+"c" : "+0.03",
+"mc" : "89.54M",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1334365",
+"name" : "GTL Limited",
+"t" : "GTL",
+"e" : "NSE",
+"l" : "13.10",
+"c" : "+0.10",
+"mc" : "2.06B",
+"cp" : "0.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4412851",
+"name" : "AGC Networks Ltd",
+"t" : "AGCNET",
+"e" : "NSE",
+"l" : "120.00",
+"c" : "-2.00",
+"mc" : "3.42B",
+"cp" : "-1.64",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Global Village RVCE Post , Mysore Road, Mysore Road, BANGALORE, 560059, India",
+"phone": "+91-80-67064000",
+"fax": "+91-80-26711777",
+"url": "http:\u002F\u002Fwww.mindtree.com\u002F",
+"overview" : "MindTree Limited is a holding company. The Company is an international information technology consulting and implementation company that delivers business solutions through global software development. The Company operates in five segments: Retail, CPG and Manufacturing (RCM)\u003B Banking, Financial Services and Insurance (BFSI)\u003B Technology, Media and Services (TMS)\u003B Travel and Hospitality (TH), and Others. It offers services in the areas of analytics and information management, application development and maintenance, business process management, business technology consulting, cloud, digital business\u0027s, independent testing, infrastructure management services, mobility, product engineering, and systems, applications, products (SAP) services. It has offices in India, the United States, the United Kingdom, Japan, Singapore, Malaysia, Australia, Germany, Switzerland, Sweden, the United Arab Emirates, Netherlands, Canada, Belgium, France, Ireland, South Africa and Republic of China."
+} ]
+, "management" : [
+{
+"name" : "Krishnakumar Natarajan",
+"age" : "59",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Namakal Srinivasan Parthasarathy",
+"age" : "55",
+"title" : "President - Enterprise Service Lines, President, Co-Founder, Chief Operating Officer, Executive Vice Chairman"
+}
+,
+{
+"name" : "Jagannathan Chakravarthi",
+"title" : "Chief Financial Officer, Compliance Officer"
+}
+,
+{
+"name" : "Rostow Ravanan",
+"age" : "44",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Vedavalli Sridharan",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Manisha Girotra",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Akshaya Bhargava",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Milind Sarwate",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Pankaj Chandra",
+"age" : "55",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Apurva Purohit",
+"age" : "50",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

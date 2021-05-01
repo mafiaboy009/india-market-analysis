@@ -1,0 +1,299 @@
+
+// [
+{
+"symbol" : "505160",
+"exchange" : "BOM",
+"id": "15396793",
+"t" : "505160",
+"e" : "BOM",
+"name" : "Talbros Automotive Components Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:505160"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:505160"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:505160"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.56%",
+"annual" : "3.67%",
+"ttm" : "4.82%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.62%",
+"annual" : "6.71%",
+"ttm" : "6.81%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.28%",
+"ttm" : "9.78%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.93%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.49%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,440",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.35",
+"l" : "293.05",
+"cp" : "-0.46",
+"ccol" : "chr",
+"op" : "298.60",
+"hi" : "301.20",
+"lo" : "288.75",
+"vo" : "2,727.00",
+"avvo" : "",
+"hi52" : "353.65",
+"lo52" : "123.50",
+"mc" : "3.59B",
+"pe" : "18.65",
+"fwpe" : "",
+"beta" : "",
+"eps" : "15.71",
+"dy" : "0.51",
+"ldiv" : "1.50",
+"shares" : "12.35M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15396793",
+"name" : "Talbros Automotive Components Ltd",
+"t" : "505160",
+"e" : "BOM",
+"l" : "293.05",
+"c" : "-1.35",
+"mc" : "3.59B",
+"cp" : "-0.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "677072",
+"name" : "Munjal Showa Limited",
+"t" : "MUNJALSHOW",
+"e" : "NSE",
+"l" : "223.40",
+"c" : "-3.95",
+"mc" : "8.91B",
+"cp" : "-1.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5845409",
+"name" : "Sona Koyo Steering Systems Limited",
+"t" : "SONASTEER",
+"e" : "NSE",
+"l" : "103.55",
+"c" : "-0.65",
+"mc" : "20.62B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8504101",
+"name" : "Gabriel India Limited",
+"t" : "GABRIEL",
+"e" : "NSE",
+"l" : "158.00",
+"c" : "+4.15",
+"mc" : "22.67B",
+"cp" : "2.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715310",
+"name" : "ZF Steering Gear (India) Ltd",
+"t" : "505163",
+"e" : "BOM",
+"l" : "1,130.75",
+"c" : "+30.05",
+"mc" : "10.16B",
+"cp" : "2.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2566408",
+"name" : "ANG Industries Ltd.",
+"t" : "ANGIND",
+"e" : "NSE",
+"l" : "5.95",
+"c" : "+0.20",
+"mc" : "94.10M",
+"cp" : "3.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7064343",
+"name" : "Banco Products (I) Ltd.",
+"t" : "BANCOINDIA",
+"e" : "NSE",
+"l" : "220.00",
+"c" : "-4.85",
+"mc" : "15.76B",
+"cp" : "-2.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1722831",
+"name" : "Hindustan Composites Limited",
+"t" : "HINDCOMPOS",
+"e" : "NSE",
+"l" : "465.00",
+"c" : "+16.45",
+"mc" : "6.80B",
+"cp" : "3.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10611276",
+"name" : "SKF India Ltd",
+"t" : "SKFINDIA",
+"e" : "NSE",
+"l" : "1,828.00",
+"c" : "-11.85",
+"mc" : "93.84B",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1863710",
+"name" : "Sundram Fasteners Limited",
+"t" : "SUNDRMFAST",
+"e" : "NSE",
+"l" : "559.00",
+"c" : "-14.65",
+"mc" : "116.98B",
+"cp" : "-2.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13340222",
+"name" : "Omax Autos Limited",
+"t" : "OMAXAUTO",
+"e" : "NSE",
+"l" : "170.00",
+"c" : "-1.95",
+"mc" : "3.61B",
+"cp" : "-1.13",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "C\u002Fo QH Talbros Limited 400, Udyog Vihar, Phase - III, GURGAON, 122016, India",
+"phone": "+91-124-5002963",
+"fax": "+91-124-2439222",
+"url": "http:\u002F\u002Fwww.talbros.com\u002F",
+"overview" : "Talbros Automotive Components Limited is an auto component manufacturer. The Company is engaged in the manufacturing of Gaskets and Forgings. The Company\u0027s products include Gaskets and Heat Shields\u003B Forgings\u003B Suspension systems\u003B Hoses, and Anti-vibration systems. It caters to various vehicular segments, such as Two-wheelers, Passenger cars, Light and heavy commercial vehicles, Agri equipment, and Industrial and Off-road vehicles. It focuses on supplies of forgings to tractor manufacturers and vehicle makers in Europe. Its products also include multi-layer steel, rubber-moulded, exhaust manifold, edge-moulded, cylinder heads, housing and yoke shafts, kingpins and gear blanks. The Company has manufacturing facilities situated in over nine locations across approximately three states in India. Its gaskets manufacturing facilities are located in Faridabad, Haryana\u003B Pune, Maharashtra, and Sitarganj, Uttarakhand. Its forging manufacturing facilities are located in Bawal, Haryana."
+} ]
+, "management" : [
+{
+"name" : "Umesh Talwar",
+"age" : "61",
+"title" : "Executive Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Manish Khanna",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Seema Narang",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Varun Talwar",
+"age" : "42",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Anuj Talwar",
+"age" : "36",
+"title" : "Joint Managing Director, Director"
+}
+,
+{
+"name" : "Naresh Talwar",
+"age" : "70",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Vidur Talwar",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rajeev Ranjan Vederah",
+"age" : "65",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Navin Juneja",
+"age" : "57",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Amit Burman",
+"age" : "48",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "533229",
+"exchange" : "BOM",
+"id": "1937215",
+"t" : "533229",
+"e" : "BOM",
+"name" : "Bajaj Corp Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533229"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533229"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533229"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "23.15%",
+"annual" : "27.39%",
+"ttm" : "25.37%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "22.47%",
+"annual" : "30.16%",
+"ttm" : "24.07%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "33.13%",
+"ttm" : "24.62%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "37.77%",
+"ttm" : "25.22%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "44.76%",
+"ttm" : "29.86%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "512",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.65",
+"l" : "481.10",
+"cp" : "-0.55",
+"ccol" : "chr",
+"op" : "486.00",
+"hi" : "487.50",
+"lo" : "481.10",
+"vo" : "364.00",
+"avvo" : "",
+"hi52" : "525.00",
+"lo52" : "342.50",
+"mc" : "71.51B",
+"pe" : "59.10",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.14",
+"dy" : "2.49",
+"ldiv" : "12.00",
+"shares" : "147.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1937215",
+"name" : "Bajaj Corp Ltd",
+"t" : "533229",
+"e" : "BOM",
+"l" : "481.10",
+"c" : "-2.65",
+"mc" : "71.51B",
+"cp" : "-0.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8740908",
+"name" : "JL Morison India Ltd",
+"t" : "506522",
+"e" : "BOM",
+"l" : "1,485.00",
+"c" : "+56.00",
+"mc" : "2.03B",
+"cp" : "3.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12054339",
+"name" : "Elder Health Care Ltd",
+"t" : "524830",
+"e" : "BOM",
+"l" : "8.55",
+"c" : "0.00",
+"mc" : "34.91M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14753584",
+"name" : "Lykis Ltd",
+"t" : "530689",
+"e" : "BOM",
+"l" : "53.10",
+"c" : "+1.60",
+"mc" : "1.03B",
+"cp" : "3.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "829919",
+"name" : "Dabur India Ltd",
+"t" : "DABUR",
+"e" : "NSE",
+"l" : "331.75",
+"c" : "+1.15",
+"mc" : "580.17B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14928615",
+"name" : "Farmax India Limited",
+"t" : "FARMAXIND",
+"e" : "NSE",
+"l" : "0.05",
+"c" : "0.00",
+"mc" : "26.71M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12902388119303",
+"name" : "Marico Kaya Enterprises Ltd",
+"t" : "MAKE",
+"e" : "NSE",
+"l" : "1,555.00",
+"c" : "+7.95",
+"mc" : "",
+"cp" : "0.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4000544",
+"name" : "Paramount Cosmetics (India) Ltd",
+"t" : "507970",
+"e" : "BOM",
+"l" : "31.40",
+"c" : "-1.60",
+"mc" : "152.45M",
+"cp" : "-4.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13034665",
+"name" : "Ador Multi Products Ltd",
+"t" : "523120",
+"e" : "BOM",
+"l" : "23.15",
+"c" : "0.00",
+"mc" : "66.31M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2889377",
+"name" : "Gillette India Limited",
+"t" : "GILLETTE",
+"e" : "NSE",
+"l" : "6,649.95",
+"c" : "+3.90",
+"mc" : "217.80B",
+"cp" : "0.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1188812",
+"name" : "Emami Ltd",
+"t" : "EMAMILTD",
+"e" : "NSE",
+"l" : "1,105.50",
+"c" : "+33.30",
+"mc" : "250.26B",
+"cp" : "3.11",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Old Station Road, Sevashram Chouraha, MUMBAI, 400021, India",
+"phone": "+91-22-22049056",
+"fax": "+91-22-22048681",
+"url": "http:\u002F\u002Fwww.bajajcorp.com\u002F",
+"overview" : "Bajaj Corp Limited is an India-based holding company. The Company is engaged in the business activity of trading and manufacturing of cosmetics, toiletries and other personal care products. It is a fast moving consumer goods (FMCG) company. The Company\u0027s products include Bajaj Kailash Parbat Thanda Tel, Bajaj Almond Drops Hair Oil, Bajaj Brahmi Amla Hair Oil, Bajaj Jasmine Hair Oil, Bajaj Nomark Oily Skin Face Wash, Bajaj Nomarks Herbal Scrub Soap, Bajaj Nomark Oily Skin Cream, Bajaj Nomarks Neem Soap, Bajaj Nomarks Oil Control Soap and others. The Company\u0027s brands are being sold through approximately 7,500 stockists and are available in over 3.69 million retail outlets across the country. The Company has approximately eight production facilities, of which four units are situated in Himachal Pradesh (at Parwanoo and Paonta Sahib), three units are situated in Uttrakhand for manufacturing of various variants of hair oils and Nomarks and the other unit is located at Udaipur, Rajasthan."
+} ]
+, "management" : [
+{
+"name" : "Apoorv Bajaj",
+"title" : "Executive President"
+}
+,
+{
+"name" : "D. K. Maloo",
+"age" : "52",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Hitesh Kanani",
+"title" : "Company Secretary, Compliance Officer"
+}
+,
+{
+"name" : "Sumit Malhotra",
+"age" : "53",
+"title" : "Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Kushagra Nayan Bajaj",
+"title" : "Non-Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Vasavadatta Bajaj",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Dilip Cherian",
+"age" : "59",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Gaurav Dalmia",
+"age" : "50",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Aditya Vikram Ramesh Somani",
+"age" : "41",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

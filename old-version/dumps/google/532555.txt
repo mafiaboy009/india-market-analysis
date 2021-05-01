@@ -1,0 +1,299 @@
+
+// [
+{
+"symbol" : "532555",
+"exchange" : "BOM",
+"id": "696674",
+"t" : "532555",
+"e" : "BOM",
+"name" : "NTPC Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532555"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532555"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532555"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "13.05%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "19.15%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "27.31%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.53%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.32%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "22,124",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.20",
+"l" : "163.00",
+"cp" : "0.12",
+"ccol" : "chg",
+"op" : "163.00",
+"hi" : "163.30",
+"lo" : "161.70",
+"vo" : "133,236.00",
+"avvo" : "",
+"hi52" : "187.95",
+"lo52" : "153.30",
+"mc" : "1.36T",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "3.01",
+"ldiv" : "2.73",
+"shares" : "8.25B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "696674",
+"name" : "NTPC Limited",
+"t" : "532555",
+"e" : "BOM",
+"l" : "163.00",
+"c" : "+0.20",
+"mc" : "1.36T",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "717049",
+"name" : "Suryachakra Power Corporation Limited",
+"t" : "532874",
+"e" : "BOM",
+"l" : "1.04",
+"c" : "-0.05",
+"mc" : "155.62M",
+"cp" : "-4.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6633977",
+"name" : "NLC India Ltd",
+"t" : "NLCINDIA",
+"e" : "NSE",
+"l" : "99.85",
+"c" : "-0.10",
+"mc" : "152.55B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1374673",
+"name" : "Nava Bharat Ventures Limited",
+"t" : "NBVENTURES",
+"e" : "NSE",
+"l" : "152.00",
+"c" : "+0.60",
+"mc" : "26.86B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5301348",
+"name" : "Tata Power Company Limited",
+"t" : "TATAPOWER",
+"e" : "NSE",
+"l" : "85.90",
+"c" : "+0.15",
+"mc" : "232.48B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16032883",
+"name" : "CESC Ltd",
+"t" : "CESC",
+"e" : "NSE",
+"l" : "1,017.00",
+"c" : "+15.30",
+"mc" : "134.54B",
+"cp" : "1.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6492243",
+"name" : "Adani Power Ltd",
+"t" : "ADANIPOWER",
+"e" : "NSE",
+"l" : "32.70",
+"c" : "+0.55",
+"mc" : "126.12B",
+"cp" : "1.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12998886",
+"name" : "KSK Energy Ventures Limited",
+"t" : "KSK",
+"e" : "NSE",
+"l" : "11.75",
+"c" : "-0.60",
+"mc" : "4.94B",
+"cp" : "-4.86",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13137259",
+"name" : "Time Technoplast Limited",
+"t" : "TIMETECHNO",
+"e" : "NSE",
+"l" : "182.20",
+"c" : "-1.15",
+"mc" : "41.40B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "458007",
+"name" : "Morgan Ventures Ltd.",
+"t" : "526237",
+"e" : "BOM",
+"l" : "12.76",
+"c" : "+0.60",
+"mc" : "126.31M",
+"cp" : "4.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13687989",
+"name" : "Gujarat Industries Power Company Limited",
+"t" : "GIPCL",
+"e" : "NSE",
+"l" : "114.80",
+"c" : "-1.45",
+"mc" : "17.27B",
+"cp" : "-1.25",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "NTPC Bhawan Scope Complex, 7, Institutional Area, Lodi Rd, NEW DELHI, 110003, India",
+"phone": "+91-11-24360100",
+"fax": "+91-11-24361018",
+"url": "http:\u002F\u002Fwww.ntpc.co.in\u002F",
+"overview" : "NTPC Limited is an India-based company, which is engaged in the generation and sale of electricity. The principal business activity of the Company is the electric power generation by coal-based thermal power plant. The Company\u0027s business segments include Generation and Others. The Company\u0027s Other business includes providing consultancy, project management and supervision, re-gasification, oil and gas exploration and coal mining. The Company has an installed capacity of 47,178 megawatts (MW), including joint ventures (JVs) with over 18 coal-based, seven gas-based stations and one hydro -based station. The Company has approximately nine joint venture stations, which are coal-based. It also holds approximately nine renewable energy projects. The Company\u0027s subsidiaries include NTPC Electric Supply Company Limited, NTPC Vidyut Vyapar Nigam Limited, Kanti Bijlee Utpadan Nigam Limited, Bhartiya Rail Bijlee Company Limited and Patratu Vidyut Utpadan Nigam Limited."
+} ]
+, "management" : [
+{
+"name" : "Gurudeep Singh",
+"age" : "52",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sudhir K. Arya",
+"age" : "60",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Kulamani Biswal",
+"age" : "56",
+"title" : "Director - Finance, Director"
+}
+,
+{
+"name" : "Saptarshi Roy",
+"age" : "57",
+"title" : "Executive Director, Director - Human Resources"
+}
+,
+{
+"name" : "Kalyan Prasad Gupta",
+"age" : "59",
+"title" : "Executive Director - Finance, Company Secretary"
+}
+,
+{
+"name" : "Anand Kumar Gupta",
+"age" : "56",
+"title" : "Executive Director, Director - Commercial"
+}
+,
+{
+"name" : "Prasant Kumar Mohapatra",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "G. Ravindra",
+"title" : "Executive Director of Fuel Management"
+}
+,
+{
+"name" : "Susanta Kumar Roy",
+"age" : "58",
+"title" : "Director - Projects, Executive Director"
+}
+,
+{
+"name" : "Prakash Tiwari",
+"title" : "Director (Operations)"
+}
+]
+,"moreresources" : [
+]
+}]

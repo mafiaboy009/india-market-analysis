@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "532991",
+"exchange" : "BOM",
+"id": "4655141",
+"t" : "532991",
+"e" : "BOM",
+"name" : "MVL Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532991"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532991"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532991"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-1171.14%",
+"annual" : "-41.97%",
+"ttm" : "-290.78%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-1176.95%",
+"annual" : "-140.45%",
+"ttm" : "-370.81%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-130.60%",
+"ttm" : "-342.59%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.38%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-1.24%",
+"ttm" : ""
+}
+]
+, "c" : "+0.02",
+"l" : "0.46",
+"cp" : "4.55",
+"ccol" : "chg",
+"op" : "0.46",
+"hi" : "0.46",
+"lo" : "0.43",
+"vo" : "53,682.00",
+"avvo" : "",
+"hi52" : "0.72",
+"lo52" : "0.40",
+"mc" : "251.43M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.09",
+"dy" : "",
+"ldiv" : "",
+"shares" : "601.24M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "4655141",
+"name" : "MVL Ltd",
+"t" : "532991",
+"e" : "BOM",
+"l" : "0.46",
+"c" : "+0.02",
+"mc" : "251.43M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13257886",
+"name" : "Ansal Housing and Construction Ltd",
+"t" : "ANSALHSG",
+"e" : "NSE",
+"l" : "23.75",
+"c" : "+0.20",
+"mc" : "1.41B",
+"cp" : "0.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5524223",
+"name" : "Parsvnath Developers Limited",
+"t" : "PARSVNATH",
+"e" : "NSE",
+"l" : "21.70",
+"c" : "+0.40",
+"mc" : "9.44B",
+"cp" : "1.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2231171",
+"name" : "Nila Infrastructures Ltd",
+"t" : "530377",
+"e" : "BOM",
+"l" : "21.45",
+"c" : "0.00",
+"mc" : "8.41B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9227507",
+"name" : "Emami Infrastructure Limited",
+"t" : "EMAMIINFRA",
+"e" : "NSE",
+"l" : "298.50",
+"c" : "-1.00",
+"mc" : "7.28B",
+"cp" : "-0.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "185894",
+"name" : "Vas Infrastructure Ltd (cn)",
+"t" : "531574",
+"e" : "BOM",
+"l" : "10.70",
+"c" : "-1.07",
+"mc" : "147.13M",
+"cp" : "-9.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "173745706541156",
+"name" : "Psp Projects Ltd",
+"t" : "PSPPROJECT",
+"e" : "NSE",
+"l" : "488.15",
+"c" : "+0.25",
+"mc" : "17.54B",
+"cp" : "0.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "713850",
+"name" : "Skyline Millars Ltd",
+"t" : "505650",
+"e" : "BOM",
+"l" : "3.55",
+"c" : "-0.11",
+"mc" : "142.80M",
+"cp" : "-3.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "495804775077362",
+"name" : "Bronze InfraTech Ltd",
+"t" : "534731",
+"e" : "BOM",
+"l" : "0.85",
+"c" : "0.00",
+"mc" : "14.69M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4621714",
+"name" : "CHD Developers Ltd",
+"t" : "526917",
+"e" : "BOM",
+"l" : "17.00",
+"c" : "+0.10",
+"mc" : "1.92B",
+"cp" : "0.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6248094060991",
+"name" : "Silverpoint Infratech Ltd",
+"t" : "536073",
+"e" : "BOM",
+"l" : "8.06",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "50 let Octyabrya, 4, GURGAON, 122002, India",
+"phone": "+91-124-4525100",
+"fax": "+91-124-4525135",
+"url": "http:\u002F\u002Fwww.mvl.in\u002F",
+"overview" : "MVL Limited is engaged in the business of real estate builders and developers. The Company operates in residential, commercial, township and retail sectors. The Company\u0027s residential projects include initiative for both middle-income groups and lower-middle-income groups. In addition to its project, MVL Coral in Bhiwadi, the Company has also taken initiative in the field of affordable housing with its budget homes project, MVL IndiHomes. Its other residential complex in Bhiwadi is The Palms, targeting the mobile middle-income group. In the Township segment, the Company is focused on launching its project in Yamunanagar, MVL Rivercity, which intends to offer a mix of plots, villas, independent floors, group housing and a star hotel cum club, a mall, as well as a commercial center. In the commercial segment, the Company offers office spaces in Gurgaon that include information technology (IT) park, MVL iPark, as well as an office project, MVL IBC."
+} ]
+, "management" : [
+{
+"name" : "Prem Adip Rishi",
+"age" : "60",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Deepak Gupta",
+"age" : "49",
+"title" : "Chief Financial Officer, Additional Director"
+}
+,
+{
+"name" : "Dhiraj Suri",
+"title" : "Vice President - Operations"
+}
+,
+{
+"name" : "Sushil Aggarwal",
+"title" : "Vice President - Legal and Company Affairs"
+}
+,
+{
+"name" : "Praveen Kumar",
+"age" : "71",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Raman Sharma",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Chetna Tyagi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vinod Kumar Malik",
+"age" : "71",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Kalpana Gupta",
+"age" : "52",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vinod Kumar Khurana",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "522064",
+"exchange" : "BOM",
+"id": "678324",
+"t" : "522064",
+"e" : "BOM",
+"name" : "Honda Siel Power Products Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:522064"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:522064"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:522064"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.77%",
+"annual" : "8.15%",
+"ttm" : "7.88%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.35%",
+"annual" : "10.28%",
+"ttm" : "10.20%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.59%",
+"ttm" : "13.21%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.34%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.46%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,015",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-28.20",
+"l" : "1,439.95",
+"cp" : "-1.92",
+"ccol" : "chr",
+"op" : "1,455.00",
+"hi" : "1,455.00",
+"lo" : "1,410.05",
+"vo" : "1,613.00",
+"avvo" : "",
+"hi52" : "1,675.00",
+"lo52" : "1,296.10",
+"mc" : "14.58B",
+"pe" : "24.22",
+"fwpe" : "",
+"beta" : "",
+"eps" : "59.46",
+"dy" : "0.52",
+"ldiv" : "7.50",
+"shares" : "10.14M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "678324",
+"name" : "Honda Siel Power Products Limited",
+"t" : "522064",
+"e" : "BOM",
+"l" : "1,439.95",
+"c" : "-28.20",
+"mc" : "14.58B",
+"cp" : "-1.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15274130",
+"name" : "Bharat Heavy Electricals Limited",
+"t" : "BHEL",
+"e" : "NSE",
+"l" : "80.55",
+"c" : "-0.05",
+"mc" : "294.32B",
+"cp" : "-0.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6808496",
+"name" : "NEPC India Ltd",
+"t" : "NEPCMICON",
+"e" : "NSE",
+"l" : "1.40",
+"c" : "",
+"mc" : "97.11M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "789150839368773",
+"name" : "Inox Wind Ltd",
+"t" : "INOXWIND",
+"e" : "NSE",
+"l" : "101.80",
+"c" : "-1.75",
+"mc" : "23.21B",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16658510",
+"name" : "Triveni Turbine Ltd",
+"t" : "TRITURBINE",
+"e" : "NSE",
+"l" : "98.75",
+"c" : "-0.90",
+"mc" : "32.44B",
+"cp" : "-0.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "918104",
+"name" : "TD Power Systems Ltd",
+"t" : "TDPOWERSYS",
+"e" : "NSE",
+"l" : "200.10",
+"c" : "+2.30",
+"mc" : "6.74B",
+"cp" : "1.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4296313",
+"name" : "Suzlon Energy Ltd",
+"t" : "SUZLON",
+"e" : "NSE",
+"l" : "9.75",
+"c" : "-0.25",
+"mc" : "51.36B",
+"cp" : "-2.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2745957",
+"name" : "Birla Power Solutions Limited",
+"t" : "BIRLAPOWER",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-0.15",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3241652",
+"name" : "Texmaco Infrastructure \u0026 Holdings Ltd",
+"t" : "TEXINFRA",
+"e" : "NSE",
+"l" : "69.50",
+"c" : "-2.30",
+"mc" : "8.90B",
+"cp" : "-3.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715420",
+"name" : "Batliboi Ltd.",
+"t" : "522004",
+"e" : "BOM",
+"l" : "24.05",
+"c" : "+0.30",
+"mc" : "696.37M",
+"cp" : "1.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "605761",
+"name" : "Cummins India Ltd (Parent)",
+"t" : "CUMMINSIND",
+"e" : "NSE",
+"l" : "775.10",
+"c" : "-3.05",
+"mc" : "211.16B",
+"cp" : "-0.39",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Plot No. 5 Sector - 41, kasna,Greater Noida, GREATER NOIDA, 201310, India",
+"phone": "+91-20-2590100",
+"fax": "+91-120-2341078",
+"url": "https:\u002F\u002Fwww.hondasielpower.com\u002F",
+"overview" : "Honda Siel Power Products Limited is engaged in manufacturing and marketing the portable gensets, water pumps, general-purpose engines, lawn mowers, brush cutters and tillers. The Company caters to both domestic and international markets. It operates through power products and related parts segment. It is also engaged in the marketing of long tailed outboard motors and power tiller. The Company offers portable gensets in Handy series and Silent series. Its Handy series model is EP 1000, and Silent series model is EX2400S. Its inverter generator models include EU 30is and EU 70is. Its kerosene water pumping sets include WBK15, WBK30FF, WPK20 and WBK30. Its petrol water pumping sets include WB30X, WS20X and WB15X. The Company also offers WV30D series of diesel water pumping sets. It offers GK, Mini 4, GX and GXV series of engines. It offers HRJ216 K2 and HRJ196 series of lawnmowers. It offers UMK435T U2ST and UMK435T UEDT series of brush cutters. Its backpack sprayer includes WJR2525T."
+} ]
+, "management" : [
+{
+"name" : "Yoshifumi Lida",
+"title" : "President, Chief Executive Officer"
+}
+,
+{
+"name" : "Vinay Mittal",
+"age" : "48",
+"title" : "Chief Financial Officer, Whole Time Director"
+}
+,
+{
+"name" : "Sunita Ganjoo",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Hiroyoshi Sugimizu",
+"age" : "53",
+"title" : "Vice President, Whole Time Director"
+}
+,
+{
+"name" : "Siddharth Shriram",
+"age" : "70",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Manoj Arora",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Alka Marezban Bharucha",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ravi Vira Gupta",
+"age" : "77",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Dharam Vir Kapur",
+"age" : "89",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

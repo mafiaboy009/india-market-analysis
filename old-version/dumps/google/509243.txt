@@ -1,0 +1,287 @@
+
+// [
+{
+"symbol" : "509243",
+"exchange" : "BOM",
+"id": "677250",
+"t" : "509243",
+"e" : "BOM",
+"name" : "TVS Srichakra Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:509243"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:509243"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:509243"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.33%",
+"annual" : "7.02%",
+"ttm" : "2.71%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.58%",
+"annual" : "10.70%",
+"ttm" : "7.35%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.32%",
+"ttm" : "8.91%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "12.69%",
+"ttm" : "5.05%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "30.34%",
+"ttm" : "30.74%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,700",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+84.50",
+"l" : "3,756.00",
+"cp" : "2.30",
+"ccol" : "chg",
+"op" : "3,657.15",
+"hi" : "3,800.00",
+"lo" : "3,657.10",
+"vo" : "862.00",
+"avvo" : "",
+"hi52" : "4,304.05",
+"lo52" : "2,912.00",
+"mc" : "28.80B",
+"pe" : "73.39",
+"fwpe" : "",
+"beta" : "",
+"eps" : "51.18",
+"dy" : "1.35",
+"ldiv" : "50.70",
+"shares" : "7.66M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677250",
+"name" : "TVS Srichakra Limited",
+"t" : "509243",
+"e" : "BOM",
+"l" : "3,756.00",
+"c" : "+84.50",
+"mc" : "28.80B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4458694",
+"name" : "JK Tyre \u0026 Industries Ltd.",
+"t" : "JKTYRE",
+"e" : "NSE",
+"l" : "149.35",
+"c" : "-3.80",
+"mc" : "33.91B",
+"cp" : "-2.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "700493",
+"name" : "Balkrishna Industries Limited",
+"t" : "BALKRISIND",
+"e" : "NSE",
+"l" : "1,085.70",
+"c" : "-9.15",
+"mc" : "209.71B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9163183",
+"name" : "Falcon Tyres Ltd",
+"t" : "509527",
+"e" : "BOM",
+"l" : "6.70",
+"c" : "0.00",
+"mc" : "520.19M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "678802",
+"name" : "Goodyear India Limited",
+"t" : "500168",
+"e" : "BOM",
+"l" : "1,188.50",
+"c" : "-11.75",
+"mc" : "27.42B",
+"cp" : "-0.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13445274",
+"name" : "Ceat Limited (Parent)",
+"t" : "CEATLTD",
+"e" : "NSE",
+"l" : "1,613.50",
+"c" : "-4.10",
+"mc" : "65.41B",
+"cp" : "-0.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5885777",
+"name" : "MRF Limited",
+"t" : "MRF",
+"e" : "NSE",
+"l" : "72,670.00",
+"c" : "+196.60",
+"mc" : "306.83B",
+"cp" : "0.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4170139",
+"name" : "Krypton Industries Ltd",
+"t" : "523550",
+"e" : "BOM",
+"l" : "10.88",
+"c" : "+0.51",
+"mc" : "160.84M",
+"cp" : "4.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "111449",
+"name" : "Indag Rubber Ltd",
+"t" : "509162",
+"e" : "BOM",
+"l" : "168.00",
+"c" : "+0.20",
+"mc" : "4.43B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1515884",
+"name" : "Govind Rubber Ltd",
+"t" : "509148",
+"e" : "BOM",
+"l" : "17.70",
+"c" : "+0.25",
+"mc" : "389.89M",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "263792492029598",
+"name" : "Innovative Tyres \u0026 Tubes Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "No. 10, Jawahar Road, Post Box No. 81, MADURAI, 625002, India",
+"phone": "+91-452-2532116",
+"fax": "+91-452-2531591",
+"url": "http:\u002F\u002Fwww.tvstyres.com\u002F",
+"overview" : "TVS Srichakra Limited is a holding company. The Company is engaged in the manufacture of tires and tubes, including road use tires\u002Ftubes, which includes two wheeler tires and tubes\u003B off the road tires used in implements\u002Fforklifts\u002Findustrial tractors, and other machinery, non-highway service tires, such as sand tires, grader tires, compactor tires, and vintage tires, multi-purpose tires (MPT), flotation tires, radial tires, tubeless tires, farm tires and tubes used therein, and solid resilient tires. It offers tires for motorcycles, such as 100\u002F80-18 REAR 53P, 100\u002F90-17 REAR 55P, 100\u002F90-18 REAR 56P and 110\u002F80-17 REAR 57P\u003B Scooters, such as 100\u002F90-10 56J, 2.75-10 37J 4PR and 2.75-14 37J\u003B Mopeds, such as 2.25-16 36L 6PR, 2.25-16 REAR 36L 6PR, 2.25-19 REAR 42L 6PR and 2.50-16 FRONT 41L 6PR, and Loader Services, such as 7.00-15 TT. Its subsidiaries include TVS Srichakra Investments Limited and TVS Europe Distribution Limited."
+} ]
+, "management" : [
+{
+"name" : "K. V. Ganesh",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "P. Srinivasan",
+"title" : "Compliance Officer, Secretary"
+}
+,
+{
+"name" : "Shobhana Ramachandhran",
+"age" : "54",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "R. Naresh",
+"title" : "Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "V Ramakrishnan",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "P. Vijayaraghavan",
+"age" : "64",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Arumugam A.",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rasesh R. Doshi",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "H. Janardana Iyer",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

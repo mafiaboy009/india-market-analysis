@@ -1,0 +1,279 @@
+
+// [
+{
+"symbol" : "526668",
+"exchange" : "BOM",
+"id": "715548",
+"t" : "526668",
+"e" : "BOM",
+"name" : "Kamat Hotels India Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:526668"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:526668"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:526668"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002710)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "18.25%",
+"annual" : "24.01%",
+"ttm" : "1.22%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "48.56%",
+"annual" : "33.73%",
+"ttm" : "24.87%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "29.78%",
+"ttm" : "36.00%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.20%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "114.76%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,383",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.80",
+"l" : "111.90",
+"cp" : "3.52",
+"ccol" : "chg",
+"op" : "108.70",
+"hi" : "113.00",
+"lo" : "108.70",
+"vo" : "15,406.00",
+"avvo" : "",
+"hi52" : "158.85",
+"lo52" : "29.70",
+"mc" : "2.65B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-2.44",
+"dy" : "",
+"ldiv" : "",
+"shares" : "23.58M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715548",
+"name" : "Kamat Hotels India Ltd.",
+"t" : "526668",
+"e" : "BOM",
+"l" : "111.90",
+"c" : "+3.80",
+"mc" : "2.65B",
+"cp" : "3.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6108380",
+"name" : "Advani Hotels \u0026 Resorts India Ltd.",
+"t" : "ADVANIHOTR",
+"e" : "NSE",
+"l" : "63.60",
+"c" : "+0.15",
+"mc" : "2.93B",
+"cp" : "0.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14468120",
+"name" : "Byke Hospitality Ltd",
+"t" : "531373",
+"e" : "BOM",
+"l" : "175.25",
+"c" : "-2.20",
+"mc" : "7.07B",
+"cp" : "-1.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12107747",
+"name" : "Viceroy Hotels Ltd.",
+"t" : "VICEROY",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "+0.05",
+"mc" : "674.26M",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4101786",
+"name" : "Reliable Ventures Ltd",
+"t" : "532124",
+"e" : "BOM",
+"l" : "15.55",
+"c" : "+0.50",
+"mc" : "171.25M",
+"cp" : "3.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15979287",
+"name" : "H.S.India Ltd",
+"t" : "532145",
+"e" : "BOM",
+"l" : "10.20",
+"c" : "-0.06",
+"mc" : "166.61M",
+"cp" : "-0.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715551",
+"name" : "Graviss Hospitality Ltd",
+"t" : "509546",
+"e" : "BOM",
+"l" : "19.50",
+"c" : "0.00",
+"mc" : "1.38B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13981377",
+"name" : "India Tourism Development Corp Ltd",
+"t" : "532189",
+"e" : "BOM",
+"l" : "430.50",
+"c" : "+11.20",
+"mc" : "36.68B",
+"cp" : "2.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13782415",
+"name" : "Royal Orchid Hotels Limited",
+"t" : "ROHLTD",
+"e" : "NSE",
+"l" : "201.10",
+"c" : "+2.10",
+"mc" : "5.53B",
+"cp" : "1.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6207939",
+"name" : "Benares Hotels Ltd",
+"t" : "509438",
+"e" : "BOM",
+"l" : "1,132.00",
+"c" : "+30.90",
+"mc" : "1.47B",
+"cp" : "2.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11872115",
+"name" : "Indian Hotels Company Ltd",
+"t" : "INDHOTEL",
+"e" : "NSE",
+"l" : "133.15",
+"c" : "+1.70",
+"mc" : "158.89B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "70-C, Nehru Road, Vile Parle (East), MUMBAI, 400099, India",
+"phone": "+91-22-26164000",
+"fax": "+91-22-26164115",
+"url": "http:\u002F\u002Fwww.khil.com\u002F",
+"overview" : "Kamat Hotels (India) Limited is engaged in the business of hospitality and allied businesses. The Company principally operates hotels and restaurants. The Company\u0027s activities are categorized as: operation of hotels owned by the Company, management of hotels owned by other parties under contract, catering services and timeshare. It has four brands, such as Orchid, VITS, Gadh and Lotus. It offers the VITS hospitality in Mumbai, Aurangabad, Nagpur, Pune, Nashik, Delhi and Bhubaneshwar. Its subsidiaries include Fort Jadhavgadh Hotels Private Limited, Fort Mahodadhinivas Palace Private Limited, Green Dot Restaurants Private Limited, Kamats Restaurants (India) Private Limited and Orchid Hotels Pune Private Limited. Fort Jadhavgadh Hotels Private Limited offering includes Maharaja Suite and Maharani Suite. Orchid Hotels Pune Private Limited offering includes Orchid Deluxe Room and Orchid Executive Room. Lotus Resorts is a chain of resorts and hotels located at Goa, Konark and Silvassa."
+} ]
+, "management" : [
+{
+"name" : "Vithal Venketesh Kamat",
+"age" : "60",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Amit Vyas",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Babu A. Devadiga",
+"title" : "Vice President - Finance"
+}
+,
+{
+"name" : "Bipinchandra C. Kamdar",
+"title" : "Director"
+}
+,
+{
+"name" : "Dinkar D. Jadhav",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Shobha Singh Thakur",
+"age" : "88",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Himali H. Mehta",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

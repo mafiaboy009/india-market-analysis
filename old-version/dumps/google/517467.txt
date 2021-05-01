@@ -1,0 +1,262 @@
+
+// [
+{
+"symbol" : "517467",
+"exchange" : "BOM",
+"id": "1659606",
+"t" : "517467",
+"e" : "BOM",
+"name" : "Marsons Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=MARS.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:517467"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:517467"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:517467"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-102.55%",
+"annual" : "-9.46%",
+"ttm" : "-73.08%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-43.25%",
+"annual" : "0.16%",
+"ttm" : "-60.99%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.87%",
+"ttm" : "-58.26%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-4.86%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-20.69%",
+"ttm" : ""
+}
+]
+, "c" : "-0.14",
+"l" : "4.72",
+"cp" : "-2.88",
+"ccol" : "chr",
+"op" : "4.99",
+"hi" : "4.99",
+"lo" : "4.69",
+"vo" : "30,078.00",
+"avvo" : "",
+"hi52" : "14.40",
+"lo52" : "4.65",
+"mc" : "117.04M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-19.64",
+"dy" : "",
+"ldiv" : "",
+"shares" : "25.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1659606",
+"name" : "Marsons Ltd",
+"t" : "517467",
+"e" : "BOM",
+"l" : "4.72",
+"c" : "-0.14",
+"mc" : "117.04M",
+"cp" : "-2.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6638419",
+"name" : "Alfa Transformers Ltd",
+"t" : "517546",
+"e" : "BOM",
+"l" : "32.00",
+"c" : "-0.80",
+"mc" : "222.56M",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6744385",
+"name" : "Shilchar Technologies Ltd",
+"t" : "531201",
+"e" : "BOM",
+"l" : "390.00",
+"c" : "+5.00",
+"mc" : "1.49B",
+"cp" : "1.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6476162",
+"name" : "R T S Power Corpn Ltd",
+"t" : "531215",
+"e" : "BOM",
+"l" : "58.00",
+"c" : "+1.00",
+"mc" : "473.77M",
+"cp" : "1.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3425782",
+"name" : "CG Power and Industrial Solutions Ltd(P)",
+"t" : "CGPOWER",
+"e" : "NSE",
+"l" : "82.45",
+"c" : "-0.20",
+"mc" : "51.64B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11885845",
+"name" : "Accurate Transformers Ltd",
+"t" : "530513",
+"e" : "BOM",
+"l" : "24.35",
+"c" : "0.00",
+"mc" : "72.94M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15338302",
+"name" : "Indo Tech Transformers Limited",
+"t" : "INDOTECH",
+"e" : "NSE",
+"l" : "198.80",
+"c" : "+1.45",
+"mc" : "2.11B",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8257960",
+"name" : "Tarapur Transformers Ltd",
+"t" : "TARAPUR",
+"e" : "NSE",
+"l" : "6.45",
+"c" : "-0.05",
+"mc" : "125.78M",
+"cp" : "-0.77",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2758225",
+"name" : "IMP Powers Ltd",
+"t" : "INDLMETER",
+"e" : "NSE",
+"l" : "103.95",
+"c" : "-0.85",
+"mc" : "898.63M",
+"cp" : "-0.81",
+"ccol" : "chr"
+}
+,
+{
+"id" : "100085",
+"name" : "Voltamp Transformers Limited",
+"t" : "VOLTAMP",
+"e" : "NSE",
+"l" : "1,138.00",
+"c" : "+8.65",
+"mc" : "11.41B",
+"cp" : "0.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9928106",
+"name" : "ECE Industries Ltd",
+"t" : "ECEIND",
+"e" : "NSE",
+"l" : "362.85",
+"c" : "+10.80",
+"mc" : "2.65B",
+"cp" : "3.07",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "4, Chandni Chowk Street, KOLKATA, 700072, India",
+"phone": "+91-33-66056000",
+"fax": "+91-33-24927633",
+"url": "http:\u002F\u002Fwww.marsonsonline.com\u002F",
+"overview" : "Marsons Limited is an India-based manufacturer of electrical transformers. The Company is engaged in manufacturing, supplying, erecting, testing and commissioning of power and distribution transformers. The Company\u0027s products also include furnace transformers, Unitized Transportable Substation (USS) transformers, dry type transformers, cast resin transformers, solar transformers and instrumental transformers. It manufactures a range of distribution transformers ranging from 10 kilovolt amperes (KVA) to 2,000 KVA with all voltage class and up to 33 kilovolts (kV) with single and three phase Transformers\u003B power transformers up to 160 megavolt amperes (MVA) 220 kV Class\u003B cast resin transformers up to 5,000 KVA and 11 kV Class, and solar transformers with rating up to three MVA. It offers various furnace transformers, such as Arc Furnace Transformers, Submerged Arc Furnace Transformers, Ladle Furnace Transformers, Induction Furnace Transformers and direct current Arc Furnace Transformers."
+} ]
+, "management" : [
+{
+"name" : "Akhilesh Kotia",
+"age" : "50",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Rajesh Kumar Jha",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sultana Khan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ananchaperumal Pillai Subramonia Pillai",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Uttara Sharma",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

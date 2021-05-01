@@ -1,0 +1,182 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 25452668,
+            "fmt": "25.45M",
+            "longFmt": "25,452,668"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "floatShares": {
+            "raw": 2420900,
+            "fmt": "2.42M",
+            "longFmt": "2,420,900"
+          },
+          "sharesOutstanding": {
+            "raw": 10000700,
+            "fmt": "10M",
+            "longFmt": "10,000,700"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.646212,
+            "fmt": "-0.65"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 41.579,
+            "fmt": "41.58"
+          },
+          "priceToBook": {
+            "raw": 0.06493663,
+            "fmt": "0.06"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -648358,
+            "fmt": "-648.36k",
+            "longFmt": "-648,358"
+          },
+          "trailingEps": {
+            "raw": -0.072,
+            "fmt": "-0.07"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {},
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": -0.5140187,
+            "fmt": "-51.40%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "901-902, Atlanta Center",
+          "address2": "Opposite Udyog Bhavan Sonawala Lane Goregaon (East)",
+          "city": "Mumbai",
+          "zip": "400063",
+          "country": "India",
+          "phone": "91 22 4321 1800",
+          "fax": "91 22 4321 1875",
+          "website": "http://www.unistarmultimedia.com",
+          "industry": "Entertainment - Diversified",
+          "sector": "Services",
+          "longBusinessSummary": "Unistar Multimedia Limited operates in the multimedia products publishing business in India. The company was formerly known as Kumbh Finance Limited and changed its name to Unistar Multimedia Limited in May 2000. Unistar Multimedia Limited was incorporated in 1991 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 2.7,
+            "fmt": "2.70"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 1474000,
+            "fmt": "1.47M",
+            "longFmt": "1,474,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.153,
+            "fmt": "0.15"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {},
+          "debtToEquity": {},
+          "revenuePerShare": {},
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {},
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

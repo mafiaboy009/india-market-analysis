@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "534091",
+"exchange" : "BOM",
+"id": "958173341302657",
+"t" : "534091",
+"e" : "BOM",
+"name" : "Multi Commodity Exchange of India Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:534091"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:534091"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:534091"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "30.79%",
+"annual" : "48.79%",
+"ttm" : "38.42%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "16.50%",
+"annual" : "23.55%",
+"ttm" : "16.82%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "30.71%",
+"ttm" : "24.01%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.79%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.40%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "388",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.60",
+"l" : "755.35",
+"cp" : "0.21",
+"ccol" : "chg",
+"op" : "755.00",
+"hi" : "761.95",
+"lo" : "745.00",
+"vo" : "27,170.00",
+"avvo" : "",
+"hi52" : "1,258.20",
+"lo52" : "665.00",
+"mc" : "38.40B",
+"pe" : "40.00",
+"fwpe" : "",
+"beta" : "",
+"eps" : "18.88",
+"dy" : "1.99",
+"ldiv" : "15.00",
+"shares" : "51.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "958173341302657",
+"name" : "Multi Commodity Exchange of India Ltd.",
+"t" : "534091",
+"e" : "BOM",
+"l" : "755.35",
+"c" : "+1.60",
+"mc" : "38.40B",
+"cp" : "0.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6394377",
+"name" : "Network Ltd",
+"t" : "523558",
+"e" : "BOM",
+"l" : "5.00",
+"c" : "0.00",
+"mc" : "245.74M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6580161",
+"name" : "Mefcom Capital Markets Ltd",
+"t" : "531176",
+"e" : "BOM",
+"l" : "19.95",
+"c" : "-0.95",
+"mc" : "182.35M",
+"cp" : "-4.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4992931",
+"name" : "Alka Securities Ltd",
+"t" : "532166",
+"e" : "BOM",
+"l" : "0.52",
+"c" : "-0.02",
+"mc" : "49.89M",
+"cp" : "-3.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9337190",
+"name" : "63 Moons Technologies Ltd",
+"t" : "63MOONS",
+"e" : "NSE",
+"l" : "95.45",
+"c" : "+1.40",
+"mc" : "4.39B",
+"cp" : "1.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9113181",
+"name" : "Geojit Financial Services Ltd",
+"t" : "GEOJITFSL",
+"e" : "NSE",
+"l" : "98.55",
+"c" : "+0.20",
+"mc" : "23.07B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "866934787507947",
+"name" : "BSE Ltd",
+"t" : "BSE",
+"e" : "NSE",
+"l" : "807.90",
+"c" : "+7.10",
+"mc" : "43.36B",
+"cp" : "0.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16215470",
+"name" : "Aarya Global Shares and Securities Ltd",
+"t" : "531731",
+"e" : "BOM",
+"l" : "0.46",
+"c" : "0.00",
+"mc" : "9.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4379740",
+"name" : "JainCo Projects (India) Ltd",
+"t" : "526865",
+"e" : "BOM",
+"l" : "2.42",
+"c" : "0.00",
+"mc" : "24.20M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7083285",
+"name" : "BNK Capital Markets Ltd",
+"t" : "500069",
+"e" : "BOM",
+"l" : "110.00",
+"c" : "+1.35",
+"mc" : "1.09B",
+"cp" : "1.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10248917",
+"name" : "ISL Consulting Ltd",
+"t" : "511609",
+"e" : "BOM",
+"l" : "18.65",
+"c" : "-0.10",
+"mc" : "225.00M",
+"cp" : "-0.53",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Exchange Square Suren Road chakala, Andheri (East), MUMBAI, 400093, India",
+"phone": "+91-22-67318888",
+"fax": "+91-22-66494151",
+"url": "http:\u002F\u002Fwww.mcxindia.com\u002F",
+"overview" : "Multi Commodity Exchange of India Limited (MCX) is a holding company. The Company is engaged in Facilitating Trading, and Clearing and Settlement of Commodity Derivatives. It operates as a commodity futures exchange. It offers its products in various segments, such as Bullion, including Gold, Gold Mini, Gold Petal and Silver\u003B Base Metals, including, Aluminum, Copper, Lead, Nickel and Zinc\u003B Energy, including Crude Oil, Brent Crude Oil and Natural Gas, and Agro Commodities, including Cardamom, Cotton, Crude Palm Oil, Kapas and Mentha Oil. Its MCXCOMDEX is a real-time commodity index based on commodity futures price of an exchange. Other commodity indices developed by the Company include MCXAgri, MCXEnergy and MCXMetal. Its online trading platform is accessible to its members through its trader workstation or computer-to-computer link (CTCL) using multiple connectivity media, including point of presence (POP) connectivity, very small aperture terminal (VSATs) and the Internet."
+} ]
+, "management" : [
+{
+"name" : "Saurabh Chandra",
+"title" : "Chairman of the Governing Board"
+}
+,
+{
+"name" : "Praveen Kumar Singhal",
+"age" : "62",
+"title" : "President"
+}
+,
+{
+"name" : "Mrugank Paranjape",
+"title" : "Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Sanjay Wadhwa",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ramalingam M.",
+"title" : "Senior Vice President - Market Operations"
+}
+,
+{
+"name" : "Raghavendra Prasad",
+"title" : "Senior Vice President - Legal"
+}
+,
+{
+"name" : "J. B. Ram",
+"title" : "Senior Vice President - Membership and Inspection"
+}
+,
+{
+"name" : "P. P. Kaladharan",
+"title" : "Chief Technology Officer"
+}
+,
+{
+"name" : "Rajendra Gogate",
+"title" : "Vice President - Administration"
+}
+,
+{
+"name" : "Narendra Kumar Ahlawat",
+"title" : "Chief Regulatory Officer"
+}
+]
+,"moreresources" : [
+]
+}]

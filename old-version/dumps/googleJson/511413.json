@@ -1,0 +1,275 @@
+
+ [
+{
+"symbol" : "511413",
+"exchange" : "BOM",
+"id": "724527",
+"t" : "511413",
+"e" : "BOM",
+"name" : "Crest Ventures Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:511413"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:511413"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:511413"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "48.30%",
+"annual" : "11.41%",
+"ttm" : "50.59%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "56.60%",
+"annual" : "26.85%",
+"ttm" : "65.30%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "28.67%",
+"ttm" : "66.44%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.33%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.98%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "13",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.95",
+"l" : "222.80",
+"cp" : "1.34",
+"ccol" : "chg",
+"op" : "222.00",
+"hi" : "222.80",
+"lo" : "219.50",
+"vo" : "1,028.00",
+"avvo" : "",
+"hi52" : "295.00",
+"lo52" : "116.00",
+"mc" : "5.74B",
+"pe" : "6.03",
+"fwpe" : "",
+"beta" : "",
+"eps" : "36.95",
+"dy" : "0.22",
+"ldiv" : "0.50",
+"shares" : "26.05M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "724527",
+"name" : "Crest Ventures Ltd",
+"t" : "511413",
+"e" : "BOM",
+"l" : "222.80",
+"c" : "+2.95",
+"mc" : "5.74B",
+"cp" : "1.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "719956",
+"name" : "International Travel House Ltd.",
+"t" : "500213",
+"e" : "BOM",
+"l" : "195.60",
+"c" : "+6.20",
+"mc" : "1.56B",
+"cp" : "3.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8276809",
+"name" : "Cox \u0026 Kings Ltd",
+"t" : "COX\u0026KINGS",
+"e" : "NSE",
+"l" : "241.00",
+"c" : "+1.25",
+"mc" : "42.51B",
+"cp" : "0.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715562",
+"name" : "Balmer Lawrie Investments Ltd.",
+"t" : "532485",
+"e" : "BOM",
+"l" : "429.50",
+"c" : "-6.30",
+"mc" : "9.54B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "681116",
+"name" : "Thomas Cook India Ltd",
+"t" : "500413",
+"e" : "BOM",
+"l" : "247.40",
+"c" : "+11.25",
+"mc" : "89.78B",
+"cp" : "4.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "373957779752490",
+"name" : "Ace Tours Worldwide Ltd",
+"t" : "536492",
+"e" : "BOM",
+"l" : "2.08",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "842931798669268",
+"name" : "VMV Holidays Ltd",
+"t" : "539222",
+"e" : "BOM",
+"l" : "13.70",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "724490",
+"name" : "Parsoli Corporation Ltd.",
+"t" : "530071",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-18.05",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16139803",
+"name" : "Balmer Lawrie and Company Ltd",
+"t" : "BALMLAWRIE",
+"e" : "NSE",
+"l" : "231.90",
+"c" : "+0.75",
+"mc" : "26.45B",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2716300",
+"name" : "Warren Tea Ltd",
+"t" : "508494",
+"e" : "BOM",
+"l" : "106.40",
+"c" : "-0.55",
+"mc" : "1.27B",
+"cp" : "-0.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12265286",
+"name" : "Dalmia Bharat Sugar and Industries Ltd",
+"t" : "DALMIASUG",
+"e" : "NSE",
+"l" : "106.00",
+"c" : "-1.10",
+"mc" : "8.66B",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "4th Floor Kalpataru Heritage, 127 MG Road, Fort, MUMBAI, 400001, India",
+"phone": "+91-22-40512500",
+"fax": "+91-22-40512555",
+"url": "http:\u002F\u002Fcrest.co.in\u002F",
+"overview" : "Crest Ventures Limited, formerly Sharyans Resources Limited, is a non-banking financial company (NBFC). The Company is engaged in the acquisition of securities. The Company is also engaged in real estate and related activities. The Company\u0027s segments include Broking and related activities, Real estate and related activities, Travel and related activities, Investing and financial activities, and Others. The Company\u0027s primary business activities are broking on the National Commodities and Derivatives Exchange Limited, The Multi Commodity Exchange, The Bombay Stock Exchange Limited, The National Stock Exchange of India and Foreign Exchange Dealers Association of India, real estate development, investing in subsidiary companies, and travel and related services. The Company is also focused on asset and wealth management business. Its real estate projects include Palladium, Chennai\u003B Club Crest, Chennai, and Crest Greens, Raipur."
+} ]
+, "management" : [
+{
+"name" : "Parag Shah",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manasi Modak",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vijay Choraria",
+"age" : "50",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Vasudeo R. Galkar",
+"age" : "70",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Rajeev Sharma",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Mahesh Shirodkar",
+"age" : "55",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

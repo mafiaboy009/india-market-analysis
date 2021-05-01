@@ -1,0 +1,280 @@
+
+ [
+{
+"symbol" : "533289",
+"exchange" : "BOM",
+"id": "1031403",
+"t" : "533289",
+"e" : "BOM",
+"name" : "Kesar Terminals \u0026 Infrastructure Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533289"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533289"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533289"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "38.55%",
+"annual" : "-12.26%",
+"ttm" : "35.34%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "49.37%",
+"annual" : "30.01%",
+"ttm" : "55.54%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "50.08%",
+"ttm" : "59.96%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.80%",
+"ttm" : "8.11%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-8.63%",
+"ttm" : "24.40%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "66",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.00",
+"l" : "151.35",
+"cp" : "-1.30",
+"ccol" : "chr",
+"op" : "154.00",
+"hi" : "156.80",
+"lo" : "151.35",
+"vo" : "1,044.00",
+"avvo" : "",
+"hi52" : "250.00",
+"lo52" : "143.00",
+"mc" : "1.64B",
+"pe" : "10.64",
+"fwpe" : "",
+"beta" : "",
+"eps" : "14.22",
+"dy" : "0.33",
+"ldiv" : "0.50",
+"shares" : "10.93M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1031403",
+"name" : "Kesar Terminals \u0026 Infrastructure Ltd",
+"t" : "533289",
+"e" : "BOM",
+"l" : "151.35",
+"c" : "-2.00",
+"mc" : "1.64B",
+"cp" : "-1.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16701002",
+"name" : "Ruchi Infrastructure Ltd.",
+"t" : "RUCHINFRA",
+"e" : "NSE",
+"l" : "4.15",
+"c" : "-0.20",
+"mc" : "861.65M",
+"cp" : "-4.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12410892",
+"name" : "Container Corporation of India Ltd",
+"t" : "CONCOR",
+"e" : "NSE",
+"l" : "1,327.00",
+"c" : "-2.75",
+"mc" : "324.08B",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12954185",
+"name" : "Vadilal Industries Ltd",
+"t" : "VADILALIND",
+"e" : "NSE",
+"l" : "928.50",
+"c" : "+41.50",
+"mc" : "6.68B",
+"cp" : "4.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11679992",
+"name" : "Gujarat Pipavav Port Ltd",
+"t" : "GPPL",
+"e" : "NSE",
+"l" : "145.00",
+"c" : "+2.75",
+"mc" : "69.49B",
+"cp" : "1.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5263425",
+"name" : "Allcargo Logistics Ltd",
+"t" : "ALLCARGO",
+"e" : "NSE",
+"l" : "177.50",
+"c" : "-0.15",
+"mc" : "43.45B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11312739",
+"name" : "Transport Corporation of India Limited",
+"t" : "TCI",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "-0.90",
+"mc" : "21.50B",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5045847",
+"name" : "Gateway Distriparks Ltd.",
+"t" : "GDL",
+"e" : "NSE",
+"l" : "205.00",
+"c" : "+3.75",
+"mc" : "22.32B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "253239287644492",
+"name" : "Prime Customer Services Ltd",
+"t" : "540404",
+"e" : "BOM",
+"l" : "186.00",
+"c" : "+1.05",
+"mc" : "646.03M",
+"cp" : "0.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "141988034760746",
+"name" : "Snowman Logistics Ltd",
+"t" : "SNOWMAN",
+"e" : "NSE",
+"l" : "52.05",
+"c" : "-0.15",
+"mc" : "8.61B",
+"cp" : "-0.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9241636",
+"name" : "Shreyas Shipping \u0026 Logistics Ltd",
+"t" : "SHREYAS",
+"e" : "NSE",
+"l" : "560.05",
+"c" : "-1.70",
+"mc" : "12.25B",
+"cp" : "-0.30",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Oriental House, 6th Floor 7, 7 Jamshedji Tata Road Churchgate, MUMBAI, 400020, India",
+"phone": "+91-22-22042396",
+"fax": "+91-22-22876162",
+"url": "http:\u002F\u002Fwww.kesarinfra.com\u002F",
+"overview" : "Kesar Terminals \u0026 Infrastructure Limited is an India-based holding company. The Company is involved in the storage and handling services of liquid chemicals. The Company operates through the Bulk liquid storage facility segment. The Company is engaged in the business of renting of liquid storage tanks at Kandla. The Company is in the process of commencing its operation at Pipavav and Kakinada Port. The Company\u0027s subsidiary is Kesar Multimodal Logistics Limited. Kesar Multimodal Logistics Limited is developing a Composite Logistics Hub Project at Powerkheda, Madhya Pradesh. The Composite Logistics Hub is developed in two Phases. The Hub covers an area of approximately 88.3 acres, which includes the development of a range of infrastructure, including rail sidings for cargo and container movement, railside warehouses, inland container depot (ICD), cold storage, food grains warehouse and development of common facilities for putting up agri-processing units."
+} ]
+, "management" : [
+{
+"name" : "H. R. Kilachand",
+"age" : "57",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sant Khare",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Alok Singh",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Jayanto Kumar Devgupta",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Rohan Kilachand",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Jayant Narayan Godbole",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "R. S. Loona",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

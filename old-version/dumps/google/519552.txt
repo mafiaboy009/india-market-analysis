@@ -1,0 +1,296 @@
+
+// [
+{
+"symbol" : "519552",
+"exchange" : "BOM",
+"id": "715425",
+"t" : "519552",
+"e" : "BOM",
+"name" : "Heritage Foods Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:519552"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:519552"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:519552"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.89%",
+"annual" : "15.36%",
+"ttm" : "11.00%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.85%",
+"annual" : "6.37%",
+"ttm" : "3.49%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.87%",
+"ttm" : "5.12%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "37.69%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "69.43%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,994",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.80",
+"l" : "679.00",
+"cp" : "0.27",
+"ccol" : "chg",
+"op" : "685.40",
+"hi" : "686.60",
+"lo" : "671.00",
+"vo" : "822.00",
+"avvo" : "",
+"hi52" : "1,566.35",
+"lo52" : "650.00",
+"mc" : "31.49B",
+"pe" : "12.49",
+"fwpe" : "",
+"beta" : "",
+"eps" : "54.38",
+"dy" : "0.22",
+"ldiv" : "1.50",
+"shares" : "46.40M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715425",
+"name" : "Heritage Foods Ltd",
+"t" : "519552",
+"e" : "BOM",
+"l" : "679.00",
+"c" : "+1.80",
+"mc" : "31.49B",
+"cp" : "0.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "227017",
+"name" : "Modern Dairies Ltd",
+"t" : "519287",
+"e" : "BOM",
+"l" : "8.99",
+"c" : "+0.33",
+"mc" : "209.65M",
+"cp" : "3.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "723013",
+"name" : "Himalya International Ltd.",
+"t" : "526899",
+"e" : "BOM",
+"l" : "38.85",
+"c" : "+1.85",
+"mc" : "2.25B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "471723530320234",
+"name" : "RCL Retail Ltd",
+"t" : "534708",
+"e" : "BOM",
+"l" : "14.75",
+"c" : "+0.15",
+"mc" : "181.57M",
+"cp" : "1.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1019631387859748",
+"name" : "Sheetal Cool Products Ltd",
+"t" : "540757",
+"e" : "BOM",
+"l" : "125.20",
+"c" : "-0.80",
+"mc" : "1.31B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "676532729457964",
+"name" : "Raghuvansh Agrofarms Ltd",
+"t" : "538921",
+"e" : "BOM",
+"l" : "45.60",
+"c" : "0.00",
+"mc" : "543.44M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15279585",
+"name" : "Britannia Industries Ltd",
+"t" : "BRITANNIA",
+"e" : "NSE",
+"l" : "4,953.85",
+"c" : "-8.05",
+"mc" : "594.38B",
+"cp" : "-0.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5884806",
+"name" : "Kwality Ltd",
+"t" : "KWALITY",
+"e" : "NSE",
+"l" : "87.85",
+"c" : "+1.10",
+"mc" : "20.85B",
+"cp" : "1.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4779557",
+"name" : "Hatsun Agro Product Ltd",
+"t" : "531531",
+"e" : "BOM",
+"l" : "770.15",
+"c" : "-3.25",
+"mc" : "117.27B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9957022",
+"name" : "Diana Tea Company Ltd",
+"t" : "530959",
+"e" : "BOM",
+"l" : "23.65",
+"c" : "+0.15",
+"mc" : "350.81M",
+"cp" : "0.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8926652",
+"name" : "Asian Tea and Exports Ltd",
+"t" : "519532",
+"e" : "BOM",
+"l" : "16.50",
+"c" : "+0.60",
+"mc" : "165.00M",
+"cp" : "3.77",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "6-3 -541 \u002FC, Punjagutta, HYDERABAD, 500082, India",
+"phone": "+91-40-23391221",
+"fax": "+91-40-30685458",
+"url": "http:\u002F\u002Fwww.heritagefoods.in\u002F",
+"overview" : "Heritage Foods Limited, formerly Heritage Foods (India) Ltd., is a fast-moving consumer goods (FMCG) company. The Company\u0027s segments are Dairy, Retail, Agri, Bakery and Renewable Energy. Its principal products\u002Fservices are milk, value added products and FMCG (food and non-food). The Dairy segment mainly deals with procuring milk, processing and selling of milk, value added products, fat products, skimmed milk powder, tradable goods and job work. The Retail segment mainly deals with buying and selling of FMCG-food, FMCG-non-food, and fruits and vegetables. The Agri segment mainly deals with procuring, processing and selling of fruits and vegetables, tradable goods and job works. The Bakery segment mainly deals with procurement, production and selling of bakery products. The Renewable Energy segment mainly deals with generating and supply of solar power and wind power to the dairy segment for its captive consumption. It has operations across approximately 10 states in India."
+} ]
+, "management" : [
+{
+"name" : "M. Sambasiva Rao Ph.D.",
+"title" : "President"
+}
+,
+{
+"name" : "Nara Bhuvaneswari",
+"age" : "52",
+"title" : "Executive Vice Chairperson of the Board, Managing Director"
+}
+,
+{
+"name" : "A. Prabhakara Naidu",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Umakanta Barik",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "N. Brahmani",
+"age" : "26",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "S. Jagdish Krishnan",
+"title" : "Chief Operating Officer - Retail \u0026 Bakery Division"
+}
+,
+{
+"name" : "K. Durga Prasad Rao",
+"title" : "Chief Operating Officer - Dairy Division"
+}
+,
+{
+"name" : "Anil Kumar Srivastava",
+"title" : "Chief Operating Officer - Agri Division"
+}
+,
+{
+"name" : "D. Seetharamaiah",
+"age" : "88",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "V. Nagaraja Naidu",
+"age" : "67",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

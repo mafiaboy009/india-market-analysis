@@ -1,0 +1,348 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 89505841152,
+            "fmt": "89.51B",
+            "longFmt": "89,505,841,152"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.08409,
+            "fmt": "8.41%"
+          },
+          "floatShares": {
+            "raw": 331595113,
+            "fmt": "331.6M",
+            "longFmt": "331,595,113"
+          },
+          "sharesOutstanding": {
+            "raw": 1041299968,
+            "fmt": "1.04B",
+            "longFmt": "1,041,299,968"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 173.726,
+            "fmt": "173.73"
+          },
+          "priceToBook": {
+            "raw": 0.2955804,
+            "fmt": "0.30"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1364688000,
+            "fmt": "2013-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 1.448,
+            "fmt": "144.80%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 5174520832,
+            "fmt": "5.17B",
+            "longFmt": "5,174,520,832"
+          },
+          "trailingEps": {
+            "raw": 4.25,
+            "fmt": "4.25"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.455,
+            "fmt": "1.46"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": -0.43468714,
+            "fmt": "-43.47%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 49451296000,
+                  "fmt": "49.45B",
+                  "longFmt": "49,451,296,000"
+                },
+                "earnings": {
+                  "raw": 18550761000,
+                  "fmt": "18.55B",
+                  "longFmt": "18,550,761,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 56186774000,
+                  "fmt": "56.19B",
+                  "longFmt": "56,186,774,000"
+                },
+                "earnings": {
+                  "raw": 16640759000,
+                  "fmt": "16.64B",
+                  "longFmt": "16,640,759,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 42218793000,
+                  "fmt": "42.22B",
+                  "longFmt": "42,218,793,000"
+                },
+                "earnings": {
+                  "raw": -15172431000,
+                  "fmt": "-15.17B",
+                  "longFmt": "-15,172,431,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 61533070000,
+                  "fmt": "61.53B",
+                  "longFmt": "61,533,070,000"
+                },
+                "earnings": {
+                  "raw": 5174521000,
+                  "fmt": "5.17B",
+                  "longFmt": "5,174,521,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2012",
+                "revenue": {
+                  "raw": 10419600000,
+                  "fmt": "10.42B",
+                  "longFmt": "10,419,600,000"
+                },
+                "earnings": {
+                  "raw": 4406500000,
+                  "fmt": "4.41B",
+                  "longFmt": "4,406,500,000"
+                }
+              },
+              {
+                "date": "3Q2012",
+                "revenue": {
+                  "raw": 11813800000,
+                  "fmt": "11.81B",
+                  "longFmt": "11,813,800,000"
+                },
+                "earnings": {
+                  "raw": 4636000000,
+                  "fmt": "4.64B",
+                  "longFmt": "4,636,000,000"
+                }
+              },
+              {
+                "date": "4Q2012",
+                "revenue": {
+                  "raw": 11393400000,
+                  "fmt": "11.39B",
+                  "longFmt": "11,393,400,000"
+                },
+                "earnings": {
+                  "raw": 5087700000,
+                  "fmt": "5.09B",
+                  "longFmt": "5,087,700,000"
+                }
+              },
+              {
+                "date": "1Q2013",
+                "revenue": {
+                  "raw": 13800007000,
+                  "fmt": "13.8B",
+                  "longFmt": "13,800,007,000"
+                },
+                "earnings": {
+                  "raw": 7933760000,
+                  "fmt": "7.93B",
+                  "longFmt": "7,933,760,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Door No. 16/355 & 16/365A",
+          "address2": "Udupi District",
+          "city": "Manipal",
+          "zip": "576104",
+          "country": "India",
+          "phone": "91 82 0257 1181",
+          "website": "http://www.syndicatebank.in",
+          "industry": "Money Center Banks",
+          "sector": "Financial",
+          "longBusinessSummary": "Syndicate Bank provides banking products and services to corporate, small and medium enterprises, and retail customers in India. The company offers deposit products that comprise savings bank accounts, current accounts, and term deposits. It also provides retail loans, agricultural loans, other priority sector loans, and SME loans. In addition, the company offers corporate finance, such as working capital finance; export credit; term loan finance; project finance that includes infrastructure projects; loan against future rent receivables; and project appraisal and syndication. Further, it provides online will writing, Aadhaar seeding, NEFT/RTGS, online tax payment, online shopping and utility bill payment, online income tax return, e-passbook, and customer care services. Additionally, the company offers Internet, mobile, SMS, and Tab banking services; debit and credit cards; cash management and capital market services; life insurance; non-life insurance products comprising mediclaim policy, home care policy, fire policy/stock/machinery/building insurance, burglary insurance, shopkeepers insurance, vehicle insurance, and electronic equipment insurance; mutual fund services; and De-mat services consisting of online trading and NSE market tracker services. Syndicate Bank also provides customer education services; and international banking products, such as non-resident (external) rupee, non-resident ordinary rupee, resident foreign currency, and foreign currency non-resident accounts, as well as manages exchange companies. As of March 31, 2017, it operated 3932 branches, including 1190 rural, 1091 semi-urban, 813 urban, and 838 metro branches in India; and 1 branch in London, as well as 3,974 ATMs. The company was formerly known as Canara Industrial and Banking Syndicate, Ltd. Syndicate Bank was founded in 1925 and is headquartered in Manipal, India.",
+          "fullTimeEmployees": 26606,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 51.35,
+            "fmt": "51.35"
+          },
+          "targetHighPrice": {
+            "raw": 102.0,
+            "fmt": "102.00"
+          },
+          "targetLowPrice": {
+            "raw": 61.0,
+            "fmt": "61.00"
+          },
+          "targetMeanPrice": {
+            "raw": 77.67,
+            "fmt": "77.67"
+          },
+          "targetMedianPrice": {
+            "raw": 70.0,
+            "fmt": "70.00"
+          },
+          "recommendationMean": {
+            "raw": 3.0,
+            "fmt": "3.00"
+          },
+          "recommendationKey": "hold",
+          "numberOfAnalystOpinions": {
+            "raw": 3,
+            "fmt": "3",
+            "longFmt": "3"
+          },
+          "totalCash": {
+            "raw": 88743600128,
+            "fmt": "88.74B",
+            "longFmt": "88,743,600,128"
+          },
+          "totalCashPerShare": {
+            "raw": 98.109,
+            "fmt": "98.11"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 128137953280,
+            "fmt": "128.14B",
+            "longFmt": "128,137,953,280"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 61533069312,
+            "fmt": "61.53B",
+            "longFmt": "61,533,069,312"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 50.539,
+            "fmt": "50.54"
+          },
+          "returnOnAssets": {
+            "raw": 0.0017,
+            "fmt": "0.17%"
+          },
+          "returnOnEquity": {
+            "raw": 0.0343,
+            "fmt": "3.43%"
+          },
+          "grossProfits": {
+            "raw": 61533070000,
+            "fmt": "61.53B",
+            "longFmt": "61,533,070,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {
+            "raw": -38000533504,
+            "fmt": "-38B",
+            "longFmt": "-38,000,533,504"
+          },
+          "earningsGrowth": {
+            "raw": 1.336,
+            "fmt": "133.60%"
+          },
+          "revenueGrowth": {
+            "raw": 0.283,
+            "fmt": "28.30%"
+          },
+          "grossMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.10665,
+            "fmt": "10.67%"
+          },
+          "profitMargins": {
+            "raw": 0.08409,
+            "fmt": "8.41%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

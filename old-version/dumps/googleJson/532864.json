@@ -1,0 +1,282 @@
+
+ [
+{
+"symbol" : "532864",
+"exchange" : "BOM",
+"id": "713528",
+"t" : "532864",
+"e" : "BOM",
+"name" : "Nelcast Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532864"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532864"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532864"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "5.91%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "8.85%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.19%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.39%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.71%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,035",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.25",
+"l" : "83.40",
+"cp" : "2.77",
+"ccol" : "chg",
+"op" : "84.50",
+"hi" : "84.50",
+"lo" : "82.75",
+"vo" : "8,887.00",
+"avvo" : "",
+"hi52" : "109.40",
+"lo52" : "51.00",
+"mc" : "7.32B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "1.08",
+"ldiv" : "0.90",
+"shares" : "87.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "713528",
+"name" : "Nelcast Limited",
+"t" : "532864",
+"e" : "BOM",
+"l" : "83.40",
+"c" : "+2.25",
+"mc" : "7.32B",
+"cp" : "2.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5199689",
+"name" : "Carnation Industries Ltd",
+"t" : "530609",
+"e" : "BOM",
+"l" : "40.20",
+"c" : "+0.40",
+"mc" : "138.80M",
+"cp" : "1.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1043639795706399",
+"name" : "Universal Autofoundry Ltd",
+"t" : "539314",
+"e" : "BOM",
+"l" : "56.00",
+"c" : "0.00",
+"mc" : "454.16M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4064195",
+"name" : "Bhagwati Autocast Ltd",
+"t" : "504646",
+"e" : "BOM",
+"l" : "127.95",
+"c" : "+10.70",
+"mc" : "366.09M",
+"cp" : "9.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6556362",
+"name" : "Vishal Malleables Ltd",
+"t" : "505930",
+"e" : "BOM",
+"l" : "27.95",
+"c" : "0.00",
+"mc" : "75.99M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15111055",
+"name" : "Magna Electro Castings Ltd",
+"t" : "517449",
+"e" : "BOM",
+"l" : "180.00",
+"c" : "-0.35",
+"mc" : "831.02M",
+"cp" : "-0.19",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715142",
+"name" : "Kirloskar Ferrous Industries Ltd.",
+"t" : "500245",
+"e" : "BOM",
+"l" : "91.75",
+"c" : "-1.35",
+"mc" : "12.52B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "355363",
+"name" : "Simplex Casting Ltd",
+"t" : "513472",
+"e" : "BOM",
+"l" : "159.80",
+"c" : "+3.60",
+"mc" : "945.38M",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7316328",
+"name" : "Hinduja Foundries Limited",
+"t" : "HINDUJAFO",
+"e" : "NSE",
+"l" : "37.00",
+"c" : "",
+"mc" : "7.70B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4109501",
+"name" : "Akar Auto Industries Ltd",
+"t" : "530621",
+"e" : "BOM",
+"l" : "59.40",
+"c" : "+0.85",
+"mc" : "642.45M",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "554964",
+"name" : "Jindal Saw Limited",
+"t" : "JINDALSAW",
+"e" : "NSE",
+"l" : "142.25",
+"c" : "+3.55",
+"mc" : "45.73B",
+"cp" : "2.56",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "159, TTK Road, ALWARIpet, CHENNAI, 600018, India",
+"phone": "+91-44-24983111",
+"fax": "+91-44-24982111",
+"url": "http:\u002F\u002Fwww.nelcast.com\u002F",
+"overview" : "Nelcast Limited is engaged in the business of manufacture and sale of iron castings. The Company is a supplier of ductile iron castings and grey iron castings. It offers products in various categories, which include automobiles, such as wheel hubs, brake drums, slide support, shackles and brackets\u003B trailers, such as foot mounting and torque rod\u003B engines, such as cylinder blocks, heads, fly wheels, crank shaft, bearing cap and exhaust manifolds\u003B tractors, including transmission case, center housing and hydraulic lift cover\u003B railways, such as inserts\u002Fshoulders for concrete sleepers\u003B pipe fittings, such as ductile iron fittings, and machining components. It manufactures parts that are used in various applications in automobiles, such as the engine, transmission, suspension, axle, brake and steering. The Company also caters to the tractor industry for their requirement of various housings, as well as engine, transmission and axle components, and railways and the pipe fittings industries."
+} ]
+, "management" : [
+{
+"name" : "P. Deepak",
+"age" : "27",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "S. K. Sivakumar",
+"title" : "Chief Financial Officer, Chief Compliance Officer, Secretary"
+}
+,
+{
+"name" : "P. Vijaya Bhaskar Reddy",
+"age" : "56",
+"title" : "Deputy Managing Director, Executive Director"
+}
+,
+{
+"name" : "P. Divya",
+"age" : "28",
+"title" : "Director"
+}
+,
+{
+"name" : "Achutaraman Balasubramanian",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "D. Sesha Reddy",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "R. Mohan Reddy",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

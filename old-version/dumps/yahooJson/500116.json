@@ -1,0 +1,282 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 162543452160,
+            "fmt": "162.54B",
+            "longFmt": "162,543,452,160"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "floatShares": {
+            "raw": 221466738,
+            "fmt": "221.47M",
+            "longFmt": "221,466,738"
+          },
+          "sharesOutstanding": {
+            "raw": 2654340096,
+            "fmt": "2.65B",
+            "longFmt": "2,654,340,096"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.984803,
+            "fmt": "0.98"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 112.989,
+            "fmt": "112.99"
+          },
+          "priceToBook": {
+            "raw": 0.49473846,
+            "fmt": "0.49"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {},
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -50159046656,
+            "fmt": "-50.16B",
+            "longFmt": "-50,159,046,656"
+          },
+          "trailingEps": {
+            "raw": -24.363,
+            "fmt": "-24.36"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "8/5",
+          "lastSplitDate": {
+            "raw": 981936000,
+            "fmt": "2001-02-12"
+          },
+          "enterpriseToRevenue": {
+            "raw": 93.577,
+            "fmt": "93.58"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 45540014000,
+                  "fmt": "45.54B",
+                  "longFmt": "45,540,014,000"
+                },
+                "earnings": {
+                  "raw": 11517351000,
+                  "fmt": "11.52B",
+                  "longFmt": "11,517,351,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 50618951000,
+                  "fmt": "50.62B",
+                  "longFmt": "50,618,951,000"
+                },
+                "earnings": {
+                  "raw": 9417988000,
+                  "fmt": "9.42B",
+                  "longFmt": "9,417,988,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 5820491000,
+                  "fmt": "5.82B",
+                  "longFmt": "5,820,491,000"
+                },
+                "earnings": {
+                  "raw": -35908153000,
+                  "fmt": "-35.91B",
+                  "longFmt": "-35,908,153,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 1737010000,
+                  "fmt": "1.74B",
+                  "longFmt": "1,737,010,000"
+                },
+                "earnings": {
+                  "raw": -50159048000,
+                  "fmt": "-50.16B",
+                  "longFmt": "-50,159,048,000"
+                }
+              }
+            ],
+            "quarterly": []
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "IDBI Tower",
+          "address2": "WTC Complex Cuffe Parade, Colaba",
+          "city": "Mumbai",
+          "zip": "400 005",
+          "country": "India",
+          "phone": "91 22 6655 3355",
+          "fax": "91 22 2218 0411",
+          "website": "http://www.idbi.com",
+          "industry": "Money Center Banks",
+          "sector": "Financial",
+          "longBusinessSummary": "IDBI Bank Limited provides banking and financial solutions to retail and corporate clients in India. It offers savings and current accounts, corporate payroll accounts, and fixed deposits; loans, such as home, auto, education, and personal loans, as well as loan against properties and securities; debit, credit, and prepaid cards; phone, mobile, and Internet banking services; and investment advisory and capital market services, as well as lockers. The company also provides fund based assistance, including term loans; working capital; packing credit to exporters; receivable buyout with recourse; channel financing for dealers of corporates; scheme for financing automated teller machines (ATM)/cash dispense vendors; bill discounting; technology upgrading fund scheme for textile and jute industries; and lending to non-banking finance companies/housing finance companies and commercial real estate sector. In addition, it offers non-fund based assistance, such as bank and performance guarantees, letters of credit, and buyers credit; cash management, treasury, trade finance, and foreign currency services; and debt syndication and advisory services for infrastructure projects, as well as publishes a magazine. Further, the company provides finance to micro, small, and medium enterprises; agriculture finance; products and services for non-resident Indians. Additionally, it offers information technology and security, and contact center services; and investment management, mutual fund, security trusteeship assignments, share pledge trustee, venture capital fund, safe keeping, escrow agency, and other trusteeship services, as well as acts as trustees to securitization transactions and bond/debentures. As of March 31, 2017, the company operated 1,896 branches and 3,537 ATMs. The company was formerly known as IDBI Ltd. and changed its name to IDBI Bank Limited in May 2008. IDBI Bank Limited was founded in 1964 and is based in Mumbai, India.",
+          "fullTimeEmployees": 17720,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 55.9,
+            "fmt": "55.90"
+          },
+          "targetHighPrice": {
+            "raw": 49.0,
+            "fmt": "49.00"
+          },
+          "targetLowPrice": {
+            "raw": 49.0,
+            "fmt": "49.00"
+          },
+          "targetMeanPrice": {
+            "raw": 49.0,
+            "fmt": "49.00"
+          },
+          "targetMedianPrice": {
+            "raw": 49.0,
+            "fmt": "49.00"
+          },
+          "recommendationMean": {
+            "raw": 3.0,
+            "fmt": "3.00"
+          },
+          "recommendationKey": "hold",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {},
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1737010048,
+            "fmt": "1.74B",
+            "longFmt": "1,737,010,048"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.844,
+            "fmt": "0.84"
+          },
+          "returnOnAssets": {
+            "raw": -0.01355,
+            "fmt": "-1.36%"
+          },
+          "returnOnEquity": {
+            "raw": -0.19423,
+            "fmt": "-19.42%"
+          },
+          "grossProfits": {
+            "raw": 1737010000,
+            "fmt": "1.74B",
+            "longFmt": "1,737,010,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {
+            "raw": 48716099584,
+            "fmt": "48.72B",
+            "longFmt": "48,716,099,584"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": -29.18491,
+            "fmt": "-2,918.49%"
+          },
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

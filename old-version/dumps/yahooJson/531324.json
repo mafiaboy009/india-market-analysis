@@ -1,0 +1,196 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 470186528,
+            "fmt": "470.19M",
+            "longFmt": "470,186,528"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.10271,
+            "fmt": "-10.27%"
+          },
+          "floatShares": {
+            "raw": 984206,
+            "fmt": "984.21k",
+            "longFmt": "984,206"
+          },
+          "sharesOutstanding": {
+            "raw": 10000000,
+            "fmt": "10M",
+            "longFmt": "10,000,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.094802,
+            "fmt": "0.09"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -2.573,
+            "fmt": "-2.57"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -4208000,
+            "fmt": "-4.21M",
+            "longFmt": "-4,208,000"
+          },
+          "trailingEps": {
+            "raw": -0.418,
+            "fmt": "-0.42"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 11.477,
+            "fmt": "11.48"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": -0.02953589,
+            "fmt": "-2.95%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Lodha Excelus",
+          "address2": "10th Floor N.M.Joshi Marg Mahalaxmi",
+          "city": "Mumbai",
+          "zip": "400011",
+          "country": "India",
+          "phone": "91 22 2302 4600",
+          "fax": "91 22 2302 4550",
+          "website": "http://www.roselabsfinancelimited.in",
+          "industry": "Investment Brokerage - National",
+          "sector": "Financial",
+          "longBusinessSummary": "Roselabs Finance Limited does not have significant operations. The company intends to evaluate alternate business lines in different sector. Previously, it was engaged in the non-banking financial business in India. The company was incorporated in 1995 and is based in Mumbai, India. Roselabs Finance Limited is a subsidiary of Arihant Premises Private Limited.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 23.0,
+            "fmt": "23.00"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 3472000,
+            "fmt": "3.47M",
+            "longFmt": "3,472,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.344,
+            "fmt": "0.34"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 239444000,
+            "fmt": "239.44M",
+            "longFmt": "239,444,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 40968000,
+            "fmt": "40.97M",
+            "longFmt": "40,968,000"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 4.073,
+            "fmt": "4.07"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 9022000,
+            "fmt": "9.02M",
+            "longFmt": "9,022,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 5.262,
+            "fmt": "526.20%"
+          },
+          "grossMargins": {
+            "raw": 0.36131,
+            "fmt": "36.13%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.26084,
+            "fmt": "26.08%"
+          },
+          "profitMargins": {
+            "raw": -0.10271,
+            "fmt": "-10.27%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

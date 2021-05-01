@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "532301",
+"exchange" : "BOM",
+"id": "705826",
+"t" : "532301",
+"e" : "BOM",
+"name" : "Tata Coffee Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532301"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532301"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532301"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "22.44%",
+"annual" : "13.05%",
+"ttm" : "14.75%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.82%",
+"annual" : "21.29%",
+"ttm" : "17.60%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "24.45%",
+"ttm" : "21.93%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.07%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "15.20%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5,975",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.50",
+"l" : "132.65",
+"cp" : "-1.85",
+"ccol" : "chr",
+"op" : "136.30",
+"hi" : "136.85",
+"lo" : "132.00",
+"vo" : "69,690.00",
+"avvo" : "",
+"hi52" : "183.45",
+"lo52" : "117.60",
+"mc" : "24.75B",
+"pe" : "16.98",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.81",
+"dy" : "1.13",
+"ldiv" : "1.50",
+"shares" : "186.77M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "705826",
+"name" : "Tata Coffee Ltd.",
+"t" : "532301",
+"e" : "BOM",
+"l" : "132.65",
+"c" : "-2.50",
+"mc" : "24.75B",
+"cp" : "-1.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2987318",
+"name" : "Bombay Burmah Trading Corporation Ltd",
+"t" : "BBTC",
+"e" : "NSE",
+"l" : "1,523.10",
+"c" : "-28.40",
+"mc" : "106.37B",
+"cp" : "-1.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12810371",
+"name" : "Freshtrop Fruits Ltd",
+"t" : "530077",
+"e" : "BOM",
+"l" : "157.20",
+"c" : "-2.70",
+"mc" : "1.90B",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "484681398758847",
+"name" : "HPC Biosciences Ltd",
+"t" : "535217",
+"e" : "BOM",
+"l" : "43.85",
+"c" : "0.00",
+"mc" : "7.00B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "335626138757736",
+"name" : "Eco Friendly Food Processing",
+"t" : "534839",
+"e" : "BOM",
+"l" : "18.30",
+"c" : "0.00",
+"mc" : "4.53B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14204284",
+"name" : "Sakuma Exports Limited",
+"t" : "SAKUMA",
+"e" : "NSE",
+"l" : "202.00",
+"c" : "+4.05",
+"mc" : "4.33B",
+"cp" : "2.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4839971",
+"name" : "Tata Global Beverages Ltd",
+"t" : "TATAGLOBAL",
+"e" : "NSE",
+"l" : "274.80",
+"c" : "+4.10",
+"mc" : "173.11B",
+"cp" : "1.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7187739",
+"name" : "United Nilgiri Tea Estates Company Ltd",
+"t" : "UNITEDTEA",
+"e" : "NSE",
+"l" : "401.00",
+"c" : "-16.85",
+"mc" : "2.00B",
+"cp" : "-4.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8926652",
+"name" : "Asian Tea and Exports Ltd",
+"t" : "519532",
+"e" : "BOM",
+"l" : "16.50",
+"c" : "+0.60",
+"mc" : "165.00M",
+"cp" : "3.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "937594393320992",
+"name" : "Nath Bio-Genes (I) Ltd",
+"t" : "NATHBIOGEN",
+"e" : "NSE",
+"l" : "485.05",
+"c" : "-3.65",
+"mc" : "7.74B",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13338703",
+"name" : "Terai Tea Co Ltd",
+"t" : "530533",
+"e" : "BOM",
+"l" : "50.00",
+"c" : "+2.25",
+"mc" : "343.97M",
+"cp" : "4.71",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "No.57 Railway Parallel Road, Kumara Park West, BANGALORE, 560020, India",
+"phone": "+91-80-23560695",
+"fax": "+91-80-23561972",
+"url": "http:\u002F\u002Fwww.tatacoffee.com\u002F",
+"overview" : "Tata Coffee Limited is a holding company. The Company, through its subsidiaries, engages in the production, trading and distribution of coffee, tea and allied products. The Company\u0027s segments include Plantation and Value Added Products. Its Plantation segment includes cultivation, manufacture and sale of coffee and other plantation crops. Its Value Added Products segment includes production and sale of roasted and ground, and instant coffee products. It has approximately 20 coffee estates in over 18,270 acres located across the hills of Coorg, Chikmagalur and Hassan districts of Karnataka and Valparai in Coimbatore District of Tamil Nadu. It has coffee curing plant at Kushalnagar with installed capacity of over 20,000 metric ton (MT), including a coffee roasting facility. It has operations mainly in India, the United States, Commonwealth of Independent States (CIS) countries, Europe and Africa. Its subsidiaries include Consolidated Coffee Inc. and Eight O\u0027 Clock Coffee Company."
+} ]
+, "management" : [
+{
+"name" : "Sanjiv Sarin",
+"age" : "60",
+"title" : "Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Chacko Purackal TInomas",
+"title" : "Deputy Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "Krishnamurthi Venkataramanan",
+"age" : "71",
+"title" : "Chief Financial Officer, Executive Director - Finance"
+}
+,
+{
+"name" : "N. S. Suryanraynan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Harish Ramananda Bhat",
+"age" : "54",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Siraj Azmat Chaudhry",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "L. Krishnakumar",
+"age" : "59",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Vittaldas Leeladhar",
+"age" : "70",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Sunalini Menon",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

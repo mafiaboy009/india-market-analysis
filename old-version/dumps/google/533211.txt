@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "533211",
+"exchange" : "BOM",
+"id": "1359269",
+"t" : "533211",
+"e" : "BOM",
+"name" : "Parabolic Drugs Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533211"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533211"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533211"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002713)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-186.17%",
+"annual" : "-144.31%",
+"ttm" : "-18.84%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-265.71%",
+"annual" : "-133.84%",
+"ttm" : "-17.42%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-62.41%",
+"ttm" : "-10.22%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-20.53%",
+"ttm" : "-11.52%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : "-39.87%"
+}
+]
+, "c" : "-0.26",
+"l" : "5.09",
+"cp" : "-4.86",
+"ccol" : "chr",
+"op" : "5.24",
+"hi" : "5.24",
+"lo" : "5.09",
+"vo" : "7,150.00",
+"avvo" : "",
+"hi52" : "9.81",
+"lo52" : "5.09",
+"mc" : "312.74M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-23.35",
+"dy" : "",
+"ldiv" : "",
+"shares" : "61.89M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1359269",
+"name" : "Parabolic Drugs Limited",
+"t" : "533211",
+"e" : "BOM",
+"l" : "5.09",
+"c" : "-0.26",
+"mc" : "312.74M",
+"cp" : "-4.86",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7489710",
+"name" : "Brooks Laboratories Ltd",
+"t" : "BROOKS",
+"e" : "NSE",
+"l" : "110.50",
+"c" : "-5.50",
+"mc" : "1.59B",
+"cp" : "-4.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6813187",
+"name" : "Nectar Lifesciences Ltd.",
+"t" : "NECLIFE",
+"e" : "NSE",
+"l" : "24.90",
+"c" : "-0.60",
+"mc" : "5.62B",
+"cp" : "-2.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2057138",
+"name" : "Ankur Drugs and Pharma Ltd.",
+"t" : "ANKURDRUGS",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-4.55",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4349663",
+"name" : "Everest Organics Ltd",
+"t" : "524790",
+"e" : "BOM",
+"l" : "110.05",
+"c" : "-0.95",
+"mc" : "825.86M",
+"cp" : "-0.86",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6833815",
+"name" : "Orchid Pharma Ltd",
+"t" : "ORCHIDPHAR",
+"e" : "NSE",
+"l" : "9.25",
+"c" : "+0.40",
+"mc" : "813.98M",
+"cp" : "4.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16520755",
+"name" : "IND Swift Ltd.",
+"t" : "INDSWFTLTD",
+"e" : "NSE",
+"l" : "7.50",
+"c" : "+0.15",
+"mc" : "422.70M",
+"cp" : "2.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "20411139269060",
+"name" : "Medico Remedies Ltd",
+"t" : "540937",
+"e" : "BOM",
+"l" : "97.25",
+"c" : "+0.20",
+"mc" : "405.58M",
+"cp" : "0.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5394531",
+"name" : "Neuland Laboratories Ltd.",
+"t" : "NEULANDLAB",
+"e" : "NSE",
+"l" : "786.50",
+"c" : "-14.35",
+"mc" : "6.73B",
+"cp" : "-1.79",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16770484",
+"name" : "Suven Life Sciences Ltd.",
+"t" : "SUVEN",
+"e" : "NSE",
+"l" : "180.00",
+"c" : "-0.40",
+"mc" : "23.14B",
+"cp" : "-0.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "805988453466693",
+"name" : "Sakar Healthcare Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "SCO 99-100, Third Floor, Sector 17-B, CHANDIGARH, 110065, India",
+"phone": "+91-11-65176840",
+"fax": "+91-11-26332660",
+"url": "http:\u002F\u002Fparabolicdrugs.com\u002F",
+"overview" : "Parabolic Drugs Limited is a holding company. The Company is an integrated, research-based, pharmaceutical manufacturer and exporter, engaged in development and manufacturing of Active Pharmaceutical Ingredients (API) and API intermediates. It is engaged in the manufacture of pharmaceuticals, medicinal chemical and botanical products. Its products and services include Cefuroxime Axetil Amorphus and Ceftriaxone Sodium Sterile. Its product portfolio includes Oral and Sterile Semi Synthetic Penicillin API, Oral and Sterile Cephalosporin API in antibiotic segment to non-antibiotic API in the Cardiovascular, Nonsteroidal anti-inflammatory drugs (NSAID), Anti-Hypertensive and Osteoporosis segments. Its products include Cefixime Trihydrate, Ceftibuten, Cefcapene Pivoxil, Cefuroxime Sodium, Amoxycillin Trihydrate, Bacampicillin Hcl, Piperacillin Sodium, Sulbactum Sodium, Deferasirox, Pentazocine, Raubasine, Yohimbine, Montelukast, Vildagliptin, Cefoxitin Sodium and Cefpodoxime Acid."
+} ]
+, "management" : [
+{
+"name" : "Yatish Kumar Bansal",
+"title" : "President - Technical"
+}
+,
+{
+"name" : "R. C. Goyal",
+"title" : "Senior Vice President - Finance"
+}
+,
+{
+"name" : "Vipin Gupta",
+"title" : "Compliance Officer, Vice President"
+}
+,
+{
+"name" : "Pranav Gupta",
+"age" : "45",
+"title" : "Chief Compliance Officer, Managing Director, Executive Director, Secretary"
+}
+,
+{
+"name" : "Sameer Madan",
+"title" : "Vice President- Trade Finance"
+}
+,
+{
+"name" : "Vineet Gupta",
+"age" : "43",
+"title" : "Non Independent Whole-Time Director"
+}
+,
+{
+"name" : "Jagjit Singh Chahal",
+"title" : "Director"
+}
+,
+{
+"name" : "Sanjeev Kumar",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vandana Singla",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Arun Kumar Mathur",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

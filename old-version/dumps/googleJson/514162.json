@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "514162",
+"exchange" : "BOM",
+"id": "696025",
+"t" : "514162",
+"e" : "BOM",
+"name" : "Welspun India Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:514162"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:514162"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:514162"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.69%",
+"annual" : "5.46%",
+"ttm" : "7.34%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.95%",
+"annual" : "9.45%",
+"ttm" : "11.63%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "24.06%",
+"ttm" : "19.72%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.22%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.37%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "22,375",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.60",
+"l" : "62.85",
+"cp" : "-0.95",
+"ccol" : "chr",
+"op" : "64.85",
+"hi" : "64.85",
+"lo" : "62.65",
+"vo" : "201,872.00",
+"avvo" : "",
+"hi52" : "99.55",
+"lo52" : "58.65",
+"mc" : "63.05B",
+"pe" : "13.97",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.50",
+"dy" : "1.03",
+"ldiv" : "0.65",
+"shares" : "1.00B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "696025",
+"name" : "Welspun India Limited",
+"t" : "514162",
+"e" : "BOM",
+"l" : "62.85",
+"c" : "-0.60",
+"mc" : "63.05B",
+"cp" : "-0.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5781435",
+"name" : "Pradip Overseas Limited",
+"t" : "PRADIP",
+"e" : "NSE",
+"l" : "2.15",
+"c" : "+0.05",
+"mc" : "104.15M",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "504981540979747",
+"name" : "Welspun Global Brands Ltd",
+"t" : "WELGLOB",
+"e" : "BOM",
+"l" : "57.00",
+"c" : "",
+"mc" : "597.10M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6107341",
+"name" : "Prashant India Ltd",
+"t" : "519014",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-1.20",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6734264",
+"name" : "K G Petro Chem Ltd",
+"t" : "531609",
+"e" : "BOM",
+"l" : "115.50",
+"c" : "+5.50",
+"mc" : "603.03M",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8147180",
+"name" : "Bombay Dyeing and Manufacturing Company",
+"t" : "BOMDYEING",
+"e" : "NSE",
+"l" : "272.95",
+"c" : "-7.05",
+"mc" : "56.43B",
+"cp" : "-2.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10814901",
+"name" : "Sel Manufacturing Company Ltd",
+"t" : "SELMCL",
+"e" : "NSE",
+"l" : "2.45",
+"c" : "-0.05",
+"mc" : "795.88M",
+"cp" : "-2.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "402870",
+"name" : "KG Denim Ltd",
+"t" : "500239",
+"e" : "BOM",
+"l" : "60.75",
+"c" : "+1.30",
+"mc" : "1.54B",
+"cp" : "2.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12838895",
+"name" : "Hanung Toys and Textiles Limited",
+"t" : "HANUNG",
+"e" : "NSE",
+"l" : "3.40",
+"c" : "-0.05",
+"mc" : "104.80M",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12609898",
+"name" : "Alps Industries Ltd.",
+"t" : "ALPSINDUS",
+"e" : "NSE",
+"l" : "4.40",
+"c" : "-0.20",
+"mc" : "170.25M",
+"cp" : "-4.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6926324",
+"name" : "Faze Three Ltd",
+"t" : "530079",
+"e" : "BOM",
+"l" : "73.00",
+"c" : "+0.40",
+"mc" : "1.78B",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Welspun House, 6th Floor Senapati Bapat Marg Kamala Mills Compound, Lower Parel, MUMBAI, 400013, India",
+"phone": "+91-22-66136000",
+"fax": "+91-22-24908020",
+"url": "http:\u002F\u002Fwww.welspuntowels.com\u002F",
+"overview" : "Welspun India Limited (Welspun) is an India-based company, which is engaged in the textile business. The Company manufactures a range of home textile products, primarily terry towels, bed linen products and rugs. Its segments include Home Textiles and Power. The Home Textiles segment includes terry towels, bed sheets, pillows cases, rugs, carpets and others used for home furnishings. The Power segment includes generation of power. Its products under bath category include towels, such as beach towels, hand towels, face towels and bath sheets, and robes in various styles, such as kimono, hood and wraps. Its products under bed category include bed linen products, such as bed sheets in various blends\u003B basic bedding products, such as mattress pads, and blown and garneted pillows, and decorative bedding products, such as comforters, duvets and bolsters. Its products under flooring category include rugs, such as bath rugs, and carpets. Its brands include Christy, Spaces and Welhome."
+} ]
+, "management" : [
+{
+"name" : "Suneel Mohnot",
+"title" : "President (Commercial)"
+}
+,
+{
+"name" : "Altaf Jiwani",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Dinesh Jain",
+"title" : "President - Finance"
+}
+,
+{
+"name" : "Barry Leonard",
+"title" : "President, Chief Executive Officer, Welspun USA"
+}
+,
+{
+"name" : "Shashikant Thorat",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Dipali Goenka",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Rajesh R. Mandawewala",
+"age" : "54",
+"title" : "Joint Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Anil Channa",
+"title" : "Executive Director-Operations, Anjar"
+}
+,
+{
+"name" : "Milind Hardikar",
+"title" : "Executive Director - Strategic Affairs, Textiles"
+}
+,
+{
+"name" : "Mukesh Savlani",
+"title" : "Vice President, Marketing"
+}
+]
+,"moreresources" : [
+]
+}]

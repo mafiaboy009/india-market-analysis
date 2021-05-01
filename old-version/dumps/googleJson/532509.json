@@ -1,0 +1,290 @@
+
+ [
+{
+"symbol" : "532509",
+"exchange" : "BOM",
+"id": "704891",
+"t" : "532509",
+"e" : "BOM",
+"name" : "Suprajit Engineering Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532509"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532509"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532509"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.71%",
+"annual" : "10.11%",
+"ttm" : "8.89%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.28%",
+"annual" : "14.71%",
+"ttm" : "13.63%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.65%",
+"ttm" : "15.95%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.99%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "25.49%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,941",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.55",
+"l" : "274.45",
+"cp" : "0.20",
+"ccol" : "chg",
+"op" : "279.70",
+"hi" : "284.10",
+"lo" : "271.25",
+"vo" : "6,169.00",
+"avvo" : "",
+"hi52" : "348.50",
+"lo52" : "198.80",
+"mc" : "38.20B",
+"pe" : "28.38",
+"fwpe" : "",
+"beta" : "",
+"eps" : "9.67",
+"dy" : "0.44",
+"ldiv" : "0.60",
+"shares" : "139.87M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "704891",
+"name" : "Suprajit Engineering Ltd.",
+"t" : "532509",
+"e" : "BOM",
+"l" : "274.45",
+"c" : "+0.55",
+"mc" : "38.20B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5804806",
+"name" : "Sundaram Brake Linings Ltd",
+"t" : "SUNDRMBRAK",
+"e" : "NSE",
+"l" : "577.95",
+"c" : "+7.75",
+"mc" : "2.26B",
+"cp" : "1.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4012093",
+"name" : "Wabco India Ltd",
+"t" : "WABCOINDIA",
+"e" : "NSE",
+"l" : "7,691.00",
+"c" : "+550.25",
+"mc" : "147.51B",
+"cp" : "7.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2990538",
+"name" : "Rane Brake Linings Ltd",
+"t" : "RBL",
+"e" : "NSE",
+"l" : "1,038.00",
+"c" : "+41.05",
+"mc" : "8.19B",
+"cp" : "4.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1722831",
+"name" : "Hindustan Composites Limited",
+"t" : "HINDCOMPOS",
+"e" : "NSE",
+"l" : "465.00",
+"c" : "+16.45",
+"mc" : "6.80B",
+"cp" : "3.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11783675",
+"name" : "Brakes Auto (India) Ltd",
+"t" : "520115",
+"e" : "BOM",
+"l" : "0.93",
+"c" : "0.00",
+"mc" : "19.62M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13164362",
+"name" : "Kaycee Industries Ltd",
+"t" : "504084",
+"e" : "BOM",
+"l" : "7,910.00",
+"c" : "+349.00",
+"mc" : "502.05M",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "84135840067224",
+"name" : "Endurance Technologies Ltd (CN)",
+"t" : "ENDURANCE",
+"e" : "NSE",
+"l" : "1,312.00",
+"c" : "+34.95",
+"mc" : "185.57B",
+"cp" : "2.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "707964",
+"name" : "Stone India Ltd.",
+"t" : "522085",
+"e" : "BOM",
+"l" : "33.90",
+"c" : "0.00",
+"mc" : "325.32M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6937233",
+"name" : "Machino Plastics Limited",
+"t" : "523248",
+"e" : "BOM",
+"l" : "232.50",
+"c" : "+1.60",
+"mc" : "1.44B",
+"cp" : "0.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "417348",
+"name" : "PPAP Automotive Ltd",
+"t" : "PPAP",
+"e" : "NSE",
+"l" : "550.00",
+"c" : "+8.70",
+"mc" : "7.72B",
+"cp" : "1.61",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "No.100, Bommasandra Industrial Area,, BANGALORE, 560099, India",
+"phone": "+91-80-43421100",
+"fax": "+91-80-27833279",
+"url": "http:\u002F\u002Fwww.suprajit.com\u002FThe-Group\u002FSuprajit-Engineering",
+"overview" : "Suprajit Engineering Limited is an India-based company engaged in offering automotive cables, speedometers and automotive components\u002Fparts. The Company is engaged in the business of manufacturing of auto components consisting mainly control cables, speedo cables and other components for automobiles. The Company\u0027s plants are located at Bengaluru, Karnataka\u003B Manesar, Haryana\u003B Chakan, Maharashtra\u003B Vapi, Gujarat\u003B Pantnagar, Uttarakhand\u003B Haridwar, Uttarakhand\u003B Sanand, Gujarat\u003B Pathredi, Rajasthan, and Chennai, Tamil Nadu. The Company supplies its products to the original equipment manufacturers (OEMs). The Company also exports its products to various countries. The Company caters to a range of automotive and non-automotive cable requirements. The Company has an annual production capacity of approximately 225 million cables. The Company\u0027s subsidiaries include Suprajit Automotive Private Limited, Suprajit Europe Limited and Phoenix Lamps Limited."
+} ]
+, "management" : [
+{
+"name" : "K. Ajith Kumar Rai",
+"age" : "56",
+"title" : "Non Independent Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Medappa Gowda J.",
+"title" : "Vice President - Finance, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Mohan Srinivasan Nagamangala",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Peter Greensmith",
+"title" : "Member of Key Management Personnel"
+}
+,
+{
+"name" : "Supriya A. Rai",
+"title" : "Non Independent Non-Executive Director"
+}
+,
+{
+"name" : "M. Jayarama Shetty",
+"title" : "Non Executive \u0026 Non Independent Director"
+}
+,
+{
+"name" : "Babugouda Sangangouda Patil",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Diwakar S. Shetty",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Suresh Shetty",
+"age" : "67",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

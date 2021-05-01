@@ -1,0 +1,286 @@
+
+ [
+{
+"symbol" : "530715",
+"exchange" : "BOM",
+"id": "715545",
+"t" : "530715",
+"e" : "BOM",
+"name" : "Alps Industries Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530715"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530715"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530715"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-38.57%",
+"annual" : "-12.62%",
+"ttm" : "-29.03%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-22.61%",
+"annual" : "-12.65%",
+"ttm" : "-19.49%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-4.68%",
+"ttm" : "-9.18%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-10.75%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,600",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.06",
+"l" : "4.52",
+"cp" : "-1.31",
+"ccol" : "chr",
+"op" : "4.60",
+"hi" : "4.60",
+"lo" : "4.50",
+"vo" : "4,871.00",
+"avvo" : "",
+"hi52" : "8.70",
+"lo52" : "4.35",
+"mc" : "177.57M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-30.52",
+"dy" : "",
+"ldiv" : "",
+"shares" : "39.11M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715545",
+"name" : "Alps Industries Ltd.",
+"t" : "530715",
+"e" : "BOM",
+"l" : "4.52",
+"c" : "-0.06",
+"mc" : "177.57M",
+"cp" : "-1.31",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6926324",
+"name" : "Faze Three Ltd",
+"t" : "530079",
+"e" : "BOM",
+"l" : "73.00",
+"c" : "+0.40",
+"mc" : "1.78B",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5980140",
+"name" : "Bannari Amman Spinning Mills Ltd.",
+"t" : "BASML",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "+5.95",
+"mc" : "4.41B",
+"cp" : "2.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10814901",
+"name" : "Sel Manufacturing Company Ltd",
+"t" : "SELMCL",
+"e" : "NSE",
+"l" : "2.45",
+"c" : "-0.05",
+"mc" : "795.88M",
+"cp" : "-2.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8147180",
+"name" : "Bombay Dyeing and Manufacturing Company",
+"t" : "BOMDYEING",
+"e" : "NSE",
+"l" : "272.95",
+"c" : "-7.05",
+"mc" : "56.43B",
+"cp" : "-2.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1022713",
+"name" : "Loyal Textile Mills Ltd",
+"t" : "514036",
+"e" : "BOM",
+"l" : "643.00",
+"c" : "-2.65",
+"mc" : "3.11B",
+"cp" : "-0.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11982759",
+"name" : "Supreme Industries Ltd",
+"t" : "SUPREMEIND",
+"e" : "NSE",
+"l" : "1,175.50",
+"c" : "-9.30",
+"mc" : "149.67B",
+"cp" : "-0.78",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16657334",
+"name" : "Supreme Tex Mart Ltd",
+"t" : "SUPREMETEX",
+"e" : "NSE",
+"l" : "1.95",
+"c" : "-0.05",
+"mc" : "133.05M",
+"cp" : "-2.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715407",
+"name" : "Eskay K\u0027n\u0027IT (India) Ltd.",
+"t" : "514118",
+"e" : "BOM",
+"l" : "0.30",
+"c" : "0.00",
+"mc" : "84.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12838895",
+"name" : "Hanung Toys and Textiles Limited",
+"t" : "HANUNG",
+"e" : "NSE",
+"l" : "3.40",
+"c" : "-0.05",
+"mc" : "104.80M",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715438",
+"name" : "KSL and Industries Ltd.",
+"t" : "530149",
+"e" : "BOM",
+"l" : "7.33",
+"c" : "+0.34",
+"mc" : "737.90M",
+"cp" : "4.86",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "57\u002F2, Site-IV, Sahiababad Indl. Area, GHAZIABAD, 201010, India",
+"phone": "+91-120-4161700",
+"fax": "+91-120-2895299",
+"overview" : "Alps Industries Limited is a holding company, which is engaged in the textile business. The Company manufactures and sells home furnishings, fashion accessories and yarns in India. Its segments include Home Furnishing \u0026 Fashion Accessories\u003B Yarn, and Architectural Products. The Company also offers a range of architectural products under the brand name, Vista, and fashion accessories under brand name, Le-Pashmina. Its home furnishings and fashion accessories include made-ups, such as duvet sets, bed covers and sheets, quilts, pillows, cushion covers, curtains and table linens\u003B cashmere, sheer and aromatic shawls, scarves, mufflers, stoles, wraps and other fashion accessories, and fabrics for upholstery, including office furniture and automobile seats. The Company also offers various types of yarns, including cotton yarn, synthetic and blended yarns. It offers automotive\u002Ftechnical textiles. The Company\u0027s manufacturing facilities are located in Uttar Pradesh, Uttarakhand and Uttaranchal."
+} ]
+, "management" : [
+{
+"name" : "Sandeep Agarwal",
+"age" : "47",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Ajay Gupta",
+"title" : "Chief Compliance Officer, General Manager - Legal, Company Secretary"
+}
+,
+{
+"name" : "Pramod Kumar Rajput",
+"age" : "55",
+"title" : "Executive Non Independent Director"
+}
+,
+{
+"name" : "K. K. Agarwal",
+"age" : "69",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Tilak Raj Khosla",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Prabhat Krishna",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Pradyuman Kumar Lamba",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Deepika Shergil",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

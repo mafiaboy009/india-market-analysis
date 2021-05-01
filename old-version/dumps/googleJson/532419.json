@@ -1,0 +1,283 @@
+
+ [
+{
+"symbol" : "532419",
+"exchange" : "BOM",
+"id": "703930",
+"t" : "532419",
+"e" : "BOM",
+"name" : "Smartlink Network Systems Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532419"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532419"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532419"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.33%",
+"annual" : "-9.36%",
+"ttm" : "-8.96%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.65%",
+"annual" : "-5.94%",
+"ttm" : "-6.02%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-4.34%",
+"ttm" : "-4.06%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.51%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-2.62%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "451",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.40",
+"l" : "102.25",
+"cp" : "0.39",
+"ccol" : "chg",
+"op" : "104.35",
+"hi" : "106.70",
+"lo" : "101.70",
+"vo" : "3,444.00",
+"avvo" : "",
+"hi52" : "137.00",
+"lo52" : "85.10",
+"mc" : "2.32B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-2.99",
+"dy" : "1.96",
+"ldiv" : "2.00",
+"shares" : "22.55M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703930",
+"name" : "Smartlink Network Systems Ltd",
+"t" : "532419",
+"e" : "BOM",
+"l" : "102.25",
+"c" : "+0.40",
+"mc" : "2.32B",
+"cp" : "0.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1046973",
+"name" : "MRO-TEK Reality Ltd",
+"t" : "MRO-TEK",
+"e" : "NSE",
+"l" : "20.75",
+"c" : "+0.95",
+"mc" : "387.71M",
+"cp" : "4.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3945360",
+"name" : "Punjab Communications Ltd",
+"t" : "500346",
+"e" : "BOM",
+"l" : "40.15",
+"c" : "+0.65",
+"mc" : "482.75M",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6969117",
+"name" : "ADC India Communications Limited",
+"t" : "523411",
+"e" : "BOM",
+"l" : "233.95",
+"c" : "+1.45",
+"mc" : "1.08B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1485515",
+"name" : "Nelco Limited",
+"t" : "NELCO",
+"e" : "NSE",
+"l" : "175.80",
+"c" : "+15.95",
+"mc" : "4.02B",
+"cp" : "9.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16708397",
+"name" : "Himachal Futuristic Communications (P)",
+"t" : "HFCL",
+"e" : "NSE",
+"l" : "29.30",
+"c" : "+1.10",
+"mc" : "36.25B",
+"cp" : "3.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8328773",
+"name" : "Shyam Telecom Limited",
+"t" : "SHYAMTEL",
+"e" : "NSE",
+"l" : "12.50",
+"c" : "0.00",
+"mc" : "140.88M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3962598",
+"name" : "HCL Infosystems Limited",
+"t" : "HCL-INSYS",
+"e" : "NSE",
+"l" : "62.90",
+"c" : "-1.00",
+"mc" : "20.79B",
+"cp" : "-1.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "899703",
+"name" : "ITI Limited",
+"t" : "ITI",
+"e" : "NSE",
+"l" : "121.10",
+"c" : "-4.60",
+"mc" : "92.55B",
+"cp" : "-3.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "717905",
+"name" : "Aishwarya Technologies and Telecom Ltd",
+"t" : "532975",
+"e" : "BOM",
+"l" : "6.09",
+"c" : "0.00",
+"mc" : "131.32M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "724579",
+"name" : "Valiant Communications Ltd.",
+"t" : "526775",
+"e" : "BOM",
+"l" : "69.25",
+"c" : "-1.90",
+"mc" : "494.32M",
+"cp" : "-2.67",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Smartlink House, Plot # 5 Kurla-Bandra Complex Road, Off CST Road Santacruz(East), MUMBAI, 400098, India",
+"phone": "+91-22-30616666",
+"fax": "+91-22-26528914",
+"url": "http:\u002F\u002Fsmartlink.co.in\u002F",
+"overview" : "Smartlink Network Systems Limited is a networking company. The Company is engaged in the business of developing, manufacturing, marketing, distributing and servicing of networking products. Its brands include DIGISOL, which consists of a range of networking, communication and surveillance products, and DIGICARE, which consists of service and support offerings. DIGISOL offers products in areas, such as switching, broadband routing, enterprise wireless and closed-circuit television surveillance. DIGISOL offers wireless products, which provide connectivity of smart televisions, desktop computers and gaming systems to the Internet\u003B products for the small office and home office sector, such as wireless routers and wireless access points\u003B small and medium-sized enterprises (SME) products, such as unmanaged, Web-managed and managed switches, and broadband routing\u003B Power Over Ethernet (PoE) solutions, and security and surveillance products, such as analog dome cameras and pan tilt cameras."
+} ]
+, "management" : [
+{
+"name" : "Kamalaksha R. Naik",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "K. G. Prabhu",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Urjita Damle",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Arati K. Naik",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Pradeep Rane",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Pankaj Baliga",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Krishnanand M. Gaonkar",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Pradeep Pande",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

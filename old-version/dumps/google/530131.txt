@@ -1,0 +1,241 @@
+
+// [
+{
+"symbol" : "530131",
+"exchange" : "BOM",
+"id": "1012670",
+"t" : "530131",
+"e" : "BOM",
+"name" : "Udaipur Cement Works Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=UDCW.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530131"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530131"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530131"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-20.59%",
+"annual" : "2.93%",
+"ttm" : "-20.28%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-1.72%",
+"annual" : "2.68%",
+"ttm" : "-3.19%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.56%",
+"ttm" : "4.49%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.38%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.31%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "281",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.15",
+"l" : "26.15",
+"cp" : "0.58",
+"ccol" : "chg",
+"op" : "25.75",
+"hi" : "26.30",
+"lo" : "25.65",
+"vo" : "101,626.00",
+"avvo" : "",
+"hi52" : "39.20",
+"lo52" : "21.90",
+"mc" : "7.73B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-1.97",
+"dy" : "",
+"ldiv" : "",
+"shares" : "295.21M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1012670",
+"name" : "Udaipur Cement Works Ltd",
+"t" : "530131",
+"e" : "BOM",
+"l" : "26.15",
+"c" : "+0.15",
+"mc" : "7.73B",
+"cp" : "0.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3770372",
+"name" : "JK Lakshmi Cement Limited",
+"t" : "JKLAKSHMI",
+"e" : "NSE",
+"l" : "433.55",
+"c" : "+7.75",
+"mc" : "51.24B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "714540",
+"name" : "Panyam Cements \u0026 Mineral Industries Ltd.",
+"t" : "500322",
+"e" : "BOM",
+"l" : "47.70",
+"c" : "-0.85",
+"mc" : "803.45M",
+"cp" : "-1.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715550",
+"name" : "Shree Digvijay Cement Company Ltd.",
+"t" : "502180",
+"e" : "BOM",
+"l" : "25.60",
+"c" : "-0.35",
+"mc" : "3.61B",
+"cp" : "-1.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715348",
+"name" : "Saurashtra Cement Ltd.",
+"t" : "502175",
+"e" : "BOM",
+"l" : "80.05",
+"c" : "-0.40",
+"mc" : "5.44B",
+"cp" : "-0.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16255299",
+"name" : "UltraTech Cement Ltd",
+"t" : "ULTRACEMCO",
+"e" : "NSE",
+"l" : "4,142.00",
+"c" : "+25.60",
+"mc" : "1.14T",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15601450",
+"name" : "Shri Keshav Cements \u0026 Infra Limited",
+"t" : "530977",
+"e" : "BOM",
+"l" : "164.00",
+"c" : "+3.00",
+"mc" : "840.37M",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705329",
+"name" : "Bheema Cements Ltd",
+"t" : "518017",
+"e" : "BOM",
+"l" : "9.10",
+"c" : "0.00",
+"mc" : "250.73M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13656884",
+"name" : "Shiva Cement Ltd",
+"t" : "532323",
+"e" : "BOM",
+"l" : "28.30",
+"c" : "+0.35",
+"mc" : "5.49B",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2765899",
+"name" : "Grasim Industries Ltd",
+"t" : "GRASIM",
+"e" : "NSE",
+"l" : "1,180.60",
+"c" : "+43.90",
+"mc" : "773.46B",
+"cp" : "3.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6613325",
+"name" : "Ambuja Cements Ltd",
+"t" : "AMBUJACEM",
+"e" : "NSE",
+"l" : "263.20",
+"c" : "+3.00",
+"mc" : "521.02B",
+"cp" : "1.15",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Shripati Nagar, P O Dabok, UDAIPUR, 313021, India",
+"phone": "+91-294-2655076",
+"fax": "+91-294-2655077",
+"url": "http:\u002F\u002Fwww.udaipurcement.com\u002F",
+"overview" : "Udaipur Cement Works Limited is principally engaged in the manufacturing of cement. The Company operates in the cementitious materials business segment. The Company\u0027s plant is located in Udaipur district, Rajasthan. The Company is a subsidiary of JK Lakshmi Cement Limited."
+} ]
+,"moreresources" : [
+]
+}]

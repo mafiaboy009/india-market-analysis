@@ -1,0 +1,382 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 18630733824,
+            "fmt": "18.63B",
+            "longFmt": "18,630,733,824"
+          },
+          "forwardPE": {
+            "raw": 13.473124,
+            "fmt": "13.47"
+          },
+          "profitMargins": {
+            "raw": 0.2301,
+            "fmt": "23.01%"
+          },
+          "floatShares": {
+            "raw": 5536377,
+            "fmt": "5.54M",
+            "longFmt": "5,536,377"
+          },
+          "sharesOutstanding": {
+            "raw": 23100000,
+            "fmt": "23.1M",
+            "longFmt": "23,100,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.233055,
+            "fmt": "0.23"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 331.369,
+            "fmt": "331.37"
+          },
+          "priceToBook": {
+            "raw": 0.87742066,
+            "fmt": "0.88"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1396224000,
+            "fmt": "2014-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 1.182,
+            "fmt": "118.20%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1281571968,
+            "fmt": "1.28B",
+            "longFmt": "1,281,571,968"
+          },
+          "trailingEps": {
+            "raw": 55.479,
+            "fmt": "55.48"
+          },
+          "forwardEps": {
+            "raw": 21.58,
+            "fmt": "21.58"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "10/1",
+          "lastSplitDate": {
+            "raw": 1505347200,
+            "fmt": "2017-09-14"
+          },
+          "enterpriseToRevenue": {
+            "raw": 3.345,
+            "fmt": "3.35"
+          },
+          "enterpriseToEbitda": {
+            "raw": 24.977,
+            "fmt": "24.98"
+          },
+          "52WeekChange": {
+            "raw": -0.66181386,
+            "fmt": "-66.18%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 5.85,
+                  "fmt": "5.85"
+                },
+                "estimate": {
+                  "raw": 3.44,
+                  "fmt": "3.44"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 1559500000,
+                  "fmt": "1.56B",
+                  "longFmt": "1,559,500,000"
+                },
+                "earnings": {
+                  "raw": 392862000,
+                  "fmt": "392.86M",
+                  "longFmt": "392,862,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 3255431000,
+                  "fmt": "3.26B",
+                  "longFmt": "3,255,431,000"
+                },
+                "earnings": {
+                  "raw": 494397000,
+                  "fmt": "494.4M",
+                  "longFmt": "494,397,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 4148714000,
+                  "fmt": "4.15B",
+                  "longFmt": "4,148,714,000"
+                },
+                "earnings": {
+                  "raw": 246599000,
+                  "fmt": "246.6M",
+                  "longFmt": "246,599,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 5569634000,
+                  "fmt": "5.57B",
+                  "longFmt": "5,569,634,000"
+                },
+                "earnings": {
+                  "raw": 1281572000,
+                  "fmt": "1.28B",
+                  "longFmt": "1,281,572,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2013",
+                "revenue": {
+                  "raw": 267200000,
+                  "fmt": "267.2M",
+                  "longFmt": "267,200,000"
+                },
+                "earnings": {
+                  "raw": 116000000,
+                  "fmt": "116M",
+                  "longFmt": "116,000,000"
+                }
+              },
+              {
+                "date": "3Q2013",
+                "revenue": {
+                  "raw": 371000000,
+                  "fmt": "371M",
+                  "longFmt": "371,000,000"
+                },
+                "earnings": {
+                  "raw": 33600000,
+                  "fmt": "33.6M",
+                  "longFmt": "33,600,000"
+                }
+              },
+              {
+                "date": "4Q2013",
+                "revenue": {
+                  "raw": 434100000,
+                  "fmt": "434.1M",
+                  "longFmt": "434,100,000"
+                },
+                "earnings": {
+                  "raw": 108500000,
+                  "fmt": "108.5M",
+                  "longFmt": "108,500,000"
+                }
+              },
+              {
+                "date": "1Q2014",
+                "revenue": {
+                  "raw": 487200000,
+                  "fmt": "487.2M",
+                  "longFmt": "487,200,000"
+                },
+                "earnings": {
+                  "raw": 134762000,
+                  "fmt": "134.76M",
+                  "longFmt": "134,762,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Bandra Kurla Complex",
+          "address2": "1101, Crescenzo, G-Block Opposite MCA Club Bandra (East)",
+          "city": "Mumbai",
+          "zip": "400051",
+          "country": "India",
+          "phone": "91 22 6740 6300",
+          "fax": "91 22 6740 6514",
+          "website": "http://www.borosil.com",
+          "industry": "Packaging & Containers",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Borosil Glass Works Limited manufactures and sells laboratory glassware and microwavable kitchenware in India. It operates through Scientificware, Consumerware, Flat Glass, and Others segments. The company offers laboratory glassware, instruments, disposable plastics, liquid handling systems, explosion-proof lighting glassware, glass ampoules, and tabular glass vials for use in pharmaceutical, food and soil testing, microbiology, bio-technology, photo printing, process systems, and lighting applications. It also provides microwavable and flameproof kitchenware; and glass tumblers and storage products; kitchen appliances, including mixer grinders, induction cooktops, oven toaster grillers, toasters, and rice cookers; and tableware and dinnerware. In addition, the company offers low iron solar glass for application in photovoltaic panels, flat plate collectors and green houses. Borosil Glass Works Limited sells its products through its e-commerce Website myborosil.com, as well as exports worldwide. The company was founded in 1962 and is based in Mumbai, India.",
+          "fullTimeEmployees": 185,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 290.75,
+            "fmt": "290.75"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 1238065024,
+            "fmt": "1.24B",
+            "longFmt": "1,238,065,024"
+          },
+          "totalCashPerShare": {
+            "raw": 53.596,
+            "fmt": "53.6"
+          },
+          "ebitda": {
+            "raw": 745923968,
+            "fmt": "745.92M",
+            "longFmt": "745,923,968"
+          },
+          "totalDebt": {
+            "raw": 8573000,
+            "fmt": "8.57M",
+            "longFmt": "8,573,000"
+          },
+          "quickRatio": {
+            "raw": 1.898,
+            "fmt": "1.90"
+          },
+          "currentRatio": {
+            "raw": 3.135,
+            "fmt": "3.13"
+          },
+          "totalRevenue": {
+            "raw": 5569633792,
+            "fmt": "5.57B",
+            "longFmt": "5,569,633,792"
+          },
+          "debtToEquity": {
+            "raw": 0.13,
+            "fmt": "0.13"
+          },
+          "revenuePerShare": {
+            "raw": 241.11,
+            "fmt": "241.11"
+          },
+          "returnOnAssets": {
+            "raw": 0.02917,
+            "fmt": "2.92%"
+          },
+          "returnOnEquity": {
+            "raw": 0.18586999,
+            "fmt": "18.59%"
+          },
+          "grossProfits": {
+            "raw": 3463075000,
+            "fmt": "3.46B",
+            "longFmt": "3,463,075,000"
+          },
+          "freeCashflow": {
+            "raw": -481481376,
+            "fmt": "-481.48M",
+            "longFmt": "-481,481,376"
+          },
+          "operatingCashflow": {
+            "raw": 434120000,
+            "fmt": "434.12M",
+            "longFmt": "434,120,000"
+          },
+          "earningsGrowth": {
+            "raw": 1.181,
+            "fmt": "118.10%"
+          },
+          "revenueGrowth": {
+            "raw": 0.169,
+            "fmt": "16.90%"
+          },
+          "grossMargins": {
+            "raw": 0.62178004,
+            "fmt": "62.18%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.13393,
+            "fmt": "13.39%"
+          },
+          "operatingMargins": {
+            "raw": 0.07666,
+            "fmt": "7.67%"
+          },
+          "profitMargins": {
+            "raw": 0.2301,
+            "fmt": "23.01%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

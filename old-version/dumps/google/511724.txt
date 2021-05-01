@@ -1,0 +1,277 @@
+
+// [
+{
+"symbol" : "511724",
+"exchange" : "BOM",
+"id": "7549254",
+"t" : "511724",
+"e" : "BOM",
+"name" : "Baid Leasing \u0026 Finance Co"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=BAID.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:511724"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:511724"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:511724"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.05%",
+"annual" : "13.93%",
+"ttm" : "14.21%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "67.02%",
+"annual" : "58.66%",
+"ttm" : "63.02%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "59.36%",
+"ttm" : "63.78%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.01%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.94%",
+"ttm" : ""
+}
+]
+, "c" : "+1.55",
+"l" : "167.40",
+"cp" : "0.93",
+"ccol" : "chg",
+"op" : "168.00",
+"hi" : "169.00",
+"lo" : "165.00",
+"vo" : "12,873.00",
+"avvo" : "",
+"hi52" : "247.90",
+"lo52" : "65.80",
+"mc" : "1.69B",
+"pe" : "33.31",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.03",
+"dy" : "0.30",
+"ldiv" : "0.50",
+"shares" : "10.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7549254",
+"name" : "Baid Leasing \u0026 Finance Co",
+"t" : "511724",
+"e" : "BOM",
+"l" : "167.40",
+"c" : "+1.55",
+"mc" : "1.69B",
+"cp" : "0.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3873499",
+"name" : "Paragon Finance Ltd",
+"t" : "531255",
+"e" : "BOM",
+"l" : "24.90",
+"c" : "-2.60",
+"mc" : "105.82M",
+"cp" : "-9.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10438521",
+"name" : "Kailash Auto Finance Ltd",
+"t" : "511357",
+"e" : "BOM",
+"l" : "0.64",
+"c" : "0.00",
+"mc" : "380.76M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7686660",
+"name" : "Shalibhadra Finance Ltd",
+"t" : "511754",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "-5.35",
+"mc" : "652.09M",
+"cp" : "-3.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7977316",
+"name" : "L\u0026T Finance Holdings Ltd",
+"t" : "L\u0026TFH",
+"e" : "NSE",
+"l" : "168.00",
+"c" : "+5.80",
+"mc" : "305.14B",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "399986380824131",
+"name" : "SRS Finance Ltd",
+"t" : "536799",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "-0.04",
+"mc" : "93.22M",
+"cp" : "-4.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11784956",
+"name" : "Mahindra \u0026 Mahindra Fin. Services Ltd.",
+"t" : "M\u0026MFIN",
+"e" : "NSE",
+"l" : "445.75",
+"c" : "+4.40",
+"mc" : "274.84B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16455919",
+"name" : "Cholamandalam Investment and Fin Co Ltd",
+"t" : "CHOLAFIN",
+"e" : "NSE",
+"l" : "1,438.00",
+"c" : "+22.40",
+"mc" : "223.74B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "557538143932497",
+"name" : "MAS Financial Services Ltd",
+"t" : "MASFIN",
+"e" : "NSE",
+"l" : "597.05",
+"c" : "-3.95",
+"mc" : "32.64B",
+"cp" : "-0.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6950297",
+"name" : "Sundaram Finance Limited",
+"t" : "SUNDARMFIN",
+"e" : "NSE",
+"l" : "1,725.00",
+"c" : "+30.00",
+"mc" : "191.65B",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "809162493859917",
+"name" : "Muthoot Capital Services Ltd",
+"t" : "MUTHOOTCAP",
+"e" : "NSE",
+"l" : "764.80",
+"c" : "+15.35",
+"mc" : "12.62B",
+"cp" : "2.05",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "3, Jaipur Towers, M I Road, JAIPUR, 302006, India",
+"phone": "+91-141-2363358",
+"fax": "+91-141-2363359",
+"url": "http:\u002F\u002Fwww.balfc.com\u002F",
+"overview" : "Baid Leasing and Finance Co. Ltd. is an India-based non-banking finance company. The Company is engaged in the business of vehicle financing and loan against mortgage of property. The Company is also engaged in hire purchase, leasing, lending, securities investments and trading, and negotiable instruments. The Company finances medium commercial vehicles (MCV), light commercial vehicles (LCV), multi-utility vehicle (MUV), cars and three-wheelers. Apart from financing new vehicles, the Company also refinances loans available for used and pre-owned vehicles of various kinds and brands. The Company also offers small and medium enterprises (SME) loans. The Company caters to micro entrepreneurs for augmentation of their business activities."
+} ]
+, "management" : [
+{
+"name" : "Panna Lal Baid",
+"age" : "73",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Aditya Baid",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Aman Baid",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "CS Namrata Sajnani",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Alpana Baid",
+"title" : "Director"
+}
+,
+{
+"name" : "Anurag Patni",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Monu Jain",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Mudit Singhi",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

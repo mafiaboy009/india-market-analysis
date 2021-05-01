@@ -1,0 +1,125 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 12.06,
+                  "fmt": "12.06"
+                },
+                "estimate": {
+                  "raw": 12.43,
+                  "fmt": "12.43"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 9.71,
+                  "fmt": "9.71"
+                },
+                "estimate": {
+                  "raw": 10.85,
+                  "fmt": "10.85"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 13.01,
+                  "fmt": "13.01"
+                },
+                "estimate": {
+                  "raw": 12.49,
+                  "fmt": "12.49"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 12.29,
+                  "fmt": "12.29"
+                },
+                "estimate": {
+                  "raw": 12.15,
+                  "fmt": "12.15"
+                }
+              }
+            ],
+            "currentQuarterEstimate": {
+              "raw": 14.82,
+              "fmt": "14.82"
+            },
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [],
+            "quarterly": []
+          },
+          "financialCurrency": "INR"
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1835.25,
+            "fmt": "1,835.25"
+          },
+          "targetHighPrice": {
+            "raw": 2380.0,
+            "fmt": "2,380.00"
+          },
+          "targetLowPrice": {
+            "raw": 1514.0,
+            "fmt": "1,514.00"
+          },
+          "targetMeanPrice": {
+            "raw": 2116.45,
+            "fmt": "2,116.45"
+          },
+          "targetMedianPrice": {
+            "raw": 2163.0,
+            "fmt": "2,163.00"
+          },
+          "recommendationMean": {
+            "raw": 1.9,
+            "fmt": "1.90"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 38,
+            "fmt": "38",
+            "longFmt": "38"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {},
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {},
+          "debtToEquity": {},
+          "revenuePerShare": {},
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {},
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {},
+          "ebitdaMargins": {},
+          "operatingMargins": {},
+          "profitMargins": {},
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

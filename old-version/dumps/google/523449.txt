@@ -1,0 +1,273 @@
+
+// [
+{
+"symbol" : "523449",
+"exchange" : "BOM",
+"id": "5790633",
+"t" : "523449",
+"e" : "BOM",
+"name" : "Sharp India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SHPI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:523449"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:523449"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:523449"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-2178.36%",
+"annual" : "-53.37%",
+"ttm" : "-650.39%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-1997.49%",
+"annual" : "-47.96%",
+"ttm" : "-610.66%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-41.30%",
+"ttm" : "-504.17%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-32.59%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-221.87%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "143",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.35",
+"l" : "44.65",
+"cp" : "-5.00",
+"ccol" : "chr",
+"op" : "45.15",
+"hi" : "45.15",
+"lo" : "44.65",
+"vo" : "1,050.00",
+"avvo" : "",
+"hi52" : "109.90",
+"lo52" : "42.25",
+"mc" : "1.16B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-3.88",
+"dy" : "",
+"ldiv" : "",
+"shares" : "25.94M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5790633",
+"name" : "Sharp India Ltd",
+"t" : "523449",
+"e" : "BOM",
+"l" : "44.65",
+"c" : "-2.35",
+"mc" : "1.16B",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4066028",
+"name" : "Videocon Industries Ltd.",
+"t" : "VIDEOIND",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "-0.70",
+"mc" : "5.32B",
+"cp" : "-4.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10055305",
+"name" : "Mirc Electronics Limited",
+"t" : "MIRCELECTR",
+"e" : "NSE",
+"l" : "50.10",
+"c" : "+0.80",
+"mc" : "11.64B",
+"cp" : "1.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1394990",
+"name" : "Whirlpool Of India Ltd.",
+"t" : "WHIRLPOOL",
+"e" : "NSE",
+"l" : "1,425.00",
+"c" : "+13.65",
+"mc" : "179.32B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "389492677937246",
+"name" : "Dixon Technologies (India) Ltd",
+"t" : "DIXON",
+"e" : "NSE",
+"l" : "3,370.80",
+"c" : "+85.35",
+"mc" : "38.40B",
+"cp" : "2.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "346542",
+"name" : "BPL Ltd",
+"t" : "BPL",
+"e" : "NSE",
+"l" : "96.50",
+"c" : "+4.15",
+"mc" : "4.72B",
+"cp" : "4.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10210340",
+"name" : "Blue Star Ltd",
+"t" : "BLUESTARCO",
+"e" : "NSE",
+"l" : "739.90",
+"c" : "+0.80",
+"mc" : "70.94B",
+"cp" : "0.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2438356",
+"name" : "Value Industries Ltd",
+"t" : "VALUEIND",
+"e" : "NSE",
+"l" : "5.75",
+"c" : "-0.25",
+"mc" : "225.34M",
+"cp" : "-4.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2927142",
+"name" : "Jaipan Industries Ltd",
+"t" : "505840",
+"e" : "BOM",
+"l" : "47.70",
+"c" : "-0.30",
+"mc" : "290.96M",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11497805",
+"name" : "IFB Industries Ltd",
+"t" : "IFBIND",
+"e" : "NSE",
+"l" : "1,399.95",
+"c" : "+5.45",
+"mc" : "56.50B",
+"cp" : "0.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2323746",
+"name" : "Varun Industries Limited",
+"t" : "VARUN",
+"e" : "NSE",
+"l" : "6.05",
+"c" : "",
+"mc" : "96.08M",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Gat No 686\u002F4, Nagar Road, Koregaon Bhima, PUNE, 412216, India",
+"phone": "+91-2137-252417",
+"fax": "+91-2137-252417",
+"url": "http:\u002F\u002Fwww.sharpindialimited.com\u002F",
+"overview" : "Sharp India Limited is engaged in the manufacture and sale of color televisions (CTVs), light emitting diode televisions (LED TVs) and air conditioners (ACs). The Company\u0027s geographical segments include Sales within India, which includes sales to customers located within India, and Sales outside India, which includes sales to customers located outside India. The products manufactured by the Company are sold through and serviced by Sharp Business System (India) Limited, which is a subsidiary of Sharp Corporation Japan. The Company\u0027s holding company is Sharp Corporation, Japan. Sharp Business Systems (India) Limited offers solar photovoltaic products and systems and office automation products, such as digital multifunction products, facsimile machines, multi-media projectors, professional liquid crystal display (LCD) display solutions, video wall display solutions, electronic cash registers and point of sale (POS) terminals."
+} ]
+, "management" : [
+{
+"name" : "Sunil Keshav Sane",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Chandranil Belvalkar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Masahiko Nakagawasai",
+"age" : "54",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Seiji Hayakawa",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Prashant Asher",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Bhumika Batra",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

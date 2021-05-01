@@ -1,0 +1,295 @@
+
+// [
+{
+"symbol" : "532540",
+"exchange" : "BOM",
+"id": "696014",
+"t" : "532540",
+"e" : "BOM",
+"name" : "Tata Consultancy Services Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532540"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532540"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532540"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "21.18%",
+"annual" : "22.34%",
+"ttm" : "21.20%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "25.20%",
+"annual" : "25.72%",
+"ttm" : "24.86%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "27.40%",
+"ttm" : "26.53%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "27.31%",
+"annual" : "27.41%",
+"ttm" : "26.00%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "33.90%",
+"annual" : "33.43%",
+"ttm" : "31.67%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "390,880",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-41.65",
+"l" : "3,035.25",
+"cp" : "-1.35",
+"ccol" : "chr",
+"op" : "3,078.10",
+"hi" : "3,084.75",
+"lo" : "3,027.00",
+"vo" : "49,935.00",
+"avvo" : "",
+"hi52" : "3,254.80",
+"lo52" : "2,255.00",
+"mc" : "5.80T",
+"pe" : "23.04",
+"fwpe" : "",
+"beta" : "",
+"eps" : "131.73",
+"dy" : "1.60",
+"ldiv" : "7.00",
+"shares" : "1.91B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "696014",
+"name" : "Tata Consultancy Services Limited",
+"t" : "532540",
+"e" : "BOM",
+"l" : "3,035.25",
+"c" : "-41.65",
+"mc" : "5.80T",
+"cp" : "-1.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2245864",
+"name" : "Ranklin Solutions Limited",
+"t" : "RANKLIN",
+"e" : "NSE",
+"l" : "2.20",
+"c" : "",
+"mc" : "26.49M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14304145",
+"name" : "KPIT Technologies Ltd",
+"t" : "KPIT",
+"e" : "NSE",
+"l" : "208.70",
+"c" : "+1.95",
+"mc" : "41.18B",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6285453",
+"name" : "Hexaware Technologies Limited",
+"t" : "HEXAWARE",
+"e" : "NSE",
+"l" : "343.55",
+"c" : "-8.60",
+"mc" : "102.36B",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "673681917155584",
+"name" : "Atishay Ltd",
+"t" : "538713",
+"e" : "BOM",
+"l" : "85.00",
+"c" : "-1.85",
+"mc" : "937.19M",
+"cp" : "-2.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "675532",
+"name" : "Silverline Technologies Limited",
+"t" : "500389",
+"e" : "BOM",
+"l" : "2.19",
+"c" : "0.00",
+"mc" : "166.53M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2921175",
+"name" : "Cressanda Solutions Ltd",
+"t" : "512379",
+"e" : "BOM",
+"l" : "2.65",
+"c" : "0.00",
+"mc" : "804.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14216516",
+"name" : "Spectacle Ventures Ltd",
+"t" : "SPECTACLE",
+"e" : "NSE",
+"l" : "1.40",
+"c" : "",
+"mc" : "72.03M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "11636624",
+"name" : "Zensar Technologies Limited",
+"t" : "ZENSARTECH",
+"e" : "NSE",
+"l" : "887.40",
+"c" : "-12.60",
+"mc" : "39.91B",
+"cp" : "-1.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11681293",
+"name" : "NIIT Technologies Ltd.",
+"t" : "NIITTECH",
+"e" : "NSE",
+"l" : "829.85",
+"c" : "-1.40",
+"mc" : "50.72B",
+"cp" : "-0.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13287899",
+"name" : "Valuemart Info Technologies Ltd",
+"t" : "532338",
+"e" : "BOM",
+"l" : "0.38",
+"c" : "0.00",
+"mc" : "23.36M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "TCS House, Raveline Street, Fort, MUMBAI, 400001, India",
+"phone": "+91-22-67789999",
+"fax": "+91-22-67789000",
+"url": "http:\u002F\u002Fwww.tcs.com\u002F",
+"overview" : "Tata Consultancy Services Limited (TCS) is engaged in providing information technology (IT) services, digital and business solutions. The Company\u0027s segments include banking, finance and insurance services (BFSI)\u003B manufacturing\u003B retail and consumer packaged goods (CPG)\u003B telecom, media and entertainment, and others, such as energy, resources and utilities, hi-tech, life science and healthcare, s-Governance, travel, transportation and hospitality, and other products. Its services portfolio consists of IT and assurance services, business intelligence and performance management, business process services, cloud services, connected marketing solutions, consulting, engineering and industrial services, enterprise solutions, IT infrastructure services, mobility products and services and platform solutions. Its software offerings include Digital Software and Solutions, TCS BaNCS and TCS MasterCraft, among others. It serves industries, including insurance, healthcare, retail, telecom and others."
+} ]
+, "management" : [
+{
+"name" : "Rajesh Gopinathan",
+"title" : "Chief Executive Officer, Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "V. Ramakrishnan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "N. Ganapathy Subramaniam",
+"age" : "58",
+"title" : "Chief Operating Officer, Non-Independent, Executive Director"
+}
+,
+{
+"name" : "Ajoyendra Mukherjee",
+"title" : "Executive Vice President, Global Head - Human Resources"
+}
+,
+{
+"name" : "Rajendra C. Moholkar",
+"title" : "Company Secretary and Compliance Officer Designate"
+}
+,
+{
+"name" : "Pradipta Bagchi",
+"title" : "Head - Communication"
+}
+,
+{
+"name" : "Vishwanathan Iyer",
+"title" : "Head - Legal"
+}
+,
+{
+"name" : "K. Ananth Krishnan",
+"title" : "Research \u0026 Development"
+}
+,
+{
+"name" : "N. Chandrasekaran",
+"age" : "54",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Aarthi Subramanian",
+"age" : "50",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

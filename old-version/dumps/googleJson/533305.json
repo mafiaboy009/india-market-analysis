@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "533305",
+"exchange" : "BOM",
+"id": "7981287",
+"t" : "533305",
+"e" : "BOM",
+"name" : "SRS Real Infrastructure Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SRSR.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533305"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533305"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533305"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002711)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.37%",
+"annual" : "-1.71%",
+"ttm" : "1.27%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.75%",
+"annual" : "3.60%",
+"ttm" : "2.70%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.86%",
+"ttm" : "2.88%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.55%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-3.19%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "44",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.49",
+"l" : "5.20",
+"cp" : "-8.61",
+"ccol" : "chr",
+"op" : "5.35",
+"hi" : "5.51",
+"lo" : "5.13",
+"vo" : "30,064.00",
+"avvo" : "",
+"hi52" : "33.70",
+"lo52" : "5.13",
+"mc" : "2.09B",
+"pe" : "21.14",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.25",
+"dy" : "",
+"ldiv" : "",
+"shares" : "402.03M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7981287",
+"name" : "SRS Real Infrastructure Ltd",
+"t" : "533305",
+"e" : "BOM",
+"l" : "5.20",
+"c" : "-0.49",
+"mc" : "2.09B",
+"cp" : "-8.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1044686203315341",
+"name" : "Hexa Tradex Ltd",
+"t" : "HEXATRADEX",
+"e" : "NSE",
+"l" : "54.90",
+"c" : "+2.45",
+"mc" : "3.07B",
+"cp" : "4.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6613325",
+"name" : "Ambuja Cements Ltd",
+"t" : "AMBUJACEM",
+"e" : "NSE",
+"l" : "263.20",
+"c" : "+3.00",
+"mc" : "521.02B",
+"cp" : "1.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11787956",
+"name" : "ACC Ltd",
+"t" : "ACC",
+"e" : "NSE",
+"l" : "1,661.25",
+"c" : "+9.80",
+"mc" : "312.01B",
+"cp" : "0.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7082343",
+"name" : "Ahluwalia Contracts India Ltd",
+"t" : "AHLUCONT",
+"e" : "NSE",
+"l" : "392.70",
+"c" : "+21.35",
+"mc" : "26.22B",
+"cp" : "5.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6861538",
+"name" : "NITCO Limited",
+"t" : "NITCO",
+"e" : "NSE",
+"l" : "120.60",
+"c" : "-0.15",
+"mc" : "6.60B",
+"cp" : "-0.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11777920",
+"name" : "Sobha Ltd",
+"t" : "SOBHA",
+"e" : "NSE",
+"l" : "558.00",
+"c" : "+5.15",
+"mc" : "53.01B",
+"cp" : "0.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9260292",
+"name" : "Ashoka Buildcon Ltd",
+"t" : "ASHOKA",
+"e" : "NSE",
+"l" : "223.00",
+"c" : "+1.20",
+"mc" : "41.70B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1524703",
+"name" : "Prism Cement Ltd",
+"t" : "PRISMCEM",
+"e" : "NSE",
+"l" : "127.60",
+"c" : "+1.75",
+"mc" : "64.15B",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11280995",
+"name" : "Dalmia Bharat Ltd",
+"t" : "DALMIABHA",
+"e" : "NSE",
+"l" : "2,685.00",
+"c" : "-31.60",
+"mc" : "239.28B",
+"cp" : "-1.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13631850",
+"name" : "Gratex Industries Ltd",
+"t" : "526751",
+"e" : "BOM",
+"l" : "11.26",
+"c" : "0.00",
+"mc" : "34.17M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "SRS Multiplex Top Floor,, City Centre, Sector-12, FARIDABAD, 121003, India",
+"phone": "+91-129-4323100",
+"fax": "+91-129-4323195",
+"url": "http:\u002F\u002Fwww.srsparivar.com\u002Frealinfra\u002Findex.htm",
+"overview" : "SRS Real Infrastructure Limited is a real estate developer. The Company is engaged in real estate development, including identification and acquisition of land, and planning, execution and marketing of the projects, and trading of building material. The Company operates through three segments: Real Estate, Trading and Manufacturing. The Real Estate segment includes promotion, construction and development of integrated townships, residential and commercial complexes. It is engaged in manufacturing ready mix concrete (RMC) and trading in the various parts of the country. The Company conducts its trading activities with products, such as cement, pig iron, aluminum, bathroom fittings and glass. It is engaged in project genres, including group housing, independent floors, plotted colonies, farm houses, information technology (IT) park, and hotels and motels. The Company has projects located in Faridabad, Greater Faridabad, Palwal, Rewari, Kurukshetra, Panchkula and Karjat (Mumbai)."
+} ]
+, "management" : [
+{
+"name" : "Sanjay Jain",
+"age" : "44",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manoj Banerjee",
+"title" : "Executive Vice President - Overseas Business"
+}
+,
+{
+"name" : "Shweta Marwah",
+"title" : "Compliance Officer, Company Secretary, Chief Investor Relations Officer"
+}
+,
+{
+"name" : "Rajesh Singla",
+"age" : "45",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Ankit Garg",
+"title" : "Head - Overseas Business"
+}
+,
+{
+"name" : "Anil Kumar Jindal",
+"age" : "53",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Karamveer ..",
+"age" : "31",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Kiran Arora",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kailash Kumar",
+"age" : "39",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Praveen Sharma",
+"age" : "38",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

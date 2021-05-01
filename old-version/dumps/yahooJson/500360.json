@@ -1,0 +1,382 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 385454720,
+            "fmt": "385.45M",
+            "longFmt": "385,454,720"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.08162,
+            "fmt": "8.16%"
+          },
+          "floatShares": {
+            "raw": 2922261,
+            "fmt": "2.92M",
+            "longFmt": "2,922,261"
+          },
+          "sharesOutstanding": {
+            "raw": 5371240,
+            "fmt": "5.37M",
+            "longFmt": "5,371,240"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.072267,
+            "fmt": "-0.07"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 42.316,
+            "fmt": "42.32"
+          },
+          "priceToBook": {
+            "raw": 1.4651668,
+            "fmt": "1.47"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.079,
+            "fmt": "7.90%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 30011808,
+            "fmt": "30.01M",
+            "longFmt": "30,011,808"
+          },
+          "trailingEps": {
+            "raw": 5.512,
+            "fmt": "5.51"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "5/2",
+          "lastSplitDate": {
+            "raw": 1379635200,
+            "fmt": "2013-09-20"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.048,
+            "fmt": "1.05"
+          },
+          "enterpriseToEbitda": {
+            "raw": 7.736,
+            "fmt": "7.74"
+          },
+          "52WeekChange": {
+            "raw": -0.013076901,
+            "fmt": "-1.31%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "4Q2016",
+                "actual": {
+                  "raw": 1.66,
+                  "fmt": "1.66"
+                },
+                "estimate": {
+                  "raw": 1.12,
+                  "fmt": "1.12"
+                }
+              },
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 1.41,
+                  "fmt": "1.41"
+                },
+                "estimate": {
+                  "raw": 1.55,
+                  "fmt": "1.55"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 384892473,
+                  "fmt": "384.89M",
+                  "longFmt": "384,892,473"
+                },
+                "earnings": {
+                  "raw": 23543913,
+                  "fmt": "23.54M",
+                  "longFmt": "23,543,913"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 386237938,
+                  "fmt": "386.24M",
+                  "longFmt": "386,237,938"
+                },
+                "earnings": {
+                  "raw": 22162323,
+                  "fmt": "22.16M",
+                  "longFmt": "22,162,323"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 334453403,
+                  "fmt": "334.45M",
+                  "longFmt": "334,453,403"
+                },
+                "earnings": {
+                  "raw": 14512584,
+                  "fmt": "14.51M",
+                  "longFmt": "14,512,584"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 419415593,
+                  "fmt": "419.42M",
+                  "longFmt": "419,415,593"
+                },
+                "earnings": {
+                  "raw": 29611807,
+                  "fmt": "29.61M",
+                  "longFmt": "29,611,807"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 104115593,
+                  "fmt": "104.12M",
+                  "longFmt": "104,115,593"
+                },
+                "earnings": {
+                  "raw": 7611807,
+                  "fmt": "7.61M",
+                  "longFmt": "7,611,807"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 94500000,
+                  "fmt": "94.5M",
+                  "longFmt": "94,500,000"
+                },
+                "earnings": {
+                  "raw": 5100000,
+                  "fmt": "5.1M",
+                  "longFmt": "5,100,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 96300000,
+                  "fmt": "96.3M",
+                  "longFmt": "96,300,000"
+                },
+                "earnings": {
+                  "raw": 8000000,
+                  "fmt": "8M",
+                  "longFmt": "8,000,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 111800000,
+                  "fmt": "111.8M",
+                  "longFmt": "111,800,000"
+                },
+                "earnings": {
+                  "raw": 9600000,
+                  "fmt": "9.6M",
+                  "longFmt": "9,600,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "119, GIDC Industrial Area",
+          "city": "Ankleshwar",
+          "zip": "393002",
+          "country": "India",
+          "phone": "91 26 4625 1118",
+          "fax": "91 26 4625 1019",
+          "website": "http://www.rapicutcarbides.com",
+          "industry": "Metal Fabrication",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Rapicut Carbides Limited manufactures and sells tungsten and tungsten carbide products in India and internationally. The company offers drill steel inserts, octagonal/square inserts, tungsten carbide buttons, bucket wheel excavation inserts, carset/cross bit inserts, flow beans/nozzles, and other mining products; wear parts, including mechanical seal rings, pellets/nibs, and jute eyelets; and metal cutting parts, such as blanks for rotary burrs, tips for form tools, flats for knives, scarfer tools, tips for grooving tools, rods for boring tools, slitting cutter blanks, etc. It also provides tungsten metal and tungsten carbide powder, fused tungsten carbide powder, and ready to press powder; and stems and seats for high pressure control valves, tungsten carbide seats for pneumatic valves, scarfing tools and pressure/squeeze rolls for ERW tubes, and forming tools for various industries. In addition, the company supplies flats, segments, bushes, rods, brazed tools, etc. for various applications; special form/profile inserts; and work rest blades for centreless grinding machines. Rapicut Carbides Limited was incorporated in 1977 and is based in Ankleshwar, India.",
+          "fullTimeEmployees": 84,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 62.0,
+            "fmt": "62.00"
+          },
+          "targetHighPrice": {
+            "raw": 53.0,
+            "fmt": "53.00"
+          },
+          "targetLowPrice": {
+            "raw": 53.0,
+            "fmt": "53.00"
+          },
+          "targetMeanPrice": {
+            "raw": 53.0,
+            "fmt": "53.00"
+          },
+          "targetMedianPrice": {
+            "raw": 53.0,
+            "fmt": "53.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 18200000,
+            "fmt": "18.2M",
+            "longFmt": "18,200,000"
+          },
+          "totalCashPerShare": {
+            "raw": 3.394,
+            "fmt": "3.39"
+          },
+          "ebitda": {
+            "raw": 49828960,
+            "fmt": "49.83M",
+            "longFmt": "49,828,960"
+          },
+          "totalDebt": {
+            "raw": 21800000,
+            "fmt": "21.8M",
+            "longFmt": "21,800,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 367715584,
+            "fmt": "367.72M",
+            "longFmt": "367,715,584"
+          },
+          "debtToEquity": {
+            "raw": 9.595,
+            "fmt": "9.60"
+          },
+          "revenuePerShare": {
+            "raw": 67.531,
+            "fmt": "67.53"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 156280668,
+            "fmt": "156.28M",
+            "longFmt": "156,280,668"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.078,
+            "fmt": "7.80%"
+          },
+          "revenueGrowth": {
+            "raw": 0.013,
+            "fmt": "1.30%"
+          },
+          "grossMargins": {
+            "raw": 0.4473,
+            "fmt": "44.73%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.13551,
+            "fmt": "13.55%"
+          },
+          "operatingMargins": {
+            "raw": 0.115880005,
+            "fmt": "11.59%"
+          },
+          "profitMargins": {
+            "raw": 0.08162,
+            "fmt": "8.16%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

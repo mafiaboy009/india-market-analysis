@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "532732",
+"exchange" : "BOM",
+"id": "704395",
+"t" : "532732",
+"e" : "BOM",
+"name" : "Kewal Kiran Clothing Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532732"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532732"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532732"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "17.20%",
+"annual" : "17.32%",
+"ttm" : "14.85%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "25.96%",
+"annual" : "19.26%",
+"ttm" : "21.84%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "22.39%",
+"ttm" : "22.75%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "20.80%",
+"annual" : "18.56%",
+"ttm" : "16.29%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "29.69%",
+"annual" : "25.97%",
+"ttm" : "21.97%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,044",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-40.80",
+"l" : "1,540.10",
+"cp" : "-2.58",
+"ccol" : "chr",
+"op" : "1,575.00",
+"hi" : "1,575.00",
+"lo" : "1,540.05",
+"vo" : "26.00",
+"avvo" : "",
+"hi52" : "2,199.95",
+"lo52" : "1,501.00",
+"mc" : "18.78B",
+"pe" : "27.94",
+"fwpe" : "",
+"beta" : "",
+"eps" : "55.12",
+"dy" : "1.82",
+"ldiv" : "9.50",
+"shares" : "12.33M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "704395",
+"name" : "Kewal Kiran Clothing Limited",
+"t" : "532732",
+"e" : "BOM",
+"l" : "1,540.10",
+"c" : "-40.80",
+"mc" : "18.78B",
+"cp" : "-2.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "727183",
+"name" : "Filatex Fashions Ltd",
+"t" : "532022",
+"e" : "BOM",
+"l" : "3.20",
+"c" : "-0.05",
+"mc" : "92.97M",
+"cp" : "-1.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15681790",
+"name" : "Bhandari Hosiery Exports Ltd(NDA)",
+"t" : "512608",
+"e" : "BOM",
+"l" : "3.50",
+"c" : "+0.13",
+"mc" : "497.98M",
+"cp" : "3.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "485457013239476",
+"name" : "Pincon Lifestyle Ltd",
+"t" : "539007",
+"e" : "BOM",
+"l" : "7.89",
+"c" : "-0.41",
+"mc" : "238.59M",
+"cp" : "-4.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4936914",
+"name" : "SPL Industries Ltd",
+"t" : "SPLIL",
+"e" : "NSE",
+"l" : "25.10",
+"c" : "+0.25",
+"mc" : "726.44M",
+"cp" : "1.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "113518744102783",
+"name" : "Kitex Garments Limited",
+"t" : "KITEX",
+"e" : "NSE",
+"l" : "261.00",
+"c" : "+14.60",
+"mc" : "17.11B",
+"cp" : "5.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1631719",
+"name" : "Arvind Limited",
+"t" : "ARVIND",
+"e" : "NSE",
+"l" : "416.85",
+"c" : "+6.15",
+"mc" : "107.59B",
+"cp" : "1.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715507",
+"name" : "Mohite Industries Ltd",
+"t" : "532140",
+"e" : "BOM",
+"l" : "16.45",
+"c" : "-0.80",
+"mc" : "344.62M",
+"cp" : "-4.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1438982",
+"name" : "Acknit Industries Ltd",
+"t" : "530043",
+"e" : "BOM",
+"l" : "112.00",
+"c" : "+4.30",
+"mc" : "339.53M",
+"cp" : "3.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2241072",
+"name" : "Anjani Synthetics Ltd",
+"t" : "531223",
+"e" : "BOM",
+"l" : "33.15",
+"c" : "+0.35",
+"mc" : "487.48M",
+"cp" : "1.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "269044",
+"name" : "S Kumars Nationwide Ltd",
+"t" : "SKUMARSYNF",
+"e" : "NSE",
+"l" : "2.85",
+"c" : "",
+"mc" : "728.64M",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "460\u002F7,Kiran Estate I.B. Patel Road, Kewal Goregaon East, MUMBAI, 400063, India",
+"phone": "+91-22-26814400",
+"fax": "+91-22-26814410",
+"url": "http:\u002F\u002Fwww.kewalkiran.com\u002F",
+"overview" : "Kewal Kiran Clothing Limited is engaged in manufacturing and marketing of wearing apparels. The Company\u0027s segments include Apparel \u0026 Life style Accessories\u002FProducts, and Other\u002FReconciling Item. The Company is also engaged in generating power from Wind Turbine Generator. The Company offers a range of western wear for men and women. It offers a range of products under its four brands: Killer, Easies, LawmanPg3 and Integriti. The Company designs, manufactures and markets branded jeans, formals, semi-formal and casual wear for both men and women. It also offers a range of branded lifestyle accessories. K-Lounge and Addictions are the Company\u0027s Brand Outlets, as well as retail formats, which operate in various cities in India and the Middle East. It operates over 140 K-Lounge stores throughout the nation. The Company has approximately four manufacturing units located in Mumbai (Maharashtra), Vapi (Gujarat) and Daman. Its windmill is located in Taluka Porbunder, District Porbunder, Gujarat."
+} ]
+, "management" : [
+{
+"name" : "Kewalchand P. Jain",
+"age" : "53",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Bhavin Sheth",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Abhijit B. Warange",
+"title" : "Vice President – Legal \u0026 Company Secretary"
+}
+,
+{
+"name" : "Dinesh P. Jain",
+"age" : "46",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Hemant P. Jain",
+"age" : "50",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Vikas P. Jain",
+"age" : "45",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Drushti R. Desai",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Prakash Amrut Mody Ph.D.",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Nimish Gulabrai Pandya",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Yogesh A. Thar",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

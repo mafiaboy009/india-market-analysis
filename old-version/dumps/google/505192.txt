@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "505192",
+"exchange" : "BOM",
+"id": "677187",
+"t" : "505192",
+"e" : "BOM",
+"name" : "SML Isuzu Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:505192"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:505192"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:505192"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-4.41%",
+"annual" : "4.59%",
+"ttm" : "0.21%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-4.22%",
+"annual" : "6.15%",
+"ttm" : "1.10%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.03%",
+"ttm" : "3.46%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.32%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.91%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,063",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+16.15",
+"l" : "814.00",
+"cp" : "2.02",
+"ccol" : "chg",
+"op" : "809.00",
+"hi" : "820.00",
+"lo" : "800.90",
+"vo" : "2,671.00",
+"avvo" : "",
+"hi52" : "1,385.00",
+"lo52" : "774.95",
+"mc" : "11.77B",
+"pe" : "475.07",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.71",
+"dy" : "0.98",
+"ldiv" : "8.00",
+"shares" : "14.48M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677187",
+"name" : "SML Isuzu Ltd",
+"t" : "505192",
+"e" : "BOM",
+"l" : "814.00",
+"c" : "+16.15",
+"mc" : "11.77B",
+"cp" : "2.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "147800850031861",
+"name" : "Atul Auto Ltd",
+"t" : "ATULAUTO",
+"e" : "NSE",
+"l" : "418.00",
+"c" : "+1.55",
+"mc" : "9.16B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7147553",
+"name" : "Ashok Leyland Ltd",
+"t" : "ASHOKLEY",
+"e" : "NSE",
+"l" : "137.10",
+"c" : "+2.70",
+"mc" : "399.82B",
+"cp" : "2.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9708440",
+"name" : "Tata Motors Limited",
+"t" : "TATAMOTORS",
+"e" : "NSE",
+"l" : "372.80",
+"c" : "+12.60",
+"mc" : "1.18T",
+"cp" : "3.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678138",
+"name" : "Force Motors Ltd",
+"t" : "500033",
+"e" : "BOM",
+"l" : "3,013.20",
+"c" : "+52.80",
+"mc" : "39.55B",
+"cp" : "1.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14302116",
+"name" : "Daewoo Motors India Ltd",
+"t" : "500100",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3788609",
+"name" : "Premier Limited",
+"t" : "PREMIER",
+"e" : "NSE",
+"l" : "29.10",
+"c" : "-0.15",
+"mc" : "896.10M",
+"cp" : "-0.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9051848",
+"name" : "Scooters India Ltd",
+"t" : "505141",
+"e" : "BOM",
+"l" : "47.60",
+"c" : "-0.55",
+"mc" : "4.06B",
+"cp" : "-1.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7152373",
+"name" : "Maruti Suzuki India Ltd",
+"t" : "MARUTI",
+"e" : "NSE",
+"l" : "9,050.00",
+"c" : "+351.20",
+"mc" : "2.73T",
+"cp" : "4.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6565540",
+"name" : "Mahindra \u0026 Mahindra Limited",
+"t" : "M\u0026M",
+"e" : "NSE",
+"l" : "735.40",
+"c" : "+16.75",
+"mc" : "912.66B",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5627408",
+"name" : "Pricol Ltd",
+"t" : "PRICOL",
+"e" : "NSE",
+"l" : "92.35",
+"c" : "",
+"mc" : "8.75B",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "S.C.O. 204-205, Sector 34-A, CHANDIGARH, 160135, India",
+"phone": "+91-172-2647700",
+"fax": "+91-172-2615111",
+"url": "http:\u002F\u002Fsmlisuzu.com\u002F",
+"overview" : "SML Isuzu Limited, formerly Swaraj Mazda Limited, is engaged in the business of manufacture of commercial vehicles and spares. The Company produces light and medium commercial vehicles. It manufactures and supplies state buses, ambulances and customized vehicles. The Company\u0027s SML buses category includes Cosmo air conditioned (AC) cab, executive bus, standard school bus, S7 school bus, semi low floor bus, standard staff bus, S7 staff bus, bus chassis and S7 Xm cool series. The Company offers special applications, including standard ambulance, cardiac AC ambulance, tipper, dumper placer, troop carrier, prison van, dual cab truck, water tanker truck, closed van, refrigerated van and recovery van. Its Isuzu buses include NQR, FR 1318, LT 134, IS12TE Bus Chassis, NQR Bus Chassis and LT 134 Bus Chassis. The Company has its operations primarily in India."
+} ]
+, "management" : [
+{
+"name" : "Eiichi Seto",
+"title" : "Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "Gopal Bansal",
+"age" : "58",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Parvesh Madan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Takahiro Imai",
+"title" : "Director - R\u0026D (Isuzu Products \u0026 Projects), Whole Time Director"
+}
+,
+{
+"name" : "Kei Katayama",
+"age" : "59",
+"title" : "Director- R\u0026D, Whole-time Director"
+}
+,
+{
+"name" : "Surender Kumar Tuteja",
+"age" : "72",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Masahiro Narikiyo",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Hiroshi Omino",
+"age" : "53",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Pankaj Bajaj",
+"age" : "42",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Kazuo Goda",
+"title" : "Non-Executive Non-Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

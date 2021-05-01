@@ -1,0 +1,276 @@
+
+// [
+{
+"symbol" : "539220",
+"exchange" : "BOM",
+"id": "320428633164178",
+"t" : "539220",
+"e" : "BOM",
+"name" : "Mishka Exim Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=MISK.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:539220"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:539220"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:539220"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.93%",
+"annual" : "0.56%",
+"ttm" : "0.56%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-1.19%",
+"annual" : "-0.47%",
+"ttm" : "-0.47%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.37%",
+"ttm" : "0.37%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "1.21%",
+"annual" : "0.77%",
+"ttm" : "0.77%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "7.20%",
+"annual" : "0.87%",
+"ttm" : "0.87%"
+}
+]
+, "c" : "0.00",
+"l" : "25.00",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "25.00",
+"hi" : "25.00",
+"lo" : "25.00",
+"vo" : "220.00",
+"avvo" : "",
+"hi52" : "59.00",
+"lo52" : "25.00",
+"mc" : "361.25M",
+"pe" : "277.69",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.09",
+"dy" : "",
+"ldiv" : "",
+"shares" : "14.45M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "320428633164178",
+"name" : "Mishka Exim Ltd",
+"t" : "539220",
+"e" : "BOM",
+"l" : "25.00",
+"c" : "0.00",
+"mc" : "361.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "931903303526303",
+"name" : "Veeram Ornaments Ltd",
+"t" : "540252",
+"e" : "BOM",
+"l" : "77.50",
+"c" : "-2.00",
+"mc" : "334.03M",
+"cp" : "-2.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "269770796713427",
+"name" : "Darshan Orna Ltd",
+"t" : "539884",
+"e" : "BOM",
+"l" : "187.00",
+"c" : "+4.50",
+"mc" : "891.00M",
+"cp" : "2.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "553422944844201",
+"name" : "Radhika Jeweltech Ltd",
+"t" : "540125",
+"e" : "BOM",
+"l" : "31.20",
+"c" : "-1.60",
+"mc" : "736.32M",
+"cp" : "-4.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "77171576635135",
+"name" : "Negotium International Trade Ltd",
+"t" : "537838",
+"e" : "BOM",
+"l" : "10.93",
+"c" : "0.00",
+"mc" : "428.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "467714282440298",
+"name" : "Pure Giftcarat Ltd",
+"t" : "540492",
+"e" : "BOM",
+"l" : "15.00",
+"c" : "+2.00",
+"mc" : "315.72M",
+"cp" : "15.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13349472",
+"name" : "Srs Ltd",
+"t" : "SRSLTD",
+"e" : "NSE",
+"l" : "1.25",
+"c" : "+0.05",
+"mc" : "348.23M",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "531520983303791",
+"name" : "Synergy Bizcon Ltd",
+"t" : "539143",
+"e" : "BOM",
+"l" : "62.70",
+"c" : "+1.15",
+"mc" : "772.78M",
+"cp" : "1.87",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1486355",
+"name" : "Rajesh Exports Ltd.",
+"t" : "RAJESHEXPO",
+"e" : "NSE",
+"l" : "800.55",
+"c" : "-0.80",
+"mc" : "236.33B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "332095320902103",
+"name" : "Bhakti Gems and Jewellery Ltd",
+"t" : "540545",
+"e" : "BOM",
+"l" : "20.50",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8969714",
+"name" : "Vaibhav Global Ltd",
+"t" : "VAIBHAVGBL",
+"e" : "NSE",
+"l" : "706.00",
+"c" : "+15.20",
+"mc" : "23.03B",
+"cp" : "2.20",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": ", DELHI, 110092, India",
+"phone": "+91-11-22371916",
+"url": "http:\u002F\u002Fwww.mishkaexim.com\u002F",
+"overview" : "Mishka Exim Limited is an India-based multi-product trading company. The Company\u0027s principal business activities include sale of jewelry, fabric and shares. The Company is engaged in the business of trading and distribution of jewelry, ornaments and textile products. Its segments include Fabric, Ornaments and share trading activities. The Company deals in lifestyle products, such as jewelry, ornaments and fabrics. The Company sells gold and diamond jewelry on a wholesale basis to other jewelry retailers in India. Its product profile includes various designs across jewelry lines, usages and price points. The Company is also engaged in trading a range of fabrics, including fabrics for silk, polyester, sarees, lace fabrics, netting fabrics, coarse cotton fabric, suiting, shirting, linen, jute and other fabrics. The Company primarily caters to retailers in Delhi and National Capital Region (NCR) Regions, wherein it supplies mid-range of unstitched fabrics."
+} ]
+, "management" : [
+{
+"name" : "Rajneesh Gupta",
+"age" : "54",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Shikha Gupta",
+"title" : "Head - Operations"
+}
+,
+{
+"name" : "Suman Gupta",
+"age" : "53",
+"title" : "Non-Independent Non-Executive Director"
+}
+,
+{
+"name" : "Varun Gupta",
+"age" : "26",
+"title" : "Non-Independent Non-Executive Director"
+}
+,
+{
+"name" : "Naresh Kumar Garg",
+"age" : "56",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rajneesh Kumar Garg",
+"age" : "49",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Akhil Mohan Gupta",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

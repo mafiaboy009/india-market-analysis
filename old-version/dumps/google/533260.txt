@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "533260",
+"exchange" : "BOM",
+"id": "7756798",
+"t" : "533260",
+"e" : "BOM",
+"name" : "Career Point Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533260"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533260"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533260"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "30.09%",
+"annual" : "21.13%",
+"ttm" : "26.20%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "37.65%",
+"annual" : "28.79%",
+"ttm" : "32.40%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "35.07%",
+"ttm" : "37.48%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.74%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.89%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "606",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+4.50",
+"l" : "129.75",
+"cp" : "3.59",
+"ccol" : "chg",
+"op" : "125.55",
+"hi" : "131.60",
+"lo" : "125.55",
+"vo" : "8,051.00",
+"avvo" : "",
+"hi52" : "167.00",
+"lo52" : "85.20",
+"mc" : "2.37B",
+"pe" : "9.72",
+"fwpe" : "",
+"beta" : "",
+"eps" : "13.35",
+"dy" : "",
+"ldiv" : "",
+"shares" : "18.16M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7756798",
+"name" : "Career Point Ltd",
+"t" : "533260",
+"e" : "BOM",
+"l" : "129.75",
+"c" : "+4.50",
+"mc" : "2.37B",
+"cp" : "3.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1834028",
+"name" : "Zee Learn Ltd",
+"t" : "ZEELEARN",
+"e" : "NSE",
+"l" : "41.45",
+"c" : "+0.05",
+"mc" : "13.51B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "477051433001329",
+"name" : "Shanti Educational Initiatives Ltd",
+"t" : "539921",
+"e" : "BOM",
+"l" : "159.00",
+"c" : "0.00",
+"mc" : "2.56B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "502709958114181",
+"name" : "MT Educare Ltd",
+"t" : "MTEDUCARE",
+"e" : "NSE",
+"l" : "70.65",
+"c" : "+0.30",
+"mc" : "2.81B",
+"cp" : "0.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "815655670129120",
+"name" : "Siddharth Education Services Ltd",
+"t" : "540736",
+"e" : "BOM",
+"l" : "34.00",
+"c" : "0.00",
+"mc" : "394.38M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7098095",
+"name" : "NIIT Limited",
+"t" : "NIITLTD",
+"e" : "NSE",
+"l" : "92.70",
+"c" : "-1.85",
+"mc" : "15.53B",
+"cp" : "-1.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "505283741737018",
+"name" : "S Chand and Company Ltd",
+"t" : "SCHAND",
+"e" : "NSE",
+"l" : "464.95",
+"c" : "-2.30",
+"mc" : "16.22B",
+"cp" : "-0.49",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7927500",
+"name" : "IEC Education Ltd",
+"t" : "531840",
+"e" : "BOM",
+"l" : "4.07",
+"c" : "0.00",
+"mc" : "62.11M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7458461",
+"name" : "Educomp Solutions Ltd",
+"t" : "EDUCOMP",
+"e" : "NSE",
+"l" : "6.45",
+"c" : "+0.30",
+"mc" : "783.54M",
+"cp" : "4.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "584242336321432",
+"name" : "CL Educate Ltd",
+"t" : "CLEDUCATE",
+"e" : "NSE",
+"l" : "238.05",
+"c" : "-1.75",
+"mc" : "3.35B",
+"cp" : "-0.73",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10696596",
+"name" : "Jetking Infotrain Ltd",
+"t" : "517063",
+"e" : "BOM",
+"l" : "70.20",
+"c" : "-0.95",
+"mc" : "420.92M",
+"cp" : "-1.34",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "CP Tower, Road No.1,, Ipia, KOTA, 324005, India",
+"phone": "+91-744-3040000",
+"fax": "+91-744-3040050",
+"url": "http:\u002F\u002Fcpil.in\u002F",
+"overview" : "Career Point Limited is an India-based company that provides coaching services and hostel services. The Company is in education field and operates through two segments: Informal and Formal Education. The Company has diversified products and integrated services in both regulated and non-regulated education, including Test Preparation, Schools (Pre-schools and K12), Technical Campuses and Private Universities in multiple geographies. It provides tutorial services to students for school curriculum and various competitive examinations for engineering and medical entrance and others. It provides education consultancy and management services for administration of the school. It provides various services to Career Point Schools including the franchisees, which are into three categories: Career Point International Schools, Career Point World Schools and Career Point Public Schools. It has various online platforms and technology based learning solutions."
+} ]
+, "management" : [
+{
+"name" : "Pramod Maheshwari",
+"age" : "42",
+"title" : "Executive Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Om Prakash Maheshwari",
+"age" : "44",
+"title" : "Chief Financial Officer, Whole time Director"
+}
+,
+{
+"name" : "Tarun Kumar Jain",
+"age" : "32",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Naval Kishore Maheshwari",
+"age" : "38",
+"title" : "Whole time Director"
+}
+,
+{
+"name" : "Neelima Maheshwari",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Jagdish Sarda",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Ram Swaroop Chaudhary",
+"age" : "74",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Pritam Kumar Goswami",
+"age" : "41",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Mahesh Gupta",
+"age" : "36",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

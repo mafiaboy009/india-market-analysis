@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "532891",
+"exchange" : "BOM",
+"id": "713624",
+"t" : "532891",
+"e" : "BOM",
+"name" : "Puravankara Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532891"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532891"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532891"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.83%",
+"annual" : "8.83%",
+"ttm" : "8.22%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "19.79%",
+"annual" : "27.91%",
+"ttm" : "22.87%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "29.08%",
+"ttm" : "23.86%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.12%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.54%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "936",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+13.15",
+"l" : "149.20",
+"cp" : "9.67",
+"ccol" : "chg",
+"op" : "139.75",
+"hi" : "152.70",
+"lo" : "138.00",
+"vo" : "148,296.00",
+"avvo" : "",
+"hi52" : "182.00",
+"lo52" : "49.65",
+"mc" : "35.62B",
+"pe" : "27.38",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.45",
+"dy" : "1.51",
+"ldiv" : "2.25",
+"shares" : "237.16M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "713624",
+"name" : "Puravankara Ltd",
+"t" : "532891",
+"e" : "BOM",
+"l" : "149.20",
+"c" : "+13.15",
+"mc" : "35.62B",
+"cp" : "9.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7259733",
+"name" : "Prestige Estates Projects Limited",
+"t" : "PRESTIGE",
+"e" : "NSE",
+"l" : "332.50",
+"c" : "+18.20",
+"mc" : "124.69B",
+"cp" : "5.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3794094",
+"name" : "Elpro International Limited",
+"t" : "504000",
+"e" : "BOM",
+"l" : "51.05",
+"c" : "+0.95",
+"mc" : "6.95B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "273764734036902",
+"name" : "Sunstar Realty Development Ltd",
+"t" : "535141",
+"e" : "BOM",
+"l" : "6.74",
+"c" : "-0.13",
+"mc" : "1.59B",
+"cp" : "-1.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1215026",
+"name" : "PVP Ventures Limited",
+"t" : "PVP",
+"e" : "NSE",
+"l" : "6.90",
+"c" : "-0.25",
+"mc" : "1.68B",
+"cp" : "-3.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16296434",
+"name" : "RDB Realty \u0026 Infrastructure Ltd",
+"t" : "533285",
+"e" : "BOM",
+"l" : "50.50",
+"c" : "-2.00",
+"mc" : "872.81M",
+"cp" : "-3.81",
+"ccol" : "chr"
+}
+,
+{
+"id" : "393984142839227",
+"name" : "Sri Krishna Constructions (India) Ltd",
+"t" : "539363",
+"e" : "BOM",
+"l" : "143.95",
+"c" : "-0.65",
+"mc" : "1.53B",
+"cp" : "-0.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "791428790585902",
+"name" : "Arvind Smartspaces Ltd",
+"t" : "ARVSMART",
+"e" : "NSE",
+"l" : "186.65",
+"c" : "+1.60",
+"mc" : "6.49B",
+"cp" : "0.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "524140416984345",
+"name" : "Bhagyanagar Properties Ltd",
+"t" : "BHAGYAPROP",
+"e" : "NSE",
+"l" : "20.25",
+"c" : "-0.05",
+"mc" : "649.50M",
+"cp" : "-0.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "987880303179418",
+"name" : "Shri Krishna Prasadam Ltd",
+"t" : "537954",
+"e" : "BOM",
+"l" : "14.45",
+"c" : "-0.25",
+"mc" : "",
+"cp" : "-1.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722516",
+"name" : "Alchemist Realty Ltd",
+"t" : "532114",
+"e" : "BOM",
+"l" : "2.67",
+"c" : "-0.14",
+"mc" : "197.85M",
+"cp" : "-4.98",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "130\u002F1, Ulsoor Road, BANGALORE, 560042, India",
+"phone": "+91-80-25599000",
+"fax": "+91-80-25599350",
+"url": "http:\u002F\u002Fwww.puravankara.com\u002F",
+"overview" : "Puravankara Limited, formerly Puravankara Projects Limited, is a real estate company engaged in the construction of buildings. The Company is engaged in the development and construction of residential and commercial properties. Its Puravankara brand is a residential realty brand. It is engaged in developing approximately six projects in Bengaluru, Chennai, Coimbatore and Mangaluru. The Company\u0027s services include kitchen\u003B wardrobe\u003B crockery units\u002Fmedia units\u002Fpooja units\u002Fshoe racks\u003B painting\u003B wall cladding\u003B texture painting\u003B false ceiling\u003B false flooring\u003B wooden\u002Flaminated flooring\u003B blinds\u002Fcurtains\u002Fsoft furnishings\u003B electrical (home appliances) and decorative electrical fixture works, and toilet accessories. The Company also undertakes independent interior projects, be it a standalone house, apartments in residential complexes or homes in a gated community. The Company\u0027s subsidiary, Provident Housing Limited, is engaged in the development of housing."
+} ]
+, "management" : [
+{
+"name" : "Ravi Puravankara",
+"age" : "61",
+"title" : "Executive Chairman of the Board, Founder"
+}
+,
+{
+"name" : "Ashish Puravankara",
+"age" : "34",
+"title" : "Chief Executive Officer, Managing Director, Whole-time Director"
+}
+,
+{
+"name" : "Kuldeep Chawla",
+"age" : "52",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "D. Bindu",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Nani R. Choksey",
+"age" : "62",
+"title" : "Managing Director, Whole-time Director"
+}
+,
+{
+"name" : "Jackbastian Kaitan Nazareth",
+"title" : "Chief Development Officer"
+}
+,
+{
+"name" : "Pradeep Guha",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Suchitra Kaul Misra",
+"title" : "Additional Non-Executive Independent Woman Director"
+}
+,
+{
+"name" : "R. V. S. Rao",
+"age" : "72",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Shweta Vyas",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

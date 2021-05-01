@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "512599",
+"exchange" : "BOM",
+"id": "703767",
+"t" : "512599",
+"e" : "BOM",
+"name" : "Adani Enterprises Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:512599"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:512599"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:512599"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.19%",
+"annual" : "2.16%",
+"ttm" : "1.07%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.63%",
+"annual" : "4.94%",
+"ttm" : "4.62%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.59%",
+"ttm" : "8.06%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.81%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.18%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "854",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.05",
+"l" : "205.40",
+"cp" : "0.51",
+"ccol" : "chg",
+"op" : "205.00",
+"hi" : "207.70",
+"lo" : "203.70",
+"vo" : "375,325.00",
+"avvo" : "",
+"hi52" : "223.35",
+"lo52" : "92.60",
+"mc" : "225.74B",
+"pe" : "28.58",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.19",
+"dy" : "0.19",
+"ldiv" : "0.40",
+"shares" : "1.10B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703767",
+"name" : "Adani Enterprises Ltd",
+"t" : "512599",
+"e" : "BOM",
+"l" : "205.40",
+"c" : "+1.05",
+"mc" : "225.74B",
+"cp" : "0.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12624773",
+"name" : "Pagaria Energy Ltd",
+"t" : "531396",
+"e" : "BOM",
+"l" : "3.50",
+"c" : "0.00",
+"mc" : "15.22M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2764048",
+"name" : "National Steel and Agro Industries",
+"t" : "NATNLSTEEL",
+"e" : "NSE",
+"l" : "36.75",
+"c" : "+0.05",
+"mc" : "1.62B",
+"cp" : "0.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7785606",
+"name" : "Usher Agro Limited",
+"t" : "USHERAGRO",
+"e" : "NSE",
+"l" : "6.55",
+"c" : "+0.15",
+"mc" : "504.80M",
+"cp" : "2.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "838656874128548",
+"name" : "Vitan Agro Industries Ltd",
+"t" : "538548",
+"e" : "BOM",
+"l" : "4.94",
+"c" : "0.00",
+"mc" : "412.67M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8902314",
+"name" : "Kesar Enterprises Ltd",
+"t" : "KESARENT",
+"e" : "NSE",
+"l" : "57.95",
+"c" : "-1.15",
+"mc" : "578.73M",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9499492",
+"name" : "Gitanjali Gems Limited",
+"t" : "GITANJALI",
+"e" : "NSE",
+"l" : "23.55",
+"c" : "-1.20",
+"mc" : "2.79B",
+"cp" : "-4.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6492243",
+"name" : "Adani Power Ltd",
+"t" : "ADANIPOWER",
+"e" : "NSE",
+"l" : "32.70",
+"c" : "+0.55",
+"mc" : "126.12B",
+"cp" : "1.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10081808",
+"name" : "Kothari Products Ltd.",
+"t" : "KOTHARIPRO",
+"e" : "NSE",
+"l" : "169.90",
+"c" : "-0.90",
+"mc" : "5.06B",
+"cp" : "-0.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16408023",
+"name" : "Emmsons International Ltd",
+"t" : "532038",
+"e" : "BOM",
+"l" : "3.07",
+"c" : "-0.16",
+"mc" : "36.83M",
+"cp" : "-4.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6709566",
+"name" : "NTPC Limited",
+"t" : "NTPC",
+"e" : "NSE",
+"l" : "162.50",
+"c" : "-1.05",
+"mc" : "1.34T",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Adani House Nr Mithakhali Six Road, Navrangpura, AHMEDABAD, 380009, India",
+"phone": "+91-79-26565555",
+"fax": "+91-79-26565500",
+"url": "http:\u002F\u002Fwww.adanienterprises.com\u002F",
+"overview" : "Adani Enterprises Limited is a holding company. The Company is an integrated infrastructure company with businesses spanning coal trading, coal mining, oil and gas exploration, ports, multi-modal logistics, power generation, and transmission and gas distribution. Its segments include Trading, Power, Port, Agro, Mining, City Gas Distribution (CGD), Renewable Energy and Others. It conducts CGD business through its subsidiary, Adani Gas Limited, to provide piped natural gas (PNG) to household, industrial and commercial consumers, and compressed natural gas (CNG) for use in automobiles. It provides services, such as mining, beneficiation (on-site) and transportation to various consumption centers. It is engaged in agro-commodity sector through subsidiaries, which include Adani Wilmar Limited, Adani Agri Logistics Limited and Adani Agri Fresh Limited (AAFL). The Company through its subsidiary, Adani Bunkering Pvt. Ltd. (CAPL), trades in ship bunker (fuel oil and marine gas oil) in India."
+} ]
+, "management" : [
+{
+"name" : "Gautam S. Adani",
+"age" : "55",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Ameet H. Desai",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Jatin Rameshchandra Jalundhwala",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajesh Shantilal Adani",
+"age" : "52",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Pranav Adani",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Vasant S. Adani",
+"age" : "62",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Anil Ahuja",
+"age" : "54",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Berjis Minoo Desai",
+"age" : "61",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vijaylaxmi Joshi",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Narendra Mairpady",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

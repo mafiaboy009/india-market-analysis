@@ -1,0 +1,287 @@
+
+ [
+{
+"symbol" : "524669",
+"exchange" : "BOM",
+"id": "9782784",
+"t" : "524669",
+"e" : "BOM",
+"name" : "Hester Biosciences Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=HEST.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:524669"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:524669"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:524669"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002711)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "15.09%",
+"annual" : "18.44%",
+"ttm" : "18.02%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "26.94%",
+"annual" : "27.60%",
+"ttm" : "32.28%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "33.39%",
+"ttm" : "42.95%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.23%",
+"ttm" : "8.86%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "21.19%",
+"ttm" : "17.02%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "350",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+16.25",
+"l" : "1,599.15",
+"cp" : "1.03",
+"ccol" : "chg",
+"op" : "1,600.60",
+"hi" : "1,611.90",
+"lo" : "1,574.10",
+"vo" : "236.00",
+"avvo" : "",
+"hi52" : "1,949.80",
+"lo52" : "716.00",
+"mc" : "13.75B",
+"pe" : "164.63",
+"fwpe" : "",
+"beta" : "",
+"eps" : "9.71",
+"dy" : "0.39",
+"ldiv" : "4.00",
+"shares" : "8.51M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9782784",
+"name" : "Hester Biosciences Ltd",
+"t" : "524669",
+"e" : "BOM",
+"l" : "1,599.15",
+"c" : "+16.25",
+"mc" : "13.75B",
+"cp" : "1.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14566698",
+"name" : "Panacea Biotec Limited",
+"t" : "PANACEABIO",
+"e" : "NSE",
+"l" : "316.25",
+"c" : "-4.80",
+"mc" : "19.45B",
+"cp" : "-1.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6341069",
+"name" : "Biocon Ltd",
+"t" : "BIOCON",
+"e" : "NSE",
+"l" : "627.00",
+"c" : "-1.25",
+"mc" : "376.56B",
+"cp" : "-0.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2296064",
+"name" : "Titan Biotech Ltd",
+"t" : "524717",
+"e" : "BOM",
+"l" : "70.85",
+"c" : "+1.40",
+"mc" : "543.98M",
+"cp" : "2.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6355153",
+"name" : "Sequent Scientific Limited",
+"t" : "512529",
+"e" : "BOM",
+"l" : "83.50",
+"c" : "+1.70",
+"mc" : "20.53B",
+"cp" : "2.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13313409",
+"name" : "GlaxoSmithKline Pharmaceuticals Limited",
+"t" : "GLAXO",
+"e" : "NSE",
+"l" : "2,399.00",
+"c" : "-5.70",
+"mc" : "204.03B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14964318",
+"name" : "Wockhardt Limited",
+"t" : "WOCKPHARMA",
+"e" : "NSE",
+"l" : "786.10",
+"c" : "+0.80",
+"mc" : "86.88B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5032817",
+"name" : "Jubilant Life Sciences Ltd",
+"t" : "JUBILANT",
+"e" : "NSE",
+"l" : "879.45",
+"c" : "-4.35",
+"mc" : "140.53B",
+"cp" : "-0.49",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1584468",
+"name" : "Wyeth Limited",
+"t" : "WYETH",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "678392",
+"name" : "Novartis India Limited",
+"t" : "500672",
+"e" : "BOM",
+"l" : "621.60",
+"c" : "+5.55",
+"mc" : "15.26B",
+"cp" : "0.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12258597",
+"name" : "Cadila Healthcare Ltd",
+"t" : "CADILAHC",
+"e" : "NSE",
+"l" : "408.80",
+"c" : "+2.25",
+"mc" : "419.59B",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "16\u002F10,DEVENDRA SOCIETY NR NARANPURA POST OFFICE, NARANPURA, AHMEDABAD, 380006, India",
+"phone": "+91-79-26445107",
+"fax": "+91-79-26445105",
+"url": "http:\u002F\u002Fwww.hesterbiosciences.co.in\u002F",
+"overview" : "Hester Biosciences Limited is an India-based company engaged in manufacturing of poultry vaccines and large animal vaccines, and trading of poultry health products and large animal health products. Its segments include Poultry Division and Large Animal Division. It provides over 40 products across poultry vaccines (live and inactivated), large animal vaccines (live and inactivated), health products and diagnostics. Its product range includes vaccines, drugs, feed supplements and disinfectants. It manufactures over two live vaccines for large animals, including Peste des Petits Ruminants (PPR) Live vaccines and Goat Pox Vaccine. Its offerings include Avian, including Live B1, Live LAS, Live R2B, Live M48, Live FP, Gumboro M1, Gumboro I and Gumboro I+\u003B swine fever vaccines, and large animal, including PPR Vaccine-Sungri 96 strain and Brucella abortus (S19) calf Vaccine. It offers services, such as seromonitoring for poultry farms and mastitis prevention programs for cattle farms."
+} ]
+, "management" : [
+{
+"name" : "Rajiv D. Gandhi",
+"age" : "52",
+"title" : "Chief Executive Officer, Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Jigar Shah",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Amala Parikh",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Bhupendra V. Gandhi",
+"age" : "71",
+"title" : "Non-Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Ravin Gandhi",
+"age" : "41",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Sanjiv D. Gandhi",
+"age" : "49",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Grishma Nanavaty",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vimal Ambani",
+"age" : "52",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

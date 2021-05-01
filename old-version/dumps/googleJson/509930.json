@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "509930",
+"exchange" : "BOM",
+"id": "703992",
+"t" : "509930",
+"e" : "BOM",
+"name" : "Supreme Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:509930"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:509930"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:509930"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.50%",
+"annual" : "8.44%",
+"ttm" : "7.50%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.12%",
+"annual" : "13.62%",
+"ttm" : "12.06%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "17.07%",
+"ttm" : "15.55%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "14.37%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "28.58%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,712",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-6.05",
+"l" : "1,181.45",
+"cp" : "-0.51",
+"ccol" : "chr",
+"op" : "1,205.10",
+"hi" : "1,225.00",
+"lo" : "1,171.00",
+"vo" : "454,198.00",
+"avvo" : "",
+"hi52" : "1,489.95",
+"lo52" : "980.20",
+"mc" : "148.30B",
+"pe" : "37.38",
+"fwpe" : "",
+"beta" : "",
+"eps" : "31.61",
+"dy" : "0.85",
+"ldiv" : "3.00",
+"shares" : "127.03M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703992",
+"name" : "Supreme Industries Ltd",
+"t" : "509930",
+"e" : "BOM",
+"l" : "1,181.45",
+"c" : "-6.05",
+"mc" : "148.30B",
+"cp" : "-0.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6926324",
+"name" : "Faze Three Ltd",
+"t" : "530079",
+"e" : "BOM",
+"l" : "73.00",
+"c" : "+0.40",
+"mc" : "1.78B",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12609898",
+"name" : "Alps Industries Ltd.",
+"t" : "ALPSINDUS",
+"e" : "NSE",
+"l" : "4.40",
+"c" : "-0.20",
+"mc" : "170.25M",
+"cp" : "-4.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11378130",
+"name" : "Texmo Pipes and products limited",
+"t" : "TEXMOPIPES",
+"e" : "NSE",
+"l" : "22.70",
+"c" : "+0.40",
+"mc" : "567.95M",
+"cp" : "1.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7934627",
+"name" : "Essel Propack Ltd",
+"t" : "ESSELPACK",
+"e" : "NSE",
+"l" : "274.65",
+"c" : "+3.85",
+"mc" : "43.15B",
+"cp" : "1.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "116296903323442",
+"name" : "Skipper Ltd",
+"t" : "SKIPPER",
+"e" : "NSE",
+"l" : "240.00",
+"c" : "-1.05",
+"mc" : "24.68B",
+"cp" : "-0.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10966155",
+"name" : "Kisan Mouldings Ltd",
+"t" : "530145",
+"e" : "BOM",
+"l" : "178.00",
+"c" : "+6.55",
+"mc" : "5.81B",
+"cp" : "3.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9526827",
+"name" : "Apollo Pipes Ltd",
+"t" : "531761",
+"e" : "BOM",
+"l" : "589.60",
+"c" : "+28.05",
+"mc" : "2.98B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7762566",
+"name" : "Uniply Industries Ltd",
+"t" : "UNIPLY",
+"e" : "NSE",
+"l" : "445.40",
+"c" : "-4.40",
+"mc" : "10.70B",
+"cp" : "-0.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7129115",
+"name" : "Greenply Industries Ltd.",
+"t" : "GREENPLY",
+"e" : "NSE",
+"l" : "344.00",
+"c" : "-3.65",
+"mc" : "42.14B",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "826580927686795",
+"name" : "Greenlam Industries Ltd",
+"t" : "GREENLAM",
+"e" : "NSE",
+"l" : "1,173.00",
+"c" : "-26.90",
+"mc" : "28.33B",
+"cp" : "-2.24",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "142-48, S. V. Road, Jogeshwari (West), MUMBAI, 400093, India",
+"phone": "+91-22-67710000",
+"fax": "+91-22-67710099",
+"url": "http:\u002F\u002Fwww.supreme.co.in\u002F",
+"overview" : "The Supreme Industries Limited is engaged in the manufacturing of plastic products. The Company operates in two segments: Plastics and Construction. Its product groups include Plastics Piping System, which includes Unplasticised Poly Vinyl Chloride (uPVC) Pipes, Injection Moulded Polyvinyl Chloride (PVC) fittings and handmade fittings, Polypropylene Random Copolymer pipes and fittings, High Density Polyethylene Pipe Systems, Chlorinated Polyvinyl Chloride (CPVC) Pipes Systems, Inspection Chambers and manholes, Bath fittings, Roto moulded Tanks and Fittings and Solvents\u003B Consumer products, such as furniture\u003B Industrial Products, such as Industrial products, Material handling System and Pallets-Roto moulded crates, garbage bins\u003B Packaging Products, such as Flexible packaging film products, Protective Packaging Products, Cross Laminated Film products, and Composite Products, such as Liquefied Petroleum Gas Cylinders. The Supreme Industries Overseas FZE is the subsidiary of the Company."
+} ]
+, "management" : [
+{
+"name" : "R. J. Saboo",
+"title" : "Compliance Officer, Company Secretary, Senior General Manager - Corporate Affairs"
+}
+,
+{
+"name" : "M. P. Taparia",
+"age" : "77",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Shivratan Jeetmal Taparia",
+"age" : "71",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "V. K. Taparia",
+"age" : "57",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "B. L. Taparia",
+"age" : "80",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Ramanathan Kannan",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rajeev M. Pandia",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Bhupendranath Vidyanath Bhargava",
+"age" : "81",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Rashna Hoshang Khan",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

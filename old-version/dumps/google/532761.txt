@@ -1,0 +1,287 @@
+
+// [
+{
+"symbol" : "532761",
+"exchange" : "BOM",
+"id": "714620",
+"t" : "532761",
+"e" : "BOM",
+"name" : "HOV Services Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532761"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532761"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532761"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002711)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.42%",
+"annual" : "-6.15%",
+"ttm" : "7.58%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.32%",
+"annual" : "-4.41%",
+"ttm" : "11.52%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.12%",
+"ttm" : "15.63%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.46%",
+"ttm" : "5.16%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-78.35%",
+"ttm" : "22.15%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "14,200",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+13.70",
+"l" : "292.75",
+"cp" : "4.91",
+"ccol" : "chg",
+"op" : "280.20",
+"hi" : "293.00",
+"lo" : "280.20",
+"vo" : "7,904.00",
+"avvo" : "",
+"hi52" : "396.60",
+"lo52" : "163.00",
+"mc" : "3.67B",
+"pe" : "6.81",
+"fwpe" : "",
+"beta" : "",
+"eps" : "43.01",
+"dy" : "",
+"ldiv" : "",
+"shares" : "12.54M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "714620",
+"name" : "HOV Services Limited",
+"t" : "532761",
+"e" : "BOM",
+"l" : "292.75",
+"c" : "+13.70",
+"mc" : "3.67B",
+"cp" : "4.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12912950",
+"name" : "Allsec Technologies Ltd",
+"t" : "ALLSEC",
+"e" : "NSE",
+"l" : "395.00",
+"c" : "+20.65",
+"mc" : "6.01B",
+"cp" : "5.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3500927",
+"name" : "Hinduja Global Solutions Ltd",
+"t" : "HGS",
+"e" : "NSE",
+"l" : "835.10",
+"c" : "-7.20",
+"mc" : "17.46B",
+"cp" : "-0.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "317640247297234",
+"name" : "Advance Metering Technology Ltd",
+"t" : "534612",
+"e" : "BOM",
+"l" : "23.65",
+"c" : "-0.15",
+"mc" : "376.59M",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16751637",
+"name" : "Sai Capital Ltd",
+"t" : "531931",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-50.00",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16718212",
+"name" : "Engineers India Limited",
+"t" : "ENGINERSIN",
+"e" : "NSE",
+"l" : "174.40",
+"c" : "+3.60",
+"mc" : "109.76B",
+"cp" : "2.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "303609315419821",
+"name" : "Rithwik Facility Management Services Ltd",
+"t" : "540843",
+"e" : "BOM",
+"l" : "36.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11008731",
+"name" : "Excel Realty N Infra Ltd",
+"t" : "EXCEL",
+"e" : "NSE",
+"l" : "25.60",
+"c" : "-1.20",
+"mc" : "2.39B",
+"cp" : "-4.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1372968",
+"name" : "Mps Ltd",
+"t" : "MPSLTD",
+"e" : "NSE",
+"l" : "576.00",
+"c" : "-3.50",
+"mc" : "10.68B",
+"cp" : "-0.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "987447153123214",
+"name" : "CARE Ratings Ltd",
+"t" : "CARERATING",
+"e" : "NSE",
+"l" : "1,367.05",
+"c" : "-5.65",
+"mc" : "40.50B",
+"cp" : "-0.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6636324",
+"name" : "BNR Udyog Ltd",
+"t" : "530809",
+"e" : "BOM",
+"l" : "32.50",
+"c" : "+1.80",
+"mc" : "103.93M",
+"cp" : "5.86",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "3 Floor, Sharda Arcade Pune-Satara Road, Bibwewadi, PUNE, 411037, India",
+"phone": "+91-20-24231612",
+"fax": "+91-20-24221470",
+"url": "http:\u002F\u002Fwww.hovsltd.com\u002F",
+"overview" : "HOV Services Limited is an India-based company, which operates as a hybrid between an investment company and a diversified services corporation. The Company is engaged in providing information technology (IT) and IT enabled services, such as data entry services, software development and support services. It also provides business process outsourcing (BPO) services. Its segments are Software and IT Enabled Services, and Environment Solutions Services. Its subsidiaries include HOVS LLC and HOVS Holdings Limited."
+} ]
+, "management" : [
+{
+"name" : "Sunil Rajadhyaksha",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "James G. Reynolds",
+"title" : "Chief Financial Officer - Global"
+}
+,
+{
+"name" : "Bhuvanesh Sharma",
+"title" : "Compliance Officer, Vice President - Corporate Affairs, Company Secretary"
+}
+,
+{
+"name" : "Parvinder S. Chadha",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Surinder Rametra",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Harish P. Bhasin",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Baldev Raj Gupta",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Rohit Jain",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Lakshmi Kumar",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

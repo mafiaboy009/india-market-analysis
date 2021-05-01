@@ -1,0 +1,302 @@
+
+// [
+{
+"symbol" : "540596",
+"exchange" : "BOM",
+"id": "298720219030611",
+"t" : "540596",
+"e" : "BOM",
+"name" : "Eris Lifesciences Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:540596"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:540596"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:540596"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "35.85%",
+"annual" : "33.25%",
+"ttm" : "34.87%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "35.61%",
+"annual" : "33.70%",
+"ttm" : "34.15%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "37.03%",
+"ttm" : "37.15%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "46.78%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "57.96%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,645",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-8.80",
+"l" : "725.00",
+"cp" : "-1.20",
+"ccol" : "chr",
+"op" : "733.25",
+"hi" : "744.00",
+"lo" : "724.95",
+"vo" : "1,412.00",
+"avvo" : "",
+"hi52" : "830.95",
+"lo52" : "510.50",
+"mc" : "100.29B",
+"pe" : "35.60",
+"fwpe" : "",
+"beta" : "",
+"eps" : "20.36",
+"dy" : "",
+"ldiv" : "",
+"shares" : "137.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "298720219030611",
+"name" : "Eris Lifesciences Ltd",
+"t" : "540596",
+"e" : "BOM",
+"l" : "725.00",
+"c" : "-8.80",
+"mc" : "100.29B",
+"cp" : "-1.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6813187",
+"name" : "Nectar Lifesciences Ltd.",
+"t" : "NECLIFE",
+"e" : "NSE",
+"l" : "31.85",
+"c" : "-0.35",
+"mc" : "7.16B",
+"cp" : "-1.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "503013843684723",
+"name" : "ANG Lifesciences India Ltd",
+"t" : "540694",
+"e" : "BOM",
+"l" : "74.00",
+"c" : "0.00",
+"mc" : "383.57M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1139837",
+"name" : "Parnax Lab Ltd",
+"t" : "506128",
+"e" : "BOM",
+"l" : "56.00",
+"c" : "-0.60",
+"mc" : "483.53M",
+"cp" : "-1.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16070884",
+"name" : "Bliss GVS Pharma Limited",
+"t" : "BLISSGVS",
+"e" : "NSE",
+"l" : "198.00",
+"c" : "+8.55",
+"mc" : "20.47B",
+"cp" : "4.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13914165",
+"name" : "Strides Shasun Ltd",
+"t" : "STAR",
+"e" : "NSE",
+"l" : "710.00",
+"c" : "+16.50",
+"mc" : "63.59B",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5262084",
+"name" : "Marksans Pharma Limited",
+"t" : "MARKSANS",
+"e" : "NSE",
+"l" : "38.60",
+"c" : "-0.20",
+"mc" : "15.74B",
+"cp" : "-0.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8666279",
+"name" : "Jenburkt Pharmaceuticals Ltd",
+"t" : "524731",
+"e" : "BOM",
+"l" : "575.00",
+"c" : "+11.15",
+"mc" : "2.63B",
+"cp" : "1.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12069835",
+"name" : "Claris Lifesciences Ltd",
+"t" : "533288",
+"e" : "BOM",
+"l" : "393.05",
+"c" : "-0.30",
+"mc" : "21.44B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12485079",
+"name" : "Astec LifeSciences Limited",
+"t" : "ASTEC",
+"e" : "NSE",
+"l" : "595.10",
+"c" : "+6.50",
+"mc" : "11.68B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "251616120825672",
+"name" : "SMS Lifesciences India Ltd",
+"t" : "SMSLIFE",
+"e" : "NSE",
+"l" : "410.00",
+"c" : "-4.55",
+"mc" : "1.24B",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "7th Floor, Commerce House IV,, Beside Shell Petrol Pump, 100 Feet Road,, AHMEDABAD, 380015, India",
+"phone": "+91-79-30451111",
+"fax": "+91-79-30179404",
+"url": "http:\u002F\u002Fwww.eris.co.in\u002F",
+"overview" : "Eris Lifesciences Limited is an India-based company, which is engaged in manufacturing, marketing and selling of generics within the chronic and acute categories of the Indian Pharmaceutical Market. The Company operates within various areas through its seven focused divisions: Eris, Nikkos, Adura, Montana, Inspira, Victus and Eris 2. Its Eris division includes Atorsave 10, Atorsave 20, Decal, Enoxsave 0.6 and Metaloc XL100 products\u003B its Nikkos division includes Alerfix, Erinac D, Ezeepam Plus 5, Zenpride OD and Nikotriol products\u003B its Adura division includes Crevast 5, Glitaris M30, Metafort G1 CP and Olmin 10 products\u003B its Montana division includes Meftaris, Calshine 60K Sachet, Hinder, Rabemon 20 and Vomisave Syrup products\u003B its Inspira division includes Crevast F 5, Lnbeta 5 and Twichek products\u003B its Victus division includes Atorsave D80, Cyblex M 30 XR, Cyblex M 80, Cyblex M 60 XR and Cyblex MV 40.3 products, and its Eris 2 division includes Tayo, Tayo 60K and Maxum products."
+} ]
+, "management" : [
+{
+"name" : "Amit Indubhushan Bakshi",
+"age" : "42",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sachin Shah",
+"age" : "37",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Milind Talegaonkar",
+"age" : "41",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Inderjeet Singh Negi",
+"age" : "45",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Himanshu Jayantbhai Shah",
+"age" : "40",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Rajendrakumar Rambhai Patel",
+"age" : "39",
+"title" : "Head of Procurement"
+}
+,
+{
+"name" : "Kaushal Kamlesh Shah",
+"age" : "37",
+"title" : "Head of Manufacturing and Distribution"
+}
+,
+{
+"name" : "Sanjiv Dwarkanath Kaul",
+"age" : "59",
+"title" : "Non-Executive Director - Nominee"
+}
+,
+{
+"name" : "Vijaya Sampath",
+"age" : "63",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Kirit Nanubhai Shelat",
+"age" : "71",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,267 @@
+
+// [
+{
+"symbol" : "507526",
+"exchange" : "BOM",
+"id": "7165807",
+"t" : "507526",
+"e" : "BOM",
+"name" : "Associated Alcohol and Breweries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ASAL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:507526"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:507526"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:507526"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.87%",
+"annual" : "5.86%",
+"ttm" : "7.96%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "15.52%",
+"annual" : "10.14%",
+"ttm" : "13.29%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.83%",
+"ttm" : "16.85%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "10.18%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "19.40%",
+"ttm" : ""
+}
+]
+, "c" : "+1.20",
+"l" : "276.50",
+"cp" : "0.44",
+"ccol" : "chg",
+"op" : "282.95",
+"hi" : "282.95",
+"lo" : "269.95",
+"vo" : "11,660.00",
+"avvo" : "",
+"hi52" : "309.00",
+"lo52" : "108.00",
+"mc" : "4.97B",
+"pe" : "19.89",
+"fwpe" : "",
+"beta" : "",
+"eps" : "13.90",
+"dy" : "0.36",
+"ldiv" : "1.00",
+"shares" : "18.08M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7165807",
+"name" : "Associated Alcohol and Breweries Ltd",
+"t" : "507526",
+"e" : "BOM",
+"l" : "276.50",
+"c" : "+1.20",
+"mc" : "4.97B",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9672160",
+"name" : "Radico Khaitan Limited",
+"t" : "RADICO",
+"e" : "NSE",
+"l" : "354.30",
+"c" : "+1.30",
+"mc" : "47.16B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7586898",
+"name" : "Tilaknagar Industries Ltd",
+"t" : "TI",
+"e" : "NSE",
+"l" : "18.10",
+"c" : "+0.30",
+"mc" : "2.26B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8315956",
+"name" : "G M Breweries Ltd",
+"t" : "GMBREW",
+"e" : "NSE",
+"l" : "923.60",
+"c" : "+4.85",
+"mc" : "13.54B",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3788558",
+"name" : "United Breweries (Holdings) Ltd.",
+"t" : "UBHOLDINGS",
+"e" : "NSE",
+"l" : "11.20",
+"c" : "+0.50",
+"mc" : "748.37M",
+"cp" : "4.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1661632",
+"name" : "Nuway Organic Naturals India Ltd",
+"t" : "531819",
+"e" : "BOM",
+"l" : "7.01",
+"c" : "0.00",
+"mc" : "67.19M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "705829",
+"name" : "Indage Vintners Ltd",
+"t" : "522059",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-13.55",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11103399",
+"name" : "Khoday India Limited",
+"t" : "507435",
+"e" : "BOM",
+"l" : "75.00",
+"c" : "+1.55",
+"mc" : "2.54B",
+"cp" : "2.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1432984",
+"name" : "Ravikumar Distilleries Limited",
+"t" : "RKDL",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "+0.35",
+"mc" : "380.40M",
+"cp" : "2.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3493013",
+"name" : "Ugar Sugar Works Limited",
+"t" : "UGARSUGAR",
+"e" : "NSE",
+"l" : "19.80",
+"c" : "-0.25",
+"mc" : "2.23B",
+"cp" : "-1.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16118513",
+"name" : "United Spirits Ltd",
+"t" : "MCDOWELL-N",
+"e" : "NSE",
+"l" : "3,242.00",
+"c" : "+3.15",
+"mc" : "470.54B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "BPK Star Tower, 4th Floor, ,, AB Road, INDORE, 452008, India",
+"phone": "+91-731-6662400",
+"fax": "+91-731-6662410",
+"url": "http:\u002F\u002Fwww.associatedalcohols.com\u002F",
+"overview" : "Associated Alcohols \u0026 Breweries Limited is a distillery company. The Company is engaged in the manufacture of alcoholic liquor. It operates through Potable Alcohol segment. It is also engaged in the business of bottling vodka and Scotch whisky for international brands. It has presence in all varieties of potable alcohols, country liquor (CL), rectified spirits (RS), extra neutral alcohol (ENA), distilled grain spirit, Indian made foreign liquor (IMFL) in the whisky, brandy, rum, gin and vodka categories, and bottling scotch whisky for other international brands. It manufactures and markets in house brands, such as Red \u0026 White, James McGill, Bombay Special (in the whisky segment), London Bridge (in the gin segment) and Jamaican Magic in the rum category. Its licensed brands include Smimoff Vodka, Captain Morgan rum, HAIG Scotch whisky, Masterstroke whisky, Glen Drummond single malt Scotch whisky and Royal Crown whisky. It has a production capacity of 42 million liters per annum."
+} ]
+, "management" : [
+{
+"name" : "Tushar Bhandari",
+"title" : "Chief Financial Officer, Additional Compliance Officer, Whole Time Director"
+}
+,
+{
+"name" : "Sanjay Tibrewal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Summit Jaitely",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Abhijit Nagee",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Manish Kumar Tibrewal",
+"age" : "36",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Nitin Tibrewal",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,397 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 4795449856,
+            "fmt": "4.8B",
+            "longFmt": "4,795,449,856"
+          },
+          "forwardPE": {
+            "raw": 14.8777895,
+            "fmt": "14.88"
+          },
+          "profitMargins": {
+            "raw": 0.15713,
+            "fmt": "15.71%"
+          },
+          "floatShares": {
+            "raw": 4978127,
+            "fmt": "4.98M",
+            "longFmt": "4,978,127"
+          },
+          "sharesOutstanding": {
+            "raw": 28702300,
+            "fmt": "28.7M",
+            "longFmt": "28,702,300"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.771151,
+            "fmt": "0.77"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 44.87,
+            "fmt": "44.87"
+          },
+          "priceToBook": {
+            "raw": 3.1201248,
+            "fmt": "3.12"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1396224000,
+            "fmt": "2014-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.085,
+            "fmt": "8.50%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 211146000,
+            "fmt": "211.15M",
+            "longFmt": "211,146,000"
+          },
+          "trailingEps": {
+            "raw": 7.356,
+            "fmt": "7.36"
+          },
+          "forwardEps": {
+            "raw": 9.41,
+            "fmt": "9.41"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1487030400,
+            "fmt": "2017-02-14"
+          },
+          "enterpriseToRevenue": {
+            "raw": 3.569,
+            "fmt": "3.57"
+          },
+          "enterpriseToEbitda": {
+            "raw": 13.285,
+            "fmt": "13.28"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 1.9,
+                  "fmt": "1.90"
+                },
+                "estimate": {
+                  "raw": 2.54,
+                  "fmt": "2.54"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 1331104000,
+                  "fmt": "1.33B",
+                  "longFmt": "1,331,104,000"
+                },
+                "earnings": {
+                  "raw": 203736000,
+                  "fmt": "203.74M",
+                  "longFmt": "203,736,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1582076000,
+                  "fmt": "1.58B",
+                  "longFmt": "1,582,076,000"
+                },
+                "earnings": {
+                  "raw": 278627000,
+                  "fmt": "278.63M",
+                  "longFmt": "278,627,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 1481104000,
+                  "fmt": "1.48B",
+                  "longFmt": "1,481,104,000"
+                },
+                "earnings": {
+                  "raw": 232469000,
+                  "fmt": "232.47M",
+                  "longFmt": "232,469,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 1343726000,
+                  "fmt": "1.34B",
+                  "longFmt": "1,343,726,000"
+                },
+                "earnings": {
+                  "raw": 211146000,
+                  "fmt": "211.15M",
+                  "longFmt": "211,146,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2013",
+                "revenue": {
+                  "raw": 323020000,
+                  "fmt": "323.02M",
+                  "longFmt": "323,020,000"
+                },
+                "earnings": {
+                  "raw": 41677000,
+                  "fmt": "41.68M",
+                  "longFmt": "41,677,000"
+                }
+              },
+              {
+                "date": "3Q2013",
+                "revenue": {
+                  "raw": 335744000,
+                  "fmt": "335.74M",
+                  "longFmt": "335,744,000"
+                },
+                "earnings": {
+                  "raw": 68216000,
+                  "fmt": "68.22M",
+                  "longFmt": "68,216,000"
+                }
+              },
+              {
+                "date": "4Q2013",
+                "revenue": {
+                  "raw": 274663000,
+                  "fmt": "274.66M",
+                  "longFmt": "274,663,000"
+                },
+                "earnings": {
+                  "raw": 50084000,
+                  "fmt": "50.08M",
+                  "longFmt": "50,084,000"
+                }
+              },
+              {
+                "date": "1Q2014",
+                "revenue": {
+                  "raw": 397677000,
+                  "fmt": "397.68M",
+                  "longFmt": "397,677,000"
+                },
+                "earnings": {
+                  "raw": 43759000,
+                  "fmt": "43.76M",
+                  "longFmt": "43,759,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "122, Mistry Bhavan",
+          "address2": "2nd Floor Dinshaw Wachha Road Churchgate",
+          "city": "Mumbai",
+          "zip": "400020",
+          "country": "India",
+          "phone": "91 22 6625 6262",
+          "fax": "91 22 2282 2031",
+          "website": "http://www.orbitexports.com",
+          "industry": "Textile Industrial",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Orbit Exports Limited manufactures and sells fabrics, ribbons, and made ups. The company offers faux silk fabrics, fashion Jaquard, and Christmas craft products. It is also involved in the windmill power generation business. The company also exports its products primarily to South East Asian countries, the Middle East, Europe, and North America. Orbit Exports Limited was founded in 1983 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 140.0,
+            "fmt": "140.00"
+          },
+          "targetHighPrice": {
+            "raw": 177.0,
+            "fmt": "177.00"
+          },
+          "targetLowPrice": {
+            "raw": 177.0,
+            "fmt": "177.00"
+          },
+          "targetMeanPrice": {
+            "raw": 177.0,
+            "fmt": "177.00"
+          },
+          "targetMedianPrice": {
+            "raw": 177.0,
+            "fmt": "177.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 52531000,
+            "fmt": "52.53M",
+            "longFmt": "52,531,000"
+          },
+          "totalCashPerShare": {
+            "raw": 1.83,
+            "fmt": "1.83"
+          },
+          "ebitda": {
+            "raw": 360960992,
+            "fmt": "360.96M",
+            "longFmt": "360,960,992"
+          },
+          "totalDebt": {
+            "raw": 446483008,
+            "fmt": "446.48M",
+            "longFmt": "446,483,008"
+          },
+          "quickRatio": {
+            "raw": 2.131,
+            "fmt": "2.13"
+          },
+          "currentRatio": {
+            "raw": 4.017,
+            "fmt": "4.02"
+          },
+          "totalRevenue": {
+            "raw": 1343725952,
+            "fmt": "1.34B",
+            "longFmt": "1,343,725,952"
+          },
+          "debtToEquity": {
+            "raw": 62.69,
+            "fmt": "62.69"
+          },
+          "revenuePerShare": {
+            "raw": 46.816,
+            "fmt": "46.82"
+          },
+          "returnOnAssets": {
+            "raw": 0.106429994,
+            "fmt": "10.64%"
+          },
+          "returnOnEquity": {
+            "raw": 0.17503001,
+            "fmt": "17.50%"
+          },
+          "grossProfits": {
+            "raw": 767979000,
+            "fmt": "767.98M",
+            "longFmt": "767,979,000"
+          },
+          "freeCashflow": {
+            "raw": 281024864,
+            "fmt": "281.02M",
+            "longFmt": "281,024,864"
+          },
+          "operatingCashflow": {
+            "raw": 373102016,
+            "fmt": "373.1M",
+            "longFmt": "373,102,016"
+          },
+          "earningsGrowth": {
+            "raw": -0.053,
+            "fmt": "-5.30%"
+          },
+          "revenueGrowth": {
+            "raw": 0.045,
+            "fmt": "4.50%"
+          },
+          "grossMargins": {
+            "raw": 0.57153,
+            "fmt": "57.15%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.26863,
+            "fmt": "26.86%"
+          },
+          "operatingMargins": {
+            "raw": 0.21831,
+            "fmt": "21.83%"
+          },
+          "profitMargins": {
+            "raw": 0.15713,
+            "fmt": "15.71%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

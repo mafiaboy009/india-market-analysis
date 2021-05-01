@@ -1,0 +1,405 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 19327422464,
+            "fmt": "19.33B",
+            "longFmt": "19,327,422,464"
+          },
+          "forwardPE": {
+            "raw": 7.6970205,
+            "fmt": "7.70"
+          },
+          "profitMargins": {
+            "raw": 0.0919,
+            "fmt": "9.19%"
+          },
+          "floatShares": {
+            "raw": 7080694,
+            "fmt": "7.08M",
+            "longFmt": "7,080,694"
+          },
+          "sharesOutstanding": {
+            "raw": 36030400,
+            "fmt": "36.03M",
+            "longFmt": "36,030,400"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.236733,
+            "fmt": "0.24"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 376.79,
+            "fmt": "376.79"
+          },
+          "priceToBook": {
+            "raw": 0.96685153,
+            "fmt": "0.97"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1206921600,
+            "fmt": "2008-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 8.099,
+            "fmt": "809.90%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1318093056,
+            "fmt": "1.32B",
+            "longFmt": "1,318,093,056"
+          },
+          "trailingEps": {
+            "raw": 36.604,
+            "fmt": "36.60"
+          },
+          "forwardEps": {
+            "raw": 47.33,
+            "fmt": "47.33"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.348,
+            "fmt": "1.35"
+          },
+          "enterpriseToEbitda": {
+            "raw": 8.351,
+            "fmt": "8.35"
+          },
+          "52WeekChange": {
+            "raw": -0.14874434,
+            "fmt": "-14.87%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 4.87,
+                  "fmt": "4.87"
+                },
+                "estimate": {
+                  "raw": 4.89,
+                  "fmt": "4.89"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 10.4,
+                  "fmt": "10.40"
+                },
+                "estimate": {
+                  "raw": 10.57,
+                  "fmt": "10.57"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 15913767000,
+                  "fmt": "15.91B",
+                  "longFmt": "15,913,767,000"
+                },
+                "earnings": {
+                  "raw": 910307000,
+                  "fmt": "910.31M",
+                  "longFmt": "910,307,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 17598771000,
+                  "fmt": "17.6B",
+                  "longFmt": "17,598,771,000"
+                },
+                "earnings": {
+                  "raw": 549101000,
+                  "fmt": "549.1M",
+                  "longFmt": "549,101,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 14798963000,
+                  "fmt": "14.8B",
+                  "longFmt": "14,798,963,000"
+                },
+                "earnings": {
+                  "raw": 125618000,
+                  "fmt": "125.62M",
+                  "longFmt": "125,618,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 14342256000,
+                  "fmt": "14.34B",
+                  "longFmt": "14,342,256,000"
+                },
+                "earnings": {
+                  "raw": 1318093000,
+                  "fmt": "1.32B",
+                  "longFmt": "1,318,093,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2007",
+                "revenue": {
+                  "raw": 1126185000,
+                  "fmt": "1.13B",
+                  "longFmt": "1,126,185,000"
+                },
+                "earnings": {
+                  "raw": 167448000,
+                  "fmt": "167.45M",
+                  "longFmt": "167,448,000"
+                }
+              },
+              {
+                "date": "3Q2007",
+                "revenue": {
+                  "raw": 1332753000,
+                  "fmt": "1.33B",
+                  "longFmt": "1,332,753,000"
+                },
+                "earnings": {
+                  "raw": 240662000,
+                  "fmt": "240.66M",
+                  "longFmt": "240,662,000"
+                }
+              },
+              {
+                "date": "4Q2007",
+                "revenue": {
+                  "raw": 1909097000,
+                  "fmt": "1.91B",
+                  "longFmt": "1,909,097,000"
+                },
+                "earnings": {
+                  "raw": 404944500,
+                  "fmt": "404.94M",
+                  "longFmt": "404,944,500"
+                }
+              },
+              {
+                "date": "1Q2008",
+                "revenue": {
+                  "raw": 1909097000,
+                  "fmt": "1.91B",
+                  "longFmt": "1,909,097,000"
+                },
+                "earnings": {
+                  "raw": 404941500,
+                  "fmt": "404.94M",
+                  "longFmt": "404,941,500"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Industrial Growth Center",
+          "address2": "Siltara",
+          "city": "Raipur",
+          "zip": "493111",
+          "country": "India",
+          "phone": "91 77 1221 6000",
+          "fax": "91 77 1221 6198",
+          "website": "http://www.seml.co.in",
+          "industry": "Steel & Iron",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Sarda Energy & Minerals Limited produces and sells steel products in India. The company operates through Steel, Ferro, and Power segments. Its products include sponge iron, billets, ingots, TMT bars, ferro alloys, eco-bricks, and pellets, as well as wire rods/HB wires. The company also exports its products. In addition, it operates thermal, hydro, and solar power plants. The company was incorporated in 1973 and is headquartered in Raipur, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 364.3,
+            "fmt": "364.30"
+          },
+          "targetHighPrice": {
+            "raw": 64.0,
+            "fmt": "64.00"
+          },
+          "targetLowPrice": {
+            "raw": 64.0,
+            "fmt": "64.00"
+          },
+          "targetMeanPrice": {
+            "raw": 64.0,
+            "fmt": "64.00"
+          },
+          "targetMedianPrice": {
+            "raw": 64.0,
+            "fmt": "64.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 992988992,
+            "fmt": "992.99M",
+            "longFmt": "992,988,992"
+          },
+          "totalCashPerShare": {
+            "raw": 27.56,
+            "fmt": "27.56"
+          },
+          "ebitda": {
+            "raw": 2314480128,
+            "fmt": "2.31B",
+            "longFmt": "2,314,480,128"
+          },
+          "totalDebt": {
+            "raw": 3238400000,
+            "fmt": "3.24B",
+            "longFmt": "3,238,400,000"
+          },
+          "quickRatio": {
+            "raw": 0.476,
+            "fmt": "0.48"
+          },
+          "currentRatio": {
+            "raw": 1.563,
+            "fmt": "1.56"
+          },
+          "totalRevenue": {
+            "raw": 14342255616,
+            "fmt": "14.34B",
+            "longFmt": "14,342,255,616"
+          },
+          "debtToEquity": {
+            "raw": 80.397,
+            "fmt": "80.40"
+          },
+          "revenuePerShare": {
+            "raw": 398.44,
+            "fmt": "398.44"
+          },
+          "returnOnAssets": {
+            "raw": 0.02996,
+            "fmt": "3.00%"
+          },
+          "returnOnEquity": {
+            "raw": 0.0928,
+            "fmt": "9.28%"
+          },
+          "grossProfits": {
+            "raw": 4774812000,
+            "fmt": "4.77B",
+            "longFmt": "4,774,812,000"
+          },
+          "freeCashflow": {
+            "raw": -2617738496,
+            "fmt": "-2.62B",
+            "longFmt": "-2,617,738,496"
+          },
+          "operatingCashflow": {
+            "raw": 1771248000,
+            "fmt": "1.77B",
+            "longFmt": "1,771,248,000"
+          },
+          "earningsGrowth": {
+            "raw": 6.846,
+            "fmt": "684.60%"
+          },
+          "revenueGrowth": {
+            "raw": 0.643,
+            "fmt": "64.30%"
+          },
+          "grossMargins": {
+            "raw": 0.33291999,
+            "fmt": "33.29%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.16137,
+            "fmt": "16.14%"
+          },
+          "operatingMargins": {
+            "raw": 0.099309996,
+            "fmt": "9.93%"
+          },
+          "profitMargins": {
+            "raw": 0.0919,
+            "fmt": "9.19%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

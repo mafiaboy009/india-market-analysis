@@ -1,0 +1,274 @@
+
+// [
+{
+"symbol" : "532828",
+"exchange" : "BOM",
+"id": "710022",
+"t" : "532828",
+"e" : "BOM",
+"name" : "AMD Industries Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532828"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532828"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532828"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-19.96%",
+"annual" : "0.15%",
+"ttm" : "-0.15%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-8.49%",
+"annual" : "5.33%",
+"ttm" : "4.31%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.72%",
+"ttm" : "10.91%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.09%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.19%",
+"ttm" : ""
+}
+]
+, "c" : "-0.65",
+"l" : "33.60",
+"cp" : "-1.90",
+"ccol" : "chr",
+"op" : "34.60",
+"hi" : "34.60",
+"lo" : "33.00",
+"vo" : "3,381.00",
+"avvo" : "",
+"hi52" : "59.10",
+"lo52" : "25.65",
+"mc" : "638.36M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.17",
+"dy" : "1.49",
+"ldiv" : "0.50",
+"shares" : "19.17M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "710022",
+"name" : "AMD Industries Ltd.",
+"t" : "532828",
+"e" : "BOM",
+"l" : "33.60",
+"c" : "-0.65",
+"mc" : "638.36M",
+"cp" : "-1.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6987540",
+"name" : "Technocraft Industries (India) Ltd",
+"t" : "TIIL",
+"e" : "NSE",
+"l" : "546.00",
+"c" : "-0.40",
+"mc" : "14.34B",
+"cp" : "-0.07",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4751607",
+"name" : "Atlanta Devcon Ltd",
+"t" : "526843",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "13.36M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6640481",
+"name" : "Beardsell Ltd",
+"t" : "BEARDSELL",
+"e" : "NSE",
+"l" : "56.35",
+"c" : "+1.60",
+"mc" : "1.61B",
+"cp" : "2.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12500615",
+"name" : "Standard Industries Limited",
+"t" : "SIL",
+"e" : "NSE",
+"l" : "23.25",
+"c" : "+0.55",
+"mc" : "1.49B",
+"cp" : "2.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7304025",
+"name" : "Suryalata Spinning Mills Ltd",
+"t" : "514138",
+"e" : "BOM",
+"l" : "159.00",
+"c" : "-1.20",
+"mc" : "678.45M",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14500268",
+"name" : "Vishal Exports Overseas Ltd",
+"t" : "VISHALEXPO",
+"e" : "NSE",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "0.00",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1070243896263751",
+"name" : "Moryo Industries Ltd",
+"t" : "513305",
+"e" : "BOM",
+"l" : "157.95",
+"c" : "0.00",
+"mc" : "2.53B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14208119",
+"name" : "Soma Textiles and Industries Ltd",
+"t" : "SOMATEX",
+"e" : "NSE",
+"l" : "14.25",
+"c" : "-0.15",
+"mc" : "467.47M",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "243405394891099",
+"name" : "Monte Carlo Fashions Ltd",
+"t" : "538836",
+"e" : "BOM",
+"l" : "535.00",
+"c" : "-4.80",
+"mc" : "11.60B",
+"cp" : "-0.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "441447889093001",
+"name" : "IFL Enterprises Ltd",
+"t" : "540377",
+"e" : "BOM",
+"l" : "10.75",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "18, Pusa Road, 1 Floor, Karol Baug, NEW DELHI, 110005, India",
+"phone": "+91-11-46830202",
+"fax": "+91-11-28753591",
+"url": "http:\u002F\u002Fwww.amdindustries.com",
+"overview" : "AMD Industries Limited is an India-based company, which is engaged in the manufacturing of Pet Preforms, Crown corks, Carbonated Soft Drink (CSD) Closures and Other Business Support Services. The Company is also engaged in jobwork operation of preforms. Its operating segments include Packaging and Real Estate. Its geographic segments are India and Others. It is engaged in the development of a range of packaging products for various household consumption needs. The Company manufactures packaging articles, which are being used in soft drinks, beverages, water, beer, liquor and pharmaceutical industries. The Company manufactures Crown Caps, which are used as metallic closures for various edible items packed in glass bottles, such as CSDs, fruit juices, milk products, beer and others. The Company offers various types of Crown Caps, including Molded Crown Caps and Dry Blend Crown Caps. Its manufacturing plants are located in Uttar Pradesh and Rajasthan."
+} ]
+, "management" : [
+{
+"name" : "Ashok Gupta",
+"age" : "60",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Prabir Kumar Mukhopadhyay",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Radha Shakti Garg",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Adit Gupta",
+"age" : "33",
+"title" : "Managing Director, Whole time Director"
+}
+,
+{
+"name" : "Shubha Singh",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Mahipal P. Ahluwalia",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Prabhat Krishna",
+"age" : "64",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

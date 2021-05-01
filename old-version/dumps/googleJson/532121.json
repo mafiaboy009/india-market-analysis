@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "532121",
+"exchange" : "BOM",
+"id": "678166",
+"t" : "532121",
+"e" : "BOM",
+"name" : "Dena Bank"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532121"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532121"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532121"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-41.50%",
+"annual" : "-23.60%",
+"ttm" : "-35.55%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-86.25%",
+"annual" : "-34.85%",
+"ttm" : "-57.79%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-11.45%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.66%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-11.65%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "13,985",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.20",
+"l" : "21.05",
+"cp" : "0.96",
+"ccol" : "chg",
+"op" : "21.50",
+"hi" : "21.50",
+"lo" : "20.90",
+"vo" : "226,903.00",
+"avvo" : "",
+"hi52" : "50.00",
+"lo52" : "19.85",
+"mc" : "23.92B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-14.41",
+"dy" : "",
+"ldiv" : "",
+"shares" : "1.13B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "678166",
+"name" : "Dena Bank",
+"t" : "532121",
+"e" : "BOM",
+"l" : "21.05",
+"c" : "+0.20",
+"mc" : "23.92B",
+"cp" : "0.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1731931",
+"name" : "State Bank Of Travancore",
+"t" : "SBT",
+"e" : "NSE",
+"l" : "605.00",
+"c" : "",
+"mc" : "43.02B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4165482",
+"name" : "Corporation Bank",
+"t" : "CORPBANK",
+"e" : "NSE",
+"l" : "32.80",
+"c" : "-0.55",
+"mc" : "36.90B",
+"cp" : "-1.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11734673",
+"name" : "Lakshmi Vilas Bank Ltd.",
+"t" : "LAKSHVILAS",
+"e" : "NSE",
+"l" : "114.45",
+"c" : "-0.55",
+"mc" : "29.32B",
+"cp" : "-0.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6775936",
+"name" : "Canara Bank Ltd",
+"t" : "CANBK",
+"e" : "NSE",
+"l" : "309.80",
+"c" : "-4.05",
+"mc" : "185.13B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2465758",
+"name" : "ING Vysya Bank Ltd",
+"t" : "INGVYSYABK",
+"e" : "NSE",
+"l" : "1,027.20",
+"c" : "",
+"mc" : "197.19B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "127191416119801",
+"name" : "RBL Bank Ltd",
+"t" : "RBLBANK",
+"e" : "NSE",
+"l" : "494.10",
+"c" : "+6.10",
+"mc" : "207.19B",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1796883",
+"name" : "Punjab and Sind Bank",
+"t" : "PSB",
+"e" : "NSE",
+"l" : "39.30",
+"c" : "+0.35",
+"mc" : "15.72B",
+"cp" : "0.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7445850",
+"name" : "LKP Finance Ltd",
+"t" : "507912",
+"e" : "BOM",
+"l" : "118.00",
+"c" : "+2.65",
+"mc" : "1.43B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6735160",
+"name" : "State Bank of Bikaner and Jaipur",
+"t" : "SBBJ",
+"e" : "NSE",
+"l" : "770.00",
+"c" : "",
+"mc" : "53.90B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12992794",
+"name" : "Bank of Maharashtra Ltd",
+"t" : "MAHABANK",
+"e" : "NSE",
+"l" : "16.85",
+"c" : "+0.10",
+"mc" : "23.11B",
+"cp" : "0.60",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Dena Corporate Centre, C-10, G Block Bandra-Kurla Complex, Bandra [E], MUMBAI, 400051, India",
+"phone": "+91-22-26545035",
+"fax": "+91-22-26545317",
+"url": "http:\u002F\u002Fwww.denabank.com",
+"overview" : "Dena Bank (the Bank) is a public sector bank. The Bank\u0027s segments include Treasury Operations, Corporate\u002FWholesale Banking, Retail Banking and Other Banking Operations. The Bank offers deposits and loans, and Internet banking, corporate banking and international banking. The loans include Dena Niwas Housing Finance Scheme, Dena Trade Finance Scheme, Dena Gold Loan Scheme, Dena Vidya Laxmi Educational Loan Scheme, Dena Senior Citizen Pensioners\u0027 Loan Scheme, Dena Suvidha (Personal Loan) Scheme, Dena Loan Against Property Scheme, Dena Vehicle Loan Scheme, Dena Consumer Durable Loan and Dena Doctor+. Its services include core banking solution, e-smart services, Dena Platinum Debit Card (RuPay), RuPay PaySecure Services, Dena e-tax pay, mobile banking, Dena IndiaRemit, Indirect Tax, Bancassurance, distribution of mutual funds, Demat Services, Dena Insta Pay, Sukanya Samriddhi Account and National Pension System (NPS). The Bank operates approximately 1,850 branches and branch network."
+} ]
+, "management" : [
+{
+"name" : "Amit Kumar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "M. K. Bhatia",
+"title" : "General Manager - Credit"
+}
+,
+{
+"name" : "Ramesh Singh Bora",
+"title" : "General Manager"
+}
+,
+{
+"name" : "R. K. Gupta",
+"title" : "General Manager - PS \u0026 RRB"
+}
+,
+{
+"name" : "Mukesh Kumar Jain",
+"title" : "Chief General Manager"
+}
+,
+{
+"name" : "A. C. Katial",
+"title" : "General Manager - IRM"
+}
+,
+{
+"name" : "J. K. Singh Kharb",
+"title" : "General Manager"
+}
+,
+{
+"name" : "B. M. Nanda",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Tarun Kanti Pal",
+"title" : "General Manager"
+}
+,
+{
+"name" : "S. N. Patel",
+"title" : "General Manager"
+}
+]
+,"moreresources" : [
+]
+}]

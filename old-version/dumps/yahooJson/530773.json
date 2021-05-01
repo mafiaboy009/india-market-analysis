@@ -1,0 +1,356 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 7887813120,
+            "fmt": "7.89B",
+            "longFmt": "7,887,813,120"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.2228,
+            "fmt": "-22.28%"
+          },
+          "floatShares": {
+            "raw": 687501608,
+            "fmt": "687.5M",
+            "longFmt": "687,501,608"
+          },
+          "sharesOutstanding": {
+            "raw": 782897984,
+            "fmt": "782.9M",
+            "longFmt": "782,897,984"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.837143,
+            "fmt": "1.84"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -10.093,
+            "fmt": "-10.09"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1175299200,
+            "fmt": "2007-03-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -5768860160,
+            "fmt": "-5.77B",
+            "longFmt": "-5,768,860,160"
+          },
+          "trailingEps": {
+            "raw": -7.37,
+            "fmt": "-7.37"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1268870400,
+            "fmt": "2010-03-18"
+          },
+          "enterpriseToRevenue": {
+            "raw": 0.305,
+            "fmt": "0.31"
+          },
+          "enterpriseToEbitda": {
+            "raw": -17.271,
+            "fmt": "-17.27"
+          },
+          "52WeekChange": {
+            "raw": -0.3577236,
+            "fmt": "-35.77%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 49447030000,
+                  "fmt": "49.45B",
+                  "longFmt": "49,447,030,000"
+                },
+                "earnings": {
+                  "raw": -8533700000,
+                  "fmt": "-8.53B",
+                  "longFmt": "-8,533,700,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 38195390000,
+                  "fmt": "38.2B",
+                  "longFmt": "38,195,390,000"
+                },
+                "earnings": {
+                  "raw": -15565360000,
+                  "fmt": "-15.57B",
+                  "longFmt": "-15,565,360,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 29868530000,
+                  "fmt": "29.87B",
+                  "longFmt": "29,868,530,000"
+                },
+                "earnings": {
+                  "raw": -13952680000,
+                  "fmt": "-13.95B",
+                  "longFmt": "-13,952,680,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 25892000000,
+                  "fmt": "25.89B",
+                  "longFmt": "25,892,000,000"
+                },
+                "earnings": {
+                  "raw": -5768860000,
+                  "fmt": "-5.77B",
+                  "longFmt": "-5,768,860,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2006",
+                "revenue": {
+                  "raw": 4578770000,
+                  "fmt": "4.58B",
+                  "longFmt": "4,578,770,000"
+                },
+                "earnings": {
+                  "raw": 246205000,
+                  "fmt": "246.21M",
+                  "longFmt": "246,205,000"
+                }
+              },
+              {
+                "date": "3Q2006",
+                "revenue": {
+                  "raw": 4578770000,
+                  "fmt": "4.58B",
+                  "longFmt": "4,578,770,000"
+                },
+                "earnings": {
+                  "raw": 246205000,
+                  "fmt": "246.21M",
+                  "longFmt": "246,205,000"
+                }
+              },
+              {
+                "date": "4Q2006",
+                "revenue": {
+                  "raw": 7944575000,
+                  "fmt": "7.94B",
+                  "longFmt": "7,944,575,000"
+                },
+                "earnings": {
+                  "raw": 569085000,
+                  "fmt": "569.09M",
+                  "longFmt": "569,085,000"
+                }
+              },
+              {
+                "date": "1Q2007",
+                "revenue": {
+                  "raw": 7859535000,
+                  "fmt": "7.86B",
+                  "longFmt": "7,859,535,000"
+                },
+                "earnings": {
+                  "raw": 569085000,
+                  "fmt": "569.09M",
+                  "longFmt": "569,085,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "MIHIR, 8-2-350/5/A/24/1-B&2",
+          "address2": "Road No.2 Panchavati Colony Banjara Hills",
+          "city": "Hyderabad",
+          "zip": "500034",
+          "country": "India",
+          "phone": "91 40 2335 6613",
+          "fax": "91 40 2335 6693",
+          "website": "http://www.ivrcl.com",
+          "industry": "General Contractors",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "IVRCL Limited develops and executes engineering, procurement, construction, and commissioning (EPCC) projects in India. Its water supply and environment projects include drinking water supply schemes, irrigation, hydro power, industrial water, desalination, sewage system, and oil and gas projects. The company's transportation infrastructure projects comprise national and state highways, railways, tunnels, and bridges, as well as others, such as excavation of various rocks/earth, as well as cutting, blasting, loading, transportation, dumping, and dozing activities; and buildings and industrial structures consist of townships, commercial buildings, industrial structures, institutional and hospital buildings, and metros. In addition, it engages in mining activities; and power transmission projects, including transmission lines, substations, distribution lines, APDRP works, rural electrification works, and transmission line tower factory works. Further, the company constructs and sells villas, kinders, schools, masjids, shopping centers, playgrounds, etc., as well as apartment, administrative, recreation, fire-fighting, and clinic buildings. It primarily serves central/state governments, other local bodies, and the private sector clients. The company was formerly known as IVRCL Infrastructures & Projects Limited. IVRCL Limited was founded in 1987 and is based in Hyderabad, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 3.01,
+            "fmt": "3.01"
+          },
+          "targetHighPrice": {
+            "raw": 8.0,
+            "fmt": "8.00"
+          },
+          "targetLowPrice": {
+            "raw": 8.0,
+            "fmt": "8.00"
+          },
+          "targetMeanPrice": {
+            "raw": 8.0,
+            "fmt": "8.00"
+          },
+          "targetMedianPrice": {
+            "raw": 8.0,
+            "fmt": "8.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 2976960000,
+            "fmt": "2.98B",
+            "longFmt": "2,976,960,000"
+          },
+          "totalCashPerShare": {
+            "raw": 3.802,
+            "fmt": "3.8"
+          },
+          "ebitda": {
+            "raw": -456710016,
+            "fmt": "-456.71M",
+            "longFmt": "-456,710,016"
+          },
+          "totalDebt": {
+            "raw": 7905419776,
+            "fmt": "7.91B",
+            "longFmt": "7,905,419,776"
+          },
+          "quickRatio": {
+            "raw": 0.32,
+            "fmt": "0.32"
+          },
+          "currentRatio": {
+            "raw": 0.496,
+            "fmt": "0.50"
+          },
+          "totalRevenue": {
+            "raw": 25891999744,
+            "fmt": "25.89B",
+            "longFmt": "25,891,999,744"
+          },
+          "debtToEquity": {
+            "raw": 46.904,
+            "fmt": "46.90"
+          },
+          "revenuePerShare": {
+            "raw": 33.077,
+            "fmt": "33.08"
+          },
+          "returnOnAssets": {
+            "raw": -0.00966,
+            "fmt": "-0.97%"
+          },
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 5871670000,
+            "fmt": "5.87B",
+            "longFmt": "5,871,670,000"
+          },
+          "freeCashflow": {
+            "raw": 40393904128,
+            "fmt": "40.39B",
+            "longFmt": "40,393,904,128"
+          },
+          "operatingCashflow": {
+            "raw": 14744550400,
+            "fmt": "14.74B",
+            "longFmt": "14,744,550,400"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.22677,
+            "fmt": "22.68%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.01764,
+            "fmt": "-1.76%"
+          },
+          "operatingMargins": {
+            "raw": -0.08839,
+            "fmt": "-8.84%"
+          },
+          "profitMargins": {
+            "raw": -0.2228,
+            "fmt": "-22.28%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

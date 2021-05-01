@@ -1,0 +1,296 @@
+
+ [
+{
+"symbol" : "539889",
+"exchange" : "BOM",
+"id": "872676971400199",
+"t" : "539889",
+"e" : "BOM",
+"name" : "Parag Milk Foods Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539889"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539889"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539889"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.91%",
+"annual" : "0.99%",
+"ttm" : "4.87%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.70%",
+"annual" : "2.53%",
+"ttm" : "7.09%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.48%",
+"ttm" : "10.19%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.48%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.36%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,622",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.25",
+"l" : "288.45",
+"cp" : "-0.43",
+"ccol" : "chr",
+"op" : "293.45",
+"hi" : "296.55",
+"lo" : "287.55",
+"vo" : "73,327.00",
+"avvo" : "",
+"hi52" : "318.90",
+"lo52" : "205.85",
+"mc" : "24.46B",
+"pe" : "26.68",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.81",
+"dy" : "0.17",
+"ldiv" : "0.50",
+"shares" : "84.11M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "872676971400199",
+"name" : "Parag Milk Foods Ltd",
+"t" : "539889",
+"e" : "BOM",
+"l" : "288.45",
+"c" : "-1.25",
+"mc" : "24.46B",
+"cp" : "-0.43",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5884806",
+"name" : "Kwality Ltd",
+"t" : "KWALITY",
+"e" : "NSE",
+"l" : "87.85",
+"c" : "+1.10",
+"mc" : "20.85B",
+"cp" : "1.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4779557",
+"name" : "Hatsun Agro Product Ltd",
+"t" : "531531",
+"e" : "BOM",
+"l" : "770.15",
+"c" : "-3.25",
+"mc" : "117.27B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "569618647548318",
+"name" : "Prabhat Dairy Ltd",
+"t" : "PRABHAT",
+"e" : "NSE",
+"l" : "177.00",
+"c" : "+2.20",
+"mc" : "17.29B",
+"cp" : "1.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10618657",
+"name" : "Anik Industries Ltd",
+"t" : "ANIKINDS",
+"e" : "NSE",
+"l" : "38.75",
+"c" : "-0.25",
+"mc" : "1.06B",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "227017",
+"name" : "Modern Dairies Ltd",
+"t" : "519287",
+"e" : "BOM",
+"l" : "8.99",
+"c" : "+0.33",
+"mc" : "209.65M",
+"cp" : "3.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1019631387859748",
+"name" : "Sheetal Cool Products Ltd",
+"t" : "540757",
+"e" : "BOM",
+"l" : "125.20",
+"c" : "-0.80",
+"mc" : "1.31B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11836196",
+"name" : "Heritage Foods Ltd",
+"t" : "HERITGFOOD",
+"e" : "NSE",
+"l" : "675.00",
+"c" : "-2.70",
+"mc" : "31.22B",
+"cp" : "-0.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15279585",
+"name" : "Britannia Industries Ltd",
+"t" : "BRITANNIA",
+"e" : "NSE",
+"l" : "4,953.85",
+"c" : "-8.05",
+"mc" : "594.38B",
+"cp" : "-0.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "723013",
+"name" : "Himalya International Ltd.",
+"t" : "526899",
+"e" : "BOM",
+"l" : "38.85",
+"c" : "+1.85",
+"mc" : "2.25B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14062987",
+"name" : "Umang Dairies Ltd",
+"t" : "500231",
+"e" : "BOM",
+"l" : "97.20",
+"c" : "+0.75",
+"mc" : "2.13B",
+"cp" : "0.78",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "20th Floor Nirmal Building Nariman Point, MUMBAI, 400021, India",
+"phone": "+91-22-43005555",
+"fax": "+91-22-43005580",
+"url": "http:\u002F\u002Fwww.paragmilkfoods.com",
+"overview" : "Parag Milk Foods Limited is engaged in manufacturing and processing of milk and milk products. The Company offers a range of products, which include cheese, ghee, whey proteins, paneer, curd, yoghurt, milk products, liquid milk, milk-based beverages and milk powders. The Company\u0027s brands include Gowardhan, under which traditional dairy products, such as ghee, are marketed\u003B Go, under which western lifestyle dairy products, such as cheese, are marketed\u003B Pride of Cows, under which premium milk is sold, and Topp Up, under which flavored milk is marketed. The Company has an aggregate milk processing capacity of approximately two million liters per day. The Company has a product basket comprising over 150 stock keeping units (SKUs). Its manufacturing facilities are located in Manchar (Pune district) and Palamaner (Chittoor district)."
+} ]
+, "management" : [
+{
+"name" : "Devendra Shah",
+"age" : "51",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Vimal Agarwal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Harshad Joshi",
+"title" : "Chief Operations Officer - Plants"
+}
+,
+{
+"name" : "Shirish Upadhyay",
+"title" : "Senior Vice President - Planning"
+}
+,
+{
+"name" : "Mahesh Israni",
+"title" : "Chief Marketing Officer"
+}
+,
+{
+"name" : "Rachana Sanganeria",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Pritam Shah",
+"age" : "45",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Amarendra Sathe",
+"title" : "Chief Commercial Officer"
+}
+,
+{
+"name" : "Ramesh Chandak",
+"age" : "69",
+"title" : "Additional and Nominee Director"
+}
+,
+{
+"name" : "B. M. Vyas",
+"age" : "65",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "530919",
+"exchange" : "BOM",
+"id": "12395645",
+"t" : "530919",
+"e" : "BOM",
+"name" : "Remsons Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530919"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530919"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530919"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.04%",
+"annual" : "-0.73%",
+"ttm" : "0.27%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.53%",
+"annual" : "0.07%",
+"ttm" : "1.69%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "2.09%",
+"ttm" : "3.82%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.42%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-5.31%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "305",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.20",
+"l" : "91.10",
+"cp" : "2.47",
+"ccol" : "chg",
+"op" : "86.30",
+"hi" : "91.10",
+"lo" : "86.30",
+"vo" : "135.00",
+"avvo" : "",
+"hi52" : "147.00",
+"lo52" : "48.30",
+"mc" : "500.87M",
+"pe" : "163.55",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.56",
+"dy" : "",
+"ldiv" : "",
+"shares" : "5.71M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12395645",
+"name" : "Remsons Industries Ltd",
+"t" : "530919",
+"e" : "BOM",
+"l" : "91.10",
+"c" : "+2.20",
+"mc" : "500.87M",
+"cp" : "2.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6715972",
+"name" : "REIL Electricals India Ltd",
+"t" : "505817",
+"e" : "BOM",
+"l" : "230.00",
+"c" : "0.00",
+"mc" : "868.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "417348",
+"name" : "PPAP Automotive Ltd",
+"t" : "PPAP",
+"e" : "NSE",
+"l" : "550.00",
+"c" : "+8.70",
+"mc" : "7.72B",
+"cp" : "1.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16541201",
+"name" : "Minda Industries Ltd",
+"t" : "MINDAIND",
+"e" : "NSE",
+"l" : "1,122.00",
+"c" : "+17.70",
+"mc" : "97.07B",
+"cp" : "1.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "149556745650340",
+"name" : "Minda Corp Ltd",
+"t" : "MINDACORP",
+"e" : "NSE",
+"l" : "192.55",
+"c" : "-3.25",
+"mc" : "40.20B",
+"cp" : "-1.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13659974",
+"name" : "Majestic Auto Ltd",
+"t" : "500267",
+"e" : "BOM",
+"l" : "161.20",
+"c" : "-2.35",
+"mc" : "1.68B",
+"cp" : "-1.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12232770",
+"name" : "Denso India Pvt Ltd",
+"t" : "DENSO",
+"e" : "NSE",
+"l" : "142.75",
+"c" : "0.00",
+"mc" : "3.98B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "135030",
+"name" : "Igarashi Motors India Ltd.",
+"t" : "IGARASHI",
+"e" : "NSE",
+"l" : "830.00",
+"c" : "+3.45",
+"mc" : "25.36B",
+"cp" : "0.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2055807",
+"name" : "India Nippon Electricals Ltd",
+"t" : "INDNIPPON",
+"e" : "NSE",
+"l" : "1,000.00",
+"c" : "+3.70",
+"mc" : "11.34B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13309952",
+"name" : "Motherson Sumi Systems Limited",
+"t" : "MOTHERSUMI",
+"e" : "NSE",
+"l" : "328.95",
+"c" : "+10.05",
+"mc" : "690.37B",
+"cp" : "3.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11817741",
+"name" : "Talbros Automotive Components Ltd",
+"t" : "TALBROAUTO",
+"e" : "NSE",
+"l" : "293.75",
+"c" : "+0.50",
+"mc" : "3.62B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "88-B, Govt. Indl. Estate, Kandivli, MUMBAI, 400067, India",
+"phone": "+91-22-28683883",
+"fax": "+91-22-28682487",
+"url": "http:\u002F\u002Fwww.remsons.com\u002F",
+"overview" : "Remsons Industries Limited is an India-based automobile components manufacturing company. The Company is engaged in the manufacturing and designing of auto control cables and gear shifters. It offers various solutions in terms of designing, manufacturing, logistics and client servicing for the automobile industry. It manufactures inner cable (strand, rope and flexible shaft), conduit (flat, round, dual wire and integral liner duly coated), liner, plastic extruded sleeve, injection molding (plastic components) and zinc die casted cable end. Its products include cables, flexible shafts, gear shift systems and push pull cables. Its products are used in applications, including passenger cars, rear engine buses and farm equipment. The Company exports its products to the United States, Columbia, Central America, the United Kingdom, Italy, Spain, Belgium, France and Singapore. The Company has manufacturing facilities in Mumbai, Pune, Daman, Vapi, Gurgaon, Pardi and Sitarganj (Uttaranchal)."
+} ]
+, "management" : [
+{
+"name" : "Krishna Kejriwal",
+"age" : "64",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Anil Kumar Agrawal",
+"title" : "Chief Financial Officer, Director - Finance , Additional Director"
+}
+,
+{
+"name" : "Rohit Darji",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Chand Kejriwal",
+"age" : "59",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Rahul Kejriwal",
+"age" : "36",
+"title" : "Additional Executive Director"
+}
+,
+{
+"name" : "Paresh Navnitlal Bhagat",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Sudhir Khanna",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Sushil K. Agarwal",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "S. B. Parwal",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,406 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 5741802496,
+            "fmt": "5.74B",
+            "longFmt": "5,741,802,496"
+          },
+          "forwardPE": {
+            "raw": 5.227512,
+            "fmt": "5.23"
+          },
+          "profitMargins": {
+            "raw": 0.26687,
+            "fmt": "26.69%"
+          },
+          "floatShares": {
+            "raw": 6131840,
+            "fmt": "6.13M",
+            "longFmt": "6,131,840"
+          },
+          "sharesOutstanding": {
+            "raw": 32000000,
+            "fmt": "32M",
+            "longFmt": "32,000,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.686197,
+            "fmt": "0.69"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 118.209,
+            "fmt": "118.21"
+          },
+          "priceToBook": {
+            "raw": 1.2634403,
+            "fmt": "1.26"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1238457600,
+            "fmt": "2009-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.375,
+            "fmt": "-37.50%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 740238976,
+            "fmt": "740.24M",
+            "longFmt": "740,238,976"
+          },
+          "trailingEps": {
+            "raw": 24.66,
+            "fmt": "24.66"
+          },
+          "forwardEps": {
+            "raw": 28.57,
+            "fmt": "28.57"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 2.07,
+            "fmt": "2.07"
+          },
+          "enterpriseToEbitda": {
+            "raw": 3.69,
+            "fmt": "3.69"
+          },
+          "52WeekChange": {
+            "raw": -0.5220195,
+            "fmt": "-52.20%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 5.63,
+                  "fmt": "5.63"
+                },
+                "estimate": {
+                  "raw": 6.94,
+                  "fmt": "6.94"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 5.75,
+                  "fmt": "5.75"
+                },
+                "estimate": {
+                  "raw": 6.36,
+                  "fmt": "6.36"
+                }
+              }
+            ],
+            "currentQuarterEstimate": {
+              "raw": 7.78,
+              "fmt": "7.78"
+            },
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 907796236,
+                  "fmt": "907.8M",
+                  "longFmt": "907,796,236"
+                },
+                "earnings": {
+                  "raw": 199948664,
+                  "fmt": "199.95M",
+                  "longFmt": "199,948,664"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1012576933,
+                  "fmt": "1.01B",
+                  "longFmt": "1,012,576,933"
+                },
+                "earnings": {
+                  "raw": 212338001,
+                  "fmt": "212.34M",
+                  "longFmt": "212,338,001"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 1691467000,
+                  "fmt": "1.69B",
+                  "longFmt": "1,691,467,000"
+                },
+                "earnings": {
+                  "raw": 409526000,
+                  "fmt": "409.53M",
+                  "longFmt": "409,526,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 2773805000,
+                  "fmt": "2.77B",
+                  "longFmt": "2,773,805,000"
+                },
+                "earnings": {
+                  "raw": 740239000,
+                  "fmt": "740.24M",
+                  "longFmt": "740,239,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2008",
+                "revenue": {
+                  "raw": 60900000,
+                  "fmt": "60.9M",
+                  "longFmt": "60,900,000"
+                },
+                "earnings": {
+                  "raw": 16260000,
+                  "fmt": "16.26M",
+                  "longFmt": "16,260,000"
+                }
+              },
+              {
+                "date": "3Q2008",
+                "revenue": {
+                  "raw": 85430000,
+                  "fmt": "85.43M",
+                  "longFmt": "85,430,000"
+                },
+                "earnings": {
+                  "raw": 30110000,
+                  "fmt": "30.11M",
+                  "longFmt": "30,110,000"
+                }
+              },
+              {
+                "date": "4Q2008",
+                "revenue": {
+                  "raw": 79960000,
+                  "fmt": "79.96M",
+                  "longFmt": "79,960,000"
+                },
+                "earnings": {
+                  "raw": 20500000,
+                  "fmt": "20.5M",
+                  "longFmt": "20,500,000"
+                }
+              },
+              {
+                "date": "1Q2009",
+                "revenue": {
+                  "raw": 108740133,
+                  "fmt": "108.74M",
+                  "longFmt": "108,740,133"
+                },
+                "earnings": {
+                  "raw": 9283060,
+                  "fmt": "9.28M",
+                  "longFmt": "9,283,060"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "12A &14, Abhishree Corporate Park",
+          "address2": "Ambli Bopal Road Ambli",
+          "city": "Ahmedabad",
+          "zip": "380058",
+          "country": "India",
+          "phone": "91 27 1729 8510",
+          "fax": "91 27 1729 8520",
+          "website": "http://www.deepindustries.com",
+          "industry": "Oil & Gas Equipment & Services",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Deep Industries Limited, a diversified oil and gas company, provides air and gas compression, work over, drilling rig, and gas dehydration services in India. The company is also involved in the exploration and production business of oil, gas, and coal bed methane. It provides contract gas compression services on turnkey basis, which include supply of equipment, installation, commissioning, operation, and maintenance of gas engine driven compressor packages; coring, air drilling, workover, and drilling rig services to various oil and gas companies; and natural gas dehydration services on charter hire basis. Further, the company provides various oil and gas equipment and services on rental and charter hire basis. Deep Industries Limited was founded in 1991 and is based in Ahmedabad, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 149.35,
+            "fmt": "149.35"
+          },
+          "targetHighPrice": {
+            "raw": 463.0,
+            "fmt": "463.00"
+          },
+          "targetLowPrice": {
+            "raw": 430.0,
+            "fmt": "430.00"
+          },
+          "targetMeanPrice": {
+            "raw": 446.5,
+            "fmt": "446.50"
+          },
+          "targetMedianPrice": {
+            "raw": 446.5,
+            "fmt": "446.50"
+          },
+          "recommendationMean": {
+            "raw": 1.3,
+            "fmt": "1.30"
+          },
+          "recommendationKey": "strong_buy",
+          "numberOfAnalystOpinions": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "totalCash": {
+            "raw": 167228224,
+            "fmt": "167.23M",
+            "longFmt": "167,228,224"
+          },
+          "totalCashPerShare": {
+            "raw": 5.226,
+            "fmt": "5.23"
+          },
+          "ebitda": {
+            "raw": 1555996032,
+            "fmt": "1.56B",
+            "longFmt": "1,555,996,032"
+          },
+          "totalDebt": {
+            "raw": 605030528,
+            "fmt": "605.03M",
+            "longFmt": "605,030,528"
+          },
+          "quickRatio": {
+            "raw": 0.889,
+            "fmt": "0.89"
+          },
+          "currentRatio": {
+            "raw": 1.143,
+            "fmt": "1.14"
+          },
+          "totalRevenue": {
+            "raw": 2773805056,
+            "fmt": "2.77B",
+            "longFmt": "2,773,805,056"
+          },
+          "debtToEquity": {
+            "raw": 73.956,
+            "fmt": "73.96"
+          },
+          "revenuePerShare": {
+            "raw": 92.42,
+            "fmt": "92.42"
+          },
+          "returnOnAssets": {
+            "raw": 0.1087,
+            "fmt": "10.87%"
+          },
+          "returnOnEquity": {
+            "raw": 0.23087999,
+            "fmt": "23.09%"
+          },
+          "grossProfits": {
+            "raw": 1915165000,
+            "fmt": "1.92B",
+            "longFmt": "1,915,165,000"
+          },
+          "freeCashflow": {
+            "raw": -530488256,
+            "fmt": "-530.49M",
+            "longFmt": "-530,488,256"
+          },
+          "operatingCashflow": {
+            "raw": 1095246976,
+            "fmt": "1.1B",
+            "longFmt": "1,095,246,976"
+          },
+          "earningsGrowth": {
+            "raw": -0.376,
+            "fmt": "-37.60%"
+          },
+          "revenueGrowth": {
+            "raw": 0.782,
+            "fmt": "78.20%"
+          },
+          "grossMargins": {
+            "raw": 0.69044995,
+            "fmt": "69.04%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.56096,
+            "fmt": "56.10%"
+          },
+          "operatingMargins": {
+            "raw": 0.44015998,
+            "fmt": "44.02%"
+          },
+          "profitMargins": {
+            "raw": 0.26687,
+            "fmt": "26.69%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

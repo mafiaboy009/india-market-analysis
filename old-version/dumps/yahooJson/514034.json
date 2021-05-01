@@ -1,0 +1,365 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 105368092672,
+            "fmt": "105.37B",
+            "longFmt": "105,368,092,672"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.03787,
+            "fmt": "-3.79%"
+          },
+          "floatShares": {
+            "raw": 25324600,
+            "fmt": "25.32M",
+            "longFmt": "25,324,600"
+          },
+          "sharesOutstanding": {
+            "raw": 81871800,
+            "fmt": "81.87M",
+            "longFmt": "81,871,800"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.205665,
+            "fmt": "0.21"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 252.105,
+            "fmt": "252.10"
+          },
+          "priceToBook": {
+            "raw": 0.13407113,
+            "fmt": "0.13"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1459382400,
+            "fmt": "2016-03-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -3403000064,
+            "fmt": "-3.4B",
+            "longFmt": "-3,403,000,064"
+          },
+          "trailingEps": {
+            "raw": -41.565,
+            "fmt": "-41.56"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.173,
+            "fmt": "1.17"
+          },
+          "enterpriseToEbitda": {
+            "raw": 20.996,
+            "fmt": "21.00"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 85677300000,
+                  "fmt": "85.68B",
+                  "longFmt": "85,677,300,000"
+                },
+                "earnings": {
+                  "raw": 56800000,
+                  "fmt": "56.8M",
+                  "longFmt": "56,800,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 88794700000,
+                  "fmt": "88.79B",
+                  "longFmt": "88,794,700,000"
+                },
+                "earnings": {
+                  "raw": 310900000,
+                  "fmt": "310.9M",
+                  "longFmt": "310,900,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 88787100000,
+                  "fmt": "88.79B",
+                  "longFmt": "88,787,100,000"
+                },
+                "earnings": {
+                  "raw": -1877700000,
+                  "fmt": "-1.88B",
+                  "longFmt": "-1,877,700,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 89849500000,
+                  "fmt": "89.85B",
+                  "longFmt": "89,849,500,000"
+                },
+                "earnings": {
+                  "raw": -3403000000,
+                  "fmt": "-3.4B",
+                  "longFmt": "-3,403,000,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2015",
+                "revenue": {
+                  "raw": 22701800000,
+                  "fmt": "22.7B",
+                  "longFmt": "22,701,800,000"
+                },
+                "earnings": {
+                  "raw": 230300000,
+                  "fmt": "230.3M",
+                  "longFmt": "230,300,000"
+                }
+              },
+              {
+                "date": "3Q2015",
+                "revenue": {
+                  "raw": 21304900000,
+                  "fmt": "21.3B",
+                  "longFmt": "21,304,900,000"
+                },
+                "earnings": {
+                  "raw": -5500000,
+                  "fmt": "-5.5M",
+                  "longFmt": "-5,500,000"
+                }
+              },
+              {
+                "date": "4Q2015",
+                "revenue": {
+                  "raw": 20039500000,
+                  "fmt": "20.04B",
+                  "longFmt": "20,039,500,000"
+                },
+                "earnings": {
+                  "raw": -431100000,
+                  "fmt": "-431.1M",
+                  "longFmt": "-431,100,000"
+                }
+              },
+              {
+                "date": "1Q2016",
+                "revenue": {
+                  "raw": 24770100000,
+                  "fmt": "24.77B",
+                  "longFmt": "24,770,100,000"
+                },
+                "earnings": {
+                  "raw": -1591100000,
+                  "fmt": "-1.59B",
+                  "longFmt": "-1,591,100,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Express Towers",
+          "address2": "8th Floor Nariman Point",
+          "city": "Mumbai",
+          "zip": "400021",
+          "country": "India",
+          "phone": "91 22 2288 5959",
+          "fax": "91 22 2288 6393",
+          "website": "http://www.jbfindia.com",
+          "industry": "Textile Industrial",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "JBF Industries Limited manufactures and sells polyester products in India and internationally. Its products include textile grade and film grade polyester chips, bottle grade polyethylene terephthalate, fully draw yarns, partially oriented yarns, and polyester textured yarn/sewing thread products. The company was founded in 1982 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 33.8,
+            "fmt": "33.80"
+          },
+          "targetHighPrice": {
+            "raw": 318.0,
+            "fmt": "318.00"
+          },
+          "targetLowPrice": {
+            "raw": 318.0,
+            "fmt": "318.00"
+          },
+          "targetMeanPrice": {
+            "raw": 318.0,
+            "fmt": "318.00"
+          },
+          "targetMedianPrice": {
+            "raw": 318.0,
+            "fmt": "318.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 12213300224,
+            "fmt": "12.21B",
+            "longFmt": "12,213,300,224"
+          },
+          "totalCashPerShare": {
+            "raw": 149.176,
+            "fmt": "149.18"
+          },
+          "ebitda": {
+            "raw": 5018500096,
+            "fmt": "5.02B",
+            "longFmt": "5,018,500,096"
+          },
+          "totalDebt": {
+            "raw": 105885999104,
+            "fmt": "105.89B",
+            "longFmt": "105,885,999,104"
+          },
+          "quickRatio": {
+            "raw": 0.565,
+            "fmt": "0.56"
+          },
+          "currentRatio": {
+            "raw": 0.821,
+            "fmt": "0.82"
+          },
+          "totalRevenue": {
+            "raw": 89849503744,
+            "fmt": "89.85B",
+            "longFmt": "89,849,503,744"
+          },
+          "debtToEquity": {
+            "raw": 389.619,
+            "fmt": "389.62"
+          },
+          "revenuePerShare": {
+            "raw": 1097.441,
+            "fmt": "1,097.44"
+          },
+          "returnOnAssets": {
+            "raw": 0.00603,
+            "fmt": "0.60%"
+          },
+          "returnOnEquity": {
+            "raw": -0.15995,
+            "fmt": "-16.00%"
+          },
+          "grossProfits": {
+            "raw": 14190000000,
+            "fmt": "14.19B",
+            "longFmt": "14,190,000,000"
+          },
+          "freeCashflow": {
+            "raw": -202162496,
+            "fmt": "-202.16M",
+            "longFmt": "-202,162,496"
+          },
+          "operatingCashflow": {
+            "raw": 9522199552,
+            "fmt": "9.52B",
+            "longFmt": "9,522,199,552"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.152,
+            "fmt": "15.20%"
+          },
+          "grossMargins": {
+            "raw": 0.15793,
+            "fmt": "15.79%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.05585,
+            "fmt": "5.58%"
+          },
+          "operatingMargins": {
+            "raw": 0.01759,
+            "fmt": "1.76%"
+          },
+          "profitMargins": {
+            "raw": -0.03787,
+            "fmt": "-3.79%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

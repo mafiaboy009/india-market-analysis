@@ -1,0 +1,243 @@
+
+ [
+{
+"symbol" : "539148",
+"exchange" : "BOM",
+"id": "720597595598874",
+"t" : "539148",
+"e" : "BOM",
+"name" : "Shivalik Rasayan Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SIVA.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539148"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539148"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539148"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.26%",
+"annual" : "6.86%",
+"ttm" : "9.24%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "16.25%",
+"annual" : "12.54%",
+"ttm" : "14.23%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "14.41%",
+"ttm" : "15.91%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "9.67%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "45.43%",
+"ttm" : ""
+}
+]
+, "c" : "+33.15",
+"l" : "696.45",
+"cp" : "5.00",
+"ccol" : "chg",
+"op" : "696.00",
+"hi" : "696.45",
+"lo" : "695.70",
+"vo" : "4,092.00",
+"avvo" : "",
+"hi52" : "844.90",
+"lo52" : "224.00",
+"mc" : "2.93B",
+"pe" : "21.16",
+"fwpe" : "",
+"beta" : "",
+"eps" : "32.91",
+"dy" : "0.14",
+"ldiv" : "1.00",
+"shares" : "3.42M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "720597595598874",
+"name" : "Shivalik Rasayan Ltd",
+"t" : "539148",
+"e" : "BOM",
+"l" : "696.45",
+"c" : "+33.15",
+"mc" : "2.93B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705748",
+"name" : "Chemcel BioTech Limited",
+"t" : "533026",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "28.16M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10347650",
+"name" : "Bharat Rasayan Ltd",
+"t" : "BHARATRAS",
+"e" : "NSE",
+"l" : "4,591.80",
+"c" : "+18.95",
+"mc" : "19.39B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715547",
+"name" : "NACL Industries Ltd",
+"t" : "524709",
+"e" : "BOM",
+"l" : "44.30",
+"c" : "+0.90",
+"mc" : "6.91B",
+"cp" : "2.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4379280",
+"name" : "Phyto Chem India Ltd",
+"t" : "524808",
+"e" : "BOM",
+"l" : "61.10",
+"c" : "-1.35",
+"mc" : "263.80M",
+"cp" : "-2.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11089076",
+"name" : "Bayer CropScience Ltd",
+"t" : "BAYERCROP",
+"e" : "NSE",
+"l" : "3,899.90",
+"c" : "+68.15",
+"mc" : "133.96B",
+"cp" : "1.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8171990",
+"name" : "MEGHMANI ORGANICS",
+"t" : "MEGH",
+"e" : "NSE",
+"l" : "95.85",
+"c" : "+0.15",
+"mc" : "",
+"cp" : "0.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2619771",
+"name" : "Bhagiradha Chemicals \u0026 Industries Ltd",
+"t" : "531719",
+"e" : "BOM",
+"l" : "300.00",
+"c" : "+3.00",
+"mc" : "2.34B",
+"cp" : "1.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5377429",
+"name" : "Super Crop Safe Ltd",
+"t" : "530883",
+"e" : "BOM",
+"l" : "26.55",
+"c" : "-0.65",
+"mc" : "1.01B",
+"cp" : "-2.39",
+"ccol" : "chr"
+}
+,
+{
+"id" : "41833321012880",
+"name" : "Sharda Cropchem Ltd",
+"t" : "SHARDACROP",
+"e" : "NSE",
+"l" : "411.05",
+"c" : "+15.20",
+"mc" : "36.88B",
+"cp" : "3.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10584496",
+"name" : "Sabero Organics Gujarat Limited",
+"t" : "SABERORGAN",
+"e" : "NSE",
+"l" : "174.70",
+"c" : "-0.15",
+"mc" : "5.92B",
+"cp" : "-0.09",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "1506, Chiranjiv Tower,, 43, Nehru Place, NEW DELHI, 110019, India",
+"phone": "+91-11-26221811",
+"fax": "+91-11-26213081",
+"url": "http:\u002F\u002Fwww.shivalikrasayan.in\u002F",
+"overview" : "Shivalik Rasayan Limited is engaged in providing agrochemicals. The Company is a manufacturer of organ phosphorous (OP)-based insecticides and chemicals. It also manufactures organophosphate insecticides, such as Dimethoate Technical and Malathion Technical. Its Dimethoate technical is used in preparation of formulations used in the control of a range of insect pests and mites. It is an OP-based systemic insecticide and also possesses properties of a contact insecticide and an acaricide. It is an insecticide of moderate mammalian toxicity, which is used against piercing sucking insects, spider mites, chewing mining and boring insects on cereals and cotton, among others. Its Malathion Technical is a non-systemic, spectrum OP-based contact insecticide. It is used in the agricultural production of a range of food\u002Ffeed crops. It controls insects, such as aphids, leafhoppers, spider mites, scale insects, housefly and mosquitoes, as well as a range of other sucking and chewing insects."
+} ]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Feb 10, 2018",
+"time": "",
+"future": 0,
+"desc": "Q3 2018 Shivalik Rasayan Ltd Earnings Release (Estimated)"
+}
+]
+}]

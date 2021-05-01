@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "509162",
+"exchange" : "BOM",
+"id": "111449",
+"t" : "509162",
+"e" : "BOM",
+"name" : "Indag Rubber Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=IDGR.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:509162"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:509162"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:509162"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "11.06%",
+"annual" : "11.91%",
+"ttm" : "11.91%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "15.67%",
+"annual" : "14.32%",
+"ttm" : "14.32%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.03%",
+"ttm" : "16.03%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "10.82%",
+"ttm" : "10.82%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.40%",
+"ttm" : "13.40%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "345",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.20",
+"l" : "168.00",
+"cp" : "0.12",
+"ccol" : "chg",
+"op" : "168.50",
+"hi" : "172.00",
+"lo" : "165.00",
+"vo" : "20,071.00",
+"avvo" : "",
+"hi52" : "235.00",
+"lo52" : "165.00",
+"mc" : "4.43B",
+"pe" : "20.03",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.39",
+"dy" : "1.43",
+"ldiv" : "0.90",
+"shares" : "26.25M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "111449",
+"name" : "Indag Rubber Ltd",
+"t" : "509162",
+"e" : "BOM",
+"l" : "168.00",
+"c" : "+0.20",
+"mc" : "4.43B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7439571",
+"name" : "Eastern Treads Ltd",
+"t" : "531346",
+"e" : "BOM",
+"l" : "95.00",
+"c" : "-3.00",
+"mc" : "478.02M",
+"cp" : "-3.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1515884",
+"name" : "Govind Rubber Ltd",
+"t" : "509148",
+"e" : "BOM",
+"l" : "17.70",
+"c" : "+0.25",
+"mc" : "389.89M",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678802",
+"name" : "Goodyear India Limited",
+"t" : "500168",
+"e" : "BOM",
+"l" : "1,188.50",
+"c" : "-11.75",
+"mc" : "27.42B",
+"cp" : "-0.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10217950",
+"name" : "Dunlop India Limited",
+"t" : "509130",
+"e" : "BOM",
+"l" : "11.17",
+"c" : "+0.76",
+"mc" : "1.21B",
+"cp" : "7.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9163183",
+"name" : "Falcon Tyres Ltd",
+"t" : "509527",
+"e" : "BOM",
+"l" : "6.70",
+"c" : "0.00",
+"mc" : "520.19M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5885777",
+"name" : "MRF Limited",
+"t" : "MRF",
+"e" : "NSE",
+"l" : "72,670.00",
+"c" : "+196.60",
+"mc" : "306.83B",
+"cp" : "0.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4170139",
+"name" : "Krypton Industries Ltd",
+"t" : "523550",
+"e" : "BOM",
+"l" : "10.88",
+"c" : "+0.51",
+"mc" : "160.84M",
+"cp" : "4.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9640278",
+"name" : "TVS Srichakra Limited",
+"t" : "TVSSRICHAK",
+"e" : "NSE",
+"l" : "3,732.20",
+"c" : "+66.50",
+"mc" : "28.62B",
+"cp" : "1.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4458694",
+"name" : "JK Tyre \u0026 Industries Ltd.",
+"t" : "JKTYRE",
+"e" : "NSE",
+"l" : "149.35",
+"c" : "-3.80",
+"mc" : "33.91B",
+"cp" : "-2.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "700493",
+"name" : "Balkrishna Industries Limited",
+"t" : "BALKRISIND",
+"e" : "NSE",
+"l" : "1,085.70",
+"c" : "-9.15",
+"mc" : "209.71B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Khemka House 11, Comunity Center, Saket, NEW DELHI, 110017, India",
+"phone": "+91-11-26961211",
+"fax": "+91-11-26856350",
+"url": "http:\u002F\u002Fwww.indagrubber.com\u002F",
+"overview" : "Indag Rubber Limited is a tread manufacturing company. The Company is engaged in the manufacturing of the Precured Tread Rubber, Bonding Repair and Extrusion Gum, and Rubber Cement, which are used for retreading of tires. The Company\u0027s geographical segments include Domestic (in India) and Overseas (Outside India). The Company manufactures un-vulcanized rubber strip gum, universal spray cement and tire envelopes for the tire retreading industry. Its Precured Tread Rubber is used for various types of requirements, such as passenger vehicles, heavy truck tires, light trucks, agricultural vehicles tires and off road tires. The Company\u0027s manufacturing plant is located at Nalagarh (Himachal Pradesh) with a capacity of approximately 13,800 metric tons for tread rubber, over 1,800 metric tons for rubber strip gums and approximately 1,800 kiloliters for universal spray cement. Its universal spray cement is available in ready to use and thick forms, and 25 liters and 50 liters package sizes."
+} ]
+, "management" : [
+{
+"name" : "Nand Lal Khemka",
+"age" : "79",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "K. K. Kapur",
+"age" : "78",
+"title" : "Chief Executive Officer, Whole Time Director"
+}
+,
+{
+"name" : "J. K. Jain",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manali D. Bijlani",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Shiv Vikram Khemka",
+"title" : "Non-Executive Interested Director"
+}
+,
+{
+"name" : "Uday Harsh Khemka",
+"title" : "Non-Executive Interested Director"
+}
+,
+{
+"name" : "Bindu Saxena",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Prithvi R. Khanna",
+"age" : "81",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "R. Parameswar",
+"age" : "81",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

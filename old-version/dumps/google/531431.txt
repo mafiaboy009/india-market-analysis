@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "531431",
+"exchange" : "BOM",
+"id": "7008999",
+"t" : "531431",
+"e" : "BOM",
+"name" : "Shakti Pumps (India) Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SHPU.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531431"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531431"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531431"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "11.29%",
+"annual" : "4.84%",
+"ttm" : "7.34%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "18.23%",
+"annual" : "9.71%",
+"ttm" : "12.40%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.72%",
+"ttm" : "15.33%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.22%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.14%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "580",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+11.55",
+"l" : "576.80",
+"cp" : "2.04",
+"ccol" : "chg",
+"op" : "568.05",
+"hi" : "585.90",
+"lo" : "560.95",
+"vo" : "38,710.00",
+"avvo" : "",
+"hi52" : "614.65",
+"lo52" : "160.05",
+"mc" : "10.60B",
+"pe" : "30.49",
+"fwpe" : "",
+"beta" : "",
+"eps" : "18.92",
+"dy" : "0.35",
+"ldiv" : "2.00",
+"shares" : "18.38M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7008999",
+"name" : "Shakti Pumps (India) Ltd",
+"t" : "531431",
+"e" : "BOM",
+"l" : "576.80",
+"c" : "+11.55",
+"mc" : "10.60B",
+"cp" : "2.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1813947",
+"name" : "WPIL Ltd",
+"t" : "505872",
+"e" : "BOM",
+"l" : "593.00",
+"c" : "-16.70",
+"mc" : "5.79B",
+"cp" : "-2.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8274595",
+"name" : "Roto Pumps Limited",
+"t" : "517500",
+"e" : "BOM",
+"l" : "98.25",
+"c" : "-0.50",
+"mc" : "1.51B",
+"cp" : "-0.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12975418",
+"name" : "Kirloskar Brothers Limited",
+"t" : "KIRLOSBROS",
+"e" : "NSE",
+"l" : "327.50",
+"c" : "-4.65",
+"mc" : "25.98B",
+"cp" : "-1.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3389766",
+"name" : "JSL Industries Ltd",
+"t" : "504080",
+"e" : "BOM",
+"l" : "104.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15667599",
+"name" : "KSB Pumps Limited",
+"t" : "KSBPUMPS",
+"e" : "NSE",
+"l" : "799.00",
+"c" : "+7.75",
+"mc" : "27.89B",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "706299",
+"name" : "Jyoti Ltd.",
+"t" : "504076",
+"e" : "BOM",
+"l" : "49.15",
+"c" : "+0.40",
+"mc" : "837.59M",
+"cp" : "0.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705514",
+"name" : "Kirloskar Pneumatic Company Ltd",
+"t" : "505283",
+"e" : "BOM",
+"l" : "880.10",
+"c" : "-5.90",
+"mc" : "11.30B",
+"cp" : "-0.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "431519",
+"name" : "Veljan Denison Limited",
+"t" : "505232",
+"e" : "BOM",
+"l" : "1,057.00",
+"c" : "+33.00",
+"mc" : "2.38B",
+"cp" : "3.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6938509",
+"name" : "Acrow India Ltd",
+"t" : "513149",
+"e" : "BOM",
+"l" : "139.85",
+"c" : "0.00",
+"mc" : "89.50M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715420",
+"name" : "Batliboi Ltd.",
+"t" : "522004",
+"e" : "BOM",
+"l" : "28.50",
+"c" : "-1.50",
+"mc" : "818.40M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Plot No. 401, Sector - 3,, Pithampur, DHAR, 454774, India",
+"phone": "+91-7292-410500",
+"fax": "+91-7292-410645",
+"url": "https:\u002F\u002Fwww.shaktipumps.com\u002F",
+"overview" : "Shakti Pumps (India) Limited is an India-based stainless steel pump manufacturer. The Company is principally engaged in the business of manufacturing various types of pumps and motors. The Company offers approximately 1,500 pump products variants that find application in groundwater supply, irrigation, pressure boosting, industrial applications, as well as in fire-fighting systems and pumping applications for domestic and hospitality sectors. The Company\u0027s product portfolio includes Solar pumps, Submersible pumps, Submersible motors, Vertical multistage centrifugal pumps, Immersible pumps, Pressure booster pumps, Sewage pumps, Self-priming pumps, Diesel pumps, End section pumps, Open well pumps, Single shaft vertical multistage pump, Digital starters, HELICAL Pump set (SSQ) and High efficiency submersible motors. The Company\u0027s manufacturing units are located at Pithampur domestic tariff area (DTA) and Pithampur Special Economic Zone (SEZ) (Indore, Madhya Pradesh)."
+} ]
+, "management" : [
+{
+"name" : "Dinesh Patidar",
+"age" : "51",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Akhilesh Maru",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ravi Patidar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ramesh Patidar",
+"age" : "43",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Sunil Patidar",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Poonam Garg",
+"title" : "Director - Nominee of IFCI Venture’s Green India Venture Fund"
+}
+,
+{
+"name" : "Pooja S. Mahajan",
+"title" : "Director - Nominee of IFCI Limited"
+}
+,
+{
+"name" : "Sridhar Narayan",
+"title" : "Director - Nominee of Afholdings"
+}
+,
+{
+"name" : "Navin S. Patwa",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Nishtha Neema",
+"title" : "Women Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

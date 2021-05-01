@@ -1,0 +1,234 @@
+
+// [
+{
+"symbol" : "540616",
+"exchange" : "BOM",
+"id": "542775480882204",
+"t" : "540616",
+"e" : "BOM",
+"name" : "Artemis Global Life Sciences Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:540616"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:540616"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:540616"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-54.02%",
+"annual" : "36.30%",
+"ttm" : "-27.30%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-72.55%",
+"annual" : "51.76%",
+"ttm" : "-71.42%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "87.82%",
+"ttm" : "-7.50%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.18%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.19%",
+"ttm" : ""
+}
+]
+, "c" : "+2.95",
+"l" : "110.00",
+"cp" : "2.76",
+"ccol" : "chg",
+"op" : "109.00",
+"hi" : "110.05",
+"lo" : "106.05",
+"vo" : "280.00",
+"avvo" : "",
+"hi52" : "159.15",
+"lo52" : "100.20",
+"mc" : "7.19B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.02",
+"dy" : "",
+"ldiv" : "",
+"shares" : "66.19M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "542775480882204",
+"name" : "Artemis Global Life Sciences Ltd",
+"t" : "540616",
+"e" : "BOM",
+"l" : "110.00",
+"c" : "+2.95",
+"mc" : "7.19B",
+"cp" : "2.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7451068",
+"name" : "PTL Enterprises Ltd",
+"t" : "PTL",
+"e" : "NSE",
+"l" : "51.40",
+"c" : "+0.15",
+"mc" : "3.40B",
+"cp" : "0.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1477704",
+"name" : "LIC Housing Finance Limited",
+"t" : "LICHSGFIN",
+"e" : "NSE",
+"l" : "516.15",
+"c" : "-1.50",
+"mc" : "260.38B",
+"cp" : "-0.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "608508055454839",
+"name" : "Narayana Hrudayalaya Ltd",
+"t" : "NH",
+"e" : "NSE",
+"l" : "305.15",
+"c" : "-6.60",
+"mc" : "62.41B",
+"cp" : "-2.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10863428",
+"name" : "N G Industries Ltd",
+"t" : "530897",
+"e" : "BOM",
+"l" : "79.90",
+"c" : "-0.10",
+"mc" : "267.70M",
+"cp" : "-0.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16265450",
+"name" : "Noida Medicare Centre Ltd",
+"t" : "523670",
+"e" : "BOM",
+"l" : "6.50",
+"c" : "0.00",
+"mc" : "94.05M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "722135",
+"name" : "Fortis Malar Hospitals Ltd",
+"t" : "523696",
+"e" : "BOM",
+"l" : "65.75",
+"c" : "-4.80",
+"mc" : "1.24B",
+"cp" : "-6.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12676375",
+"name" : "KMC Speciality Hospitals India Ltd",
+"t" : "524520",
+"e" : "BOM",
+"l" : "21.50",
+"c" : "-0.30",
+"mc" : "3.50B",
+"cp" : "-1.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "303345567384606",
+"name" : "Aster DM Healthcare Ltd",
+"t" : "ASTERDM",
+"e" : "NSE",
+"l" : "181.00",
+"c" : "-2.00",
+"mc" : "84.54B",
+"cp" : "-1.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15510678",
+"name" : "Apollo Hospitals Enterprise Limited",
+"t" : "APOLLOHOSP",
+"e" : "NSE",
+"l" : "1,236.50",
+"c" : "+4.90",
+"mc" : "171.55B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4709886",
+"name" : "Kovai Medical Center And Hospital Ltd",
+"t" : "KOVAI",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-139.35",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": ", GURGAON, 122002, India",
+"phone": "+91-124-4262305",
+"fax": "+91-124-4262306",
+"overview" : "Artemis Global Life Sciences Limited is an India-based company engaged in the business of buying, selling, managing, improving, maintaining, taking on lease, promoting, administer, own or run hospitals, clinics, nursing homes, dispensaries. It is also engaged in the business of maternity homes, old age homes, health resorts and health clubs, polyclinics, medical centers, child welfare and family planning centers, diagnostic centers. The Company is also into all types of laboratories for carrying on investigation, x-ray, CAT scan, ECG and medical research and provision of all kinds of medical and health services and equipments. The objective of the Company is to buy, sell, manufacture or deal in all type of drugs, medicines including alternative\u002FAyurveda medicines pharmaceuticals, chemicals and colors used in drugs, medicines and pharmaceuticals and in their raw materials."
+} ]
+,"moreresources" : [
+]
+}]

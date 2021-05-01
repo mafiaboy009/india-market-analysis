@@ -1,0 +1,278 @@
+
+ [
+{
+"symbol" : "522165",
+"exchange" : "BOM",
+"id": "4775461",
+"t" : "522165",
+"e" : "BOM",
+"name" : "Indsil Hydro Power and Manganese Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=INSL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:522165"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:522165"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:522165"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q2 (Jun \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "16.52%",
+"annual" : "0.67%",
+"ttm" : "14.29%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "18.07%",
+"annual" : "3.80%",
+"ttm" : "13.87%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.85%",
+"ttm" : "19.61%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.60%",
+"ttm" : "8.07%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.05%",
+"ttm" : "13.59%"
+}
+]
+, "c" : "+1.10",
+"l" : "189.00",
+"cp" : "0.59",
+"ccol" : "chg",
+"op" : "188.00",
+"hi" : "190.00",
+"lo" : "186.00",
+"vo" : "9,665.00",
+"avvo" : "",
+"hi52" : "226.85",
+"lo52" : "57.40",
+"mc" : "3.00B",
+"pe" : "30.53",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.19",
+"dy" : "0.42",
+"ldiv" : "0.80",
+"shares" : "15.89M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "4775461",
+"name" : "Indsil Hydro Power and Manganese Ltd",
+"t" : "522165",
+"e" : "BOM",
+"l" : "189.00",
+"c" : "+1.10",
+"mc" : "3.00B",
+"cp" : "0.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "723443",
+"name" : "Balasore Alloys Limited",
+"t" : "513142",
+"e" : "BOM",
+"l" : "71.85",
+"c" : "+1.85",
+"mc" : "6.35B",
+"cp" : "2.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "873220",
+"name" : "Facor Alloys Ltd",
+"t" : "532656",
+"e" : "BOM",
+"l" : "3.11",
+"c" : "-0.13",
+"mc" : "602.57M",
+"cp" : "-4.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12486337",
+"name" : "VBC Ferro Alloys Limited",
+"t" : "513005",
+"e" : "BOM",
+"l" : "38.75",
+"c" : "-0.25",
+"mc" : "170.28M",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1773100",
+"name" : "VBC Industries Ltd",
+"t" : "524310",
+"e" : "BOM",
+"l" : "2.30",
+"c" : "+0.06",
+"mc" : "98.20M",
+"cp" : "2.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7713642",
+"name" : "Maithan Alloys Ltd",
+"t" : "MAITHANALL",
+"e" : "NSE",
+"l" : "949.90",
+"c" : "-8.70",
+"mc" : "27.61B",
+"cp" : "-0.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8646041",
+"name" : "INDIAN METALS \u0026 FERRO ALLOYS LTD",
+"t" : "IMFA",
+"e" : "NSE",
+"l" : "596.00",
+"c" : "+2.95",
+"mc" : "16.08B",
+"cp" : "0.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "62133",
+"name" : "Metkore Alloys \u0026 Industries Ltd",
+"t" : "METKORE",
+"e" : "NSE",
+"l" : "3.55",
+"c" : "-0.15",
+"mc" : "250.01M",
+"cp" : "-4.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3132786",
+"name" : "Impex Ferro Tech Ltd",
+"t" : "IMPEXFERRO",
+"e" : "NSE",
+"l" : "1.20",
+"c" : "+0.05",
+"mc" : "105.52M",
+"cp" : "4.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "108737",
+"name" : "Nagpur Power And Industries Ltd",
+"t" : "532362",
+"e" : "BOM",
+"l" : "39.00",
+"c" : "+1.65",
+"mc" : "508.68M",
+"cp" : "4.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11033843",
+"name" : "Godawari Power and Ispat Limited",
+"t" : "GPIL",
+"e" : "NSE",
+"l" : "521.70",
+"c" : "+24.80",
+"mc" : "18.38B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Indsil House T.V.Samy Road (West), R.S.Puram,, COIMBATORE, 641002, India",
+"phone": "+91-422-4522922",
+"fax": "+91-422-4522925",
+"url": "http:\u002F\u002Fwww.indsil.com\u002F",
+"overview" : "Indsil Hydro Power and Manganese Limited is engaged in manufacturing of ferro alloys, and generation of electricity (hydro power). The Company\u0027s segments include Smelter and Hydro Power. Its Smelter division includes ferro alloy segment and power segment. The Company\u0027s products include ultra-low carbon silico manganese, low carbon silico manganese, ferro chrome and ferro silicon. The Company\u0027s low carbon and ultra-low carbon silico manganese alloys are used in stainless steel making, as well as in grades of carbon steel. The Company has approximately two captive power plants, which include a 21 megawatts (MW) hydro power plant in Rajakkad, Idukki District, Kerala and a 12 MW Coal fired plant in Raipur, Chhattisgarh. Its capacity for low carbon silico manganese is approximately 45,000 tons per years (tpy) located across over three smelters within India. The Company runs approximately 75,000 tpy ferro chrome smelter in the Sultanate of Oman along with captive chrome mine resources."
+} ]
+, "management" : [
+{
+"name" : "S. N. Varadarajan",
+"age" : "67",
+"title" : "Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "S. Mahadevan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vinod Narsiman",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "B. Balchand",
+"age" : "70",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "K. S. Mahadevan",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "D. Pushpa Varadarajan",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "K. Annamalai",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "V. Dharmaraj",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

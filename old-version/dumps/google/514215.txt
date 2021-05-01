@@ -1,0 +1,235 @@
+
+// [
+{
+"symbol" : "514215",
+"exchange" : "BOM",
+"id": "11735107",
+"t" : "514215",
+"e" : "BOM",
+"name" : "Binny Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=BINN.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:514215"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:514215"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:514215"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-6911.44%",
+"annual" : "63.78%",
+"ttm" : "-1352.60%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-914.74%",
+"annual" : "93.06%",
+"ttm" : "-1358.14%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "93.19%",
+"ttm" : "-1346.53%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "35.06%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "78.27%",
+"ttm" : ""
+}
+]
+, "c" : "+4.80",
+"l" : "227.60",
+"cp" : "2.15",
+"ccol" : "chg",
+"op" : "233.90",
+"hi" : "233.90",
+"lo" : "225.00",
+"vo" : "2,175.00",
+"avvo" : "",
+"hi52" : "374.80",
+"lo52" : "119.00",
+"mc" : "5.08B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-12.29",
+"dy" : "",
+"ldiv" : "",
+"shares" : "22.32M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11735107",
+"name" : "Binny Ltd",
+"t" : "514215",
+"e" : "BOM",
+"l" : "227.60",
+"c" : "+4.80",
+"mc" : "5.08B",
+"cp" : "2.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14729464",
+"name" : "Jagatjit Industries Ltd",
+"t" : "507155",
+"e" : "BOM",
+"l" : "85.50",
+"c" : "+3.65",
+"mc" : "3.95B",
+"cp" : "4.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "132789078893137",
+"name" : "Agrimony Commodities Ltd",
+"t" : "537492",
+"e" : "BOM",
+"l" : "3.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4012268",
+"name" : "Aimco Pesticides Ltd",
+"t" : "524288",
+"e" : "BOM",
+"l" : "185.00",
+"c" : "+10.95",
+"mc" : "1.72B",
+"cp" : "6.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6531183",
+"name" : "T. Spiritual World Ltd",
+"t" : "532444",
+"e" : "BOM",
+"l" : "0.72",
+"c" : "0.00",
+"mc" : "14.40M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2619771",
+"name" : "Bhagiradha Chemicals \u0026 Industries Ltd",
+"t" : "531719",
+"e" : "BOM",
+"l" : "300.00",
+"c" : "+3.00",
+"mc" : "2.34B",
+"cp" : "1.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2342348",
+"name" : "APM Industries Ltd",
+"t" : "523537",
+"e" : "BOM",
+"l" : "58.85",
+"c" : "+0.35",
+"mc" : "1.28B",
+"cp" : "0.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10081808",
+"name" : "Kothari Products Ltd.",
+"t" : "KOTHARIPRO",
+"e" : "NSE",
+"l" : "169.90",
+"c" : "-0.90",
+"mc" : "5.06B",
+"cp" : "-0.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "787855",
+"name" : "DCM Shriram Ltd",
+"t" : "DCMSHRIRAM",
+"e" : "NSE",
+"l" : "576.00",
+"c" : "+4.80",
+"mc" : "93.59B",
+"cp" : "0.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12087347",
+"name" : "West Coast Paper Mills Ltd",
+"t" : "WSTCSTPAPR",
+"e" : "NSE",
+"l" : "280.00",
+"c" : "+6.55",
+"mc" : "18.50B",
+"cp" : "2.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3759185",
+"name" : "Advanta Ltd",
+"t" : "ADVANTA",
+"e" : "NSE",
+"l" : "645.20",
+"c" : "",
+"mc" : "80.42B",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "No.106, Armenian Street, CHENNAI, 600001, India",
+"phone": "+91-44-25389361",
+"fax": "+91-44-25389034",
+"url": "http:\u002F\u002Fwww.binnyltd.in\u002F",
+"overview" : "Binny Limited is engaged in general warehousing. The Company is focused on developing a mixed portfolio that includes commercial property, retail, entertainment and hospitality."
+} ]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,290 @@
+
+// [
+{
+"symbol" : "531344",
+"exchange" : "BOM",
+"id": "679358",
+"t" : "531344",
+"e" : "BOM",
+"name" : "Container Corporation of India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531344"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531344"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531344"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "12.26%",
+"annual" : "14.28%",
+"ttm" : "19.85%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "32.02%",
+"annual" : "14.90%",
+"ttm" : "25.69%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "21.27%",
+"ttm" : "29.40%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.64%",
+"ttm" : "14.10%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.01%",
+"ttm" : "16.50%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,474",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-6.15",
+"l" : "1,325.20",
+"cp" : "-0.46",
+"ccol" : "chr",
+"op" : "1,336.75",
+"hi" : "1,345.30",
+"lo" : "1,314.60",
+"vo" : "11,371.00",
+"avvo" : "",
+"hi52" : "1,500.00",
+"lo52" : "922.40",
+"mc" : "324.38B",
+"pe" : "37.31",
+"fwpe" : "",
+"beta" : "",
+"eps" : "35.52",
+"dy" : "1.29",
+"ldiv" : "9.60",
+"shares" : "243.72M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "679358",
+"name" : "Container Corporation of India Ltd",
+"t" : "531344",
+"e" : "BOM",
+"l" : "1,325.20",
+"c" : "-6.15",
+"mc" : "324.38B",
+"cp" : "-0.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4511500",
+"name" : "Central Province Railways Company Ltd",
+"t" : "501827",
+"e" : "BOM",
+"l" : "455.05",
+"c" : "0.00",
+"mc" : "844.75M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "756383137389695",
+"name" : "Navkar Corporation Ltd",
+"t" : "NAVKARCORP",
+"e" : "NSE",
+"l" : "169.00",
+"c" : "+4.90",
+"mc" : "25.45B",
+"cp" : "2.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5045847",
+"name" : "Gateway Distriparks Ltd.",
+"t" : "GDL",
+"e" : "NSE",
+"l" : "205.00",
+"c" : "+3.75",
+"mc" : "22.32B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10885644",
+"name" : "Arshiya Ltd",
+"t" : "ARSHIYA",
+"e" : "NSE",
+"l" : "91.30",
+"c" : "-0.90",
+"mc" : "20.30B",
+"cp" : "-0.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16701002",
+"name" : "Ruchi Infrastructure Ltd.",
+"t" : "RUCHINFRA",
+"e" : "NSE",
+"l" : "4.15",
+"c" : "-0.20",
+"mc" : "861.65M",
+"cp" : "-4.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10616497",
+"name" : "Kesar Terminals \u0026 Infrastructure Ltd",
+"t" : "KTIL",
+"e" : "NSE",
+"l" : "152.45",
+"c" : "+1.15",
+"mc" : "1.68B",
+"cp" : "0.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11312739",
+"name" : "Transport Corporation of India Limited",
+"t" : "TCI",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "-0.90",
+"mc" : "21.50B",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5263425",
+"name" : "Allcargo Logistics Ltd",
+"t" : "ALLCARGO",
+"e" : "NSE",
+"l" : "177.50",
+"c" : "-0.15",
+"mc" : "43.45B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9241636",
+"name" : "Shreyas Shipping \u0026 Logistics Ltd",
+"t" : "SHREYAS",
+"e" : "NSE",
+"l" : "560.05",
+"c" : "-1.70",
+"mc" : "12.25B",
+"cp" : "-0.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "908779391884325",
+"name" : "Globe International Carriers Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "CONCOR Bhawan C-3 Mathura Road Opposite Apollo Hospital, NEW DELHI, 110076, India",
+"phone": "+91-11-41673093",
+"fax": "+91-11-41673112",
+"url": "http:\u002F\u002Fwww.concorindia.com\u002F",
+"overview" : "Container Corporation of India Limited (CONCOR) is the holding company. The Company is engaged in transportation of containers (rail and road), and handling of containers. The Company is also engaged in the operation of logistics facilities, including dry ports, container freight stations and private freight terminals. Its divisions are EXIM and Domestic. Both EXIM and Domestic divisions of the company are engaged in handling, transportation and warehousing activities. Its International services include train services, road services, air cargo movements, reefer services, and block booking on round trip basis. Its domestic services include train services, volume discount scheme, door delivery\u002Fpick ups and terminal handling charges. Its E-Filing software is a Web-based application for EXIM locations being operational at Terminal\u002FInland Container Depot of CONCOR. Through its software, any importer\u002Fexporter\u002Fshipping agent can file his documents, including billing and take printouts."
+} ]
+, "management" : [
+{
+"name" : "V. Kalyana Rama",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Harish Chandra",
+"title" : "Group General Manager - Finance, Company Secretary"
+}
+,
+{
+"name" : "Sanjay Bajpai",
+"title" : "Part-Time Government Official Director"
+}
+,
+{
+"name" : "Prabhas Dansana",
+"title" : "Part Time Official Government Director"
+}
+,
+{
+"name" : "Pradip Kumar Agrawal",
+"title" : "Director - Domestic Division, Director"
+}
+,
+{
+"name" : "Rahul Mithal",
+"title" : "Director - Projects and Services, Director"
+}
+,
+{
+"name" : "Sanjay Swarup",
+"title" : "Director - International marketing and Operations, Director"
+}
+,
+{
+"name" : "Anjaneya Prasad Mocherla",
+"age" : "62",
+"title" : "Part-Time Non-Official (Independent) Director"
+}
+,
+{
+"name" : "Vanita Seth",
+"title" : "Part-Time Non Official (Independent) Director"
+}
+,
+{
+"name" : "Sanjeev S. Shah",
+"title" : "Part-Time Non Official (Independent) Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,358 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 3892352256,
+            "fmt": "3.89B",
+            "longFmt": "3,892,352,256"
+          },
+          "forwardPE": {
+            "raw": 88.09091,
+            "fmt": "88.09"
+          },
+          "profitMargins": {
+            "raw": 0.049439996,
+            "fmt": "4.94%"
+          },
+          "floatShares": {
+            "raw": 1668975,
+            "fmt": "1.67M",
+            "longFmt": "1,668,975"
+          },
+          "sharesOutstanding": {
+            "raw": 12992500,
+            "fmt": "12.99M",
+            "longFmt": "12,992,500"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.652305,
+            "fmt": "-0.65"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 25.334,
+            "fmt": "25.33"
+          },
+          "priceToBook": {
+            "raw": 15.299598,
+            "fmt": "15.30"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514592000,
+            "fmt": "2017-12-30"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 3.35,
+            "fmt": "335.00%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 46797976,
+            "fmt": "46.8M",
+            "longFmt": "46,797,976"
+          },
+          "trailingEps": {
+            "raw": 3.382,
+            "fmt": "3.38"
+          },
+          "forwardEps": {
+            "raw": 4.4,
+            "fmt": "4.4"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 4.112,
+            "fmt": "4.11"
+          },
+          "enterpriseToEbitda": {
+            "raw": 50.949,
+            "fmt": "50.95"
+          },
+          "52WeekChange": {
+            "raw": 0.1949507,
+            "fmt": "19.50%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 0.67,
+                  "fmt": "0.67"
+                },
+                "estimate": {
+                  "raw": 1.13,
+                  "fmt": "1.13"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 55083264,
+                  "fmt": "55.08M",
+                  "longFmt": "55,083,264"
+                },
+                "earnings": {
+                  "raw": -22626875,
+                  "fmt": "-22.63M",
+                  "longFmt": "-22,626,875"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 174237687,
+                  "fmt": "174.24M",
+                  "longFmt": "174,237,687"
+                },
+                "earnings": {
+                  "raw": 25024353,
+                  "fmt": "25.02M",
+                  "longFmt": "25,024,353"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 238502342,
+                  "fmt": "238.5M",
+                  "longFmt": "238,502,342"
+                },
+                "earnings": {
+                  "raw": 14407246,
+                  "fmt": "14.41M",
+                  "longFmt": "14,407,246"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 378641435,
+                  "fmt": "378.64M",
+                  "longFmt": "378,641,435"
+                },
+                "earnings": {
+                  "raw": 13433976,
+                  "fmt": "13.43M",
+                  "longFmt": "13,433,976"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 196847435,
+                  "fmt": "196.85M",
+                  "longFmt": "196,847,435"
+                },
+                "earnings": {
+                  "raw": 7711976,
+                  "fmt": "7.71M",
+                  "longFmt": "7,711,976"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 250434000,
+                  "fmt": "250.43M",
+                  "longFmt": "250,434,000"
+                },
+                "earnings": {
+                  "raw": 15838000,
+                  "fmt": "15.84M",
+                  "longFmt": "15,838,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 237585000,
+                  "fmt": "237.59M",
+                  "longFmt": "237,585,000"
+                },
+                "earnings": {
+                  "raw": 9271000,
+                  "fmt": "9.27M",
+                  "longFmt": "9,271,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 261740000,
+                  "fmt": "261.74M",
+                  "longFmt": "261,740,000"
+                },
+                "earnings": {
+                  "raw": 10196000,
+                  "fmt": "10.2M",
+                  "longFmt": "10,196,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Dempo House",
+          "address2": "Campal",
+          "city": "Panaji",
+          "zip": "403001",
+          "country": "India",
+          "phone": "91 83 2244 1300",
+          "fax": "91 83 2222 5098",
+          "website": "http://www.hflgoa.com",
+          "industry": "Food - Major Diversified",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Hindustan Foods Limited manufactures and sells cereal based food and other products in India. The company offers instant porridges, milk and cereal based baby food, instant mixes, extruded cereal products, extruded snacks, breakfast cereals, and health drinks. It is also involved in contract manufacture of leather shoes and accessories for men, women, and children. The company was incorporated in 1984 and is headquartered in Panaji, India. Hindustan Foods Limited is a subsidiary of Vanity Case (India) Private Limited.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 387.6,
+            "fmt": "387.60"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 135484000,
+            "fmt": "135.48M",
+            "longFmt": "135,484,000"
+          },
+          "totalCashPerShare": {
+            "raw": 9.833,
+            "fmt": "9.83"
+          },
+          "ebitda": {
+            "raw": 76397584,
+            "fmt": "76.4M",
+            "longFmt": "76,397,584"
+          },
+          "totalDebt": {
+            "raw": 71375000,
+            "fmt": "71.38M",
+            "longFmt": "71,375,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 946605440,
+            "fmt": "946.61M",
+            "longFmt": "946,605,440"
+          },
+          "debtToEquity": {
+            "raw": 20.36,
+            "fmt": "20.36"
+          },
+          "revenuePerShare": {
+            "raw": 68.403,
+            "fmt": "68.40"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 148561647,
+            "fmt": "148.56M",
+            "longFmt": "148,561,647"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 3.111,
+            "fmt": "311.10%"
+          },
+          "revenueGrowth": {
+            "raw": 3.225,
+            "fmt": "322.50%"
+          },
+          "grossMargins": {
+            "raw": 0.46282002,
+            "fmt": "46.28%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.08071,
+            "fmt": "8.07%"
+          },
+          "operatingMargins": {
+            "raw": 0.06612,
+            "fmt": "6.61%"
+          },
+          "profitMargins": {
+            "raw": 0.049439996,
+            "fmt": "4.94%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

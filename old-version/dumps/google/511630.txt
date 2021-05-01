@@ -1,0 +1,277 @@
+
+// [
+{
+"symbol" : "511630",
+"exchange" : "BOM",
+"id": "11561438",
+"t" : "511630",
+"e" : "BOM",
+"name" : "Sambhaav Media Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:511630"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:511630"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:511630"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.62%",
+"annual" : "8.60%",
+"ttm" : "18.13%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-55.34%",
+"annual" : "9.41%",
+"ttm" : "8.95%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.37%",
+"ttm" : "15.80%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.80%",
+"ttm" : "7.40%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.26%",
+"ttm" : "10.49%"
+}
+]
+, "c" : "-0.06",
+"l" : "10.05",
+"cp" : "-0.59",
+"ccol" : "chr",
+"op" : "10.55",
+"hi" : "10.55",
+"lo" : "10.05",
+"vo" : "13,208.00",
+"avvo" : "",
+"hi52" : "16.70",
+"lo52" : "5.55",
+"mc" : "1.62B",
+"pe" : "26.01",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.39",
+"dy" : "",
+"ldiv" : "",
+"shares" : "162.92M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11561438",
+"name" : "Sambhaav Media Ltd",
+"t" : "511630",
+"e" : "BOM",
+"l" : "10.05",
+"c" : "-0.06",
+"mc" : "1.62B",
+"cp" : "-0.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12986165",
+"name" : "Jagran Prakashan Ltd",
+"t" : "JAGRAN",
+"e" : "NSE",
+"l" : "166.30",
+"c" : "+2.50",
+"mc" : "51.72B",
+"cp" : "1.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11119818",
+"name" : "Sandesh Ltd",
+"t" : "SANDESH",
+"e" : "NSE",
+"l" : "1,128.05",
+"c" : "+33.90",
+"mc" : "8.49B",
+"cp" : "3.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "141358",
+"name" : "DB Corp Ltd",
+"t" : "DBCORP",
+"e" : "NSE",
+"l" : "326.10",
+"c" : "-4.55",
+"mc" : "59.76B",
+"cp" : "-1.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15343954",
+"name" : "Hindustan Media Ventures Ltd",
+"t" : "HMVL",
+"e" : "NSE",
+"l" : "238.40",
+"c" : "-4.10",
+"mc" : "17.55B",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10797484",
+"name" : "Deccan Chronicle Holdings Ltd.",
+"t" : "DCHL",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-5.30",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16305398",
+"name" : "HT Media Ltd",
+"t" : "HTMEDIA",
+"e" : "NSE",
+"l" : "93.15",
+"c" : "+0.15",
+"mc" : "21.65B",
+"cp" : "0.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12999137",
+"name" : "Reliance Broadcast Network Limited",
+"t" : "RBN",
+"e" : "NSE",
+"l" : "69.25",
+"c" : "",
+"mc" : "5.50B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14957327",
+"name" : "Entertainment Network (India) Limited",
+"t" : "ENIL",
+"e" : "NSE",
+"l" : "711.10",
+"c" : "+8.80",
+"mc" : "33.91B",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1803644",
+"name" : "Jain Studios Ltd",
+"t" : "JAINSTUDIO",
+"e" : "NSE",
+"l" : "4.45",
+"c" : "-0.20",
+"mc" : "127.25M",
+"cp" : "-4.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10908957",
+"name" : "Luharuka Media \u0026 Infra Ltd",
+"t" : "512048",
+"e" : "BOM",
+"l" : "0.60",
+"c" : "0.00",
+"mc" : "56.23M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "SAMBHAV HOUSE, Opp Chief Justic Bungalow PREMCHANDNAGAR ROAD SATELLTE, BODEKDEV, AHMEDABAD, 380015, India",
+"phone": "+91-79-26873914",
+"fax": "+91-79-26873922",
+"url": "http:\u002F\u002Fwww.sambhaav.com\u002F",
+"overview" : "Sambhaav Media Limited is engaged in the sale of other advertising space or time, and also in the publishing of newspapers, journals and periodicals. Its segments include Print Media and Electronic Media. The Company is engaged in the business of print media in the form of newspaper and magazine publication, audio video media in the form of public entertainment system and television channels, digital media by way of online portal, social media and varied advertising, and communication means as its activities. Its product line includes Sambhaav Metro, which is a tabloid daily in Gujarat with a focus on Ahmedabad\u003B Abhiyaan, which is a Gujarat magazine that is circulated in the upper echelons of Gujarat and Mumbai\u003B VTV News, which is a regional Gujarati news channel, and WISE TV, which is a transit television channel. The Company has installed Global Positioning System (GPS) in approximately 2,400 buses, and has a Web portal for news, entertainment, gaming and knowledge sharing."
+} ]
+, "management" : [
+{
+"name" : "Kiranbhai B. Vadodaria",
+"age" : "54",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sachin Kotak",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Palak Asawa",
+"title" : "Company Secretary, Compliance Officer"
+}
+,
+{
+"name" : "Ram Kumar Gupta",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Amit Ray",
+"title" : "Director"
+}
+,
+{
+"name" : "Seema G. Saxena",
+"title" : "Director"
+}
+,
+{
+"name" : "Manoj B. Vadodaria",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "O. P. Bhandari",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

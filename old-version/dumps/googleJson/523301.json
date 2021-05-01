@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "523301",
+"exchange" : "BOM",
+"id": "9416932",
+"t" : "523301",
+"e" : "BOM",
+"name" : "TCPL Packaging Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=TCPL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:523301"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:523301"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:523301"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.79%",
+"annual" : "4.85%",
+"ttm" : "3.09%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.32%",
+"annual" : "10.05%",
+"ttm" : "7.51%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "14.34%",
+"ttm" : "12.42%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.97%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "20.17%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,598",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-16.95",
+"l" : "620.00",
+"cp" : "-2.66",
+"ccol" : "chr",
+"op" : "638.45",
+"hi" : "638.45",
+"lo" : "620.00",
+"vo" : "535.00",
+"avvo" : "",
+"hi52" : "735.00",
+"lo52" : "486.00",
+"mc" : "5.57B",
+"pe" : "25.65",
+"fwpe" : "",
+"beta" : "",
+"eps" : "24.18",
+"dy" : "",
+"ldiv" : "",
+"shares" : "9.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9416932",
+"name" : "TCPL Packaging Ltd",
+"t" : "523301",
+"e" : "BOM",
+"l" : "620.00",
+"c" : "-16.95",
+"mc" : "5.57B",
+"cp" : "-2.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5451777",
+"name" : "Antarctica Ltd",
+"t" : "ANTGRAPHIC",
+"e" : "NSE",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "147.26M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4290260",
+"name" : "Orient Press Ltd",
+"t" : "ORIENTLTD",
+"e" : "NSE",
+"l" : "235.05",
+"c" : "-2.15",
+"mc" : "2.35B",
+"cp" : "-0.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11888066",
+"name" : "South India Paper Mills Limited",
+"t" : "516108",
+"e" : "BOM",
+"l" : "121.00",
+"c" : "-4.00",
+"mc" : "1.82B",
+"cp" : "-3.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3734908",
+"name" : "Radha Madhav Corporation Limited",
+"t" : "RMCL",
+"e" : "NSE",
+"l" : "28.50",
+"c" : "-0.30",
+"mc" : "1.91B",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5736014",
+"name" : "Shree Ajit Pulp and Paper Ltd",
+"t" : "538795",
+"e" : "BOM",
+"l" : "190.00",
+"c" : "+0.35",
+"mc" : "1.02B",
+"cp" : "0.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "574666291740368",
+"name" : "Parth Industries Limited",
+"t" : "526349",
+"e" : "BOM",
+"l" : "1.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12261384",
+"name" : "Rollatainers Ltd",
+"t" : "502448",
+"e" : "BOM",
+"l" : "5.86",
+"c" : "-0.21",
+"mc" : "1.42B",
+"cp" : "-3.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "720439",
+"name" : "Jhaveri Flexo India Limited",
+"t" : "JHAVFLEXO",
+"e" : "BOM",
+"l" : "24.50",
+"c" : "",
+"mc" : "616.44M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5684179",
+"name" : "Huhtamaki PPL Ltd",
+"t" : "PAPERPROD",
+"e" : "NSE",
+"l" : "320.00",
+"c" : "-6.90",
+"mc" : "24.16B",
+"cp" : "-2.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "110180760234635",
+"name" : "Worth Peripherals Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Empire Mills Complex 414, Senapati Bapat Marg, Lower Parel, MUMBAI, 400013, India",
+"phone": "+91-22-61646000",
+"fax": "+91-22-24935893",
+"url": "http:\u002F\u002Fwww.tcpl.in\u002F",
+"overview" : "TCPL Packaging Limited is engaged in the manufacture of paper and paper products. The Company is manufacturer of printed packaging material. The Company operates through Printing and Packaging segment. The Company manufactures folding cartons, litho lamination, plastic cartons, blister packs, and shelf ready packaging. It is a converter of paperboard. The Company is also engaged in the flexible packaging. It produces printed cork-tipping paper, laminates, sleeves and wrap-around labels. The Company offers blanks and outers to the global tobacco companies. It caters to Indian and global liquor companies for their packaging requirements that include folding cartons and fluted cartons. It is a provider of packaging for customers in the food and beverage industry in India and around the world. The Company also serves pharmaceutical, fast-moving consumer goods (FMCG), agrochemicals and electrical industries. The Company\u0027s factories are located at Silvassa, Haridwar, Goa and Guwahati."
+} ]
+, "management" : [
+{
+"name" : "K. K. Kanoria",
+"title" : "Whole-Time Chairman of the Board"
+}
+,
+{
+"name" : "S. G. Nanavati",
+"age" : "57",
+"title" : "Compliance Officer, Executive Director"
+}
+,
+{
+"name" : "Saket Kanoria",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Akshay Kanoria",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Harish Anchan",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Sonal Agarwal",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rabindranath Jhunjhunwala",
+"age" : "42",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rishav Kanoria",
+"title" : "Director"
+}
+,
+{
+"name" : "Sunil Talati",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sudhir A. Merchant",
+"age" : "58",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

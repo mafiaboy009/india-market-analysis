@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "532794",
+"exchange" : "BOM",
+"id": "712634",
+"t" : "532794",
+"e" : "BOM",
+"name" : "Zee Media Corporation Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532794"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532794"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532794"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.66%",
+"annual" : "10.71%",
+"ttm" : "25.08%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "16.21%",
+"annual" : "16.10%",
+"ttm" : "29.43%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "22.21%",
+"ttm" : "31.64%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.21%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.41%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,509",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.30",
+"l" : "43.65",
+"cp" : "0.69",
+"ccol" : "chg",
+"op" : "43.40",
+"hi" : "44.05",
+"lo" : "43.00",
+"vo" : "51,863.00",
+"avvo" : "",
+"hi52" : "50.15",
+"lo52" : "33.65",
+"mc" : "20.55B",
+"pe" : "18.61",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.35",
+"dy" : "0.34",
+"ldiv" : "0.15",
+"shares" : "470.79M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "712634",
+"name" : "Zee Media Corporation Ltd",
+"t" : "532794",
+"e" : "BOM",
+"l" : "43.65",
+"c" : "+0.30",
+"mc" : "20.55B",
+"cp" : "0.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "672876",
+"name" : "Zee Entertainment Enterprises Limited",
+"t" : "505537",
+"e" : "BOM",
+"l" : "586.40",
+"c" : "+16.20",
+"mc" : "565.14B",
+"cp" : "2.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "26837369213470",
+"name" : "Shemaroo Entertainment Ltd",
+"t" : "SHEMAROO",
+"e" : "NSE",
+"l" : "527.00",
+"c" : "+2.55",
+"mc" : "14.39B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3950734",
+"name" : "TV18 Broadcast Ltd",
+"t" : "TV18BRDCST",
+"e" : "NSE",
+"l" : "60.00",
+"c" : "+1.55",
+"mc" : "102.69B",
+"cp" : "2.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "848157305350251",
+"name" : "TV Vision Ltd",
+"t" : "TVVISION",
+"e" : "NSE",
+"l" : "18.30",
+"c" : "+0.20",
+"mc" : "639.48M",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "714671",
+"name" : "Network 18 Media \u0026 Investments Ltd",
+"t" : "532798",
+"e" : "BOM",
+"l" : "50.60",
+"c" : "+0.70",
+"mc" : "52.76B",
+"cp" : "1.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9520470",
+"name" : "52 Weeks Entertainment Ltd",
+"t" : "531925",
+"e" : "BOM",
+"l" : "4.18",
+"c" : "+0.07",
+"mc" : "145.80M",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715516",
+"name" : "Sahara One Media \u0026 Entertainment Ltd.",
+"t" : "503691",
+"e" : "BOM",
+"l" : "44.05",
+"c" : "0.00",
+"mc" : "948.18M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1979135",
+"name" : "B.A.G Films \u0026 Media Ltd.",
+"t" : "BAGFILMS",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "-0.15",
+"mc" : "1.18B",
+"cp" : "-2.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3689364",
+"name" : "Raj Television Network Limited",
+"t" : "RAJTV",
+"e" : "NSE",
+"l" : "56.55",
+"c" : "+1.05",
+"mc" : "2.93B",
+"cp" : "1.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2276929",
+"name" : "Trilogic Digital Media Ltd",
+"t" : "531712",
+"e" : "BOM",
+"l" : "0.89",
+"c" : "-0.01",
+"mc" : "21.08M",
+"cp" : "-1.11",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Essel Studio, FC-19, Sector 16A, NOIDA, 201301, India",
+"phone": "+91-120-2511064",
+"fax": "+91-120-2515381",
+"url": "http:\u002F\u002Fwww.zeenews.com\u002F",
+"overview" : "Zee Media Corporation Limited is engaged in broadcasting services. The Company is engaged in the business of production and broadcasting of television software. Its segments include TV-Broadcasting Business, which includes business of broadcasting of news\u002Fcurrent affairs and regional language channels and sale of television programs, including program feeds, and Print Business, which includes publishing and distribution of English daily, DNA, and other publishing activities, including on job work basis. Its network comprises three national channels: Zee News (Hindi News), India 24X7, and Zee Business (Hindi Business News). In addition, it has regional news channels, which include Zee 24 Taas (Marathi), Zee Madhya Pradesh Chhattisgarh (Madhya Pradesh and Chhattisgarh), Zee Marudhara (Rajasthan), Zee Punjab Haryana Himachal and Zee Kalinga (Odisha). It operates over two regional news channels through its subsidiaries, including 24 Ghanta (Bengali) and Maurya TV (Bihar and Jharkhand)."
+} ]
+, "management" : [
+{
+"name" : "Sumit Kapoor",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rajiv Singh",
+"title" : "Chief Operating Officer, Additional Director"
+}
+,
+{
+"name" : "Amit Tripathi",
+"age" : "41",
+"title" : "Executive Vice President - Sales"
+}
+,
+{
+"name" : "Pradeep Gulati",
+"title" : "Senior Vice President - Human Resources"
+}
+,
+{
+"name" : "Y. P. Singh",
+"title" : "Senior Vice President - Technical"
+}
+,
+{
+"name" : "Pushpal Sanghavi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Jagdish Chandra",
+"age" : "66",
+"title" : "Executive Director - Regional News Channels, Director"
+}
+,
+{
+"name" : "Raktimanu Das",
+"title" : "Business Head - Zee Business"
+}
+,
+{
+"name" : "Rakesh Khar",
+"title" : "Head Research \u0026 Consulting Editor"
+}
+,
+{
+"name" : "Rohit Kumar",
+"title" : "Deputy Vice President - Marketing, Zee News"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,296 @@
+
+ [
+{
+"symbol" : "532461",
+"exchange" : "BOM",
+"id": "684605",
+"t" : "532461",
+"e" : "BOM",
+"name" : "Punjab National Bank"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532461"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532461"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532461"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "3.68%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "6.29%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "20.81%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.12%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.79%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "73,919",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.50",
+"l" : "111.90",
+"cp" : "-1.32",
+"ccol" : "chr",
+"op" : "113.45",
+"hi" : "114.95",
+"lo" : "110.25",
+"vo" : "3.23M",
+"avvo" : "",
+"hi52" : "231.60",
+"lo52" : "110.25",
+"mc" : "271.18B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "",
+"ldiv" : "",
+"shares" : "2.43B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "684605",
+"name" : "Punjab National Bank",
+"t" : "532461",
+"e" : "BOM",
+"l" : "111.90",
+"c" : "-1.50",
+"mc" : "271.18B",
+"cp" : "-1.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11046585",
+"name" : "Oriental Bank of Commerce",
+"t" : "ORIENTBANK",
+"e" : "NSE",
+"l" : "94.20",
+"c" : "-11.90",
+"mc" : "32.46B",
+"cp" : "-11.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13082940",
+"name" : "HDFC Bank Limited",
+"t" : "HDFCBANK",
+"e" : "NSE",
+"l" : "1,912.50",
+"c" : "+31.95",
+"mc" : "4.97T",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16345036",
+"name" : "ICICI Bank Ltd",
+"t" : "ICICIBANK",
+"e" : "NSE",
+"l" : "326.15",
+"c" : "+3.40",
+"mc" : "2.09T",
+"cp" : "1.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12575761",
+"name" : "Indian Bank",
+"t" : "INDIANB",
+"e" : "NSE",
+"l" : "324.00",
+"c" : "+6.00",
+"mc" : "155.61B",
+"cp" : "1.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "184832",
+"name" : "PNB Gilts Ltd.",
+"t" : "PNBGILTS",
+"e" : "NSE",
+"l" : "38.00",
+"c" : "+2.20",
+"mc" : "6.88B",
+"cp" : "6.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678082",
+"name" : "Kotak Mahindra Bank Ltd",
+"t" : "KOTAKBANK",
+"e" : "NSE",
+"l" : "1,105.00",
+"c" : "+24.15",
+"mc" : "2.10T",
+"cp" : "2.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13564339",
+"name" : "State Bank of India",
+"t" : "SBIN",
+"e" : "NSE",
+"l" : "274.30",
+"c" : "-1.75",
+"mc" : "2.36T",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "374785",
+"name" : "Reliance Capital Limited",
+"t" : "RELCAPITAL",
+"e" : "NSE",
+"l" : "484.60",
+"c" : "+14.80",
+"mc" : "122.24B",
+"cp" : "3.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6775936",
+"name" : "Canara Bank Ltd",
+"t" : "CANBK",
+"e" : "NSE",
+"l" : "309.80",
+"c" : "-4.05",
+"mc" : "185.13B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6038505",
+"name" : "Dhanlaxmi Bank Limited",
+"t" : "DHANBANK",
+"e" : "NSE",
+"l" : "22.85",
+"c" : "-0.25",
+"mc" : "5.78B",
+"cp" : "-1.08",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "7, Bhikhaiji Cama Place, NEW DELHI, 110075, India",
+"phone": "+91-11-23719086",
+"fax": "+91-11-23766079",
+"url": "http:\u002F\u002Fwww.pnbindia.in",
+"overview" : "Punjab National Bank (PNB or the Bank) is a public sector bank. The Bank provides various banking services, such as digital banking, personal banking, social banking, micro, small and medium enterprises (MSME) banking, agricultural banking, corporate banking, international banking or non-resident Indian (NRI), and financial services. The Bank operates through four segments: Treasury, Corporate\u002FWholesale banking, Retail banking and Other banking operations. The Banks digital banking services include PNB Retail Internet Banking, PNB Corporate Internet Banking, PNB Mobile Banking and PNB SMS Banking. Its personal banking services include savings fund account, fixed deposit schemes and cards. Its social banking services include financial inclusion and priority sector. Its corporate banking services include loan against future lease rentals and cash management services. Its financial services include insurance business, merchant banking, mutual funds and wealth management services."
+} ]
+, "management" : [
+{
+"name" : "Usha Ananthasubramanian",
+"age" : "58",
+"title" : "Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "P. K. Sharma",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "G. S. Gusain",
+"age" : "50",
+"title" : "Group Chief Risk Officer"
+}
+,
+{
+"name" : "Sushma Bali",
+"title" : "General Manager"
+}
+,
+{
+"name" : "S. R. Sharma",
+"title" : "Field General Manager"
+}
+,
+{
+"name" : "K. Veera Brahmaji Rao",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Ram S. Sangapure Ph. D.",
+"age" : "58",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Sanjiv Sharan",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Balbir Singh",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Sunil Mehta",
+"age" : "59",
+"title" : "Non-Executive Chairman of the Board, Part Time Non-official Director"
+}
+]
+,"moreresources" : [
+]
+}]

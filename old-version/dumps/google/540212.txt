@@ -1,0 +1,288 @@
+
+// [
+{
+"symbol" : "540212",
+"exchange" : "BOM",
+"id": "409374649041541",
+"t" : "540212",
+"e" : "BOM",
+"name" : "TCI Express Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:540212"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:540212"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:540212"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.74%",
+"annual" : "5.40%",
+"ttm" : "6.30%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.93%",
+"annual" : "8.41%",
+"ttm" : "9.09%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.98%",
+"ttm" : "9.67%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "18.06%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "28.77%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,224",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+14.15",
+"l" : "532.40",
+"cp" : "2.73",
+"ccol" : "chg",
+"op" : "519.00",
+"hi" : "541.05",
+"lo" : "519.00",
+"vo" : "2,991.00",
+"avvo" : "",
+"hi52" : "645.00",
+"lo52" : "284.10",
+"mc" : "20.46B",
+"pe" : "38.61",
+"fwpe" : "",
+"beta" : "",
+"eps" : "13.79",
+"dy" : "0.38",
+"ldiv" : "1.00",
+"shares" : "38.29M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "409374649041541",
+"name" : "TCI Express Ltd",
+"t" : "540212",
+"e" : "BOM",
+"l" : "532.40",
+"c" : "+14.15",
+"mc" : "20.46B",
+"cp" : "2.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15070546",
+"name" : "Gati Ltd",
+"t" : "GATI",
+"e" : "NSE",
+"l" : "114.00",
+"c" : "+0.85",
+"mc" : "12.29B",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11312739",
+"name" : "Transport Corporation of India Limited",
+"t" : "TCI",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "-0.90",
+"mc" : "21.50B",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5263425",
+"name" : "Allcargo Logistics Ltd",
+"t" : "ALLCARGO",
+"e" : "NSE",
+"l" : "177.50",
+"c" : "-0.15",
+"mc" : "43.45B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12410892",
+"name" : "Container Corporation of India Ltd",
+"t" : "CONCOR",
+"e" : "NSE",
+"l" : "1,327.00",
+"c" : "-2.75",
+"mc" : "324.08B",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715562",
+"name" : "Balmer Lawrie Investments Ltd.",
+"t" : "532485",
+"e" : "BOM",
+"l" : "429.50",
+"c" : "-6.30",
+"mc" : "9.54B",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "141988034760746",
+"name" : "Snowman Logistics Ltd",
+"t" : "SNOWMAN",
+"e" : "NSE",
+"l" : "52.05",
+"c" : "-0.15",
+"mc" : "8.61B",
+"cp" : "-0.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15105977",
+"name" : "GKW Limited",
+"t" : "GKWLIMITED",
+"e" : "NSE",
+"l" : "585.00",
+"c" : "-28.30",
+"mc" : "3.66B",
+"cp" : "-4.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "756383137389695",
+"name" : "Navkar Corporation Ltd",
+"t" : "NAVKARCORP",
+"e" : "NSE",
+"l" : "169.00",
+"c" : "+4.90",
+"mc" : "25.45B",
+"cp" : "2.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "236607675430557",
+"name" : "Jet Freight Logistics Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "908779391884325",
+"name" : "Globe International Carriers Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "TCI House 69, Institutional Area, Sector-32, GURGAON, 122001, India",
+"phone": "+91-124-2384090",
+"fax": "+91-124-2381611",
+"url": "http:\u002F\u002Fwww.tciexpress.in\u002F",
+"overview" : "TCI Express Limited is an India-based company engaged in offering transport, storage, warehousing and support services for transportation. The Company is engaged in express distribution and offers a single window door-to-door solution to customers. It offers express solutions with over 3,000 pick-up and approximately 13,000 delivery locations with its containerized fleet of vehicles. The Company provides around the clock services and time sensitive express deliveries by air mode. The Company provides services to approximately 200 countries across the globe. It provides business-to-consumer (B2C) and business-to-business (B2B) on multi-model distribution for optimum on time delivery with value added features of cash on delivery (COD), Pick n pack, late night and early morning deliveries. The Company also offers reverse logistics. Its Air Express services include Express transportation in India, Express freight services in India and Express delivery services in India."
+} ]
+, "management" : [
+{
+"name" : "Dharmpal P. Agarwal",
+"age" : "66",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Phool Chand Sharma",
+"title" : "Chief Executive Officer, Whole-Time Director"
+}
+,
+{
+"name" : "Mukti Lal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Vinay Gujral",
+"title" : "Company Secretary \u0026 Compliance Officer"
+}
+,
+{
+"name" : "Chander Agarwal",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Vineet Agarwal",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Manisha Agarwal",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Murali Krishna Chevuturi",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Prashant Jain",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ashok Kumar Ladha",
+"age" : "67",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

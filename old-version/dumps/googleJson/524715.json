@@ -1,0 +1,297 @@
+
+ [
+{
+"symbol" : "524715",
+"exchange" : "BOM",
+"id": "10958619",
+"t" : "524715",
+"e" : "BOM",
+"name" : "Sun Pharmaceutical Industries Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:524715"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:524715"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:524715"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002716)",
+"kr_annual_date" : "2016",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "21.85%",
+"annual" : "20.62%",
+"ttm" : "26.42%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "27.13%",
+"annual" : "24.14%",
+"ttm" : "30.36%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "30.38%",
+"ttm" : "34.08%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.32%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.53%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "14,747",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-14.05",
+"l" : "556.15",
+"cp" : "-2.46",
+"ccol" : "chr",
+"op" : "574.80",
+"hi" : "574.80",
+"lo" : "554.00",
+"vo" : "777,267.00",
+"avvo" : "",
+"hi52" : "728.45",
+"lo52" : "433.15",
+"mc" : "1.32T",
+"pe" : "51.85",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.73",
+"dy" : "0.63",
+"ldiv" : "3.50",
+"shares" : "0.00",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10958619",
+"name" : "Sun Pharmaceutical Industries Limited",
+"t" : "524715",
+"e" : "BOM",
+"l" : "556.15",
+"c" : "-14.05",
+"mc" : "1.32T",
+"cp" : "-2.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10030871",
+"name" : "Unichem Laboratories Limited",
+"t" : "UNICHEMLAB",
+"e" : "NSE",
+"l" : "320.95",
+"c" : "-9.05",
+"mc" : "29.26B",
+"cp" : "-2.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13868302",
+"name" : "Natural Capsules Ltd",
+"t" : "524654",
+"e" : "BOM",
+"l" : "116.00",
+"c" : "+5.05",
+"mc" : "722.99M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8708343",
+"name" : "SMS Pharmaceuticals Ltd",
+"t" : "SMSPHARMA",
+"e" : "NSE",
+"l" : "89.35",
+"c" : "+0.60",
+"mc" : "7.59B",
+"cp" : "0.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "451765",
+"name" : "J B Chemicals and Pharmaceuticals Ltd",
+"t" : "JBCHEPHARM",
+"e" : "NSE",
+"l" : "315.00",
+"c" : "+9.35",
+"mc" : "26.32B",
+"cp" : "3.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9025089",
+"name" : "RPG Life Sciences Limited",
+"t" : "RPGLIFE",
+"e" : "NSE",
+"l" : "463.00",
+"c" : "+10.95",
+"mc" : "7.69B",
+"cp" : "2.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2319907",
+"name" : "Krebs Biochemicals And Industries Ltd",
+"t" : "524518",
+"e" : "BOM",
+"l" : "161.50",
+"c" : "+1.65",
+"mc" : "2.12B",
+"cp" : "1.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8874121",
+"name" : "Gujarat Themis Biosyn Ltd",
+"t" : "506879",
+"e" : "BOM",
+"l" : "43.30",
+"c" : "-3.05",
+"mc" : "625.72M",
+"cp" : "-6.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15490987",
+"name" : "TTK Health Care Ltd",
+"t" : "TTKHLTCARE",
+"e" : "NSE",
+"l" : "1,251.00",
+"c" : "-10.50",
+"mc" : "9.65B",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10751448",
+"name" : "Albert David Ltd",
+"t" : "524075",
+"e" : "BOM",
+"l" : "370.00",
+"c" : "0.00",
+"mc" : "2.08B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "728937224794969",
+"name" : "Fervent Synergies Ltd",
+"t" : "533896",
+"e" : "BOM",
+"l" : "21.50",
+"c" : "-0.25",
+"mc" : "645.00M",
+"cp" : "-1.15",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Acme Plaza Andheri Kurla Road, Andheri East, MUMBAI, 400 093, India",
+"phone": "+91-22-43244324",
+"fax": "+91-265-2354897",
+"url": "http:\u002F\u002Fwww.sunpharma.com\u002F",
+"overview" : "Sun Pharmaceutical Industries Limited is a pharmaceuticals company. The Company\u0027s business segments include US Business, Indian Branded Generics Business, Emerging Markets, Global Consumer Healthcare Business and Active Pharmaceutical Ingredients (API). Its Rest of World segment includes Western Europe, Canada, Australia, New Zealand and other markets. The Company offers its products to therapy areas, such as cardiology, neuro-psychiatry, gastroenterology, anti-infective, diabetology and dermatology. The Company\u0027s products include AB PHYLLINE, ABZORB DUSTING POWDER, ACAMPROL, ACOSTIN 3 MIU, ACOSTIN FORTE and AB PHYLLINE SR 200. Its manufacturing units are situated in India, the United States and Brazil, among others. Its units produce generics, branded generics, specialty products, over-the-counter (OTC) products, anti-retroviral (ARVs) and APIs. They also produce intermediates in a range of dosage forms, including tablets, capsules, injectables, ointments, creams and liquids."
+} ]
+, "management" : [
+{
+"name" : "C. S. Muralidharan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sunil R. Ajmera",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Dilip Shantilal Shanghvi",
+"age" : "62",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Sailesh T. Desai",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Kalyanasundaram Subramanian",
+"age" : "63",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Sudhir V. Valia",
+"age" : "60",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Israel Makov",
+"age" : "78",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Vivek Chaand Sehgal",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "S. Mohanchand Dadha",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ashwin S. Dani",
+"age" : "75",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

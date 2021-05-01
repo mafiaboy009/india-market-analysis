@@ -1,0 +1,272 @@
+
+ [
+{
+"symbol" : "530557",
+"exchange" : "BOM",
+"id": "6135157",
+"t" : "530557",
+"e" : "BOM",
+"name" : "NCL Research and Financial Services Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=NCRF.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530557"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530557"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530557"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-230.93%",
+"annual" : "-0.73%",
+"ttm" : "51.05%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-230.93%",
+"annual" : "-0.91%",
+"ttm" : "50.67%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-0.87%",
+"ttm" : "50.75%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.09%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-0.09%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.03",
+"l" : "1.62",
+"cp" : "-1.82",
+"ccol" : "chr",
+"op" : "1.62",
+"hi" : "1.62",
+"lo" : "1.62",
+"vo" : "1,116.00",
+"avvo" : "",
+"hi52" : "14.25",
+"lo52" : "1.52",
+"mc" : "235.59M",
+"pe" : "13.93",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.12",
+"dy" : "",
+"ldiv" : "",
+"shares" : "145.42M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "6135157",
+"name" : "NCL Research and Financial Services Ltd",
+"t" : "530557",
+"e" : "BOM",
+"l" : "1.62",
+"c" : "-0.03",
+"mc" : "235.59M",
+"cp" : "-1.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1070243896263751",
+"name" : "Moryo Industries Ltd",
+"t" : "513305",
+"e" : "BOM",
+"l" : "157.95",
+"c" : "0.00",
+"mc" : "2.53B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1260463",
+"name" : "Mahan Industries Ltd",
+"t" : "531515",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "17.64M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2059533296753",
+"name" : "Divinus Fabrics Ltd",
+"t" : "538432",
+"e" : "BOM",
+"l" : "120.95",
+"c" : "0.00",
+"mc" : "539.07M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "89871121181236",
+"name" : "Ghushine Fintrrade Ocean Ltd",
+"t" : "539864",
+"e" : "BOM",
+"l" : "6.77",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6640481",
+"name" : "Beardsell Ltd",
+"t" : "BEARDSELL",
+"e" : "NSE",
+"l" : "56.35",
+"c" : "+1.60",
+"mc" : "1.61B",
+"cp" : "2.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3091778",
+"name" : "Patspin India Ltd",
+"t" : "PATSPINLTD",
+"e" : "NSE",
+"l" : "21.85",
+"c" : "+0.30",
+"mc" : "681.93M",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12500615",
+"name" : "Standard Industries Limited",
+"t" : "SIL",
+"e" : "NSE",
+"l" : "23.25",
+"c" : "+0.55",
+"mc" : "1.49B",
+"cp" : "2.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8228679",
+"name" : "Ai Champdany Industries Ltd",
+"t" : "AICHAMP",
+"e" : "NSE",
+"l" : "35.30",
+"c" : "0.00",
+"mc" : "967.96M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6412501",
+"name" : "AMD Industries Ltd.",
+"t" : "AMDIND",
+"e" : "NSE",
+"l" : "33.50",
+"c" : "-0.45",
+"mc" : "641.14M",
+"cp" : "-1.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "447283458929672",
+"name" : "Amsons Apparels Ltd",
+"t" : "538861",
+"e" : "BOM",
+"l" : "3.75",
+"c" : "+0.03",
+"mc" : "",
+"cp" : "0.81",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "PADAM TOWER, 14\u002F113, CIVIL LINES, MUMBAI, 400023, India",
+"phone": "+91-22-22703249",
+"fax": "+91-22-22622557",
+"overview" : "NCL Research \u0026 Financial Services Limited is an India-based non-banking financial company (NBFC). The Company is into the business of finance and investments, and is carrying business of investment in shares and securities, as well as financing activities. The Company is also engaged in the trading of textile products. The Company focuses on carrying the business of advancing loans and investing in quoted and unquoted securities."
+} ]
+, "management" : [
+{
+"name" : "Vijay Poddar",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Mayank Singh",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Swati Agarwal",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Pushpa Devi Saraswat",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Goutam Bose",
+"age" : "32",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Laxmi Narayan Sharma",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

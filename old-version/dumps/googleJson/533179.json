@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "533179",
+"exchange" : "BOM",
+"id": "6503401",
+"t" : "533179",
+"e" : "BOM",
+"name" : "Persistent Systems Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533179"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533179"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533179"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002718)",
+"kr_annual_date" : "2018",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.79%",
+"annual" : "10.65%",
+"ttm" : "10.65%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.81%",
+"annual" : "10.23%",
+"ttm" : "10.14%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.45%",
+"ttm" : "15.36%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "12.91%",
+"ttm" : "12.91%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.05%",
+"ttm" : "16.05%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "7,790",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+15.75",
+"l" : "792.10",
+"cp" : "2.03",
+"ccol" : "chg",
+"op" : "775.05",
+"hi" : "807.85",
+"lo" : "775.00",
+"vo" : "16,156.00",
+"avvo" : "",
+"hi52" : "877.50",
+"lo52" : "565.80",
+"mc" : "62.54B",
+"pe" : "19.61",
+"fwpe" : "",
+"beta" : "",
+"eps" : "40.39",
+"dy" : "1.26",
+"ldiv" : "3.00",
+"shares" : "80.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "6503401",
+"name" : "Persistent Systems Limited",
+"t" : "533179",
+"e" : "BOM",
+"l" : "792.10",
+"c" : "+15.75",
+"mc" : "62.54B",
+"cp" : "2.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "673681917155584",
+"name" : "Atishay Ltd",
+"t" : "538713",
+"e" : "BOM",
+"l" : "82.90",
+"c" : "-0.20",
+"mc" : "867.22M",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16418426",
+"name" : "Datamatics Global Services Ltd",
+"t" : "DATAMATICS",
+"e" : "NSE",
+"l" : "123.05",
+"c" : "+5.85",
+"mc" : "7.12B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13287899",
+"name" : "Valuemart Info Technologies Ltd",
+"t" : "532338",
+"e" : "BOM",
+"l" : "0.38",
+"c" : "0.00",
+"mc" : "24.14M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10405902",
+"name" : "Vama Industries Ltd",
+"t" : "512175",
+"e" : "BOM",
+"l" : "21.40",
+"c" : "+1.00",
+"mc" : "1.10B",
+"cp" : "4.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3181483",
+"name" : "Five Core Exim Ltd",
+"t" : "530885",
+"e" : "BOM",
+"l" : "1.55",
+"c" : "0.00",
+"mc" : "100.90M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2245864",
+"name" : "Ranklin Solutions Limited",
+"t" : "RANKLIN",
+"e" : "NSE",
+"l" : "2.20",
+"c" : "",
+"mc" : "26.49M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "784961",
+"name" : "Tata Consultancy Services Limited",
+"t" : "TCS",
+"e" : "NSE",
+"l" : "3,461.00",
+"c" : "+9.75",
+"mc" : "6.54T",
+"cp" : "0.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13168084",
+"name" : "Omnitech Infosolutions Limited",
+"t" : "OMNITECH",
+"e" : "NSE",
+"l" : "2.70",
+"c" : "",
+"mc" : "36.59M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10897831",
+"name" : "Glodyne Technoserve Limited",
+"t" : "GLODYNE",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "1753462",
+"name" : "Goldstone Technologies Ltd.",
+"t" : "GOLDTECH",
+"e" : "NSE",
+"l" : "11.80",
+"c" : "+0.30",
+"mc" : "221.63M",
+"cp" : "2.61",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Bhageerath 402, Senapati Bapat Road, SHIVAJINAGAR, PUNE, 411016, India",
+"phone": "+91-20-67030000",
+"fax": "+91-20-67030009",
+"url": "http:\u002F\u002Fwww.persistentsys.com\u002F",
+"overview" : "Persistent Systems Limited is engaged in the business of building software products. The Company offers complete product life cycle services. The Company\u0027s segments include Infrastructure and Systems, Telecom and Wireless, Life science and Healthcare, and Financial Services. The Company\u0027s products include Connected Healthcare, which is an integrated healthcare ecosystem\u003B ShareInsights Platform, which allows organizations to analyze an overlay of enterprise data with public or cloud sources to derive insights\u003B Digital Banking, and Accelerite, which provides cloud solutions, endpoint management and mobility. The Company provides product engineering services, platform-based solutions and Internet protocol (IP)-based software products to its global customers. It has presence in North America, Europe and Rest of the World. Its subsidiaries include Persistent Systems France S.A.S., Persistent Systems Malaysia Sdn. Bhd. and Persistent Systems Pte. Ltd."
+} ]
+, "management" : [
+{
+"name" : "Anand Suresh Deshpande",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sunil Sapre",
+"title" : "Chief Financial Officer, Additional Executive Director"
+}
+,
+{
+"name" : "Hari Haran",
+"title" : "President of Persistent System, Inc"
+}
+,
+{
+"name" : "Ranganath Puranik",
+"title" : "President and Head of Sales of Persistent Systems Inc"
+}
+,
+{
+"name" : "Thomas Joseph Klein",
+"title" : "Senior Vice President - Corporate Development, General Counsel"
+}
+,
+{
+"name" : "Siddhartha Chatterjee",
+"title" : "Chief Technology Officer"
+}
+,
+{
+"name" : "Amit Atre",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Nitin Kulkarni",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Sameer Bendre",
+"title" : "Chief People Officer"
+}
+,
+{
+"name" : "Srikanth Sundararajan",
+"title" : "Worldwide Head - Corporate Strategy and Technology"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,198 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 56791300,
+            "fmt": "56.79M",
+            "longFmt": "56,791,300"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.061729997,
+            "fmt": "6.17%"
+          },
+          "floatShares": {
+            "raw": 2306348,
+            "fmt": "2.31M",
+            "longFmt": "2,306,348"
+          },
+          "sharesOutstanding": {
+            "raw": 6000000,
+            "fmt": "6M",
+            "longFmt": "6,000,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.852746,
+            "fmt": "0.85"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 18.923,
+            "fmt": "18.92"
+          },
+          "priceToBook": {
+            "raw": 0.5723194,
+            "fmt": "0.57"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1506729600,
+            "fmt": "2017-09-30"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 8231386,
+            "fmt": "8.23M",
+            "longFmt": "8,231,386"
+          },
+          "trailingEps": {
+            "raw": 1.352,
+            "fmt": "1.35"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.426,
+            "fmt": "0.43"
+          },
+          "enterpriseToEbitda": {
+            "raw": 4.808,
+            "fmt": "4.81"
+          },
+          "52WeekChange": {
+            "raw": 0.29398406,
+            "fmt": "29.40%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "78/80, Alli Chambers",
+          "address2": "Ground Floor Tamarind Lane Fort",
+          "city": "Mumbai",
+          "zip": "400001",
+          "country": "India",
+          "phone": "91 22 2265 7084",
+          "fax": "91 22 2265 1814",
+          "website": "http://www.gsbgroup.co.in",
+          "industry": "Investment Brokerage - National",
+          "sector": "Financial",
+          "longBusinessSummary": "GSB Finance Limited trades and invests in shares and securities in India. The company was formerly known as Ravi Cement Ltd and changed its name to GSB Finance Limited in August 1993. GSB Finance Limited was incorporated in 1982 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 10.83,
+            "fmt": "10.83"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 11812076,
+            "fmt": "11.81M",
+            "longFmt": "11,812,076"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 133352040,
+            "fmt": "133.35M",
+            "longFmt": "133,352,040"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 21.908,
+            "fmt": "21.91"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 17887292,
+            "fmt": "17.89M",
+            "longFmt": "17,887,292"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.591,
+            "fmt": "-59.10%"
+          },
+          "grossMargins": {
+            "raw": 0.14014,
+            "fmt": "14.01%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.08858,
+            "fmt": "8.86%"
+          },
+          "operatingMargins": {
+            "raw": 0.08713,
+            "fmt": "8.71%"
+          },
+          "profitMargins": {
+            "raw": 0.061729997,
+            "fmt": "6.17%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

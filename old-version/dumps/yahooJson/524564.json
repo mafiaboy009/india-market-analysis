@@ -1,0 +1,180 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 882812672,
+            "fmt": "882.81M",
+            "longFmt": "882,812,672"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "floatShares": {
+            "raw": 4566642,
+            "fmt": "4.57M",
+            "longFmt": "4,566,642"
+          },
+          "sharesOutstanding": {
+            "raw": 78788096,
+            "fmt": "78.79M",
+            "longFmt": "78,788,096"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.661133,
+            "fmt": "1.66"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -12.336,
+            "fmt": "-12.34"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "trailingEps": {
+            "raw": -5.444,
+            "fmt": "-5.44"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {},
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "6-3-1090, T.S.R. Towers",
+          "address2": "C-1, 1st Floor Raj Bhavan Road Somajiguda",
+          "city": "Hyderabad",
+          "zip": "500082",
+          "country": "India",
+          "phone": "91 40 6610 0111",
+          "fax": "91 40 6610 0333",
+          "website": "http://www.gayatribioorganics.com",
+          "industry": "Chemicals - Major Diversified",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Gayatri BioOrganics Limited Limited manufactures and sells maize products in India. It offers starch, modified starches, liquid glucose, sorbitol, gluten, corn fiber, and corn germ, as well as allied products, such as Bio-Theen-G and thin boiled starch; Bio-Oxide-G, an oxidized starch; Bio-y-Dext, a yellow dextrin product; and Bio-w-Dext, a white dextrin product. The company was formerly known as Gayatri Starchkem Limited and changed its name to Gayatri BioOrganics Limited in February 2008. Gayatri BioOrganics Limited was incorporated in 1991 and is based in Hyderabad, India.",
+          "fullTimeEmployees": 312,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 6.08,
+            "fmt": "6.08"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 2885000,
+            "fmt": "2.88M",
+            "longFmt": "2,885,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.036,
+            "fmt": "0.04"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 351051008,
+            "fmt": "351.05M",
+            "longFmt": "351,051,008"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {},
+          "debtToEquity": {},
+          "revenuePerShare": {},
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {},
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

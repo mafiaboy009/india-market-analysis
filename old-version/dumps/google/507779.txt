@@ -1,0 +1,290 @@
+
+// [
+{
+"symbol" : "507779",
+"exchange" : "BOM",
+"id": "719858",
+"t" : "507779",
+"e" : "BOM",
+"name" : "Kanpur Plastipack Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KPLA.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:507779"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:507779"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:507779"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.79%",
+"annual" : "5.95%",
+"ttm" : "4.96%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.56%",
+"annual" : "11.68%",
+"ttm" : "10.68%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.38%",
+"ttm" : "12.34%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.84%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "19.68%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "846",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.30",
+"l" : "138.50",
+"cp" : "-1.63",
+"ccol" : "chr",
+"op" : "147.00",
+"hi" : "147.00",
+"lo" : "137.60",
+"vo" : "8,038.00",
+"avvo" : "",
+"hi52" : "188.90",
+"lo52" : "94.90",
+"mc" : "1.65B",
+"pe" : "13.19",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.50",
+"dy" : "1.19",
+"ldiv" : "1.65",
+"shares" : "14.33M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "719858",
+"name" : "Kanpur Plastipack Limited",
+"t" : "507779",
+"e" : "BOM",
+"l" : "138.50",
+"c" : "-2.30",
+"mc" : "1.65B",
+"cp" : "-1.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2136769",
+"name" : "Jumbo Bag Ltd",
+"t" : "JUMBO",
+"e" : "NSE",
+"l" : "4.30",
+"c" : "",
+"mc" : "36.01M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "706098",
+"name" : "Polyspin Exports Ltd.",
+"t" : "539354",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "0.00",
+"mc" : "520.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11726545",
+"name" : "Rishi Techtex Ltd",
+"t" : "523021",
+"e" : "BOM",
+"l" : "66.50",
+"c" : "-4.00",
+"mc" : "491.50M",
+"cp" : "-5.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1432072",
+"name" : "Neo Corp International Ltd",
+"t" : "523820",
+"e" : "BOM",
+"l" : "3.01",
+"c" : "0.00",
+"mc" : "114.45M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "876875204718610",
+"name" : "Commercial Syn Bags Ltd",
+"t" : "539986",
+"e" : "BOM",
+"l" : "48.00",
+"c" : "0.00",
+"mc" : "567.24M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6629361",
+"name" : "Flexituff International Ltd",
+"t" : "FLEXITUFF",
+"e" : "NSE",
+"l" : "70.50",
+"c" : "-0.60",
+"mc" : "1.76B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "728728",
+"name" : "Gloster Ltd",
+"t" : "538595",
+"e" : "BOM",
+"l" : "658.00",
+"c" : "-8.10",
+"mc" : "6.88B",
+"cp" : "-1.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "716770",
+"name" : "Jai Corp Ltd",
+"t" : "512237",
+"e" : "BOM",
+"l" : "164.70",
+"c" : "+2.75",
+"mc" : "29.44B",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10814901",
+"name" : "Sel Manufacturing Company Ltd",
+"t" : "SELMCL",
+"e" : "NSE",
+"l" : "2.45",
+"c" : "-0.05",
+"mc" : "795.88M",
+"cp" : "-2.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4085136",
+"name" : "Gujarat Raffia Industries Ltd(NDA)",
+"t" : "GUJRAFFIA",
+"e" : "NSE",
+"l" : "57.70",
+"c" : "-2.00",
+"mc" : "288.20M",
+"cp" : "-3.35",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "D19-20 Panki Industrial Area, P.O. Udyog Nagar, KANPUR, 208022, India",
+"phone": "+91-512-2691113",
+"fax": "+91-512-2691117",
+"url": "http:\u002F\u002Fwww.kanplas.com\u002F",
+"overview" : "Kanpur Plastipack Limited is engaged in the manufacture and export of Flexible Intermediate Bulk Container (FIBC), Woven Sacks and Polypropylene (PP) high tenasity Multifilament Yarn. The Company\u0027s segments include Manufacturing Operations, Consignment Stockiest and Solar Power Division. It offers a complete range of packaging products and services. Its products include Woven Fabric of Ethylene (Laminated\u002FCoated), Sacks \u0026 Bags of polylypropylene, Flexible Intermediate Bulk Containers and Polypropylene Multifilament Yarn. The Company\u0027s products are used across a range of applications that include fertilizers, cement, animal feed and pet food, seeds, chemicals and minerals, sugar and flour, among others. The Company possesses a rated capacity of approximately seven million FIBCs per annum, and with woven PP fabric, the aggregate capacity is over 14,000 Million Tons Per Annum (MTPA). It also offers clean room bags for food packaging."
+} ]
+, "management" : [
+{
+"name" : "Arvind Gunjan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ankur Srivastava",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Manoj Agarwal",
+"age" : "58",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Shashank Agarwal",
+"title" : "Director - Technical, Executive Director"
+}
+,
+{
+"name" : "Sunil Mehta",
+"title" : "Director - Operations, Executive Director"
+}
+,
+{
+"name" : "Mahesh Swarup Agarwal",
+"age" : "85",
+"title" : "Chairman Emeritus"
+}
+,
+{
+"name" : "Ram Gopal Bagla",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Soubhagya Mal Jain",
+"age" : "74",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Prem S. Khamesra",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

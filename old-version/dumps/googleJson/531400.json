@@ -1,0 +1,297 @@
+
+ [
+{
+"symbol" : "531400",
+"exchange" : "BOM",
+"id": "6535276",
+"t" : "531400",
+"e" : "BOM",
+"name" : "Almondz Global Securities Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531400"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531400"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531400"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.66%",
+"annual" : "-0.91%",
+"ttm" : "3.60%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.62%",
+"annual" : "-0.38%",
+"ttm" : "-0.07%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.03%",
+"ttm" : "1.78%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.27%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.30%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "370",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.10",
+"l" : "26.25",
+"cp" : "-4.02",
+"ccol" : "chr",
+"op" : "27.25",
+"hi" : "27.85",
+"lo" : "26.25",
+"vo" : "2,989.00",
+"avvo" : "",
+"hi52" : "40.10",
+"lo52" : "13.45",
+"mc" : "679.48M",
+"pe" : "20.31",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.29",
+"dy" : "",
+"ldiv" : "",
+"shares" : "25.88M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "6535276",
+"name" : "Almondz Global Securities Ltd",
+"t" : "531400",
+"e" : "BOM",
+"l" : "26.25",
+"c" : "-1.10",
+"mc" : "679.48M",
+"cp" : "-4.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "728727",
+"name" : "Lohia Securities Ltd.",
+"t" : "590082",
+"e" : "BOM",
+"l" : "52.30",
+"c" : "0.00",
+"mc" : "260.61M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "722530",
+"name" : "Shardul Securities Limited",
+"t" : "512393",
+"e" : "BOM",
+"l" : "46.00",
+"c" : "0.00",
+"mc" : "787.80M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16215470",
+"name" : "Aarya Global Shares and Securities Ltd",
+"t" : "531731",
+"e" : "BOM",
+"l" : "0.46",
+"c" : "0.00",
+"mc" : "9.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "937186",
+"name" : "India Nivesh Ltd",
+"t" : "501700",
+"e" : "BOM",
+"l" : "34.40",
+"c" : "-0.45",
+"mc" : "1.30B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8804117",
+"name" : "Sun Techno Overseas Ltd",
+"t" : "531752",
+"e" : "BOM",
+"l" : "0.19",
+"c" : "0.00",
+"mc" : "123.99M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "334762453216766",
+"name" : "Amrapali Capital and Finance Servics Ltd",
+"t" : "536737",
+"e" : "BOM",
+"l" : "43.75",
+"c" : "0.00",
+"mc" : "427.81M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15373457",
+"name" : "IIFL Holdings Ltd",
+"t" : "IIFL",
+"e" : "NSE",
+"l" : "731.00",
+"c" : "-4.75",
+"mc" : "230.86B",
+"cp" : "-0.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11011885",
+"name" : "Microsec Financial Services Limited",
+"t" : "SASTASUNDR",
+"e" : "NSE",
+"l" : "106.15",
+"c" : "-1.85",
+"mc" : "3.38B",
+"cp" : "-1.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15446887",
+"name" : "Arihant Capital Markets Ltd",
+"t" : "511605",
+"e" : "BOM",
+"l" : "134.00",
+"c" : "-5.35",
+"mc" : "2.78B",
+"cp" : "-3.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "858511",
+"name" : "SMIFS Capital Markets Ltd",
+"t" : "508905",
+"e" : "BOM",
+"l" : "55.25",
+"c" : "+1.15",
+"mc" : "309.14M",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "3 Scindia House, 2nd Floor, Janpath, NEW DELHI, 110001, India",
+"phone": "+91-11-41514666",
+"fax": "+91-11-41514665",
+"url": "http:\u002F\u002Fwww.almondzglobal.com\u002F",
+"overview" : "Almondz Global Securities Limited provides a range of financial services. The Company\u0027s principal activities include corporate finance and advisory fees, broking activities, and infrastructure advisory services. Its segments include Debt \u0026 equity market operations\u003B Corporate finance \u0026 advisory fee\u003B Broking activities, and Infrastructure advisory. The Debt \u0026 equity market operations segment consists of dealing\u002Ftrading in shares and bonds. The Corporate finance \u0026 advisory fee segment consists of merchant banking, corporate and loan syndication fees and arranger of debts\u002Fbonds. The Broking activities segment consists of stock and share broking on National Stock Exchange of India Limited and Bombay Stock Exchange Limited and other related ancillary services, broking and commission of mutual funds, equity initial public offerings, fixed deposits of government undertakings and Reserve Bank of India taxable bonds. The Infrastructure advisory segment provides advisory services."
+} ]
+, "management" : [
+{
+"name" : "Navjeet Singh Sobti",
+"age" : "47",
+"title" : "Executive Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Govind Prasad Agrawal",
+"age" : "60",
+"title" : "Chief Financial Officer, Vice President - Finance, \u0026 Accounts, Executive Director"
+}
+,
+{
+"name" : "Ajay Pratap",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Debashish Ghoshal",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Jagdeep Singh",
+"age" : "49",
+"title" : "Wholetime Director"
+}
+,
+{
+"name" : "Atul Kumar Shukla",
+"age" : "68",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Neelu Jain",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Ajay Kumar",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Satish Chandra Sinha",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Krishan Lall Khetarpaul",
+"age" : "72",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

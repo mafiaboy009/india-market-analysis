@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "532670",
+"exchange" : "BOM",
+"id": "701260",
+"t" : "532670",
+"e" : "BOM",
+"name" : "Shree Renuka Sugars Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532670"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532670"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532670"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-3.95%",
+"annual" : "-8.70%",
+"ttm" : "-1.87%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.15%",
+"annual" : "-1.16%",
+"ttm" : "5.59%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.92%",
+"ttm" : "15.24%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-7.83%",
+"ttm" : "-1.01%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-35.20%",
+"ttm" : "-6.66%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "8,300",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.10",
+"l" : "15.95",
+"cp" : "-0.62",
+"ccol" : "chr",
+"op" : "16.15",
+"hi" : "16.20",
+"lo" : "15.55",
+"vo" : "160,996.00",
+"avvo" : "",
+"hi52" : "22.40",
+"lo52" : "12.00",
+"mc" : "15.03B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-2.33",
+"dy" : "",
+"ldiv" : "",
+"shares" : "945.25M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "701260",
+"name" : "Shree Renuka Sugars Limited",
+"t" : "532670",
+"e" : "BOM",
+"l" : "15.95",
+"c" : "-0.10",
+"mc" : "15.03B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12172014",
+"name" : "Upper Ganges Sugar \u0026 Industries Ltd.",
+"t" : "UPERGANGES",
+"e" : "NSE",
+"l" : "376.60",
+"c" : "",
+"mc" : "4.37B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10038828",
+"name" : "Balrampur Chini Mills Ltd",
+"t" : "BALRAMCHIN",
+"e" : "NSE",
+"l" : "117.90",
+"c" : "+1.50",
+"mc" : "27.66B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "446680211750339",
+"name" : "Magadh Sugar \u0026 Energy Ltd",
+"t" : "MAGADSUGAR",
+"e" : "NSE",
+"l" : "168.25",
+"c" : "+3.25",
+"mc" : "1.69B",
+"cp" : "1.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1055947744768384",
+"name" : "Avadh Sugar \u0026 Energy Ltd",
+"t" : "AVADHSUGAR",
+"e" : "NSE",
+"l" : "679.70",
+"c" : "-6.50",
+"mc" : "6.73B",
+"cp" : "-0.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1955865",
+"name" : "Oudh Sugar Mills Ltd.",
+"t" : "OUDHSUG",
+"e" : "NSE",
+"l" : "131.00",
+"c" : "",
+"mc" : "3.39B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3333223",
+"name" : "Sakthi Sugars Ltd",
+"t" : "SAKHTISUG",
+"e" : "NSE",
+"l" : "20.75",
+"c" : "-0.15",
+"mc" : "2.47B",
+"cp" : "-0.72",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9721679",
+"name" : "Dhampur Sugar Mills Ltd",
+"t" : "DHAMPURSUG",
+"e" : "NSE",
+"l" : "198.75",
+"c" : "-3.45",
+"mc" : "13.21B",
+"cp" : "-1.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8206150",
+"name" : "Bajaj Hindusthan Sugar Ltd",
+"t" : "BAJAJHIND",
+"e" : "NSE",
+"l" : "12.85",
+"c" : "-0.10",
+"mc" : "14.57B",
+"cp" : "-0.77",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10843935",
+"name" : "KM Sugar Mills Ltd.",
+"t" : "KMSUGAR",
+"e" : "NSE",
+"l" : "14.15",
+"c" : "-0.15",
+"mc" : "1.29B",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13914119",
+"name" : "Triveni Engineering \u0026 Industries Ltd.",
+"t" : "TRIVENI",
+"e" : "NSE",
+"l" : "63.45",
+"c" : "-0.40",
+"mc" : "16.38B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "7th Floor, Devchand House Dr. Annie Besant Road Shiv Sagar Estate, Worli, MUMBAI, 400018, India",
+"phone": "+91-22-24977744",
+"fax": "+91-22-24977747",
+"url": "http:\u002F\u002Fwww.renukasugars.com",
+"overview" : "Shree Renuka Sugars Limited is an agri-business and bio-energy company. The Company is engaged in the business of sugar manufacturing, sugar refining, sugar trading, ethanol and co-generation. Its segments include Sugar, Trading, Co-Generation, Ethanol, Engineering and Other. The Sugar segment produces white sugar, molasses and baggasse. The Trading segment is engaged in the trading of white and raw sugar, coal, molasses and MG alcohol. The Co-Generation segment produces electricity, steam, coal ash and bagasse ash. The Ethanol segment produces de-natured ethanol, rectified spirit, de-natured spirit, extra-nature alcohol and ethanol. The Other segment includes bio-compost and press mud. The Company has approximately 11 operational mills, including seven in South and West India and four in Centre-South Brazil, with integrated ethanol and power co-generation capacity. It has approximately two port-based refineries in Kandla and Haldia."
+} ]
+, "management" : [
+{
+"name" : "Vidya M. Murkumbi",
+"age" : "67",
+"title" : "Executive Chairperson of the Board"
+}
+,
+{
+"name" : "Narendra M. Murkumbi",
+"age" : "45",
+"title" : "Executive Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Krishna Kumar Kumbhat",
+"age" : "56",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Vijendra Singh",
+"age" : "55",
+"title" : "President - Sugar Mills, Whole Time Director"
+}
+,
+{
+"name" : "Rupesh Saraiya",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Stephan Ho Kiam Kong",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Jean-Luc Bohbot",
+"age" : "46",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "AtuI Chaturvedi",
+"age" : "60",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "B. V. Mehta",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Dorab Erach Mistry",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

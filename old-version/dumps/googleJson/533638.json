@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "533638",
+"exchange" : "BOM",
+"id": "503814545026832",
+"t" : "533638",
+"e" : "BOM",
+"name" : "Flexituff International Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533638"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533638"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533638"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.30%",
+"annual" : "0.39%",
+"ttm" : "0.37%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.15%",
+"annual" : "7.36%",
+"ttm" : "5.87%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.15%",
+"ttm" : "10.90%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.40%",
+"ttm" : "0.36%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.48%",
+"ttm" : "1.27%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "7,500",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.40",
+"l" : "70.50",
+"cp" : "-1.95",
+"ccol" : "chr",
+"op" : "69.15",
+"hi" : "72.90",
+"lo" : "69.15",
+"vo" : "143.00",
+"avvo" : "",
+"hi52" : "220.00",
+"lo52" : "68.00",
+"mc" : "1.73B",
+"pe" : "46.35",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.52",
+"dy" : "",
+"ldiv" : "",
+"shares" : "24.88M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "503814545026832",
+"name" : "Flexituff International Ltd",
+"t" : "533638",
+"e" : "BOM",
+"l" : "70.50",
+"c" : "-1.40",
+"mc" : "1.73B",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2136769",
+"name" : "Jumbo Bag Ltd",
+"t" : "JUMBO",
+"e" : "NSE",
+"l" : "4.30",
+"c" : "",
+"mc" : "36.01M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "706098",
+"name" : "Polyspin Exports Ltd.",
+"t" : "539354",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "0.00",
+"mc" : "520.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "876875204718610",
+"name" : "Commercial Syn Bags Ltd",
+"t" : "539986",
+"e" : "BOM",
+"l" : "48.00",
+"c" : "0.00",
+"mc" : "567.24M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "719858",
+"name" : "Kanpur Plastipack Limited",
+"t" : "507779",
+"e" : "BOM",
+"l" : "138.50",
+"c" : "-2.30",
+"mc" : "1.65B",
+"cp" : "-1.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1432072",
+"name" : "Neo Corp International Ltd",
+"t" : "523820",
+"e" : "BOM",
+"l" : "3.01",
+"c" : "0.00",
+"mc" : "114.45M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11726545",
+"name" : "Rishi Techtex Ltd",
+"t" : "523021",
+"e" : "BOM",
+"l" : "66.50",
+"c" : "-4.00",
+"mc" : "491.50M",
+"cp" : "-5.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "716770",
+"name" : "Jai Corp Ltd",
+"t" : "512237",
+"e" : "BOM",
+"l" : "164.70",
+"c" : "+2.75",
+"mc" : "29.44B",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "728728",
+"name" : "Gloster Ltd",
+"t" : "538595",
+"e" : "BOM",
+"l" : "658.00",
+"c" : "-8.10",
+"mc" : "6.88B",
+"cp" : "-1.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10814901",
+"name" : "Sel Manufacturing Company Ltd",
+"t" : "SELMCL",
+"e" : "NSE",
+"l" : "2.45",
+"c" : "-0.05",
+"mc" : "795.88M",
+"cp" : "-2.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4085136",
+"name" : "Gujarat Raffia Industries Ltd(NDA)",
+"t" : "GUJRAFFIA",
+"e" : "NSE",
+"l" : "57.70",
+"c" : "-2.00",
+"mc" : "288.20M",
+"cp" : "-3.35",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "C 41-50 S.E.Z., Sector 3,Pithampur, Dist. Dhar, DHAR, 454775, India",
+"phone": "+91-7292-401681",
+"fax": "+91-7292-401684",
+"url": "http:\u002F\u002Fwww.flexituff.com\u002F",
+"overview" : "Flexituff International Limited is engaged in manufacturing of high density\u002Fpolypropylene woven sacks and flexible intermediate bulk containers (FIBC)\u002Fjumbo bags. The Company is also engaged in the business of manufacturing reverse printed biaxially oriented polypropylene woven bags, geo-textile fabrics and ground covers, polymer compounds and drippers. Its bags include sift-proof bags, baffle bags, form-fitted liner bags, builder bag\u002Ftunnel-lift, single-loop bags and sling bags. The Company has a total capacity of approximately 36,800 metric tons. The installed capacity for all products is over 74,000 metric tons and these products serve retail, industrial, agro and infrastructure sectors. The Company exports its products to over 55 countries across approximately six continents. The Company has approximately four integrated manufacturing facilities, located at Pithampur, Madhya Pradesh, and Kashipur, Uttarakhand."
+} ]
+, "management" : [
+{
+"name" : "Mahesh Sharma",
+"age" : "55",
+"title" : "Chief Executive Officer, Whole Time Director, Additional Director"
+}
+,
+{
+"name" : "Ajay Mundra",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Saurabh Kalani",
+"age" : "50",
+"title" : "Chief Operating Officer, Whole Time Director"
+}
+,
+{
+"name" : "Khushboo Kothari",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kaushal Kishore Vijayvergiya",
+"age" : "53",
+"title" : "Vice President - Finance and Accounts, Whole Time Director"
+}
+,
+{
+"name" : "Manish Kalani",
+"age" : "1",
+"title" : "Managing Director"
+}
+,
+{
+"name" : "Akhilesh Agnihotri",
+"age" : "36",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Anand Khandelwal",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Anirudh Sonpal",
+"age" : "50",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Mayank Bajpai",
+"title" : "Investor Director - TPG Growth II SF Pte Ltd"
+}
+]
+,"moreresources" : [
+]
+}]

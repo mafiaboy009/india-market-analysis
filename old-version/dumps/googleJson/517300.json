@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "517300",
+"exchange" : "BOM",
+"id": "677896",
+"t" : "517300",
+"e" : "BOM",
+"name" : "Gujarat Industries Power Company Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:517300"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:517300"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:517300"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002713)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "18.67%",
+"annual" : "17.49%",
+"ttm" : "15.45%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "30.26%",
+"annual" : "23.13%",
+"ttm" : "31.38%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "32.97%",
+"ttm" : "38.31%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.99%",
+"ttm" : "7.44%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.74%",
+"ttm" : "14.33%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "568",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.90",
+"l" : "114.85",
+"cp" : "-1.63",
+"ccol" : "chr",
+"op" : "117.00",
+"hi" : "118.40",
+"lo" : "114.25",
+"vo" : "22,375.00",
+"avvo" : "",
+"hi52" : "150.55",
+"lo52" : "100.00",
+"mc" : "17.39B",
+"pe" : "7.94",
+"fwpe" : "",
+"beta" : "",
+"eps" : "14.46",
+"dy" : "2.35",
+"ldiv" : "2.70",
+"shares" : "151.25M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677896",
+"name" : "Gujarat Industries Power Company Limited",
+"t" : "517300",
+"e" : "BOM",
+"l" : "114.85",
+"c" : "-1.90",
+"mc" : "17.39B",
+"cp" : "-1.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12998886",
+"name" : "KSK Energy Ventures Limited",
+"t" : "KSK",
+"e" : "NSE",
+"l" : "11.75",
+"c" : "-0.60",
+"mc" : "4.94B",
+"cp" : "-4.86",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1374673",
+"name" : "Nava Bharat Ventures Limited",
+"t" : "NBVENTURES",
+"e" : "NSE",
+"l" : "152.00",
+"c" : "+0.60",
+"mc" : "26.86B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "717049",
+"name" : "Suryachakra Power Corporation Limited",
+"t" : "532874",
+"e" : "BOM",
+"l" : "1.04",
+"c" : "-0.05",
+"mc" : "155.62M",
+"cp" : "-4.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6492243",
+"name" : "Adani Power Ltd",
+"t" : "ADANIPOWER",
+"e" : "NSE",
+"l" : "32.70",
+"c" : "+0.55",
+"mc" : "126.12B",
+"cp" : "1.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6633977",
+"name" : "NLC India Ltd",
+"t" : "NLCINDIA",
+"e" : "NSE",
+"l" : "99.85",
+"c" : "-0.10",
+"mc" : "152.55B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16032883",
+"name" : "CESC Ltd",
+"t" : "CESC",
+"e" : "NSE",
+"l" : "1,017.00",
+"c" : "+15.30",
+"mc" : "134.54B",
+"cp" : "1.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13137259",
+"name" : "Time Technoplast Limited",
+"t" : "TIMETECHNO",
+"e" : "NSE",
+"l" : "182.20",
+"c" : "-1.15",
+"mc" : "41.40B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6709566",
+"name" : "NTPC Limited",
+"t" : "NTPC",
+"e" : "NSE",
+"l" : "162.50",
+"c" : "-1.05",
+"mc" : "1.34T",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "458007",
+"name" : "Morgan Ventures Ltd.",
+"t" : "526237",
+"e" : "BOM",
+"l" : "12.76",
+"c" : "+0.60",
+"mc" : "126.31M",
+"cp" : "4.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5277021",
+"name" : "Reliance Power Ltd",
+"t" : "RPOWER",
+"e" : "NSE",
+"l" : "45.60",
+"c" : "+1.25",
+"mc" : "127.91B",
+"cp" : "2.82",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "P.O. Petrochemical, Vododara, 391346, India",
+"phone": "+91-265-2230182",
+"fax": "+91-265-2231207",
+"url": "http:\u002F\u002Fwww.gipcl.com\u002F",
+"overview" : "Gujarat Industries Power Company Limited is engaged in the generation of electricity. The Company\u0027s gas-based power plants are Vadodara Stations, including Station-I with a capacity of 145 Mega Watts (MW) and Station-II with a capacity of 165 MW. It has a combined installed capacity of 829 MW at its locations at Vadodara Plant and Surat Lignite Power Plant (SLPP), including five MW PV-based Solar Power Plant at SLPP, 2x1 MW distributed Solar Power Plants at Amrol and Vastan and 12 MW Wind Power Plant at Kotadapitha, Amreli District. The Company\u0027s thermal power plants are SLPP (Unit 1 and 2) and SLPP (Unit 3 and 4) each with a capacity of 250 MW. It also operates SLPP Solar Power Plant with a capacity of five MW. The Company operates mines, which include Vastan Lignite Mine and Mangrol-Valia Lignite Mine. The Company also offers operation and maintenance (O\u0026M) services, such as power plant services, and demineralization (DM) water supply and laboratory testing services."
+} ]
+, "management" : [
+{
+"name" : "A. C. Shah",
+"title" : "Compliance Officer, Company Secretary, Deputy General Manager - Legal"
+}
+,
+{
+"name" : "Shahmeena Husain",
+"title" : "Managing Director"
+}
+,
+{
+"name" : "V. B. Bhadola",
+"title" : "Additional General Manager - (HR\u0026A)"
+}
+,
+{
+"name" : "Y. J. Bhatt",
+"title" : "Additional General Manager - (BO)"
+}
+,
+{
+"name" : "K. S. Munshi",
+"title" : "Additional General Manager - (TS)"
+}
+,
+{
+"name" : "V. N. Patel",
+"title" : "Additional General Manager - (O\u0026M - SLPP)"
+}
+,
+{
+"name" : "N. K. Purohit",
+"title" : "General Manager - Mines \u0026 SLPP"
+}
+,
+{
+"name" : "S. N. Purohit",
+"title" : "Additional General Manager - (O\u0026M)"
+}
+,
+{
+"name" : "D. K. Roy",
+"title" : "General Manager - (SLPP)"
+}
+,
+{
+"name" : "P. J. Sheth",
+"title" : "Additional General Manager - (Finance)"
+}
+]
+,"moreresources" : [
+]
+}]

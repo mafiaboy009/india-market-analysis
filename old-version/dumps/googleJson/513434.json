@@ -1,0 +1,295 @@
+
+ [
+{
+"symbol" : "513434",
+"exchange" : "BOM",
+"id": "689025",
+"t" : "513434",
+"e" : "BOM",
+"name" : "Tata Metaliks Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:513434"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:513434"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:513434"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.29%",
+"annual" : "8.29%",
+"ttm" : "8.30%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.32%",
+"annual" : "13.37%",
+"ttm" : "12.30%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.95%",
+"ttm" : "15.04%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "12.14%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "76.32%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "661",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+28.65",
+"l" : "817.50",
+"cp" : "3.63",
+"ccol" : "chg",
+"op" : "788.90",
+"hi" : "828.00",
+"lo" : "788.90",
+"vo" : "18,571.00",
+"avvo" : "",
+"hi52" : "975.10",
+"lo52" : "461.00",
+"mc" : "20.72B",
+"pe" : "14.12",
+"fwpe" : "",
+"beta" : "",
+"eps" : "57.89",
+"dy" : "0.31",
+"ldiv" : "2.50",
+"shares" : "25.29M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "689025",
+"name" : "Tata Metaliks Limited",
+"t" : "513434",
+"e" : "BOM",
+"l" : "817.50",
+"c" : "+28.65",
+"mc" : "20.72B",
+"cp" : "3.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15239521",
+"name" : "K I C Metaliks Ltd",
+"t" : "513693",
+"e" : "BOM",
+"l" : "184.95",
+"c" : "-3.75",
+"mc" : "1.31B",
+"cp" : "-1.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6810385",
+"name" : "Mahindra Ugine Steel Company Limited",
+"t" : "MAHINDUGIN",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-573.95",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15519942",
+"name" : "Vallabh Steels Ltd",
+"t" : "513397",
+"e" : "BOM",
+"l" : "29.95",
+"c" : "-1.55",
+"mc" : "148.25M",
+"cp" : "-4.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4717515",
+"name" : "Southern Ispat Ltd",
+"t" : "531645",
+"e" : "BOM",
+"l" : "0.05",
+"c" : "0.00",
+"mc" : "63.05M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7597622",
+"name" : "Vardhman Industries Ltd",
+"t" : "513534",
+"e" : "BOM",
+"l" : "12.07",
+"c" : "-0.41",
+"mc" : "96.69M",
+"cp" : "-3.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16463854",
+"name" : "Suraj Products Ltd",
+"t" : "518075",
+"e" : "BOM",
+"l" : "16.40",
+"c" : "0.00",
+"mc" : "186.96M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "243114",
+"name" : "Adhunik Metaliks Limited",
+"t" : "ADHUNIK",
+"e" : "NSE",
+"l" : "4.95",
+"c" : "+0.20",
+"mc" : "617.83M",
+"cp" : "4.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6859382",
+"name" : "Jai Balaji Industries Ltd.",
+"t" : "JAIBALAJI",
+"e" : "NSE",
+"l" : "14.10",
+"c" : "-0.45",
+"mc" : "1.36B",
+"cp" : "-3.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8542662",
+"name" : "Gontermann Peipers India Ltd.",
+"t" : "504701",
+"e" : "BOM",
+"l" : "7.50",
+"c" : "+0.07",
+"mc" : "160.92M",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Tata centre 10th floor, 43 Chowringhee Road, KOLKATA, 700071, India",
+"phone": "+91-33-66134205",
+"fax": "+91-33-22884372",
+"url": "http:\u002F\u002Fwww.tatametaliks.com\u002F",
+"overview" : "Tata Metaliks Limited is engaged in the manufacture of foundry grade pig iron. The Company manufactures and sells products, such as scrap pig iron and granulated slag. The Company offers a range of end-to-end technical services, which include charge mix and melting, molding and core making, spheroidal graphite (SG) iron production and development, project based consultancy, pollution control, customized training and testing facility. It also offers a range of by-products, such as slag, which includes manufacturing and supplying granulated blast furnace slag for cement plants\u003B potted pig iron, which is used by foundries as scrap\u003B pig iron scrap, which includes pig casting machine scrap, pig iron runner, pig iron skull and pig iron chips and plates, and iron sweepings, including low iron (Fe) and high Fe. Its products offer applications, such as pressure tight precision castings, rolling mill rolls, motor and generator housings, automobile engine blocks, crankshafts and gears."
+} ]
+, "management" : [
+{
+"name" : "Subhra Sengupta",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sudhin Mitter",
+"age" : "54",
+"title" : "Vice President - Marketing and Sales"
+}
+,
+{
+"name" : "Kalyan Chatterji",
+"title" : "Vice President - Projects and Business Opportunity"
+}
+,
+{
+"name" : "Harsh K. Jha",
+"age" : "62",
+"title" : "Managing Director, Non Independent Whole Time Director"
+}
+,
+{
+"name" : "Sandeep Kumar",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Debasish Mishra",
+"title" : "General Manager - Operations"
+}
+,
+{
+"name" : "Sankar Bhattacharya",
+"title" : "Chief - Corporate Governance \u0026 Company Secretary"
+}
+,
+{
+"name" : "Koushik Chatterjee",
+"age" : "49",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Samita Jigar Shah",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sanjiv Paul",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,278 @@
+
+// [
+{
+"symbol" : "532460",
+"exchange" : "BOM",
+"id": "14323464",
+"t" : "532460",
+"e" : "BOM",
+"name" : "Ponni Sugars (Erode) Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532460"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532460"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532460"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-7.70%",
+"annual" : "6.09%",
+"ttm" : "2.24%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-12.81%",
+"annual" : "9.81%",
+"ttm" : "3.32%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "14.52%",
+"ttm" : "11.84%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.47%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.49%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "220",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.45",
+"l" : "165.00",
+"cp" : "0.89",
+"ccol" : "chg",
+"op" : "164.20",
+"hi" : "165.00",
+"lo" : "163.60",
+"vo" : "1,100.00",
+"avvo" : "",
+"hi52" : "224.00",
+"lo52" : "143.00",
+"mc" : "1.46B",
+"pe" : "28.27",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.84",
+"dy" : "1.52",
+"ldiv" : "2.50",
+"shares" : "8.60M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "14323464",
+"name" : "Ponni Sugars (Erode) Ltd",
+"t" : "532460",
+"e" : "BOM",
+"l" : "165.00",
+"c" : "+1.45",
+"mc" : "1.46B",
+"cp" : "0.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4438161",
+"name" : "Bannari Amman Sugars Limited",
+"t" : "BANARISUG",
+"e" : "NSE",
+"l" : "1,800.00",
+"c" : "+30.00",
+"mc" : "22.57B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4677011",
+"name" : "Thiru Arooran Sugars Ltd.",
+"t" : "THIRUSUGAR",
+"e" : "NSE",
+"l" : "42.50",
+"c" : "-0.70",
+"mc" : "482.08M",
+"cp" : "-1.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12172014",
+"name" : "Upper Ganges Sugar \u0026 Industries Ltd.",
+"t" : "UPERGANGES",
+"e" : "NSE",
+"l" : "376.60",
+"c" : "",
+"mc" : "4.37B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12704717",
+"name" : "Shree Renuka Sugars Limited",
+"t" : "RENUKA",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "-0.25",
+"mc" : "14.89B",
+"cp" : "-1.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16030878",
+"name" : "Gayatri Sugars Ltd",
+"t" : "532183",
+"e" : "BOM",
+"l" : "10.51",
+"c" : "-0.01",
+"mc" : "472.81M",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10038828",
+"name" : "Balrampur Chini Mills Ltd",
+"t" : "BALRAMCHIN",
+"e" : "NSE",
+"l" : "117.90",
+"c" : "+1.50",
+"mc" : "27.66B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9850381",
+"name" : "KCP Sugar and Industries Corp. Ltd.",
+"t" : "KCPSUGIND",
+"e" : "NSE",
+"l" : "27.80",
+"c" : "+0.10",
+"mc" : "3.13B",
+"cp" : "0.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15381436",
+"name" : "Kothari Sugars \u0026 Chemicals Ltd",
+"t" : "KOTARISUG",
+"e" : "NSE",
+"l" : "15.55",
+"c" : "+0.25",
+"mc" : "1.28B",
+"cp" : "1.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "621852536540434",
+"name" : "Shree Hanuman Sugar \u0026 Industries Ltd",
+"t" : "537709",
+"e" : "BOM",
+"l" : "1.38",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2214794",
+"name" : "Dhampure Speciality Sugars Ltd",
+"t" : "531923",
+"e" : "BOM",
+"l" : "17.00",
+"c" : "+0.40",
+"mc" : "121.74M",
+"cp" : "2.41",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "ESVIN House 13 Rajiv Gandhi Salai (OMR), Perungudi, CHENNAI, 600096, India",
+"phone": "+91-44-39279300",
+"fax": "+91-44-24960156",
+"url": "http:\u002F\u002Fponnisugars.com\u002F",
+"overview" : "Ponni Sugars (Erode) Limited is engaged in the manufacturing and selling of sugar. The Company operates through two segments: Sugar and Cogeneration. The Company\u0027s products include Sugar, Bagasse, Molasses and Power. The Company has crushed approximately 441,210 tons of cane and over 43,030 tons of sugar. The Company\u0027s plant is located in Namakkal District, Tamil Nadu. The Company has offices in Naraina Industrial Area, New Delhi\u003B Arthur Bunder Road, Mumbai, and Motilal Nehru Road, Kolkata."
+} ]
+, "management" : [
+{
+"name" : "N. Ramanathan",
+"age" : "61",
+"title" : "Managing Director, Compliance Officer, Company Secretary, Executive Director"
+}
+,
+{
+"name" : "N. Gopala Ratnam",
+"age" : "68",
+"title" : "Non-Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "L. M. Ramakrishnan",
+"age" : "72",
+"title" : "Independent Non-Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Arun G. Bijur",
+"age" : "67",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Bimal Kumar Poddar",
+"age" : "72",
+"title" : "Non-Independent Non-Executive Director"
+}
+,
+{
+"name" : "K. Bharathan",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

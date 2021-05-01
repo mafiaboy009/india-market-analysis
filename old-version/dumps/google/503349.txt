@@ -1,0 +1,272 @@
+
+// [
+{
+"symbol" : "503349",
+"exchange" : "BOM",
+"id": "5005718",
+"t" : "503349",
+"e" : "BOM",
+"name" : "Victoria Mills Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=VMIL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:503349"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:503349"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:503349"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002710)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "30.02%",
+"annual" : "21.35%",
+"ttm" : "146.50%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-200.56%",
+"annual" : "-4.92%",
+"ttm" : "-145.95%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-5.75%",
+"ttm" : "-143.08%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.13%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.33%",
+"ttm" : ""
+}
+]
+, "c" : "+32.00",
+"l" : "3,900.00",
+"cp" : "0.83",
+"ccol" : "chg",
+"op" : "4,098.00",
+"hi" : "4,139.00",
+"lo" : "3,706.25",
+"vo" : "19.00",
+"avvo" : "",
+"hi52" : "4,990.00",
+"lo52" : "2,827.00",
+"mc" : "381.33M",
+"pe" : "11.06",
+"fwpe" : "",
+"beta" : "",
+"eps" : "352.60",
+"dy" : "1.28",
+"ldiv" : "50.00",
+"shares" : "98,560.00",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5005718",
+"name" : "Victoria Mills Ltd",
+"t" : "503349",
+"e" : "BOM",
+"l" : "3,900.00",
+"c" : "+32.00",
+"mc" : "381.33M",
+"cp" : "0.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "576491757611847",
+"name" : "Jet infraventure Ltd",
+"t" : "538794",
+"e" : "BOM",
+"l" : "140.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2660539",
+"name" : "Asahi Infrastructure And Projects Ltd",
+"t" : "512535",
+"e" : "BOM",
+"l" : "1.35",
+"c" : "0.00",
+"mc" : "47.36M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715281",
+"name" : "Lancor Holdings Ltd",
+"t" : "509048",
+"e" : "BOM",
+"l" : "30.70",
+"c" : "+0.95",
+"mc" : "1.25B",
+"cp" : "3.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9400569",
+"name" : "Prerna Infrabuild Ltd",
+"t" : "531802",
+"e" : "BOM",
+"l" : "19.40",
+"c" : "+0.70",
+"mc" : "229.94M",
+"cp" : "3.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6559289",
+"name" : "Newtime Infrastructure Ltd",
+"t" : "531959",
+"e" : "BOM",
+"l" : "22.15",
+"c" : "0.00",
+"mc" : "3.61B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2944265",
+"name" : "Rajeswari Infrastructure Ltd",
+"t" : "526823",
+"e" : "BOM",
+"l" : "7.26",
+"c" : "-0.38",
+"mc" : "40.15M",
+"cp" : "-4.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7988690",
+"name" : "Mahindra Lifespace Developers Ltd.",
+"t" : "MAHLIFE",
+"e" : "NSE",
+"l" : "459.50",
+"c" : "+6.20",
+"mc" : "23.60B",
+"cp" : "1.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14469551",
+"name" : "Nyssa Corporation Ltd",
+"t" : "504378",
+"e" : "BOM",
+"l" : "1.36",
+"c" : "+0.06",
+"mc" : "40.80M",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2803726",
+"name" : "Tirupati Sarjan Ltd",
+"t" : "531814",
+"e" : "BOM",
+"l" : "20.50",
+"c" : "+1.10",
+"mc" : "664.47M",
+"cp" : "5.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2324771",
+"name" : "Wellesley Corporation Ltd",
+"t" : "532016",
+"e" : "BOM",
+"l" : "11.10",
+"c" : "-0.31",
+"mc" : "149.85M",
+"cp" : "-2.72",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "VICTORIA HOUSE PANDURANG BUDHKAR MARG, LOWER PAREL, MUMBAI, 400013, India",
+"phone": "+91-22-24971192",
+"fax": "+91-22-24971194",
+"url": "http:\u002F\u002Fwww.victoriamills.in\u002F",
+"overview" : "The Victoria Mills Limited is an India-based company engaged in real estate development business. The Company\u0027s business focuses is on designing and developing residential and leisure properties. The Company is constructing approximately three luxury villas in Alibaug. The Company\u0027s subsidiary is Victoria Land Private Limited, which is engaged in property development."
+} ]
+, "management" : [
+{
+"name" : "Aditya Harshavadan Mangaldas",
+"age" : "52",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Nikunj Kanabar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Mamta Mangaldas",
+"title" : "Director"
+}
+,
+{
+"name" : "Rashmikant Keshavlal Shah",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "S. G. Vaidya",
+"title" : "Director"
+}
+,
+{
+"name" : "V. C. Vaidya",
+"title" : "Director"
+}
+,
+{
+"name" : "Gargi Mashruwala",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

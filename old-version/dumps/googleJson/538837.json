@@ -1,0 +1,243 @@
+
+ [
+{
+"symbol" : "538837",
+"exchange" : "BOM",
+"id": "949474959909055",
+"t" : "538837",
+"e" : "BOM",
+"name" : "Jeevan Scientific Technology Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=JEEV.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:538837"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:538837"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:538837"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.95%",
+"annual" : "4.85%",
+"ttm" : "3.23%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.57%",
+"annual" : "10.02%",
+"ttm" : "8.53%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.75%",
+"ttm" : "16.76%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.43%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.50%",
+"ttm" : ""
+}
+]
+, "c" : "-0.70",
+"l" : "45.05",
+"cp" : "-1.53",
+"ccol" : "chr",
+"op" : "46.45",
+"hi" : "46.50",
+"lo" : "45.05",
+"vo" : "1,310.00",
+"avvo" : "",
+"hi52" : "69.00",
+"lo52" : "33.00",
+"mc" : "418.04M",
+"pe" : "74.24",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.61",
+"dy" : "",
+"ldiv" : "",
+"shares" : "9.28M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "949474959909055",
+"name" : "Jeevan Scientific Technology Ltd",
+"t" : "538837",
+"e" : "BOM",
+"l" : "45.05",
+"c" : "-0.70",
+"mc" : "418.04M",
+"cp" : "-1.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2999824",
+"name" : "Vimta Labs Ltd",
+"t" : "VIMTALABS",
+"e" : "NSE",
+"l" : "206.50",
+"c" : "-2.05",
+"mc" : "4.51B",
+"cp" : "-0.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "32365199179840",
+"name" : "Syngene International Ltd",
+"t" : "SYNGENE",
+"e" : "NSE",
+"l" : "580.00",
+"c" : "+1.10",
+"mc" : "116.22B",
+"cp" : "0.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15037478",
+"name" : "Choksi Laboratories Ltd",
+"t" : "526546",
+"e" : "BOM",
+"l" : "29.50",
+"c" : "+1.10",
+"mc" : "",
+"cp" : "3.87",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705274",
+"name" : "Saamya Biotech (India) Limited",
+"t" : "532905",
+"e" : "BOM",
+"l" : "1.89",
+"c" : "0.00",
+"mc" : "47.03M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "102277204733809",
+"name" : "Dr Habeebullah Life Sciences Ltd",
+"t" : "539267",
+"e" : "BOM",
+"l" : "46.05",
+"c" : "0.00",
+"mc" : "541.49M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14699244",
+"name" : "Veerhealth Care Ltd",
+"t" : "511523",
+"e" : "BOM",
+"l" : "15.00",
+"c" : "-0.70",
+"mc" : "104.01M",
+"cp" : "-4.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8524004",
+"name" : "Ashco Niulab Industries Ltd",
+"t" : "ASHCONIUL",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-0.30",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "728720",
+"name" : "Mavens Biotech Ltd",
+"t" : "590083",
+"e" : "BOM",
+"l" : "0.47",
+"c" : "",
+"mc" : "51.66M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "2773719",
+"name" : "Piramal Phytocare Ltd",
+"t" : "PIRPHYTO",
+"e" : "NSE",
+"l" : "45.90",
+"c" : "-0.05",
+"mc" : "1.19B",
+"cp" : "-0.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13983860",
+"name" : "ABL Bio Technologies Ltd",
+"t" : "526955",
+"e" : "BOM",
+"l" : "0.81",
+"c" : "0.00",
+"mc" : "6.65M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": ", HYDERABAD, 500008, India",
+"phone": "+91-40-67364700",
+"fax": "+91-40-67364707",
+"url": "http:\u002F\u002Fwww.jeevanscientific.com\u002F",
+"overview" : "Jeevan Scientific Technology Limited is engaged in providing data management services. The Company\u0027s segments include Clinical Research Services, Data Management Services and Information Technology Services. Its clinical research services include clinical operations, bioanalytical services, clinical data management, biostatistics and statistical programming, medical writing, pharmacovigilance services, regulatory affairs, quality assurance and project management. It provides bio-analytical services at a turn-around time by optimizing methods and sample extraction procedures for quantitative, as well as qualitative analysis. Its clinical data management services include data management plan, and database design and testing. Its biostatistics and statistical programming includes pre-analysis, analysis and post-analysis. Its medical writing service includes medical education. Its pharmacovigilance and monitoring services include individual case management and signal detection."
+} ]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Feb 14, 2018",
+"time": "",
+"future": 0,
+"desc": "Q3 2018 Jeevan Scientific Technology Ltd Earnings Release"
+}
+]
+}]

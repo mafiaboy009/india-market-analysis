@@ -1,0 +1,286 @@
+
+ [
+{
+"symbol" : "523828",
+"exchange" : "BOM",
+"id": "5574558",
+"t" : "523828",
+"e" : "BOM",
+"name" : "Menon Bearings Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=MENO.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:523828"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:523828"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:523828"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.80%",
+"annual" : "15.67%",
+"ttm" : "15.63%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "22.45%",
+"annual" : "22.35%",
+"ttm" : "22.59%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "26.52%",
+"ttm" : "25.50%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "21.09%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "33.14%",
+"ttm" : ""
+}
+]
+, "c" : "+7.65",
+"l" : "107.10",
+"cp" : "7.69",
+"ccol" : "chg",
+"op" : "101.10",
+"hi" : "110.70",
+"lo" : "100.15",
+"vo" : "14,613.00",
+"avvo" : "",
+"hi52" : "127.05",
+"lo52" : "67.15",
+"mc" : "6.01B",
+"pe" : "27.85",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.85",
+"dy" : "1.63",
+"ldiv" : "0.50",
+"shares" : "56.04M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5574558",
+"name" : "Menon Bearings Ltd",
+"t" : "523828",
+"e" : "BOM",
+"l" : "107.10",
+"c" : "+7.65",
+"mc" : "6.01B",
+"cp" : "7.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8527896",
+"name" : "Kirloskar Oil Engines Ltd",
+"t" : "KIRLOSENG",
+"e" : "NSE",
+"l" : "357.35",
+"c" : "+3.90",
+"mc" : "51.72B",
+"cp" : "1.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "677078",
+"name" : "Bimetal Bearings Limited",
+"t" : "505681",
+"e" : "BOM",
+"l" : "613.65",
+"c" : "+3.80",
+"mc" : "2.35B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14794075",
+"name" : "Castex Technologies Ltd",
+"t" : "CASTEXTECH",
+"e" : "NSE",
+"l" : "4.95",
+"c" : "+0.10",
+"mc" : "1.87B",
+"cp" : "2.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "84135840067224",
+"name" : "Endurance Technologies Ltd (CN)",
+"t" : "ENDURANCE",
+"e" : "NSE",
+"l" : "1,312.00",
+"c" : "+34.95",
+"mc" : "185.57B",
+"cp" : "2.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13341724",
+"name" : "JMT Auto Ltd",
+"t" : "JMTAUTOLTD",
+"e" : "NSE",
+"l" : "5.05",
+"c" : "+0.05",
+"mc" : "2.54B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15375890",
+"name" : "India Motor Parts Limited",
+"t" : "IMPAL",
+"e" : "NSE",
+"l" : "1,112.50",
+"c" : "+4.15",
+"mc" : "9.28B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3070975",
+"name" : "Alicon Castalloy Ltd",
+"t" : "ALICON",
+"e" : "NSE",
+"l" : "617.95",
+"c" : "-5.85",
+"mc" : "8.22B",
+"cp" : "-0.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5804806",
+"name" : "Sundaram Brake Linings Ltd",
+"t" : "SUNDRMBRAK",
+"e" : "NSE",
+"l" : "577.95",
+"c" : "+7.75",
+"mc" : "2.26B",
+"cp" : "1.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16529291",
+"name" : "Bosch Ltd",
+"t" : "BOSCHLTD",
+"e" : "NSE",
+"l" : "19,070.05",
+"c" : "+149.45",
+"mc" : "581.93B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1863710",
+"name" : "Sundram Fasteners Limited",
+"t" : "SUNDRMFAST",
+"e" : "NSE",
+"l" : "559.00",
+"c" : "-14.65",
+"mc" : "116.98B",
+"cp" : "-2.55",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "G-1, Midc, Gokul Shirgaon, KOLHAPUR, 416234, India",
+"phone": "+91-231-2672279",
+"fax": "+91-231-2672278",
+"url": "http:\u002F\u002Fwww.menonbearings.in\u002F",
+"overview" : "Menon Bearings Limited is engaged in the manufacturing of auto components. The Company\u0027s products include bi-metal engine bearings\u003B bushes and thrust washers for light and heavy automobile engines\u003B two wheeler engines, and compressors for refrigerators, air conditioners and others. It offers aluminum die casting components. Its bearing products include bearings for connecting rods, bearings for crank shafts, flanged bearings and trimetal bearings. It offers truncated bushes for connecting rods\u003B ball indented bushes\u003B bushes for connecting rods\u003B cam shafts\u003B rock shafts, and rocker arms. Its thrust washers include washers with thrust face contours and ring type thrust washers. Its aluminum products include engine components, gear case covers, clutch assembly, cylinder heads for automobile engines, break parts, engine parts, portable tools and fuel pump parts. The Company exports its products to the United States, the United Kingdom, Italy, France, China, Mexico and Brazil, among others."
+} ]
+, "management" : [
+{
+"name" : "Ramesh Dattatraya Dixit",
+"age" : "68",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Nitin Ram Menon",
+"age" : "46",
+"title" : "Vice Chairman of the Board, Joint Managing Director"
+}
+,
+{
+"name" : "Arun Aradhye",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Anup Padmai",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ram Menon",
+"age" : "83",
+"title" : "Chairman Emeritus"
+}
+,
+{
+"name" : "Sachin Ram Menon",
+"age" : "53",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sudheer S. Naphade",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "M. L. Shinde",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Gajendra Vasa",
+"age" : "78",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

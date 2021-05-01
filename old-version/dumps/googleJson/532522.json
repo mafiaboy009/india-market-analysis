@@ -1,0 +1,288 @@
+
+ [
+{
+"symbol" : "532522",
+"exchange" : "BOM",
+"id": "7350669",
+"t" : "532522",
+"e" : "BOM",
+"name" : "Petronet LNG Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532522"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532522"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532522"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.17%",
+"annual" : "7.00%",
+"ttm" : "3.42%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.98%",
+"annual" : "9.03%",
+"ttm" : "4.66%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.94%",
+"ttm" : "5.85%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "13.06%",
+"ttm" : "7.84%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "23.22%",
+"ttm" : "14.75%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "477",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.25",
+"l" : "243.40",
+"cp" : "-0.10",
+"ccol" : "chr",
+"op" : "244.90",
+"hi" : "245.40",
+"lo" : "241.75",
+"vo" : "69,855.00",
+"avvo" : "",
+"hi52" : "275.45",
+"lo52" : "188.52",
+"mc" : "366.00B",
+"pe" : "39.35",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.19",
+"dy" : "1.03",
+"ldiv" : "2.50",
+"shares" : "1.50B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7350669",
+"name" : "Petronet LNG Ltd",
+"t" : "532522",
+"e" : "BOM",
+"l" : "243.40",
+"c" : "-0.25",
+"mc" : "366.00B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10360734",
+"name" : "Bharat Petroleum Corp Ltd",
+"t" : "BPCL",
+"e" : "NSE",
+"l" : "431.85",
+"c" : "+1.95",
+"mc" : "936.14B",
+"cp" : "0.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3174566",
+"name" : "Goa Carbon Ltd",
+"t" : "GOACARBON",
+"e" : "NSE",
+"l" : "952.00",
+"c" : "-18.80",
+"mc" : "8.71B",
+"cp" : "-1.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722521",
+"name" : "Cals Refineries Ltd",
+"t" : "526652",
+"e" : "BOM",
+"l" : "0.10",
+"c" : "0.00",
+"mc" : "829.40M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4674509",
+"name" : "Reliance Industries Limited",
+"t" : "RELIANCE",
+"e" : "NSE",
+"l" : "938.75",
+"c" : "+4.50",
+"mc" : "5.95T",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13363611",
+"name" : "Essar Oil Ltd",
+"t" : "ESSAROIL",
+"e" : "NSE",
+"l" : "263.00",
+"c" : "",
+"mc" : "381.53B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "676986",
+"name" : "Mangalore Refinery \u0026 Petrochemicals Ltd.",
+"t" : "500109",
+"e" : "BOM",
+"l" : "120.50",
+"c" : "+3.65",
+"mc" : "209.93B",
+"cp" : "3.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7413851",
+"name" : "Chennai Petroleum Corporation Limited",
+"t" : "CHENNPETRO",
+"e" : "NSE",
+"l" : "375.00",
+"c" : "+19.65",
+"mc" : "55.60B",
+"cp" : "5.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3563195",
+"name" : "Hindustan Petroleum Corporation Limited",
+"t" : "HINDPETRO",
+"e" : "NSE",
+"l" : "392.50",
+"c" : "+6.40",
+"mc" : "597.48B",
+"cp" : "1.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "51184",
+"name" : "Unique Agro Processors India Ltd",
+"t" : "526915",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10984042",
+"name" : "GAIL (India) Limited",
+"t" : "GAIL",
+"e" : "NSE",
+"l" : "462.80",
+"c" : "+4.40",
+"mc" : "780.86B",
+"cp" : "0.96",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "1st Floor, World Trade Center Babar Road, Barakhamba Lane, NEW DELHI, 110001, India",
+"phone": "+91-11-23411411",
+"fax": "+91-11-23472550",
+"url": "http:\u002F\u002Fwww.petronetlng.com",
+"overview" : "Petronet LNG Limited (PLL) is engaged in sale of re-gasified liquefied natural gas (RLNG). The Company is engaged in the import and re-gasification of liquefied natural gas (LNG). The Company operates through the segment of natural gas business. The Company\u0027s terminals include Dahej LNG terminal, Kochi LNG terminal, Gangavaram LNG terminal and Solid cargo port. The Company\u0027s Dahej LNG terminal is LNG receiving and regasification terminal with an original nameplate capacity of approximately five million metric tons per annum, located at Dahej, Gujarat. The Kochi LNG terminal is LNG receiving, regasification and re loading terminal with nameplate capacity of approximately five million metric tons per annum, located at Kochi, Kerala. . The Company is building a third terminal at Gangavaram, Andhra Pradesh. Solid Cargo Port Terminal has facilities to import\u002Fexport bulk products, such as coal, steel and fertilizer."
+} ]
+, "management" : [
+{
+"name" : "Kapil Dev Tripathi",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Prabhat Singh",
+"title" : "Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "K. C. Sharma",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajender Singh",
+"age" : "55",
+"title" : "Director - Technical, Director"
+}
+,
+{
+"name" : "T. Natarajan",
+"title" : "Director - Nominee of Gujarat Maritime Board"
+}
+,
+{
+"name" : "Philip Olivier",
+"title" : "Director - Nominee of GDFI"
+}
+,
+{
+"name" : "Subir Purkayastha",
+"title" : "Director - Nominee of GAIL"
+}
+,
+{
+"name" : "D. Rajkumar",
+"title" : "Director - Nominee of Bharat Petroleum Corporation Ltd"
+}
+,
+{
+"name" : "G. K. Satish",
+"title" : "Director - Nominee of Indian Oil Corporation Limited"
+}
+]
+,"moreresources" : [
+]
+}]

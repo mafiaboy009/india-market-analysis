@@ -1,0 +1,234 @@
+
+ [
+{
+"symbol" : "537536",
+"exchange" : "BOM",
+"id": "133889985495148",
+"t" : "537536",
+"e" : "BOM",
+"name" : "Denis Chem Lab Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=DECH.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:537536"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:537536"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:537536"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.35%",
+"annual" : "1.11%",
+"ttm" : "-0.24%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.50%",
+"annual" : "6.28%",
+"ttm" : "4.00%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.25%",
+"ttm" : "9.95%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.40%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.43%",
+"ttm" : ""
+}
+]
+, "c" : "-0.10",
+"l" : "96.00",
+"cp" : "-0.10",
+"ccol" : "chr",
+"op" : "100.90",
+"hi" : "100.90",
+"lo" : "96.00",
+"vo" : "4,284.00",
+"avvo" : "",
+"hi52" : "188.85",
+"lo52" : "85.10",
+"mc" : "1.33B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.08",
+"dy" : "",
+"ldiv" : "",
+"shares" : "13.88M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "133889985495148",
+"name" : "Denis Chem Lab Ltd",
+"t" : "537536",
+"e" : "BOM",
+"l" : "96.00",
+"c" : "-0.10",
+"mc" : "1.33B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6521463",
+"name" : "Parenteral Drugs (India) Ltd.",
+"t" : "PDPL",
+"e" : "NSE",
+"l" : "18.60",
+"c" : "-0.15",
+"mc" : "554.58M",
+"cp" : "-0.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13439600",
+"name" : "Ahlcon Parenterals India Ltd",
+"t" : "524448",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14810633",
+"name" : "Pharmaids Pharmacuticals Ltd",
+"t" : "524572",
+"e" : "BOM",
+"l" : "2.71",
+"c" : "0.00",
+"mc" : "9.23M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4069794",
+"name" : "Plethico Pharmaceuticals Limited",
+"t" : "PLETHICO",
+"e" : "NSE",
+"l" : "9.05",
+"c" : "",
+"mc" : "308.30M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "679412034444482",
+"name" : "Bajaj Healthcare Ltd",
+"t" : "539872",
+"e" : "BOM",
+"l" : "378.75",
+"c" : "0.00",
+"mc" : "2.61B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7085020",
+"name" : "Bal Pharma Ltd",
+"t" : "BALPHARMA",
+"e" : "NSE",
+"l" : "96.15",
+"c" : "+0.10",
+"mc" : "1.37B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16185849",
+"name" : "Sterling Biotech Limited",
+"t" : "STERLINBIO",
+"e" : "NSE",
+"l" : "3.25",
+"c" : "-0.10",
+"mc" : "858.91M",
+"cp" : "-2.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13151881",
+"name" : "Colinz Laboratories Ltd",
+"t" : "531210",
+"e" : "BOM",
+"l" : "15.00",
+"c" : "0.00",
+"mc" : "68.56M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2592931",
+"name" : "Medi Caps Ltd",
+"t" : "523144",
+"e" : "BOM",
+"l" : "25.65",
+"c" : "-0.70",
+"mc" : "321.07M",
+"cp" : "-2.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7489710",
+"name" : "Brooks Laboratories Ltd",
+"t" : "BROOKS",
+"e" : "NSE",
+"l" : "94.00",
+"c" : "-0.30",
+"mc" : "1.51B",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Bl 457, Village Chhatral, AHMEDABAD, 380015, India",
+"phone": "+91-79-26925716",
+"fax": "+91-79-26925710",
+"overview" : "Denis Chem Lab Limited is a pharmaceutical company, which is engaged in the manufacturing of Pharmaceuticals. The Company\u0027s principal activities include manufacturing of allopathic pharmaceutical preparation and uteninary preparation. The Company\u0027s products include parenteral amino acid injections, diuretic injections, antibiotic injections, plasma volume expanders, anti anaerobic injections and dialysis solutions. The Company offers sterile intravenous injectables for human and veterinary use for different therapeutic areas. Its product offerings include Carbohydrate Solutions, Carbohydrate in Sodium Chloride Solutions, Sodium Chloride Solutions, Potassium Chloride Solutions, Sodium Lactate\u002FRinger\u0027s Solution, Multi Electrolyte Solutions, Mannitol Solutions, Irrigation Solutions, Amino Acids, Antibiotic Solutions and Miscellaneous. It manufactures sterile intravenous injectables in filled volumes ranging from 100 milliliters to 10 litters."
+} ]
+,"moreresources" : [
+]
+}]

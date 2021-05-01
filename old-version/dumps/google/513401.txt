@@ -1,0 +1,281 @@
+
+// [
+{
+"symbol" : "513401",
+"exchange" : "BOM",
+"id": "8294072",
+"t" : "513401",
+"e" : "BOM",
+"name" : "Ashiana Ispat Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ASHI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:513401"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:513401"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:513401"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.30%",
+"annual" : "1.49%",
+"ttm" : "1.11%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.60%",
+"annual" : "3.91%",
+"ttm" : "3.52%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.61%",
+"ttm" : "4.05%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.27%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.59%",
+"ttm" : ""
+}
+]
+, "c" : "+0.55",
+"l" : "32.05",
+"cp" : "1.75",
+"ccol" : "chg",
+"op" : "31.00",
+"hi" : "33.05",
+"lo" : "31.00",
+"vo" : "969.00",
+"avvo" : "",
+"hi52" : "40.00",
+"lo52" : "17.80",
+"mc" : "143.10M",
+"pe" : "5.00",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.41",
+"dy" : "",
+"ldiv" : "",
+"shares" : "7.96M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "8294072",
+"name" : "Ashiana Ispat Ltd",
+"t" : "513401",
+"e" : "BOM",
+"l" : "32.05",
+"c" : "+0.55",
+"mc" : "143.10M",
+"cp" : "1.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15391558",
+"name" : "Kamdhenu Ltd",
+"t" : "KAMDHENU",
+"e" : "NSE",
+"l" : "266.85",
+"c" : "+12.70",
+"mc" : "6.24B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722506",
+"name" : "Real Strips Ltd",
+"t" : "513558",
+"e" : "BOM",
+"l" : "13.45",
+"c" : "+0.64",
+"mc" : "80.43M",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715254",
+"name" : "Kanishk Steel Industries Ltd.",
+"t" : "513456",
+"e" : "BOM",
+"l" : "15.49",
+"c" : "+0.55",
+"mc" : "440.47M",
+"cp" : "3.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715010",
+"name" : "Rathi Bars Limited",
+"t" : "532918",
+"e" : "BOM",
+"l" : "32.05",
+"c" : "0.00",
+"mc" : "526.67M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12752818",
+"name" : "Stelco Strips Ltd",
+"t" : "513530",
+"e" : "BOM",
+"l" : "4.10",
+"c" : "",
+"mc" : "37.31M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7988191",
+"name" : "Rathi Steel And Power Ltd",
+"t" : "504903",
+"e" : "BOM",
+"l" : "2.71",
+"c" : "-0.14",
+"mc" : "84.84M",
+"cp" : "-4.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15519942",
+"name" : "Vallabh Steels Ltd",
+"t" : "513397",
+"e" : "BOM",
+"l" : "29.95",
+"c" : "-1.55",
+"mc" : "148.25M",
+"cp" : "-4.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715304",
+"name" : "Panchmahal Steel Ltd.",
+"t" : "513511",
+"e" : "BOM",
+"l" : "51.95",
+"c" : "-0.95",
+"mc" : "991.12M",
+"cp" : "-1.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "153521247303809",
+"name" : "Goodluck India Ltd",
+"t" : "GOODLUCK",
+"e" : "NSE",
+"l" : "102.50",
+"c" : "+0.50",
+"mc" : "2.35B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5104238",
+"name" : "Steelco Gujarat Ltd",
+"t" : "500399",
+"e" : "BOM",
+"l" : "8.30",
+"c" : "-0.09",
+"mc" : "353.68M",
+"cp" : "-1.07",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "202, Belhi Bhure Apartments, Ringh Road, NEW DELHI, 110034, India",
+"phone": "+91-11-49032928",
+"fax": "+91-1493-220598",
+"url": "http:\u002F\u002Fwww.ashianaispat.in\u002F",
+"overview" : "Ashiana Ispat Limited is an India-based company, which is engaged in the steel business. The Company is engaged in manufacturing thermo mechanically treated (TMT) bars and ingots. It is engaged in steel manufacturing for domestic construction, engineering, automotive and infrastructure sectors. The Company manufactures Turbo TMT bars, ranging from 8 millimeters to 32 millimeters in diameter coming in ferrous material (Fe)-415, Fe-500 and Fe-550 grades. It offers Turbo TMT bars under the name of Kamdhenu Saria. The bars are manufactured at the Company\u0027s plant located in Bhiwadi, Rajasthan. Its manufacturing process involves raw material, melt, refine, bottom pour, strand cast, rolling, thermal treat, surface inspection, cut off, identification, final inspection, metallurgical lab and ship. The Company offers Ashiana Kamdhenu TMT bars, and Ashiana Kamdhenu cold, twisted and deformed (CTD) bars."
+} ]
+, "management" : [
+{
+"name" : "Harun Rashid Ansari",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Neeraj Kumar Jain",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Puneet Kumar Jain",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Sanjay Kumar Jain",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Naresh Chand",
+"title" : "Director"
+}
+,
+{
+"name" : "Rajender Prasad Bansal",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ram Kumar Garg",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "T. C. Kansal",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rajesh Kumar Pal",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,279 @@
+
+ [
+{
+"symbol" : "533181",
+"exchange" : "BOM",
+"id": "11618173",
+"t" : "533181",
+"e" : "BOM",
+"name" : "Intrasoft Technologies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533181"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533181"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533181"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.50%",
+"annual" : "1.47%",
+"ttm" : "1.08%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.00%",
+"annual" : "1.68%",
+"ttm" : "1.34%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.88%",
+"ttm" : "1.52%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.97%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.07%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "220",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-9.85",
+"l" : "610.40",
+"cp" : "-1.59",
+"ccol" : "chr",
+"op" : "627.15",
+"hi" : "627.15",
+"lo" : "609.00",
+"vo" : "2,939.00",
+"avvo" : "",
+"hi52" : "855.00",
+"lo52" : "306.00",
+"mc" : "8.96B",
+"pe" : "75.86",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.05",
+"dy" : "0.33",
+"ldiv" : "2.00",
+"shares" : "14.73M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11618173",
+"name" : "Intrasoft Technologies Ltd",
+"t" : "533181",
+"e" : "BOM",
+"l" : "610.40",
+"c" : "-9.85",
+"mc" : "8.96B",
+"cp" : "-1.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14457466",
+"name" : "iStreet Network Ltd",
+"t" : "524622",
+"e" : "BOM",
+"l" : "4.99",
+"c" : "+0.20",
+"mc" : "111.89M",
+"cp" : "4.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "760837805370701",
+"name" : "Infibeam Incorporation Ltd",
+"t" : "INFIBEAM",
+"e" : "NSE",
+"l" : "161.70",
+"c" : "+1.05",
+"mc" : "88.01B",
+"cp" : "0.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1060654550752948",
+"name" : "JLA Infraville Shoppers Ltd",
+"t" : "538765",
+"e" : "BOM",
+"l" : "3.16",
+"c" : "-0.01",
+"mc" : "",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "93708796707697",
+"name" : "eDynamics Solutions Ltd",
+"t" : "535694",
+"e" : "BOM",
+"l" : "3.13",
+"c" : "0.00",
+"mc" : "79.99M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "555431429469324",
+"name" : "Ecs Biztech Ltd",
+"t" : "540063",
+"e" : "BOM",
+"l" : "8.44",
+"c" : "0.00",
+"mc" : "173.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "469690494193792",
+"name" : "PC Jeweller Ltd",
+"t" : "PCJEWELLER",
+"e" : "NSE",
+"l" : "335.80",
+"c" : "+3.45",
+"mc" : "132.58B",
+"cp" : "1.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4917539",
+"name" : "Shoppers Stop Limited",
+"t" : "SHOPERSTOP",
+"e" : "NSE",
+"l" : "534.95",
+"c" : "+7.05",
+"mc" : "46.60B",
+"cp" : "1.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "908050565151682",
+"name" : "Focus Suites Solutions \u0026 Services Ltd",
+"t" : "540945",
+"e" : "BOM",
+"l" : "33.90",
+"c" : "+3.05",
+"mc" : "",
+"cp" : "9.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1803644",
+"name" : "Jain Studios Ltd",
+"t" : "JAINSTUDIO",
+"e" : "NSE",
+"l" : "4.45",
+"c" : "-0.20",
+"mc" : "127.25M",
+"cp" : "-4.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8022441",
+"name" : "Pressman Advertising Ltd",
+"t" : "PRESSMN",
+"e" : "NSE",
+"l" : "58.90",
+"c" : "+1.60",
+"mc" : "1.38B",
+"cp" : "2.79",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Suite 301, 145, Rash Behari Avenue, KOLKATA, 700029, India",
+"phone": "+91-33-24643306",
+"fax": "+91-33-24646584",
+"url": "http:\u002F\u002Fwww.itlindia.com\u002F",
+"overview" : "IntraSoft Technologies Limited is an India-based multi-channel e-commerce retail company. The Company offers a range of information technology (IT) enabled services. The Company offers products under various categories, such as furniture, patio, lawn and garden\u003B musical instruments and gadgets\u003B home improvements and art crafts\u003B kitchen dining and appliances\u003B toys, games and baby\u003B sports and outdoor, and others. The Company sells its products on its own Website, www.123stores.com. The Company also has shop-in-shop partnerships with other retailers and sells its products on different marketplaces, along with its own Web portal. The Company works with over 1,600 brand owners\u002Fmanufacturers and offers approximately 500,000 products. The Company\u0027s Web-based enterprise resource planning (ERP) platform is a set of business algorithms, designed to optimize delivery time and product selections in line with the capabilities of its logistics partners."
+} ]
+, "management" : [
+{
+"name" : "Mohit Kumar Jha",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Pranvesh Tripathi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Arvind Kajaria",
+"title" : "Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Sharad Kajaria",
+"age" : "37",
+"title" : "Non-Independent Whole time Director"
+}
+,
+{
+"name" : "Savita Agarwal",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Anil Agrawal",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rupinder Singh",
+"age" : "54",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

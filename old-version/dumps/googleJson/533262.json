@@ -1,0 +1,286 @@
+
+ [
+{
+"symbol" : "533262",
+"exchange" : "BOM",
+"id": "6828017",
+"t" : "533262",
+"e" : "BOM",
+"name" : "Ramky Infrastructure Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533262"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533262"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533262"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002715)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-10.09%",
+"annual" : "0.92%",
+"ttm" : "-29.36%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-4.58%",
+"annual" : "3.43%",
+"ttm" : "-15.78%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.89%",
+"ttm" : "-10.19%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.29%",
+"ttm" : "-8.36%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-1.71%",
+"ttm" : "-59.25%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "714",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.40",
+"l" : "199.40",
+"cp" : "-0.70",
+"ccol" : "chr",
+"op" : "201.25",
+"hi" : "206.40",
+"lo" : "199.05",
+"vo" : "30,602.00",
+"avvo" : "",
+"hi52" : "271.05",
+"lo52" : "72.50",
+"mc" : "11.43B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-84.44",
+"dy" : "",
+"ldiv" : "",
+"shares" : "57.20M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "6828017",
+"name" : "Ramky Infrastructure Limited",
+"t" : "533262",
+"e" : "BOM",
+"l" : "199.40",
+"c" : "-1.40",
+"mc" : "11.43B",
+"cp" : "-0.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15619196",
+"name" : "Shristi Infrastructure Developt Corp Ltd",
+"t" : "511411",
+"e" : "BOM",
+"l" : "294.95",
+"c" : "+14.95",
+"mc" : "6.55B",
+"cp" : "5.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12789791979363",
+"name" : "Shashijit Infraprojects Ltd",
+"t" : "540147",
+"e" : "BOM",
+"l" : "35.50",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10229082",
+"name" : "JMC Projects (India) Limited",
+"t" : "JMCPROJECT",
+"e" : "NSE",
+"l" : "580.00",
+"c" : "+1.60",
+"mc" : "19.43B",
+"cp" : "0.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11628138",
+"name" : "Era Infra Engineering Limited",
+"t" : "ERAINFRA",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3309213",
+"name" : "NCC Ltd",
+"t" : "NCC",
+"e" : "NSE",
+"l" : "126.15",
+"c" : "+0.85",
+"mc" : "69.88B",
+"cp" : "0.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15009671",
+"name" : "Continental Construction Ltd",
+"t" : "507956",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-20.75",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6663614",
+"name" : "Unity Infraprojects Limited",
+"t" : "UNITY",
+"e" : "NSE",
+"l" : "5.50",
+"c" : "-0.25",
+"mc" : "659.09M",
+"cp" : "-4.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9179965",
+"name" : "Jog Engineering Ltd",
+"t" : "507942",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10219186",
+"name" : "Tantia Constructions Limited",
+"t" : "TANTIACONS",
+"e" : "NSE",
+"l" : "15.30",
+"c" : "-0.55",
+"mc" : "439.75M",
+"cp" : "-3.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12003421",
+"name" : "Conart Engineers Ltd",
+"t" : "522231",
+"e" : "BOM",
+"l" : "44.80",
+"c" : "-0.15",
+"mc" : "134.40M",
+"cp" : "-0.33",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "6-3-1089\u002FG\u002F10 \u0026 11 Ramky House Gulmohar Avenue, Somajiguda, HYDERABAD, 500032, India",
+"phone": "+91-40-23015000",
+"fax": "+91-40-23015444",
+"url": "http:\u002F\u002Fwww.ramkyinfrastructure.com\u002F",
+"overview" : "Ramky Infrastructure Limited is a construction, infrastructure development and management company. The Company provides construction and civil engineering services. Its segments include Construction business, Developer business and Others. The Construction business segment consists of water and waste water projects, such as water treatment plants, water transmission and distribution systems\u003B irrigation projects, such as cross-drainage works, dams and barrages\u003B industrial construction projects, such as industrial parks and related works\u003B transportation projects, such as expressways, highways, bridges and flyovers\u003B building construction, which includes commercial, residential, public, institutional and corporate buildings, and power transmission and distribution projects, such as electricity transmission networks, substation feeder lines and low tension distribution lines. The Developer business segment includes industrial parks, transportation, integrated townships and energy."
+} ]
+, "management" : [
+{
+"name" : "Alla Ayodhya Rami Reddy",
+"age" : "51",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "I. W. Vijaya Kumar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "N. Madhusudhana Reddy",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Yancharla Ratnakar Nagaraja",
+"age" : "51",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "A. Rama Devi",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Krishna Kumar Gangadharan",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "A. G. Ravindranath Reddy",
+"age" : "57",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "V. Murahari Reddy",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

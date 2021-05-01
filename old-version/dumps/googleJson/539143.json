@@ -1,0 +1,235 @@
+
+ [
+{
+"symbol" : "539143",
+"exchange" : "BOM",
+"id": "531520983303791",
+"t" : "539143",
+"e" : "BOM",
+"name" : "Synergy Bizcon Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SNER.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539143"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539143"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539143"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.06%",
+"annual" : "0.17%",
+"ttm" : "0.96%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "0.06%",
+"annual" : "0.25%",
+"ttm" : "1.25%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.35%",
+"ttm" : "-0.66%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.59%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.63%",
+"ttm" : ""
+}
+]
+, "c" : "+1.15",
+"l" : "62.70",
+"cp" : "1.87",
+"ccol" : "chg",
+"op" : "62.00",
+"hi" : "62.70",
+"lo" : "61.75",
+"vo" : "23,894.00",
+"avvo" : "",
+"hi52" : "68.00",
+"lo52" : "51.25",
+"mc" : "772.78M",
+"pe" : "233.18",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.27",
+"dy" : "",
+"ldiv" : "",
+"shares" : "12.32M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "531520983303791",
+"name" : "Synergy Bizcon Ltd",
+"t" : "539143",
+"e" : "BOM",
+"l" : "62.70",
+"c" : "+1.15",
+"mc" : "772.78M",
+"cp" : "1.87",
+"ccol" : "chg"
+}
+,
+{
+"id" : "467714282440298",
+"name" : "Pure Giftcarat Ltd",
+"t" : "540492",
+"e" : "BOM",
+"l" : "15.00",
+"c" : "+2.00",
+"mc" : "315.72M",
+"cp" : "15.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "269770796713427",
+"name" : "Darshan Orna Ltd",
+"t" : "539884",
+"e" : "BOM",
+"l" : "187.00",
+"c" : "+4.50",
+"mc" : "891.00M",
+"cp" : "2.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "553422944844201",
+"name" : "Radhika Jeweltech Ltd",
+"t" : "540125",
+"e" : "BOM",
+"l" : "31.20",
+"c" : "-1.60",
+"mc" : "736.32M",
+"cp" : "-4.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "320428633164178",
+"name" : "Mishka Exim Ltd",
+"t" : "539220",
+"e" : "BOM",
+"l" : "25.00",
+"c" : "0.00",
+"mc" : "361.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "77171576635135",
+"name" : "Negotium International Trade Ltd",
+"t" : "537838",
+"e" : "BOM",
+"l" : "10.93",
+"c" : "0.00",
+"mc" : "428.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "931903303526303",
+"name" : "Veeram Ornaments Ltd",
+"t" : "540252",
+"e" : "BOM",
+"l" : "77.50",
+"c" : "-2.00",
+"mc" : "334.03M",
+"cp" : "-2.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13349472",
+"name" : "Srs Ltd",
+"t" : "SRSLTD",
+"e" : "NSE",
+"l" : "1.25",
+"c" : "+0.05",
+"mc" : "348.23M",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8969714",
+"name" : "Vaibhav Global Ltd",
+"t" : "VAIBHAVGBL",
+"e" : "NSE",
+"l" : "706.00",
+"c" : "+15.20",
+"mc" : "23.03B",
+"cp" : "2.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "167054312511196",
+"name" : "Lypsa Gems \u0026 Jewellery Ltd",
+"t" : "LYPSAGEMS",
+"e" : "NSE",
+"l" : "31.20",
+"c" : "-1.10",
+"mc" : "925.63M",
+"cp" : "-3.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715560",
+"name" : "Asian Star Co Ltd",
+"t" : "531847",
+"e" : "BOM",
+"l" : "1,288.00",
+"c" : "+61.05",
+"mc" : "20.48B",
+"cp" : "4.98",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": ", SURAT, 395001, India",
+"phone": "+91-261-3066688",
+"fax": "+91-731-4202337",
+"url": "http:\u002F\u002Fsbcl.co.in\u002F",
+"overview" : "Synergy Bizcon Limited is an India-based company engaged in wholesale trading of precious metals, stones and jewelry. The Company is also engaged in the business of real estate. The Company operates through two segments: Precious Metals, Stones \u0026 Jewellery, and Real Estate business."
+} ]
+,"moreresources" : [
+]
+}]

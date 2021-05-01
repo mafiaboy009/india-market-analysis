@@ -1,0 +1,207 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 117918000,
+            "fmt": "117.92M",
+            "longFmt": "117,918,000"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -1.82978,
+            "fmt": "-182.98%"
+          },
+          "floatShares": {
+            "raw": 1097280,
+            "fmt": "1.1M",
+            "longFmt": "1,097,280"
+          },
+          "sharesOutstanding": {
+            "raw": 6000000,
+            "fmt": "6M",
+            "longFmt": "6,000,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.07613,
+            "fmt": "1.08"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 7.543,
+            "fmt": "7.54"
+          },
+          "priceToBook": {
+            "raw": 10.519687,
+            "fmt": "10.52"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -18419996,
+            "fmt": "-18.42M",
+            "longFmt": "-18,419,996"
+          },
+          "trailingEps": {
+            "raw": -3.07,
+            "fmt": "-3.07"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 11.714,
+            "fmt": "11.71"
+          },
+          "enterpriseToEbitda": {
+            "raw": -5.178,
+            "fmt": "-5.18"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "CK-6, Sector II",
+          "address2": "2nd Floor Salt Lake City",
+          "city": "Kolkata",
+          "zip": "700091",
+          "country": "India",
+          "phone": "91 33 2337 3012",
+          "fax": "91 33 2337 3014",
+          "website": "http://www.shriramamc.com",
+          "industry": "Asset Management",
+          "sector": "Financial",
+          "longBusinessSummary": "Shriram Asset Management Company Limited provides asset management services in India. The company was incorporated in 1994 and is based in Kolkata, India. Shriram Asset Management Company Ltd operates as a subsidiary of Shriram Credit Company Limited.",
+          "fullTimeEmployees": 16,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 79.35,
+            "fmt": "79.35"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 183582000,
+            "fmt": "183.58M",
+            "longFmt": "183,582,000"
+          },
+          "totalCashPerShare": {
+            "raw": 30.597,
+            "fmt": "30.6"
+          },
+          "ebitda": {
+            "raw": -22772836,
+            "fmt": "-22.77M",
+            "longFmt": "-22,772,836"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 10066769,
+            "fmt": "10.07M",
+            "longFmt": "10,066,769"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 1.678,
+            "fmt": "1.68"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": -5586243,
+            "fmt": "-5.59M",
+            "longFmt": "-5,586,243"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.061,
+            "fmt": "6.10%"
+          },
+          "grossMargins": {
+            "raw": -0.75717,
+            "fmt": "-75.72%"
+          },
+          "ebitdaMargins": {
+            "raw": -2.26218,
+            "fmt": "-226.22%"
+          },
+          "operatingMargins": {
+            "raw": -2.27074,
+            "fmt": "-227.07%"
+          },
+          "profitMargins": {
+            "raw": -1.82978,
+            "fmt": "-182.98%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

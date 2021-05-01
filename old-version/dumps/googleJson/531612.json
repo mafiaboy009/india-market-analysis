@@ -1,0 +1,266 @@
+
+ [
+{
+"symbol" : "531612",
+"exchange" : "BOM",
+"id": "3080725",
+"t" : "531612",
+"e" : "BOM",
+"name" : "KGN INDUSTRIES LTD"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KGNI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531612"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531612"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531612"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.66%",
+"annual" : "8.30%",
+"ttm" : "8.30%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.05%",
+"annual" : "6.21%",
+"ttm" : "6.21%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.87%",
+"ttm" : "12.87%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.06%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.07%",
+"ttm" : ""
+}
+]
+, "c" : "-0.02",
+"l" : "1.86",
+"cp" : "-1.06",
+"ccol" : "chr",
+"op" : "1.86",
+"hi" : "1.86",
+"lo" : "1.86",
+"vo" : "1.00",
+"avvo" : "",
+"hi52" : "2.76",
+"lo52" : "1.50",
+"mc" : "413.85M",
+"pe" : "984.13",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.00",
+"dy" : "",
+"ldiv" : "",
+"shares" : "222.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "3080725",
+"name" : "KGN INDUSTRIES LTD",
+"t" : "531612",
+"e" : "BOM",
+"l" : "1.86",
+"c" : "-0.02",
+"mc" : "413.85M",
+"cp" : "-1.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5308564",
+"name" : "Zydus Wellness Ltd",
+"t" : "ZYDUSWELL",
+"e" : "NSE",
+"l" : "1,240.00",
+"c" : "-10.80",
+"mc" : "48.79B",
+"cp" : "-0.86",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3761424",
+"name" : "Wadala Commodities Ltd",
+"t" : "519035",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "838656874128548",
+"name" : "Vitan Agro Industries Ltd",
+"t" : "538548",
+"e" : "BOM",
+"l" : "4.94",
+"c" : "0.00",
+"mc" : "412.67M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "665560735271983",
+"name" : "Nouritrans Exim Ltd",
+"t" : "540698",
+"e" : "BOM",
+"l" : "8.10",
+"c" : "0.00",
+"mc" : "49.38M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "703902717351100",
+"name" : "Oasis Tradelink Ltd",
+"t" : "538547",
+"e" : "BOM",
+"l" : "103.55",
+"c" : "+6.10",
+"mc" : "1.14B",
+"cp" : "6.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8283800",
+"name" : "R T Exports Ltd",
+"t" : "512565",
+"e" : "BOM",
+"l" : "9.45",
+"c" : "0.00",
+"mc" : "41.19M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16408023",
+"name" : "Emmsons International Ltd",
+"t" : "532038",
+"e" : "BOM",
+"l" : "3.07",
+"c" : "-0.16",
+"mc" : "36.83M",
+"cp" : "-4.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715556",
+"name" : "Mount Everest Mineral Water Ltd.",
+"t" : "531096",
+"e" : "BOM",
+"l" : "102.00",
+"c" : "",
+"mc" : "3.47B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14500268",
+"name" : "Vishal Exports Overseas Ltd",
+"t" : "VISHALEXPO",
+"e" : "NSE",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "0.00",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "101893154248545",
+"name" : "Aurangabad Distillery Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "4th Floor, 23 Vaswani Mansions Opp K.C. College, Dinsha- Vachha road Churchgate, AHMEDABAD, 380009, India",
+"phone": "+91-79-26562510",
+"fax": "+91-22-66541111",
+"url": "http:\u002F\u002Fwww.kgnindustries.com\u002F",
+"overview" : "KGN Industries Limited is an India-based company engaged in service activities related to oil and gas extraction excluding surveying. The Company operates in the real estate business through its subsidiary, KGN Projects Limited. The Company is looking at alternative sources of renewable energy projects using solar energy, Biomass, Bio-fuels and geothermal energy and bringing in the latest technology for the same. It also plans to invest in the cement industry."
+} ]
+, "management" : [
+{
+"name" : "Arif Ismail Memon",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Ismail G. Memon",
+"age" : "72",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Mohsin Ismail Memon",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sakina Aiyyaz Pimpalnerwala",
+"title" : "Director"
+}
+,
+{
+"name" : "Babulal Jethalal Hirani",
+"age" : "71",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Ravindran Mohan Dhar",
+"age" : "63",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

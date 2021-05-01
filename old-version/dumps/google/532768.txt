@@ -1,0 +1,300 @@
+
+// [
+{
+"symbol" : "532768",
+"exchange" : "BOM",
+"id": "707149",
+"t" : "532768",
+"e" : "BOM",
+"name" : "Fiem Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532768"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532768"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532768"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002710)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.59%",
+"annual" : "3.25%",
+"ttm" : "3.57%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.01%",
+"annual" : "6.31%",
+"ttm" : "6.08%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.56%",
+"ttm" : "9.21%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.28%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.51%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,854",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+13.75",
+"l" : "887.00",
+"cp" : "1.57",
+"ccol" : "chg",
+"op" : "881.95",
+"hi" : "891.00",
+"lo" : "876.05",
+"vo" : "2,926.00",
+"avvo" : "",
+"hi52" : "1,084.80",
+"lo52" : "821.40",
+"mc" : "11.67B",
+"pe" : "100.41",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.83",
+"dy" : "0.90",
+"ldiv" : "8.00",
+"shares" : "13.16M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "707149",
+"name" : "Fiem Industries Ltd",
+"t" : "532768",
+"e" : "BOM",
+"l" : "887.00",
+"c" : "+13.75",
+"mc" : "11.67B",
+"cp" : "1.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "703961",
+"name" : "Photoquip India Ltd",
+"t" : "526588",
+"e" : "BOM",
+"l" : "22.00",
+"c" : "-1.15",
+"mc" : "105.62M",
+"cp" : "-4.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11688711",
+"name" : "Lumax Industries Limited",
+"t" : "LUMAXIND",
+"e" : "NSE",
+"l" : "2,285.00",
+"c" : "+32.95",
+"mc" : "21.19B",
+"cp" : "1.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6698190",
+"name" : "Bajaj Electricals Ltd",
+"t" : "BAJAJELEC",
+"e" : "NSE",
+"l" : "531.40",
+"c" : "+25.80",
+"mc" : "54.21B",
+"cp" : "5.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10500776",
+"name" : "Surya Roshni Ltd",
+"t" : "SURYAROSNI",
+"e" : "NSE",
+"l" : "449.00",
+"c" : "+8.00",
+"mc" : "19.63B",
+"cp" : "1.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8046173",
+"name" : "Autolite India Ltd",
+"t" : "AUTOLITIND",
+"e" : "NSE",
+"l" : "77.00",
+"c" : "+2.10",
+"mc" : "859.81M",
+"cp" : "2.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1597800",
+"name" : "Havells India Ltd",
+"t" : "HAVELLS",
+"e" : "NSE",
+"l" : "512.05",
+"c" : "+4.35",
+"mc" : "320.17B",
+"cp" : "0.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8081566",
+"name" : "Khaitan Electricals Ltd",
+"t" : "KHAITANELE",
+"e" : "NSE",
+"l" : "9.80",
+"c" : "-0.50",
+"mc" : "112.70M",
+"cp" : "-4.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6533067",
+"name" : "Calcom Vision Ltd",
+"t" : "517236",
+"e" : "BOM",
+"l" : "13.68",
+"c" : "0.00",
+"mc" : "110.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9034741",
+"name" : "Eveready Industries India Ltd",
+"t" : "EVEREADY",
+"e" : "NSE",
+"l" : "382.60",
+"c" : "+1.10",
+"mc" : "27.56B",
+"cp" : "0.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10428173",
+"name" : "PG Electroplast Ltd",
+"t" : "PGEL",
+"e" : "NSE",
+"l" : "307.00",
+"c" : "-3.20",
+"mc" : "5.04B",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "D-34 Dsidc Packaging Complex, Kirti Nagar, SONEPAT, 131029, India",
+"phone": "+91-130-2367905",
+"fax": "+91-11-25927740",
+"url": "http:\u002F\u002Fwww.fiemindustries.com\u002F",
+"overview" : "Fiem Industries Limited is engaged in lights, signaling equipment and parts\u003B rear view mirror and parts\u003B plastic molded parts, and light-emitting diode (LED) luminaries business. The Company\u0027s segments include Automotive and LED Luminaries. Its Automotive segment includes automotive lighting and signaling equipment, rear view mirror, prismatic mirror, plastic molded parts, and sheet metal components for motorized vehicles and others parts for automotive. Its LED Luminaries Segment includes LED luminaries, such as indoor and outdoor lighting, display panel and LED integrated passenger information system. It provides integrated passenger information systems for buses, railways, metros, airports and malls. Its luminaries include LED Bulbs and LED Tubes, LED Down Lights, LED Street Lights, Solar LED Street lights and Solar LED Lantern. The Company has over three research and development centers, including in India, Italy and Japan. It has over 10 manufacturing facilities in India."
+} ]
+, "management" : [
+{
+"name" : "Jagjeevan Kumar Jain",
+"age" : "63",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "O. P. Gupta",
+"age" : "52",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Arvind K. Chauhan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Aanchal Jain",
+"age" : "33",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Seema Jain",
+"age" : "61",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "J. S. S. Rao",
+"age" : "58",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Kashi Ram Yadav",
+"age" : "59",
+"title" : "Director - Operations, North, Whole Time Director"
+}
+,
+{
+"name" : "Rahul Jain",
+"age" : "28",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "S. K. Jain",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Ashok Kumar Sharma",
+"age" : "63",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

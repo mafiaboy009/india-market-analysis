@@ -1,0 +1,77 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {},
+          "enterpriseValue": {},
+          "forwardPE": {},
+          "profitMargins": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {},
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {
+            "raw": -0.1627,
+            "fmt": "-16.27%"
+          },
+          "beta3Year": {
+            "raw": 1.32,
+            "fmt": "1.32"
+          },
+          "totalAssets": {
+            "raw": 30050000,
+            "fmt": "30.05M",
+            "longFmt": "30,050,000"
+          },
+          "yield": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "fundFamily": "Kotak Mahindra Asset Management Co Ltd",
+          "fundInceptionDate": {
+            "raw": 1194566400,
+            "fmt": "2007-11-09"
+          },
+          "legalType": "Exchange Traded Fund",
+          "threeYearAverageReturn": {
+            "raw": -0.072,
+            "fmt": "-7.20%"
+          },
+          "fiveYearAverageReturn": {
+            "raw": -0.0332,
+            "fmt": "-3.32%"
+          },
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {},
+          "nextFiscalYearEnd": {},
+          "mostRecentQuarter": {},
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {},
+          "trailingEps": {},
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {},
+          "enterpriseToEbitda": {},
+          "52WeekChange": {},
+          "SandP52WeekChange": {},
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "longBusinessSummary": "The investment seeks to track the price and performance yield, before fees and expenses, of the CNX PSU Bank index.\n The fund would invest not less than 90% of total assets in stocks comprising the index. It aims to track the index and yield as closely as possible and therefore will follow a passive investment strategy. The scheme will attempt to retain least amount of cash and will also try to avoid investment in debt and money market instruments.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        }
+      }
+    ],
+    "error": null
+  }
+}

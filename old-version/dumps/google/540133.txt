@@ -1,0 +1,301 @@
+
+// [
+{
+"symbol" : "540133",
+"exchange" : "BOM",
+"id": "41772663551146",
+"t" : "540133",
+"e" : "BOM",
+"name" : "Icici Prudential Life Insurance Comp Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:540133"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:540133"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:540133"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.85%",
+"annual" : "5.12%",
+"ttm" : "4.45%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.03%",
+"annual" : "-8.78%",
+"ttm" : "4.62%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-9.73%",
+"ttm" : "4.63%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "1.36%",
+"annual" : "1.47%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "26.52%",
+"annual" : "28.67%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "12,397",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+5.55",
+"l" : "413.95",
+"cp" : "1.36",
+"ccol" : "chg",
+"op" : "411.00",
+"hi" : "415.85",
+"lo" : "409.00",
+"vo" : "29,529.00",
+"avvo" : "",
+"hi52" : "507.90",
+"lo52" : "355.10",
+"mc" : "596.11B",
+"pe" : "35.33",
+"fwpe" : "",
+"beta" : "",
+"eps" : "11.72",
+"dy" : "1.11",
+"ldiv" : "2.30",
+"shares" : "1.44B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "41772663551146",
+"name" : "Icici Prudential Life Insurance Comp Ltd",
+"t" : "540133",
+"e" : "BOM",
+"l" : "413.95",
+"c" : "+5.55",
+"mc" : "596.11B",
+"cp" : "1.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1114964173287188",
+"name" : "Sbi Life Insurance Company Ltd",
+"t" : "SBILIFE",
+"e" : "NSE",
+"l" : "676.00",
+"c" : "+0.30",
+"mc" : "676.70B",
+"cp" : "0.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1122484714790419",
+"name" : "HDFC Standard Life Insurance Company Ltd",
+"t" : "HDFCLIFE",
+"e" : "NSE",
+"l" : "469.55",
+"c" : "+0.70",
+"mc" : "941.54B",
+"cp" : "0.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1361072",
+"name" : "Bajaj Finserv Ltd",
+"t" : "BAJAJFINSV",
+"e" : "NSE",
+"l" : "5,200.00",
+"c" : "+180.35",
+"mc" : "826.62B",
+"cp" : "3.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5907309",
+"name" : "Aditya Birla Nuvo Ltd",
+"t" : "ABIRLANUVO",
+"e" : "NSE",
+"l" : "1,880.00",
+"c" : "",
+"mc" : "245.92B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "16345036",
+"name" : "ICICI Bank Ltd",
+"t" : "ICICIBANK",
+"e" : "NSE",
+"l" : "326.15",
+"c" : "+3.40",
+"mc" : "2.09T",
+"cp" : "1.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1046845746116312",
+"name" : "ICICI Lombard General Insurance Co Ltd",
+"t" : "ICICIGI",
+"e" : "NSE",
+"l" : "819.00",
+"c" : "-1.70",
+"mc" : "372.10B",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "787983878768338",
+"name" : "General Insurance Corporation of India",
+"t" : "GICRE",
+"e" : "NSE",
+"l" : "735.75",
+"c" : "-2.15",
+"mc" : "648.61B",
+"cp" : "-0.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1731931",
+"name" : "State Bank Of Travancore",
+"t" : "SBT",
+"e" : "NSE",
+"l" : "605.00",
+"c" : "",
+"mc" : "43.02B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14381814",
+"name" : "Max Financial Services Ltd",
+"t" : "MFSL",
+"e" : "NSE",
+"l" : "508.00",
+"c" : "+10.00",
+"mc" : "136.18B",
+"cp" : "2.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "374785",
+"name" : "Reliance Capital Limited",
+"t" : "RELCAPITAL",
+"e" : "NSE",
+"l" : "484.60",
+"c" : "+14.80",
+"mc" : "122.24B",
+"cp" : "3.15",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": ", MUMBAI, 400025, India",
+"phone": "+91-22-40391600",
+"fax": "+91-22-66622031",
+"url": "https:\u002F\u002Fwww.iciciprulife.com\u002F",
+"overview" : "ICICI Prudential Life Insurance Company Limited is a life insurance company, which is a joint venture between ICICI Bank Limited and Prudential Corporation Holdings Limited. The Company provides life insurance, pensions and health insurance to individuals and groups. It conducts business in participating, non-participating and unit linked lines of businesses. Its segments include Par Life, Par Pension, Non Par, Annuity Non Par, Health, Linked Life, Linked Pension, Linked Health and Linked Group. It offers term plans, such as ICICI Pru iProtect Smart\u003B unit linked insurance plans (ULIPs), such as ICICI Pru Wealth Builder II and ICICI Pru Elite Life II\u003B child education insurance plans, such as ICICI Prudential SmartKid with Smart Life\u003B retirement plans, such as ICICI Pru Easy Retirement\u003B traditional savings\u002Fmoney back plans, such as ICICI Pru Cash Advantage and ICICI Pru Savings Suraksha, and Health insurance. It offers products on retail, mortgage and group platforms."
+} ]
+, "management" : [
+{
+"name" : "Chanda D. Kochhar",
+"title" : "Chairman of the Board (Nominee Director of ICICI Bank)"
+}
+,
+{
+"name" : "Sandeep Bakhshi",
+"age" : "56",
+"title" : "Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Satyan Jambunathan",
+"age" : "44",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manish Kumar",
+"age" : "45",
+"title" : "Chief Investment Officer"
+}
+,
+{
+"name" : "Deepak Kinger",
+"age" : "41",
+"title" : "Compliance Officer, Chief Risk Officer"
+}
+,
+{
+"name" : "Sandeep Batra",
+"age" : "50",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Puneet Nanda",
+"age" : "47",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "V. V. Balaji",
+"age" : "50",
+"title" : "Chief – IT and Operations"
+}
+,
+{
+"name" : "Ajay Chowdhary",
+"age" : "51",
+"title" : "Head of group and alliances business"
+}
+,
+{
+"name" : "Judhajit Das",
+"age" : "44",
+"title" : "Chief - Human Resources"
+}
+]
+,"moreresources" : [
+]
+}]

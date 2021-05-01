@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "502168",
+"exchange" : "BOM",
+"id": "715308",
+"t" : "502168",
+"e" : "BOM",
+"name" : "NCL Industries Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:502168"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:502168"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:502168"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.16%",
+"annual" : "6.20%",
+"ttm" : "6.22%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.56%",
+"annual" : "10.11%",
+"ttm" : "10.94%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.96%",
+"ttm" : "14.51%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.77%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "24.63%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "663",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.45",
+"l" : "228.25",
+"cp" : "-1.06",
+"ccol" : "chr",
+"op" : "232.85",
+"hi" : "233.80",
+"lo" : "228.15",
+"vo" : "6,854.00",
+"avvo" : "",
+"hi52" : "310.00",
+"lo52" : "155.00",
+"mc" : "10.33B",
+"pe" : "15.60",
+"fwpe" : "",
+"beta" : "",
+"eps" : "14.63",
+"dy" : "1.10",
+"ldiv" : "1.00",
+"shares" : "45.23M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715308",
+"name" : "NCL Industries Limited",
+"t" : "502168",
+"e" : "BOM",
+"l" : "228.25",
+"c" : "-2.45",
+"mc" : "10.33B",
+"cp" : "-1.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6118813",
+"name" : "Deccan Cements Ltd.",
+"t" : "DECCANCE",
+"e" : "NSE",
+"l" : "574.00",
+"c" : "-2.70",
+"mc" : "7.97B",
+"cp" : "-0.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7129115",
+"name" : "Greenply Industries Ltd.",
+"t" : "GREENPLY",
+"e" : "NSE",
+"l" : "344.00",
+"c" : "-3.65",
+"mc" : "42.14B",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11753233",
+"name" : "Birla Corporation Limited",
+"t" : "BIRLACORPN",
+"e" : "NSE",
+"l" : "894.50",
+"c" : "+23.00",
+"mc" : "69.00B",
+"cp" : "2.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5410484",
+"name" : "Chettinad Cement Corporation Pvt Ltd",
+"t" : "CHETTINAD",
+"e" : "NSE",
+"l" : "709.25",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4519199",
+"name" : "Anjani Portland Cement Ltd",
+"t" : "518091",
+"e" : "BOM",
+"l" : "198.40",
+"c" : "+6.90",
+"mc" : "5.05B",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3242375",
+"name" : "Sanghi Industries Ltd.",
+"t" : "SANGHIIND",
+"e" : "NSE",
+"l" : "120.50",
+"c" : "+5.50",
+"mc" : "26.70B",
+"cp" : "4.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1524703",
+"name" : "Prism Cement Ltd",
+"t" : "PRISMCEM",
+"e" : "NSE",
+"l" : "127.60",
+"c" : "+1.75",
+"mc" : "64.15B",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9222858",
+"name" : "Mangalam Timber Products Ltd",
+"t" : "MANGTIMBER",
+"e" : "NSE",
+"l" : "30.60",
+"c" : "-0.65",
+"mc" : "557.20M",
+"cp" : "-2.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2655421",
+"name" : "Rushil Decor Ltd",
+"t" : "RUSHIL",
+"e" : "NSE",
+"l" : "901.80",
+"c" : "-2.90",
+"mc" : "13.24B",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1608461",
+"name" : "Gujarat Sidhee Cement Ltd",
+"t" : "GSCLCEMENT",
+"e" : "NSE",
+"l" : "31.90",
+"c" : "-0.20",
+"mc" : "2.77B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "7th Floor Raghavaratna Towers, Chiragali Lane, HYDERABAD, 500001, India",
+"phone": "+91-40-23203637",
+"fax": "+91-40-23202496",
+"url": "http:\u002F\u002Fwww.nclind.com\u002F",
+"overview" : "NCL Industries Limited is engaged in manufacturing cement. The Company offers ordinary Portland cement (OPC), Portland Pozzolana cement (PPC), OPC 53 S cement, and Plain and laminated Cement Bonded Particle Boards. The Company\u0027s segments are Cement, Boards, Prefab structures, Hydel Power and Ready-Mix Concrete (RMC). The Company\u0027s cement manufacturing units are located at Simhapuri in the state of Telangana and Kondapalli in the state of Andhra Pradesh. Its boards plants are located at Simhapuri in the state of Telangana and Bhothanwali Village in the state of Himachal Pradesh. Its RMC plants are located at Hyderabad in the state of Telangana and Visakhapatnam in the state of Andhra Pradesh. It manufactures Bison panel. It manufactures and supplies prefab shelters. It has hydel power plants at Srisailam Canal and Tungabhadra Dam. Its Bison is used in false ceilings, interior and exterior wall partitions, and furniture. Its Bison is also used for wall sidings and duct covers."
+} ]
+, "management" : [
+{
+"name" : "NGVSG Prasad",
+"title" : "President, Chief Financial Officer"
+}
+,
+{
+"name" : "T. Arun Kumar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "K. Ravi",
+"age" : "58",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "K. Gautam",
+"age" : "31",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "R. Anand",
+"age" : "79",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Roopa Bhupatiraju",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Penumatsa Satyanarayana Raju",
+"age" : "62",
+"title" : "Director"
+}
+,
+{
+"name" : "Ashven Datla",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Vinodrai V. Goradia",
+"age" : "76",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

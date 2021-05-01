@@ -1,0 +1,296 @@
+
+// [
+{
+"symbol" : "533106",
+"exchange" : "BOM",
+"id": "721412",
+"t" : "533106",
+"e" : "BOM",
+"name" : "Oil India Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533106"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533106"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533106"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002710)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "25.05%",
+"annual" : "16.69%",
+"ttm" : "32.95%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.40%",
+"annual" : "9.85%",
+"ttm" : "37.38%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "37.73%",
+"ttm" : "43.39%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.49%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.84%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "7,228",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+5.10",
+"l" : "349.10",
+"cp" : "1.48",
+"ccol" : "chg",
+"op" : "345.05",
+"hi" : "352.00",
+"lo" : "345.05",
+"vo" : "37,592.00",
+"avvo" : "",
+"hi52" : "388.85",
+"lo52" : "258.00",
+"mc" : "264.63B",
+"pe" : "10.23",
+"fwpe" : "",
+"beta" : "",
+"eps" : "34.13",
+"dy" : "5.37",
+"ldiv" : "14.00",
+"shares" : "756.60M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "721412",
+"name" : "Oil India Limited",
+"t" : "533106",
+"e" : "BOM",
+"l" : "349.10",
+"c" : "+5.10",
+"mc" : "264.63B",
+"cp" : "1.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12588850",
+"name" : "Indian Oil Corporation Limited",
+"t" : "IOC",
+"e" : "NSE",
+"l" : "377.00",
+"c" : "+8.60",
+"mc" : "1.83T",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "674868",
+"name" : "Oil \u0026 Natural Gas Corporation Limited",
+"t" : "ONGC",
+"e" : "NSE",
+"l" : "189.95",
+"c" : "+0.15",
+"mc" : "2.43T",
+"cp" : "0.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3563195",
+"name" : "Hindustan Petroleum Corporation Limited",
+"t" : "HINDPETRO",
+"e" : "NSE",
+"l" : "392.50",
+"c" : "+6.40",
+"mc" : "597.48B",
+"cp" : "1.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "561072630042219",
+"name" : "Jaihind Projects Limited",
+"t" : "JAIHINDPRO",
+"e" : "NSE",
+"l" : "5.35",
+"c" : "0.00",
+"mc" : "52.20M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "756546251615497",
+"name" : "Nagarjuna Oil Refinery Ltd",
+"t" : "NAGAROIL",
+"e" : "NSE",
+"l" : "4.10",
+"c" : "-0.05",
+"mc" : "1.76B",
+"cp" : "-1.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6038818",
+"name" : "Cairn India Limited",
+"t" : "CAIRN",
+"e" : "NSE",
+"l" : "285.00",
+"c" : "",
+"mc" : "535.28B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6561604",
+"name" : "Indraprastha Gas Limited",
+"t" : "IGL",
+"e" : "NSE",
+"l" : "297.00",
+"c" : "+1.50",
+"mc" : "207.55B",
+"cp" : "0.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11228886",
+"name" : "GVK Power and Infrastructure Ltd.",
+"t" : "GVKPIL",
+"e" : "NSE",
+"l" : "17.10",
+"c" : "-0.45",
+"mc" : "26.93B",
+"cp" : "-2.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4674509",
+"name" : "Reliance Industries Limited",
+"t" : "RELIANCE",
+"e" : "NSE",
+"l" : "938.75",
+"c" : "+4.50",
+"mc" : "5.95T",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7135544",
+"name" : "Hindustan Oil Exploration Company Ltd",
+"t" : "HINDOILEXP",
+"e" : "NSE",
+"l" : "118.30",
+"c" : "+1.60",
+"mc" : "15.42B",
+"cp" : "1.37",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "1st Floor Shivalik, Plot No. 19, Sector - 16A, NOIDA, 201301, India",
+"phone": "+91-120-2488333",
+"fax": "+91-120-2488310",
+"url": "http:\u002F\u002Fwww.oil-india.com",
+"overview" : "Oil India Limited is a holding company. The Company is engaged in providing crude oil and natural gas. The Company\u0027s segments include Crude Oil, Natural Gas, LPG, Pipeline Transportation and Others. It owns and operates approximately 10 drilling rigs and over 10 work-over rigs, besides charter hiring drilling rigs based on operational requirement. The Company is involved in crude oil transportation in Southeast Asia, and owns and operates approximately 1,430 kilometers of cross-country crude oil pipelines. It owns approximately 10 crude oil pumping stations and over 20 repeater stations spread across the eastern India states of Assam, West Bengal and Bihar. The Company produces approximately five million metric standard cubic meter per day (MMSCUMD) of natural gas and has a pipeline network for collection and supply of gas as fuel and feedstock to various industries, such as refineries, fertilizer and petrochemical plants, and power generation plants."
+} ]
+, "management" : [
+{
+"name" : "Utpal Bora",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Rupshikha Saikia Borah",
+"title" : "Finance Director, Executive Director"
+}
+,
+{
+"name" : "S. K. Senapati",
+"age" : "53",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "P. Chandrasekaran",
+"age" : "56",
+"title" : "Director - Exploration \u0026 Development, Executive Director"
+}
+,
+{
+"name" : "Biswajit Roy",
+"age" : "56",
+"title" : "Director of Human Resources \u0026 Business Development, Director"
+}
+,
+{
+"name" : "Pramod Kumar Sharma",
+"age" : "57",
+"title" : "Director - Operations, Director"
+}
+,
+{
+"name" : "Diwakar Nath Misra",
+"title" : "Government Nominee Director"
+}
+,
+{
+"name" : "Sunjay Sudhir",
+"title" : "Government Nominee Director"
+}
+,
+{
+"name" : "Asha Kaul Ph.D.",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Amina R. Khan",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

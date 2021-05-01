@@ -1,0 +1,391 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 1486532608,
+            "fmt": "1.49B",
+            "longFmt": "1,486,532,608"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0748,
+            "fmt": "7.48%"
+          },
+          "floatShares": {
+            "raw": 241395,
+            "fmt": "241.4k",
+            "longFmt": "241,395"
+          },
+          "sharesOutstanding": {
+            "raw": 3813400,
+            "fmt": "3.81M",
+            "longFmt": "3,813,400"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -1.957698,
+            "fmt": "-1.96"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 134.432,
+            "fmt": "134.43"
+          },
+          "priceToBook": {
+            "raw": 2.901095,
+            "fmt": "2.90"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.566,
+            "fmt": "-56.60%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 71222840,
+            "fmt": "71.22M",
+            "longFmt": "71,222,840"
+          },
+          "trailingEps": {
+            "raw": 18.677,
+            "fmt": "18.68"
+          },
+          "forwardEps": {
+            "raw": 37.83,
+            "fmt": "37.83"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.561,
+            "fmt": "1.56"
+          },
+          "enterpriseToEbitda": {
+            "raw": 11.681,
+            "fmt": "11.68"
+          },
+          "52WeekChange": {
+            "raw": -0.13707268,
+            "fmt": "-13.71%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2015",
+                "actual": {
+                  "raw": 6.34,
+                  "fmt": "6.34"
+                },
+                "estimate": {
+                  "raw": 4.85,
+                  "fmt": "4.85"
+                }
+              },
+              {
+                "date": "2Q2016",
+                "actual": {
+                  "raw": 8.22,
+                  "fmt": "8.22"
+                },
+                "estimate": {
+                  "raw": 8.01,
+                  "fmt": "8.01"
+                }
+              },
+              {
+                "date": "3Q2016",
+                "actual": {
+                  "raw": 9.81,
+                  "fmt": "9.81"
+                },
+                "estimate": {
+                  "raw": 8.85,
+                  "fmt": "8.85"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2016
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 1007529236,
+                  "fmt": "1.01B",
+                  "longFmt": "1,007,529,236"
+                },
+                "earnings": {
+                  "raw": 41835452,
+                  "fmt": "41.84M",
+                  "longFmt": "41,835,452"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1061488425,
+                  "fmt": "1.06B",
+                  "longFmt": "1,061,488,425"
+                },
+                "earnings": {
+                  "raw": 58099040,
+                  "fmt": "58.1M",
+                  "longFmt": "58,099,040"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 1019068526,
+                  "fmt": "1.02B",
+                  "longFmt": "1,019,068,526"
+                },
+                "earnings": {
+                  "raw": 90922067,
+                  "fmt": "90.92M",
+                  "longFmt": "90,922,067"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 1095104994,
+                  "fmt": "1.1B",
+                  "longFmt": "1,095,104,994"
+                },
+                "earnings": {
+                  "raw": 122634838,
+                  "fmt": "122.63M",
+                  "longFmt": "122,634,838"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 331940994,
+                  "fmt": "331.94M",
+                  "longFmt": "331,940,994"
+                },
+                "earnings": {
+                  "raw": 30568838,
+                  "fmt": "30.57M",
+                  "longFmt": "30,568,838"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 280982000,
+                  "fmt": "280.98M",
+                  "longFmt": "280,982,000"
+                },
+                "earnings": {
+                  "raw": 23612000,
+                  "fmt": "23.61M",
+                  "longFmt": "23,612,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 134519000,
+                  "fmt": "134.52M",
+                  "longFmt": "134,519,000"
+                },
+                "earnings": {
+                  "raw": 7640000,
+                  "fmt": "7.64M",
+                  "longFmt": "7,640,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 204704000,
+                  "fmt": "204.7M",
+                  "longFmt": "204,704,000"
+                },
+                "earnings": {
+                  "raw": 10358000,
+                  "fmt": "10.36M",
+                  "longFmt": "10,358,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Bil Road",
+          "address2": "Bil",
+          "city": "Vadodara",
+          "zip": "391410",
+          "country": "India",
+          "phone": "91 26 5268 0466",
+          "fax": "91 26 5268 0611",
+          "website": "http://www.shilchargroup.com",
+          "industry": "Diversified Machinery",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Shilchar Technologies Limited manufactures and sells transformers in India. It provides power and distribution transformers; linear transformers, including R core transformers, EI transformers, torroidal transformers, and energy meter CT's; telecom and data transformers; and standard line transformers. It serves government utilities, private utilities, EPC contractors, and power plant developers and contractors; and pharmaceutical and chemical, oil and gas, engineering, cement, healthcare, food and beverage, glass and automotive, textile and ceramic, and hospitality industries, as well as renewable energy plant manufacturers, contractors, and developers. The company also exports its products. The company was formerly known as Shilchar Electronics Limited. Shilchar Technologies Limited was incorporated in 1986 and is based in Vadodara, India.",
+          "fullTimeEmployees": 100,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 390.0,
+            "fmt": "390.00"
+          },
+          "targetHighPrice": {
+            "raw": 182.0,
+            "fmt": "182.00"
+          },
+          "targetLowPrice": {
+            "raw": 182.0,
+            "fmt": "182.00"
+          },
+          "targetMeanPrice": {
+            "raw": 182.0,
+            "fmt": "182.00"
+          },
+          "targetMedianPrice": {
+            "raw": 182.0,
+            "fmt": "182.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 29863000,
+            "fmt": "29.86M",
+            "longFmt": "29,863,000"
+          },
+          "totalCashPerShare": {
+            "raw": 7.842,
+            "fmt": "7.84"
+          },
+          "ebitda": {
+            "raw": 127261168,
+            "fmt": "127.26M",
+            "longFmt": "127,261,168"
+          },
+          "totalDebt": {
+            "raw": 61706000,
+            "fmt": "61.71M",
+            "longFmt": "61,706,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 952145984,
+            "fmt": "952.15M",
+            "longFmt": "952,145,984"
+          },
+          "debtToEquity": {
+            "raw": 12.016,
+            "fmt": "12.02"
+          },
+          "revenuePerShare": {
+            "raw": 249.682,
+            "fmt": "249.68"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 313698084,
+            "fmt": "313.7M",
+            "longFmt": "313,698,084"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.565,
+            "fmt": "-56.50%"
+          },
+          "revenueGrowth": {
+            "raw": -0.122,
+            "fmt": "-12.20%"
+          },
+          "grossMargins": {
+            "raw": 0.26424,
+            "fmt": "26.42%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.13366,
+            "fmt": "13.37%"
+          },
+          "operatingMargins": {
+            "raw": 0.11969,
+            "fmt": "11.97%"
+          },
+          "profitMargins": {
+            "raw": 0.0748,
+            "fmt": "7.48%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

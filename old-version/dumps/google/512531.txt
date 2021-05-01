@@ -1,0 +1,296 @@
+
+// [
+{
+"symbol" : "512531",
+"exchange" : "BOM",
+"id": "703904",
+"t" : "512531",
+"e" : "BOM",
+"name" : "State Trading Corporation of India Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:512531"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:512531"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:512531"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-4.98%",
+"annual" : "-9.32%",
+"ttm" : "-0.86%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-4.79%",
+"annual" : "-2.96%",
+"ttm" : "-0.44%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-0.91%",
+"ttm" : "-0.12%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-15.92%",
+"ttm" : "-3.88%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "671",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+4.30",
+"l" : "156.90",
+"cp" : "2.82",
+"ccol" : "chg",
+"op" : "151.05",
+"hi" : "160.00",
+"lo" : "151.05",
+"vo" : "19,556.00",
+"avvo" : "",
+"hi52" : "299.00",
+"lo52" : "140.00",
+"mc" : "9.40B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-44.31",
+"dy" : "",
+"ldiv" : "",
+"shares" : "60.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703904",
+"name" : "State Trading Corporation of India Ltd.",
+"t" : "512531",
+"e" : "BOM",
+"l" : "156.90",
+"c" : "+4.30",
+"mc" : "9.40B",
+"cp" : "2.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4020663",
+"name" : "CCL International Ltd",
+"t" : "531900",
+"e" : "BOM",
+"l" : "14.80",
+"c" : "+0.05",
+"mc" : "284.05M",
+"cp" : "0.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "711633",
+"name" : "Vertex Spinning Ltd.",
+"t" : "531544",
+"e" : "BOM",
+"l" : "1.64",
+"c" : "0.00",
+"mc" : "32.49M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9825919",
+"name" : "Saregama India Limited",
+"t" : "SAREGAMA",
+"e" : "NSE",
+"l" : "707.50",
+"c" : "+11.75",
+"mc" : "12.31B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "77171576635135",
+"name" : "Negotium International Trade Ltd",
+"t" : "537838",
+"e" : "BOM",
+"l" : "10.93",
+"c" : "0.00",
+"mc" : "428.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "332095320902103",
+"name" : "Bhakti Gems and Jewellery Ltd",
+"t" : "540545",
+"e" : "BOM",
+"l" : "20.50",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "553422944844201",
+"name" : "Radhika Jeweltech Ltd",
+"t" : "540125",
+"e" : "BOM",
+"l" : "31.20",
+"c" : "-1.60",
+"mc" : "736.32M",
+"cp" : "-4.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11055472",
+"name" : "Goldiam International Ltd.",
+"t" : "GOLDIAM",
+"e" : "NSE",
+"l" : "73.50",
+"c" : "+0.55",
+"mc" : "1.83B",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14257224",
+"name" : "Golkunda Diamonds And Jewellery Ltd",
+"t" : "523676",
+"e" : "BOM",
+"l" : "18.35",
+"c" : "+0.85",
+"mc" : "127.79M",
+"cp" : "4.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "978240820035931",
+"name" : "Kenvi Jewels Ltd",
+"t" : "540953",
+"e" : "BOM",
+"l" : "31.60",
+"c" : "-0.30",
+"mc" : "",
+"cp" : "-0.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13349472",
+"name" : "Srs Ltd",
+"t" : "SRSLTD",
+"e" : "NSE",
+"l" : "1.25",
+"c" : "+0.05",
+"mc" : "348.23M",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Jawahar Vyapar Bhawan, Tolstoy Marg, NEW DELHI, 110001, India",
+"phone": "+91-11-23313177",
+"fax": "+91-11-23701191",
+"url": "http:\u002F\u002Fwww.stc.gov.in\u002F",
+"overview" : "The State Trading Corporation of India Limited is a holding company. The Company\u0027s segments include export, import and domestic. Its businesses include agro-commodities, precious metals, mineral and metal ores, coal and coke, fertilizers, counter trade and offset, general imports and ballistic items. It imports various types of mineral ores and concentrates. It is an importer of coal and coke, and has imported approximately 27.15 million metric tons of coal and coke. It has imported over four million tons of Urea. It supplies Technical Grade Urea as an industrial chemical to various industries, such as actual users, as well as Indian trader. It supplies complex fertilizers, sulfur, rock phosphate and phosphoric acid to various fertilizer companies. It imports various types of equipment\u002Finstruments, including medical equipment, police\u002Fsecurity equipment, intelligence\u002Fsurveillance equipment, laboratory equipment\u002Finstruments, tourism equipment, sports equipment and multimedia equipment."
+} ]
+, "management" : [
+{
+"name" : "Khaleel Rahim",
+"age" : "52",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Umesh Sharma",
+"age" : "57",
+"title" : "Director - Finance, Director"
+}
+,
+{
+"name" : "Kamlesh Kumari",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajiv W. Chopra III",
+"age" : "57",
+"title" : "Director - Marketing, Director"
+}
+,
+{
+"name" : "Sanjeev Kumar Sharma",
+"title" : "Director - Personnel, Director"
+}
+,
+{
+"name" : "Arvind Gupta",
+"title" : "Part Time Non-Official Director"
+}
+,
+{
+"name" : "Sunil Kumar",
+"age" : "54",
+"title" : "Director"
+}
+,
+{
+"name" : "K. Rangarajan",
+"title" : "Part Time Non-Official Director"
+}
+,
+{
+"name" : "N. Sundaradevan",
+"title" : "Part Time Non-Official Director"
+}
+,
+{
+"name" : "Sunil Trivedi",
+"title" : "Part Time Non-Official Director"
+}
+]
+,"moreresources" : [
+]
+}]

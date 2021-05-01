@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "532977",
+"exchange" : "BOM",
+"id": "728756",
+"t" : "532977",
+"e" : "BOM",
+"name" : "Bajaj Auto Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532977"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532977"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532977"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.92%",
+"annual" : "16.57%",
+"ttm" : "15.22%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "18.15%",
+"annual" : "17.98%",
+"ttm" : "16.82%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.31%",
+"ttm" : "18.21%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "19.68%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "25.60%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "9,509",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+19.20",
+"l" : "3,007.20",
+"cp" : "0.64",
+"ccol" : "chg",
+"op" : "3,024.00",
+"hi" : "3,043.75",
+"lo" : "3,000.60",
+"vo" : "9,079.00",
+"avvo" : "",
+"hi52" : "3,043.75",
+"lo52" : "3,000.60",
+"mc" : "867.43B",
+"pe" : "22.28",
+"fwpe" : "",
+"beta" : "",
+"eps" : "134.97",
+"dy" : "1.83",
+"ldiv" : "55.00",
+"shares" : "289.37M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "728756",
+"name" : "Bajaj Auto Ltd",
+"t" : "532977",
+"e" : "BOM",
+"l" : "3,007.20",
+"c" : "+19.20",
+"mc" : "867.43B",
+"cp" : "0.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "60272",
+"name" : "Hero Motocorp Ltd",
+"t" : "HEROMOTOCO",
+"e" : "NSE",
+"l" : "3,541.90",
+"c" : "+47.20",
+"mc" : "707.33B",
+"cp" : "1.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12447389",
+"name" : "Shivam Autotech Ltd",
+"t" : "SHIVAMAUTO",
+"e" : "NSE",
+"l" : "80.50",
+"c" : "+1.30",
+"mc" : "7.97B",
+"cp" : "1.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "778537154937652",
+"name" : "Tube Investments of India Ltd",
+"t" : "TIINDIA",
+"e" : "NSE",
+"l" : "260.05",
+"c" : "-3.25",
+"mc" : "48.89B",
+"cp" : "-1.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13748826",
+"name" : "Atlas Cycles (Haryana) Ltd",
+"t" : "ATLASCYCLE",
+"e" : "NSE",
+"l" : "196.80",
+"c" : "+9.35",
+"mc" : "1.27B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15581912",
+"name" : "TVS Motor Company Limited",
+"t" : "TVSMOTOR",
+"e" : "NSE",
+"l" : "684.50",
+"c" : "+16.65",
+"mc" : "325.86B",
+"cp" : "2.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14634662",
+"name" : "Maharashtra Scooters Ltd.",
+"t" : "MAHSCOOTER",
+"e" : "NSE",
+"l" : "2,384.20",
+"c" : "-3.35",
+"mc" : "27.43B",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11778864",
+"name" : "Eicher Motors Ltd",
+"t" : "EICHERMOT",
+"e" : "NSE",
+"l" : "27,210.00",
+"c" : "+485.60",
+"mc" : "740.94B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "677050",
+"name" : "Kinetic Engineering Ltd",
+"t" : "500240",
+"e" : "BOM",
+"l" : "78.50",
+"c" : "-1.65",
+"mc" : "1.30B",
+"cp" : "-2.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6425462",
+"name" : "LML Limited",
+"t" : "LML",
+"e" : "NSE",
+"l" : "8.70",
+"c" : "-0.15",
+"mc" : "709.26M",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16529291",
+"name" : "Bosch Ltd",
+"t" : "BOSCHLTD",
+"e" : "NSE",
+"l" : "19,070.05",
+"c" : "+149.45",
+"mc" : "581.93B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Bajaj Auto Ltd. Complex , Mumbai-Pune Road, Akurdi, PUNE, 411035, India",
+"phone": "+91-20-66107150",
+"fax": "+91-20-27407380",
+"url": "http:\u002F\u002Fwww.bajajauto.com\u002F",
+"overview" : "Bajaj Auto Limited is an India-based manufacturer of motorcycles, three-wheelers and parts. The Company\u0027s business segments include Automotive, Investments and Others. The Company\u0027s vehicles include two-wheelers and commercial vehicles. Its two-wheelers include Bajaj V, Bajaj V Avenger, Avenger Cruise 220, Pulsar RS 200, Pulsar FOS, Pulsar 200 NS, Pulsar 220, Pulsar 180, Pulsar 150, Pulsar 135 LS Discover, New Discover 125, New Discover 150S, New Discover 150F, Platina 100, Platina 100 ES, CT 100, CT 100 Ninja, Ninja 650R and Ninja 300. Its products also include CT 100B, Boxer BM150X, Avenger 220 Cruise, Avenger 220 Street, Avenger 150 Street, Pulsar AS 150 and Maxima-Cargo. The Company\u0027s geographic segments include India and Rest of the world. The Company offers troubleshooting services. The Company\u0027s plants include Waluj plant, Chakan plant and Pantnagar plant. The Company\u0027s subsidiaries include PT. Bajaj Auto Indonesia and Bajaj Auto International Holdings BV."
+} ]
+, "management" : [
+{
+"name" : "Rahul Kumar Bajaj",
+"age" : "79",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Kevin P. D\u0027Sa",
+"title" : "Chief Financial Officer, President - Finance"
+}
+,
+{
+"name" : "R. C. Maheshwari",
+"title" : "President - Commercial Vehicles Business"
+}
+,
+{
+"name" : "Amit Nandi",
+"title" : "President - Probiking"
+}
+,
+{
+"name" : "Ravi Kyran Ramasamy",
+"title" : "President - Human Resources"
+}
+,
+{
+"name" : "Subash Rao",
+"title" : "President - Retail Finance"
+}
+,
+{
+"name" : "S. Ravikumar",
+"title" : "President - Business Development and Assurance"
+}
+,
+{
+"name" : "Rakesh K. Sharma",
+"title" : "President - International Business"
+}
+,
+{
+"name" : "Eric Vas",
+"title" : "President - Motorcycle Business"
+}
+,
+{
+"name" : "Abraham Joseph",
+"title" : "Chief Technology Officer"
+}
+]
+,"moreresources" : [
+]
+}]

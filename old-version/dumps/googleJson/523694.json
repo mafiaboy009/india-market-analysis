@@ -1,0 +1,284 @@
+
+ [
+{
+"symbol" : "523694",
+"exchange" : "BOM",
+"id": "7256990",
+"t" : "523694",
+"e" : "BOM",
+"name" : "Apcotex Industries Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:523694"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:523694"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:523694"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.64%",
+"annual" : "4.89%",
+"ttm" : "6.28%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.38%",
+"annual" : "4.45%",
+"ttm" : "7.44%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.56%",
+"ttm" : "9.97%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.69%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.70%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "419",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.20",
+"l" : "506.00",
+"cp" : "-0.04",
+"ccol" : "chr",
+"op" : "507.00",
+"hi" : "510.75",
+"lo" : "505.75",
+"vo" : "388.00",
+"avvo" : "",
+"hi52" : "562.35",
+"lo52" : "307.00",
+"mc" : "10.46B",
+"pe" : "34.36",
+"fwpe" : "",
+"beta" : "",
+"eps" : "14.73",
+"dy" : "0.89",
+"ldiv" : "4.50",
+"shares" : "20.74M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7256990",
+"name" : "Apcotex Industries Limited",
+"t" : "523694",
+"e" : "BOM",
+"l" : "506.00",
+"c" : "-0.20",
+"mc" : "10.46B",
+"cp" : "-0.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1239328",
+"name" : "Tinna Rubber and Infrastructure Ltd",
+"t" : "530475",
+"e" : "BOM",
+"l" : "66.00",
+"c" : "+1.10",
+"mc" : "564.40M",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "159358",
+"name" : "Synthetics \u0026 Chemicals Ltd",
+"t" : "506660",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "1432072",
+"name" : "Neo Corp International Ltd",
+"t" : "523820",
+"e" : "BOM",
+"l" : "3.01",
+"c" : "0.00",
+"mc" : "114.45M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "728728",
+"name" : "Gloster Ltd",
+"t" : "538595",
+"e" : "BOM",
+"l" : "658.00",
+"c" : "-8.10",
+"mc" : "6.88B",
+"cp" : "-1.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6926324",
+"name" : "Faze Three Ltd",
+"t" : "530079",
+"e" : "BOM",
+"l" : "73.00",
+"c" : "+0.40",
+"mc" : "1.78B",
+"cp" : "0.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "643241767023853",
+"name" : "Bella Casa Fashion \u0026 Retail Ltd",
+"t" : "539399",
+"e" : "BOM",
+"l" : "204.00",
+"c" : "0.00",
+"mc" : "2.04B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12838895",
+"name" : "Hanung Toys and Textiles Limited",
+"t" : "HANUNG",
+"e" : "NSE",
+"l" : "3.40",
+"c" : "-0.05",
+"mc" : "104.80M",
+"cp" : "-1.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13137259",
+"name" : "Time Technoplast Limited",
+"t" : "TIMETECHNO",
+"e" : "NSE",
+"l" : "182.20",
+"c" : "-1.15",
+"mc" : "41.40B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "504981540979747",
+"name" : "Welspun Global Brands Ltd",
+"t" : "WELGLOB",
+"e" : "BOM",
+"l" : "57.00",
+"c" : "",
+"mc" : "597.10M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4513058",
+"name" : "Binayak Tex Processors Ltd",
+"t" : "523054",
+"e" : "BOM",
+"l" : "545.10",
+"c" : "0.00",
+"mc" : "387.73M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Ponneri High Road, Manali, MUMBAI, 400020, India",
+"phone": "+91-22-22838302",
+"fax": "+91-22-22838291",
+"url": "http:\u002F\u002Fwww.apcotex.com\u002F",
+"overview" : "Apcotex Industries Limited is engaged in the business of producing synthetic emulsion polymers. The Company\u0027s product range includes vinyl pyridine latex, carboxylated and non-carboxylated styrene butadiene latexes, acrylic latexes, nitrile latex and synthetic rubber. The Company\u0027s range of latexes is used for Tire cord dipping, paper\u002Fboard coating, carpet backing, construction (concrete modification and water proofing), paints, textile finishing and automotive components. Its high styrene synthetic rubber is used in various applications, such as footwear, automotive components, v-belts, conveyer belts and hoses. Its synthetic latex products for paper include Apcotex PC 200, Apcotex PT 600 and Apcotex PT 750. Its synthetic latex products for construction include Apcotex PC 400, Apcotex TSN100, Apcotex TSN400 and Apcotex TSN543. Its synthetic latex products for textile include Apcotex TX 400, Apcotex TX 500 and Apcotex TX 600. Its manufacturing plants are located at Taloja, Mumbai."
+} ]
+, "management" : [
+{
+"name" : "Anand V. Kumashi",
+"title" : "Compliance Officer, Company Secretary, General Manager - Accounts \u0026 Finance"
+}
+,
+{
+"name" : "Yashodhan Gadgil",
+"title" : "Vice President - Operations, Executive Director"
+}
+,
+{
+"name" : "Abhiraj A. Choksey",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Atul C. Choksey",
+"age" : "63",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Kamlesh Vikamsey",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Amit Champaklal Choksey",
+"age" : "58",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Girish C. Choksey",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Priyamvada Bhumkar",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

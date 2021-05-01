@@ -1,0 +1,393 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 21831403520,
+            "fmt": "21.83B",
+            "longFmt": "21,831,403,520"
+          },
+          "forwardPE": {
+            "raw": 22.09207,
+            "fmt": "22.09"
+          },
+          "profitMargins": {
+            "raw": 0.17491,
+            "fmt": "17.49%"
+          },
+          "floatShares": {
+            "raw": 4591001,
+            "fmt": "4.59M",
+            "longFmt": "4,591,001"
+          },
+          "sharesOutstanding": {
+            "raw": 16447500,
+            "fmt": "16.45M",
+            "longFmt": "16,447,500"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.408503,
+            "fmt": "1.41"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 141.752,
+            "fmt": "141.75"
+          },
+          "priceToBook": {
+            "raw": 6.8387046,
+            "fmt": "6.84"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 1.438,
+            "fmt": "143.80%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 432816992,
+            "fmt": "432.82M",
+            "longFmt": "432,816,992"
+          },
+          "trailingEps": {
+            "raw": 30.762,
+            "fmt": "30.76"
+          },
+          "forwardEps": {
+            "raw": 43.88,
+            "fmt": "43.88"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "11/10",
+          "lastSplitDate": {
+            "raw": 1497225600,
+            "fmt": "2017-06-12"
+          },
+          "enterpriseToRevenue": {
+            "raw": 8.823,
+            "fmt": "8.82"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 8.11,
+                  "fmt": "8.11"
+                },
+                "estimate": {
+                  "raw": 5.54,
+                  "fmt": "5.54"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 4.44,
+                  "fmt": "4.44"
+                },
+                "estimate": {
+                  "raw": 8.47,
+                  "fmt": "8.47"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 7.56,
+                  "fmt": "7.56"
+                },
+                "estimate": {
+                  "raw": 7.21,
+                  "fmt": "7.21"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 981467000,
+                  "fmt": "981.47M",
+                  "longFmt": "981,467,000"
+                },
+                "earnings": {
+                  "raw": 222056000,
+                  "fmt": "222.06M",
+                  "longFmt": "222,056,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1174358000,
+                  "fmt": "1.17B",
+                  "longFmt": "1,174,358,000"
+                },
+                "earnings": {
+                  "raw": 222915000,
+                  "fmt": "222.91M",
+                  "longFmt": "222,915,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 1440269000,
+                  "fmt": "1.44B",
+                  "longFmt": "1,440,269,000"
+                },
+                "earnings": {
+                  "raw": 228534000,
+                  "fmt": "228.53M",
+                  "longFmt": "228,534,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 1848758000,
+                  "fmt": "1.85B",
+                  "longFmt": "1,848,758,000"
+                },
+                "earnings": {
+                  "raw": 300917000,
+                  "fmt": "300.92M",
+                  "longFmt": "300,917,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 589358000,
+                  "fmt": "589.36M",
+                  "longFmt": "589,358,000"
+                },
+                "earnings": {
+                  "raw": 111217000,
+                  "fmt": "111.22M",
+                  "longFmt": "111,217,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 515500000,
+                  "fmt": "515.5M",
+                  "longFmt": "515,500,000"
+                },
+                "earnings": {
+                  "raw": 60900000,
+                  "fmt": "60.9M",
+                  "longFmt": "60,900,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 645100000,
+                  "fmt": "645.1M",
+                  "longFmt": "645,100,000"
+                },
+                "earnings": {
+                  "raw": 103700000,
+                  "fmt": "103.7M",
+                  "longFmt": "103,700,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 730100000,
+                  "fmt": "730.1M",
+                  "longFmt": "730,100,000"
+                },
+                "earnings": {
+                  "raw": 157000000,
+                  "fmt": "157M",
+                  "longFmt": "157,000,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Muthoot Towers",
+          "address2": "3rd Floor M.G. Road",
+          "city": "Kochi",
+          "zip": "682035",
+          "country": "India",
+          "phone": "91 48 4661 9600",
+          "fax": "91 48 4238 1261",
+          "website": "http://www.muthootcap.com",
+          "industry": "Credit Services",
+          "sector": "Financial",
+          "longBusinessSummary": "Muthoot Capital Services Limited, a non-banking financial company, provides fund and non-fund based financial services. The company offers commercial and consumer finance products, such as vehicle loans, gold loans, loans against property, bonds, deposits, and investment products, as well as advisory services. It also disburses loans against property, shares, gold exchange traded funds, small and medium enterprise loans, mortgage loans, leasing and hire purchase loans, and bill discounting. In addition, the company buys loan portfolios from other non-banking financial companies financing the two wheelers/small business/micro finance segment. It serves retail, corporate, and institutional customers through its network of branches in India. Muthoot Capital Services Limited was founded in 1994 and is based in Kochi, India.",
+          "fullTimeEmployees": 2139,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 969.4,
+            "fmt": "969.40"
+          },
+          "targetHighPrice": {
+            "raw": 1051.0,
+            "fmt": "1,051.00"
+          },
+          "targetLowPrice": {
+            "raw": 1051.0,
+            "fmt": "1,051.00"
+          },
+          "targetMeanPrice": {
+            "raw": 1051.0,
+            "fmt": "1,051.00"
+          },
+          "targetMedianPrice": {
+            "raw": 1051.0,
+            "fmt": "1,051.00"
+          },
+          "recommendationMean": {
+            "raw": 1.5,
+            "fmt": "1.50"
+          },
+          "recommendationKey": "strong_buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 184100000,
+            "fmt": "184.1M",
+            "longFmt": "184,100,000"
+          },
+          "totalCashPerShare": {
+            "raw": 12.16,
+            "fmt": "12.16"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 10684099584,
+            "fmt": "10.68B",
+            "longFmt": "10,684,099,584"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 2474458112,
+            "fmt": "2.47B",
+            "longFmt": "2,474,458,112"
+          },
+          "debtToEquity": {
+            "raw": 549.481,
+            "fmt": "549.48"
+          },
+          "revenuePerShare": {
+            "raw": 175.871,
+            "fmt": "175.87"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1322239000,
+            "fmt": "1.32B",
+            "longFmt": "1,322,239,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 1.211,
+            "fmt": "121.10%"
+          },
+          "revenueGrowth": {
+            "raw": 0.686,
+            "fmt": "68.60%"
+          },
+          "grossMargins": {
+            "raw": 0.78722,
+            "fmt": "78.72%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.26791,
+            "fmt": "26.79%"
+          },
+          "profitMargins": {
+            "raw": 0.17491,
+            "fmt": "17.49%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

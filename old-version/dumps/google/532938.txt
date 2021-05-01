@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "532938",
+"exchange" : "BOM",
+"id": "719776",
+"t" : "532938",
+"e" : "BOM",
+"name" : "Capital First Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532938"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532938"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532938"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.83%",
+"annual" : "8.66%",
+"ttm" : "8.90%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.72%",
+"annual" : "11.93%",
+"ttm" : "12.29%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.46%",
+"ttm" : "12.99%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.49%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.98%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,924",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.55",
+"l" : "675.70",
+"cp" : "0.53",
+"ccol" : "chg",
+"op" : "676.50",
+"hi" : "682.50",
+"lo" : "670.95",
+"vo" : "29,424.00",
+"avvo" : "",
+"hi52" : "902.00",
+"lo52" : "627.00",
+"mc" : "66.78B",
+"pe" : "22.96",
+"fwpe" : "",
+"beta" : "",
+"eps" : "29.43",
+"dy" : "0.38",
+"ldiv" : "2.60",
+"shares" : "98.89M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "719776",
+"name" : "Capital First Ltd",
+"t" : "532938",
+"e" : "BOM",
+"l" : "675.70",
+"c" : "+3.55",
+"mc" : "66.78B",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3287224",
+"name" : "Paisalo Digital Ltd",
+"t" : "PAISALO",
+"e" : "NSE",
+"l" : "297.50",
+"c" : "-3.15",
+"mc" : "12.02B",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3631160",
+"name" : "IFCI Limited",
+"t" : "IFCI",
+"e" : "NSE",
+"l" : "23.30",
+"c" : "+0.15",
+"mc" : "38.81B",
+"cp" : "0.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12319603",
+"name" : "Escorts Finance Ltd",
+"t" : "511716",
+"e" : "BOM",
+"l" : "3.75",
+"c" : "-0.19",
+"mc" : "160.73M",
+"cp" : "-4.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6950297",
+"name" : "Sundaram Finance Limited",
+"t" : "SUNDARMFIN",
+"e" : "NSE",
+"l" : "1,725.00",
+"c" : "+30.00",
+"mc" : "191.65B",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "411403",
+"name" : "Hasti Finance Ltd",
+"t" : "531387",
+"e" : "BOM",
+"l" : "6.84",
+"c" : "0.00",
+"mc" : "74.14M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13066246",
+"name" : "Vardhman Holdings Limited",
+"t" : "VHL",
+"e" : "NSE",
+"l" : "4,520.00",
+"c" : "-62.85",
+"mc" : "14.49B",
+"cp" : "-1.37",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3873499",
+"name" : "Paragon Finance Ltd",
+"t" : "531255",
+"e" : "BOM",
+"l" : "24.90",
+"c" : "-2.60",
+"mc" : "105.82M",
+"cp" : "-9.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12179797",
+"name" : "Sigrun Holdings Ltd",
+"t" : "531863",
+"e" : "BOM",
+"l" : "0.19",
+"c" : "0.00",
+"mc" : "103.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3383863",
+"name" : "Silicon Valley Infotech Ltd",
+"t" : "531738",
+"e" : "BOM",
+"l" : "0.03",
+"c" : "0.00",
+"mc" : "3.89M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6743896",
+"name" : "Odyssey Corporation Ltd",
+"t" : "531996",
+"e" : "BOM",
+"l" : "1.99",
+"c" : "-0.10",
+"mc" : "78.39M",
+"cp" : "-4.78",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "15F, Tower-2, Indiabulls Finance Cntr Senapati Bapat Marg, Elphinstone(W), MUMBAI, 400013, India",
+"phone": "+91-22-40423400",
+"fax": "+91-22-40423401",
+"url": "http:\u002F\u002Fwww.capfirst.com\u002F",
+"overview" : "Capital First Limited is an India-based financial company, which is focused on providing debt financing to micro, small and medium enterprises (MSMEs) and Indian consumers. The Company\u0027s products include personal loans, business loans, loan against property, two wheeler loans, pre-owned car loan and insurance. The Company also provides other credit granting services. The Company provides financing for various purposes, such as business expansion, loans for plant and machinery, office furniture, display panels, office automation (such as personal computers), laptops and printers. The Company offers consumer durable loans for digital products, such as cameras and accessories, laptops and desktops, and mobiles and tablets, and non-digital products, such as television, refrigerator, air conditioner, microwave, washing machine and audio. The Company, as a corporate agent, also distributes life insurance products and general insurance products offered by insurance companies."
+} ]
+, "management" : [
+{
+"name" : "V. Vaidyanathan",
+"age" : "47",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Pankaj Sanklecha",
+"title" : "Chief Financial Officer \u0026 Head - Corporate Centre"
+}
+,
+{
+"name" : "Apul Nayyar",
+"title" : "Chief Executive Officer - Consumer \u0026 Wealth Management Business, Executive Director"
+}
+,
+{
+"name" : "Satish Gaikwad",
+"title" : "Head - Legal and Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Nihal M. Desai",
+"title" : "Chief Risk Officer, Executive Director"
+}
+,
+{
+"name" : "Adrian Andrade",
+"title" : "Head - Human Resource and Administration"
+}
+,
+{
+"name" : "Vishal Mahadevia",
+"age" : "42",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Narendra Ostawal",
+"age" : "40",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Brinda Jagirdar",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Dinesh Kanabar",
+"age" : "59",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

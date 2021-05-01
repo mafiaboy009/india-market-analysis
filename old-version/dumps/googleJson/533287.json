@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "533287",
+"exchange" : "BOM",
+"id": "12395663",
+"t" : "533287",
+"e" : "BOM",
+"name" : "Zee Learn Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533287"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533287"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533287"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.79%",
+"annual" : "20.49%",
+"ttm" : "21.46%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "29.06%",
+"annual" : "29.36%",
+"ttm" : "32.09%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "40.10%",
+"ttm" : "36.33%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.05%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.54%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "480",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.05",
+"l" : "41.40",
+"cp" : "0.12",
+"ccol" : "chg",
+"op" : "41.85",
+"hi" : "41.85",
+"lo" : "41.25",
+"vo" : "58,849.00",
+"avvo" : "",
+"hi52" : "51.35",
+"lo52" : "38.35",
+"mc" : "13.46B",
+"pe" : "25.48",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.62",
+"dy" : "0.24",
+"ldiv" : "0.05",
+"shares" : "325.90M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12395663",
+"name" : "Zee Learn Ltd",
+"t" : "533287",
+"e" : "BOM",
+"l" : "41.40",
+"c" : "+0.05",
+"mc" : "13.46B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1080305",
+"name" : "Career Point Ltd",
+"t" : "CAREERP",
+"e" : "NSE",
+"l" : "128.80",
+"c" : "+3.50",
+"mc" : "2.34B",
+"cp" : "2.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "477051433001329",
+"name" : "Shanti Educational Initiatives Ltd",
+"t" : "539921",
+"e" : "BOM",
+"l" : "159.00",
+"c" : "0.00",
+"mc" : "2.56B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4540763",
+"name" : "Aptech Ltd",
+"t" : "APTECHT",
+"e" : "NSE",
+"l" : "324.50",
+"c" : "-0.60",
+"mc" : "12.99B",
+"cp" : "-0.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15510678",
+"name" : "Apollo Hospitals Enterprise Limited",
+"t" : "APOLLOHOSP",
+"e" : "NSE",
+"l" : "1,236.50",
+"c" : "+4.90",
+"mc" : "171.55B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "713980079708144",
+"name" : "MaxAlert Systems Ltd",
+"t" : "534563",
+"e" : "BOM",
+"l" : "4.62",
+"c" : "0.00",
+"mc" : "42.50M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1979135",
+"name" : "B.A.G Films \u0026 Media Ltd.",
+"t" : "BAGFILMS",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "-0.15",
+"mc" : "1.18B",
+"cp" : "-2.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6514116",
+"name" : "Mukta Arts Limited",
+"t" : "MUKTAARTS",
+"e" : "NSE",
+"l" : "76.90",
+"c" : "+0.90",
+"mc" : "1.74B",
+"cp" : "1.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5683713",
+"name" : "Alchemist Ltd.",
+"t" : "ALCHEM",
+"e" : "NSE",
+"l" : "11.65",
+"c" : "-0.10",
+"mc" : "157.97M",
+"cp" : "-0.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13981377",
+"name" : "India Tourism Development Corp Ltd",
+"t" : "532189",
+"e" : "BOM",
+"l" : "430.50",
+"c" : "+11.20",
+"mc" : "36.68B",
+"cp" : "2.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2633479",
+"name" : "Usha Martin Education And Solutions Ltd",
+"t" : "UMESLTD",
+"e" : "NSE",
+"l" : "1.15",
+"c" : "0.00",
+"mc" : "30.38M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Fun Republic 6th Floor, Link Road, Andheri (West), MUMBAI, 400070, India",
+"phone": "+91-22-40343900",
+"fax": "+91-22-26743422",
+"url": "http:\u002F\u002Fwww.zeelearn.com\u002F",
+"overview" : "Zee Learn Limited is a holding company. The Company operates as an education company, which offers education support services. Its segments include Educational, which provides learning solutions and delivers training, and Construction and Leasing, which consists of constructing and leasing of properties for commercial use. It is engaged in the operation of a chain of K-12 schools and pre-schools. It acts as a consultant to local entrepreneurs wishing to setup K-12 schools, under its brand name, Mount Litera Zee Schools, and provides education management and advisory services. Mount Litera Zee School is a chain of schools with over 103 schools in approximately 98 cities. It also runs a chain of pre-schools, Kidzee, with over 1,500 pre-schools in approximately 550 cities. Its offerings also include Zee Institute of Media Arts, which is a television and film training institute, and Zee Institute of Creative Art, which is a classical and digital animation training academy."
+} ]
+, "management" : [
+{
+"name" : "Debshankar Mukhopadhyay",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Umesh Pradhan",
+"title" : "Chief Financial Officer, Manager"
+}
+,
+{
+"name" : "Pradeep Pillai",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Bhautesh Shah",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ajey Kumar",
+"title" : "Additional Executive Director"
+}
+,
+{
+"name" : "Sindu Aven",
+"title" : "Head - Academic Design"
+}
+,
+{
+"name" : "Prabhanjan Chappar",
+"title" : "Business Head - Youth"
+}
+,
+{
+"name" : "Deepa George",
+"title" : "Head - Legal"
+}
+,
+{
+"name" : "Aman Pal Singh",
+"title" : "Head - HR"
+}
+,
+{
+"name" : "Nitya Ramaswami",
+"title" : "Head – Academics \u0026 Child Development"
+}
+]
+,"moreresources" : [
+]
+}]

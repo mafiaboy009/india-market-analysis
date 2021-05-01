@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "533098",
+"exchange" : "BOM",
+"id": "729473",
+"t" : "533098",
+"e" : "BOM",
+"name" : "NHPC Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533098"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533098"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533098"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "29.17%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "44.66%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "60.10%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.49%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.99%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "8,009",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.30",
+"l" : "27.85",
+"cp" : "1.09",
+"ccol" : "chg",
+"op" : "27.80",
+"hi" : "27.90",
+"lo" : "27.50",
+"vo" : "534,631.00",
+"avvo" : "",
+"hi52" : "34.50",
+"lo52" : "26.30",
+"mc" : "285.72B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "4.38",
+"ldiv" : "1.12",
+"shares" : "10.26B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "729473",
+"name" : "NHPC Limited",
+"t" : "533098",
+"e" : "BOM",
+"l" : "27.85",
+"c" : "+0.30",
+"mc" : "285.72B",
+"cp" : "1.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6533881",
+"name" : "SJVN Ltd",
+"t" : "SJVN",
+"e" : "NSE",
+"l" : "35.00",
+"c" : "+0.20",
+"mc" : "144.57B",
+"cp" : "0.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2664266",
+"name" : "Energy Development Company Ltd.",
+"t" : "ENERGYDEV",
+"e" : "NSE",
+"l" : "24.60",
+"c" : "+0.30",
+"mc" : "1.17B",
+"cp" : "1.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7173957",
+"name" : "Entegra Ltd",
+"t" : "ENTEGRA",
+"e" : "NSE",
+"l" : "2.80",
+"c" : "",
+"mc" : "888.03M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13422192",
+"name" : "JSW Energy Ltd",
+"t" : "JSWENERGY",
+"e" : "NSE",
+"l" : "81.50",
+"c" : "-0.50",
+"mc" : "133.75B",
+"cp" : "-0.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16741234",
+"name" : "India Power Corp Ltd",
+"t" : "DPSCLTD",
+"e" : "NSE",
+"l" : "30.35",
+"c" : "+0.40",
+"mc" : "128.50M",
+"cp" : "1.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5301348",
+"name" : "Tata Power Company Limited",
+"t" : "TATAPOWER",
+"e" : "NSE",
+"l" : "85.90",
+"c" : "+0.15",
+"mc" : "232.48B",
+"cp" : "0.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2289156",
+"name" : "Jaiprakash Power Ventures Limited",
+"t" : "JPPOWER",
+"e" : "NSE",
+"l" : "6.20",
+"c" : "-0.10",
+"mc" : "36.59B",
+"cp" : "-1.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5277021",
+"name" : "Reliance Power Ltd",
+"t" : "RPOWER",
+"e" : "NSE",
+"l" : "45.60",
+"c" : "+1.25",
+"mc" : "127.91B",
+"cp" : "2.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1973939",
+"name" : "PTC India Ltd",
+"t" : "PTC",
+"e" : "NSE",
+"l" : "102.60",
+"c" : "+2.50",
+"mc" : "30.36B",
+"cp" : "2.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10937967",
+"name" : "Urja Global Ltd",
+"t" : "526987",
+"e" : "BOM",
+"l" : "6.33",
+"c" : "-0.33",
+"mc" : "3.21B",
+"cp" : "-4.95",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "NHPC Office Complex, Sector-33, FARIDABAD, 121003, India",
+"phone": "+91-129-2278421",
+"fax": "+91-129-2277941",
+"url": "http:\u002F\u002Fwww.nhpcindia.com",
+"overview" : "NHPC Limited is engaged in electricity generation. The Company is engaged in electric power generation by hydroelectric power plants. The Company is also engaged in contracts, project management and consultancy works. Its power stations include Bairasiul, Salal, Chamera-I, Tanakpur, Dhauliganga, Rangit and Loktak. Its focuses on Teesta Low Dam-IV Hydroelectric Project (160 megawatt), West Bengal\u003B Kishanganga Hydroelectric Project (330 megawatt), Jammu and Kashmir\u003B Parbati- II Hydroelectric Project (800 megawatt), Himachal Pradesh, and Subansiri Lower Hydroelectric Project (2,000 megawatt), Assam\u002FArunachal Pradesh. It provides consultancy services in various fields of hydropower, including river basin studies, survey works, design and engineering, geological studies, geotechnical studies, hydraulic transient studies, hydrological studies, contract management, construction management, equipment planning, underground construction, testing, commissioning, and operation and maintenance."
+} ]
+, "management" : [
+{
+"name" : "Balraj Joshi",
+"age" : "57",
+"title" : "Director - Technical, Managing Director, Chairman of the Board"
+}
+,
+{
+"name" : "Mahesh Kumar Mittal",
+"age" : "56",
+"title" : "Chief Financial Officer, Director"
+}
+,
+{
+"name" : "Vijay Gupta",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Nikhil Kumar Jain",
+"title" : "Director - Personnel, Director"
+}
+,
+{
+"name" : "Archana Agarwal",
+"title" : "Part Time Government Director"
+}
+,
+{
+"name" : "K. N. Garg",
+"age" : "59",
+"title" : "Part Time Government Director"
+}
+,
+{
+"name" : "Nalini Kant Jha",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Ratish Kumar",
+"age" : "56",
+"title" : "Director"
+}
+,
+{
+"name" : "Jugal Kishore Mohapatra",
+"title" : "Additional Director"
+}
+]
+,"moreresources" : [
+]
+}]

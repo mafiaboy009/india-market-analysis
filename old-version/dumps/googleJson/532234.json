@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "532234",
+"exchange" : "BOM",
+"id": "9870196",
+"t" : "532234",
+"e" : "BOM",
+"name" : "National Aluminium Company Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532234"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532234"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532234"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "11.35%",
+"annual" : "8.29%",
+"ttm" : "10.83%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.22%",
+"annual" : "6.95%",
+"ttm" : "8.07%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.41%",
+"ttm" : "13.20%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.28%",
+"ttm" : "4.78%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "5.71%",
+"ttm" : "6.03%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "6,938",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.10",
+"l" : "68.00",
+"cp" : "0.15",
+"ccol" : "chg",
+"op" : "68.90",
+"hi" : "69.65",
+"lo" : "67.00",
+"vo" : "1.52M",
+"avvo" : "",
+"hi52" : "97.65",
+"lo52" : "61.30",
+"mc" : "131.73B",
+"pe" : "22.25",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.06",
+"dy" : "11.03",
+"ldiv" : "4.70",
+"shares" : "1.93B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9870196",
+"name" : "National Aluminium Company Limited",
+"t" : "532234",
+"e" : "BOM",
+"l" : "68.00",
+"c" : "+0.10",
+"mc" : "131.73B",
+"cp" : "0.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "501510337913593",
+"name" : "Bothra Metals and Alloys Ltd",
+"t" : "535279",
+"e" : "BOM",
+"l" : "12.65",
+"c" : "0.00",
+"mc" : "234.24M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6153279",
+"name" : "Hindalco Industries Ltd",
+"t" : "HINDALCO",
+"e" : "NSE",
+"l" : "246.00",
+"c" : "-0.55",
+"mc" : "553.38B",
+"cp" : "-0.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1414659",
+"name" : "Carborundum Universal Ltd",
+"t" : "CARBORUNIV",
+"e" : "NSE",
+"l" : "358.35",
+"c" : "+1.45",
+"mc" : "67.68B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12078639",
+"name" : "Gujarat Mineral Development Corporation",
+"t" : "GMDCLTD",
+"e" : "NSE",
+"l" : "140.50",
+"c" : "-0.85",
+"mc" : "44.74B",
+"cp" : "-0.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1694733",
+"name" : "Vedanta Ltd",
+"t" : "VEDL",
+"e" : "NSE",
+"l" : "342.00",
+"c" : "+4.10",
+"mc" : "1.27T",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715478",
+"name" : "Ferro Alloys Corporation Ltd (Parent)",
+"t" : "500141",
+"e" : "BOM",
+"l" : "9.72",
+"c" : "-0.23",
+"mc" : "1.83B",
+"cp" : "-2.31",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7654474",
+"name" : "Apar Industries Ltd",
+"t" : "APARINDS",
+"e" : "NSE",
+"l" : "790.70",
+"c" : "+10.05",
+"mc" : "30.13B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1226396",
+"name" : "Enkei Wheels India Ltd",
+"t" : "533477",
+"e" : "BOM",
+"l" : "390.00",
+"c" : "+8.65",
+"mc" : "6.03B",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7609072",
+"name" : "D \u0026 H India Ltd",
+"t" : "517514",
+"e" : "BOM",
+"l" : "25.80",
+"c" : "-0.70",
+"mc" : "190.92M",
+"cp" : "-2.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2232895",
+"name" : "Hind Aluminium Industries Ltd.",
+"t" : "531979",
+"e" : "BOM",
+"l" : "127.95",
+"c" : "+1.05",
+"mc" : "802.32M",
+"cp" : "0.83",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Nalco Bhavan, P\u002F1, Nayapalli, BHUBANESWAR, 751013, India",
+"phone": "+91-674-2301988",
+"fax": "+91-674-2300521",
+"url": "http:\u002F\u002Fwww.nalcoindia.com\u002F",
+"overview" : "National Aluminium Company Limited is engaged in the production of alumina, aluminum and power. The Company operates in three segments: Chemicals, Aluminium and Unallocated Common. Chemicals include calcined alumina, alumina hydrate and other related products. Aluminium includes aluminum ingots, wire rods, billets, strips, rolled and other related products. Bauxite produced for captive consumption for production of alumina is included under the Chemicals segment and power generated for captive consumption for production of aluminum is included under the Aluminium segment. Wind power plant commissioned primarily to harness the renewable energy sources is included in the Unallocated Common segment. Its geographic segments include India and Outside India. It is engaged in various sectors, such as bauxite mines, alumina refinery, aluminum smelter and electricity generation. It caters to Bangladesh, Korea, Malaysia, Vietnam, Turkey, Thailand, Indonesia and Singapore, among others."
+} ]
+, "management" : [
+{
+"name" : "Tapan Kumar Chand",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "N. K. Mohanty",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "K. C. Samal",
+"age" : "56",
+"title" : "Finance Director, Whole time Director"
+}
+,
+{
+"name" : "S. S. Mahapatra",
+"age" : "59",
+"title" : "Director - Production, Whole time Director"
+}
+,
+{
+"name" : "Basant Kumar Thakur",
+"title" : "Executive Director - (HR)"
+}
+,
+{
+"name" : "V. Balasubramaniam",
+"title" : "Executive Director - production"
+}
+,
+{
+"name" : "S. K. Dash",
+"title" : "Executive Director - P\u0026T"
+}
+,
+{
+"name" : "R. K. Mishra",
+"title" : "Executive Director - M\u0026R"
+}
+,
+{
+"name" : "P. K. Mohanty",
+"title" : "Chief Vigilance Officer"
+}
+,
+{
+"name" : "Sanjib K. Roy",
+"title" : "Executive Director - S\u0026P"
+}
+]
+,"moreresources" : [
+]
+}]

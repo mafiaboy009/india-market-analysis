@@ -1,0 +1,275 @@
+
+// [
+{
+"symbol" : "533303",
+"exchange" : "BOM",
+"id": "9546178",
+"t" : "533303",
+"e" : "BOM",
+"name" : "BF Investment Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533303"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533303"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533303"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.66%",
+"annual" : "4.26%",
+"ttm" : "4.58%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.01%",
+"annual" : "5.52%",
+"ttm" : "5.03%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.01%",
+"ttm" : "6.78%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.46%",
+"ttm" : "4.60%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.63%",
+"ttm" : "15.72%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.30",
+"l" : "332.40",
+"cp" : "1.00",
+"ccol" : "chg",
+"op" : "329.70",
+"hi" : "341.80",
+"lo" : "326.50",
+"vo" : "52,857.00",
+"avvo" : "",
+"hi52" : "430.85",
+"lo52" : "146.75",
+"mc" : "12.56B",
+"pe" : "9.47",
+"fwpe" : "",
+"beta" : "",
+"eps" : "35.10",
+"dy" : "",
+"ldiv" : "",
+"shares" : "37.67M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9546178",
+"name" : "BF Investment Ltd",
+"t" : "533303",
+"e" : "BOM",
+"l" : "332.40",
+"c" : "+3.30",
+"mc" : "12.56B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16595355",
+"name" : "Kalyani Investment Co Ltd",
+"t" : "KICL",
+"e" : "NSE",
+"l" : "2,398.00",
+"c" : "+51.85",
+"mc" : "10.45B",
+"cp" : "2.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "650780664270002",
+"name" : "Vibrant Global Capital Ltd",
+"t" : "538732",
+"e" : "BOM",
+"l" : "68.25",
+"c" : "-0.70",
+"mc" : "1.56B",
+"cp" : "-1.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "607679393625766",
+"name" : "Reliance Nippon Life Ast Mgmt Ltd",
+"t" : "RNAM",
+"e" : "NSE",
+"l" : "277.40",
+"c" : "+3.90",
+"mc" : "168.84B",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "259728309896975",
+"name" : "Escorp Asset Management Ltd",
+"t" : "540455",
+"e" : "BOM",
+"l" : "15.50",
+"c" : "+0.05",
+"mc" : "",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "374785",
+"name" : "Reliance Capital Limited",
+"t" : "RELCAPITAL",
+"e" : "NSE",
+"l" : "484.60",
+"c" : "+14.80",
+"mc" : "122.24B",
+"cp" : "3.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "391939974702447",
+"name" : "Sagar Productions Ltd",
+"t" : "532092",
+"e" : "BOM",
+"l" : "13.73",
+"c" : "0.00",
+"mc" : "551.15M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10935294",
+"name" : "Nagreeka Capital and Infrastructure Ltd",
+"t" : "NAGREEKCAP",
+"e" : "NSE",
+"l" : "43.15",
+"c" : "-1.90",
+"mc" : "544.35M",
+"cp" : "-4.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9747640",
+"name" : "Tata Investment Corporation Limited",
+"t" : "TATAINVEST",
+"e" : "NSE",
+"l" : "807.00",
+"c" : "-4.00",
+"mc" : "44.52B",
+"cp" : "-0.49",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4291565",
+"name" : "IL \u0026 FS Investment Managers Ltd",
+"t" : "IVC",
+"e" : "NSE",
+"l" : "21.50",
+"c" : "+0.20",
+"mc" : "6.77B",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10268223",
+"name" : "Sanblue Corporation Ltd",
+"t" : "521222",
+"e" : "BOM",
+"l" : "3.88",
+"c" : "+0.18",
+"mc" : "19.40M",
+"cp" : "4.86",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Mundhwa,Pune Cantonment, PUNE, 411036, India",
+"phone": "+91-20-26822552",
+"fax": "+91-20-26823061",
+"url": "http:\u002F\u002Fwww.bfilpune.com\u002F",
+"overview" : "BF Investment Limited is an India-based non-deposit taking core investment company. The Company is engaged in the business of loans and investments. The Company\u0027s segments include Core Investment Company and Automotive Components. The Company is a part of Kalyani Group, and holds investments in various Kalyani Group companies."
+} ]
+, "management" : [
+{
+"name" : "J. G. Patwardhan",
+"title" : "Chief Executive Officer, Chief Financial Officer"
+}
+,
+{
+"name" : "S. R. Kshirsagar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Amit B. Kalyani",
+"age" : "41",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Aarti A. Sathe",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Bhalachandra B. Hattarki",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Madan U. Takale",
+"age" : "54",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

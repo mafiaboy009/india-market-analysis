@@ -1,0 +1,277 @@
+
+// [
+{
+"symbol" : "511609",
+"exchange" : "BOM",
+"id": "10248917",
+"t" : "511609",
+"e" : "BOM",
+"name" : "ISL Consulting Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ISLC.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:511609"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:511609"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:511609"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "12.34%",
+"annual" : "0.61%",
+"ttm" : "2.55%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.58%",
+"annual" : "0.15%",
+"ttm" : "2.16%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.16%",
+"ttm" : "2.17%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.36%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.41%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "7",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.10",
+"l" : "18.65",
+"cp" : "-0.53",
+"ccol" : "chr",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "35.30",
+"lo52" : "17.55",
+"mc" : "225.00M",
+"pe" : "14.49",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.29",
+"dy" : "",
+"ldiv" : "",
+"shares" : "12.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10248917",
+"name" : "ISL Consulting Ltd",
+"t" : "511609",
+"e" : "BOM",
+"l" : "18.65",
+"c" : "-0.10",
+"mc" : "225.00M",
+"cp" : "-0.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1953938",
+"name" : "Regal Entertainement And Consultants Ltd",
+"t" : "531033",
+"e" : "BOM",
+"l" : "10.00",
+"c" : "0.00",
+"mc" : "30.72M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12212316",
+"name" : "Frontline Securities Ltd",
+"t" : "533213",
+"e" : "BOM",
+"l" : "70.00",
+"c" : "0.00",
+"mc" : "503.07M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "854537494744679",
+"name" : "Dhyana Finstock Ltd",
+"t" : "538450",
+"e" : "BOM",
+"l" : "135.30",
+"c" : "0.00",
+"mc" : "1.29B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "49148414999920",
+"name" : "SSPN Finance Ltd",
+"t" : "539026",
+"e" : "BOM",
+"l" : "18.50",
+"c" : "0.00",
+"mc" : "35.02M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "784496100542996",
+"name" : "GCM Capital Advisors Ltd",
+"t" : "538319",
+"e" : "BOM",
+"l" : "2.85",
+"c" : "0.00",
+"mc" : "48.28M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "732939170971794",
+"name" : "Sangam Advisors Ltd",
+"t" : "534618",
+"e" : "BOM",
+"l" : "37.80",
+"c" : "+1.80",
+"mc" : "378.56M",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9108146",
+"name" : "Blue Circle Services Ltd",
+"t" : "508939",
+"e" : "BOM",
+"l" : "35.85",
+"c" : "-0.70",
+"mc" : "729.44M",
+"cp" : "-1.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16692881",
+"name" : "First Financial Services Ltd",
+"t" : "511369",
+"e" : "BOM",
+"l" : "21.40",
+"c" : "0.00",
+"mc" : "1.68B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8102859",
+"name" : "IndiaCo Ventures Ltd",
+"t" : "506131",
+"e" : "BOM",
+"l" : "6.77",
+"c" : "0.00",
+"mc" : "125.49M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11062339",
+"name" : "Comfort Intech Ltd",
+"t" : "531216",
+"e" : "BOM",
+"l" : "1.28",
+"c" : "+0.02",
+"mc" : "406.30M",
+"cp" : "1.59",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "No.3, Moorthy Lane,|1st Flr.,, AHMEDABAD, 380009, India",
+"phone": "+91-79-40030351",
+"fax": "+91-79-30077352",
+"url": "http:\u002F\u002Fwww.islconsulting.in\u002F",
+"overview" : "ISL Consulting Limited is an India-based company engaged in shares trading and commodity broking. The Company\u0027s products include Bullion, such as gold, gold M, i-gold, silver and silver M\u003B oil and oil seeds, such as castor oil, coconut oil, cotton seed, crude palm oil, groundnut oil, refined sunflower oil, rice bran refined oil, soymeal, soy bean and soy seeds\u003B spices, such as cardamom, jeera, pepper and red chilli\u003B metals, such as copper, lead, nickel and sponge iron, and fiber, such as cotton L staple, cotton M staple, kapas and raw jute. Its products also include pulses, such as chana, masur and yellow peas\u003B cereals, such as energy, brent crude oil, crude oil and furnace oil\u003B energy, such as plantations, arecanut and rubber\u003B plantations, such as coffee (robusta) and rubber\u003B petrochemicals, such as high-density polyethylene (HDPE) and polypropylene (PP)\u003B weather, such as carbon credit, and others, such as guargum, guar seed, gurchaku, nickel, mentha oil, sugar M-30 and steel flat."
+} ]
+, "management" : [
+{
+"name" : "Ankit J. Shah",
+"title" : "Chief Financial Officer, Additional Director"
+}
+,
+{
+"name" : "Bhanupriya Katta",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Hitesh C. Kothari",
+"title" : "Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Chhaganlal K. Kothari",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Reema C. Kothari",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Bhavesh Premji Mamnia",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Hasmukh M. Thakker",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

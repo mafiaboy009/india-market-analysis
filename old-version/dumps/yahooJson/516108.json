@@ -1,0 +1,356 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 2178499840,
+            "fmt": "2.18B",
+            "longFmt": "2,178,499,840"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.00084,
+            "fmt": "0.08%"
+          },
+          "floatShares": {
+            "raw": 4928853,
+            "fmt": "4.93M",
+            "longFmt": "4,928,853"
+          },
+          "sharesOutstanding": {
+            "raw": 15000000,
+            "fmt": "15M",
+            "longFmt": "15,000,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.619575,
+            "fmt": "0.62"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 87.214,
+            "fmt": "87.21"
+          },
+          "priceToBook": {
+            "raw": 1.2721581,
+            "fmt": "1.27"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.173,
+            "fmt": "17.30%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1027851,
+            "fmt": "1.03M",
+            "longFmt": "1,027,851"
+          },
+          "trailingEps": {
+            "raw": 0.069,
+            "fmt": "0.07"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1283731200,
+            "fmt": "2010-09-06"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.782,
+            "fmt": "1.78"
+          },
+          "enterpriseToEbitda": {
+            "raw": 16.909,
+            "fmt": "16.91"
+          },
+          "52WeekChange": {
+            "raw": 0.08313084,
+            "fmt": "8.31%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 1.58,
+                  "fmt": "1.58"
+                },
+                "estimate": {
+                  "raw": 2.7,
+                  "fmt": "2.70"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "2Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 1435337817,
+                  "fmt": "1.44B",
+                  "longFmt": "1,435,337,817"
+                },
+                "earnings": {
+                  "raw": 38895028,
+                  "fmt": "38.9M",
+                  "longFmt": "38,895,028"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1855355679,
+                  "fmt": "1.86B",
+                  "longFmt": "1,855,355,679"
+                },
+                "earnings": {
+                  "raw": 135305712,
+                  "fmt": "135.31M",
+                  "longFmt": "135,305,712"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 2067375259,
+                  "fmt": "2.07B",
+                  "longFmt": "2,067,375,259"
+                },
+                "earnings": {
+                  "raw": 240898685,
+                  "fmt": "240.9M",
+                  "longFmt": "240,898,685"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 1952714273,
+                  "fmt": "1.95B",
+                  "longFmt": "1,952,714,273"
+                },
+                "earnings": {
+                  "raw": 126139851,
+                  "fmt": "126.14M",
+                  "longFmt": "126,139,851"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 436895273,
+                  "fmt": "436.9M",
+                  "longFmt": "436,895,273"
+                },
+                "earnings": {
+                  "raw": 23635851,
+                  "fmt": "23.64M",
+                  "longFmt": "23,635,851"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 822000,
+                  "fmt": "822k",
+                  "longFmt": "822,000"
+                },
+                "earnings": {
+                  "raw": -45405000,
+                  "fmt": "-45.41M",
+                  "longFmt": "-45,405,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 266028000,
+                  "fmt": "266.03M",
+                  "longFmt": "266,028,000"
+                },
+                "earnings": {
+                  "raw": -10845000,
+                  "fmt": "-10.85M",
+                  "longFmt": "-10,845,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 518893000,
+                  "fmt": "518.89M",
+                  "longFmt": "518,893,000"
+                },
+                "earnings": {
+                  "raw": 33642000,
+                  "fmt": "33.64M",
+                  "longFmt": "33,642,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "#1205/1206, Prestige Meridian 2nd",
+          "address2": "M.G. Road",
+          "city": "Bengaluru",
+          "zip": "560001",
+          "country": "India",
+          "phone": "91 80 4112 3605",
+          "fax": "91 80 4151 2508",
+          "website": "http://www.sipaper.com",
+          "industry": "Paper & Paper Products",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "The South India Paper Mills Limited manufactures and sells paper and paper products in India. The company operates through Paper & Paper Products, and Power segments. It offers corrugating case raw materials, including kraft liner substitutes, test liners, white kraft liners, fluting grades, high performance fluting and test liners, and special application grades for packaging. The company also provides corrugated papers and paperboards; and containers of papers and paper boards, as well as plain brown boxes, glued or stapled closures, and boxes and shelf ready packaging products. In addition, it generates and supplies power to the state grid. The company was incorporated in 1959 and is based in Bengaluru, India.",
+          "fullTimeEmployees": 374,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 110.95,
+            "fmt": "110.95"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 21438000,
+            "fmt": "21.44M",
+            "longFmt": "21,438,000"
+          },
+          "totalCashPerShare": {
+            "raw": 1.427,
+            "fmt": "1.43"
+          },
+          "ebitda": {
+            "raw": 128836584,
+            "fmt": "128.84M",
+            "longFmt": "128,836,584"
+          },
+          "totalDebt": {
+            "raw": 420216000,
+            "fmt": "420.22M",
+            "longFmt": "420,216,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1222638336,
+            "fmt": "1.22B",
+            "longFmt": "1,222,638,336"
+          },
+          "debtToEquity": {
+            "raw": 31.988,
+            "fmt": "31.99"
+          },
+          "revenuePerShare": {
+            "raw": 81.655,
+            "fmt": "81.65"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1033077510,
+            "fmt": "1.03B",
+            "longFmt": "1,033,077,510"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.173,
+            "fmt": "17.30%"
+          },
+          "revenueGrowth": {
+            "raw": 0.011,
+            "fmt": "1.10%"
+          },
+          "grossMargins": {
+            "raw": 0.52072,
+            "fmt": "52.07%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.10537,
+            "fmt": "10.54%"
+          },
+          "operatingMargins": {
+            "raw": 0.01845,
+            "fmt": "1.84%"
+          },
+          "profitMargins": {
+            "raw": 0.00084,
+            "fmt": "0.08%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

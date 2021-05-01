@@ -1,0 +1,361 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 4312265216,
+            "fmt": "4.31B",
+            "longFmt": "4,312,265,216"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.05019,
+            "fmt": "5.02%"
+          },
+          "floatShares": {
+            "raw": 5668711,
+            "fmt": "5.67M",
+            "longFmt": "5,668,711"
+          },
+          "sharesOutstanding": {
+            "raw": 55020000,
+            "fmt": "55.02M",
+            "longFmt": "55,020,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.130758,
+            "fmt": "0.13"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 10.057,
+            "fmt": "10.06"
+          },
+          "priceToBook": {
+            "raw": 4.3551755,
+            "fmt": "4.36"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1364688000,
+            "fmt": "2013-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.714,
+            "fmt": "-71.40%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 148035008,
+            "fmt": "148.04M",
+            "longFmt": "148,035,008"
+          },
+          "trailingEps": {
+            "raw": 2.69,
+            "fmt": "2.69"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1444262400,
+            "fmt": "2015-10-08"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.462,
+            "fmt": "1.46"
+          },
+          "enterpriseToEbitda": {
+            "raw": 15.174,
+            "fmt": "15.17"
+          },
+          "52WeekChange": {
+            "raw": -0.3181818,
+            "fmt": "-31.82%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 2439080000,
+                  "fmt": "2.44B",
+                  "longFmt": "2,439,080,000"
+                },
+                "earnings": {
+                  "raw": 33114000,
+                  "fmt": "33.11M",
+                  "longFmt": "33,114,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 3018216000,
+                  "fmt": "3.02B",
+                  "longFmt": "3,018,216,000"
+                },
+                "earnings": {
+                  "raw": 62789000,
+                  "fmt": "62.79M",
+                  "longFmt": "62,789,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 2622026000,
+                  "fmt": "2.62B",
+                  "longFmt": "2,622,026,000"
+                },
+                "earnings": {
+                  "raw": 90453000,
+                  "fmt": "90.45M",
+                  "longFmt": "90,453,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 2949462000,
+                  "fmt": "2.95B",
+                  "longFmt": "2,949,462,000"
+                },
+                "earnings": {
+                  "raw": 148035000,
+                  "fmt": "148.03M",
+                  "longFmt": "148,035,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2012",
+                "revenue": {
+                  "raw": 520916000,
+                  "fmt": "520.92M",
+                  "longFmt": "520,916,000"
+                },
+                "earnings": {
+                  "raw": 7465000,
+                  "fmt": "7.46M",
+                  "longFmt": "7,465,000"
+                }
+              },
+              {
+                "date": "3Q2012",
+                "revenue": {
+                  "raw": 486685000,
+                  "fmt": "486.69M",
+                  "longFmt": "486,685,000"
+                },
+                "earnings": {
+                  "raw": 3622000,
+                  "fmt": "3.62M",
+                  "longFmt": "3,622,000"
+                }
+              },
+              {
+                "date": "4Q2012",
+                "revenue": {
+                  "raw": 456620000,
+                  "fmt": "456.62M",
+                  "longFmt": "456,620,000"
+                },
+                "earnings": {
+                  "raw": -1640000,
+                  "fmt": "-1.64M",
+                  "longFmt": "-1,640,000"
+                }
+              },
+              {
+                "date": "1Q2013",
+                "revenue": {
+                  "raw": 459622000,
+                  "fmt": "459.62M",
+                  "longFmt": "459,622,000"
+                },
+                "earnings": {
+                  "raw": 3140000,
+                  "fmt": "3.14M",
+                  "longFmt": "3,140,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "'D' Building",
+          "address2": "6th Floor Shivsagar Estate Dr. Annie Besant Road, Worli",
+          "city": "Mumbai",
+          "zip": "400018",
+          "country": "India",
+          "phone": "91 22 2493 5282",
+          "fax": "91 22 2493 8162",
+          "website": "http://www.amines.com",
+          "industry": "Chemicals - Major Diversified",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Amines & Plasticizers Limited produces and sells various organic chemicals/amines/solvents/fertilizers in India. The company offers alkyl alkanol amines, such as methyl monoethanolamine and diethanolamine, di-methyl and di-ethyl ethanolamine, ethyl monoethanolamine and diethanolamine, mono-n-propyl monoethanolamine and diethanolamine, mono-n-butyl ethanolamine and diethanolamine, di-butyl ethanolamine, poly ethanolamine, and tertiary butyl monoethanolamine and diethanolamine; and alkanolamines, including trisopropanolamine, monoethanolamine, diethanolamine, and triethanolamine. It also provides morpholine, n-methyl morpholine, n-methyl morpholine oxide, n-ethyl morpholine, n-formyl morpholine, hydroxy ethyl morpholine, n-acetyl morpholine, and n-butyl morpholine; 2-phenoxy ethanol, 1-piperidine ethanol, diethanol isopropanolamine, n-2 hydroxy ethyl pyrrolidine, and n-benzyl ethanolamine; and polypropylene and polyethylene glycol, amine poluols, glycerol polyol, polyethylene glycol adipates, sorbitol mixture ethoxylates, and alcohol ethoxylates. In addition, the company manufactures phthalates, sebacates, trimellitates, acetates, maleates, etc., as well as esters/plasticizers. Further, it provides consultancy services for setting up plants for the manufacture of the ethanolamines and plasticizers; and gas treating technologies/services. The company's products are used paints, coatings, printing inks, polyurethanes, meta working fluids, corrosion inhibitors, agro chemicals, mold releasing agents, photographic chemicals, acid gas treating solvents, and molecular sieves, as well as in pharmaceutical, textile, cement, rubber, and cosmetic industries. It also exports its products to approximately 50 countries, including the United States, Canada, Germany, New Zealand, South Korea, South East Asia, Japan, Australia, the Middle East, etc. Amines & Plasticizer Limited was incorporated in 1973 and is headquartered in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 43.8,
+            "fmt": "43.80"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 21284000,
+            "fmt": "21.28M",
+            "longFmt": "21,284,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.387,
+            "fmt": "0.39"
+          },
+          "ebitda": {
+            "raw": 284191008,
+            "fmt": "284.19M",
+            "longFmt": "284,191,008"
+          },
+          "totalDebt": {
+            "raw": 556425984,
+            "fmt": "556.43M",
+            "longFmt": "556,425,984"
+          },
+          "quickRatio": {
+            "raw": 0.715,
+            "fmt": "0.71"
+          },
+          "currentRatio": {
+            "raw": 1.354,
+            "fmt": "1.35"
+          },
+          "totalRevenue": {
+            "raw": 2949462016,
+            "fmt": "2.95B",
+            "longFmt": "2,949,462,016"
+          },
+          "debtToEquity": {
+            "raw": 217.023,
+            "fmt": "217.02"
+          },
+          "revenuePerShare": {
+            "raw": 53.607,
+            "fmt": "53.61"
+          },
+          "returnOnAssets": {
+            "raw": 0.10864,
+            "fmt": "10.86%"
+          },
+          "returnOnEquity": {
+            "raw": 0.30543,
+            "fmt": "30.54%"
+          },
+          "grossProfits": {
+            "raw": 790730000,
+            "fmt": "790.73M",
+            "longFmt": "790,730,000"
+          },
+          "freeCashflow": {
+            "raw": 6308125,
+            "fmt": "6.31M",
+            "longFmt": "6,308,125"
+          },
+          "operatingCashflow": {
+            "raw": 110688000,
+            "fmt": "110.69M",
+            "longFmt": "110,688,000"
+          },
+          "earningsGrowth": {
+            "raw": -0.713,
+            "fmt": "-71.30%"
+          },
+          "revenueGrowth": {
+            "raw": -0.107,
+            "fmt": "-10.70%"
+          },
+          "grossMargins": {
+            "raw": 0.26809,
+            "fmt": "26.81%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.09635,
+            "fmt": "9.63%"
+          },
+          "operatingMargins": {
+            "raw": 0.0887,
+            "fmt": "8.87%"
+          },
+          "profitMargins": {
+            "raw": 0.05019,
+            "fmt": "5.02%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

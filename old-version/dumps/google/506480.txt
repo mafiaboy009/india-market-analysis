@@ -1,0 +1,293 @@
+
+// [
+{
+"symbol" : "506480",
+"exchange" : "BOM",
+"id": "703855",
+"t" : "506480",
+"e" : "BOM",
+"name" : "GOCL Corp Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:506480"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:506480"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:506480"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.17%",
+"annual" : "6.64%",
+"ttm" : "7.25%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.31%",
+"annual" : "5.78%",
+"ttm" : "5.35%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.17%",
+"ttm" : "5.89%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.62%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.68%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "288",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.20",
+"l" : "559.40",
+"cp" : "0.39",
+"ccol" : "chg",
+"op" : "563.10",
+"hi" : "580.00",
+"lo" : "556.50",
+"vo" : "13,609.00",
+"avvo" : "",
+"hi52" : "700.00",
+"lo52" : "330.00",
+"mc" : "28.04B",
+"pe" : "78.95",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.09",
+"dy" : "0.29",
+"ldiv" : "1.60",
+"shares" : "49.57M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703855",
+"name" : "GOCL Corp Ltd",
+"t" : "506480",
+"e" : "BOM",
+"l" : "559.40",
+"c" : "+2.20",
+"mc" : "28.04B",
+"cp" : "0.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5623301",
+"name" : "GP Petroleums Ltd",
+"t" : "GULFPETRO",
+"e" : "NSE",
+"l" : "82.75",
+"c" : "+1.85",
+"mc" : "4.19B",
+"cp" : "2.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "173563087965749",
+"name" : "Castrol India Limited",
+"t" : "CASTROLIND",
+"e" : "NSE",
+"l" : "198.10",
+"c" : "+4.45",
+"mc" : "196.61B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "317065588975587",
+"name" : "Gulf Oil Lubricants India Ltd",
+"t" : "GULFOILLUB",
+"e" : "NSE",
+"l" : "1,001.50",
+"c" : "+16.00",
+"mc" : "49.90B",
+"cp" : "1.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2619765",
+"name" : "Tide Water Oil Co India Ltd",
+"t" : "TIDEWATER",
+"e" : "NSE",
+"l" : "6,498.00",
+"c" : "-26.80",
+"mc" : "22.82B",
+"cp" : "-0.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "500320",
+"name" : "Ennore Coke Ltd",
+"t" : "512369",
+"e" : "BOM",
+"l" : "2.21",
+"c" : "-0.06",
+"mc" : "34.26M",
+"cp" : "-2.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7837408",
+"name" : "Solar Industries India Ltd",
+"t" : "SOLARINDS",
+"e" : "NSE",
+"l" : "1,026.00",
+"c" : "+11.50",
+"mc" : "92.35B",
+"cp" : "1.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "706725",
+"name" : "Premier Explosives Limited",
+"t" : "526247",
+"e" : "BOM",
+"l" : "392.95",
+"c" : "+1.60",
+"mc" : "4.14B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11703685",
+"name" : "Indo Gulf Industries Ltd",
+"t" : "506945",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-1.25",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13682813",
+"name" : "Pacific Industries Ltd",
+"t" : "523483",
+"e" : "BOM",
+"l" : "165.00",
+"c" : "+10.00",
+"mc" : "223.00M",
+"cp" : "6.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3598372",
+"name" : "Glittek Granites Ltd",
+"t" : "513528",
+"e" : "BOM",
+"l" : "2.68",
+"c" : "-0.12",
+"mc" : "69.57M",
+"cp" : "-4.29",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Kukatpally Post Bag No.1, Sanathnagar (IE) P O, HYDERABAD, 500018, India",
+"phone": "+91-40-23810671",
+"fax": "+91-40-23813860",
+"url": "http:\u002F\u002Fwww.gulfoilcorp.com\u002F",
+"overview" : "GOCL Corporation Limited, formerly Gulf Oil Corporation Limited, is engaged in the provision of explosive accessories (detonators) (for mining and industrial use)\u003B mining and infrastructure, and realty. The Company\u0027s segments include Energetics, Mining and Infrastructure Contracts, Realty, Lubricating Oils and Others. Its Energetics Division is engaged in the manufacture, marketing and technical services in industrial explosives, detonators, explosive bonded metal clads and special devices for defense and space applications. The Company\u0027s Mining \u0026 Infrastructure Contracts Division undertakes mining services in coal, iron ore, limestone and bauxite mines, and contracts in the infrastructure sector, such as underground metro railways, elevated highways and industrial structures\u002Fbuildings. Its Property Development division is engaged in the development of properties at Bangalore and Hyderabad into special economic zone (SEZ), industrial parks and commercial conglomerates."
+} ]
+, "management" : [
+{
+"name" : "Ravi Jain",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ravi Chawla",
+"title" : "President \u0026 CEO-Lubricants Division"
+}
+,
+{
+"name" : "A. Satyanarayana",
+"title" : "Compliance Officer, Joint General Manager, Deputy Company Secretary"
+}
+,
+{
+"name" : "Sunil S. Jambavdekar",
+"title" : "Vice President - Supply Chain \u0026 New Projects"
+}
+,
+{
+"name" : "V. Satish Kumar",
+"title" : "Vice President - Internal Audit"
+}
+,
+{
+"name" : "Subhas S. Pramanik",
+"age" : "64",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "P. Divakaran",
+"title" : "General Manager - Finance"
+}
+,
+{
+"name" : "Amrish Kathane",
+"title" : "Senior General Manager - Technical Services (B2B \u0026 QC)"
+}
+,
+{
+"name" : "S. Viswanathan",
+"title" : "Senior General Manager - Filters"
+}
+,
+{
+"name" : "Ajay P. Hinduja",
+"title" : "Non-Executive Chairman of the Board"
+}
+]
+,"moreresources" : [
+]
+}]

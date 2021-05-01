@@ -1,0 +1,383 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 8073427968,
+            "fmt": "8.07B",
+            "longFmt": "8,073,427,968"
+          },
+          "forwardPE": {
+            "raw": 7.2100096,
+            "fmt": "7.21"
+          },
+          "profitMargins": {
+            "raw": 0.03462,
+            "fmt": "3.46%"
+          },
+          "floatShares": {
+            "raw": 2529844,
+            "fmt": "2.53M",
+            "longFmt": "2,529,844"
+          },
+          "sharesOutstanding": {
+            "raw": 18879400,
+            "fmt": "18.88M",
+            "longFmt": "18,879,400"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.030767,
+            "fmt": "-0.03"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 291.322,
+            "fmt": "291.32"
+          },
+          "priceToBook": {
+            "raw": 1.0582792,
+            "fmt": "1.06"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.483,
+            "fmt": "48.30%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 614753984,
+            "fmt": "614.75M",
+            "longFmt": "614,753,984"
+          },
+          "trailingEps": {
+            "raw": 32.164,
+            "fmt": "32.16"
+          },
+          "forwardEps": {
+            "raw": 42.76,
+            "fmt": "42.76"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.455,
+            "fmt": "0.46"
+          },
+          "enterpriseToEbitda": {
+            "raw": 10.767,
+            "fmt": "10.77"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 6.89,
+                  "fmt": "6.89"
+                },
+                "estimate": {
+                  "raw": 3.84,
+                  "fmt": "3.84"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 9.06,
+                  "fmt": "9.06"
+                },
+                "estimate": {
+                  "raw": 6.61,
+                  "fmt": "6.61"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 12221607000,
+                  "fmt": "12.22B",
+                  "longFmt": "12,221,607,000"
+                },
+                "earnings": {
+                  "raw": 294839000,
+                  "fmt": "294.84M",
+                  "longFmt": "294,839,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 12764424000,
+                  "fmt": "12.76B",
+                  "longFmt": "12,764,424,000"
+                },
+                "earnings": {
+                  "raw": 401565000,
+                  "fmt": "401.56M",
+                  "longFmt": "401,565,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 13195801000,
+                  "fmt": "13.2B",
+                  "longFmt": "13,195,801,000"
+                },
+                "earnings": {
+                  "raw": 474421000,
+                  "fmt": "474.42M",
+                  "longFmt": "474,421,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 14734488000,
+                  "fmt": "14.73B",
+                  "longFmt": "14,734,488,000"
+                },
+                "earnings": {
+                  "raw": 429441000,
+                  "fmt": "429.44M",
+                  "longFmt": "429,441,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 3992867000,
+                  "fmt": "3.99B",
+                  "longFmt": "3,992,867,000"
+                },
+                "earnings": {
+                  "raw": 83457000,
+                  "fmt": "83.46M",
+                  "longFmt": "83,457,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 3769461000,
+                  "fmt": "3.77B",
+                  "longFmt": "3,769,461,000"
+                },
+                "earnings": {
+                  "raw": 86743000,
+                  "fmt": "86.74M",
+                  "longFmt": "86,743,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 3834856000,
+                  "fmt": "3.83B",
+                  "longFmt": "3,834,856,000"
+                },
+                "earnings": {
+                  "raw": 166077000,
+                  "fmt": "166.08M",
+                  "longFmt": "166,077,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 6160949000,
+                  "fmt": "6.16B",
+                  "longFmt": "6,160,949,000"
+                },
+                "earnings": {
+                  "raw": 293476000,
+                  "fmt": "293.48M",
+                  "longFmt": "293,476,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Plot No. 36A & 37",
+          "address2": "SEEPZ MIDC Marol Andheri (East)",
+          "city": "Mumbai",
+          "zip": "400096",
+          "country": "India",
+          "phone": "91 22 4055 1200",
+          "fax": "91 22 2829 2146",
+          "website": "http://www.renjewellery.com",
+          "industry": "Jewelry Stores",
+          "sector": "Services",
+          "longBusinessSummary": "Renaissance Jewellery Limited designs, manufactures, and sells diamond studded jewellery in India. The company offers gold, silver, and platinum jewellery studded with polished diamonds, and other precious and semi-precious stones. Its product portfolio includes rings, earrings, pendants, bracelets, necklaces, bangles, money clips, tie pins, cuff links, etc. The company also exports its jewellery products to the United States, the United Kingdom, Hong Kong, Australia, Canada, and internationally. In addition, it engages in the sale of furniture products through Website, housefull.co.in. Renaissance Jewellery Limited was incorporated in 1989 and is based in Mumbai, India.",
+          "fullTimeEmployees": 4300,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 308.3,
+            "fmt": "308.30"
+          },
+          "targetHighPrice": {
+            "raw": 75.0,
+            "fmt": "75.00"
+          },
+          "targetLowPrice": {
+            "raw": 75.0,
+            "fmt": "75.00"
+          },
+          "targetMeanPrice": {
+            "raw": 75.0,
+            "fmt": "75.00"
+          },
+          "targetMedianPrice": {
+            "raw": 75.0,
+            "fmt": "75.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 1534323968,
+            "fmt": "1.53B",
+            "longFmt": "1,534,323,968"
+          },
+          "totalCashPerShare": {
+            "raw": 83.022,
+            "fmt": "83.02"
+          },
+          "ebitda": {
+            "raw": 749800768,
+            "fmt": "749.8M",
+            "longFmt": "749,800,768"
+          },
+          "totalDebt": {
+            "raw": 3803838976,
+            "fmt": "3.8B",
+            "longFmt": "3,803,838,976"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 17758132224,
+            "fmt": "17.76B",
+            "longFmt": "17,758,132,224"
+          },
+          "debtToEquity": {
+            "raw": 71.342,
+            "fmt": "71.34"
+          },
+          "revenuePerShare": {
+            "raw": 929.122,
+            "fmt": "929.12"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 3126417000,
+            "fmt": "3.13B",
+            "longFmt": "3,126,417,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.531,
+            "fmt": "53.10%"
+          },
+          "revenueGrowth": {
+            "raw": 0.197,
+            "fmt": "19.70%"
+          },
+          "grossMargins": {
+            "raw": 0.17327999,
+            "fmt": "17.33%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.04222,
+            "fmt": "4.22%"
+          },
+          "operatingMargins": {
+            "raw": 0.03474,
+            "fmt": "3.47%"
+          },
+          "profitMargins": {
+            "raw": 0.03462,
+            "fmt": "3.46%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,291 @@
+
+// [
+{
+"symbol" : "533138",
+"exchange" : "BOM",
+"id": "6631565",
+"t" : "533138",
+"e" : "BOM",
+"name" : "Astec LifeSciences Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533138"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533138"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533138"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.62%",
+"annual" : "6.12%",
+"ttm" : "6.40%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "29.32%",
+"annual" : "12.16%",
+"ttm" : "12.61%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.91%",
+"ttm" : "16.23%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.78%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.93%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "127",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+4.75",
+"l" : "593.40",
+"cp" : "0.81",
+"ccol" : "chg",
+"op" : "586.10",
+"hi" : "605.60",
+"lo" : "586.05",
+"vo" : "4,090.00",
+"avvo" : "",
+"hi52" : "684.00",
+"lo52" : "475.00",
+"mc" : "11.66B",
+"pe" : "54.73",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.84",
+"dy" : "0.25",
+"ldiv" : "1.50",
+"shares" : "19.53M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "6631565",
+"name" : "Astec LifeSciences Limited",
+"t" : "533138",
+"e" : "BOM",
+"l" : "593.40",
+"c" : "+4.75",
+"mc" : "11.66B",
+"cp" : "0.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11585637",
+"name" : "Dharamsi Morarji Chemical Co Ltd",
+"t" : "506405",
+"e" : "BOM",
+"l" : "105.05",
+"c" : "+0.50",
+"mc" : "2.66B",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "778537154937652",
+"name" : "Tube Investments of India Ltd",
+"t" : "TIINDIA",
+"e" : "NSE",
+"l" : "260.05",
+"c" : "-3.25",
+"mc" : "48.89B",
+"cp" : "-1.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11089076",
+"name" : "Bayer CropScience Ltd",
+"t" : "BAYERCROP",
+"e" : "NSE",
+"l" : "3,899.90",
+"c" : "+68.15",
+"mc" : "133.96B",
+"cp" : "1.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4438161",
+"name" : "Bannari Amman Sugars Limited",
+"t" : "BANARISUG",
+"e" : "NSE",
+"l" : "1,800.00",
+"c" : "+30.00",
+"mc" : "22.57B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16506419",
+"name" : "Coromandel International Ltd",
+"t" : "COROMANDEL",
+"e" : "NSE",
+"l" : "546.00",
+"c" : "-6.35",
+"mc" : "160.25B",
+"cp" : "-1.15",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6713198",
+"name" : "MMTC Ltd",
+"t" : "MMTC",
+"e" : "NSE",
+"l" : "52.80",
+"c" : "+0.55",
+"mc" : "52.78B",
+"cp" : "1.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "439959355334624",
+"name" : "Rallis India Limited",
+"t" : "RALLIS",
+"e" : "NSE",
+"l" : "231.00",
+"c" : "+3.15",
+"mc" : "44.87B",
+"cp" : "1.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2488688",
+"name" : "Khaitan Chemicals And Fertilizers Ltd",
+"t" : "507794",
+"e" : "BOM",
+"l" : "17.45",
+"c" : "-0.20",
+"mc" : "1.69B",
+"cp" : "-1.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10269289",
+"name" : "Hikal Limited",
+"t" : "HIKAL",
+"e" : "NSE",
+"l" : "245.30",
+"c" : "+14.90",
+"mc" : "20.12B",
+"cp" : "6.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "395516899187557",
+"name" : "Agro Phos India Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Elite Square, 7th Floor 274, Perin Nariman Street Fort, MUMBAI, 400079, India",
+"phone": "+91-22-25188010",
+"fax": "+91-22-22618289",
+"url": "http:\u002F\u002Fwww.astecls.com",
+"overview" : "Astec LifeSciences Limited is an India-based holding company. The Company is engaged in agro chemicals, including fungicides and herbicides business. It manufactures a range of agrochemical active ingredients and pharmaceutical intermediates. The Company\u0027s products include agrochemicals, such as tebuconazole, propiconazole, hexaconazole, difenoconazole, epoxiconazole, cyproconazole, flutriafol, tricyclazole, metalaxyl and lambda cyhalothrin, and intermediates, such as 2, 4-dichloroacetophenone, 2-chloro-4-fluoro acetophenone, 4-methyl phthalic anhydride and thio bis-4-chloro thymol. The Company\u0027s multi-purpose production facilities are located in Dombivli, which is over 50 kilometers from Mumbai, and Mahad, which is over 180 kilometers from Mumbai. Its multi-purpose plants are based on 3,000 liters to 20,000 liters glasslined and stainless steel reactors. In addition, the Company has undertaken a number of custom synthesis projects for customers in Europe, Japan and the United States."
+} ]
+, "management" : [
+{
+"name" : "N. B. Godrej",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Ashok V. Hiremath",
+"age" : "62",
+"title" : "Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "Saurav Bhala",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Tejal Jariwala",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Arijit Mukherjee",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Rakesh Dogra",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Balram S. Yadav",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Vijay Kashinath Khot",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Brahma Nand Vyas",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Vinod Malshe",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

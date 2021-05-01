@@ -1,0 +1,275 @@
+
+ [
+{
+"symbol" : "509627",
+"exchange" : "BOM",
+"id": "714347",
+"t" : "509627",
+"e" : "BOM",
+"name" : "Hindustan Dorr-Oliver Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:509627"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:509627"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:509627"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q2 (Jun \u002708)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.11%",
+"annual" : "-557.04%",
+"ttm" : "7.45%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.61%",
+"annual" : "-329.00%",
+"ttm" : "11.23%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-23.09%",
+"ttm" : "13.61%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-73.40%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+}
+]
+, "c" : "+0.23",
+"l" : "4.90",
+"cp" : "4.93",
+"ccol" : "chg",
+"op" : "4.50",
+"hi" : "4.90",
+"lo" : "4.44",
+"vo" : "58,438.00",
+"avvo" : "",
+"hi52" : "11.50",
+"lo52" : "1.52",
+"mc" : "334.06M",
+"pe" : "1.39",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.54",
+"dy" : "",
+"ldiv" : "",
+"shares" : "72.01M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "714347",
+"name" : "Hindustan Dorr-Oliver Ltd",
+"t" : "509627",
+"e" : "BOM",
+"l" : "4.90",
+"c" : "+0.23",
+"mc" : "334.06M",
+"cp" : "4.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2325070",
+"name" : "Madhucon Projects Ltd.",
+"t" : "MADHUCON",
+"e" : "NSE",
+"l" : "27.70",
+"c" : "+0.30",
+"mc" : "2.04B",
+"cp" : "1.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715513",
+"name" : "Marg Ltd.",
+"t" : "530543",
+"e" : "BOM",
+"l" : "19.45",
+"c" : "+0.90",
+"mc" : "731.55M",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6864582",
+"name" : "Jaiprakash Associates Limited",
+"t" : "JPASSOCIAT",
+"e" : "NSE",
+"l" : "18.35",
+"c" : "-0.80",
+"mc" : "42.95B",
+"cp" : "-4.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9403325",
+"name" : "Consolidated Construction Consortium Ltd",
+"t" : "CCCL",
+"e" : "NSE",
+"l" : "5.00",
+"c" : "-0.25",
+"mc" : "1.99B",
+"cp" : "-4.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "627005",
+"name" : "Artson Engineering Ltd",
+"t" : "522134",
+"e" : "BOM",
+"l" : "84.50",
+"c" : "-0.70",
+"mc" : "3.14B",
+"cp" : "-0.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8331198",
+"name" : "Reliance Infrastructure Ltd",
+"t" : "RELINFRA",
+"e" : "NSE",
+"l" : "465.70",
+"c" : "+11.15",
+"mc" : "122.62B",
+"cp" : "2.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9260292",
+"name" : "Ashoka Buildcon Ltd",
+"t" : "ASHOKA",
+"e" : "NSE",
+"l" : "223.00",
+"c" : "+1.20",
+"mc" : "41.70B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11147810",
+"name" : "Petron Engineering Construction Ltd",
+"t" : "PETRONENGG",
+"e" : "NSE",
+"l" : "117.45",
+"c" : "-2.45",
+"mc" : "877.70M",
+"cp" : "-2.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7676383",
+"name" : "Praj Industries Ltd",
+"t" : "PRAJIND",
+"e" : "NSE",
+"l" : "90.10",
+"c" : "-0.85",
+"mc" : "16.30B",
+"cp" : "-0.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9220922",
+"name" : "McNally Bharat Engineering Company Ltd.",
+"t" : "MBECL",
+"e" : "NSE",
+"l" : "65.00",
+"c" : "-0.85",
+"mc" : "3.76B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Dorr Oliver House Chakala, Andheri (East), MUMBAI, 400099, India",
+"phone": "+91-22-28359400",
+"fax": "+91-22-28365659",
+"url": "https:\u002F\u002Fwww.hdo.in\u002F",
+"overview" : "Hindustan Dorr Oliver Limited is engaged in the business of providing engineering and turnkey solutions, technology, and engineering procurement and construction (EPC) installations in liquid-solid separation applications in various industry segments, such as mineral processing and beneficiation, pulp and paper processing, fertilizer and chemicals, and environmental management. The Company\u0027s segments include EPC, Trading, and Manufacturing and Others. It offers engineering services under its technologies in various industrial sectors, such as minerals, water, chemicals and petrochemicals. Its engineering offerings include basic and detailed engineering, such as piping, electrical, instrumentation and control, and civil and structural foundations. Its manufacturing and supply chain management division includes American Society Material and Equipment (ASME) equipment, including Evaporator and Waste Heat Reboiler, and proprietary, including Spiral Calssifier and Granulator."
+} ]
+, "management" : [
+{
+"name" : "G. Ramakrishna",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "S. C. Sekaran",
+"age" : "57",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Prabhakar Ram Tripathi",
+"age" : "73",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "E. Sudhir Reddy",
+"age" : "54",
+"title" : "Non-Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Vivek Wahi",
+"title" : "Nominee Director"
+}
+,
+{
+"name" : "R. Balarami Reddy",
+"age" : "60",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Ramendra Gupta",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

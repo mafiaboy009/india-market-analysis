@@ -1,0 +1,296 @@
+
+ [
+{
+"symbol" : "532725",
+"exchange" : "BOM",
+"id": "704097",
+"t" : "532725",
+"e" : "BOM",
+"name" : "Solar Industries India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532725"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532725"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532725"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "12.39%",
+"annual" : "11.38%",
+"ttm" : "12.26%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "19.46%",
+"annual" : "18.31%",
+"ttm" : "18.54%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "20.66%",
+"ttm" : "21.25%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "12.02%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "21.52%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,880",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+14.10",
+"l" : "1,026.65",
+"cp" : "1.39",
+"ccol" : "chg",
+"op" : "1,023.50",
+"hi" : "1,034.95",
+"lo" : "1,015.00",
+"vo" : "501.00",
+"avvo" : "",
+"hi52" : "1,232.15",
+"lo52" : "712.05",
+"mc" : "93.33B",
+"pe" : "44.35",
+"fwpe" : "",
+"beta" : "",
+"eps" : "23.15",
+"dy" : "0.49",
+"ldiv" : "3.00",
+"shares" : "90.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "704097",
+"name" : "Solar Industries India Ltd",
+"t" : "532725",
+"e" : "BOM",
+"l" : "1,026.65",
+"c" : "+14.10",
+"mc" : "93.33B",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11703685",
+"name" : "Indo Gulf Industries Ltd",
+"t" : "506945",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-1.25",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "706725",
+"name" : "Premier Explosives Limited",
+"t" : "526247",
+"e" : "BOM",
+"l" : "392.95",
+"c" : "+1.60",
+"mc" : "4.14B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5320224",
+"name" : "GOCL Corp Ltd",
+"t" : "GOCLCORP",
+"e" : "NSE",
+"l" : "558.25",
+"c" : "-2.95",
+"mc" : "27.40B",
+"cp" : "-0.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1501918",
+"name" : "Jd Orgochem Ltd",
+"t" : "524592",
+"e" : "BOM",
+"l" : "4.19",
+"c" : "0.00",
+"mc" : "55.52M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1213646",
+"name" : "Rathi Graphic Technologies Ltd",
+"t" : "524610",
+"e" : "BOM",
+"l" : "14.10",
+"c" : "+0.55",
+"mc" : "231.79M",
+"cp" : "4.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722594",
+"name" : "Fineotex Chemical Ltd",
+"t" : "533333",
+"e" : "BOM",
+"l" : "68.05",
+"c" : "-2.00",
+"mc" : "7.59B",
+"cp" : "-2.86",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6515568",
+"name" : "Shilp Gravures Ltd",
+"t" : "513709",
+"e" : "BOM",
+"l" : "139.80",
+"c" : "-0.35",
+"mc" : "859.74M",
+"cp" : "-0.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "968448",
+"name" : "Organic Coatings Ltd",
+"t" : "531157",
+"e" : "BOM",
+"l" : "14.55",
+"c" : "-0.75",
+"mc" : "114.32M",
+"cp" : "-4.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5645458",
+"name" : "Rishiroop Rubber International Ltd",
+"t" : "523658",
+"e" : "BOM",
+"l" : "19.50",
+"c" : "0.00",
+"mc" : "230.88M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715557",
+"name" : "Jeypore Sugar Company Ltd",
+"t" : "590054",
+"e" : "BOM",
+"l" : "48.70",
+"c" : "",
+"mc" : "220.83M",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "11 Amravati road Bharat nagar, Zade Layout, NAGPUR, 440033, India",
+"phone": "+91-712-2561000",
+"fax": "+91-712-2560202",
+"overview" : "Solar Industries India Limited is an explosives manufacturing company. The Company manufactures, supplies and exports industrial explosives and initiating systems. It manufactures various explosives products, such as Slurry and emulsion base explosives, bulk explosives, detonators, pentaerythritol tetranitrate (PETN) and accessories. The Company\u0027s products include Large Dia slurry Explosives, Small Dia Emulsion, Small Dia Slurry Explosives, Solar Detonators, Supreme Detonators, Supreme Electric Detonators, Economic Sod, Eco Det, Cord Relay, Cast Booster and Detonating Fuse. Its products are used across mining and infrastructure sectors. It also offers high melting explosive (HMX) and HMX Compounded products to the defense sector. The Company has 25 manufacturing plants eight states in India and three in overseas locations. The Company offers its products to 42 countries across the globe. The Company has manufacturing facilities at Zambia, Nigeria and Turkey."
+} ]
+, "management" : [
+{
+"name" : "Satyanarayan Nandlal Nuwal",
+"age" : "55",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Anil Kumar Jain",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "Kailashchandra Nandlal Nuwal",
+"age" : "58",
+"title" : "Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Nilesh Panpaliya",
+"title" : "Chief Financial Officer, Compliance Officer"
+}
+,
+{
+"name" : "Manish Satyanarayan Nuwal",
+"age" : "42",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Roomie Dara Vakil",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Khushboo Anish Pasari",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Madhu Vij",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Anant Sagar Awasthi",
+"age" : "72",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ajai Nigam",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,288 @@
+
+ [
+{
+"symbol" : "532413",
+"exchange" : "BOM",
+"id": "543503",
+"t" : "532413",
+"e" : "BOM",
+"name" : "Cerebra Integrated Technologies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532413"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532413"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532413"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.66%",
+"annual" : "4.84%",
+"ttm" : "7.47%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.49%",
+"annual" : "5.21%",
+"ttm" : "9.27%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.27%",
+"ttm" : "9.80%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.72%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.98%",
+"ttm" : ""
+}
+]
+, "c" : "+0.10",
+"l" : "61.45",
+"cp" : "0.16",
+"ccol" : "chg",
+"op" : "62.70",
+"hi" : "63.20",
+"lo" : "60.25",
+"vo" : "94,370.00",
+"avvo" : "",
+"hi52" : "65.90",
+"lo52" : "35.95",
+"mc" : "7.43B",
+"pe" : "42.85",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.43",
+"dy" : "",
+"ldiv" : "",
+"shares" : "108.49M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "543503",
+"name" : "Cerebra Integrated Technologies Ltd",
+"t" : "532413",
+"e" : "BOM",
+"l" : "61.45",
+"c" : "+0.10",
+"mc" : "7.43B",
+"cp" : "0.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2964394",
+"name" : "Vintron Informatics Ltd",
+"t" : "517393",
+"e" : "BOM",
+"l" : "0.55",
+"c" : "0.00",
+"mc" : "43.10M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "712119",
+"name" : "Allied Computers International Asia Ltd",
+"t" : "532919",
+"e" : "BOM",
+"l" : "0.55",
+"c" : "0.00",
+"mc" : "104.37M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715375",
+"name" : "Zenith Computers Ltd.",
+"t" : "517164",
+"e" : "BOM",
+"l" : "1.98",
+"c" : "0.00",
+"mc" : "30.65M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9055815",
+"name" : "Wipro Limited",
+"t" : "WIPRO",
+"e" : "NSE",
+"l" : "291.75",
+"c" : "-3.25",
+"mc" : "1.32T",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13507979",
+"name" : "PCS Technology Ltd",
+"t" : "517119",
+"e" : "BOM",
+"l" : "23.70",
+"c" : "-0.80",
+"mc" : "506.88M",
+"cp" : "-3.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6285453",
+"name" : "Hexaware Technologies Limited",
+"t" : "HEXAWARE",
+"e" : "NSE",
+"l" : "343.55",
+"c" : "-8.60",
+"mc" : "102.36B",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11778873",
+"name" : "Trigyn Technologies Ltd",
+"t" : "TRIGYN",
+"e" : "NSE",
+"l" : "149.45",
+"c" : "+0.50",
+"mc" : "4.47B",
+"cp" : "0.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14501165",
+"name" : "Cambridge Technology Enterprises Limited",
+"t" : "CTE",
+"e" : "NSE",
+"l" : "73.20",
+"c" : "+1.40",
+"mc" : "1.42B",
+"cp" : "1.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8892177",
+"name" : "Panoramic Universal Ltd",
+"t" : "PANORAMUNI",
+"e" : "NSE",
+"l" : "9.10",
+"c" : "-0.05",
+"mc" : "715.30M",
+"cp" : "-0.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "251885869418985",
+"name" : "Panache Digilife Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "S 5, Off 3rd Cross 1st Stage Peenya Industrial Area, BANGALORE, 560055, India",
+"phone": "+91-80-22046969",
+"fax": "+91-80-22046980",
+"url": "http:\u002F\u002Fwww.cerebracomputers.com\u002F",
+"overview" : "Cerebra Integrated Technologies Limited is an India-based services provider. The Company is engaged in wholesale of computers, computer peripheral equipment and software\u003B manufacture of desktop computers, laptop computers, hand-held computers, mainframe computers and computer servers, and computer consultancy and computer facilities management activities. The Company\u0027s segments include hardware trading and software services. The Company\u0027s Electronic Manufacturing Services (EMS) Division manufactures Motherboards, Memory Modules, Graphic Cards and Networking Products. Its Infrastructure Management Services offer a portfolio of solutions and services for managing enterprise information technology (IT) infrastructures. It offers e-waste recycling and management services, such as repair, refurbish and reuse of all electronic and electrical equipment\u003B waste management at source\u003B recycling of all collected e-waste (Zero Landfill), and Web-based trading, services and accessibility."
+} ]
+, "management" : [
+{
+"name" : "Nutan Soudgar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "V. Ranganathan",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Shridhar S. Hegde",
+"age" : "53",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "P. Vishwamurthy",
+"age" : "47",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Vijayakrishna K. T.",
+"title" : "Practicing Company Secretary"
+}
+,
+{
+"name" : "Preethi Javali",
+"title" : "Director"
+}
+,
+{
+"name" : "Riyaz Suterwalla",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "S. Gopalakrishnan",
+"age" : "47",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "P. E. Krishnan",
+"age" : "49",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "T. S. Suresh Kumar",
+"age" : "47",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

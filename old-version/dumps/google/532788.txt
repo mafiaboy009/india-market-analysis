@@ -1,0 +1,281 @@
+
+// [
+{
+"symbol" : "532788",
+"exchange" : "BOM",
+"id": "706078",
+"t" : "532788",
+"e" : "BOM",
+"name" : "XL Energy Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532788"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532788"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532788"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002709)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-329.74%",
+"annual" : "-134.85%",
+"ttm" : "-408.95%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-273.66%",
+"annual" : "-138.45%",
+"ttm" : "-402.97%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-117.42%",
+"ttm" : "-114.88%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.20%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-4.60%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "570",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.07",
+"l" : "2.90",
+"cp" : "-2.36",
+"ccol" : "chr",
+"op" : "2.90",
+"hi" : "2.90",
+"lo" : "2.83",
+"vo" : "6,421.00",
+"avvo" : "",
+"hi52" : "5.00",
+"lo52" : "1.44",
+"mc" : "60.04M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-148.09",
+"dy" : "",
+"ldiv" : "",
+"shares" : "22.77M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "706078",
+"name" : "XL Energy Ltd",
+"t" : "532788",
+"e" : "BOM",
+"l" : "2.90",
+"c" : "-0.07",
+"mc" : "60.04M",
+"cp" : "-2.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1144011",
+"name" : "Mobile Telecommunications Ltd",
+"t" : "532127",
+"e" : "BOM",
+"l" : "2.71",
+"c" : "0.00",
+"mc" : "377.91M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12508695",
+"name" : "Spanco Ltd",
+"t" : "SPANCO",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-10.50",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9383828",
+"name" : "Megasoft Ltd",
+"t" : "MEGASOFT",
+"e" : "NSE",
+"l" : "13.70",
+"c" : "+0.10",
+"mc" : "606.46M",
+"cp" : "0.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12104121",
+"name" : "Tanla Solutions Limited",
+"t" : "TANLA",
+"e" : "NSE",
+"l" : "32.50",
+"c" : "+1.05",
+"mc" : "3.65B",
+"cp" : "3.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3626083",
+"name" : "Bharti Airtel Limited",
+"t" : "BHARTIARTL",
+"e" : "NSE",
+"l" : "423.00",
+"c" : "-2.55",
+"mc" : "1.69T",
+"cp" : "-0.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11758968",
+"name" : "Idea Cellular Ltd",
+"t" : "IDEA",
+"e" : "NSE",
+"l" : "82.40",
+"c" : "+0.25",
+"mc" : "324.57B",
+"cp" : "0.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12394962",
+"name" : "Jauss Polymers Ltd",
+"t" : "526001",
+"e" : "BOM",
+"l" : "25.05",
+"c" : "-0.30",
+"mc" : "115.87M",
+"cp" : "-1.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9075590",
+"name" : "Reliance Communications Ltd",
+"t" : "RCOM",
+"e" : "NSE",
+"l" : "29.65",
+"c" : "+2.05",
+"mc" : "82.15B",
+"cp" : "7.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4066028",
+"name" : "Videocon Industries Ltd.",
+"t" : "VIDEOIND",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "-0.70",
+"mc" : "5.32B",
+"cp" : "-4.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13598808",
+"name" : "Surana Telecom and Power Ltd",
+"t" : "SURANAT\u0026P",
+"e" : "NSE",
+"l" : "5.35",
+"c" : "+0.05",
+"mc" : "726.32M",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "C2, Pooja Plaza, Vikrampuri, SECUNDERABAD, 500009, India",
+"phone": "+91-40-27775568",
+"fax": "+91-40-27883344",
+"url": "http:\u002F\u002Fwww.xlenergy.co\u002F",
+"overview" : "XL Energy Limited is an India-based company, which is engaged in manufacturing, trading, production and sale of solar photovoltaic (SPV) modules. The Company offers solar cells and solar modules, which include multi crystalline silicon solar cells and poly crystalline modules. The Company\u0027s product and services range covers project development through to operation, with maintenance and inspection, as well as insurances for customer\u0027s photovoltaic system and its yield. The Company is also engaged in providing engineering, procurement and construction (EPC) solutions. The Company manufactures its SPV modules and systems to various agencies in India and overseas. It plans, builds, operates and owns photovoltaic plants providing all services from a single source. It delivers approximately 75 megawatts of solar modules to countries all over the world. The Company has set up 1.75 megawatts solar plant in Spain and three megawatts of solar plants in India with 14 megawatts in the pipeline."
+} ]
+, "management" : [
+{
+"name" : "K. Surender Surender",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "M. Bhargavi",
+"title" : "Chief Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Dinesh Kumar",
+"age" : "51",
+"title" : "Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Aneesh Mittal",
+"age" : "52",
+"title" : "Non-Independent Wholetime Director"
+}
+,
+{
+"name" : "Ritu Lal Kumar",
+"age" : "49",
+"title" : "Non Executive and Non-Independent Director"
+}
+,
+{
+"name" : "Narender Kalwakuntla",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vikas Nayyar",
+"age" : "40",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

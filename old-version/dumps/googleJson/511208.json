@@ -1,0 +1,287 @@
+
+ [
+{
+"symbol" : "511208",
+"exchange" : "BOM",
+"id": "705925",
+"t" : "511208",
+"e" : "BOM",
+"name" : "IL \u0026 FS Investment Managers Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:511208"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:511208"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:511208"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.50%",
+"annual" : "6.76%",
+"ttm" : "13.24%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.12%",
+"annual" : "0.33%",
+"ttm" : "11.02%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.74%",
+"ttm" : "21.63%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.63%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.74%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "44",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "21.35",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "21.35",
+"hi" : "21.85",
+"lo" : "21.20",
+"vo" : "105,430.00",
+"avvo" : "",
+"hi52" : "35.15",
+"lo52" : "13.20",
+"mc" : "6.74B",
+"pe" : "54.07",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.39",
+"dy" : "2.81",
+"ldiv" : "0.60",
+"shares" : "314.04M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "705925",
+"name" : "IL \u0026 FS Investment Managers Ltd",
+"t" : "511208",
+"e" : "BOM",
+"l" : "21.35",
+"c" : "0.00",
+"mc" : "6.74B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "259728309896975",
+"name" : "Escorp Asset Management Ltd",
+"t" : "540455",
+"e" : "BOM",
+"l" : "15.50",
+"c" : "+0.05",
+"mc" : "",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10935294",
+"name" : "Nagreeka Capital and Infrastructure Ltd",
+"t" : "NAGREEKCAP",
+"e" : "NSE",
+"l" : "43.15",
+"c" : "-1.90",
+"mc" : "544.35M",
+"cp" : "-4.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "374785",
+"name" : "Reliance Capital Limited",
+"t" : "RELCAPITAL",
+"e" : "NSE",
+"l" : "484.60",
+"c" : "+14.80",
+"mc" : "122.24B",
+"cp" : "3.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10268223",
+"name" : "Sanblue Corporation Ltd",
+"t" : "521222",
+"e" : "BOM",
+"l" : "3.88",
+"c" : "+0.18",
+"mc" : "19.40M",
+"cp" : "4.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "391939974702447",
+"name" : "Sagar Productions Ltd",
+"t" : "532092",
+"e" : "BOM",
+"l" : "13.73",
+"c" : "0.00",
+"mc" : "551.15M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9747640",
+"name" : "Tata Investment Corporation Limited",
+"t" : "TATAINVEST",
+"e" : "NSE",
+"l" : "807.00",
+"c" : "-4.00",
+"mc" : "44.52B",
+"cp" : "-0.49",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16595355",
+"name" : "Kalyani Investment Co Ltd",
+"t" : "KICL",
+"e" : "NSE",
+"l" : "2,398.00",
+"c" : "+51.85",
+"mc" : "10.45B",
+"cp" : "2.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5306284",
+"name" : "BF Investment Ltd",
+"t" : "BFINVEST",
+"e" : "NSE",
+"l" : "332.10",
+"c" : "+3.20",
+"mc" : "12.53B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "650780664270002",
+"name" : "Vibrant Global Capital Ltd",
+"t" : "538732",
+"e" : "BOM",
+"l" : "68.25",
+"c" : "-0.70",
+"mc" : "1.56B",
+"cp" : "-1.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "607679393625766",
+"name" : "Reliance Nippon Life Ast Mgmt Ltd",
+"t" : "RNAM",
+"e" : "NSE",
+"l" : "277.40",
+"c" : "+3.90",
+"mc" : "168.84B",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "33 Mount Road, Sadar, MUMBAI, 400051, India",
+"phone": "+91-22-26533333",
+"fax": "+91-22-26533056",
+"url": "http:\u002F\u002Fwww.iimlindia.com\u002F",
+"overview" : "IL\u0026FS Investment Managers Limited (IIML) is a private equity fund management company. The Company operates through the segment of fund management and other related services. The Company invests in various sectors, such as telecom, city gas distribution, shipyards, retail and media. Funds managed by the Company include general purpose private equity, real estate and infrastructure. The investors to IIML managed funds include Indian banks and institutions, and marquee global institutional investors, including the United States pension funds, endowments and foundations. The Company\u0027s subsidiaries include IL\u0026FS Asian Infrastructure Managers Limited, IL\u0026FS Urban Infrastructure Managers Limited and IIML Asset Advisors Limited, IL\u0026FS Investment Advisors LLC, Mauritius, IIML Advisors LLC, Mauritius and IIML Fund Managers (Singapore) Pte Ltd."
+} ]
+, "management" : [
+{
+"name" : "Archana Niranjan Hingorani Ph.D.",
+"age" : "49",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "Sanjay Mitra",
+"age" : "39",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ramesh Chander Bawa",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Susim Mukul Datta",
+"age" : "81",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Hari Sankaran",
+"title" : "Director"
+}
+,
+{
+"name" : "Shahzaad Siraj Dalal",
+"age" : "56",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Vibhav Kapoor",
+"age" : "61",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Ravi Parthasarathy",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

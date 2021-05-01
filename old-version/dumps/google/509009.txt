@@ -1,0 +1,235 @@
+
+// [
+{
+"symbol" : "509009",
+"exchange" : "BOM",
+"id": "5810772",
+"t" : "509009",
+"e" : "BOM",
+"name" : "AuSom Enterprise Limited(NDA)"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:509009"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:509009"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:509009"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.87%",
+"annual" : "1.89%",
+"ttm" : "5.18%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.45%",
+"annual" : "1.34%",
+"ttm" : "4.19%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.35%",
+"ttm" : "4.19%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.62%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.55%",
+"ttm" : ""
+}
+]
+, "c" : "+2.70",
+"l" : "68.40",
+"cp" : "4.11",
+"ccol" : "chg",
+"op" : "68.00",
+"hi" : "68.90",
+"lo" : "65.40",
+"vo" : "221.00",
+"avvo" : "",
+"hi52" : "103.80",
+"lo52" : "21.00",
+"mc" : "936.83M",
+"pe" : "8.13",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.42",
+"dy" : "",
+"ldiv" : "",
+"shares" : "13.62M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5810772",
+"name" : "AuSom Enterprise Limited(NDA)",
+"t" : "509009",
+"e" : "BOM",
+"l" : "68.40",
+"c" : "+2.70",
+"mc" : "936.83M",
+"cp" : "4.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "334762453216766",
+"name" : "Amrapali Capital and Finance Servics Ltd",
+"t" : "536737",
+"e" : "BOM",
+"l" : "43.75",
+"c" : "0.00",
+"mc" : "427.81M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16629800",
+"name" : "Interface Financial Services Ltd",
+"t" : "530519",
+"e" : "BOM",
+"l" : "0.18",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6003966",
+"name" : "Mahanivesh India Ltd",
+"t" : "530441",
+"e" : "BOM",
+"l" : "438.75",
+"c" : "0.00",
+"mc" : "4.39B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11138731",
+"name" : "Edelweiss Capital Limited",
+"t" : "EDELWEISS",
+"e" : "NSE",
+"l" : "264.65",
+"c" : "+4.05",
+"mc" : "241.74B",
+"cp" : "1.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "615832738412871",
+"name" : "Innovassynth Investments Ltd",
+"t" : "533315",
+"e" : "BOM",
+"l" : "9.40",
+"c" : "-0.10",
+"mc" : "228.21M",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9186082",
+"name" : "Capital Trust Ltd",
+"t" : "511505",
+"e" : "BOM",
+"l" : "465.00",
+"c" : "-24.55",
+"mc" : "7.67B",
+"cp" : "-5.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7083285",
+"name" : "BNK Capital Markets Ltd",
+"t" : "500069",
+"e" : "BOM",
+"l" : "110.00",
+"c" : "+1.35",
+"mc" : "1.09B",
+"cp" : "1.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16299384",
+"name" : "Arunjyoti Bio Ventures Ltd",
+"t" : "530881",
+"e" : "BOM",
+"l" : "10.00",
+"c" : "0.00",
+"mc" : "20.71M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13552477",
+"name" : "Religare Enterprises Limited",
+"t" : "RELIGARE",
+"e" : "NSE",
+"l" : "59.55",
+"c" : "+2.80",
+"mc" : "10.61B",
+"cp" : "4.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "490359",
+"name" : "Kothari World Finance Ltd",
+"t" : "511138",
+"e" : "BOM",
+"l" : "54.50",
+"c" : "0.00",
+"mc" : "405.34M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "606 Swagat Building Near Lal Bunglow, C.G. Road, AHMEDABAD, 380006, India",
+"phone": "+91-79-26421455",
+"fax": "+91-79-26569898",
+"url": "http:\u002F\u002Fwww.ausom.in\u002F",
+"overview" : "AuSom Enterprise Limited is an India-based company, which is engaged in the trading of bullion, gold jewelry, shares and securities, and units of mutual funds. The Company is also engaged in the trading of commodities, and diamonds and derivatives. The Company\u0027s geographical segments include Haridwar and SEZ. The Company\u0027s shares, securities and units of mutual funds businesses include financial service activities, except insurance and pension funding. The Company\u0027s bullion business includes wholesale of precious metals and jewelry."
+} ]
+,"moreresources" : [
+]
+}]

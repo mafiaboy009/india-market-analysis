@@ -1,0 +1,234 @@
+
+// [
+{
+"symbol" : "531346",
+"exchange" : "BOM",
+"id": "7439571",
+"t" : "531346",
+"e" : "BOM",
+"name" : "Eastern Treads Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=EASE.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531346"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531346"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531346"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-0.16%",
+"annual" : "1.43%",
+"ttm" : "-3.39%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.06%",
+"annual" : "3.62%",
+"ttm" : "-0.99%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.53%",
+"ttm" : "1.25%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.87%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.89%",
+"ttm" : ""
+}
+]
+, "c" : "-3.00",
+"l" : "95.00",
+"cp" : "-3.06",
+"ccol" : "chr",
+"op" : "101.90",
+"hi" : "101.90",
+"lo" : "93.05",
+"vo" : "222.00",
+"avvo" : "",
+"hi52" : "130.00",
+"lo52" : "82.00",
+"mc" : "478.02M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-6.34",
+"dy" : "0.79",
+"ldiv" : "0.50",
+"shares" : "5.41M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7439571",
+"name" : "Eastern Treads Ltd",
+"t" : "531346",
+"e" : "BOM",
+"l" : "95.00",
+"c" : "-3.00",
+"mc" : "478.02M",
+"cp" : "-3.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "111449",
+"name" : "Indag Rubber Ltd",
+"t" : "509162",
+"e" : "BOM",
+"l" : "168.00",
+"c" : "+0.20",
+"mc" : "4.43B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1515884",
+"name" : "Govind Rubber Ltd",
+"t" : "509148",
+"e" : "BOM",
+"l" : "17.70",
+"c" : "+0.25",
+"mc" : "389.89M",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678802",
+"name" : "Goodyear India Limited",
+"t" : "500168",
+"e" : "BOM",
+"l" : "1,188.50",
+"c" : "-11.75",
+"mc" : "27.42B",
+"cp" : "-0.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10217950",
+"name" : "Dunlop India Limited",
+"t" : "509130",
+"e" : "BOM",
+"l" : "11.17",
+"c" : "+0.76",
+"mc" : "1.21B",
+"cp" : "7.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9163183",
+"name" : "Falcon Tyres Ltd",
+"t" : "509527",
+"e" : "BOM",
+"l" : "6.70",
+"c" : "0.00",
+"mc" : "520.19M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5885777",
+"name" : "MRF Limited",
+"t" : "MRF",
+"e" : "NSE",
+"l" : "72,670.00",
+"c" : "+196.60",
+"mc" : "306.83B",
+"cp" : "0.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4170139",
+"name" : "Krypton Industries Ltd",
+"t" : "523550",
+"e" : "BOM",
+"l" : "10.88",
+"c" : "+0.51",
+"mc" : "160.84M",
+"cp" : "4.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4458694",
+"name" : "JK Tyre \u0026 Industries Ltd.",
+"t" : "JKTYRE",
+"e" : "NSE",
+"l" : "149.35",
+"c" : "-3.80",
+"mc" : "33.91B",
+"cp" : "-2.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9640278",
+"name" : "TVS Srichakra Limited",
+"t" : "TVSSRICHAK",
+"e" : "NSE",
+"l" : "3,732.20",
+"c" : "+66.50",
+"mc" : "28.62B",
+"cp" : "1.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13445274",
+"name" : "Ceat Limited (Parent)",
+"t" : "CEATLTD",
+"e" : "NSE",
+"l" : "1,613.50",
+"c" : "-4.10",
+"mc" : "65.41B",
+"cp" : "-0.25",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": ", KOCHI, 682024, India",
+"phone": "+91-484-3001100",
+"fax": "+91-484-3001110",
+"overview" : "Eastern Treads Limited (ETL) is an India-based conglomerate holding company. The Company is engaged in the business of manufacturing and dealing of tread rubber and rubber-based adhesives and retreading services. The Company manufactures precured tread rubber, cushion\u002Fbonding gum, black vulcanizing cement, rubber compounds and tire repair patches. Its precured treads are available in various types, such as truck bias, truck radial, truck mines, car and auto patterns, and export patterns. Its hot rubber slab and camel back treads include precured tread rubber and radial patches\u002Ftire patches. ETL manufactures a range of bonding gum, including one suitable for the steam bonding process and the other suitable for the electric chamber process. Its repair patches are made from nylon fabric. It offers a range of patches for minor to major tire injury repair. The Company\u0027s black vulcanizing cement is formulated for both precured and conventional process."
+} ]
+,"moreresources" : [
+]
+}]

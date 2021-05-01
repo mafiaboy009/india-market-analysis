@@ -1,0 +1,362 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 4994575872,
+            "fmt": "4.99B",
+            "longFmt": "4,994,575,872"
+          },
+          "forwardPE": {
+            "raw": 20.885235,
+            "fmt": "20.89"
+          },
+          "profitMargins": {
+            "raw": 0.07875,
+            "fmt": "7.87%"
+          },
+          "floatShares": {
+            "raw": 4051334,
+            "fmt": "4.05M",
+            "longFmt": "4,051,334"
+          },
+          "sharesOutstanding": {
+            "raw": 18079200,
+            "fmt": "18.08M",
+            "longFmt": "18,079,200"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.213065,
+            "fmt": "-0.21"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 58.488,
+            "fmt": "58.49"
+          },
+          "priceToBook": {
+            "raw": 5.1027565,
+            "fmt": "5.10"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.944,
+            "fmt": "94.40%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 250920992,
+            "fmt": "250.92M",
+            "longFmt": "250,920,992"
+          },
+          "trailingEps": {
+            "raw": 13.882,
+            "fmt": "13.88"
+          },
+          "forwardEps": {
+            "raw": 14.29,
+            "fmt": "14.29"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1457568000,
+            "fmt": "2016-03-10"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.568,
+            "fmt": "1.57"
+          },
+          "enterpriseToEbitda": {
+            "raw": 9.569,
+            "fmt": "9.57"
+          },
+          "52WeekChange": {
+            "raw": 0.9129636,
+            "fmt": "91.30%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 2.0,
+                  "fmt": "2.00"
+                },
+                "estimate": {
+                  "raw": 3.44,
+                  "fmt": "3.44"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 2131726000,
+                  "fmt": "2.13B",
+                  "longFmt": "2,131,726,000"
+                },
+                "earnings": {
+                  "raw": 58431000,
+                  "fmt": "58.43M",
+                  "longFmt": "58,431,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 2984868000,
+                  "fmt": "2.98B",
+                  "longFmt": "2,984,868,000"
+                },
+                "earnings": {
+                  "raw": 123350000,
+                  "fmt": "123.35M",
+                  "longFmt": "123,350,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 2875240000,
+                  "fmt": "2.88B",
+                  "longFmt": "2,875,240,000"
+                },
+                "earnings": {
+                  "raw": 142915000,
+                  "fmt": "142.91M",
+                  "longFmt": "142,915,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 2964653000,
+                  "fmt": "2.96B",
+                  "longFmt": "2,964,653,000"
+                },
+                "earnings": {
+                  "raw": 173786000,
+                  "fmt": "173.79M",
+                  "longFmt": "173,786,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 680408000,
+                  "fmt": "680.41M",
+                  "longFmt": "680,408,000"
+                },
+                "earnings": {
+                  "raw": 45734000,
+                  "fmt": "45.73M",
+                  "longFmt": "45,734,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 862610000,
+                  "fmt": "862.61M",
+                  "longFmt": "862,610,000"
+                },
+                "earnings": {
+                  "raw": 73820000,
+                  "fmt": "73.82M",
+                  "longFmt": "73,820,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 644447000,
+                  "fmt": "644.45M",
+                  "longFmt": "644,447,000"
+                },
+                "earnings": {
+                  "raw": 36162000,
+                  "fmt": "36.16M",
+                  "longFmt": "36,162,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 967300000,
+                  "fmt": "967.3M",
+                  "longFmt": "967,300,000"
+                },
+                "earnings": {
+                  "raw": 95500000,
+                  "fmt": "95.5M",
+                  "longFmt": "95,500,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "BPK Star Tower",
+          "address2": "4th Floor Above Shoppers Stop A.B. Road",
+          "city": "Indore",
+          "zip": "452008",
+          "country": "India",
+          "phone": "91 73 1666 2400",
+          "fax": "91 73 1666 2410",
+          "website": "http://www.associatedalcohols.com",
+          "industry": "Beverages - Brewers",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Associated Alcohols & Breweries Limited manufactures and sells liquor in India. It offers alcohol, country liquor, rectified spirits, extra neutral alcohol, triple distilled Grain spirits, and scotch whisky, as well as Indian made foreign liquor in the whisky, brandy, rum, gin, and vodka categories. Its brands include Bombay Special Whisky, Desi Madira Boss, Central Province Whisky, Chotu Premium Whisky, Desi Madira Masala, Desi Madira Plan, Lemount Strong Beer, Titaniu, Superman Fine Whisky, Mc Gill Whisky, Jamaican Magic, London Bridge Gin, and Red & White Whisky, as well as various licensed brands. The company was incorporated in 1989 and is based in Indore, India.",
+          "fullTimeEmployees": 270,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 298.45,
+            "fmt": "298.45"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 45843000,
+            "fmt": "45.84M",
+            "longFmt": "45,843,000"
+          },
+          "totalCashPerShare": {
+            "raw": 2.535,
+            "fmt": "2.54"
+          },
+          "ebitda": {
+            "raw": 521940736,
+            "fmt": "521.94M",
+            "longFmt": "521,940,736"
+          },
+          "totalDebt": {
+            "raw": 242810000,
+            "fmt": "242.81M",
+            "longFmt": "242,810,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 3186214912,
+            "fmt": "3.19B",
+            "longFmt": "3,186,214,912"
+          },
+          "debtToEquity": {
+            "raw": 22.96,
+            "fmt": "22.96"
+          },
+          "revenuePerShare": {
+            "raw": 176.271,
+            "fmt": "176.27"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1294785000,
+            "fmt": "1.29B",
+            "longFmt": "1,294,785,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.941,
+            "fmt": "94.10%"
+          },
+          "revenueGrowth": {
+            "raw": 0.135,
+            "fmt": "13.50%"
+          },
+          "grossMargins": {
+            "raw": 0.50367,
+            "fmt": "50.37%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.16381,
+            "fmt": "16.38%"
+          },
+          "operatingMargins": {
+            "raw": 0.12803,
+            "fmt": "12.80%"
+          },
+          "profitMargins": {
+            "raw": 0.07875,
+            "fmt": "7.87%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 167500896,
+            "fmt": "167.5M",
+            "longFmt": "167,500,896"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.15788001,
+            "fmt": "15.79%"
+          },
+          "floatShares": {
+            "raw": 929199,
+            "fmt": "929.2k",
+            "longFmt": "929,199"
+          },
+          "sharesOutstanding": {
+            "raw": 4785740,
+            "fmt": "4.79M",
+            "longFmt": "4,785,740"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 31.556,
+            "fmt": "31.56"
+          },
+          "priceToBook": {
+            "raw": 1.140829,
+            "fmt": "1.14"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {},
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 4722000,
+            "fmt": "4.72M",
+            "longFmt": "4,722,000"
+          },
+          "trailingEps": {
+            "raw": 0.99,
+            "fmt": "0.99"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 5.601,
+            "fmt": "5.60"
+          },
+          "enterpriseToEbitda": {
+            "raw": 19.881,
+            "fmt": "19.88"
+          },
+          "52WeekChange": {
+            "raw": 0.26811588,
+            "fmt": "26.81%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.1593206,
+            "fmt": "15.93%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "162, Atlanta",
+          "address2": "16th Floor Nariman Point",
+          "city": "Mumbai",
+          "zip": "400021",
+          "country": "India",
+          "phone": "91 22 4094 5500",
+          "fax": "91 22 2285 2892",
+          "website": "http://www.kjmc.com",
+          "industry": "Investment Brokerage - National",
+          "sector": "Financial",
+          "longBusinessSummary": "KJMC Financial Services Limited operates as a non-banking financial company in India. It invests/trades in securities, bonds, and other asset classes, as well as advances loans to the investors. The company also provides fund based financial services and funding solutions to the corporates, institutions, SMEs, etc. In addition, it focuses on capital market related lending products and others. KJMC Financial Services Limited was incorporated in 1988 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 36.0,
+            "fmt": "36.00"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 8425000,
+            "fmt": "8.43M",
+            "longFmt": "8,425,000"
+          },
+          "totalDebt": {},
+          "quickRatio": {
+            "raw": 0.659,
+            "fmt": "0.66"
+          },
+          "currentRatio": {
+            "raw": 0.915,
+            "fmt": "0.92"
+          },
+          "totalRevenue": {
+            "raw": 29908000,
+            "fmt": "29.91M",
+            "longFmt": "29,908,000"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 6.393,
+            "fmt": "6.39"
+          },
+          "returnOnAssets": {
+            "raw": 0.020610001,
+            "fmt": "2.06%"
+          },
+          "returnOnEquity": {
+            "raw": 0.03176,
+            "fmt": "3.18%"
+          },
+          "grossProfits": {
+            "raw": 29764000,
+            "fmt": "29.76M",
+            "longFmt": "29,764,000"
+          },
+          "freeCashflow": {
+            "raw": -15064750,
+            "fmt": "-15.06M",
+            "longFmt": "-15,064,750"
+          },
+          "operatingCashflow": {
+            "raw": -14142000,
+            "fmt": "-14.14M",
+            "longFmt": "-14,142,000"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.99518996,
+            "fmt": "99.52%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.28170002,
+            "fmt": "28.17%"
+          },
+          "operatingMargins": {
+            "raw": 0.24993,
+            "fmt": "24.99%"
+          },
+          "profitMargins": {
+            "raw": 0.15788001,
+            "fmt": "15.79%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,296 @@
+
+// [
+{
+"symbol" : "507315",
+"exchange" : "BOM",
+"id": "710274",
+"t" : "507315",
+"e" : "BOM",
+"name" : "Sakthi Sugars Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:507315"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:507315"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:507315"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.70%",
+"annual" : "1.13%",
+"ttm" : "-6.71%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-0.49%",
+"annual" : "14.87%",
+"ttm" : "-4.07%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.56%",
+"ttm" : "4.99%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.54%",
+"ttm" : "-2.61%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.66%",
+"ttm" : "-12.61%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,730",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.25",
+"l" : "20.75",
+"cp" : "-1.19",
+"ccol" : "chr",
+"op" : "21.05",
+"hi" : "21.05",
+"lo" : "20.70",
+"vo" : "11,966.00",
+"avvo" : "",
+"hi52" : "38.10",
+"lo52" : "20.55",
+"mc" : "2.47B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-4.94",
+"dy" : "",
+"ldiv" : "",
+"shares" : "118.85M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "710274",
+"name" : "Sakthi Sugars Ltd",
+"t" : "507315",
+"e" : "BOM",
+"l" : "20.75",
+"c" : "-0.25",
+"mc" : "2.47B",
+"cp" : "-1.19",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12172014",
+"name" : "Upper Ganges Sugar \u0026 Industries Ltd.",
+"t" : "UPERGANGES",
+"e" : "NSE",
+"l" : "376.60",
+"c" : "",
+"mc" : "4.37B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "1955865",
+"name" : "Oudh Sugar Mills Ltd.",
+"t" : "OUDHSUG",
+"e" : "NSE",
+"l" : "131.00",
+"c" : "",
+"mc" : "3.39B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8206150",
+"name" : "Bajaj Hindusthan Sugar Ltd",
+"t" : "BAJAJHIND",
+"e" : "NSE",
+"l" : "12.85",
+"c" : "-0.10",
+"mc" : "14.57B",
+"cp" : "-0.77",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10038828",
+"name" : "Balrampur Chini Mills Ltd",
+"t" : "BALRAMCHIN",
+"e" : "NSE",
+"l" : "117.90",
+"c" : "+1.50",
+"mc" : "27.66B",
+"cp" : "1.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1055947744768384",
+"name" : "Avadh Sugar \u0026 Energy Ltd",
+"t" : "AVADHSUGAR",
+"e" : "NSE",
+"l" : "679.70",
+"c" : "-6.50",
+"mc" : "6.73B",
+"cp" : "-0.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9721679",
+"name" : "Dhampur Sugar Mills Ltd",
+"t" : "DHAMPURSUG",
+"e" : "NSE",
+"l" : "198.75",
+"c" : "-3.45",
+"mc" : "13.21B",
+"cp" : "-1.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "446680211750339",
+"name" : "Magadh Sugar \u0026 Energy Ltd",
+"t" : "MAGADSUGAR",
+"e" : "NSE",
+"l" : "168.25",
+"c" : "+3.25",
+"mc" : "1.69B",
+"cp" : "1.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12704717",
+"name" : "Shree Renuka Sugars Limited",
+"t" : "RENUKA",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "-0.25",
+"mc" : "14.89B",
+"cp" : "-1.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11228342",
+"name" : "Uttam Sugar Mills Limited",
+"t" : "UTTAMSUGAR",
+"e" : "NSE",
+"l" : "119.35",
+"c" : "+1.50",
+"mc" : "4.60B",
+"cp" : "1.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13914119",
+"name" : "Triveni Engineering \u0026 Industries Ltd.",
+"t" : "TRIVENI",
+"e" : "NSE",
+"l" : "63.45",
+"c" : "-0.40",
+"mc" : "16.38B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "180, Race Course Road, COIMBATORE, 641018, India",
+"phone": "+91-422-4322222",
+"fax": "+91-422-4322488",
+"url": "http:\u002F\u002Fwww.sakthisugars.com",
+"overview" : "Sakthi Sugars Limited is engaged in the business of sugar, industrial alcohol, power and soya products. The Company\u0027s segments include sugar, industrial alcohol, soya products and power. Its sugar by-products include molasses, bagasse and press mud. The Company is a producer of white crystal sugar accounting for a capacity of approximately 19,000 tons of cane crush per day (TCD). Its power division operates co-generation power plants at Sakthinagar, Sivaganga and Modakurichi, and the aggregate power generation capacity of all three plants is approximately 92 megawatts (MW). Its distillery produces rectified spirit, extra neutral alcohol and ethanol, and has a distillery capacity of approximately 120 kiloliters per day (KLPD) and ethanol plant capacity of over 50 KLPD. The Company has the capacity to process approximately 90,000 tons soya beans per annum. Its Sugar Unit, Distillery Unit and Soya Extrusion Plants are located in Haripur Village, Korian Post, Dhenkanal District, Orissa."
+} ]
+, "management" : [
+{
+"name" : "M. Manickam",
+"age" : "57",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "S. Baskar",
+"title" : "Senior Vice President - Finance, Chief Compliance Officer, Secretary"
+}
+,
+{
+"name" : "M. Balasubramaniam",
+"age" : "56",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "M. Srinivaasan",
+"age" : "48",
+"title" : "Joint Managing Director - Technical, Executive Director"
+}
+,
+{
+"name" : "V. K. Swaminathan",
+"age" : "62",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Priya Bhansali",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Jigar Dalal",
+"title" : "Nominee Director"
+}
+,
+{
+"name" : "S. Balasubramaniam",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "S. Chandrasekhar",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "K. V. Ramachandran",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,349 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 425004256,
+            "fmt": "425M",
+            "longFmt": "425,004,256"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0849,
+            "fmt": "8.49%"
+          },
+          "floatShares": {
+            "raw": 9806633,
+            "fmt": "9.81M",
+            "longFmt": "9,806,633"
+          },
+          "sharesOutstanding": {
+            "raw": 20486400,
+            "fmt": "20.49M",
+            "longFmt": "20,486,400"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.060288,
+            "fmt": "1.06"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 48.769,
+            "fmt": "48.77"
+          },
+          "priceToBook": {
+            "raw": 0.3116734,
+            "fmt": "0.31"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.068,
+            "fmt": "-6.80%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 33472000,
+            "fmt": "33.47M",
+            "longFmt": "33,472,000"
+          },
+          "trailingEps": {
+            "raw": 1.488,
+            "fmt": "1.49"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.078,
+            "fmt": "1.08"
+          },
+          "enterpriseToEbitda": {
+            "raw": 8.414,
+            "fmt": "8.41"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 0.48,
+                  "fmt": "0.48"
+                },
+                "estimate": {
+                  "raw": 0.71,
+                  "fmt": "0.71"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 235034000,
+                  "fmt": "235.03M",
+                  "longFmt": "235,034,000"
+                },
+                "earnings": {
+                  "raw": 8440000,
+                  "fmt": "8.44M",
+                  "longFmt": "8,440,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 274507000,
+                  "fmt": "274.51M",
+                  "longFmt": "274,507,000"
+                },
+                "earnings": {
+                  "raw": 12961000,
+                  "fmt": "12.96M",
+                  "longFmt": "12,961,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 328554000,
+                  "fmt": "328.55M",
+                  "longFmt": "328,554,000"
+                },
+                "earnings": {
+                  "raw": 20801000,
+                  "fmt": "20.8M",
+                  "longFmt": "20,801,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 386623000,
+                  "fmt": "386.62M",
+                  "longFmt": "386,623,000"
+                },
+                "earnings": {
+                  "raw": 33341000,
+                  "fmt": "33.34M",
+                  "longFmt": "33,341,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 129664000,
+                  "fmt": "129.66M",
+                  "longFmt": "129,664,000"
+                },
+                "earnings": {
+                  "raw": 15616000,
+                  "fmt": "15.62M",
+                  "longFmt": "15,616,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 46397500,
+                  "fmt": "46.4M",
+                  "longFmt": "46,397,500"
+                },
+                "earnings": {
+                  "raw": 5661000,
+                  "fmt": "5.66M",
+                  "longFmt": "5,661,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 32322000,
+                  "fmt": "32.32M",
+                  "longFmt": "32,322,000"
+                },
+                "earnings": {
+                  "raw": 410000,
+                  "fmt": "410k",
+                  "longFmt": "410,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 171777000,
+                  "fmt": "171.78M",
+                  "longFmt": "171,777,000"
+                },
+                "earnings": {
+                  "raw": 6534000,
+                  "fmt": "6.53M",
+                  "longFmt": "6,534,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Plot No : 59",
+          "address2": "Road No : 12 TSIIC Tech Park IDA Nacharam",
+          "city": "Hyderabad",
+          "zip": "500076",
+          "country": "India",
+          "phone": "91 40 6456 5544",
+          "website": "http://www.celestiallabs.com",
+          "industry": "Biotechnology",
+          "sector": "Healthcare",
+          "longBusinessSummary": "Celestial Biolabs Limited develops and markets herbal, enzyme, and nutraceutical products in India. The company's herbal products include syrups, such as liver tonics, blood purifiers, and digestive tonics, gynaecological disorders, as well as syrups to treat cough and allergic disorders; capsules for joint pains, allergic dermatitis, diarrhoea, dysentery, lbs and amoebiasis, sinusitis, urti and fever, and cerebrovascular disease; granules to control stress; tablets for stamina and strength; oil products for pain relief and mobility enhancement; and creams, as well as various ayurvedic products. It also offers various enzyme products for use in detergent, textile, pulp and paper, poultry feed additives, grain based distillery, molasses based distillery, sugar, and food processing industries. In addition, Celestial Biolabs Limited provides nutraceuticals for GI health, antibacterial/antifungal/antithrombotic/anti-inflammatory, prostate cancer, mental visual function, heart diseases, bone health, cancer, blood sugar, and cardiovascular diseases. The company was formerly known as Celestial Technologies Limited and changed its name to Celestial Biolabs Limited in February 2004. Celestial Biolabs Limited was incorporated in 1997 and is based in Hyderabad, India.",
+          "fullTimeEmployees": 127,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 15.2,
+            "fmt": "15.20"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 1094000,
+            "fmt": "1.09M",
+            "longFmt": "1,094,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.049,
+            "fmt": "0.05"
+          },
+          "ebitda": {
+            "raw": 50511752,
+            "fmt": "50.51M",
+            "longFmt": "50,511,752"
+          },
+          "totalDebt": {
+            "raw": 82500000,
+            "fmt": "82.5M",
+            "longFmt": "82,500,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 394236000,
+            "fmt": "394.24M",
+            "longFmt": "394,236,000"
+          },
+          "debtToEquity": {
+            "raw": 8.252,
+            "fmt": "8.25"
+          },
+          "revenuePerShare": {
+            "raw": 17.526,
+            "fmt": "17.53"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 109092000,
+            "fmt": "109.09M",
+            "longFmt": "109,092,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.065,
+            "fmt": "-6.50%"
+          },
+          "revenueGrowth": {
+            "raw": 1.24,
+            "fmt": "124.00%"
+          },
+          "grossMargins": {
+            "raw": 0.33591998,
+            "fmt": "33.59%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.12812,
+            "fmt": "12.81%"
+          },
+          "operatingMargins": {
+            "raw": 0.09,
+            "fmt": "9.00%"
+          },
+          "profitMargins": {
+            "raw": 0.0849,
+            "fmt": "8.49%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

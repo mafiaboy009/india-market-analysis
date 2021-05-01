@@ -1,0 +1,279 @@
+
+// [
+{
+"symbol" : "507508",
+"exchange" : "BOM",
+"id": "1055530",
+"t" : "507508",
+"e" : "BOM",
+"name" : "Riga Sugar Co Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=RIGA.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:507508"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:507508"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:507508"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-19.99%",
+"annual" : "-2.64%",
+"ttm" : "-14.39%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-10.44%",
+"annual" : "4.67%",
+"ttm" : "-5.41%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.03%",
+"ttm" : "-1.99%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.48%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-5.59%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "700",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.03",
+"l" : "12.02",
+"cp" : "0.25",
+"ccol" : "chg",
+"op" : "12.90",
+"hi" : "12.99",
+"lo" : "11.78",
+"vo" : "2,844.00",
+"avvo" : "",
+"hi52" : "39.90",
+"lo52" : "11.60",
+"mc" : "173.47M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-12.64",
+"dy" : "",
+"ldiv" : "",
+"shares" : "14.44M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1055530",
+"name" : "Riga Sugar Co Ltd",
+"t" : "507508",
+"e" : "BOM",
+"l" : "12.02",
+"c" : "+0.03",
+"mc" : "173.47M",
+"cp" : "0.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8206150",
+"name" : "Bajaj Hindusthan Sugar Ltd",
+"t" : "BAJAJHIND",
+"e" : "NSE",
+"l" : "12.85",
+"c" : "-0.10",
+"mc" : "14.57B",
+"cp" : "-0.77",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8385784",
+"name" : "Sir Shadi Lal Enterprises Ltd",
+"t" : "532879",
+"e" : "BOM",
+"l" : "59.00",
+"c" : "+2.30",
+"mc" : "309.75M",
+"cp" : "4.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2214794",
+"name" : "Dhampure Speciality Sugars Ltd",
+"t" : "531923",
+"e" : "BOM",
+"l" : "17.00",
+"c" : "+0.40",
+"mc" : "121.74M",
+"cp" : "2.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16030878",
+"name" : "Gayatri Sugars Ltd",
+"t" : "532183",
+"e" : "BOM",
+"l" : "10.51",
+"c" : "-0.01",
+"mc" : "472.81M",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722380",
+"name" : "DCM Shriram Industries Limited",
+"t" : "523369",
+"e" : "BOM",
+"l" : "253.90",
+"c" : "+2.45",
+"mc" : "4.41B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4349567",
+"name" : "Dollex Industries Ltd",
+"t" : "531367",
+"e" : "BOM",
+"l" : "4.46",
+"c" : "+0.01",
+"mc" : "159.12M",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5486586",
+"name" : "Ravalgaon Sugar Farm Ltd",
+"t" : "507300",
+"e" : "BOM",
+"l" : "2,660.00",
+"c" : "0.00",
+"mc" : "180.88M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14923005",
+"name" : "Sbec Sugar Ltd",
+"t" : "532102",
+"e" : "BOM",
+"l" : "6.40",
+"c" : "0.00",
+"mc" : "304.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16680382",
+"name" : "Venus Sugar Ltd",
+"t" : "507472",
+"e" : "BOM",
+"l" : "0.76",
+"c" : "",
+"mc" : "30.09M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14193619",
+"name" : "Indian Sucrose Ltd",
+"t" : "500319",
+"e" : "BOM",
+"l" : "33.20",
+"c" : "-0.30",
+"mc" : "500.63M",
+"cp" : "-0.90",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "14, Netaji Subhas Road, 2nd Fioor, KOLKATA, 700001, India",
+"phone": "+91-33-22313414",
+"fax": "+91-33-22303663",
+"url": "http:\u002F\u002Fwww.rigasugar.com\u002F",
+"overview" : "Riga Sugar Company Limited is engaged in the business of manufacturing of sugar, industrial alcohol and ethanol. The Company\u0027s segments are Sugar and Distillery. The Sugar segment is engaged in the production of sugar, molasses and fertilizers. The Distillery segment is engaged in the production of industrial alcohol and related products. The Company manufactures bio-compost in the name of HARABHARA fertilizer-KRISHI-LABH by using distillery effluents on press mud of sugar, which is useful for food grains, vegetable, fruits, sugarcane and tea plant. The Company also produces vermin-compost. The Company produces bio-fertilizers and booster. The Company has set-up co-generation plant for producing additional three megawatt of electricity. The Company offers bio-fertilizers- and booster products under various brands, such as AMRIT, BASUNDHRA and SANJIVINI. Its alcohol plant produces over 50,000 liters of alcohol per day. The Company is a part of Dhanuka Group."
+} ]
+, "management" : [
+{
+"name" : "O. P. Dhanuka",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "S. Prasad",
+"title" : "Chief Executive Officer, Company Secretary, Compliance Officer"
+}
+,
+{
+"name" : "Dilip Kumar Datta",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sulekha Dutta",
+"title" : "Director"
+}
+,
+{
+"name" : "Nirmal Kumar Parasramka",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sarad Jha",
+"age" : "58",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Suyesh Borar",
+"age" : "49",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

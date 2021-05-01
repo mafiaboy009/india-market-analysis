@@ -1,0 +1,287 @@
+
+// [
+{
+"symbol" : "530047",
+"exchange" : "BOM",
+"id": "13342687",
+"t" : "530047",
+"e" : "BOM",
+"name" : "Mohota Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530047"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530047"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530047"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.29%",
+"annual" : "0.83%",
+"ttm" : "1.35%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.90%",
+"annual" : "3.67%",
+"ttm" : "4.30%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.79%",
+"ttm" : "5.38%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.36%",
+"ttm" : "1.76%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.91%",
+"ttm" : "3.10%"
+}
+]
+, "c" : "+3.45",
+"l" : "304.95",
+"cp" : "1.14",
+"ccol" : "chg",
+"op" : "304.00",
+"hi" : "345.00",
+"lo" : "303.00",
+"vo" : "321,005.00",
+"avvo" : "",
+"hi52" : "434.00",
+"lo52" : "65.00",
+"mc" : "4.46B",
+"pe" : "96.41",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.16",
+"dy" : "0.03",
+"ldiv" : "0.10",
+"shares" : "14.59M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "13342687",
+"name" : "Mohota Industries Ltd",
+"t" : "530047",
+"e" : "BOM",
+"l" : "304.95",
+"c" : "+3.45",
+"mc" : "4.46B",
+"cp" : "1.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6775313",
+"name" : "Salona Cotspin Ltd",
+"t" : "590056",
+"e" : "BOM",
+"l" : "122.45",
+"c" : "-4.55",
+"mc" : "613.94M",
+"cp" : "-3.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10446262",
+"name" : "Zenith Exports Ltd",
+"t" : "ZENITHEXPO",
+"e" : "NSE",
+"l" : "49.00",
+"c" : "0.00",
+"mc" : "264.42M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9379542",
+"name" : "Sangam (India) Ltd.",
+"t" : "SANGAMIND",
+"e" : "NSE",
+"l" : "146.50",
+"c" : "+4.05",
+"mc" : "5.79B",
+"cp" : "2.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12388315",
+"name" : "Simplex Mills Company Limited",
+"t" : "533018",
+"e" : "BOM",
+"l" : "9.98",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5980140",
+"name" : "Bannari Amman Spinning Mills Ltd.",
+"t" : "BASML",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "+5.95",
+"mc" : "4.41B",
+"cp" : "2.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9534454",
+"name" : "Banswara Syntex Ltd.",
+"t" : "BANSWRAS",
+"e" : "NSE",
+"l" : "117.00",
+"c" : "+1.40",
+"mc" : "2.01B",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715416",
+"name" : "Lakshmi Mills Company Ltd",
+"t" : "502958",
+"e" : "BOM",
+"l" : "3,500.00",
+"c" : "+50.00",
+"mc" : "2.43B",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12076788",
+"name" : "Spentex Industries Ltd.",
+"t" : "SPENTEX",
+"e" : "NSE",
+"l" : "5.75",
+"c" : "-0.15",
+"mc" : "507.59M",
+"cp" : "-2.54",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3691381",
+"name" : "RSWM Ltd.",
+"t" : "RSWM",
+"e" : "NSE",
+"l" : "329.50",
+"c" : "-2.45",
+"mc" : "7.81B",
+"cp" : "-0.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1022713",
+"name" : "Loyal Textile Mills Ltd",
+"t" : "514036",
+"e" : "BOM",
+"l" : "643.00",
+"c" : "-2.65",
+"mc" : "3.11B",
+"cp" : "-0.41",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Ram Mandir Ward, Dist Wardha (M.S.), HINGANGHAT, 442301, India",
+"phone": "+91-22-32577214",
+"fax": "+91-22-22081556",
+"url": "http:\u002F\u002Fwww.rsrmm.com\u002F",
+"overview" : "Mohota Industries Limited, formerly The Rai Saheb Rekhchand Mohota Spinning \u0026 Weaving Mills Ltd, is engaged in manufacturing of yarn and fabrics. The Company operates through Textiles segment. It operates through three product divisions: Spinning, Weaving and Processing. The Company, through Spinning division, supplies grey yarns for knitting and weaving in the medium count ranges for cotton, polyester and viscose, and their blends in carton or palette packing. The Company, through Weaving division, manufactures fabric from count range of 10 to 100s count with weight from 75 grams per square meter (gsm) to 400 gsm. The Company, through Processing division, specializes in suiting, shirting, trousering, school uniform materials, bed sheets, dress material and fabrics. It also specializes in the manufacture of fabrics with special effects, such as chiller finish, wrinkle free finish, Teflon finish, oil and water repellant finish, fire proof and duck."
+} ]
+, "management" : [
+{
+"name" : "Sachin N. Kanojiya",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vinod Kumar Mohota",
+"age" : "52",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Vinay Kumar Mohota",
+"age" : "46",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Shantilal B. Singhvi",
+"age" : "76",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Ranchhoddas Mohota",
+"age" : "77",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Ritu Kabra",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Krishnakant Purshottam Tekriwal",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Suresh Rathi",
+"age" : "54",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "G. G. Singhee",
+"age" : "80",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

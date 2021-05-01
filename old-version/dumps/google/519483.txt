@@ -1,0 +1,277 @@
+
+// [
+{
+"symbol" : "519483",
+"exchange" : "BOM",
+"id": "2345324",
+"t" : "519483",
+"e" : "BOM",
+"name" : "Tai Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=TAII.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:519483"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:519483"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:519483"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.00%",
+"annual" : "0.79%",
+"ttm" : "0.34%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.04%",
+"annual" : "-1.03%",
+"ttm" : "-1.07%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-0.76%",
+"ttm" : "-0.05%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.91%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.96%",
+"ttm" : ""
+}
+]
+, "c" : "-1.00",
+"l" : "19.30",
+"cp" : "-4.93",
+"ccol" : "chr",
+"op" : "19.30",
+"hi" : "19.30",
+"lo" : "19.30",
+"vo" : "180.00",
+"avvo" : "",
+"hi52" : "34.70",
+"lo52" : "15.95",
+"mc" : "119.33M",
+"pe" : "44.38",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.43",
+"dy" : "",
+"ldiv" : "0.50",
+"shares" : "6.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2345324",
+"name" : "Tai Industries Ltd",
+"t" : "519483",
+"e" : "BOM",
+"l" : "19.30",
+"c" : "-1.00",
+"mc" : "119.33M",
+"cp" : "-4.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14500268",
+"name" : "Vishal Exports Overseas Ltd",
+"t" : "VISHALEXPO",
+"e" : "NSE",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "0.00",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6433527",
+"name" : "Foseco India Limited",
+"t" : "FOSECOIND",
+"e" : "NSE",
+"l" : "1,601.00",
+"c" : "-5.90",
+"mc" : "10.17B",
+"cp" : "-0.37",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2538270",
+"name" : "Saianand Commercial Ltd",
+"t" : "512097",
+"e" : "BOM",
+"l" : "5.85",
+"c" : "0.00",
+"mc" : "64.32M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11202592",
+"name" : "Dhoot Industrial Finance Ltd",
+"t" : "526971",
+"e" : "BOM",
+"l" : "77.00",
+"c" : "+0.90",
+"mc" : "428.78M",
+"cp" : "1.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "770187020834630",
+"name" : "Ejecta Marketing Ltd",
+"t" : "538653",
+"e" : "BOM",
+"l" : "55.40",
+"c" : "-1.10",
+"mc" : "807.54M",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6518776",
+"name" : "Veritas (India) Limited",
+"t" : "512229",
+"e" : "BOM",
+"l" : "186.20",
+"c" : "-0.35",
+"mc" : "5.00B",
+"cp" : "-0.19",
+"ccol" : "chr"
+}
+,
+{
+"id" : "812616413691236",
+"name" : "Maximus International Ltd",
+"t" : "540401",
+"e" : "BOM",
+"l" : "36.50",
+"c" : "0.00",
+"mc" : "190.02M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "720161",
+"name" : "Temptation Foods Ltd.",
+"t" : "519228",
+"e" : "BOM",
+"l" : "4.05",
+"c" : "+0.03",
+"mc" : "160.83M",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14484118",
+"name" : "Chordia Food Products Ltd",
+"t" : "519475",
+"e" : "BOM",
+"l" : "160.00",
+"c" : "+2.00",
+"mc" : "476.82M",
+"cp" : "1.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5466813",
+"name" : "Flex Foods Ltd",
+"t" : "523672",
+"e" : "BOM",
+"l" : "130.65",
+"c" : "-2.25",
+"mc" : "1.63B",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "53A, 3rd floor,ARIHANT BUILDING Mirza Ghalib Street, KOLKATA, 700016, India",
+"phone": "+91-33-40416666",
+"fax": "+91-33-22497319",
+"url": "http:\u002F\u002Fwww.taiind.com\u002F",
+"overview" : "Tai Industries Limited is an India-based company, which is engaged in marketing of the DRUK brand of fruit products. The DRUK offers a range of packaged fruit and vegetable products, such as processed fruits, vegetables, jams, squashes, pickles, and fruit slices, manufactured by Bhutan Fruit Products Private Limited, in Bhutan. The Company also engaged in marketing of mineral products, such as calcium carbide, ferro-silicon and charcoal. It is also diversified into format retailing with its chain of supermarkets C3-The Marketplace. C3 has over 25,000 product stock keeping units (SKUs) across the verticals of food and grocery, spices, ready-to-eat and ready-to-cook food items, low alcoholic beverages assorted variety of imported health and specialty food, frozen meat, vegetables and fruits non food items, such as FMCG products, home care, personal care, and home decor."
+} ]
+, "management" : [
+{
+"name" : "Dasho Wangchuk Dorji",
+"title" : "Whole Time Chairman of the Board"
+}
+,
+{
+"name" : "Indira Biswas",
+"title" : "General Manager - Corporate, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rohan Ghosh",
+"title" : "President, Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "Dasho Topgyal Dorji",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sarada Hariharan",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vinay Killa",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kanwal Nain Malhotra",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Prem Sagar",
+"age" : "76",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

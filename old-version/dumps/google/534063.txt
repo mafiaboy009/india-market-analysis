@@ -1,0 +1,234 @@
+
+// [
+{
+"symbol" : "534063",
+"exchange" : "BOM",
+"id": "669495775637661",
+"t" : "534063",
+"e" : "BOM",
+"name" : "Futuristic Solutions Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=FUTU.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:534063"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:534063"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:534063"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-1326.91%",
+"annual" : "23.59%",
+"ttm" : "-180.93%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-1094.62%",
+"annual" : "41.52%",
+"ttm" : "-155.35%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "44.49%",
+"ttm" : "-130.93%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.56%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.40%",
+"ttm" : ""
+}
+]
+, "c" : "+1.15",
+"l" : "39.15",
+"cp" : "3.03",
+"ccol" : "chg",
+"op" : "39.15",
+"hi" : "39.15",
+"lo" : "39.15",
+"vo" : "55.00",
+"avvo" : "",
+"hi52" : "54.75",
+"lo52" : "24.50",
+"mc" : "410.04M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.76",
+"dy" : "1.28",
+"ldiv" : "0.50",
+"shares" : "10.47M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "669495775637661",
+"name" : "Futuristic Solutions Ltd",
+"t" : "534063",
+"e" : "BOM",
+"l" : "39.15",
+"c" : "+1.15",
+"mc" : "410.04M",
+"cp" : "3.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "374785",
+"name" : "Reliance Capital Limited",
+"t" : "RELCAPITAL",
+"e" : "NSE",
+"l" : "484.60",
+"c" : "+14.80",
+"mc" : "122.24B",
+"cp" : "3.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8456050",
+"name" : "Unisys Softwares and Holding Indus",
+"t" : "531831",
+"e" : "BOM",
+"l" : "22.90",
+"c" : "0.00",
+"mc" : "526.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "310734544955946",
+"name" : "PNB Housing Finance Ltd.",
+"t" : "PNBHOUSING",
+"e" : "NSE",
+"l" : "1,225.00",
+"c" : "+9.60",
+"mc" : "203.32B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "81569",
+"name" : "Indiabulls Financial Services Limited",
+"t" : "INDIABULLS",
+"e" : "NSE",
+"l" : "271.80",
+"c" : "0.00",
+"mc" : "84.92B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5510432",
+"name" : "Indiabulls Real Estate Ltd",
+"t" : "IBREALEST",
+"e" : "NSE",
+"l" : "219.50",
+"c" : "-2.20",
+"mc" : "104.38B",
+"cp" : "-0.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7686660",
+"name" : "Shalibhadra Finance Ltd",
+"t" : "511754",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "-5.35",
+"mc" : "652.09M",
+"cp" : "-3.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13563102",
+"name" : "Poddar Housing and Development Ltd",
+"t" : "523628",
+"e" : "BOM",
+"l" : "1,186.00",
+"c" : "+61.00",
+"mc" : "7.66B",
+"cp" : "5.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9073211",
+"name" : "Firstsource Solutions Ltd",
+"t" : "FSL",
+"e" : "NSE",
+"l" : "51.25",
+"c" : "-0.60",
+"mc" : "35.24B",
+"cp" : "-1.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "69987650553921",
+"name" : "Akme Star Housing Finance Ltd",
+"t" : "539017",
+"e" : "BOM",
+"l" : "110.50",
+"c" : "-2.60",
+"mc" : "1.31B",
+"cp" : "-2.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14573837",
+"name" : "IND Bank Housing Ltd",
+"t" : "523465",
+"e" : "BOM",
+"l" : "44.55",
+"c" : "-1.65",
+"mc" : "445.50M",
+"cp" : "-3.57",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "M-50, 2nd Floor, Greater Kailash - I, NEW DELHI, 110048, India",
+"phone": "+91-11-41630436",
+"fax": "+91-11-29235860",
+"overview" : "Futuristic Solutions Limited is an India-based non-banking financial company (NBFC). The Company is engaged in providing asset reconstruction and money lending. The Company is engaged in the industry deals in debts\u002Fclaims\u002Farbitration\u002Fdisstressed land and properties. The Company is also engaged in providing futuristic solutions of arbitration cases, recovery of debts, purchase, sale discounting and otherwise dealing in actionable claims, disputed debts and recoverable debts. The Company is also engaged in buying loan portfolios from other NBFCs."
+} ]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,293 @@
+
+// [
+{
+"symbol" : "533029",
+"exchange" : "BOM",
+"id": "719237",
+"t" : "533029",
+"e" : "BOM",
+"name" : "Alkali Metals Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533029"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533029"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533029"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.85%",
+"annual" : "0.61%",
+"ttm" : "0.07%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.03%",
+"annual" : "5.00%",
+"ttm" : "3.64%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.82%",
+"ttm" : "9.61%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.40%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.70%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "537",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.55",
+"l" : "83.00",
+"cp" : "1.90",
+"ccol" : "chg",
+"op" : "83.70",
+"hi" : "83.80",
+"lo" : "81.00",
+"vo" : "3,481.00",
+"avvo" : "",
+"hi52" : "106.00",
+"lo52" : "52.00",
+"mc" : "837.88M",
+"pe" : "1,428.82",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.06",
+"dy" : "0.60",
+"ldiv" : "0.50",
+"shares" : "10.18M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "719237",
+"name" : "Alkali Metals Limited",
+"t" : "533029",
+"e" : "BOM",
+"l" : "83.00",
+"c" : "+1.55",
+"mc" : "837.88M",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11146294",
+"name" : "Chemfab Alkalis Ltd",
+"t" : "CHEMFALKAL",
+"e" : "NSE",
+"l" : "262.00",
+"c" : "",
+"mc" : "2.41B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "1905718",
+"name" : "Gujarat Alkalies \u0026 Chemicals Limited",
+"t" : "GUJALKALI",
+"e" : "NSE",
+"l" : "757.00",
+"c" : "+8.45",
+"mc" : "55.69B",
+"cp" : "1.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14193045",
+"name" : "Andhra Sugars Ltd",
+"t" : "ANDHRSUGAR",
+"e" : "NSE",
+"l" : "491.00",
+"c" : "+1.40",
+"mc" : "13.30B",
+"cp" : "0.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5061661",
+"name" : "Aditya Birla Chemicals (India) Limited",
+"t" : "ABCIL",
+"e" : "NSE",
+"l" : "227.70",
+"c" : "",
+"mc" : "5.47B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "14757685",
+"name" : "GHCL Limited",
+"t" : "GHCL",
+"e" : "NSE",
+"l" : "293.00",
+"c" : "-2.25",
+"mc" : "28.67B",
+"cp" : "-0.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5500303",
+"name" : "Tata Chemicals Limited (Parent)",
+"t" : "TATACHEM",
+"e" : "NSE",
+"l" : "712.00",
+"c" : "+5.25",
+"mc" : "181.63B",
+"cp" : "0.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4199908",
+"name" : "DCW Limited",
+"t" : "DCW",
+"e" : "NSE",
+"l" : "37.00",
+"c" : "+0.25",
+"mc" : "8.19B",
+"cp" : "0.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2812528",
+"name" : "Jayshree Chemicals Ltd",
+"t" : "506520",
+"e" : "BOM",
+"l" : "14.65",
+"c" : "-0.40",
+"mc" : "431.06M",
+"cp" : "-2.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12736042",
+"name" : "Tamilnadu Petroproducts Limited",
+"t" : "TNPETRO",
+"e" : "NSE",
+"l" : "62.40",
+"c" : "+3.65",
+"mc" : "5.60B",
+"cp" : "6.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3410935",
+"name" : "Kanoria Chemicals \u0026 Industries Limited",
+"t" : "KANORICHEM",
+"e" : "NSE",
+"l" : "78.65",
+"c" : "+0.20",
+"mc" : "3.41B",
+"cp" : "0.25",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Plot B-5 Block III, Industrial Dev. Area, Uppal,, HYDERABAD, 500039, India",
+"phone": "+91-40-23445961",
+"fax": "+91-40-27201454",
+"url": "http:\u002F\u002Fwww.alkalimetals.com\u002F",
+"overview" : "Alkali Metals Limited is engaged in the business activities of manufacture of bulk drug, intermediaries, such as organic and inorganic chemical, and fine chemicals. The Company\u0027s products include Sodium Derivatives, Pyridine Derivatives and Fine Chemicals. Its geographical segments include Domestic and Export. It manufactures a range of products, including Alkali Metal Derivatives, Tetrazoles and Cyclic Compounds. The Company manufactures its products under three categories: Sodium derivatives Pyridine derivatives and Fine chemicals. Its products in these categories include amides, hydrides, alkoxides, azides, tetrazoles, pyridine compounds, cyclic compounds, drug and pharmaceutical intermediates, and specialty fine chemicals. The Company manufactures its products on bulk and regular basis, on campaign basis and also on contract manufacturing basis. The Company has three manufacturing facilities, of which two are located in Hyderabad and a facility in Vishakhapatnam."
+} ]
+, "management" : [
+{
+"name" : "P. Sankara S. Rao",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "M. Neeharika",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Yerramilli S. R. Venkata Rao",
+"age" : "62",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Y. N. Prashanth",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "J. S. Yadav",
+"age" : "58",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Y. Lalithya Poorna",
+"age" : "33",
+"title" : "Non-Executive Non Independent Director"
+}
+,
+{
+"name" : "Ganapati Jayaraman",
+"age" : "55",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Prakash Chandra Patnaik",
+"age" : "78",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Chirala Sriram Prasad",
+"age" : "76",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

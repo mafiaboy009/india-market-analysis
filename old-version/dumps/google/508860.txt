@@ -1,0 +1,274 @@
+
+// [
+{
+"symbol" : "508860",
+"exchange" : "BOM",
+"id": "12578259",
+"t" : "508860",
+"e" : "BOM",
+"name" : "Diamant Infrastructure Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=DCGL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:508860"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:508860"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:508860"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-11.64%",
+"annual" : "-16.72%",
+"ttm" : "-16.72%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.69%",
+"annual" : "8.32%",
+"ttm" : "8.32%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.34%",
+"ttm" : "11.34%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-5.24%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-12.68%",
+"ttm" : ""
+}
+]
+, "c" : "+0.01",
+"l" : "0.76",
+"cp" : "1.33",
+"ccol" : "chg",
+"op" : "0.76",
+"hi" : "0.76",
+"lo" : "0.76",
+"vo" : "115.00",
+"avvo" : "",
+"hi52" : "1.45",
+"lo52" : "0.58",
+"mc" : "26.07M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.78",
+"dy" : "",
+"ldiv" : "",
+"shares" : "35.20M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12578259",
+"name" : "Diamant Infrastructure Limited",
+"t" : "508860",
+"e" : "BOM",
+"l" : "0.76",
+"c" : "+0.01",
+"mc" : "26.07M",
+"cp" : "1.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14258919",
+"name" : "Vardhman Concrete Ltd",
+"t" : "531444",
+"e" : "BOM",
+"l" : "5.67",
+"c" : "0.00",
+"mc" : "40.58M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3593354",
+"name" : "Sadbhav Engineering Limited",
+"t" : "SADBHAV",
+"e" : "NSE",
+"l" : "376.00",
+"c" : "+1.15",
+"mc" : "64.30B",
+"cp" : "0.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1996623",
+"name" : "Bhagheeratha Engineering Ltd",
+"t" : "522136",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-12.15",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3199914",
+"name" : "Kyra Landscapes Ltd",
+"t" : "530967",
+"e" : "BOM",
+"l" : "0.19",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10219186",
+"name" : "Tantia Constructions Limited",
+"t" : "TANTIACONS",
+"e" : "NSE",
+"l" : "11.65",
+"c" : "-0.20",
+"mc" : "334.85M",
+"cp" : "-1.69",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9037119",
+"name" : "Dhenu Buildcon Infra Ltd",
+"t" : "501945",
+"e" : "BOM",
+"l" : "2.67",
+"c" : "0.00",
+"mc" : "48.86M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13797730",
+"name" : "J Kumar Infraprojects Ltd",
+"t" : "JKIL",
+"e" : "NSE",
+"l" : "278.85",
+"c" : "+1.50",
+"mc" : "20.88B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "139022467528857",
+"name" : "Sadbhav Infrastructure Projects Ltd",
+"t" : "SADBHIN",
+"e" : "NSE",
+"l" : "133.95",
+"c" : "-0.10",
+"mc" : "49.12B",
+"cp" : "-0.07",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9179965",
+"name" : "Jog Engineering Ltd",
+"t" : "507942",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "142092",
+"name" : "Simplex Projects Ltd",
+"t" : "SIMPLEX",
+"e" : "NSE",
+"l" : "25.20",
+"c" : "+0.20",
+"mc" : "330.10M",
+"cp" : "0.80",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Gotmare Complex, Block B, 1st Floor North Bazar Road, Dharampeth Ext, NAGPUR, 440010, India",
+"phone": "+91-712-6610222",
+"fax": "+91-712-6641261",
+"url": "http:\u002F\u002Fwww.diamantinfra.com\u002F",
+"overview" : "Diamant Infrastructure Limited is an India-based company, which is engaged in the manufacturing of SFRC (steel fiber reinforce concrete) products. The Company operates in two business segments: Infrastructure and Trading. The Company\u0027s products include SFRC Rain Water drains and RE Wall Cap. The Company executes various contracts of road projects."
+} ]
+, "management" : [
+{
+"name" : "Naresh S. Saboo",
+"age" : "49",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Kamlesh Prasad",
+"age" : "34",
+"title" : "Compliance Officer, Whole Time Director"
+}
+,
+{
+"name" : "Ashok Kumar Shukla",
+"age" : "47",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Mohd Israil Haji",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Reenal Jigar Kamdar",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Mohd Hanit Sheikh",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Balkishan Satyanarayan Bang",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

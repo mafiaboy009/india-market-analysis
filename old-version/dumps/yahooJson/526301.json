@@ -1,0 +1,199 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 282923392,
+            "fmt": "282.92M",
+            "longFmt": "282,923,392"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.06886,
+            "fmt": "-6.89%"
+          },
+          "floatShares": {
+            "raw": 2450028,
+            "fmt": "2.45M",
+            "longFmt": "2,450,028"
+          },
+          "sharesOutstanding": {
+            "raw": 9481640,
+            "fmt": "9.48M",
+            "longFmt": "9,481,640"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -10.717,
+            "fmt": "-10.72"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -5799895,
+            "fmt": "-5.8M",
+            "longFmt": "-5,799,895"
+          },
+          "trailingEps": {
+            "raw": -0.568,
+            "fmt": "-0.57"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 3.359,
+            "fmt": "3.36"
+          },
+          "enterpriseToEbitda": {
+            "raw": 23.695,
+            "fmt": "23.69"
+          },
+          "52WeekChange": {
+            "raw": -0.42894733,
+            "fmt": "-42.89%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.1593206,
+            "fmt": "15.93%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "MGR Estate, 6-3-456/C, Flat No.206",
+          "address2": "2nd Floor Dwarakapuri Colony Punjagutta",
+          "city": "Hyderabad",
+          "zip": "500482",
+          "country": "India",
+          "phone": "91 40 2331 0066",
+          "website": "http://www.medinovaindia.com",
+          "industry": "Medical Laboratories & Research",
+          "sector": "Healthcare",
+          "longBusinessSummary": "Medinova Diagnostic Services Limited, through its subsidiary, Medinova Millennium MRI Services LLP, provides diagnostic and related services in India. It offers blood test, MRI, CT, digital X-ray, ultra-sonography, bone densitometry, 2D echo color doppler, vascular study, cardiac stress lab, ECG, EEG, biochemistry, hematology, microbiology, and histopathology services; home visit, lab samples, reports delivery, and ambulance services. The company also provides lipid, cardiac, hypertension, renal, hepatic, orthopedic, and rheumatoid profiles. In addition, it offers infrastructure services. Further, the company operates a training and research institution in Pune. It has four centers located at Hyderabad, Kolkata, and Pune; and three franchise centers. The company was founded in 1985 and is based in Hyderabad, India. Medinova Diagnostic Services Limited is a subsidiary of Vijaya Diagnostic Centre Private Limited.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 21.7,
+            "fmt": "21.70"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 547000,
+            "fmt": "547k",
+            "longFmt": "547,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.054,
+            "fmt": "0.05"
+          },
+          "ebitda": {
+            "raw": 11940166,
+            "fmt": "11.94M",
+            "longFmt": "11,940,166"
+          },
+          "totalDebt": {
+            "raw": 61753000,
+            "fmt": "61.75M",
+            "longFmt": "61,753,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 84233312,
+            "fmt": "84.23M",
+            "longFmt": "84,233,312"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 8.244,
+            "fmt": "8.24"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 47271425,
+            "fmt": "47.27M",
+            "longFmt": "47,271,425"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.228,
+            "fmt": "22.80%"
+          },
+          "grossMargins": {
+            "raw": 0.55209,
+            "fmt": "55.21%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.14175001,
+            "fmt": "14.18%"
+          },
+          "operatingMargins": {
+            "raw": -0.23475,
+            "fmt": "-23.48%"
+          },
+          "profitMargins": {
+            "raw": -0.06886,
+            "fmt": "-6.89%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

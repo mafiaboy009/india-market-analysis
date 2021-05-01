@@ -1,0 +1,354 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 555130176,
+            "fmt": "555.13M",
+            "longFmt": "555,130,176"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.09151,
+            "fmt": "-9.15%"
+          },
+          "floatShares": {
+            "raw": 48523115,
+            "fmt": "48.52M",
+            "longFmt": "48,523,115"
+          },
+          "sharesOutstanding": {
+            "raw": 338520992,
+            "fmt": "338.52M",
+            "longFmt": "338,520,992"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.67582,
+            "fmt": "-0.68"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 22.85,
+            "fmt": "22.85"
+          },
+          "priceToBook": {
+            "raw": 0.050328225,
+            "fmt": "0.05"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -2290086912,
+            "fmt": "-2.29B",
+            "longFmt": "-2,290,086,912"
+          },
+          "trailingEps": {
+            "raw": -6.766,
+            "fmt": "-6.77"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "10/1",
+          "lastSplitDate": {
+            "raw": 1485734400,
+            "fmt": "2017-01-30"
+          },
+          "enterpriseToRevenue": {
+            "raw": 0.022,
+            "fmt": "0.02"
+          },
+          "enterpriseToEbitda": {
+            "raw": -1.724,
+            "fmt": "-1.72"
+          },
+          "52WeekChange": {
+            "raw": -0.7002584,
+            "fmt": "-70.03%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 129616092000,
+                  "fmt": "129.62B",
+                  "longFmt": "129,616,092,000"
+                },
+                "earnings": {
+                  "raw": 2081475000,
+                  "fmt": "2.08B",
+                  "longFmt": "2,081,475,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 89001965000,
+                  "fmt": "89B",
+                  "longFmt": "89,001,965,000"
+                },
+                "earnings": {
+                  "raw": 2023603000,
+                  "fmt": "2.02B",
+                  "longFmt": "2,023,603,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 81572761000,
+                  "fmt": "81.57B",
+                  "longFmt": "81,572,761,000"
+                },
+                "earnings": {
+                  "raw": 751857000,
+                  "fmt": "751.86M",
+                  "longFmt": "751,857,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 25025541000,
+                  "fmt": "25.03B",
+                  "longFmt": "25,025,541,000"
+                },
+                "earnings": {
+                  "raw": -2290087000,
+                  "fmt": "-2.29B",
+                  "longFmt": "-2,290,087,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "4Q2015",
+                "revenue": {
+                  "raw": 18751513000,
+                  "fmt": "18.75B",
+                  "longFmt": "18,751,513,000"
+                },
+                "earnings": {
+                  "raw": 264134000,
+                  "fmt": "264.13M",
+                  "longFmt": "264,134,000"
+                }
+              },
+              {
+                "date": "1Q2016",
+                "revenue": {
+                  "raw": 17748810000,
+                  "fmt": "17.75B",
+                  "longFmt": "17,748,810,000"
+                },
+                "earnings": {
+                  "raw": -482569000,
+                  "fmt": "-482.57M",
+                  "longFmt": "-482,569,000"
+                }
+              },
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 103617000,
+                  "fmt": "103.62M",
+                  "longFmt": "103,617,000"
+                },
+                "earnings": {
+                  "raw": -347707000,
+                  "fmt": "-347.71M",
+                  "longFmt": "-347,707,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": -155010000,
+                  "fmt": "-155.01M",
+                  "longFmt": "-155,010,000"
+                },
+                "earnings": {
+                  "raw": -1559710000,
+                  "fmt": "-1.56B",
+                  "longFmt": "-1,559,710,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Apeejay House",
+          "address2": "6th Floor 130, Mumbai Samachar Marg Fort",
+          "city": "Mumbai",
+          "zip": "400023",
+          "country": "India",
+          "phone": "91 22 6194 8888",
+          "fax": "91 22 2282 1416",
+          "website": "http://www.ushdev.com",
+          "industry": "Industrial Equipment Wholesale",
+          "sector": "Services",
+          "longBusinessSummary": "Ushdev International Limited engages in metal trading and wind power generation businesses in India. The company trades in ferrous metals, including raw materials comprising metallurgical coal/coke, sponge iron, iron ore-lumps, fines, pellets, pig iron, steel scrap, and liquid metal; flat products, which include hot rolled coils/steel/plates, hot rolled pickled coils, cold rolled coils/sheets, galvanized products, annealed products, pickled products, color coated sheets, corrugated sheets, MS sheets/coils/plates, and tins; and long products that comprise angles, beams, channels, billets, ingots, pipes, rods, wires, carbon and stainless steel bars/rods/structures, and wires. It also trades in non-ferrous metals, including copper cathodes, scrap, wires, sheets, plates, coils, strips, cups, foils, and rods; aluminum electrodes, scrap, and ingots; zinc ingots; lead; brass ingots, strips, and coils; chrome; tin; and nickel cathodes, wires, and briquettes, as well as ferro nickel. In addition, the company generates wind power through its windmills in the states of Tamil Nadu, Rajasthan, Karnataka, Gujarat, and Maharashtra. It imports and exports various forms of metals to approximately 28 countries worldwide. The company was incorporated in 1994 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1.15,
+            "fmt": "1.15"
+          },
+          "targetHighPrice": {
+            "raw": 310.0,
+            "fmt": "310.00"
+          },
+          "targetLowPrice": {
+            "raw": 310.0,
+            "fmt": "310.00"
+          },
+          "targetMeanPrice": {
+            "raw": 310.0,
+            "fmt": "310.00"
+          },
+          "targetMedianPrice": {
+            "raw": 310.0,
+            "fmt": "310.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": -321952992,
+            "fmt": "-321.95M",
+            "longFmt": "-321,952,992"
+          },
+          "totalDebt": {},
+          "quickRatio": {
+            "raw": 1.019,
+            "fmt": "1.02"
+          },
+          "currentRatio": {
+            "raw": 1.147,
+            "fmt": "1.15"
+          },
+          "totalRevenue": {
+            "raw": 25025540096,
+            "fmt": "25.03B",
+            "longFmt": "25,025,540,096"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 73.932,
+            "fmt": "73.93"
+          },
+          "returnOnAssets": {
+            "raw": -0.0058399998,
+            "fmt": "-0.58%"
+          },
+          "returnOnEquity": {
+            "raw": -0.2581,
+            "fmt": "-25.81%"
+          },
+          "grossProfits": {
+            "raw": 852025000,
+            "fmt": "852.02M",
+            "longFmt": "852,025,000"
+          },
+          "freeCashflow": {
+            "raw": -13695315968,
+            "fmt": "-13.7B",
+            "longFmt": "-13,695,315,968"
+          },
+          "operatingCashflow": {
+            "raw": -12284981248,
+            "fmt": "-12.28B",
+            "longFmt": "-12,284,981,248"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.03405,
+            "fmt": "3.40%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.01286,
+            "fmt": "-1.29%"
+          },
+          "operatingMargins": {
+            "raw": -0.01584,
+            "fmt": "-1.58%"
+          },
+          "profitMargins": {
+            "raw": -0.09151,
+            "fmt": "-9.15%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

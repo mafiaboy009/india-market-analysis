@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "508494",
+"exchange" : "BOM",
+"id": "2716300",
+"t" : "508494",
+"e" : "BOM",
+"name" : "Warren Tea Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=WRRN.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:508494"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:508494"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:508494"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-126.89%",
+"annual" : "-13.72%",
+"ttm" : "3.31%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-123.89%",
+"annual" : "-22.37%",
+"ttm" : "1.58%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-19.09%",
+"ttm" : "3.98%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-7.94%",
+"ttm" : "2.63%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-8.04%",
+"ttm" : "3.16%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "8,874",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.55",
+"l" : "106.40",
+"cp" : "-0.51",
+"ccol" : "chr",
+"op" : "107.80",
+"hi" : "109.90",
+"lo" : "105.00",
+"vo" : "132,643.00",
+"avvo" : "",
+"hi52" : "183.25",
+"lo52" : "100.40",
+"mc" : "1.27B",
+"pe" : "33.45",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.18",
+"dy" : "",
+"ldiv" : "",
+"shares" : "11.95M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2716300",
+"name" : "Warren Tea Ltd",
+"t" : "508494",
+"e" : "BOM",
+"l" : "106.40",
+"c" : "-0.55",
+"mc" : "1.27B",
+"cp" : "-0.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8926652",
+"name" : "Asian Tea and Exports Ltd",
+"t" : "519532",
+"e" : "BOM",
+"l" : "16.50",
+"c" : "+0.60",
+"mc" : "165.00M",
+"cp" : "3.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "703983",
+"name" : "McLeod Russel India Limited",
+"t" : "MCLEODRUSS",
+"e" : "NSE",
+"l" : "168.20",
+"c" : "+1.50",
+"mc" : "18.49B",
+"cp" : "0.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4839971",
+"name" : "Tata Global Beverages Ltd",
+"t" : "TATAGLOBAL",
+"e" : "NSE",
+"l" : "274.80",
+"c" : "+4.10",
+"mc" : "173.11B",
+"cp" : "1.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715307",
+"name" : "Goodricke Group Ltd.",
+"t" : "500166",
+"e" : "BOM",
+"l" : "386.45",
+"c" : "-1.05",
+"mc" : "8.40B",
+"cp" : "-0.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7187739",
+"name" : "United Nilgiri Tea Estates Company Ltd",
+"t" : "UNITEDTEA",
+"e" : "NSE",
+"l" : "401.00",
+"c" : "-16.85",
+"mc" : "2.00B",
+"cp" : "-4.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7241020",
+"name" : "Neelamalai Agro Industries Ltd",
+"t" : "508670",
+"e" : "BOM",
+"l" : "1,511.00",
+"c" : "0.00",
+"mc" : "947.93M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12655206",
+"name" : "Tyroon Tea Co Ltd",
+"t" : "526945",
+"e" : "BOM",
+"l" : "53.40",
+"c" : "+0.60",
+"mc" : "181.67M",
+"cp" : "1.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7987390",
+"name" : "B \u0026 A Ltd",
+"t" : "508136",
+"e" : "BOM",
+"l" : "287.70",
+"c" : "+3.95",
+"mc" : "891.87M",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5691753",
+"name" : "Joonktollee Tea \u0026 Industries Ltd",
+"t" : "538092",
+"e" : "BOM",
+"l" : "177.00",
+"c" : "+2.90",
+"mc" : "732.96M",
+"cp" : "1.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "184593816927361",
+"name" : "KanCo Tea \u0026 Industries Ltd",
+"t" : "590130",
+"e" : "BOM",
+"l" : "93.20",
+"c" : "-1.50",
+"mc" : "324.52M",
+"cp" : "-1.58",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Suvira House, 4B Hungerford Street, KOLKATA, 700017, India",
+"phone": "+91-33-22872287",
+"fax": "+91-33-22890301",
+"url": "http:\u002F\u002Fwww.warrentea.com\u002F",
+"overview" : "Warren Tea Limited is engaged in plantation of tea. The Company sells black tea in bulk. It sells teas both in the domestic and overseas markets. The Company has over seven gardens in Upper Assam in the districts of Dibrugarh and Tinsukia, covering approximately 4,000 hectares of tea country. The Company is a producer and exporter of crush, tear, curl (CTC) and orthodox teas. It offers packaged teas in packets, caddies and tea bags. Hatimara is its clonal tea estate."
+} ]
+, "management" : [
+{
+"name" : "S. K. Mukhopadhyay",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "S. K. Ghosh",
+"age" : "60",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Siddhartha Roy",
+"title" : "Compliance Officer, Company Secretary, President - Legal"
+}
+,
+{
+"name" : "Vinay Kumar Goenka",
+"age" : "54",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Sonia Barman",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Anup Kaur Bindra",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Lalit Kumar Halwasiya",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "S. Bhoopal",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "N. Dutta",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,279 @@
+
+ [
+{
+"symbol" : "526492",
+"exchange" : "BOM",
+"id": "2318289",
+"t" : "526492",
+"e" : "BOM",
+"name" : "Rishiroop Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=RISI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:526492"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:526492"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:526492"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.28%",
+"annual" : "7.47%",
+"ttm" : "7.47%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.23%",
+"annual" : "6.56%",
+"ttm" : "6.56%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.71%",
+"ttm" : "7.71%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.27%",
+"ttm" : "5.27%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.16%",
+"ttm" : "6.16%"
+}
+]
+, "c" : "-1.80",
+"l" : "115.70",
+"cp" : "-1.53",
+"ccol" : "chr",
+"op" : "119.90",
+"hi" : "120.00",
+"lo" : "115.00",
+"vo" : "7,278.00",
+"avvo" : "",
+"hi52" : "154.60",
+"lo52" : "41.75",
+"mc" : "1.12B",
+"pe" : "24.72",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.68",
+"dy" : "0.86",
+"ldiv" : "1.00",
+"shares" : "9.70M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2318289",
+"name" : "Rishiroop Ltd",
+"t" : "526492",
+"e" : "BOM",
+"l" : "115.70",
+"c" : "-1.80",
+"mc" : "1.12B",
+"cp" : "-1.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8328014",
+"name" : "Kkalpana Industries (India) Limited",
+"t" : "526409",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "+4.20",
+"mc" : "3.76B",
+"cp" : "11.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1688446",
+"name" : "Fiberweb (India) Ltd",
+"t" : "507910",
+"e" : "BOM",
+"l" : "155.55",
+"c" : "+0.50",
+"mc" : "4.46B",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15044531",
+"name" : "Dujodwala Paper Chemicals Ltd",
+"t" : "524276",
+"e" : "BOM",
+"l" : "6.65",
+"c" : "0.00",
+"mc" : "39.29M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6349926",
+"name" : "Multibase India Ltd",
+"t" : "526169",
+"e" : "BOM",
+"l" : "649.00",
+"c" : "+0.35",
+"mc" : "8.22B",
+"cp" : "0.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1662677",
+"name" : "Hindustan Fluorocarbons Ltd",
+"t" : "524013",
+"e" : "BOM",
+"l" : "13.30",
+"c" : "-0.70",
+"mc" : "260.67M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5828787",
+"name" : "Polychem Ltd",
+"t" : "506605",
+"e" : "BOM",
+"l" : "390.35",
+"c" : "-14.65",
+"mc" : "157.72M",
+"cp" : "-3.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "324659645305382",
+"name" : "Signet Industries Limited",
+"t" : "SIGNET",
+"e" : "NSE",
+"l" : "8.30",
+"c" : "+0.20",
+"mc" : "2.46B",
+"cp" : "2.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15651379",
+"name" : "Bhansali Engineering Polymers Ltd.",
+"t" : "BEPL",
+"e" : "NSE",
+"l" : "169.95",
+"c" : "+1.35",
+"mc" : "28.20B",
+"cp" : "0.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10366834",
+"name" : "Jolly Plastic Inds Ltd",
+"t" : "507968",
+"e" : "BOM",
+"l" : "122.00",
+"c" : "0.00",
+"mc" : "795.29M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13301966",
+"name" : "Kunstoffe Industries Ltd",
+"t" : "523594",
+"e" : "BOM",
+"l" : "39.55",
+"c" : "-1.25",
+"mc" : "272.17M",
+"cp" : "-3.06",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "65, Atlanta, Nariman Point, MUMBAI, 400021, India",
+"phone": "+91-22-40952000",
+"fax": "+91-22-22872796",
+"url": "http:\u002F\u002Fwww.rishiroop.in\u002F",
+"overview" : "Rishiroop Limited, formerly Puneet Resins Limited, is engaged in the manufacturing of polymer blends for the medium and small-scale sector. The Company operates through Polymers \u0026 Compounds segment. The Company has two geographical segments: India and Outside India. The Company\u0027s products include nitrile rubber (NBR)\u002Fpolyvinyl chloride (PVC) blend, PVC-NBR blend and Synthetic Rubber. The Company also offers a vulcanized vegetable oil, Vulcanol, which offers a range of grades that can perform as processing aids, extenders or as a plasticizer for rubber base formulations. Its Vulcanol is used in printing rollers and blankets, eraser compounds, rubberized fabric and rubber threads. Its Vinoprene\u002FVinoplast are a group of NBR\u002FPVC blends. Its VinoPrene and Vinoplast are used in petroleum hoses, liquid petroleum gas (LPG) house, cable sheeting, shoe sales, automotive parts and printing rolls."
+} ]
+, "management" : [
+{
+"name" : "Suresh H. Khilnani",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Agnelo A. Fernandes",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Aditya Arvind Kapoor",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Arvind Mahendra Kapoor",
+"age" : "59",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Atul Rameshchandra Shah",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Jayesh C. Dadia",
+"age" : "57",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vijyatta Jaiswal",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Dilip Shah",
+"age" : "61",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

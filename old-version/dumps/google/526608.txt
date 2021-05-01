@@ -1,0 +1,287 @@
+
+// [
+{
+"symbol" : "526608",
+"exchange" : "BOM",
+"id": "715078",
+"t" : "526608",
+"e" : "BOM",
+"name" : "Electrotherm (India) Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:526608"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:526608"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:526608"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002709)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.35%",
+"annual" : "-3.48%",
+"ttm" : "3.05%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.18%",
+"annual" : "-3.89%",
+"ttm" : "10.84%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.35%",
+"ttm" : "13.94%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-3.56%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,640",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.40",
+"l" : "157.25",
+"cp" : "0.90",
+"ccol" : "chg",
+"op" : "157.15",
+"hi" : "157.80",
+"lo" : "154.00",
+"vo" : "1,917.00",
+"avvo" : "",
+"hi52" : "308.80",
+"lo52" : "125.05",
+"mc" : "2.02B",
+"pe" : "3.50",
+"fwpe" : "",
+"beta" : "",
+"eps" : "44.93",
+"dy" : "",
+"ldiv" : "",
+"shares" : "12.74M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715078",
+"name" : "Electrotherm (India) Ltd",
+"t" : "526608",
+"e" : "BOM",
+"l" : "157.25",
+"c" : "+1.40",
+"mc" : "2.02B",
+"cp" : "0.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7687804",
+"name" : "Pradeep Metals Ltd",
+"t" : "513532",
+"e" : "BOM",
+"l" : "103.50",
+"c" : "+2.10",
+"mc" : "1.77B",
+"cp" : "2.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6124393",
+"name" : "Terruzzi Fercalx India Ltd",
+"t" : "522080",
+"e" : "BOM",
+"l" : "8.58",
+"c" : "0.00",
+"mc" : "81.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15105977",
+"name" : "GKW Limited",
+"t" : "GKWLIMITED",
+"e" : "NSE",
+"l" : "585.00",
+"c" : "-28.30",
+"mc" : "3.66B",
+"cp" : "-4.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13928461",
+"name" : "Garg Furnace Ltd",
+"t" : "530615",
+"e" : "BOM",
+"l" : "10.69",
+"c" : "+0.08",
+"mc" : "42.53M",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3952531",
+"name" : "Pennar Industries Ltd",
+"t" : "PENIND",
+"e" : "NSE",
+"l" : "61.50",
+"c" : "+2.15",
+"mc" : "7.40B",
+"cp" : "3.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14744034",
+"name" : "Sarda Energy \u0026 Minerals Limited",
+"t" : "SARDAEN",
+"e" : "NSE",
+"l" : "502.00",
+"c" : "+4.00",
+"mc" : "18.02B",
+"cp" : "0.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9868566",
+"name" : "Tayo Rolls Ltd",
+"t" : "504961",
+"e" : "BOM",
+"l" : "68.85",
+"c" : "+1.20",
+"mc" : "706.47M",
+"cp" : "1.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12512694",
+"name" : "Vaswani Industries Ltd",
+"t" : "VASWANI",
+"e" : "NSE",
+"l" : "15.95",
+"c" : "+0.65",
+"mc" : "486.45M",
+"cp" : "4.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4272275",
+"name" : "Steel Exchange India Ltd",
+"t" : "534748",
+"e" : "BOM",
+"l" : "31.00",
+"c" : "+1.45",
+"mc" : "2.35B",
+"cp" : "4.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "84816923796163",
+"name" : "Aanchal Ispat Ltd",
+"t" : "538812",
+"e" : "BOM",
+"l" : "17.00",
+"c" : "+0.55",
+"mc" : "",
+"cp" : "3.34",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Survey No. 72, Palodia(via Thaltej), AHMEDABAD, 382115, India",
+"phone": "+91-2717-234553",
+"fax": "+91-2717-234866",
+"url": "http:\u002F\u002Fwww.electrotherm.com\u002F",
+"overview" : "Electrotherm (India) Limited is engaged in the manufacturing of electronic furnaces and other capital equipment, sponge and PIG iron, ferrous and nonferrous billets\u002Fbars\u002Fingots, duct iron pipes, battery operated vehicles, electric power generation and services relating to electric furnaces, other capital equipment and battery operated vehicles. The Company operates through three segments: Engineering \u0026 Projects Division, which manufactures melting furnaces, heating and hardening furnaces, and other steel making and refining equipment\u003B Special Steel Division, which includes products, such as angles and structures for transmission line tower and wind mill applications, stainless steel for industrial application and mild steel and carbon steel for structural\u002Fforging applications, and Electric Vehicle Division, which manufactures YObykes, battery operated scooters, other battery operated vehicles and components of electric vehicles."
+} ]
+, "management" : [
+{
+"name" : "Mukesh Bhandari",
+"age" : "63",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Avinash Bhandari",
+"age" : "48",
+"title" : "Chief Executive Officer, Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Pawan Gaur",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Fageshkumar Soni",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Siddharth Bhandari",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Pratap Mohan",
+"age" : "56",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Dinesh Shankar Mukati",
+"age" : "59",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Arun Kumar Jain",
+"age" : "62",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

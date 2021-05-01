@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "530331",
+"exchange" : "BOM",
+"id": "3676646",
+"t" : "530331",
+"e" : "BOM",
+"name" : "Premco Global Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=PREM.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530331"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530331"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530331"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.52%",
+"annual" : "13.35%",
+"ttm" : "9.10%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.55%",
+"annual" : "19.03%",
+"ttm" : "11.53%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "23.01%",
+"ttm" : "15.83%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "13.81%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.77%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "183",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.05",
+"l" : "343.15",
+"cp" : "0.90",
+"ccol" : "chg",
+"op" : "354.00",
+"hi" : "356.00",
+"lo" : "340.10",
+"vo" : "6,017.00",
+"avvo" : "",
+"hi52" : "540.00",
+"lo52" : "331.00",
+"mc" : "1.13B",
+"pe" : "16.40",
+"fwpe" : "",
+"beta" : "",
+"eps" : "20.93",
+"dy" : "0.87",
+"ldiv" : "3.00",
+"shares" : "3.30M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "3676646",
+"name" : "Premco Global Ltd",
+"t" : "530331",
+"e" : "BOM",
+"l" : "343.15",
+"c" : "+3.05",
+"mc" : "1.13B",
+"cp" : "0.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4238278",
+"name" : "Gopala Polyplast Ltd",
+"t" : "526717",
+"e" : "BOM",
+"l" : "156.30",
+"c" : "-3.40",
+"mc" : "1.42B",
+"cp" : "-2.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13239496",
+"name" : "Arex Industries Ltd",
+"t" : "526851",
+"e" : "BOM",
+"l" : "110.00",
+"c" : "-3.00",
+"mc" : "435.46M",
+"cp" : "-2.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8361717",
+"name" : "First Winner Industries Ltd.",
+"t" : "FIRSTWIN",
+"e" : "NSE",
+"l" : "2.30",
+"c" : "-0.10",
+"mc" : "115.54M",
+"cp" : "-4.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15652636",
+"name" : "Weizmann Ltd",
+"t" : "WEIZMANIND",
+"e" : "NSE",
+"l" : "44.75",
+"c" : "+1.00",
+"mc" : "783.65M",
+"cp" : "2.29",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6926290",
+"name" : "Gujarat Cotex Ltd",
+"t" : "514386",
+"e" : "BOM",
+"l" : "2.45",
+"c" : "-0.08",
+"mc" : "17.45M",
+"cp" : "-3.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2782482",
+"name" : "Amani Trading And Exports Ltd",
+"t" : "512008",
+"e" : "BOM",
+"l" : "63.20",
+"c" : "0.00",
+"mc" : "44.22M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2198142",
+"name" : "Hindoostan Mills Ltd",
+"t" : "509895",
+"e" : "BOM",
+"l" : "365.00",
+"c" : "+19.75",
+"mc" : "607.56M",
+"cp" : "5.72",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9430261",
+"name" : "Tuni Textile Mills Ltd",
+"t" : "531411",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "64.01M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2981112",
+"name" : "Risa International Ltd",
+"t" : "530251",
+"e" : "BOM",
+"l" : "1.36",
+"c" : "+0.01",
+"mc" : "216.92M",
+"cp" : "0.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9426201",
+"name" : "Kamadgiri Fashion Ltd",
+"t" : "514322",
+"e" : "BOM",
+"l" : "135.25",
+"c" : "-2.20",
+"mc" : "802.30M",
+"cp" : "-1.60",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Premco House Street No. 3, MIDC, Andheri (East), MUMBAI, 400093, India",
+"phone": "+91-22-28223232",
+"fax": "+91-22-28351812",
+"url": "http:\u002F\u002Fwww.premcoglobal.com\u002F",
+"overview" : "Premco Global Limited is an India-based holding company. The Company is engaged in manufacturing of woven and knitted elastic tapes, and other activities. The Company\u0027s elastic and non-elastic narrow fabrics include name tapes, panty elastic, shoulder straps, button holes, printed elastic, plain and rigid tapes, medical products and hair bands. It also offers packaging and brand identification products, such as woven and printed labels, hangtags, tagless or heat transfer labels and decoration products, flock embellishments and presentation display quantity (PDQ) displays. The Company manufactures woven and knitted elastic and rigid narrow fabric, and tape products to serve various industry applications, including apparel, lingerie, sports-related, medical, footwear, luggage and automotive fields. It operates in Mumbai, Dadra, Palghar, Vapi and Vietnam. Its subsidiary is Premco Global Vietnam Company Limited."
+} ]
+, "management" : [
+{
+"name" : "Ashok B. Harjani",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Harsha Kaur Hotsinghani",
+"title" : "Company Secretary cum Compliance Officer"
+}
+,
+{
+"name" : "Lokesh P. Harjani",
+"age" : "38",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Nisha P. Harjani",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sonia A. Harjani",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Prem I. Gidwani",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Rajesh M. Mahtani",
+"age" : "41",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Devendra K. Shah",
+"age" : "61",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

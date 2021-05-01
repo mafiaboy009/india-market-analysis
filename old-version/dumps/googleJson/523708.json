@@ -1,0 +1,283 @@
+
+ [
+{
+"symbol" : "523708",
+"exchange" : "BOM",
+"id": "3949286",
+"t" : "523708",
+"e" : "BOM",
+"name" : "Eimco Elecon Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:523708"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:523708"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:523708"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "16.40%",
+"annual" : "13.33%",
+"ttm" : "17.40%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.49%",
+"annual" : "9.00%",
+"ttm" : "10.89%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.79%",
+"ttm" : "14.76%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.03%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.11%",
+"ttm" : ""
+}
+]
+, "c" : "-7.90",
+"l" : "485.50",
+"cp" : "-1.60",
+"ccol" : "chr",
+"op" : "490.40",
+"hi" : "490.40",
+"lo" : "485.50",
+"vo" : "80.00",
+"avvo" : "",
+"hi52" : "700.00",
+"lo52" : "458.00",
+"mc" : "2.81B",
+"pe" : "12.25",
+"fwpe" : "",
+"beta" : "",
+"eps" : "39.63",
+"dy" : "1.03",
+"ldiv" : "5.00",
+"shares" : "5.77M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "3949286",
+"name" : "Eimco Elecon Ltd.",
+"t" : "523708",
+"e" : "BOM",
+"l" : "485.50",
+"c" : "-7.90",
+"mc" : "2.81B",
+"cp" : "-1.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10556357",
+"name" : "BEML Ltd",
+"t" : "BEML",
+"e" : "NSE",
+"l" : "1,252.00",
+"c" : "+19.50",
+"mc" : "52.32B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10827648",
+"name" : "Revathi Equipment Ltd",
+"t" : "REVATHI",
+"e" : "NSE",
+"l" : "634.00",
+"c" : "-1.80",
+"mc" : "2.00B",
+"cp" : "-0.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15853858",
+"name" : "TIL Limited",
+"t" : "TIL",
+"e" : "NSE",
+"l" : "512.35",
+"c" : "+2.45",
+"mc" : "5.14B",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5112781",
+"name" : "Yuken India Ltd",
+"t" : "522108",
+"e" : "BOM",
+"l" : "4,420.00",
+"c" : "-27.25",
+"mc" : "13.21B",
+"cp" : "-0.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10144511",
+"name" : "Ut Ltd",
+"t" : "526879",
+"e" : "BOM",
+"l" : "6.57",
+"c" : "0.00",
+"mc" : "58.08M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "431519",
+"name" : "Veljan Denison Limited",
+"t" : "505232",
+"e" : "BOM",
+"l" : "1,057.00",
+"c" : "+33.00",
+"mc" : "2.38B",
+"cp" : "3.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13911996",
+"name" : "Everest Kanto Cylinder Ltd",
+"t" : "EKC",
+"e" : "NSE",
+"l" : "55.50",
+"c" : "+2.75",
+"mc" : "6.20B",
+"cp" : "5.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16541201",
+"name" : "Minda Industries Ltd",
+"t" : "MINDAIND",
+"e" : "NSE",
+"l" : "1,122.00",
+"c" : "+17.70",
+"mc" : "97.07B",
+"cp" : "1.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "706007",
+"name" : "International Combustions India Limited",
+"t" : "505737",
+"e" : "BOM",
+"l" : "495.00",
+"c" : "+9.80",
+"mc" : "1.19B",
+"cp" : "2.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7938133",
+"name" : "Titagarh Wagons Ltd",
+"t" : "TWL",
+"e" : "NSE",
+"l" : "131.25",
+"c" : "+3.15",
+"mc" : "15.15B",
+"cp" : "2.46",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Anand Sojitra Road, VALLABH VIDYANAGAR, 388120, India",
+"phone": "+91-2692-230902",
+"fax": "+91-2692-236506",
+"url": "http:\u002F\u002Feimcoelecon.in\u002F",
+"overview" : "Eimco Elecon (India) Limited is an India-based company, which is engaged in the business of manufacturing and supplying of equipment\u0027s for mining and construction sector. The Company produces a range of underground coal mining machinery and its spares and components. The Company offers its products for a range of applications, including coal mining, metal mining and construction equipment. Its products include Air Motors, 811-Load Haul Dumper, 912E-Load Haul Dumper, 912B MK II-Load Haul Dumper, low Profile Dump Truck, 912CH-Coal Hauler, 625-Side Dump Loader, 611-Side Dump Loader, 611-Universal Drill Machine, 824-Rocker Shovel Loader, 150\u002F1000B-Hopper Loader, AL 120-Articulated Wheel Loader, AL 520-Articulated Wheel Loader, 21B-Rocker Shovel Loaders and Chair Lift Man Riding System. The Company\u0027s plant is located in Vallabh Vidyanagar, Gujarat."
+} ]
+, "management" : [
+{
+"name" : "Nilesh D. Shelat",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Bharti L. Isarani",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Prayasvin B. Patel",
+"title" : "Additional Executive Director"
+}
+,
+{
+"name" : "M. G. Rao",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Pradipbhai M. Patel",
+"age" : "65",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Prashantbhai C. Amin",
+"age" : "57",
+"title" : "Director"
+}
+,
+{
+"name" : "Reena P. Bhagwati",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Manjula Devi Schroff",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Nirmal Bhogilal",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

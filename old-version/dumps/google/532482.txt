@@ -1,0 +1,298 @@
+
+// [
+{
+"symbol" : "532482",
+"exchange" : "BOM",
+"id": "706295",
+"t" : "532482",
+"e" : "BOM",
+"name" : "Granules India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532482"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532482"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532482"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.34%",
+"annual" : "9.74%",
+"ttm" : "8.90%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.25%",
+"annual" : "16.23%",
+"ttm" : "15.27%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "21.59%",
+"ttm" : "20.11%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.13%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "21.02%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,636",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.95",
+"l" : "119.40",
+"cp" : "1.66",
+"ccol" : "chg",
+"op" : "118.00",
+"hi" : "119.85",
+"lo" : "116.50",
+"vo" : "96,567.00",
+"avvo" : "",
+"hi52" : "157.00",
+"lo52" : "101.95",
+"mc" : "30.16B",
+"pe" : "17.57",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.80",
+"dy" : "0.84",
+"ldiv" : "0.25",
+"shares" : "253.77M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "706295",
+"name" : "Granules India Ltd",
+"t" : "532482",
+"e" : "BOM",
+"l" : "119.40",
+"c" : "+1.95",
+"mc" : "30.16B",
+"cp" : "1.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7222829",
+"name" : "Makers Laboratories Ltd",
+"t" : "506919",
+"e" : "BOM",
+"l" : "81.35",
+"c" : "+1.15",
+"mc" : "406.07M",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "679412034444482",
+"name" : "Bajaj Healthcare Ltd",
+"t" : "539872",
+"e" : "BOM",
+"l" : "378.75",
+"c" : "0.00",
+"mc" : "2.61B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6521463",
+"name" : "Parenteral Drugs (India) Ltd.",
+"t" : "PDPL",
+"e" : "NSE",
+"l" : "18.60",
+"c" : "-0.15",
+"mc" : "554.58M",
+"cp" : "-0.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16546949",
+"name" : "Lincoln Pharmaceuticals Ltd",
+"t" : "531633",
+"e" : "BOM",
+"l" : "239.25",
+"c" : "+9.05",
+"mc" : "4.77B",
+"cp" : "3.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2986863",
+"name" : "Alpa Laboratories Limited",
+"t" : "ALPA",
+"e" : "NSE",
+"l" : "45.90",
+"c" : "+2.15",
+"mc" : "965.76M",
+"cp" : "4.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5397679",
+"name" : "Gennex Laboratories Ltd",
+"t" : "531739",
+"e" : "BOM",
+"l" : "4.43",
+"c" : "-0.15",
+"mc" : "567.85M",
+"cp" : "-3.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7085020",
+"name" : "Bal Pharma Ltd",
+"t" : "BALPHARMA",
+"e" : "NSE",
+"l" : "96.15",
+"c" : "+0.10",
+"mc" : "1.37B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2456500",
+"name" : "Wanbury Limited",
+"t" : "WANBURY",
+"e" : "NSE",
+"l" : "40.00",
+"c" : "+1.00",
+"mc" : "928.80M",
+"cp" : "2.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3593756",
+"name" : "Vista Pharmaceuticals Ltd",
+"t" : "524711",
+"e" : "BOM",
+"l" : "44.10",
+"c" : "+1.55",
+"mc" : "1.26B",
+"cp" : "3.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7853362",
+"name" : "Shasun Chemicals \u0026 Drugs Limited",
+"t" : "SHASUNPHAR",
+"e" : "NSE",
+"l" : "431.00",
+"c" : "",
+"mc" : "28.99B",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Second Floor Block III, My Home Hub, Madhapur, HYDERABAD, 500081, India",
+"phone": "+91-40-66760000",
+"fax": "+91-40-23115145",
+"url": "http:\u002F\u002Fwww.granulesindia.com\u002F",
+"overview" : "Granules India Limited is a pharmaceutical company with presence across the pharmaceutical manufacturing value chain, including active pharmaceutical ingredients (APIs), pharmaceutical formulation intermediaries (PFIs) and finished dosages (FDs). The Company\u0027s business operations include three areas: core business, emerging business, and contract research and manufacturing services (CRAMS). Its products in Core business include Paracetamol, Ibuprofen, Guaifenesin and Metformin. The Company operates a healthcare division, Granules Consumer Healthcare (GCH). The Company, through an acquisition, has access to over 10 APIs, as well as intermediates in therapeutic categories, such as anti-histaminic, antihypertensive and anti-convulsants. The Company\u0027s PFI products include Compresso PAP 97 S, Compresso PAP 90 CPC and Paracetamol Caffeine Combo 77.4. The Company\u0027s FDs include Paracetamol\u002FAcetaminophen, and Acetaminophen and Methocarbamol."
+} ]
+, "management" : [
+{
+"name" : "K. Ganesh",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Chaitanya Tummala",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Chigurupati Krishna Prasad",
+"age" : "59",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Uma Devi Chigurupati",
+"age" : "53",
+"title" : "Non-Independent Executive Director"
+}
+,
+{
+"name" : "V.V.N.K.V. Prasada Raju",
+"title" : "Additional Executive Director"
+}
+,
+{
+"name" : "Kolli Basava Sankara Rao",
+"title" : "Director"
+}
+,
+{
+"name" : "Harsha Chigurupati",
+"age" : "32",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Arun Rao Akinepally",
+"age" : "55",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Krishna Murthy Ella",
+"age" : "57",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "A. P. Kurian",
+"age" : "81",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

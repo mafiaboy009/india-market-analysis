@@ -1,0 +1,278 @@
+
+// [
+{
+"symbol" : "506522",
+"exchange" : "BOM",
+"id": "8740908",
+"t" : "506522",
+"e" : "BOM",
+"name" : "JL Morison India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=JLMI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:506522"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:506522"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:506522"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.66%",
+"annual" : "1.77%",
+"ttm" : "8.69%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.94%",
+"annual" : "-2.94%",
+"ttm" : "0.99%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-1.03%",
+"ttm" : "2.73%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.43%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.65%",
+"ttm" : ""
+}
+]
+, "c" : "+56.00",
+"l" : "1,485.00",
+"cp" : "3.92",
+"ccol" : "chg",
+"op" : "1,459.00",
+"hi" : "1,489.90",
+"lo" : "1,459.00",
+"vo" : "8.00",
+"avvo" : "",
+"hi52" : "1,708.80",
+"lo52" : "980.00",
+"mc" : "2.03B",
+"pe" : "29.18",
+"fwpe" : "",
+"beta" : "",
+"eps" : "50.88",
+"dy" : "0.07",
+"ldiv" : "1.00",
+"shares" : "1.36M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "8740908",
+"name" : "JL Morison India Ltd",
+"t" : "506522",
+"e" : "BOM",
+"l" : "1,485.00",
+"c" : "+56.00",
+"mc" : "2.03B",
+"cp" : "3.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12054339",
+"name" : "Elder Health Care Ltd",
+"t" : "524830",
+"e" : "BOM",
+"l" : "8.55",
+"c" : "0.00",
+"mc" : "34.91M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2889377",
+"name" : "Gillette India Limited",
+"t" : "GILLETTE",
+"e" : "NSE",
+"l" : "6,649.95",
+"c" : "+3.90",
+"mc" : "217.80B",
+"cp" : "0.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14928615",
+"name" : "Farmax India Limited",
+"t" : "FARMAXIND",
+"e" : "NSE",
+"l" : "0.05",
+"c" : "0.00",
+"mc" : "26.71M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "829919",
+"name" : "Dabur India Ltd",
+"t" : "DABUR",
+"e" : "NSE",
+"l" : "331.75",
+"c" : "+1.15",
+"mc" : "580.17B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11882217",
+"name" : "Bajaj Corp Ltd",
+"t" : "BAJAJCORP",
+"e" : "NSE",
+"l" : "487.00",
+"c" : "+1.70",
+"mc" : "71.74B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4000544",
+"name" : "Paramount Cosmetics (India) Ltd",
+"t" : "507970",
+"e" : "BOM",
+"l" : "31.40",
+"c" : "-1.60",
+"mc" : "152.45M",
+"cp" : "-4.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13034665",
+"name" : "Ador Multi Products Ltd",
+"t" : "523120",
+"e" : "BOM",
+"l" : "23.15",
+"c" : "0.00",
+"mc" : "66.31M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7979933",
+"name" : "Synergy Cosmetics Exim Ltd",
+"t" : "531115",
+"e" : "BOM",
+"l" : "0.48",
+"c" : "0.00",
+"mc" : "5.44M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14753584",
+"name" : "Lykis Ltd",
+"t" : "530689",
+"e" : "BOM",
+"l" : "53.10",
+"c" : "+1.60",
+"mc" : "1.03B",
+"cp" : "3.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1188812",
+"name" : "Emami Ltd",
+"t" : "EMAMILTD",
+"e" : "NSE",
+"l" : "1,105.50",
+"c" : "+33.30",
+"mc" : "250.26B",
+"cp" : "3.11",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Peninsula Business Park, Tower A 8th Flo 79, \u0027Crystal\u0027, Dr A.B Road, Worli Senapati Bapat Marg, Lower Parel, MUMBAI, 400013, India",
+"phone": "+91-22-61410300",
+"fax": "+91-33-2481200",
+"url": "https:\u002F\u002Fwww.jlmorison.com\u002Fshop\u002F",
+"overview" : "J.L. Morison (India) Limited is engaged in the business of marketing and distribution of personal care, life style and fast-moving consumer goods (FMCG) products. The Company is engaged in the trading and marketing of deodorants, fragrances, toiletry, personal healthcare, grooming products and medicated toothpaste. The Company operates in the business segment of Personal Care products. The Company operates in three divisions, which include Health Care, Life Style and Own Brands. Its Health Care division focuses on the specialized oral care category. Its Life Style division caters to the selling and distribution needs of its international partners, including COTY and HOYU. Its Own Brands division focuses on the Baby care range under the Morisons Baby Dreams brand. It has manufactured and distributed brands of companies like Nivea, Emoform, Equal, Bigen and Beechams, among others. It also has its own range of brands called Baby Dreams, Zero Gravity, Gentlemen and Morison."
+} ]
+, "management" : [
+{
+"name" : "Sohan Sarda",
+"title" : "Chief Executive Officer, Additional Executive Director"
+}
+,
+{
+"name" : "Ravindra Gajelli",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Karishma Patel",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Raghu Nandan Mody",
+"age" : "74",
+"title" : "Non-Executive Non-Independent Chairman of the Board"
+}
+,
+{
+"name" : "Sakshi Mody",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Varunn Mody",
+"age" : "27",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Lalit Bararia",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Dinesh Sharma",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,335 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 88929017856,
+            "fmt": "88.93B",
+            "longFmt": "88,929,017,856"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -2.12134,
+            "fmt": "-212.13%"
+          },
+          "floatShares": {
+            "raw": 493725690,
+            "fmt": "493.73M",
+            "longFmt": "493,725,690"
+          },
+          "sharesOutstanding": {
+            "raw": 2852559872,
+            "fmt": "2.85B",
+            "longFmt": "2,852,559,872"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.313319,
+            "fmt": "1.31"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 50.537,
+            "fmt": "50.54"
+          },
+          "priceToBook": {
+            "raw": 0.3443022,
+            "fmt": "0.34"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -33394286592,
+            "fmt": "-33.39B",
+            "longFmt": "-33,394,286,592"
+          },
+          "trailingEps": {
+            "raw": -12.908,
+            "fmt": "-12.91"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 5.649,
+            "fmt": "5.65"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": -0.41254127,
+            "fmt": "-41.25%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 45919595000,
+                  "fmt": "45.92B",
+                  "longFmt": "45,919,595,000"
+                },
+                "earnings": {
+                  "raw": 6017414000,
+                  "fmt": "6.02B",
+                  "longFmt": "6,017,414,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 43116484000,
+                  "fmt": "43.12B",
+                  "longFmt": "43,116,484,000"
+                },
+                "earnings": {
+                  "raw": -4543251000,
+                  "fmt": "-4.54B",
+                  "longFmt": "-4,543,251,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 12973882000,
+                  "fmt": "12.97B",
+                  "longFmt": "12,973,882,000"
+                },
+                "earnings": {
+                  "raw": -28973275000,
+                  "fmt": "-28.97B",
+                  "longFmt": "-28,973,275,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 15310837000,
+                  "fmt": "15.31B",
+                  "longFmt": "15,310,837,000"
+                },
+                "earnings": {
+                  "raw": -34167386000,
+                  "fmt": "-34.17B",
+                  "longFmt": "-34,167,386,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 5663137000,
+                  "fmt": "5.66B",
+                  "longFmt": "5,663,137,000"
+                },
+                "earnings": {
+                  "raw": -6466686000,
+                  "fmt": "-6.47B",
+                  "longFmt": "-6,466,686,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 4040300000,
+                  "fmt": "4.04B",
+                  "longFmt": "4,040,300,000"
+                },
+                "earnings": {
+                  "raw": -4990900000,
+                  "fmt": "-4.99B",
+                  "longFmt": "-4,990,900,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 2468700000,
+                  "fmt": "2.47B",
+                  "longFmt": "2,468,700,000"
+                },
+                "earnings": {
+                  "raw": -12225000000,
+                  "fmt": "-12.22B",
+                  "longFmt": "-12,225,000,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 3569900000,
+                  "fmt": "3.57B",
+                  "longFmt": "3,569,900,000"
+                },
+                "earnings": {
+                  "raw": -9711700000,
+                  "fmt": "-9.71B",
+                  "longFmt": "-9,711,700,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "763 Anna Salai",
+          "city": "Chennai",
+          "zip": "600002",
+          "country": "India",
+          "phone": "91 44 2852 4212",
+          "fax": "91 44 2858 5675",
+          "website": "http://www.iob.in",
+          "industry": "Money Center Banks",
+          "sector": "Financial",
+          "longBusinessSummary": "Indian Overseas Bank provides various banking products and services. The company operates through Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Operations segments. Its personal banking products and services comprise saving bank and current accounts, term deposits, retail loans, home loans and mortgages, depository services, gold investment products, debit and credit cards, life and non-life insurance products, mutual funds, real time gross settlement services, pension payment and savings schemes, locker facility, and rupay cards. The company's corporate banking services include term loans and working capital loans for micro, small, and medium enterprises (MSME); and loans for information technology (IT) and ITes BPO sectors. It also provides NRI accounts, as well as merchant, rural, Internet, and mobile banking services. As of March 31, 2017, Indian Overseas Bank operated 3,373 branches in India, including 922 rural branches, 1,001 semi urban branches, 692 urban branches, and 758 metropolitan branches; and 7 zonal offices, 49 regional offices, 4 extension counters, 20 satellite offices, 3 city back offices, 18 MSME processing centers, and 6 inspectorates. The company had two branches each in Hong Kong, Bangkok, and Sri Lanka; and one each in Singapore and South Korea. Indian Overseas Bank was founded in 1937 and is based in Chennai, India.",
+          "fullTimeEmployees": 29806,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 17.4,
+            "fmt": "17.40"
+          },
+          "targetHighPrice": {
+            "raw": 15.0,
+            "fmt": "15.00"
+          },
+          "targetLowPrice": {
+            "raw": 15.0,
+            "fmt": "15.00"
+          },
+          "targetMeanPrice": {
+            "raw": 15.0,
+            "fmt": "15.00"
+          },
+          "targetMedianPrice": {
+            "raw": 15.0,
+            "fmt": "15.00"
+          },
+          "recommendationMean": {
+            "raw": 4.0,
+            "fmt": "4.00"
+          },
+          "recommendationKey": "underperform",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 102944202752,
+            "fmt": "102.94B",
+            "longFmt": "102,944,202,752"
+          },
+          "totalCashPerShare": {
+            "raw": 36.04,
+            "fmt": "36.04"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 139458592768,
+            "fmt": "139.46B",
+            "longFmt": "139,458,592,768"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 15742036992,
+            "fmt": "15.74B",
+            "longFmt": "15,742,036,992"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 6.085,
+            "fmt": "6.09"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 15310837000,
+            "fmt": "15.31B",
+            "longFmt": "15,310,837,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.448,
+            "fmt": "-44.80%"
+          },
+          "grossMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": -2.37267,
+            "fmt": "-237.27%"
+          },
+          "profitMargins": {
+            "raw": -2.12134,
+            "fmt": "-212.13%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 46797000,
+            "fmt": "46.8M",
+            "longFmt": "46,797,000"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.35716,
+            "fmt": "35.72%"
+          },
+          "floatShares": {
+            "raw": 3050017,
+            "fmt": "3.05M",
+            "longFmt": "3,050,017"
+          },
+          "sharesOutstanding": {
+            "raw": 6721150,
+            "fmt": "6.72M",
+            "longFmt": "6,721,150"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.330653,
+            "fmt": "-0.33"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 7.705,
+            "fmt": "7.70"
+          },
+          "priceToBook": {
+            "raw": 0.88254386,
+            "fmt": "0.88"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.101,
+            "fmt": "-10.10%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1141246,
+            "fmt": "1.14M",
+            "longFmt": "1,141,246"
+          },
+          "trailingEps": {
+            "raw": 0.165,
+            "fmt": "0.17"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 14.646,
+            "fmt": "14.65"
+          },
+          "enterpriseToEbitda": {
+            "raw": 27.034,
+            "fmt": "27.03"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "A/5, Jaymangal House",
+          "address2": "Opposite Gandhigram Railway Station",
+          "city": "Ahmedabad",
+          "zip": "380009",
+          "country": "India",
+          "phone": "91 79 2658 4080",
+          "fax": "91 79 2658 7009",
+          "website": "http://www.redexprotech.com",
+          "industry": "Industrial Equipment Wholesale",
+          "sector": "Services",
+          "longBusinessSummary": "Redex Protech Limited engages in fire extinguisher equipment business in India. It offers smoke alarms, smoke detectors, and related products, as well as extinguisher refilling and labor services. The company was incorporated in 1991 and is based in Ahmedabad, India.",
+          "fullTimeEmployees": 3,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 6.8,
+            "fmt": "6.80"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 263000,
+            "fmt": "263k",
+            "longFmt": "263,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.037,
+            "fmt": "0.04"
+          },
+          "ebitda": {
+            "raw": 1731066,
+            "fmt": "1.73M",
+            "longFmt": "1,731,066"
+          },
+          "totalDebt": {
+            "raw": 1594000,
+            "fmt": "1.59M",
+            "longFmt": "1,594,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 3195305,
+            "fmt": "3.2M",
+            "longFmt": "3,195,305"
+          },
+          "debtToEquity": {
+            "raw": 3.183,
+            "fmt": "3.18"
+          },
+          "revenuePerShare": {
+            "raw": 0.463,
+            "fmt": "0.46"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 2119174,
+            "fmt": "2.12M",
+            "longFmt": "2,119,174"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.167,
+            "fmt": "-16.70%"
+          },
+          "revenueGrowth": {
+            "raw": 0.052,
+            "fmt": "5.20%"
+          },
+          "grossMargins": {
+            "raw": 0.68074,
+            "fmt": "68.07%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.54175,
+            "fmt": "54.18%"
+          },
+          "operatingMargins": {
+            "raw": 0.43793,
+            "fmt": "43.79%"
+          },
+          "profitMargins": {
+            "raw": 0.35716,
+            "fmt": "35.72%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

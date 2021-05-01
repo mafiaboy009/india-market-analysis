@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "534804",
+"exchange" : "BOM",
+"id": "27950428202180",
+"t" : "534804",
+"e" : "BOM",
+"name" : "CARE Ratings Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:534804"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:534804"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:534804"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "51.27%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "62.40%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "63.58%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "27.92%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "32.61%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "569",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.70",
+"l" : "1,365.75",
+"cp" : "-0.20",
+"ccol" : "chr",
+"op" : "1,372.90",
+"hi" : "1,375.00",
+"lo" : "1,360.00",
+"vo" : "190,874.00",
+"avvo" : "",
+"hi52" : "1,800.00",
+"lo52" : "1,277.50",
+"mc" : "40.40B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "2.05",
+"ldiv" : "6.00",
+"shares" : "29.46M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "27950428202180",
+"name" : "CARE Ratings Ltd",
+"t" : "534804",
+"e" : "BOM",
+"l" : "1,365.75",
+"c" : "-2.70",
+"mc" : "40.40B",
+"cp" : "-0.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2490518",
+"name" : "ICRA Ltd",
+"t" : "ICRA",
+"e" : "NSE",
+"l" : "3,751.90",
+"c" : "-49.85",
+"mc" : "37.22B",
+"cp" : "-1.31",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10268265",
+"name" : "CRISIL Ltd.",
+"t" : "CRISIL",
+"e" : "NSE",
+"l" : "1,920.00",
+"c" : "-1.70",
+"mc" : "137.80B",
+"cp" : "-0.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16718212",
+"name" : "Engineers India Limited",
+"t" : "ENGINERSIN",
+"e" : "NSE",
+"l" : "174.40",
+"c" : "+3.60",
+"mc" : "109.76B",
+"cp" : "2.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1372968",
+"name" : "Mps Ltd",
+"t" : "MPSLTD",
+"e" : "NSE",
+"l" : "576.00",
+"c" : "-3.50",
+"mc" : "10.68B",
+"cp" : "-0.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6636324",
+"name" : "BNR Udyog Ltd",
+"t" : "530809",
+"e" : "BOM",
+"l" : "32.50",
+"c" : "+1.80",
+"mc" : "103.93M",
+"cp" : "5.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6587228",
+"name" : "HOV Services Limited",
+"t" : "HOVS",
+"e" : "NSE",
+"l" : "292.30",
+"c" : "+13.90",
+"mc" : "3.66B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3500927",
+"name" : "Hinduja Global Solutions Ltd",
+"t" : "HGS",
+"e" : "NSE",
+"l" : "835.10",
+"c" : "-7.20",
+"mc" : "17.46B",
+"cp" : "-0.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11681293",
+"name" : "NIIT Technologies Ltd.",
+"t" : "NIITTECH",
+"e" : "NSE",
+"l" : "829.85",
+"c" : "-1.40",
+"mc" : "50.72B",
+"cp" : "-0.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16418426",
+"name" : "Datamatics Global Services Ltd",
+"t" : "DATAMATICS",
+"e" : "NSE",
+"l" : "128.60",
+"c" : "+0.40",
+"mc" : "7.61B",
+"cp" : "0.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "908050565151682",
+"name" : "Focus Suites Solutions \u0026 Services Ltd",
+"t" : "540945",
+"e" : "BOM",
+"l" : "33.90",
+"c" : "+3.05",
+"mc" : "",
+"cp" : "9.89",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "4F,Godrej Coliseum, Somaiya Hospital Rd Off Eastern Express Highway, Sion (East), MUMBAI, 400022, India",
+"phone": "+91-22-67543456",
+"fax": "+91-22-67543457",
+"url": "http:\u002F\u002Fwww.careratings.com\u002F",
+"overview" : "CARE Ratings Limited, formerly Credit Analysis and Research Limited, is a credit rating agency. The Company is engaged in providing financial services other than securities dealing activities. The Company\u0027s segments include Ratings and related services, and Others. The Company\u0027s grading products include EQUIGRADE, MFI Grading, Real Estate Star Rating, Edu-Grade, REIT Rating, RESCO Grading, ESCO Grading, IPO Grading, ITI Grading, Shipyard Grading, Construction Grading and Maritime Grading. The Company serves various market segments, such as corporates, including debt ratings, bank loan ratings and issuer ratings\u003B financial sector, including credit quality ratings and capital protection oriented scheme ratings\u003B public finance, including assessment of the credit quality of states and local bodies, and Project Finance. Its offerings for small and medium enterprises (SME) include SME Ratings, Bank Loan Ratings, Channel Partner Evaluation, SME Fundamental Grading and Due Diligence Service."
+} ]
+, "management" : [
+{
+"name" : "Rajesh Mokashi",
+"age" : "52",
+"title" : "Chief Executive Officer, Managing Director, Whole-Time Director"
+}
+,
+{
+"name" : "Mahendra Naik",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Arun Kumar",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Mehul Pandya",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "S. B. Mainak",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "S. Ananthakrishnan",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "V. Chandrasekaran",
+"age" : "59",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Sadhana Dhamane",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "B. S. Keshava Murthy",
+"title" : "Additional Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

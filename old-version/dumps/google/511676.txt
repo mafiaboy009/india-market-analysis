@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "511676",
+"exchange" : "BOM",
+"id": "715528",
+"t" : "511676",
+"e" : "BOM",
+"name" : "GIC Housing Finance Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:511676"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:511676"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:511676"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "15.00%",
+"annual" : "14.77%",
+"ttm" : "15.61%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "22.82%",
+"annual" : "22.55%",
+"ttm" : "23.73%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "22.62%",
+"ttm" : "23.79%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.70%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.82%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "256",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+7.05",
+"l" : "406.85",
+"cp" : "1.76",
+"ccol" : "chg",
+"op" : "404.45",
+"hi" : "410.25",
+"lo" : "402.95",
+"vo" : "14,279.00",
+"avvo" : "",
+"hi52" : "623.20",
+"lo52" : "295.15",
+"mc" : "21.84B",
+"pe" : "12.80",
+"fwpe" : "",
+"beta" : "",
+"eps" : "31.79",
+"dy" : "1.23",
+"ldiv" : "5.00",
+"shares" : "53.85M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715528",
+"name" : "GIC Housing Finance Ltd.",
+"t" : "511676",
+"e" : "BOM",
+"l" : "406.85",
+"c" : "+7.05",
+"mc" : "21.84B",
+"cp" : "1.76",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12179797",
+"name" : "Sigrun Holdings Ltd",
+"t" : "531863",
+"e" : "BOM",
+"l" : "0.19",
+"c" : "0.00",
+"mc" : "103.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3383863",
+"name" : "Silicon Valley Infotech Ltd",
+"t" : "531738",
+"e" : "BOM",
+"l" : "0.03",
+"c" : "0.00",
+"mc" : "3.89M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "399986380824131",
+"name" : "SRS Finance Ltd",
+"t" : "536799",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "-0.04",
+"mc" : "93.22M",
+"cp" : "-4.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4903645",
+"name" : "Visagar Financial Services Ltd",
+"t" : "531025",
+"e" : "BOM",
+"l" : "0.87",
+"c" : "0.00",
+"mc" : "28.28M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8456050",
+"name" : "Unisys Softwares and Holding Indus",
+"t" : "531831",
+"e" : "BOM",
+"l" : "22.90",
+"c" : "0.00",
+"mc" : "526.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7977316",
+"name" : "L\u0026T Finance Holdings Ltd",
+"t" : "L\u0026TFH",
+"e" : "NSE",
+"l" : "168.00",
+"c" : "+5.80",
+"mc" : "305.14B",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4687409",
+"name" : "Jayavant Products Ltd",
+"t" : "531382",
+"e" : "BOM",
+"l" : "16.95",
+"c" : "0.00",
+"mc" : "141.95M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "138715870326043",
+"name" : "Money Masters Leasing and Finance Ltd",
+"t" : "535910",
+"e" : "BOM",
+"l" : "4.55",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "318591033937195",
+"name" : "Econo Trade India Ltd",
+"t" : "538708",
+"e" : "BOM",
+"l" : "10.14",
+"c" : "0.00",
+"mc" : "189.31M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2786796",
+"name" : "Indian Infotech and Software Ltd",
+"t" : "509051",
+"e" : "BOM",
+"l" : "0.19",
+"c" : "0.00",
+"mc" : "190.65M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Royal Insurance Building 6Th Floor, 14, J Tata Road, Churchgate, MUMBAI, 400020, India",
+"phone": "+91-22-22851765",
+"fax": "+91-22-22884985",
+"url": "http:\u002F\u002Fwww.gichfindia.com",
+"overview" : "GIC Housing Finance Ltd. is engaged in the housing finance business. The Company\u0027s primary business is granting housing loans to individuals and to persons\u002Fentities engaged in construction of houses or flats for residential purposes. The Company has approximately 60 branches. The Company operates in India."
+} ]
+, "management" : [
+{
+"name" : "S. Sridharan",
+"title" : "Chief Financial Officer, Senior Vice President, Company Secretary"
+}
+,
+{
+"name" : "K. B. Suresh",
+"title" : "Senior Vice President"
+}
+,
+{
+"name" : "Mahesh Ghagre",
+"title" : "Vice President"
+}
+,
+{
+"name" : "Srinivas Mahishi",
+"title" : "Vice President"
+}
+,
+{
+"name" : "Warendra Sinha",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Mahalakshmi Sharma",
+"title" : "Assistant Vice President"
+}
+,
+{
+"name" : "S. Vijayaramesh",
+"title" : "Assistant Vice President"
+}
+,
+{
+"name" : "Alice G. Vaidyan",
+"title" : "Non-Executive Chairperson of the Board"
+}
+,
+{
+"name" : "Milind Anna Kharat",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "A. V. Girija Kumar",
+"title" : "Additional Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

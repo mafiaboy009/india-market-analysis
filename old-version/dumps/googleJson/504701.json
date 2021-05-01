@@ -1,0 +1,276 @@
+
+ [
+{
+"symbol" : "504701",
+"exchange" : "BOM",
+"id": "8542662",
+"t" : "504701",
+"e" : "BOM",
+"name" : "Gontermann Peipers India Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GNTR.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:504701"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:504701"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:504701"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-7091.51%",
+"annual" : "-46.67%",
+"ttm" : "-190.27%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-3994.57%",
+"annual" : "-40.35%",
+"ttm" : "-129.71%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-27.70%",
+"ttm" : "-102.77%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-13.85%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "651",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.07",
+"l" : "7.50",
+"cp" : "0.94",
+"ccol" : "chg",
+"op" : "7.69",
+"hi" : "7.69",
+"lo" : "7.13",
+"vo" : "10,500.00",
+"avvo" : "",
+"hi52" : "10.60",
+"lo52" : "6.00",
+"mc" : "160.92M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-23.57",
+"dy" : "",
+"ldiv" : "",
+"shares" : "22.24M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "8542662",
+"name" : "Gontermann Peipers India Ltd.",
+"t" : "504701",
+"e" : "BOM",
+"l" : "7.50",
+"c" : "+0.07",
+"mc" : "160.92M",
+"cp" : "0.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722448",
+"name" : "Rajkumar Forge limited",
+"t" : "513369",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "+1.60",
+"mc" : "437.58M",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13928461",
+"name" : "Garg Furnace Ltd",
+"t" : "530615",
+"e" : "BOM",
+"l" : "10.69",
+"c" : "+0.08",
+"mc" : "42.53M",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15239521",
+"name" : "K I C Metaliks Ltd",
+"t" : "513693",
+"e" : "BOM",
+"l" : "184.95",
+"c" : "-3.75",
+"mc" : "1.31B",
+"cp" : "-1.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1433939",
+"name" : "Electrosteel Steels Ltd",
+"t" : "ESL",
+"e" : "NSE",
+"l" : "3.45",
+"c" : "-0.15",
+"mc" : "8.31B",
+"cp" : "-4.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15110548",
+"name" : "Srikalahasthi Pipes Ltd",
+"t" : "SRIPIPES",
+"e" : "NSE",
+"l" : "358.25",
+"c" : "+2.25",
+"mc" : "16.70B",
+"cp" : "0.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16000145",
+"name" : "N R International Ltd",
+"t" : "532623",
+"e" : "BOM",
+"l" : "5.76",
+"c" : "0.00",
+"mc" : "61.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4777716",
+"name" : "Steel Authority of India Limited",
+"t" : "SAIL",
+"e" : "NSE",
+"l" : "86.40",
+"c" : "-0.65",
+"mc" : "355.24B",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3198942",
+"name" : "Bhuwalka Steel Industries Ltd",
+"t" : "513333",
+"e" : "BOM",
+"l" : "4.46",
+"c" : "0.00",
+"mc" : "46.27M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6556362",
+"name" : "Vishal Malleables Ltd",
+"t" : "505930",
+"e" : "BOM",
+"l" : "27.95",
+"c" : "0.00",
+"mc" : "75.99M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "P.O. Pailan, Diamond Harbour Road,, KOLKATA, 700104, India",
+"phone": "+91-33-24532456",
+"fax": "+91-33-24978779",
+"url": "http:\u002F\u002Fwww.gontermann-peipers.com",
+"overview" : "Gontermann-Peipers (India) Limited is engaged in the manufacturing and exporting of cast and forged rolls. The Company\u0027s segments include Cast Roll, Forged Roll and Others. Its Cast Roll and Forged Roll segments are included under the manufacturing activities. The Others segment consists of traded products. It offers products and services, including cast roll, forged roll, special castings and technical services. Its cast roll products include High Chromium (Hi-Cr) Iron Rolls, Cast Steel Roll, Cast Steel Back-Up Roll and Spheroidal Graphite Iron Roll. Its forged roll products include Alloy Forged Steel Roll and Forge Steel Back-Up Roll. The special castings include Francis Runner, Runner Blade, Pelton Runner, Wicket Gate, Propeller Blade for Ships, Outer Casing, Front Dipper Wall, Track Link, Bowl Liner, Pump Casing, Branch Delivery, Impeller, Top Ring, Servomotor Casing, Control Valve and Case Compressor Discharge. Its plant is located on Diamond Harbour Road, Kolkata and West Bengal."
+} ]
+, "management" : [
+{
+"name" : "Dwijen Lahiri",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Pramod Mittal",
+"age" : "58",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Shristi Mittal",
+"age" : "26",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Buddhadeb Duari",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Shekhar Chaudhuri",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Manoj Kumar Mitra",
+"age" : "63",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

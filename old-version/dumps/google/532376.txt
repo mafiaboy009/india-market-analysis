@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "532376",
+"exchange" : "BOM",
+"id": "706005",
+"t" : "532376",
+"e" : "BOM",
+"name" : "MRO-TEK Reality Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532376"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532376"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532376"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-69.90%",
+"annual" : "22.60%",
+"ttm" : "-4.69%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-57.54%",
+"annual" : "21.11%",
+"ttm" : "3.46%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "26.61%",
+"ttm" : "3.22%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "24.54%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "420.22%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "197",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.60",
+"l" : "19.30",
+"cp" : "-3.02",
+"ccol" : "chr",
+"op" : "19.15",
+"hi" : "19.35",
+"lo" : "19.15",
+"vo" : "475.00",
+"avvo" : "",
+"hi52" : "19.35",
+"lo52" : "19.15",
+"mc" : "358.80M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.67",
+"dy" : "",
+"ldiv" : "",
+"shares" : "18.68M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "706005",
+"name" : "MRO-TEK Reality Ltd",
+"t" : "532376",
+"e" : "BOM",
+"l" : "19.30",
+"c" : "-0.60",
+"mc" : "358.80M",
+"cp" : "-3.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3945360",
+"name" : "Punjab Communications Ltd",
+"t" : "500346",
+"e" : "BOM",
+"l" : "40.15",
+"c" : "+0.65",
+"mc" : "482.75M",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "717905",
+"name" : "Aishwarya Technologies and Telecom Ltd",
+"t" : "532975",
+"e" : "BOM",
+"l" : "6.09",
+"c" : "0.00",
+"mc" : "131.32M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6969117",
+"name" : "ADC India Communications Limited",
+"t" : "523411",
+"e" : "BOM",
+"l" : "233.95",
+"c" : "+1.45",
+"mc" : "1.08B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6604439",
+"name" : "Smartlink Network Systems Ltd",
+"t" : "SMARTLINK",
+"e" : "NSE",
+"l" : "103.00",
+"c" : "+1.05",
+"mc" : "2.31B",
+"cp" : "1.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16708397",
+"name" : "Himachal Futuristic Communications (P)",
+"t" : "HFCL",
+"e" : "NSE",
+"l" : "29.30",
+"c" : "+1.10",
+"mc" : "36.25B",
+"cp" : "3.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "899703",
+"name" : "ITI Limited",
+"t" : "ITI",
+"e" : "NSE",
+"l" : "121.10",
+"c" : "-4.60",
+"mc" : "92.55B",
+"cp" : "-3.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3962598",
+"name" : "HCL Infosystems Limited",
+"t" : "HCL-INSYS",
+"e" : "NSE",
+"l" : "62.90",
+"c" : "-1.00",
+"mc" : "20.79B",
+"cp" : "-1.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1485515",
+"name" : "Nelco Limited",
+"t" : "NELCO",
+"e" : "NSE",
+"l" : "175.80",
+"c" : "+15.95",
+"mc" : "4.02B",
+"cp" : "9.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8328773",
+"name" : "Shyam Telecom Limited",
+"t" : "SHYAMTEL",
+"e" : "NSE",
+"l" : "12.50",
+"c" : "0.00",
+"mc" : "140.88M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13164362",
+"name" : "Kaycee Industries Ltd",
+"t" : "504084",
+"e" : "BOM",
+"l" : "7,910.00",
+"c" : "+349.00",
+"mc" : "502.05M",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "6 New Bel Road, BANGALORE, 560054, India",
+"phone": "+91-80-42499000",
+"fax": "+91-80-23333415",
+"url": "http:\u002F\u002Fwww.mro-tek.com\u002F",
+"overview" : "MRO-TEK Realty Limited, formerly MRO-TEK Limited, is an India-based networking company. The Company is engaged in manufacture and supply, as well as distribution, of access and networking equipment and solutions. The Company operates through two segments: Access \u0026 Networking Products, and Real Estate Development. The Company offers total networking solutions and a portfolio of products in the time-division multiplexing (TDM), Ethernet and wireless domains. Its TDM products include standalone modems and converters\u003B multi-service access, Ethernet over plesiochronous digital hierarchy (PDH) and synchronous digital hierarchy (SDH), and PDH optical multiplexers. Its Ethernet products include media converters, managed media converters, Ethernet powered switches, Ethernet switches and managed Ethernet switches. Its wireless products include access point\u002Fcustomer-premises equipment (AP\u002FCPE), dual radio and base station."
+} ]
+, "management" : [
+{
+"name" : "Aniruddha Bhanuprasad Mehta",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sudipto Gupta",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Ramji S.",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Barun Pandey",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Srivatsa ..",
+"title" : "Vice President - Finance"
+}
+,
+{
+"name" : "Sudhir Kumar Hasija",
+"title" : "Director"
+}
+,
+{
+"name" : "M. V. Sampath Kumar",
+"title" : "Director"
+}
+,
+{
+"name" : "Gauri A. Mehta",
+"title" : "Director"
+}
+,
+{
+"name" : "Jitendra Mohandas Virwani",
+"title" : "Director"
+}
+,
+{
+"name" : "Mohan Subramanian",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

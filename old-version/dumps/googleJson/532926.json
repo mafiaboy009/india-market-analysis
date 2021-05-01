@@ -1,0 +1,288 @@
+
+ [
+{
+"symbol" : "532926",
+"exchange" : "BOM",
+"id": "717307",
+"t" : "532926",
+"e" : "BOM",
+"name" : "Jyothy Laboratories, Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532926"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532926"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532926"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.63%",
+"annual" : "11.67%",
+"ttm" : "12.32%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.26%",
+"annual" : "12.96%",
+"ttm" : "12.40%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "14.68%",
+"ttm" : "14.23%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.27%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "20.91%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,391",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.35",
+"l" : "348.35",
+"cp" : "-0.10",
+"ccol" : "chr",
+"op" : "349.00",
+"hi" : "355.00",
+"lo" : "346.05",
+"vo" : "7,010.00",
+"avvo" : "",
+"hi52" : "441.00",
+"lo52" : "325.00",
+"mc" : "62.71B",
+"pe" : "30.08",
+"fwpe" : "",
+"beta" : "",
+"eps" : "11.58",
+"dy" : "1.72",
+"ldiv" : "6.00",
+"shares" : "181.79M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "717307",
+"name" : "Jyothy Laboratories, Ltd.",
+"t" : "532926",
+"e" : "BOM",
+"l" : "348.35",
+"c" : "-0.35",
+"mc" : "62.71B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12883614",
+"name" : "Colgate-Palmolive (India) Limited",
+"t" : "COLPAL",
+"e" : "NSE",
+"l" : "1,060.50",
+"c" : "+10.70",
+"mc" : "288.39B",
+"cp" : "1.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14547540",
+"name" : "Godrej Consumer Products Limited",
+"t" : "GODREJCP",
+"e" : "NSE",
+"l" : "1,070.00",
+"c" : "+21.80",
+"mc" : "729.82B",
+"cp" : "2.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10831975",
+"name" : "JHS Svendgaard Laboratories Limited",
+"t" : "JHS",
+"e" : "NSE",
+"l" : "67.45",
+"c" : "-0.40",
+"mc" : "3.00B",
+"cp" : "-0.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "674866",
+"name" : "Nirma Limited",
+"t" : "600308",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "4763666",
+"name" : "Amar Remedies Ltd",
+"t" : "AMAR",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-9.50",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "267163",
+"name" : "Hindustan Unilever Ltd",
+"t" : "HINDUNILVR",
+"e" : "NSE",
+"l" : "1,332.85",
+"c" : "+9.70",
+"mc" : "2.89T",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8603705",
+"name" : "Pee Cee Cosma Sope Ltd",
+"t" : "524136",
+"e" : "BOM",
+"l" : "174.25",
+"c" : "-9.00",
+"mc" : "461.74M",
+"cp" : "-4.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5355859",
+"name" : "Jocil Ltd",
+"t" : "JOCIL",
+"e" : "NSE",
+"l" : "182.00",
+"c" : "+8.00",
+"mc" : "1.61B",
+"cp" : "4.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "209384034512125",
+"name" : "Kaarya Facilities \u0026 Services Ltd",
+"t" : "540756",
+"e" : "BOM",
+"l" : "59.00",
+"c" : "-1.65",
+"mc" : "274.25M",
+"cp" : "-2.72",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8732116",
+"name" : "Sunshield Chemicals Ltd",
+"t" : "530845",
+"e" : "BOM",
+"l" : "319.70",
+"c" : "+5.95",
+"mc" : "2.32B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Ujala House, Ram Krishna Mandir Road Off Andheri Kurla Road, Kondivita Andheri East, MUMBAI, 400059, India",
+"phone": "+91-22-66892800",
+"fax": "+91-22-66892805",
+"url": "http:\u002F\u002Fwww.jyothylaboratories.com\u002F",
+"overview" : "Jyothy Laboratories Limited is a multi-brand, multi-product company focused on fast-moving consumer goods industry. The Company is principally engaged in manufacturing and marketing of fabric whiteners, soaps, detergents, mosquito repellents, scrubber, bodycare and incense sticks. The Company operates through three segments: Soaps and Detergents, which includes fabric whiteners, fabric detergents, dish wash bar and soaps, including ayurvedic soaps\u003B Home Care products, which includes incense sticks, scrubber, dhoop and mosquito repellents, and Others, which includes bodycare, tea and coffee. It offers its products under various brands, which include Henko, Mr. White, Ujala, More light, Chek, Pril, Exo, Maxo, Margo, Fa, Neem, Fabric Spa, Snoways, Busy easy and Wardrobe. Its subsidiaries include Jyothy Consumer Products Marketing Limited, Four Seasons Drycleaning Company Private Limited, Snoways Laundrers \u0026 Drycleaners Private Limited and Jyothy Fabricare Services Limited."
+} ]
+, "management" : [
+{
+"name" : "M. P. Ramachandran",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "S. Raghunandan Rao",
+"title" : "President"
+}
+,
+{
+"name" : "Kasaragod Ullas Kamath",
+"title" : "Chief Financial Officer, Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Rajnikant Sabnavis",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Moothedath Ramachandran Jyothy",
+"title" : "Chief Marketing Officer, Whole-Time Director"
+}
+,
+{
+"name" : "Shreyas Trivedi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ramakrishnan Lakshminarayanan",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Nilesh Bansilal Mehta",
+"age" : "53",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kiliyant Puliassseri Padmakumar",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

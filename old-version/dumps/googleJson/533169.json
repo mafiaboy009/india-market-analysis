@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "533169",
+"exchange" : "BOM",
+"id": "12155781",
+"t" : "533169",
+"e" : "BOM",
+"name" : "Man Infraconstruction Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533169"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533169"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533169"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.67%",
+"annual" : "14.50%",
+"ttm" : "15.34%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "28.34%",
+"annual" : "23.10%",
+"ttm" : "26.15%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "24.80%",
+"ttm" : "27.58%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.90%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.45%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "299",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.10",
+"l" : "56.45",
+"cp" : "0.18",
+"ccol" : "chg",
+"op" : "56.90",
+"hi" : "58.00",
+"lo" : "56.45",
+"vo" : "25,129.00",
+"avvo" : "",
+"hi52" : "74.55",
+"lo52" : "37.80",
+"mc" : "13.95B",
+"pe" : "22.14",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.55",
+"dy" : "1.91",
+"ldiv" : "0.54",
+"shares" : "247.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12155781",
+"name" : "Man Infraconstruction Ltd.",
+"t" : "533169",
+"e" : "BOM",
+"l" : "56.45",
+"c" : "+0.10",
+"mc" : "13.95B",
+"cp" : "0.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5723387",
+"name" : "Kaushalya Infrastructure Development Cor",
+"t" : "KAUSHALYA",
+"e" : "NSE",
+"l" : "3.00",
+"c" : "-0.15",
+"mc" : "103.89M",
+"cp" : "-4.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14280226",
+"name" : "Patel Engineering Limited",
+"t" : "PATELENG",
+"e" : "NSE",
+"l" : "73.15",
+"c" : "+0.30",
+"mc" : "11.45B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7531875",
+"name" : "Pratibha Industries Limited",
+"t" : "PRATIBHA",
+"e" : "NSE",
+"l" : "7.40",
+"c" : "+0.10",
+"mc" : "1.74B",
+"cp" : "1.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3918227",
+"name" : "BGR Energy Systems Ltd",
+"t" : "BGRENERGY",
+"e" : "NSE",
+"l" : "119.30",
+"c" : "+0.40",
+"mc" : "8.59B",
+"cp" : "0.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10115108",
+"name" : "Lanco Infratech Ltd",
+"t" : "LITL",
+"e" : "NSE",
+"l" : "1.35",
+"c" : "+0.05",
+"mc" : "4.47B",
+"cp" : "3.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "687028981309241",
+"name" : "SAB Industries Ltd",
+"t" : "539112",
+"e" : "BOM",
+"l" : "71.00",
+"c" : "0.00",
+"mc" : "1.08B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715353",
+"name" : "Starlog Enterprises Ltd",
+"t" : "520155",
+"e" : "BOM",
+"l" : "55.50",
+"c" : "+2.40",
+"mc" : "664.17M",
+"cp" : "4.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2395899",
+"name" : "Kalindee Rail Nirman (Engineers) Ltd.",
+"t" : "KALINDEE",
+"e" : "NSE",
+"l" : "103.00",
+"c" : "",
+"mc" : "1.70B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13910518",
+"name" : "Dredging Corporation of India Ltd.",
+"t" : "DREDGECORP",
+"e" : "NSE",
+"l" : "691.45",
+"c" : "-0.65",
+"mc" : "19.39B",
+"cp" : "-0.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "647555479137324",
+"name" : "Brahamputra Consortium Limited",
+"t" : "535693",
+"e" : "BOM",
+"l" : "34.20",
+"c" : "+0.50",
+"mc" : "992.43M",
+"cp" : "1.48",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "12th Floor, Krushal Commercial Complex Above Shoppers Stop,G M Road Chembur (West), MUMBAI, 400089, India",
+"phone": "+91-22-42463999",
+"fax": "+91-22-25251589",
+"url": "http:\u002F\u002Fwww.maninfra.com\u002F",
+"overview" : "Man Infraconstruction Limited is a construction company engaged in the business of civil construction. The Company provides construction services for port infrastructure, such as land reclamation, soil consolidation, and operational services\u003B residential constructions, such as high rise building, townships and luxury villas\u003B commercial and institutional constructions, such as information technology parks, office complexes, shopping malls, schools and hotels\u003B industrial constructions, such as factories, cold storages, heavy engineering and warehouse facilities, and road constructions, such as earthwork and paving, electrification, landscaping, up-gradation and drainage. Its residential projects include Blue Ridge, SRA Township, Lifescapes Amber, Signia Sky, Mundra Township and Neelkanth Greens. Its infrastructure projects include Gateway Terminal and Vallarpadam ICTT. Its commercial and industrial projects include Kohinoor Education Complex, Sai Complex and VIRAJ PROFILES LTD."
+} ]
+, "management" : [
+{
+"name" : "Ashok Mehta",
+"age" : "47",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Durgesh S. Dingankar",
+"title" : "Compliance Officer,Company Secretary"
+}
+,
+{
+"name" : "Parag K. Shah",
+"age" : "44",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Manan Parag Shah",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Suketu Ramesh Shah",
+"age" : "41",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Berjis Desai",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Shruti Udeshi",
+"title" : "Non-Executive Additional Director"
+}
+,
+{
+"name" : "Sivaramakrishnan S. Iyer",
+"age" : "47",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Dharmesh R. Shah",
+"age" : "49",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kamlesh Shivji Vikamsey",
+"age" : "54",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

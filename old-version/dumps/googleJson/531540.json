@@ -1,0 +1,262 @@
+
+ [
+{
+"symbol" : "531540",
+"exchange" : "BOM",
+"id": "1765086",
+"t" : "531540",
+"e" : "BOM",
+"name" : "Maruti Infrastructure Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=MRUI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531540"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531540"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531540"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.90%",
+"annual" : "1.82%",
+"ttm" : "0.68%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "0.60%",
+"annual" : "3.70%",
+"ttm" : "0.99%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.74%",
+"ttm" : "1.84%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.76%",
+"ttm" : "0.31%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.22%",
+"ttm" : "0.53%"
+}
+]
+, "c" : "-0.30",
+"l" : "28.70",
+"cp" : "-1.03",
+"ccol" : "chr",
+"op" : "29.00",
+"hi" : "29.00",
+"lo" : "28.25",
+"vo" : "22,580.00",
+"avvo" : "",
+"hi52" : "46.35",
+"lo52" : "20.75",
+"mc" : "361.24M",
+"pe" : "353.06",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.08",
+"dy" : "",
+"ldiv" : "",
+"shares" : "12.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1765086",
+"name" : "Maruti Infrastructure Ltd",
+"t" : "531540",
+"e" : "BOM",
+"l" : "28.70",
+"c" : "-0.30",
+"mc" : "361.24M",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12003421",
+"name" : "Conart Engineers Ltd",
+"t" : "522231",
+"e" : "BOM",
+"l" : "44.80",
+"c" : "-0.15",
+"mc" : "134.40M",
+"cp" : "-0.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715351",
+"name" : "Linkhouse Industries Ltd.",
+"t" : "512349",
+"e" : "BOM",
+"l" : "0.69",
+"c" : "0.00",
+"mc" : "75.50M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "729897",
+"name" : "Trinethra Infra Ventures Limited",
+"t" : "590091",
+"e" : "BOM",
+"l" : "0.21",
+"c" : "",
+"mc" : "7.59M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "1116341463754220",
+"name" : "GIR Natureview Resorts Ltd",
+"t" : "GIRRESORTS",
+"e" : "NSE",
+"l" : "254.20",
+"c" : "+13.20",
+"mc" : "45.25B",
+"cp" : "5.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6663614",
+"name" : "Unity Infraprojects Limited",
+"t" : "UNITY",
+"e" : "NSE",
+"l" : "5.50",
+"c" : "-0.25",
+"mc" : "659.09M",
+"cp" : "-4.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15060174",
+"name" : "Brigade Enterprises Limited",
+"t" : "BRIGADE",
+"e" : "NSE",
+"l" : "280.45",
+"c" : "-1.40",
+"mc" : "38.01B",
+"cp" : "-0.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7082343",
+"name" : "Ahluwalia Contracts India Ltd",
+"t" : "AHLUCONT",
+"e" : "NSE",
+"l" : "392.70",
+"c" : "+21.35",
+"mc" : "26.22B",
+"cp" : "5.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715494",
+"name" : "Rap Media Ltd.",
+"t" : "531583",
+"e" : "BOM",
+"l" : "13.32",
+"c" : "+0.63",
+"mc" : "78.33M",
+"cp" : "4.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2715233",
+"name" : "ITD Cementation India Ltd",
+"t" : "ITDCEM",
+"e" : "NSE",
+"l" : "184.00",
+"c" : "+0.15",
+"mc" : "28.53B",
+"cp" : "0.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1072114149252838",
+"name" : "Univastu India Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "802, Surmount Building S G Highway Opp ISCBN Mega Mall, AHMEDABAD, 380015, India",
+"phone": "+91-79-26860740",
+"fax": "+91-79-26927017",
+"url": "http:\u002F\u002Fwww.marutiinfra.in\u002F",
+"overview" : "Maruti Infrastructure Limited is an India-based company, which is engaged in the infrastructure business. The Company is engaged in the business of construction contracts. The Company\u0027s projects include Anand Mangal Party Plot\u003B Aaron Elegance\u003B Ward Office Building\u003B Reptile House in Kankaria Zoo\u003B Club House \u0026 Infrastructure Facility\u003B Shubh Apartment, 2 BHK Affordable House\u003B Temporary Road Filling, Excavation\u003B Excavation Work, ONGC Petro Additions Ltd.\u003B 25 Lac Litre Sump \u0026 Pump House\u003B Terminal Sweage Pumping Station\u003B Renovation of Mechanical Dept.\u003B Administration Building\u003B Residential Rooms\u0026 Health Club\u003B Denim Loom Shed \u0026 H-Plant\u003B Civil Works of Data Centre \u0026 Office Building: GWRDC-Deesa\u003B Rebuilding Bridge No.-318\u003B Renovation of Office Building-Nagarpalika\u003B 100 Lac Litre U.G. Sump at Telav Head Works, and Aaron Residency."
+} ]
+, "management" : [
+{
+"name" : "Nimesh D. Patel",
+"age" : "43",
+"title" : "Executive Chairman of the Board, Compliance Officer, Managing Director"
+}
+,
+{
+"name" : "Hiteshiben Nimeshbhai Patel",
+"title" : "Director"
+}
+,
+{
+"name" : "Chetan A. Patel",
+"age" : "43",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Nishitbhai P. Patel",
+"age" : "44",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Niketan R. Shah",
+"age" : "63",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,278 @@
+
+// [
+{
+"symbol" : "532884",
+"exchange" : "BOM",
+"id": "714449",
+"t" : "532884",
+"e" : "BOM",
+"name" : "Refex Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532884"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532884"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532884"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.69%",
+"annual" : "1.21%",
+"ttm" : "1.22%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-8.05%",
+"annual" : "3.61%",
+"ttm" : "3.60%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.70%",
+"ttm" : "5.69%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.51%",
+"ttm" : "0.52%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.59%",
+"ttm" : "4.63%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "25",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.10",
+"l" : "17.95",
+"cp" : "-0.55",
+"ccol" : "chr",
+"op" : "18.75",
+"hi" : "18.75",
+"lo" : "17.75",
+"vo" : "5,101.00",
+"avvo" : "",
+"hi52" : "30.90",
+"lo52" : "12.51",
+"mc" : "279.32M",
+"pe" : "61.14",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.29",
+"dy" : "",
+"ldiv" : "",
+"shares" : "15.48M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "714449",
+"name" : "Refex Industries Ltd",
+"t" : "532884",
+"e" : "BOM",
+"l" : "17.95",
+"c" : "-0.10",
+"mc" : "279.32M",
+"cp" : "-0.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "729150",
+"name" : "Ellenbarrie Industrial Gases Limited",
+"t" : "590087",
+"e" : "BOM",
+"l" : "310.00",
+"c" : "",
+"mc" : "5.13B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8555297",
+"name" : "Linde India Ltd",
+"t" : "LINDEINDIA",
+"e" : "NSE",
+"l" : "504.95",
+"c" : "+17.65",
+"mc" : "43.14B",
+"cp" : "3.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9271331",
+"name" : "Bombay Oxygen Corporation Ltd",
+"t" : "509470",
+"e" : "BOM",
+"l" : "5,680.50",
+"c" : "0.00",
+"mc" : "852.08M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6799438",
+"name" : "National Oxygen Ltd",
+"t" : "507813",
+"e" : "BOM",
+"l" : "42.75",
+"c" : "+0.05",
+"mc" : "205.06M",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11806955",
+"name" : "India Glycols Ltd.",
+"t" : "INDIAGLYCO",
+"e" : "NSE",
+"l" : "506.90",
+"c" : "-0.40",
+"mc" : "15.75B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4670420",
+"name" : "Sree Rayalaseema Hi Strength Hypo Ltd",
+"t" : "SRHHYPOLTD",
+"e" : "NSE",
+"l" : "169.00",
+"c" : "-0.50",
+"mc" : "2.62B",
+"cp" : "-0.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5808868",
+"name" : "Gujarat Fluorochemicals Limited",
+"t" : "GUJFLUORO",
+"e" : "NSE",
+"l" : "775.00",
+"c" : "-2.10",
+"mc" : "84.82B",
+"cp" : "-0.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11146294",
+"name" : "Chemfab Alkalis Ltd",
+"t" : "CHEMFALKAL",
+"e" : "NSE",
+"l" : "262.00",
+"c" : "",
+"mc" : "2.41B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10980189",
+"name" : "Savita Oil Technologies Ltd",
+"t" : "SOTL",
+"e" : "NSE",
+"l" : "1,488.20",
+"c" : "+67.10",
+"mc" : "21.75B",
+"cp" : "4.72",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5061661",
+"name" : "Aditya Birla Chemicals (India) Limited",
+"t" : "ABCIL",
+"e" : "NSE",
+"l" : "227.70",
+"c" : "",
+"mc" : "5.47B",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "No.67, Bazullah Road, T.Nagar, CHENNAI, 600017, India",
+"phone": "+91-44-43405950",
+"fax": "+91-44-42694112",
+"url": "http:\u002F\u002Frefex.co.in",
+"overview" : "Refex Industries Limited is engaged in the business of refilling of refrigerant gases. The Company is also into sale of electrical energy based on the generation of power and sale of solar accessories. It operates through two segments: Refrigerant Gases and Solar Power (including trading of solar accessories). Its portfolio consists of trading and refilling of refrigerant gases. It has developed a range of non-flammable and non-toxic replacements. Its range of Hydro chlorofluorocarbons HCFC interim products provides medium terms solutions to aid the transition from chloro-fluoro-carbons (CFCs). It offers a range of long-term hydro fluoro carbon (HFC) products: Refex 134A, Refex 141B, Refex 23 and Refex 123. Its products are used in various applications, such as commercial and domestic refrigeration, commercial and domestic air conditioning, automotive air conditioning, chillers for buildings and large systems, aerosol propellants, medical propellants and foam blowing agents."
+} ]
+, "management" : [
+{
+"name" : "S. Gopalakrishnan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Tarachand Anil Jain",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "M. K. Sharda",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Dinesh Kumar Agarwal",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sumarmal Mehta",
+"age" : "53",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Hem Senthil Raj",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Jamuna Ravikumar",
+"title" : "Women Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

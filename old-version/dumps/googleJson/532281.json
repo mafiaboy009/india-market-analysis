@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "532281",
+"exchange" : "BOM",
+"id": "677266",
+"t" : "532281",
+"e" : "BOM",
+"name" : "HCL Technologies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532281"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532281"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532281"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "17.12%",
+"annual" : "18.10%",
+"ttm" : "17.94%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "21.65%",
+"annual" : "22.28%",
+"ttm" : "21.97%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "21.82%",
+"ttm" : "21.25%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "19.19%",
+"annual" : "19.29%",
+"ttm" : "19.83%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "26.02%",
+"annual" : "27.05%",
+"ttm" : "27.40%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "119,291",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-12.75",
+"l" : "943.35",
+"cp" : "-1.33",
+"ccol" : "chr",
+"op" : "956.10",
+"hi" : "963.90",
+"lo" : "940.50",
+"vo" : "72,883.00",
+"avvo" : "",
+"hi52" : "1,041.50",
+"lo52" : "796.50",
+"mc" : "1.31T",
+"pe" : "14.98",
+"fwpe" : "",
+"beta" : "",
+"eps" : "62.99",
+"dy" : "1.27",
+"ldiv" : "2.00",
+"shares" : "1.39B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677266",
+"name" : "HCL Technologies Ltd",
+"t" : "532281",
+"e" : "BOM",
+"l" : "943.35",
+"c" : "-12.75",
+"mc" : "1.31T",
+"cp" : "-1.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14848096",
+"name" : "CMC Limited (Parent)",
+"t" : "CMC",
+"e" : "NSE",
+"l" : "2,030.00",
+"c" : "",
+"mc" : "61.58B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "16609548",
+"name" : "Geodesic Limited",
+"t" : "GEODESIC",
+"e" : "NSE",
+"l" : "4.45",
+"c" : "",
+"mc" : "401.96M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10405902",
+"name" : "Vama Industries Ltd",
+"t" : "512175",
+"e" : "BOM",
+"l" : "25.20",
+"c" : "0.00",
+"mc" : "1.31B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3291323",
+"name" : "ABM Knowledgeware Ltd",
+"t" : "531161",
+"e" : "BOM",
+"l" : "98.00",
+"c" : "-1.65",
+"mc" : "1.96B",
+"cp" : "-1.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3621607",
+"name" : "Aftek Ltd",
+"t" : "AFTEK",
+"e" : "NSE",
+"l" : "1.90",
+"c" : "",
+"mc" : "209.36M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10897831",
+"name" : "Glodyne Technoserve Limited",
+"t" : "GLODYNE",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "8351201",
+"name" : "Melstar Information Technologies Ltd",
+"t" : "MELSTAR",
+"e" : "NSE",
+"l" : "3.80",
+"c" : "0.00",
+"mc" : "54.28M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15037027",
+"name" : "Infinite Computer Solutions (In) Ltd",
+"t" : "INFINITE",
+"e" : "NSE",
+"l" : "488.00",
+"c" : "-0.10",
+"mc" : "16.28B",
+"cp" : "-0.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6285453",
+"name" : "Hexaware Technologies Limited",
+"t" : "HEXAWARE",
+"e" : "NSE",
+"l" : "343.55",
+"c" : "-8.60",
+"mc" : "102.36B",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10254012",
+"name" : "Accel Frontline Limited",
+"t" : "AFL",
+"e" : "NSE",
+"l" : "49.75",
+"c" : "+2.35",
+"mc" : "1.48B",
+"cp" : "4.96",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Technology Hub SEZ, Plot No. 3A, Sector 126, NOIDA, 201304, India",
+"phone": "+91-11-26444812",
+"fax": "+91-11-26436336",
+"url": "http:\u002F\u002Fwww.hcltech.com\u002F",
+"overview" : "HCL Technologies Limited is engaged in providing a range of software development services, business process outsourcing services and information technology (IT) infrastructure services. The Company\u0027s segments include software services, infrastructure management services and business process outsourcing services. The software services segment provides application development and maintenance, enterprise application, software as a service (SAAS) application services and engineering, and research and development (R\u0026D) services to global customers. The infrastructure management services segment involves managing customer\u0027s IT assets. The business process outsourcing services segment includes contact center and help desk services. The Company delivers its solutions across select verticals, including financial services, manufacturing, retail and consumer products, media, publishing and entertainment, public services, energy and utility, healthcare, and travel, transport and logistics."
+} ]
+, "management" : [
+{
+"name" : "Shiv Nadar",
+"age" : "72",
+"title" : "Executive Chairman of the Board, Chief Strategy Officer, Managing Director"
+}
+,
+{
+"name" : "C. Vijaya Kumar",
+"title" : "President, Chief Executive Officer"
+}
+,
+{
+"name" : "Anil Kumar Chanana",
+"age" : "59",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manish Anand",
+"title" : "Compliance Officer, Vice President, Company Secretary"
+}
+,
+{
+"name" : "Sudhindar Krishan Khanna",
+"age" : "64",
+"title" : "Non-Executive Non Independent Director"
+}
+,
+{
+"name" : "Roshni Nadar Malhotra",
+"age" : "34",
+"title" : "Non-Executive Non Independent Director"
+}
+,
+{
+"name" : "Robin Ann Abrams",
+"age" : "66",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Deepak Kapoor",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Subramanian Madhavan",
+"age" : "60",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

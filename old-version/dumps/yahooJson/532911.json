@@ -1,0 +1,209 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 153951008,
+            "fmt": "153.95M",
+            "longFmt": "153,951,008"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.07569,
+            "fmt": "-7.57%"
+          },
+          "floatShares": {
+            "raw": 3113180,
+            "fmt": "3.11M",
+            "longFmt": "3,113,180"
+          },
+          "sharesOutstanding": {
+            "raw": 14000000,
+            "fmt": "14M",
+            "longFmt": "14,000,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.111475,
+            "fmt": "-0.11"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 14.109,
+            "fmt": "14.11"
+          },
+          "priceToBook": {
+            "raw": 0.65915376,
+            "fmt": "0.66"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -140102,
+            "fmt": "-140.1k",
+            "longFmt": "-140,102"
+          },
+          "trailingEps": {
+            "raw": 0.028,
+            "fmt": "0.03"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "4/1",
+          "lastSplitDate": {
+            "raw": 1204156800,
+            "fmt": "2008-02-28"
+          },
+          "enterpriseToRevenue": {
+            "raw": 83.174,
+            "fmt": "83.17"
+          },
+          "enterpriseToEbitda": {
+            "raw": 602.647,
+            "fmt": "602.65"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "403, Kane Plaza",
+          "address2": "4th Floor Mind Space Off. Link Road, Malad (West)",
+          "city": "Mumbai",
+          "zip": "400064",
+          "country": "India",
+          "phone": "91 22 2876 9986",
+          "fax": "91 22 4003 3979",
+          "website": "http://www.parlesoftwares.com",
+          "industry": "Property Management",
+          "sector": "Financial",
+          "longBusinessSummary": "Parle Software Limited engages in the real estate and infrastructure development activities in India. The company was formerly known as Bisleri Exports Limited and changed its name to Parle Software Limited in May 1995. The company was incorporated in 1983 and is based in Mumbai, India. Parle Software Limited is a subsidiary of Eaugu Udyog Limited.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 9.3,
+            "fmt": "9.30"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 469000,
+            "fmt": "469k",
+            "longFmt": "469,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.034,
+            "fmt": "0.03"
+          },
+          "ebitda": {
+            "raw": 255458,
+            "fmt": "255.46k",
+            "longFmt": "255,458"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1850960,
+            "fmt": "1.85M",
+            "longFmt": "1,850,960"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.192,
+            "fmt": "0.19"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 2666584,
+            "fmt": "2.67M",
+            "longFmt": "2,666,584"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 4.395,
+            "fmt": "439.50%"
+          },
+          "grossMargins": {
+            "raw": 0.99007004,
+            "fmt": "99.01%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.13801,
+            "fmt": "13.80%"
+          },
+          "operatingMargins": {
+            "raw": 0.03849,
+            "fmt": "3.85%"
+          },
+          "profitMargins": {
+            "raw": -0.07569,
+            "fmt": "-7.57%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

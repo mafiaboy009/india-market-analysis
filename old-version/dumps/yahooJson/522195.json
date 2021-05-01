@@ -1,0 +1,216 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 773305152,
+            "fmt": "773.31M",
+            "longFmt": "773,305,152"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.079380006,
+            "fmt": "7.94%"
+          },
+          "floatShares": {
+            "raw": 1494969,
+            "fmt": "1.49M",
+            "longFmt": "1,494,969"
+          },
+          "sharesOutstanding": {
+            "raw": 3938510,
+            "fmt": "3.94M",
+            "longFmt": "3,938,510"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.951932,
+            "fmt": "1.95"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 72.054,
+            "fmt": "72.05"
+          },
+          "priceToBook": {
+            "raw": 2.4349792,
+            "fmt": "2.43"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.61,
+            "fmt": "61.00%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 44067220,
+            "fmt": "44.07M",
+            "longFmt": "44,067,220"
+          },
+          "trailingEps": {
+            "raw": 11.208,
+            "fmt": "11.21"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.393,
+            "fmt": "1.39"
+          },
+          "enterpriseToEbitda": {
+            "raw": 9.939,
+            "fmt": "9.94"
+          },
+          "52WeekChange": {
+            "raw": 0.84923387,
+            "fmt": "84.92%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "E-14, Panki Industrial Area",
+          "address2": "Site-1",
+          "city": "Kanpur",
+          "zip": "208 022",
+          "country": "India",
+          "website": "http://www.frontiersprings.co.in",
+          "industry": "Machine Tools & Accessories",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Frontier Springs Limited manufactures and sells coil and leaf springs, L.B. and hot coiled compression springs, and forging items in India and internationally. Its forging products include bogie bolster suspension hangers, brake block hangers, hooks, knuckle throwers, shafts for silent block, shoes, toogles, top followers, knuckle pins, screw coupling for coaches and locomotives, and wedges. The company offers its products to railways, wagons, locomotives, coaches, heavy engineering industries, and original earth mover equipment manufacturers. Frontier Springs Limited was founded in 1981 and is based in Kanpur, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 175.45,
+            "fmt": "175.45"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 23435000,
+            "fmt": "23.43M",
+            "longFmt": "23,435,000"
+          },
+          "totalCashPerShare": {
+            "raw": 5.962,
+            "fmt": "5.96"
+          },
+          "ebitda": {
+            "raw": 77804688,
+            "fmt": "77.8M",
+            "longFmt": "77,804,688"
+          },
+          "totalDebt": {
+            "raw": 114779000,
+            "fmt": "114.78M",
+            "longFmt": "114,779,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 555133760,
+            "fmt": "555.13M",
+            "longFmt": "555,133,760"
+          },
+          "debtToEquity": {
+            "raw": 40.497,
+            "fmt": "40.50"
+          },
+          "revenuePerShare": {
+            "raw": 141.189,
+            "fmt": "141.19"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 259238236,
+            "fmt": "259.24M",
+            "longFmt": "259,238,236"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.62,
+            "fmt": "62.00%"
+          },
+          "revenueGrowth": {
+            "raw": 0.134,
+            "fmt": "13.40%"
+          },
+          "grossMargins": {
+            "raw": 0.54838,
+            "fmt": "54.84%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.14015001,
+            "fmt": "14.02%"
+          },
+          "operatingMargins": {
+            "raw": 0.10795,
+            "fmt": "10.80%"
+          },
+          "profitMargins": {
+            "raw": 0.079380006,
+            "fmt": "7.94%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "539118",
+"exchange" : "BOM",
+"id": "503984675732274",
+"t" : "539118",
+"e" : "BOM",
+"name" : "VRL Logistics Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539118"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539118"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539118"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.15%",
+"annual" : "3.91%",
+"ttm" : "4.74%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.62%",
+"annual" : "6.98%",
+"ttm" : "7.18%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.43%",
+"ttm" : "12.34%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.67%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.36%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "20,986",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-5.05",
+"l" : "424.00",
+"cp" : "-1.18",
+"ccol" : "chr",
+"op" : "431.85",
+"hi" : "459.90",
+"lo" : "405.00",
+"vo" : "5,675.00",
+"avvo" : "",
+"hi52" : "492.00",
+"lo52" : "301.90",
+"mc" : "38.20B",
+"pe" : "43.45",
+"fwpe" : "",
+"beta" : "",
+"eps" : "9.76",
+"dy" : "1.53",
+"ldiv" : "4.00",
+"shares" : "90.34M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "503984675732274",
+"name" : "VRL Logistics Ltd",
+"t" : "539118",
+"e" : "BOM",
+"l" : "424.00",
+"c" : "-5.05",
+"mc" : "38.20B",
+"cp" : "-1.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9687421",
+"name" : "Patel Integrated Logistics Ltd",
+"t" : "PATINTLOG",
+"e" : "NSE",
+"l" : "60.50",
+"c" : "+0.45",
+"mc" : "1.02B",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1037865602719872",
+"name" : "Mahindra Logistics Ltd",
+"t" : "MAHLOG",
+"e" : "NSE",
+"l" : "555.00",
+"c" : "-11.50",
+"mc" : "37.14B",
+"cp" : "-2.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11312739",
+"name" : "Transport Corporation of India Limited",
+"t" : "TCI",
+"e" : "NSE",
+"l" : "275.45",
+"c" : "-0.60",
+"mc" : "21.27B",
+"cp" : "-0.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15813693",
+"name" : "Balurghat Technologies Ltd",
+"t" : "520127",
+"e" : "BOM",
+"l" : "5.40",
+"c" : "+0.21",
+"mc" : "94.32M",
+"cp" : "4.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12874162",
+"name" : "Coastal Roadways Ltd",
+"t" : "520131",
+"e" : "BOM",
+"l" : "18.60",
+"c" : "0.00",
+"mc" : "77.13M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "756383137389695",
+"name" : "Navkar Corporation Ltd",
+"t" : "NAVKARCORP",
+"e" : "NSE",
+"l" : "162.00",
+"c" : "+6.00",
+"mc" : "24.79B",
+"cp" : "3.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "128530174847315",
+"name" : "Shreeji Translogistics Ltd",
+"t" : "540738",
+"e" : "BOM",
+"l" : "140.00",
+"c" : "0.00",
+"mc" : "489.18M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7864646",
+"name" : "Blue Dart Express Limited",
+"t" : "BLUEDART",
+"e" : "NSE",
+"l" : "3,300.00",
+"c" : "-207.80",
+"mc" : "79.45B",
+"cp" : "-5.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9605998",
+"name" : "Essar Shipping Ltd",
+"t" : "ESSARSHPNG",
+"e" : "NSE",
+"l" : "20.00",
+"c" : "-0.40",
+"mc" : "4.17B",
+"cp" : "-1.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5263425",
+"name" : "Allcargo Logistics Ltd",
+"t" : "ALLCARGO",
+"e" : "NSE",
+"l" : "128.80",
+"c" : "-3.25",
+"mc" : "31.48B",
+"cp" : "-2.46",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Giriraj Annexe, Circuit House Road, HUBLI, 580029, India",
+"phone": "+91-836-2237511",
+"fax": "+91-836-2256612",
+"url": "http:\u002F\u002Fwww.vrlgroup.in\u002F",
+"overview" : "VRL Logistics Limited is engaged in goods transportation and passenger transportation. The Company offers logistics services dealing in domestic transportation of goods. It is also engaged in bus operations, air chartering service, sale of power and sale of certified emission reductions (CER) units generated from operation of wind mills. Its segments include Goods transport, Bus operations, Sale of power and Air chartering service. It provides less than truckload services (LTL) for general and priority parcels, and caters to a range of industries, including fast-moving consumer goods (FMCG), textiles, apparel, furniture, metal and metal products, and automotive parts. It also offers full truck load (FTL), car carrying, priority cargo and courier services. Its bus service network covers Karnataka, Maharashtra, Goa, Andhra Pradesh, Telangana, Tamil Nadu, Gujarat and Rajasthan. Its wind farm consists of over 35 wind turbine generators (WTGs) having individual capacity of 1.25 megawatt."
+} ]
+, "management" : [
+{
+"name" : "Vijay B. Sankeshwar",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sunil Nalavadi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Aniruddha Phadnavis",
+"title" : "General Manager - Finance, Company Secretary and Compliance Officer"
+}
+,
+{
+"name" : "Anand Vijay Sankeshwar",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "L. Ramanand Bhat",
+"age" : "58",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "K N. Umesh",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Raghottam Akamanchi",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shankarasa Ladwa",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Anand Pandurangi",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Medha Pawar",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

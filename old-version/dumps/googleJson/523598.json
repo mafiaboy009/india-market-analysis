@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "523598",
+"exchange" : "BOM",
+"id": "697740",
+"t" : "523598",
+"e" : "BOM",
+"name" : "shipping corporation of India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:523598"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:523598"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:523598"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "43.12%",
+"annual" : "5.10%",
+"ttm" : "19.30%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "39.58%",
+"annual" : "5.92%",
+"ttm" : "19.67%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "22.35%",
+"ttm" : "33.06%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.20%",
+"ttm" : "5.29%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.57%",
+"ttm" : "12.28%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,290",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.00",
+"l" : "74.05",
+"cp" : "1.37",
+"ccol" : "chg",
+"op" : "73.60",
+"hi" : "75.40",
+"lo" : "73.60",
+"vo" : "110,821.00",
+"avvo" : "",
+"hi52" : "113.50",
+"lo52" : "61.70",
+"mc" : "34.59B",
+"pe" : "4.41",
+"fwpe" : "",
+"beta" : "",
+"eps" : "16.78",
+"dy" : "",
+"ldiv" : "",
+"shares" : "465.80M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "697740",
+"name" : "shipping corporation of India Ltd",
+"t" : "523598",
+"e" : "BOM",
+"l" : "74.05",
+"c" : "+1.00",
+"mc" : "34.59B",
+"cp" : "1.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14685808",
+"name" : "Great Eastern Shipping Company Ltd",
+"t" : "GESHIP",
+"e" : "NSE",
+"l" : "370.40",
+"c" : "-8.95",
+"mc" : "55.86B",
+"cp" : "-2.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14627387",
+"name" : "Varun Shipping Company Limited",
+"t" : "VARUNSHIP",
+"e" : "NSE",
+"l" : "9.55",
+"c" : "",
+"mc" : "1.48B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12256140",
+"name" : "Global Offshore Services Ltd",
+"t" : "GLOBOFFS",
+"e" : "NSE",
+"l" : "32.15",
+"c" : "+1.50",
+"mc" : "801.57M",
+"cp" : "4.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "713042",
+"name" : "Chowgule Steamships Ltd.",
+"t" : "501833",
+"e" : "BOM",
+"l" : "14.90",
+"c" : "+0.41",
+"mc" : "549.72M",
+"cp" : "2.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9605998",
+"name" : "Essar Shipping Ltd",
+"t" : "ESSARSHPNG",
+"e" : "NSE",
+"l" : "25.40",
+"c" : "+0.05",
+"mc" : "5.26B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5805358",
+"name" : "Chambal Fertilisers \u0026 Chemicals Ltd (P)",
+"t" : "CHAMBLFERT",
+"e" : "NSE",
+"l" : "171.50",
+"c" : "+14.00",
+"mc" : "71.38B",
+"cp" : "8.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2524258",
+"name" : "Shahi Shipping Ltd",
+"t" : "526508",
+"e" : "BOM",
+"l" : "7.63",
+"c" : "-0.36",
+"mc" : "110.60M",
+"cp" : "-4.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9241636",
+"name" : "Shreyas Shipping \u0026 Logistics Ltd",
+"t" : "SHREYAS",
+"e" : "NSE",
+"l" : "560.05",
+"c" : "-1.70",
+"mc" : "12.25B",
+"cp" : "-0.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15317737",
+"name" : "Mercator Ltd",
+"t" : "MERCATOR",
+"e" : "NSE",
+"l" : "37.35",
+"c" : "+1.25",
+"mc" : "11.30B",
+"cp" : "3.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5263425",
+"name" : "Allcargo Logistics Ltd",
+"t" : "ALLCARGO",
+"e" : "NSE",
+"l" : "177.50",
+"c" : "-0.15",
+"mc" : "43.45B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Shipping House 245 Madam Cama Road, MUMBAI, 400021, India",
+"phone": "+91-22-22026666",
+"fax": "+91-22-22026905",
+"url": "http:\u002F\u002Fwww.shipindia.com\u002F",
+"overview" : "The Shipping Corporation of India Limited is engaged in sea and coastal freight water transport business. The Company\u0027s segments include Liner Segment, Bulk Segment, Technical and Offshore, and Others. The Liner segment includes breakbulk, container transport, passenger vessels, and passenger vessels and research vessels managed on behalf of other organizations. The Bulk segment includes tankers, dry bulk carriers, gas carriers, phosphoric acid carriers and liquefied natural gas (LNG) vessels managed on behalf of joint venture companies. The Technical \u0026 Offshore services segment includes the Company-owned offshore vessels, offshore vessels managed on behalf of other organizations. It offers technical consultancy. Others segment includes Maritime Training Institute operations. Its owned fleet includes bulk carriers, crude oil tankers, container vessels, passenger-cum-cargo vessels, product tankers, liquefied petroleum gas (LPG)\u002Fammonia carriers and offshore supply vessels."
+} ]
+, "management" : [
+{
+"name" : "Anoop Kumar Sharma",
+"title" : "Chairman of the Board, Managing Director, Director - Liner \u0026 Passenger Service"
+}
+,
+{
+"name" : "H. K. Joshi",
+"title" : "Director of Finance and Personnel and Administration, Director"
+}
+,
+{
+"name" : "Dipankar Haldar",
+"title" : "Executive Director - Legal, Company Secretary, IR Contact Officer"
+}
+,
+{
+"name" : "S V. Kher",
+"title" : "Director - Bulk Carrier \u0026 Tanker Division, Whole-Time Director"
+}
+,
+{
+"name" : "Satinder Pal Singh",
+"title" : "Part Time Official Director"
+}
+,
+{
+"name" : "Sangeeta Anil Sharma",
+"title" : "Director - Liner \u0026 Passenger Service, Director"
+}
+,
+{
+"name" : "Rajesh Sood",
+"title" : "Director - Technical \u0026 Offshore Services, Director"
+}
+,
+{
+"name" : "T. Kumar",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Arun Balkrishnan",
+"title" : "Non Official Part Time Director"
+}
+,
+{
+"name" : "Sukamal Chandra Basu",
+"title" : "Non Official Part Time Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

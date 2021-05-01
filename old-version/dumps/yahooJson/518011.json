@@ -1,0 +1,213 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 1575768960,
+            "fmt": "1.58B",
+            "longFmt": "1,575,768,960"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0475,
+            "fmt": "4.75%"
+          },
+          "floatShares": {
+            "raw": 1800800,
+            "fmt": "1.8M",
+            "longFmt": "1,800,800"
+          },
+          "sharesOutstanding": {
+            "raw": 8016740,
+            "fmt": "8.02M",
+            "longFmt": "8,016,740"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.298306,
+            "fmt": "-0.3"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 71.571,
+            "fmt": "71.57"
+          },
+          "priceToBook": {
+            "raw": 1.1834402,
+            "fmt": "1.18"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 82994000,
+            "fmt": "82.99M",
+            "longFmt": "82,994,000"
+          },
+          "trailingEps": {
+            "raw": 10.353,
+            "fmt": "10.35"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.823,
+            "fmt": "0.82"
+          },
+          "enterpriseToEbitda": {
+            "raw": 5.247,
+            "fmt": "5.25"
+          },
+          "52WeekChange": {
+            "raw": -0.56062096,
+            "fmt": "-56.06%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Plot No. 40",
+          "address2": "IDA, Balanagar",
+          "city": "Hyderabad",
+          "zip": "500037",
+          "country": "India",
+          "phone": "91 40 2307 6538",
+          "fax": "91 40 2307 6543",
+          "website": "http://www.keerthiindustries.com",
+          "industry": "General Building Materials",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Keerthi Industries Limited manufactures and sells cement and clinker in India. It operates through three segments: Cement, Electronics, and Power. The company manufactures and sells cement under the Suvarna brand. It also manufactures and sells printed circuit boards; and generates wind power. The company was formerly known as Suvarna Cements Limited and changed its name to Keerthi Industries Limited in 2005. Keerthi Industries Limited was incorporated in 1982 and is headquartered in Hyderabad, India.",
+          "fullTimeEmployees": 215,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 84.7,
+            "fmt": "84.70"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 121678000,
+            "fmt": "121.68M",
+            "longFmt": "121,678,000"
+          },
+          "totalCashPerShare": {
+            "raw": 15.178,
+            "fmt": "15.18"
+          },
+          "ebitda": {
+            "raw": 300331008,
+            "fmt": "300.33M",
+            "longFmt": "300,331,008"
+          },
+          "totalDebt": {
+            "raw": 648056000,
+            "fmt": "648.06M",
+            "longFmt": "648,056,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1915363968,
+            "fmt": "1.92B",
+            "longFmt": "1,915,363,968"
+          },
+          "debtToEquity": {
+            "raw": 112.948,
+            "fmt": "112.95"
+          },
+          "revenuePerShare": {
+            "raw": 238.921,
+            "fmt": "238.92"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1711994000,
+            "fmt": "1.71B",
+            "longFmt": "1,711,994,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.268,
+            "fmt": "-26.80%"
+          },
+          "grossMargins": {
+            "raw": 0.871,
+            "fmt": "87.10%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.1568,
+            "fmt": "15.68%"
+          },
+          "operatingMargins": {
+            "raw": 0.109060004,
+            "fmt": "10.91%"
+          },
+          "profitMargins": {
+            "raw": 0.0475,
+            "fmt": "4.75%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

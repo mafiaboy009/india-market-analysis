@@ -1,0 +1,380 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 1834691328,
+            "fmt": "1.83B",
+            "longFmt": "1,834,691,328"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.25068,
+            "fmt": "25.07%"
+          },
+          "floatShares": {
+            "raw": 2552326,
+            "fmt": "2.55M",
+            "longFmt": "2,552,326"
+          },
+          "sharesOutstanding": {
+            "raw": 6065220,
+            "fmt": "6.07M",
+            "longFmt": "6,065,220"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.943624,
+            "fmt": "0.94"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 160.01,
+            "fmt": "160.01"
+          },
+          "priceToBook": {
+            "raw": 2.1711144,
+            "fmt": "2.17"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.359,
+            "fmt": "-35.90%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 118263560,
+            "fmt": "118.26M",
+            "longFmt": "118,263,560"
+          },
+          "trailingEps": {
+            "raw": 21.229,
+            "fmt": "21.23"
+          },
+          "forwardEps": {
+            "raw": 27.16,
+            "fmt": "27.16"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 3.889,
+            "fmt": "3.89"
+          },
+          "enterpriseToEbitda": {
+            "raw": 8.766,
+            "fmt": "8.77"
+          },
+          "52WeekChange": {
+            "raw": 0.09191847,
+            "fmt": "9.19%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 3.14,
+                  "fmt": "3.14"
+                },
+                "estimate": {
+                  "raw": 5.68,
+                  "fmt": "5.68"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 1.72,
+                  "fmt": "1.72"
+                },
+                "estimate": {
+                  "raw": 3.29,
+                  "fmt": "3.29"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 225344051,
+                  "fmt": "225.34M",
+                  "longFmt": "225,344,051"
+                },
+                "earnings": {
+                  "raw": 69681239,
+                  "fmt": "69.68M",
+                  "longFmt": "69,681,239"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 292635319,
+                  "fmt": "292.64M",
+                  "longFmt": "292,635,319"
+                },
+                "earnings": {
+                  "raw": 47390374,
+                  "fmt": "47.39M",
+                  "longFmt": "47,390,374"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 390432847,
+                  "fmt": "390.43M",
+                  "longFmt": "390,432,847"
+                },
+                "earnings": {
+                  "raw": 70504406,
+                  "fmt": "70.5M",
+                  "longFmt": "70,504,406"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 470556820,
+                  "fmt": "470.56M",
+                  "longFmt": "470,556,820"
+                },
+                "earnings": {
+                  "raw": 90114563,
+                  "fmt": "90.11M",
+                  "longFmt": "90,114,563"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 125954820,
+                  "fmt": "125.95M",
+                  "longFmt": "125,954,820"
+                },
+                "earnings": {
+                  "raw": 17479563,
+                  "fmt": "17.48M",
+                  "longFmt": "17,479,563"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 156110000,
+                  "fmt": "156.11M",
+                  "longFmt": "156,110,000"
+                },
+                "earnings": {
+                  "raw": 68470000,
+                  "fmt": "68.47M",
+                  "longFmt": "68,470,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 79461000,
+                  "fmt": "79.46M",
+                  "longFmt": "79,461,000"
+                },
+                "earnings": {
+                  "raw": 9561000,
+                  "fmt": "9.56M",
+                  "longFmt": "9,561,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 110232000,
+                  "fmt": "110.23M",
+                  "longFmt": "110,232,000"
+                },
+                "earnings": {
+                  "raw": 23468000,
+                  "fmt": "23.47M",
+                  "longFmt": "23,468,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Pressman House",
+          "address2": "10A, Lee Road",
+          "city": "Kolkata",
+          "zip": "700020",
+          "country": "India",
+          "phone": "91 33 4031 0800",
+          "fax": "91 33 4031 0813",
+          "website": "http://www.sinclairshotels.com",
+          "industry": "Lodging",
+          "sector": "Services",
+          "longBusinessSummary": "Sinclairs Hotels Limited operates in hospitality industry in India. It has hotels and resort at Siliguri, Darjeeling, Chalsa, and Kalimpong in West Bengal; Ooty in Tamilnadu; and Port Blair in Andaman and Nicobar Islands. The company was incorporated in 1971 and is based in Kolkata, India.",
+          "fullTimeEmployees": 396,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 347.4,
+            "fmt": "347.40"
+          },
+          "targetHighPrice": {
+            "raw": 560.0,
+            "fmt": "560.00"
+          },
+          "targetLowPrice": {
+            "raw": 560.0,
+            "fmt": "560.00"
+          },
+          "targetMeanPrice": {
+            "raw": 560.0,
+            "fmt": "560.00"
+          },
+          "targetMedianPrice": {
+            "raw": 560.0,
+            "fmt": "560.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 359649984,
+            "fmt": "359.65M",
+            "longFmt": "359,649,984"
+          },
+          "totalCashPerShare": {
+            "raw": 64.519,
+            "fmt": "64.52"
+          },
+          "ebitda": {
+            "raw": 209288256,
+            "fmt": "209.29M",
+            "longFmt": "209,288,256"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 471761824,
+            "fmt": "471.76M",
+            "longFmt": "471,761,824"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 84.683,
+            "fmt": "84.68"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 316115712,
+            "fmt": "316.12M",
+            "longFmt": "316,115,712"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.359,
+            "fmt": "-35.90%"
+          },
+          "revenueGrowth": {
+            "raw": -0.12,
+            "fmt": "-12.00%"
+          },
+          "grossMargins": {
+            "raw": 0.66870004,
+            "fmt": "66.87%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.44362998,
+            "fmt": "44.36%"
+          },
+          "operatingMargins": {
+            "raw": 0.25234,
+            "fmt": "25.23%"
+          },
+          "profitMargins": {
+            "raw": 0.25068,
+            "fmt": "25.07%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

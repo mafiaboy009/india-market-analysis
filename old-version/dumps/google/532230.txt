@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "532230",
+"exchange" : "BOM",
+"id": "8942841",
+"t" : "532230",
+"e" : "BOM",
+"name" : "Bengal Tea and Fabrics Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=BENT.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532230"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532230"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532230"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.19%",
+"annual" : "-2.29%",
+"ttm" : "1.14%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.48%",
+"annual" : "-1.68%",
+"ttm" : "2.77%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.92%",
+"ttm" : "7.55%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.64%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-4.66%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,056",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.10",
+"l" : "60.00",
+"cp" : "-0.17",
+"ccol" : "chr",
+"op" : "60.00",
+"hi" : "63.05",
+"lo" : "60.00",
+"vo" : "629.00",
+"avvo" : "",
+"hi52" : "71.10",
+"lo52" : "40.00",
+"mc" : "541.26M",
+"pe" : "31.29",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.92",
+"dy" : "0.83",
+"ldiv" : "0.50",
+"shares" : "9.01M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "8942841",
+"name" : "Bengal Tea and Fabrics Ltd",
+"t" : "532230",
+"e" : "BOM",
+"l" : "60.00",
+"c" : "-0.10",
+"mc" : "541.26M",
+"cp" : "-0.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12923600",
+"name" : "AYM Syntex Ltd",
+"t" : "508933",
+"e" : "BOM",
+"l" : "68.50",
+"c" : "+0.90",
+"mc" : "2.69B",
+"cp" : "1.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715247",
+"name" : "Maharaja Shree Umaid Mills Ltd.",
+"t" : "530059",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "11427267",
+"name" : "Uniworth Ltd",
+"t" : "514144",
+"e" : "BOM",
+"l" : "0.97",
+"c" : "0.00",
+"mc" : "32.97M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14166660",
+"name" : "Shree Rajasthan Syntex Ltd",
+"t" : "503837",
+"e" : "BOM",
+"l" : "17.30",
+"c" : "+0.80",
+"mc" : "237.05M",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "709546",
+"name" : "Jagjanani Textiles Limited",
+"t" : "532825",
+"e" : "BOM",
+"l" : "0.55",
+"c" : "0.00",
+"mc" : "8.58M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "579602034236301",
+"name" : "Lakhotia Polyesters (India) Ltd",
+"t" : "535387",
+"e" : "BOM",
+"l" : "8.76",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1511298",
+"name" : "Gupta Synthetics Ltd",
+"t" : "514116",
+"e" : "BOM",
+"l" : "2.36",
+"c" : "0.00",
+"mc" : "17.35M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3691381",
+"name" : "RSWM Ltd.",
+"t" : "RSWM",
+"e" : "NSE",
+"l" : "329.50",
+"c" : "-2.45",
+"mc" : "7.81B",
+"cp" : "-0.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5592424",
+"name" : "Cheslind Textiles Limited",
+"t" : "CHESLINTEX",
+"e" : "NSE",
+"l" : "11.50",
+"c" : "+0.45",
+"mc" : "500.82M",
+"cp" : "4.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1845525",
+"name" : "Vardhman Textiles Ltd.",
+"t" : "VTL",
+"e" : "NSE",
+"l" : "1,385.00",
+"c" : "+18.00",
+"mc" : "79.41B",
+"cp" : "1.32",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Century Towers 45, Shakespeare Sarani , 4Th Floor, KOLKATA, 700017, India",
+"phone": "+91-33-22836416",
+"fax": "+91-33-22836416",
+"url": "http:\u002F\u002Fwww.bengaltea.com\u002F",
+"overview" : "Bengal Tea \u0026 Fabrics Limited is engaged in the business of tea and textiles. The Company\u0027s principal products\u002Fservices include black tea, cloth cotton fabrics and synthetic yarn. Its segments are tea, textile and real estate. Its tea products include black tea leaf and dust, and tea seed, and its textile products include cotton yarn, manmade fiber yarn, blended yarn and fabrics. The Company owns approximately three tea estates, including Ananda Tea Estate, Pathalipam Tea Estate and Bordeobam Tea Estate, with an annual production of approximately 1.6 million kilograms of tea, having a planted area of over 630 hectares, situated in North Lakhimpur in Upper Assam. The Company processes the green tea leaves at its own factory situated at Ananda Tea Estate. It owns a composite textile mill, namely Asarwa Mills, with an installed capacity of approximately 47,620 spindles and over 90 looms, situated in Ahmedabad in Gujarat."
+} ]
+, "management" : [
+{
+"name" : "Adarsh Kanoria",
+"age" : "47",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Atul Doshi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sunita Shah",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kailash Prasad Khandelwal",
+"age" : "58",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Ashutosh Bhagat",
+"age" : "41",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shubha Kanoria",
+"age" : "47",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Navin Nayar",
+"age" : "52",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Abhijit Datta",
+"age" : "65",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Dhirendra Kumar",
+"age" : "71",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

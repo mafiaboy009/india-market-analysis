@@ -1,0 +1,204 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 972940672,
+            "fmt": "972.94M",
+            "longFmt": "972,940,672"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.00884,
+            "fmt": "0.88%"
+          },
+          "floatShares": {
+            "raw": 1954783,
+            "fmt": "1.95M",
+            "longFmt": "1,954,783"
+          },
+          "sharesOutstanding": {
+            "raw": 5250000,
+            "fmt": "5.25M",
+            "longFmt": "5,250,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.245627,
+            "fmt": "-0.25"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -73.541,
+            "fmt": "-73.54"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 37335048,
+            "fmt": "37.34M",
+            "longFmt": "37,335,048"
+          },
+          "trailingEps": {
+            "raw": 7.112,
+            "fmt": "7.11"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.23,
+            "fmt": "0.23"
+          },
+          "enterpriseToEbitda": {
+            "raw": 4.165,
+            "fmt": "4.16"
+          },
+          "52WeekChange": {
+            "raw": -0.7104089,
+            "fmt": "-71.04%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "4-A, Hansalaya",
+          "address2": "15, Barakhamba Road",
+          "city": "New Delhi",
+          "zip": "110001",
+          "country": "India",
+          "phone": "91 11 2331 6409",
+          "fax": "91 11 2372 2193",
+          "website": "http://www.sirshadilal.com",
+          "industry": "Confectioners",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Sir Shadi Lal Enterprises Limited manufactures and sells sugar and alcohol products in India. Its products include cane sugar; and Indian made foreign liquor, country liquor, malt, rectified spirit, denatured spirit, anhydrous alcohol, and extra neutral alcohol. The company was formerly known as The Upper Doab Sugar Mills Limited and changed its name to Sir Shadi Lal Enterprises Limited in 1982. Sir Shadi Lal Enterprises Limited was founded in 1933 and is based in New Delhi, India.",
+          "fullTimeEmployees": 983,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 36.1,
+            "fmt": "36.10"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 390331008,
+            "fmt": "390.33M",
+            "longFmt": "390,331,008"
+          },
+          "totalCashPerShare": {
+            "raw": 74.351,
+            "fmt": "74.35"
+          },
+          "ebitda": {
+            "raw": 233592368,
+            "fmt": "233.59M",
+            "longFmt": "233,592,368"
+          },
+          "totalDebt": {
+            "raw": 1137003008,
+            "fmt": "1.14B",
+            "longFmt": "1,137,003,008"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 4223148032,
+            "fmt": "4.22B",
+            "longFmt": "4,223,148,032"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 804.438,
+            "fmt": "804.44"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 844642934,
+            "fmt": "844.64M",
+            "longFmt": "844,642,934"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.071,
+            "fmt": "-7.10%"
+          },
+          "grossMargins": {
+            "raw": 0.18761998,
+            "fmt": "18.76%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.05531,
+            "fmt": "5.53%"
+          },
+          "operatingMargins": {
+            "raw": 0.05098,
+            "fmt": "5.10%"
+          },
+          "profitMargins": {
+            "raw": 0.00884,
+            "fmt": "0.88%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

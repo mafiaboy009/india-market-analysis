@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "539113",
+"exchange" : "BOM",
+"id": "894106935924088",
+"t" : "539113",
+"e" : "BOM",
+"name" : "Paul Merchants Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=PAUL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:539113"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:539113"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:539113"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.90%",
+"annual" : "0.42%",
+"ttm" : "0.83%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "1.33%",
+"annual" : "1.03%",
+"ttm" : "1.20%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.14%",
+"ttm" : "1.32%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.59%",
+"ttm" : "9.79%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.64%",
+"ttm" : "15.85%"
+}
+]
+, "c" : "+124.85",
+"l" : "5,439.20",
+"cp" : "2.35",
+"ccol" : "chg",
+"op" : "5,499.00",
+"hi" : "5,500.00",
+"lo" : "5,200.00",
+"vo" : "310.00",
+"avvo" : "",
+"hi52" : "6,195.00",
+"lo52" : "3,056.35",
+"mc" : "5.60B",
+"pe" : "27.45",
+"fwpe" : "",
+"beta" : "",
+"eps" : "198.13",
+"dy" : "",
+"ldiv" : "",
+"shares" : "1.03M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "894106935924088",
+"name" : "Paul Merchants Ltd",
+"t" : "539113",
+"e" : "BOM",
+"l" : "5,439.20",
+"c" : "+124.85",
+"mc" : "5.60B",
+"cp" : "2.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "675532",
+"name" : "Silverline Technologies Limited",
+"t" : "500389",
+"e" : "BOM",
+"l" : "2.19",
+"c" : "0.00",
+"mc" : "166.53M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11734673",
+"name" : "Lakshmi Vilas Bank Ltd.",
+"t" : "LAKSHVILAS",
+"e" : "NSE",
+"l" : "114.45",
+"c" : "-0.55",
+"mc" : "29.32B",
+"cp" : "-0.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3626563",
+"name" : "Muthoot Finance Ltd",
+"t" : "MUTHOOTFIN",
+"e" : "NSE",
+"l" : "388.25",
+"c" : "+0.45",
+"mc" : "154.91B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7686660",
+"name" : "Shalibhadra Finance Ltd",
+"t" : "511754",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "-5.35",
+"mc" : "652.09M",
+"cp" : "-3.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9257280",
+"name" : "Anar Industries Ltd",
+"t" : "531127",
+"e" : "BOM",
+"l" : "19.00",
+"c" : "0.00",
+"mc" : "190.66M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "762746439239580",
+"name" : "Reliance Home Finance Ltd",
+"t" : "RHFL",
+"e" : "NSE",
+"l" : "72.25",
+"c" : "-0.85",
+"mc" : "35.06B",
+"cp" : "-1.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1026704",
+"name" : "Magma Fincorp Ltd",
+"t" : "MAGMA",
+"e" : "NSE",
+"l" : "165.05",
+"c" : "+3.15",
+"mc" : "39.09B",
+"cp" : "1.95",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1035532185389711",
+"name" : "Repco Home Finance Ltd",
+"t" : "REPCOHOME",
+"e" : "NSE",
+"l" : "562.00",
+"c" : "+15.40",
+"mc" : "35.13B",
+"cp" : "2.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "314357446187987",
+"name" : "CRP Risk Management Ltd",
+"t" : "540903",
+"e" : "BOM",
+"l" : "60.00",
+"c" : "+3.50",
+"mc" : "1.05B",
+"cp" : "6.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4165482",
+"name" : "Corporation Bank",
+"t" : "CORPBANK",
+"e" : "NSE",
+"l" : "32.80",
+"c" : "-0.55",
+"mc" : "36.90B",
+"cp" : "-1.65",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Pml House,, Sco 829-830,, Sector 22-A,, CHANDIGARH, 160022, India",
+"phone": "+91-172-5041786",
+"fax": "+91-172-5041754",
+"url": "http:\u002F\u002Fwww.paulmerchants.net\u002F",
+"overview" : "Paul Merchants Limited (PML) is engaged in international inward remittance, foreign exchange and tours, and travels and air ticketing. The Company\u0027s segments include Forex, Western Union, Travel and Others. PML sells American Express (AMEX) Travelers checks in India and it offers foreign exchange services. The Company is a principal agent of Western Union Financial Services Inc. for the inward money transfer services. It offers a portfolio of tourism products, including cruises, medical, wellness, sports, eco-tourism, and film, rural and religious tourism. Its travel services also include hotel accommodation, buses, outbound tours, inbound tours, holiday packages and travel insurance. The Company offers business payment solutions, including inward and outward. The Company offers online reservations of air tickets and hotels through its domains, www.pmlholidays.com (business-to-business (B2B) site) and www.travelyatra.in (business-to-consumer (B2C) site)."
+} ]
+, "management" : [
+{
+"name" : "Sat Paul Bansal",
+"title" : "Executive Chairman of the Board and Managing Director"
+}
+,
+{
+"name" : "Tilak Raj Khepar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Hardam Singh",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajneesh Bansal",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Surinder Singh Bedi",
+"title" : "Whole - Time Director"
+}
+,
+{
+"name" : "Harjinder Singh",
+"title" : "Whole - Time Director"
+}
+,
+{
+"name" : "Sandeep Bansal",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Uma Shankar Paliwal",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Ajay Kumar Arora",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vigyan Arora",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,342 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 3929507840,
+            "fmt": "3.93B",
+            "longFmt": "3,929,507,840"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -1.14188,
+            "fmt": "-114.19%"
+          },
+          "floatShares": {
+            "raw": 34436117,
+            "fmt": "34.44M",
+            "longFmt": "34,436,117"
+          },
+          "sharesOutstanding": {
+            "raw": 41224100,
+            "fmt": "41.22M",
+            "longFmt": "41,224,100"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.677386,
+            "fmt": "1.68"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 33.79,
+            "fmt": "33.79"
+          },
+          "priceToBook": {
+            "raw": 0.46907368,
+            "fmt": "0.47"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -3622590976,
+            "fmt": "-3.62B",
+            "longFmt": "-3,622,590,976"
+          },
+          "trailingEps": {
+            "raw": -106.643,
+            "fmt": "-106.64"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.239,
+            "fmt": "1.24"
+          },
+          "enterpriseToEbitda": {
+            "raw": -1.64,
+            "fmt": "-1.64"
+          },
+          "52WeekChange": {
+            "raw": -0.57315433,
+            "fmt": "-57.32%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 9260956985,
+                  "fmt": "9.26B",
+                  "longFmt": "9,260,956,985"
+                },
+                "earnings": {
+                  "raw": 419425849,
+                  "fmt": "419.43M",
+                  "longFmt": "419,425,849"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 11081171351,
+                  "fmt": "11.08B",
+                  "longFmt": "11,081,171,351"
+                },
+                "earnings": {
+                  "raw": 505852897,
+                  "fmt": "505.85M",
+                  "longFmt": "505,852,897"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 11178743842,
+                  "fmt": "11.18B",
+                  "longFmt": "11,178,743,842"
+                },
+                "earnings": {
+                  "raw": -106661584,
+                  "fmt": "-106.66M",
+                  "longFmt": "-106,661,584"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 7132128116,
+                  "fmt": "7.13B",
+                  "longFmt": "7,132,128,116"
+                },
+                "earnings": {
+                  "raw": -2144682074,
+                  "fmt": "-2.14B",
+                  "longFmt": "-2,144,682,074"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 776093116,
+                  "fmt": "776.09M",
+                  "longFmt": "776,093,116"
+                },
+                "earnings": {
+                  "raw": -1913418074,
+                  "fmt": "-1.91B",
+                  "longFmt": "-1,913,418,074"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 891960000,
+                  "fmt": "891.96M",
+                  "longFmt": "891,960,000"
+                },
+                "earnings": {
+                  "raw": -528134000,
+                  "fmt": "-528.13M",
+                  "longFmt": "-528,134,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 1006214000,
+                  "fmt": "1.01B",
+                  "longFmt": "1,006,214,000"
+                },
+                "earnings": {
+                  "raw": -477505000,
+                  "fmt": "-477.5M",
+                  "longFmt": "-477,505,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 498201000,
+                  "fmt": "498.2M",
+                  "longFmt": "498,201,000"
+                },
+                "earnings": {
+                  "raw": -1006111000,
+                  "fmt": "-1.01B",
+                  "longFmt": "-1,006,111,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "501, Silver Metropolis",
+          "address2": "Western Express Highway Goregaon East",
+          "city": "Mumbai",
+          "zip": "400063",
+          "country": "India",
+          "phone": "91 22 4290 4290",
+          "fax": "91 22 4290 4291",
+          "website": "http://www.zicom.com",
+          "industry": "Security & Protection Services",
+          "sector": "Services",
+          "longBusinessSummary": "Zicom Electronic Security Systems Limited, together with its subsidiaries, manufactures, markets, distributes, sells, installs, and monitors electronic security systems, and gadgets and equipment in India. Its products include CCTV surveillance systems, access control systems, fire alarm systems, multi-apartment video door phones, video door phones, intruder alarm systems, and fingerprint locks. The company also offers various remote managed services, such as e?Watch, a managed alert as a service; e?Attend, which is time and attendance system on cloud; e?Sense, a remote fire alarm monitoring service; e?Alert, which provides remote monitoring of intruder alarm; and e-Surveillance system, as well as Ziman a safety mobile application. In addition, it provides annual maintenance services for electronic security products; engineering services; fire protection services; alarm response services; fire management; attendance on the cloud; and surveillance of ATM with two way voice communication. The company serves oil, gas, marine, and housing and residential sectors. Zicom Electronic Security Systems Limited was founded in 1994 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 15.85,
+            "fmt": "15.85"
+          },
+          "targetHighPrice": {
+            "raw": 175.0,
+            "fmt": "175.00"
+          },
+          "targetLowPrice": {
+            "raw": 175.0,
+            "fmt": "175.00"
+          },
+          "targetMeanPrice": {
+            "raw": 175.0,
+            "fmt": "175.00"
+          },
+          "targetMedianPrice": {
+            "raw": 175.0,
+            "fmt": "175.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 3863443968,
+            "fmt": "3.86B",
+            "longFmt": "3,863,443,968"
+          },
+          "totalCashPerShare": {
+            "raw": 93.734,
+            "fmt": "93.73"
+          },
+          "ebitda": {
+            "raw": -2395918592,
+            "fmt": "-2.4B",
+            "longFmt": "-2,395,918,592"
+          },
+          "totalDebt": {
+            "raw": 6976851968,
+            "fmt": "6.98B",
+            "longFmt": "6,976,851,968"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 3172468224,
+            "fmt": "3.17B",
+            "longFmt": "3,172,468,224"
+          },
+          "debtToEquity": {
+            "raw": 405.426,
+            "fmt": "405.43"
+          },
+          "revenuePerShare": {
+            "raw": 93.392,
+            "fmt": "93.39"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1351257099,
+            "fmt": "1.35B",
+            "longFmt": "1,351,257,099"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.758,
+            "fmt": "-75.80%"
+          },
+          "grossMargins": {
+            "raw": 0.14959,
+            "fmt": "14.96%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.75522006,
+            "fmt": "-75.52%"
+          },
+          "operatingMargins": {
+            "raw": -0.90286005,
+            "fmt": "-90.29%"
+          },
+          "profitMargins": {
+            "raw": -1.14188,
+            "fmt": "-114.19%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

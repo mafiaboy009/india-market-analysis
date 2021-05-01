@@ -1,0 +1,284 @@
+
+ [
+{
+"symbol" : "533146",
+"exchange" : "BOM",
+"id": "14548701",
+"t" : "533146",
+"e" : "BOM",
+"name" : "D Link India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533146"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533146"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533146"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.48%",
+"annual" : "2.46%",
+"ttm" : "3.38%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.41%",
+"annual" : "3.61%",
+"ttm" : "5.05%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.29%",
+"ttm" : "5.28%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.82%",
+"ttm" : "8.18%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.68%",
+"ttm" : "16.73%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "298",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.40",
+"l" : "109.00",
+"cp" : "0.37",
+"ccol" : "chg",
+"op" : "109.65",
+"hi" : "111.60",
+"lo" : "108.60",
+"vo" : "5,438.00",
+"avvo" : "",
+"hi52" : "154.00",
+"lo52" : "85.10",
+"mc" : "3.89B",
+"pe" : "15.88",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.87",
+"dy" : "0.46",
+"ldiv" : "0.50",
+"shares" : "35.50M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "14548701",
+"name" : "D Link India Ltd",
+"t" : "533146",
+"e" : "BOM",
+"l" : "109.00",
+"c" : "+0.40",
+"mc" : "3.89B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715419",
+"name" : "Ricoh India Ltd.",
+"t" : "517496",
+"e" : "BOM",
+"l" : "193.45",
+"c" : "0.00",
+"mc" : "7.69B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10394991",
+"name" : "Sterling Webnet Ltd",
+"t" : "531901",
+"e" : "BOM",
+"l" : "0.45",
+"c" : "0.00",
+"mc" : "24.94M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8456050",
+"name" : "Unisys Softwares and Holding Indus",
+"t" : "531831",
+"e" : "BOM",
+"l" : "22.90",
+"c" : "0.00",
+"mc" : "526.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4711502",
+"name" : "Redington (India) Ltd",
+"t" : "REDINGTON",
+"e" : "NSE",
+"l" : "146.80",
+"c" : "-1.25",
+"mc" : "58.94B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10627180",
+"name" : "HCL Technologies Ltd",
+"t" : "HCLTECH",
+"e" : "NSE",
+"l" : "948.95",
+"c" : "-6.65",
+"mc" : "1.32T",
+"cp" : "-0.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "335977539774197",
+"name" : "Compucom Software Ltd",
+"t" : "COMPUSOFT",
+"e" : "NSE",
+"l" : "13.10",
+"c" : "-0.10",
+"mc" : "1.03B",
+"cp" : "-0.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10405902",
+"name" : "Vama Industries Ltd",
+"t" : "512175",
+"e" : "BOM",
+"l" : "25.20",
+"c" : "0.00",
+"mc" : "1.31B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2964394",
+"name" : "Vintron Informatics Ltd",
+"t" : "517393",
+"e" : "BOM",
+"l" : "0.55",
+"c" : "0.00",
+"mc" : "43.10M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "703961",
+"name" : "Photoquip India Ltd",
+"t" : "526588",
+"e" : "BOM",
+"l" : "22.00",
+"c" : "-1.15",
+"mc" : "105.62M",
+"cp" : "-4.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1984268",
+"name" : "Surya Pharmaeutical Ltd",
+"t" : "SURYAPHARM",
+"e" : "NSE",
+"l" : "1.40",
+"c" : "",
+"mc" : "60.83M",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Plot No U02b Verna Industrial Estate,Verna, SALCETE, GOA 403722, India",
+"phone": "+91-832-2885400",
+"fax": "+91-832-2885823",
+"url": "http:\u002F\u002Fwww.dlink.co.in\u002F",
+"overview" : "D-Link (India) Limited is an India-based networking company. The Company is engaged in the marketing and distribution of networking products in India and the South Asian Association for Regional Cooperation (SAARC) region. The Company is a subsidiary of D-Link Corporation. It offers products that extend across various areas of network infrastructure, including switching, security, wireless, Internet protocol (IP) surveillance, storage and structured cabling. It offers a range of wireless alternating current (AC) routers, cameras and wireless adapters. Its offerings also include Smart Plug, Audio Extender, Wireless Sensors and Home Monitors. The Company\u0027s Web-based wireless fidelity (Wi-Fi) network management software, Central WiFiManager, allows setup, management and control of a network from a central location from any Internet-connected device. The Company\u0027s wireless solutions include various products, such as access points, management platform, mobile wireless and accessories."
+} ]
+, "management" : [
+{
+"name" : "Tushar Sighat",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Chandrashekhar M. Gaonkar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Shrinivas Adkesar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anny Wei",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Mukesh Tirthdas Lulla",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rajaram M. Ajgaonkar",
+"age" : "56",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Madhu Gadodia",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Satish Godbole",
+"age" : "57",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

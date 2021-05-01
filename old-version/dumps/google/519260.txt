@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "519260",
+"exchange" : "BOM",
+"id": "715424",
+"t" : "519260",
+"e" : "BOM",
+"name" : "Sanwaria Consumer Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:519260"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:519260"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:519260"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.96%",
+"annual" : "1.25%",
+"ttm" : "1.86%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.05%",
+"annual" : "2.94%",
+"ttm" : "3.33%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.15%",
+"ttm" : "3.47%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.94%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.24%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "100",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.95",
+"l" : "21.10",
+"cp" : "4.71",
+"ccol" : "chg",
+"op" : "21.10",
+"hi" : "21.15",
+"lo" : "20.30",
+"vo" : "2.30M",
+"avvo" : "",
+"hi52" : "34.75",
+"lo52" : "3.90",
+"mc" : "15.49B",
+"pe" : "17.07",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.24",
+"dy" : "0.36",
+"ldiv" : "0.05",
+"shares" : "736.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715424",
+"name" : "Sanwaria Consumer Ltd",
+"t" : "519260",
+"e" : "BOM",
+"l" : "21.10",
+"c" : "+0.95",
+"mc" : "15.49B",
+"cp" : "4.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3579402",
+"name" : "Vippy Industries Ltd",
+"t" : "519039",
+"e" : "BOM",
+"l" : "7.12",
+"c" : "0.00",
+"mc" : "1.14B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3330741",
+"name" : "Gujarat Ambuja Exports Limited",
+"t" : "GAEL",
+"e" : "NSE",
+"l" : "255.95",
+"c" : "+12.40",
+"mc" : "29.44B",
+"cp" : "5.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7349646",
+"name" : "Natraj Proteins Ltd",
+"t" : "530119",
+"e" : "BOM",
+"l" : "32.35",
+"c" : "-1.65",
+"mc" : "121.22M",
+"cp" : "-4.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14747623",
+"name" : "Murli Industries Ltd",
+"t" : "MURLIIND",
+"e" : "NSE",
+"l" : "1.65",
+"c" : "",
+"mc" : "118.98M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13951355",
+"name" : "Cian Agro Industries\u0026Infrastructure Ltd",
+"t" : "519477",
+"e" : "BOM",
+"l" : "47.15",
+"c" : "0.00",
+"mc" : "1.32B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "724651",
+"name" : "BCL Industries \u0026 Infrastructure Ltd",
+"t" : "524332",
+"e" : "BOM",
+"l" : "150.00",
+"c" : "+0.30",
+"mc" : "2.12B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10018194",
+"name" : "Sam Industries Ltd",
+"t" : "532005",
+"e" : "BOM",
+"l" : "17.50",
+"c" : "-0.90",
+"mc" : "194.05M",
+"cp" : "-4.89",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2488688",
+"name" : "Khaitan Chemicals And Fertilizers Ltd",
+"t" : "507794",
+"e" : "BOM",
+"l" : "17.45",
+"c" : "-0.20",
+"mc" : "1.69B",
+"cp" : "-1.13",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7472374",
+"name" : "Ruchi Soya Industries Ltd.",
+"t" : "RUCHISOYA",
+"e" : "NSE",
+"l" : "17.35",
+"c" : "-0.70",
+"mc" : "5.88B",
+"cp" : "-3.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "463096841852661",
+"name" : "Shanti Overseas India Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "E-1\u002F1, Arera Colony, BHOPAL, 462016, India",
+"phone": "+91-755-4294878",
+"fax": "+91-755-4295038",
+"url": "http:\u002F\u002Fwww.sanwariaagro.com\u002F",
+"overview" : "Sanwaria Consumer Limited, formerly Sanwaria Agro Oils Limited, is an India-based fast-moving consumer goods (FMCG) food processing company. The Company is engaged in manufacturing and selling rice, edible oil and staple food products, such as pulses, sugar, soya chunks, wheat flour, rice flour, salt, suji, maida, besan, daliya, and soya meal. Its products include Sanwaria Seth Chakki Fresh Vitamin Rich Atta, Sanwaria Seth Premium Basmati Rice, Sanwaria Seth Mongra Basmati Rice, Sanwaria Seth Primium Sella Basmati Rice, Sanwaria Seth Daliya, Sanwaria Seth Pulses (Dals), Sanwaria Seth Salt, Sanwaria Rice Bran Oil, Sanwaria Seth Soya Chunks, Sanwaria Seth Dubar Sella Basmati Rice, Sanwaria Seth Protein \u0026 Iron Rich Atta, Sanwaria Seth Besan, Sanwaria Seth Soyaflour and Sanwaria Seth Poha. It operates through manufacturing united at three locations: Mandideep, Itarsi and Betul, India."
+} ]
+, "management" : [
+{
+"name" : "Gulab Chand Agrawal",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Anil Kumar Vishwakarma",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Deepak Chhugani",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anil Kumar Agrawal",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Ashok Agrawal",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Satish Kumar Agrawal",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Abhishek Agrawal",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rajul Agrawal",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Hari Kishan Agrawal",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Shyam Babu Agrawal",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,276 @@
+
+// [
+{
+"symbol" : "532817",
+"exchange" : "BOM",
+"id": "708017",
+"t" : "532817",
+"e" : "BOM",
+"name" : "Oriental Trimex Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532817"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532817"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532817"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-13.48%",
+"annual" : "1.25%",
+"ttm" : "-4.34%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-28.04%",
+"annual" : "-0.65%",
+"ttm" : "-8.72%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.03%",
+"ttm" : "-2.98%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.83%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.84%",
+"ttm" : ""
+}
+]
+, "c" : "-0.65",
+"l" : "14.60",
+"cp" : "-4.26",
+"ccol" : "chr",
+"op" : "15.25",
+"hi" : "15.25",
+"lo" : "14.60",
+"vo" : "585.00",
+"avvo" : "",
+"hi52" : "22.66",
+"lo52" : "10.08",
+"mc" : "230.15M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-1.67",
+"dy" : "",
+"ldiv" : "",
+"shares" : "15.82M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "708017",
+"name" : "Oriental Trimex Limited",
+"t" : "532817",
+"e" : "BOM",
+"l" : "14.60",
+"c" : "-0.65",
+"mc" : "230.15M",
+"cp" : "-4.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3598372",
+"name" : "Glittek Granites Ltd",
+"t" : "513528",
+"e" : "BOM",
+"l" : "2.68",
+"c" : "-0.12",
+"mc" : "69.57M",
+"cp" : "-4.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11662653",
+"name" : "Elegant Marbles \u0026 Granite Industries Ltd",
+"t" : "526705",
+"e" : "BOM",
+"l" : "193.00",
+"c" : "-0.95",
+"mc" : "868.50M",
+"cp" : "-0.49",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7566186",
+"name" : "Solid Stone Co Ltd",
+"t" : "513699",
+"e" : "BOM",
+"l" : "74.90",
+"c" : "0.00",
+"mc" : "402.96M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11136278",
+"name" : "Ravi Leela Granites Ltd",
+"t" : "526095",
+"e" : "BOM",
+"l" : "24.30",
+"c" : "0.00",
+"mc" : "257.24M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "473705540126988",
+"name" : "Shiva Granito Export Ltd",
+"t" : "540072",
+"e" : "BOM",
+"l" : "21.10",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13889996",
+"name" : "Divyashakti Granites Ltd",
+"t" : "526315",
+"e" : "BOM",
+"l" : "102.00",
+"c" : "0.00",
+"mc" : "1.05B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12097295",
+"name" : "Inani Marbles And Industries Ltd",
+"t" : "531129",
+"e" : "BOM",
+"l" : "20.05",
+"c" : "-1.05",
+"mc" : "320.74M",
+"cp" : "-4.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715555",
+"name" : "Pokarna Ltd",
+"t" : "532486",
+"e" : "BOM",
+"l" : "215.00",
+"c" : "+8.15",
+"mc" : "6.66B",
+"cp" : "3.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2733685",
+"name" : "Associated Stone Industries (Kotah) Ltd",
+"t" : "502015",
+"e" : "BOM",
+"l" : "36.35",
+"c" : "-0.05",
+"mc" : "3.03B",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1023076",
+"name" : "Asian Granito India Ltd",
+"t" : "ASIANTILES",
+"e" : "NSE",
+"l" : "500.00",
+"c" : "-7.15",
+"mc" : "15.05B",
+"cp" : "-1.41",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "26\u002F25, Bazar Marg, Old Rajinder Nager, NEW DELHI, 110060, India",
+"phone": "+91-11-25769567",
+"fax": "+91-11-25752007",
+"url": "http:\u002F\u002Fwww.orientaltrimex.com\u002F",
+"overview" : "Oriental Trimex Limited is a marble processing company, which offers flooring products. The Company is engaged in the business of trading and processing of marble and mining of granite. The Company offers products, including Imported Marble\u002FEngineered Marble\u002FGranites. The Company supplies its marbles to architects, corporate in the building and construction industry, hotels, hospitals, shopping malls, commercial, retail and residential projects. It has procured, processed and supplied marble to the developers, contractors, hotels and institutional buyers in the Northern region, including the Delhi National Capital Region (NCR)\u003B Southern Region, including Bangalore and Chennai, and the Eastern Region, including Kolkata. The Company\u0027s marble processing facilities are located at Greater Noida in NCR, Gumidipoondi near Chennai and Singur, near Kolkata, in West Bengal. The Company\u0027s processing units are capable of producing approximately 7.20 million square feet of slabs per annum."
+} ]
+, "management" : [
+{
+"name" : "Uday Shankar Prasad",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajesh Kumar Punia",
+"age" : "56",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Savita Punia",
+"age" : "46",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Sunil Kumar",
+"age" : "36",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Amal Kumar Banerjee",
+"age" : "69",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vivek Seth",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rakesh Takyar",
+"age" : "53",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

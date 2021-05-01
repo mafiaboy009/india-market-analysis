@@ -1,0 +1,272 @@
+
+ [
+{
+"symbol" : "533257",
+"exchange" : "BOM",
+"id": "2773052",
+"t" : "533257",
+"e" : "BOM",
+"name" : "Indosolar Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533257"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533257"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533257"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "176.20%",
+"annual" : "-13.15%",
+"ttm" : "15.21%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "134.42%",
+"annual" : "9.70%",
+"ttm" : "21.59%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.11%",
+"ttm" : "4.33%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-5.23%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+}
+]
+, "c" : "+0.16",
+"l" : "8.23",
+"cp" : "1.98",
+"ccol" : "chg",
+"op" : "8.03",
+"hi" : "8.39",
+"lo" : "8.03",
+"vo" : "47,183.00",
+"avvo" : "",
+"hi52" : "14.72",
+"lo52" : "5.79",
+"mc" : "3.06B",
+"pe" : "5.26",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.56",
+"dy" : "",
+"ldiv" : "",
+"shares" : "372.07M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2773052",
+"name" : "Indosolar Limited",
+"t" : "533257",
+"e" : "BOM",
+"l" : "8.23",
+"c" : "+0.16",
+"mc" : "3.06B",
+"cp" : "1.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14444290",
+"name" : "Websol Energy System Ltd",
+"t" : "WEBELSOLAR",
+"e" : "NSE",
+"l" : "91.40",
+"c" : "-1.05",
+"mc" : "2.44B",
+"cp" : "-1.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4201272",
+"name" : "Surana Solar Ltd",
+"t" : "SURANASOL",
+"e" : "NSE",
+"l" : "15.05",
+"c" : "-0.25",
+"mc" : "740.56M",
+"cp" : "-1.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8492050",
+"name" : "MIC Electronics Limited",
+"t" : "MIC",
+"e" : "NSE",
+"l" : "7.25",
+"c" : "+0.05",
+"mc" : "1.61B",
+"cp" : "0.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715482",
+"name" : "Moschip Semiconductor Technology Ltd",
+"t" : "532407",
+"e" : "BOM",
+"l" : "32.15",
+"c" : "-0.95",
+"mc" : "4.19B",
+"cp" : "-2.87",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11559505",
+"name" : "SPEL Semiconductor Limited",
+"t" : "517166",
+"e" : "BOM",
+"l" : "13.99",
+"c" : "+0.36",
+"mc" : "651.40M",
+"cp" : "2.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10281474",
+"name" : "Hind Rectifiers Ltd",
+"t" : "HIRECT",
+"e" : "NSE",
+"l" : "138.00",
+"c" : "+2.25",
+"mc" : "2.29B",
+"cp" : "1.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8443871",
+"name" : "Ruttonsha International Rectifier Ltd",
+"t" : "517035",
+"e" : "BOM",
+"l" : "51.55",
+"c" : "+0.55",
+"mc" : "358.65M",
+"cp" : "1.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2208972",
+"name" : "XL Energy Ltd",
+"t" : "XLENERGY",
+"e" : "NSE",
+"l" : "2.80",
+"c" : "+0.10",
+"mc" : "61.49M",
+"cp" : "3.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "609834",
+"name" : "Swelect Energy Systems Ltd",
+"t" : "SWELECTES",
+"e" : "NSE",
+"l" : "429.95",
+"c" : "-1.05",
+"mc" : "4.33B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "228822368277897",
+"name" : "Servotech Power Systems Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "C-12, Friends conony (east), GREATER NOIDA, 201306, India",
+"phone": "+91-120-4762500",
+"fax": "+91-120-4762525",
+"url": "http:\u002F\u002Fwww.indosolar.co.in\u002F",
+"overview" : "Indosolar Limited is engaged in manufacturing of solar photovoltaic cells and modules. The Company\u0027s photovoltaic cells include SONA SERIES (Multi-crystalline Cells) and SAPPHIRE SERIES (Mono-crystalline Cells). The Company\u0027s solar modules include ISL SONA SERIES (Multi-crystalline modules) and ISL SAPPHIRE SERIES (Mono-crystalline modules). The Company provides photovoltaic modules for residential, commercial and utility-scale installations. The Company\u0027s solutions include residential rooftop systems for home consumers\u003B solar street lightning solutions\u003B engineering, design and construction for grid- connected commercial and industrial solutions, and turnkey utility scale installation services. The Company has set up a green field project for manufacturing solar photovoltaic cells with a capacity of 160 megawatts (MW) comprising two lines of 80 MW each under Phase-I and is in the process of setting up an additional manufacturing facility Line-3 with a 200 MW capacity under Phase-II."
+} ]
+, "management" : [
+{
+"name" : "Bhushan Kumar Gupta",
+"age" : "76",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Anand Kumar Agarwal",
+"age" : "63",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manish Kumar Gupta",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Hulas Rahul Gupta",
+"age" : "54",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Vinati Dev",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Gautam Singh Kuthari",
+"age" : "53",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Vidyut Manubhai Vora",
+"title" : "Additional Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,351 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 13881023488,
+            "fmt": "13.88B",
+            "longFmt": "13,881,023,488"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.082399994,
+            "fmt": "8.24%"
+          },
+          "floatShares": {
+            "raw": 943860623,
+            "fmt": "943.86M",
+            "longFmt": "943,860,623"
+          },
+          "sharesOutstanding": {
+            "raw": 1598060032,
+            "fmt": "1.6B",
+            "longFmt": "1,598,060,032"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.732686,
+            "fmt": "0.73"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 1.556,
+            "fmt": "1.56"
+          },
+          "priceToBook": {
+            "raw": 2.840617,
+            "fmt": "2.84"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.154,
+            "fmt": "15.40%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 797200000,
+            "fmt": "797.2M",
+            "longFmt": "797,200,000"
+          },
+          "trailingEps": {
+            "raw": 0.564,
+            "fmt": "0.56"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1188172800,
+            "fmt": "2007-08-27"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.435,
+            "fmt": "1.43"
+          },
+          "enterpriseToEbitda": {
+            "raw": 13.451,
+            "fmt": "13.45"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 13078900000,
+                  "fmt": "13.08B",
+                  "longFmt": "13,078,900,000"
+                },
+                "earnings": {
+                  "raw": -3575600000,
+                  "fmt": "-3.58B",
+                  "longFmt": "-3,575,600,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 13440000000,
+                  "fmt": "13.44B",
+                  "longFmt": "13,440,000,000"
+                },
+                "earnings": {
+                  "raw": -9762700000,
+                  "fmt": "-9.76B",
+                  "longFmt": "-9,762,700,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 11255800000,
+                  "fmt": "11.26B",
+                  "longFmt": "11,255,800,000"
+                },
+                "earnings": {
+                  "raw": -5489600000,
+                  "fmt": "-5.49B",
+                  "longFmt": "-5,489,600,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 10037900000,
+                  "fmt": "10.04B",
+                  "longFmt": "10,037,900,000"
+                },
+                "earnings": {
+                  "raw": 947300000,
+                  "fmt": "947.3M",
+                  "longFmt": "947,300,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 2555200000,
+                  "fmt": "2.56B",
+                  "longFmt": "2,555,200,000"
+                },
+                "earnings": {
+                  "raw": 323600000,
+                  "fmt": "323.6M",
+                  "longFmt": "323,600,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 2393100000,
+                  "fmt": "2.39B",
+                  "longFmt": "2,393,100,000"
+                },
+                "earnings": {
+                  "raw": 85200000,
+                  "fmt": "85.2M",
+                  "longFmt": "85,200,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 2350800000,
+                  "fmt": "2.35B",
+                  "longFmt": "2,350,800,000"
+                },
+                "earnings": {
+                  "raw": 158700000,
+                  "fmt": "158.7M",
+                  "longFmt": "158,700,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 2375200000,
+                  "fmt": "2.38B",
+                  "longFmt": "2,375,200,000"
+                },
+                "earnings": {
+                  "raw": 230200000,
+                  "fmt": "230.2M",
+                  "longFmt": "230,200,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Tower # 5",
+          "address2": "3rd to 6th Floors International Infotech Park Vashi",
+          "city": "Navi Mumbai",
+          "zip": "400703",
+          "country": "India",
+          "phone": "91 22 7123 8000",
+          "fax": "91 22 7123 8098",
+          "website": "http://www.3i-infotech.com",
+          "industry": "Information Technology Services",
+          "sector": "Technology",
+          "longBusinessSummary": "3i Infotech Limited provides IP based software solutions and information technology services in India and internationally. The company offers Kastle Universal Lending System, a solution that automates and manages application processing for retail financing; Kastle CRx, a financial analysis and risk rating tool to assess and monitor a borrower's credit worthiness; Kastle Core Banking, a solution that facilitates banking operations; Kastle Factoring, a Web-based and platform-independent solution; Factor/SQL, a factoring software solution; Kastle Treasury, a treasury management solution; Kastle Risk Management, an Web-based market risk management solution; AMLOCK, a Web-based anti-money laundering, and financial crime detection and management solution; and KASTLE Asset Liability Management solution; and KASTLE Internet Banking, a banking or specialized lending solution. It also provides PREMIA General Insurance, PREMIA Life, and PREMIA Health solutions to manage insurance business processes; MFund Plus Suite, an investment management solution; MFund, a multi-currency, multi-funds portfolio accounting, valuation, and performance evaluation system; Premia Pension solution; PREMIA Group Life solution; and PREMIA e-portal, an insurance-specific Web portal solution, as well as enterprise resource planning solutions under the Orion name. In addition, the company offers application development and management, business intelligence and enterprise application, testing and compliance, and information security and infrastructure management services, as well as e-governance, mobility and digital transformation, business process outsourcing, consulting, and professional services. It serves customers in banking, insurance, capital markets, asset and wealth management, government, manufacturing, distribution, telecom, and healthcare industry verticals. The company was founded in 1993 and is based in Navi Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 4.42,
+            "fmt": "4.42"
+          },
+          "targetHighPrice": {
+            "raw": 16.0,
+            "fmt": "16.00"
+          },
+          "targetLowPrice": {
+            "raw": 16.0,
+            "fmt": "16.00"
+          },
+          "targetMeanPrice": {
+            "raw": 16.0,
+            "fmt": "16.00"
+          },
+          "targetMedianPrice": {
+            "raw": 16.0,
+            "fmt": "16.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 1583100032,
+            "fmt": "1.58B",
+            "longFmt": "1,583,100,032"
+          },
+          "totalCashPerShare": {
+            "raw": 1.169,
+            "fmt": "1.17"
+          },
+          "ebitda": {
+            "raw": 1031974976,
+            "fmt": "1.03B",
+            "longFmt": "1,031,974,976"
+          },
+          "totalDebt": {
+            "raw": 8977899520,
+            "fmt": "8.98B",
+            "longFmt": "8,977,899,520"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 9674300416,
+            "fmt": "9.67B",
+            "longFmt": "9,674,300,416"
+          },
+          "debtToEquity": {
+            "raw": 430.12,
+            "fmt": "430.12"
+          },
+          "revenuePerShare": {
+            "raw": 6.895,
+            "fmt": "6.89"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 2661800000,
+            "fmt": "2.66B",
+            "longFmt": "2,661,800,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "revenueGrowth": {
+            "raw": -0.042,
+            "fmt": "-4.20%"
+          },
+          "grossMargins": {
+            "raw": 0.27495,
+            "fmt": "27.49%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.10667,
+            "fmt": "10.67%"
+          },
+          "operatingMargins": {
+            "raw": 0.15084,
+            "fmt": "15.08%"
+          },
+          "profitMargins": {
+            "raw": 0.082399994,
+            "fmt": "8.24%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

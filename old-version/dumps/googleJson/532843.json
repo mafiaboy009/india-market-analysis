@@ -1,0 +1,284 @@
+
+ [
+{
+"symbol" : "532843",
+"exchange" : "BOM",
+"id": "710560",
+"t" : "532843",
+"e" : "BOM",
+"name" : "Fortis Healthcare Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532843"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532843"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532843"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q2 (Jun \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.95%",
+"annual" : "10.48%",
+"ttm" : "10.34%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.30%",
+"annual" : "2.87%",
+"ttm" : "3.05%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.84%",
+"ttm" : "8.17%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.66%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.06%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,504",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.35",
+"l" : "159.60",
+"cp" : "-0.22",
+"ccol" : "chr",
+"op" : "161.00",
+"hi" : "163.20",
+"lo" : "154.20",
+"vo" : "4.11M",
+"avvo" : "",
+"hi52" : "230.90",
+"lo52" : "106.65",
+"mc" : "82.94B",
+"pe" : "19.56",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.16",
+"dy" : "",
+"ldiv" : "",
+"shares" : "518.52M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "710560",
+"name" : "Fortis Healthcare Ltd",
+"t" : "532843",
+"e" : "BOM",
+"l" : "159.60",
+"c" : "-0.35",
+"mc" : "82.94B",
+"cp" : "-0.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5688360",
+"name" : "Dr Agarwals Eye Hospital Ltd",
+"t" : "526783",
+"e" : "BOM",
+"l" : "631.95",
+"c" : "+20.95",
+"mc" : "2.97B",
+"cp" : "3.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1755030",
+"name" : "Chennai Meenakshi Multispeclty Hsptl Ltd",
+"t" : "523489",
+"e" : "BOM",
+"l" : "25.85",
+"c" : "-0.50",
+"mc" : "193.07M",
+"cp" : "-1.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "29440171535561",
+"name" : "Healthcare Global Enterprises Ltd",
+"t" : "HCG",
+"e" : "NSE",
+"l" : "307.05",
+"c" : "+4.40",
+"mc" : "26.65B",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3672413",
+"name" : "Indraprastha Medical Corporation Limited",
+"t" : "INDRAMEDCO",
+"e" : "NSE",
+"l" : "54.00",
+"c" : "-0.40",
+"mc" : "4.94B",
+"cp" : "-0.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14423898",
+"name" : "Lotus Eye Hospital and Institute Ltd",
+"t" : "LOTUSEYE",
+"e" : "NSE",
+"l" : "30.90",
+"c" : "+1.10",
+"mc" : "642.61M",
+"cp" : "3.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10863428",
+"name" : "N G Industries Ltd",
+"t" : "530897",
+"e" : "BOM",
+"l" : "79.90",
+"c" : "-0.10",
+"mc" : "267.70M",
+"cp" : "-0.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "608508055454839",
+"name" : "Narayana Hrudayalaya Ltd",
+"t" : "NH",
+"e" : "NSE",
+"l" : "305.15",
+"c" : "-6.60",
+"mc" : "62.41B",
+"cp" : "-2.12",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5683713",
+"name" : "Alchemist Ltd.",
+"t" : "ALCHEM",
+"e" : "NSE",
+"l" : "11.65",
+"c" : "-0.10",
+"mc" : "157.97M",
+"cp" : "-0.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722135",
+"name" : "Fortis Malar Hospitals Ltd",
+"t" : "523696",
+"e" : "BOM",
+"l" : "65.75",
+"c" : "-4.80",
+"mc" : "1.24B",
+"cp" : "-6.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "454144802285604",
+"name" : "Shalby Ltd",
+"t" : "SHALBY",
+"e" : "NSE",
+"l" : "223.25",
+"c" : "-1.25",
+"mc" : "",
+"cp" : "-0.56",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Tower A, Block - F Unitech Business Park, South City 1 Sector - 41, GURGAON, 122001, India",
+"phone": "+91-124-4921021",
+"fax": "+91-124-4921041",
+"url": "http:\u002F\u002Fwww.fortishealthcare.com\u002F",
+"overview" : "Fortis Healthcare Limited is an integrated healthcare delivery service provider. The Company is engaged in establishing, maintaining, operating, running, managing or administering hospitals, medicare, healthcare, diagnostic, health aids and research centers. The Company operates through the Clinical Establishments Division and the Medical Services Division. The Clinical Establishments Division owns, maintains and operates clinical establishments (being fully air conditioned institutions established, and specifically customized and duly fitted with all fixtures, fittings, certain medical equipment and infrastructure required for running and operating the hospitals), as well as provides services under outpatient division and radio-diagnostic services. The Medical Services Division undertakes the business of running the hospital operations, including in-patient services and emergency services. The Company operates its healthcare delivery services in India, Dubai, Mauritius and Sri Lanka."
+} ]
+, "management" : [
+{
+"name" : "Bhavdeep Singh",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Gagandeep Singh Bedi",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rahul Ranjan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sunil Godhwani",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Harpal Singh",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Tejinder Singh Shergill",
+"age" : "70",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Gurcharan C. Das",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Joji Sekhon Gill",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

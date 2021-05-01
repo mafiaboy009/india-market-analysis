@@ -1,0 +1,295 @@
+
+ [
+{
+"symbol" : "513010",
+"exchange" : "BOM",
+"id": "715570",
+"t" : "513010",
+"e" : "BOM",
+"name" : "Tata Sponge Iron Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:513010"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:513010"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:513010"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "16.79%",
+"annual" : "9.55%",
+"ttm" : "15.22%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "20.99%",
+"annual" : "7.96%",
+"ttm" : "17.72%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.03%",
+"ttm" : "19.37%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.78%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.95%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "413",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+27.90",
+"l" : "1,063.65",
+"cp" : "2.69",
+"ccol" : "chg",
+"op" : "1,038.15",
+"hi" : "1,078.00",
+"lo" : "1,038.15",
+"vo" : "16,219.00",
+"avvo" : "",
+"hi52" : "1,239.00",
+"lo52" : "613.25",
+"mc" : "16.33B",
+"pe" : "14.20",
+"fwpe" : "",
+"beta" : "",
+"eps" : "74.92",
+"dy" : "1.03",
+"ldiv" : "11.00",
+"shares" : "15.40M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715570",
+"name" : "Tata Sponge Iron Ltd",
+"t" : "513010",
+"e" : "BOM",
+"l" : "1,063.65",
+"c" : "+27.90",
+"mc" : "16.33B",
+"cp" : "2.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722511",
+"name" : "Orissa Sponge Iron and Steel Ltd",
+"t" : "504864",
+"e" : "BOM",
+"l" : "219.40",
+"c" : "0.00",
+"mc" : "6.67B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14744034",
+"name" : "Sarda Energy \u0026 Minerals Limited",
+"t" : "SARDAEN",
+"e" : "NSE",
+"l" : "502.00",
+"c" : "+4.00",
+"mc" : "18.02B",
+"cp" : "0.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5306021",
+"name" : "MSP Steel \u0026 Power Ltd",
+"t" : "MSPL",
+"e" : "NSE",
+"l" : "21.50",
+"c" : "-0.70",
+"mc" : "1.88B",
+"cp" : "-3.15",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12512694",
+"name" : "Vaswani Industries Ltd",
+"t" : "VASWANI",
+"e" : "NSE",
+"l" : "15.95",
+"c" : "+0.65",
+"mc" : "486.45M",
+"cp" : "4.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715254",
+"name" : "Kanishk Steel Industries Ltd.",
+"t" : "513456",
+"e" : "BOM",
+"l" : "15.49",
+"c" : "+0.55",
+"mc" : "440.47M",
+"cp" : "3.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "312369",
+"name" : "Sunflag Iron \u0026 Steel Company Ltd.",
+"t" : "SUNFLAG",
+"e" : "NSE",
+"l" : "95.95",
+"c" : "+1.95",
+"mc" : "17.13B",
+"cp" : "2.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14710679",
+"name" : "OCL Iron and Steel Limited",
+"t" : "OISL",
+"e" : "NSE",
+"l" : "3.70",
+"c" : "-0.10",
+"mc" : "502.95M",
+"cp" : "-2.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4455929",
+"name" : "Ramsarup Industries Ltd.",
+"t" : "RAMSARUP",
+"e" : "NSE",
+"l" : "1.75",
+"c" : "0.00",
+"mc" : "61.39M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6759209",
+"name" : "Usha Ispat Ltd",
+"t" : "500432",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "P.O. Joda, KEONJHAR, 758034, India",
+"phone": "+91-6767-284236",
+"fax": "+91-6767-278159",
+"url": "http:\u002F\u002Fwww.tatasponge.com\u002F",
+"overview" : "Tata Sponge Iron Limited (TSIL) is a holding company. The Company is engaged in the production of sponge iron by direct reduction method of iron ore and generation of power from waste heat. The Company operates through two segments: manufacture of sponge iron and generation of power. The Company manufactures sponge iron by Tisco Direct Reduction (TDR) technology. The Company operates over two power plants with a combined generation capacity of approximately 30 megawatts that generate power from waste heat. The Company has its manufacturing facility at Bilaipada in Joda Block of Keonjhar District in Orissa. TSIL has a total production capacity of approximately 360,450 metric tons of sponge iron from approximately three kilns. The Company\u0027s total generation of power from its power plants is approximately 160 million kilowatt-hours. TSIL Energy Limited is the Company\u0027s subsidiary."
+} ]
+, "management" : [
+{
+"name" : "Sanjay Kasture",
+"title" : "Chief Financial Officer, Secretary"
+}
+,
+{
+"name" : "Sanjay Kumar Pattnaik",
+"age" : "57",
+"title" : "Managing Director, Additional Executive Director"
+}
+,
+{
+"name" : "Digambar Pandurang Deshpande",
+"age" : "58",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Ujjwal Chatterjee",
+"title" : "Chief Operating Officer - Coal Business"
+}
+,
+{
+"name" : "Partha Chattopadhyay",
+"title" : "Chief Operating Officer - Sponge Business"
+}
+,
+{
+"name" : "S. K. Mishra",
+"title" : "General Manager (Finance \u0026 Accounts)"
+}
+,
+{
+"name" : "Ranganath Raghupathy Rao",
+"title" : "Additional Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Dipak Kumar Banerjee",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Krishnava S. Dutt",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Meena Lall",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

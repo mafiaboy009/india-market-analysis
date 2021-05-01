@@ -1,0 +1,209 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 19991666,
+            "fmt": "19.99M",
+            "longFmt": "19,991,666"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.46354,
+            "fmt": "-46.35%"
+          },
+          "floatShares": {
+            "raw": 8190644,
+            "fmt": "8.19M",
+            "longFmt": "8,190,644"
+          },
+          "sharesOutstanding": {
+            "raw": 10250800,
+            "fmt": "10.25M",
+            "longFmt": "10,250,800"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.343673,
+            "fmt": "1.34"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 3.985,
+            "fmt": "3.98"
+          },
+          "priceToBook": {
+            "raw": 0.22835635,
+            "fmt": "0.23"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -3455237,
+            "fmt": "-3.46M",
+            "longFmt": "-3,455,237"
+          },
+          "trailingEps": {
+            "raw": -0.339,
+            "fmt": "-0.34"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 2.682,
+            "fmt": "2.68"
+          },
+          "enterpriseToEbitda": {
+            "raw": -6.094,
+            "fmt": "-6.09"
+          },
+          "52WeekChange": {
+            "raw": -0.46783626,
+            "fmt": "-46.78%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "H.No: 8-2-269/S",
+          "address2": "Plot No. 31 Sagar Co-Operative Housing Society Road No. 2, Banjara Hills",
+          "city": "Hyderabad",
+          "zip": "500034",
+          "country": "India",
+          "phone": "91 40 2355 5161",
+          "fax": "91 40 4020 5171",
+          "website": "http://www.hindustanbiosciences.in",
+          "industry": "Biotechnology",
+          "sector": "Healthcare",
+          "longBusinessSummary": "Hindustan Bio Sciences Limited operates in pharmaceutical and biotechnology sectors. It primarily imports and markets recombinant human erythropoietin, a glycoprotein hormone that controls erythropoiesis or red blood cell production, under the EPOVIN and EPOSINO brands in India. The company also manufactures and markets a range of finished dosage forms of pharmaceutical products, including dry and liquid injectables, liquid/dry syrups, eye/ear/nasal drops, and pre-filled syringes, as well as non-sterile/sterile ointments, tablets, and capsules. Hindustan Bio Sciences Limited was incorporated in 1991 and is based in Hyderabad, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 0.91,
+            "fmt": "0.91"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 744000,
+            "fmt": "744k",
+            "longFmt": "744,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.072,
+            "fmt": "0.07"
+          },
+          "ebitda": {
+            "raw": -3280592,
+            "fmt": "-3.28M",
+            "longFmt": "-3,280,592"
+          },
+          "totalDebt": {
+            "raw": 13549000,
+            "fmt": "13.55M",
+            "longFmt": "13,549,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 7454000,
+            "fmt": "7.45M",
+            "longFmt": "7,454,000"
+          },
+          "debtToEquity": {
+            "raw": 32.639,
+            "fmt": "32.64"
+          },
+          "revenuePerShare": {
+            "raw": 0.732,
+            "fmt": "0.73"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 4846005,
+            "fmt": "4.85M",
+            "longFmt": "4,846,005"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.015,
+            "fmt": "-1.50%"
+          },
+          "grossMargins": {
+            "raw": 0.69117,
+            "fmt": "69.12%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.44011003,
+            "fmt": "-44.01%"
+          },
+          "operatingMargins": {
+            "raw": -0.45384997,
+            "fmt": "-45.38%"
+          },
+          "profitMargins": {
+            "raw": -0.46354,
+            "fmt": "-46.35%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

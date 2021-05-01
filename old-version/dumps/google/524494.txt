@@ -1,0 +1,298 @@
+
+// [
+{
+"symbol" : "524494",
+"exchange" : "BOM",
+"id": "678098",
+"t" : "524494",
+"e" : "BOM",
+"name" : "IPCA Laboratories Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524494"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524494"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524494"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002704)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.17%",
+"annual" : "6.32%",
+"ttm" : "12.28%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-8.08%",
+"annual" : "8.10%",
+"ttm" : "12.07%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.49%",
+"ttm" : "14.94%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.17%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.25%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "13,303",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.00",
+"l" : "674.90",
+"cp" : "0.45",
+"ccol" : "chg",
+"op" : "670.00",
+"hi" : "682.50",
+"lo" : "657.80",
+"vo" : "31,816.00",
+"avvo" : "",
+"hi52" : "687.50",
+"lo52" : "400.00",
+"mc" : "84.96B",
+"pe" : "114.07",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.92",
+"dy" : "0.15",
+"ldiv" : "1.00",
+"shares" : "126.20M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "678098",
+"name" : "IPCA Laboratories Ltd",
+"t" : "524494",
+"e" : "BOM",
+"l" : "674.90",
+"c" : "+3.00",
+"mc" : "84.96B",
+"cp" : "0.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3593756",
+"name" : "Vista Pharmaceuticals Ltd",
+"t" : "524711",
+"e" : "BOM",
+"l" : "44.10",
+"c" : "+1.55",
+"mc" : "1.26B",
+"cp" : "3.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10555516",
+"name" : "Lupin Limited",
+"t" : "LUPIN",
+"e" : "NSE",
+"l" : "822.00",
+"c" : "+14.50",
+"mc" : "370.74B",
+"cp" : "1.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2456500",
+"name" : "Wanbury Limited",
+"t" : "WANBURY",
+"e" : "NSE",
+"l" : "40.00",
+"c" : "+1.00",
+"mc" : "928.80M",
+"cp" : "2.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16520755",
+"name" : "IND Swift Ltd.",
+"t" : "INDSWFTLTD",
+"e" : "NSE",
+"l" : "9.00",
+"c" : "-0.10",
+"mc" : "474.45M",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "723347",
+"name" : "Ambalal Sarabhai Enterprises Ltd",
+"t" : "500009",
+"e" : "BOM",
+"l" : "12.65",
+"c" : "+0.44",
+"mc" : "962.32M",
+"cp" : "3.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "656764725561489",
+"name" : "Lasa Supergenerics Ltd",
+"t" : "LASA",
+"e" : "NSE",
+"l" : "121.40",
+"c" : "-6.35",
+"mc" : "2.78B",
+"cp" : "-4.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6462769",
+"name" : "Torrent Pharmaceuticals Ltd",
+"t" : "TORNTPHARM",
+"e" : "NSE",
+"l" : "1,357.35",
+"c" : "+20.80",
+"mc" : "227.74B",
+"cp" : "1.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3578659",
+"name" : "Dr.Reddy\u0027s Laboratories Ltd",
+"t" : "DRREDDY",
+"e" : "NSE",
+"l" : "2,193.00",
+"c" : "+25.95",
+"mc" : "365.16B",
+"cp" : "1.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14964318",
+"name" : "Wockhardt Limited",
+"t" : "WOCKPHARMA",
+"e" : "NSE",
+"l" : "786.10",
+"c" : "+0.80",
+"mc" : "86.88B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11857064",
+"name" : "Gufic BioSciences Ltd",
+"t" : "GUFICBIO",
+"e" : "NSE",
+"l" : "120.05",
+"c" : "-0.75",
+"mc" : "9.27B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "142 AB, Kandivli Industrial Estate Kandivli (West), MUMBAI, 400067, India",
+"phone": "+91-22-66474747",
+"fax": "+91-22-28686954",
+"url": "http:\u002F\u002Fwww.ipcalabs.com",
+"overview" : "Ipca Laboratories Limited is engaged in pharmaceuticals business. The Company is a manufacturer and supplier of over 10 active pharmaceutical ingredients (APIs). It offers APIs, such as atenolol, hydroxychloroquine sulfate, morantel citrate, pyrantel pamoate and zaltoprofen. It offers brands, such as Zerodol, Lariago, HCQS Perinorm, Rapither, Tenoric, Lumerax, Etova, Malirid and Folitrax. Its 3c division focuses on cardiovascular and anti-diabetic markets. Its 3d division is focused on cardio-diabetic market. The Company\u0027s activa division serves the rheumatology market. Its altus division caters to the needs of intensivists, both surgical and non-surgical. Its Bionova division\u0027s focus area is dermatology. Its dynamix division focuses on cardiovascular, gastro-intestinal, anti-bacterial, pain management and respiratory sectors. It hycare division caters to the needs of cardiologists and diabetologists. Its divisions also include innova, intima, pain management, pharma and uro sciences."
+} ]
+, "management" : [
+{
+"name" : "Premchand Godha",
+"age" : "68",
+"title" : "Executive Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Ajit Kumar Jain",
+"title" : "Chief Financial Officer, Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "E. J. Babu",
+"title" : "President - API Exports"
+}
+,
+{
+"name" : "Sunil Ghai",
+"age" : "52",
+"title" : "President - Domestic Marketing"
+}
+,
+{
+"name" : "N. Guhaprasad",
+"age" : "51",
+"title" : "President - International Marketing (Branded Formulations)"
+}
+,
+{
+"name" : "Ashok Kumar",
+"age" : "61",
+"title" : "President - R \u0026 D (Chemicals)"
+}
+,
+{
+"name" : "Jeevan Lal Nagori",
+"age" : "54",
+"title" : "President - Project"
+}
+,
+{
+"name" : "Abha Pant",
+"age" : "50",
+"title" : "President - R\u0026D (Formulations)"
+}
+,
+{
+"name" : "Anil Pareek",
+"title" : "President - Medical Affairs \u0026 Clinical Research"
+}
+,
+{
+"name" : "Sanjay Sinha",
+"title" : "President - Operations (Formulations)"
+}
+]
+,"moreresources" : [
+]
+}]

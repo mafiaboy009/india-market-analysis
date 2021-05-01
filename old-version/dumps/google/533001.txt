@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "533001",
+"exchange" : "BOM",
+"id": "718890",
+"t" : "533001",
+"e" : "BOM",
+"name" : "Somi Conveyor Beltings Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SOMI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533001"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533001"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533001"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.97%",
+"annual" : "1.20%",
+"ttm" : "1.05%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.60%",
+"annual" : "4.35%",
+"ttm" : "4.57%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.28%",
+"ttm" : "11.18%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.81%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.48%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "42",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.60",
+"l" : "59.65",
+"cp" : "-2.61",
+"ccol" : "chr",
+"op" : "61.40",
+"hi" : "61.40",
+"lo" : "59.65",
+"vo" : "358.00",
+"avvo" : "",
+"hi52" : "87.00",
+"lo52" : "42.00",
+"mc" : "699.21M",
+"pe" : "88.25",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.68",
+"dy" : "",
+"ldiv" : "",
+"shares" : "11.78M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "718890",
+"name" : "Somi Conveyor Beltings Limited",
+"t" : "533001",
+"e" : "BOM",
+"l" : "59.65",
+"c" : "-1.60",
+"mc" : "699.21M",
+"cp" : "-2.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3802155",
+"name" : "Pix Transmissions Ltd",
+"t" : "500333",
+"e" : "BOM",
+"l" : "155.90",
+"c" : "+4.75",
+"mc" : "2.18B",
+"cp" : "3.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3532224",
+"name" : "Unimers India Ltd",
+"t" : "524264",
+"e" : "BOM",
+"l" : "5.67",
+"c" : "0.00",
+"mc" : "90.16M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10217950",
+"name" : "Dunlop India Limited",
+"t" : "509130",
+"e" : "BOM",
+"l" : "11.17",
+"c" : "+0.76",
+"mc" : "1.21B",
+"cp" : "7.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16565091",
+"name" : "LG Balakrishnan \u0026 Bros Ltd",
+"t" : "LGBBROSLTD",
+"e" : "NSE",
+"l" : "1,085.00",
+"c" : "+19.45",
+"mc" : "17.11B",
+"cp" : "1.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4458694",
+"name" : "JK Tyre \u0026 Industries Ltd.",
+"t" : "JKTYRE",
+"e" : "NSE",
+"l" : "149.35",
+"c" : "-3.80",
+"mc" : "33.91B",
+"cp" : "-2.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12943332",
+"name" : "International Conveyors Ltd",
+"t" : "509709",
+"e" : "BOM",
+"l" : "25.30",
+"c" : "+0.45",
+"mc" : "1.70B",
+"cp" : "1.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16170960",
+"name" : "W H Brady \u0026 Co. Ltd",
+"t" : "501391",
+"e" : "BOM",
+"l" : "176.05",
+"c" : "+2.75",
+"mc" : "444.57M",
+"cp" : "1.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6938509",
+"name" : "Acrow India Ltd",
+"t" : "513149",
+"e" : "BOM",
+"l" : "139.85",
+"c" : "0.00",
+"mc" : "89.50M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4973571",
+"name" : "Josts Engineering Comapny Ltd",
+"t" : "505750",
+"e" : "BOM",
+"l" : "1,275.00",
+"c" : "+6.00",
+"mc" : "1.19B",
+"cp" : "0.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3721033",
+"name" : "Brady \u0026 Morris Engineering. Company Ltd",
+"t" : "505690",
+"e" : "BOM",
+"l" : "65.00",
+"c" : "0.00",
+"mc" : "146.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "4f-15 \u0022Oliver House\u0022 New Power House Road, JODHPUR, 342001, India",
+"phone": "+91-291-2765400",
+"fax": "+91-291-2765410",
+"url": "http:\u002F\u002Fwww.somiconveyor.com\u002F",
+"overview" : "Somi Conveyor Beltings Limited is an India-based company engaged in manufacturing of conveyor belt. The Company\u0027s products are categorized as general purpose conveyor belts, which include Tiger M-27 conveyor belt and M-24 conveyor belt\u003B heat resistant conveyor belts, which include HR, UHR, SHR and SEHR-36 crackless conveyor belts\u003B fire resistant conveyor belts, which include FR and SEFR-81 conveyor belts\u003B oil resistant conveyor belts, which include OR-Grade conveyor belt, and special purpose conveyor belts, which include STA (Bulletproof-Aram.), SAR-FusionBelt, Chevron-\u0027V\u0027,\u0027Y\u0027CleatedBelt, rough top conveyor belt and pipe conveyor belt. The Company has approximately two manufacturing plants located at Jodhpur, India. It produces New Generatio (Somiflex) Conveyor Belts approximately 2,000 millimeters (mm) width with installed capacity of 900,000 meters per annum. The Company offers its products to cement, sponge iron, power and mining sectors."
+} ]
+, "management" : [
+{
+"name" : "Om Prakash Bhansali",
+"age" : "59",
+"title" : "Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Manish Bohra",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Amit Baxi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Gaurav Bhansali",
+"age" : "32",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Vimal Bhansali",
+"age" : "33",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Sharad Gyanmal Nahata",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Surbhi Rathi",
+"title" : "Additional Women Independent Director"
+}
+,
+{
+"name" : "Yogesh Maheshwari",
+"age" : "54",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Mahendra Kumar Rakecha",
+"age" : "43",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

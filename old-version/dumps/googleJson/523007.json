@@ -1,0 +1,274 @@
+
+ [
+{
+"symbol" : "523007",
+"exchange" : "BOM",
+"id": "715418",
+"t" : "523007",
+"e" : "BOM",
+"name" : "Ansal Buildwell Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ANSB.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:523007"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:523007"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:523007"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002710)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "13.37%",
+"annual" : "-1.38%",
+"ttm" : "8.90%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-9.75%",
+"annual" : "18.48%",
+"ttm" : "10.76%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "21.29%",
+"ttm" : "11.61%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.20%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-0.77%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "319",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.70",
+"l" : "82.00",
+"cp" : "-4.32",
+"ccol" : "chr",
+"op" : "88.75",
+"hi" : "88.75",
+"lo" : "81.50",
+"vo" : "2,150.00",
+"avvo" : "",
+"hi52" : "109.75",
+"lo52" : "52.55",
+"mc" : "601.96M",
+"pe" : "6.13",
+"fwpe" : "",
+"beta" : "",
+"eps" : "13.37",
+"dy" : "0.98",
+"ldiv" : "0.80",
+"shares" : "7.38M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715418",
+"name" : "Ansal Buildwell Ltd.",
+"t" : "523007",
+"e" : "BOM",
+"l" : "82.00",
+"c" : "-3.70",
+"mc" : "601.96M",
+"cp" : "-4.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715573",
+"name" : "Prime Property Development Corp. Ltd.",
+"t" : "530695",
+"e" : "BOM",
+"l" : "34.55",
+"c" : "-1.15",
+"mc" : "586.35M",
+"cp" : "-3.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3370129",
+"name" : "Basil Infrastructure Projects Ltd",
+"t" : "511210",
+"e" : "BOM",
+"l" : "26.20",
+"c" : "0.00",
+"mc" : "72.80M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "493952",
+"name" : "Garnet Construction Ltd",
+"t" : "526727",
+"e" : "BOM",
+"l" : "28.65",
+"c" : "-0.85",
+"mc" : "395.62M",
+"cp" : "-2.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12146749",
+"name" : "SSPDL Ltd",
+"t" : "530821",
+"e" : "BOM",
+"l" : "60.50",
+"c" : "+0.65",
+"mc" : "782.87M",
+"cp" : "1.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2752491",
+"name" : "Oswal Greentech Ltd",
+"t" : "BINDALAGRO",
+"e" : "NSE",
+"l" : "30.70",
+"c" : "+0.15",
+"mc" : "7.87B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14989852",
+"name" : "F G P Ltd",
+"t" : "500142",
+"e" : "BOM",
+"l" : "1.35",
+"c" : "0.00",
+"mc" : "16.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "553777052891139",
+"name" : "Adhbhut Infrastructure Ltd",
+"t" : "539189",
+"e" : "BOM",
+"l" : "81.60",
+"c" : "0.00",
+"mc" : "897.60M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12313755",
+"name" : "Delta Corp Ltd",
+"t" : "DELTACORP",
+"e" : "NSE",
+"l" : "367.50",
+"c" : "+1.60",
+"mc" : "97.84B",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "594893794250852",
+"name" : "Prozone Intu Properties Ltd",
+"t" : "PROZONINTU",
+"e" : "NSE",
+"l" : "58.00",
+"c" : "+0.05",
+"mc" : "8.84B",
+"cp" : "0.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15805583",
+"name" : "Gujarat Credit Corporation Ltd",
+"t" : "511441",
+"e" : "BOM",
+"l" : "18.70",
+"c" : "0.00",
+"mc" : "467.50M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "118 UFF Prakash Deep Building 7 Tolstoy Marg, NEW DELHI, 110001, India",
+"phone": "+91-11-23353051",
+"fax": "+91-11-23310639",
+"url": "http:\u002F\u002Fwww.ansalabl.com\u002Findex.asp",
+"overview" : "Ansal Buildwell Limited is an India-based holding company. The Company is engaged in construction, and real estate promotion and development. The Company\u0027s real estate portfolio includes townships, group housing, villas, independent floors, hospitality and clubs, commercial projects and infrastructure projects. The Company is engaged in the development of dams, canals and viaducts. The Company offers townships with infrastructural facilities and amenities. The Company\u0027s complexes under group housing include in-house club and swimming pool facilities. The Company offers construction of commercial and retail spaces. The Company is engaged in developing high-end clubs under the Chancellor brand name. Its subsidiaries include Ansal Real Estate Developers Private Limited, Lancers Resorts \u0026 Tours Private Limited, Potent Housing \u0026 Construction Private Limited, Triveni Apartments Private Limited and Sabina Park Resorts \u0026 Marketing Private Limited."
+} ]
+, "management" : [
+{
+"name" : "Gopal Ansal",
+"age" : "69",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Ann Kumar Pandey",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ashok Babu",
+"title" : "Additional Vice President, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ritu Ansal",
+"title" : "Director"
+}
+,
+{
+"name" : "Suresh Kumar Gupta",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Subhash Verma",
+"age" : "70",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

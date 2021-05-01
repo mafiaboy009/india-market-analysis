@@ -1,0 +1,286 @@
+
+ [
+{
+"symbol" : "532129",
+"exchange" : "BOM",
+"id": "683500",
+"t" : "532129",
+"e" : "BOM",
+"name" : "Hexaware Technologies Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532129"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532129"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532129"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "12.04%",
+"annual" : "12.67%",
+"ttm" : "12.67%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.33%",
+"annual" : "15.01%",
+"ttm" : "15.01%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.62%",
+"ttm" : "16.62%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "19.38%",
+"annual" : "20.57%",
+"ttm" : "20.57%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "24.74%",
+"annual" : "26.65%",
+"ttm" : "26.65%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "12,734",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-6.70",
+"l" : "345.50",
+"cp" : "-1.90",
+"ccol" : "chr",
+"op" : "357.00",
+"hi" : "357.00",
+"lo" : "340.25",
+"vo" : "79,475.00",
+"avvo" : "",
+"hi52" : "394.60",
+"lo52" : "199.75",
+"mc" : "103.41B",
+"pe" : "20.80",
+"fwpe" : "",
+"beta" : "",
+"eps" : "16.61",
+"dy" : "1.16",
+"ldiv" : "1.00",
+"shares" : "296.80M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "683500",
+"name" : "Hexaware Technologies Limited",
+"t" : "532129",
+"e" : "BOM",
+"l" : "345.50",
+"c" : "-6.70",
+"mc" : "103.41B",
+"cp" : "-1.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9055815",
+"name" : "Wipro Limited",
+"t" : "WIPRO",
+"e" : "NSE",
+"l" : "291.75",
+"c" : "-3.25",
+"mc" : "1.32T",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "675530",
+"name" : "Infosys Ltd",
+"t" : "INFY",
+"e" : "NSE",
+"l" : "1,139.95",
+"c" : "-15.70",
+"mc" : "2.48T",
+"cp" : "-1.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14805179",
+"name" : "Rolta India Limited",
+"t" : "ROLTA",
+"e" : "NSE",
+"l" : "71.00",
+"c" : "-0.30",
+"mc" : "11.75B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "675532",
+"name" : "Silverline Technologies Limited",
+"t" : "500389",
+"e" : "BOM",
+"l" : "2.19",
+"c" : "0.00",
+"mc" : "166.53M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6565540",
+"name" : "Mahindra \u0026 Mahindra Limited",
+"t" : "M\u0026M",
+"e" : "NSE",
+"l" : "735.40",
+"c" : "+16.75",
+"mc" : "912.66B",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2245864",
+"name" : "Ranklin Solutions Limited",
+"t" : "RANKLIN",
+"e" : "NSE",
+"l" : "2.20",
+"c" : "",
+"mc" : "26.49M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5538683",
+"name" : "Oracle Financial Services Software Ltd.",
+"t" : "OFSS",
+"e" : "NSE",
+"l" : "4,040.00",
+"c" : "+7.70",
+"mc" : "346.64B",
+"cp" : "0.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15037027",
+"name" : "Infinite Computer Solutions (In) Ltd",
+"t" : "INFINITE",
+"e" : "NSE",
+"l" : "488.00",
+"c" : "-0.10",
+"mc" : "16.28B",
+"cp" : "-0.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "448271003304783",
+"name" : "Silver Touch Technologies Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "944668441075635",
+"name" : "CADSYS ( INDIA ) Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "152, Sector - lll, \u0027A\u0027 Block TTC Industrial Area, Mahape, NAVI MUMBAI, 400710, India",
+"phone": "+91-22-67919595",
+"fax": "+91-22-67919500",
+"url": "http:\u002F\u002Fhexaware.com\u002F",
+"overview" : "Hexaware Technologies Limited is a provider of information technology (IT), business process outsourcing (BPO) and consulting services. The Company is engaged in computer programming, consultancy and related activities, IT consulting, software development and business process management. Its segments include Travel and Transportation, Banking and Financial Services, Insurance and Healthcare, and Manufacturing, Consumer and Others. Its business units provide offerings in the areas of Shrink IT and Grow Digital. The Company provides various service offerings to its clients across various industries, including travel, transportation, hospitality, logistics, banking, financial services, insurance, healthcare, manufacturing and services. Its service offerings include application development and management, enterprise package solutions, infrastructure management, business process and independent testing. Its geographical segments are North America, Europe, India and Rest of the World."
+} ]
+, "management" : [
+{
+"name" : "R. Srikrishna",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "Rajesh Kanani",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Moorthi Chokkanathan",
+"title" : "President \u0026 Global Head – Enterprise Solutions"
+}
+,
+{
+"name" : "Ashok Harris",
+"title" : "President - Global Delivery"
+}
+,
+{
+"name" : "Rajiv Pant",
+"title" : "President - North America Operations"
+}
+,
+{
+"name" : "Madhu Kumar",
+"title" : "Executive Vice President \u0026 Global Head – Travel \u0026 Transportation"
+}
+,
+{
+"name" : "Amrinder Singh",
+"title" : "Senior Vice President - Europe Operations"
+}
+,
+{
+"name" : "Chinmoy Banerjee",
+"title" : "Senior Vice President, Head - Hexaware Business Process Services"
+}
+,
+{
+"name" : "Senthil Nayagam K.",
+"title" : "Senior Vice President \u0026 Global Head - Manufacturing \u0026 Consumer"
+}
+,
+{
+"name" : "Ravi Vaidyanathan",
+"title" : "Senior Vice President \u0026 Global Head – Banking \u0026 Financial Services"
+}
+]
+,"moreresources" : [
+]
+}]

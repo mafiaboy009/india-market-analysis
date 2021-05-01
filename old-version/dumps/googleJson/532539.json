@@ -1,0 +1,271 @@
+
+ [
+{
+"symbol" : "532539",
+"exchange" : "BOM",
+"id": "715470",
+"t" : "532539",
+"e" : "BOM",
+"name" : "Minda Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532539"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532539"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532539"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.75%",
+"annual" : "4.95%",
+"ttm" : "5.60%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.99%",
+"annual" : "7.07%",
+"ttm" : "7.82%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.95%",
+"ttm" : "11.51%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.91%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "22.46%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,258",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+20.35",
+"l" : "1,123.00",
+"cp" : "1.85",
+"ccol" : "chg",
+"op" : "1,113.40",
+"hi" : "1,128.40",
+"lo" : "1,110.00",
+"vo" : "3,499.00",
+"avvo" : "",
+"hi52" : "1,356.65",
+"lo52" : "394.30",
+"mc" : "97.25B",
+"pe" : "41.26",
+"fwpe" : "",
+"beta" : "",
+"eps" : "27.22",
+"dy" : "0.20",
+"ldiv" : "1.20",
+"shares" : "86.71M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715470",
+"name" : "Minda Industries Ltd",
+"t" : "532539",
+"e" : "BOM",
+"l" : "1,123.00",
+"c" : "+20.35",
+"mc" : "97.25B",
+"cp" : "1.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "149556745650340",
+"name" : "Minda Corp Ltd",
+"t" : "MINDACORP",
+"e" : "NSE",
+"l" : "192.55",
+"c" : "-3.25",
+"mc" : "40.20B",
+"cp" : "-1.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2055807",
+"name" : "India Nippon Electricals Ltd",
+"t" : "INDNIPPON",
+"e" : "NSE",
+"l" : "1,000.00",
+"c" : "+3.70",
+"mc" : "11.34B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8999255",
+"name" : "Remsons Industries Ltd",
+"t" : "REMSONSIND",
+"e" : "NSE",
+"l" : "86.30",
+"c" : "+0.75",
+"mc" : "493.06M",
+"cp" : "0.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13309952",
+"name" : "Motherson Sumi Systems Limited",
+"t" : "MOTHERSUMI",
+"e" : "NSE",
+"l" : "328.95",
+"c" : "+10.05",
+"mc" : "690.37B",
+"cp" : "3.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13659974",
+"name" : "Majestic Auto Ltd",
+"t" : "500267",
+"e" : "BOM",
+"l" : "161.20",
+"c" : "-2.35",
+"mc" : "1.68B",
+"cp" : "-1.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "417348",
+"name" : "PPAP Automotive Ltd",
+"t" : "PPAP",
+"e" : "NSE",
+"l" : "550.00",
+"c" : "+8.70",
+"mc" : "7.72B",
+"cp" : "1.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12232770",
+"name" : "Denso India Pvt Ltd",
+"t" : "DENSO",
+"e" : "NSE",
+"l" : "142.75",
+"c" : "0.00",
+"mc" : "3.98B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6715972",
+"name" : "REIL Electricals India Ltd",
+"t" : "505817",
+"e" : "BOM",
+"l" : "230.00",
+"c" : "0.00",
+"mc" : "868.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "135030",
+"name" : "Igarashi Motors India Ltd.",
+"t" : "IGARASHI",
+"e" : "NSE",
+"l" : "830.00",
+"c" : "+3.45",
+"mc" : "25.36B",
+"cp" : "0.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11688711",
+"name" : "Lumax Industries Limited",
+"t" : "LUMAXIND",
+"e" : "NSE",
+"l" : "2,285.00",
+"c" : "+32.95",
+"mc" : "21.19B",
+"cp" : "1.46",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Village - Nawada Fatehpur,P.O. SikanderPur Badda, GURGAON, 122004, India",
+"phone": "+91-124-2290674",
+"fax": "+91-124-2240695",
+"overview" : "Minda Industries Limited is a supplier of automotive solutions to original equipment manufacturers. The Company offers a range of products across various verticals of auto components, such as switching systems, acoustic systems and alloy wheels, among others. Its business divisions include Lighting Systems Division, Switch \u0026 Handle Bar Systems Division, Acoustics Systems Division, and Sensors Actuators and Controllers Division. It also has business divisions, which are engaged in production of batteries for two wheelers, fuel cap and compressed natural gas (CNG)\u002Fliquid petroleum gas (LPG) kits. It is also engaged in the business of blow molding components and aluminum die casting. Its product portfolio includes alloy wheel, and brake hoses and fuel hoses. It manufactures switching system and handle bar solutions for two\u002Fthree-wheelers in India. It develops electronic products, including start stop sensors, electronic accelerator pedal module (EAPM) and head lamp leveling motors."
+} ]
+, "management" : [
+{
+"name" : "Nirmal Kumar Minda",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "H. C. Dhamija",
+"title" : "Vice President - Group Accounts, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anand Kumar Minda",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Renu Challu",
+"title" : "Independent Woman Director"
+}
+,
+{
+"name" : "Alok Dutta",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Satish Sekhri",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

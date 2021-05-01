@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "532772",
+"exchange" : "BOM",
+"id": "705105",
+"t" : "532772",
+"e" : "BOM",
+"name" : "DCB Bank Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532772"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532772"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532772"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "17.52%",
+"annual" : "19.08%",
+"ttm" : "18.85%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "27.13%",
+"annual" : "29.31%",
+"ttm" : "29.38%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "42.67%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.93%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.99%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,928",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.50",
+"l" : "167.10",
+"cp" : "1.52",
+"ccol" : "chg",
+"op" : "165.85",
+"hi" : "168.65",
+"lo" : "164.60",
+"vo" : "65,752.00",
+"avvo" : "",
+"hi52" : "213.00",
+"lo52" : "150.70",
+"mc" : "51.29B",
+"pe" : "21.98",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.60",
+"dy" : "0.30",
+"ldiv" : "0.50",
+"shares" : "308.08M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "705105",
+"name" : "DCB Bank Ltd",
+"t" : "532772",
+"e" : "BOM",
+"l" : "167.10",
+"c" : "+2.50",
+"mc" : "51.29B",
+"cp" : "1.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5904015",
+"name" : "Federal Bank Ltd",
+"t" : "FEDERALBNK",
+"e" : "NSE",
+"l" : "96.25",
+"c" : "+1.50",
+"mc" : "188.93B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11734673",
+"name" : "Lakshmi Vilas Bank Ltd.",
+"t" : "LAKSHVILAS",
+"e" : "NSE",
+"l" : "114.45",
+"c" : "-0.55",
+"mc" : "29.32B",
+"cp" : "-0.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "787381",
+"name" : "Housing Development Finance Corp Ltd",
+"t" : "HDFC",
+"e" : "NSE",
+"l" : "1,842.00",
+"c" : "+17.80",
+"mc" : "2.95T",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12639502",
+"name" : "Sakthi Finance Limited",
+"t" : "SAKTHIFIN",
+"e" : "NSE",
+"l" : "19.00",
+"c" : "+0.10",
+"mc" : "945.00M",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2713202",
+"name" : "Sainik Finance \u0026 Industires Ltd",
+"t" : "530265",
+"e" : "BOM",
+"l" : "32.75",
+"c" : "+1.10",
+"mc" : "356.32M",
+"cp" : "3.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15496834",
+"name" : "Sungold Capital Ltd",
+"t" : "531433",
+"e" : "BOM",
+"l" : "2.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9257280",
+"name" : "Anar Industries Ltd",
+"t" : "531127",
+"e" : "BOM",
+"l" : "19.00",
+"c" : "0.00",
+"mc" : "190.66M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "485802867974745",
+"name" : "Central Depository Services (India) Ltd",
+"t" : "CDSL",
+"e" : "NSE",
+"l" : "323.90",
+"c" : "+5.30",
+"mc" : "33.91B",
+"cp" : "1.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7445850",
+"name" : "LKP Finance Ltd",
+"t" : "507912",
+"e" : "BOM",
+"l" : "118.00",
+"c" : "+2.65",
+"mc" : "1.43B",
+"cp" : "2.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "679317",
+"name" : "South Indian Bank Limited",
+"t" : "SOUTHBANK",
+"e" : "NSE",
+"l" : "27.25",
+"c" : "+0.35",
+"mc" : "49.11B",
+"cp" : "1.30",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "6th Flr, Tower A,Peninsula Business Park Senapati Bapat Marg, Lower Parel, MUMBAI, 400013, India",
+"phone": "+91-22-66187000",
+"fax": "+91-22-66589970",
+"url": "https:\u002F\u002Fwww.dcbbank.com\u002F",
+"overview" : "DCB Bank Limited is a scheduled commercial bank. The Bank\u0027s segments include Treasury Operations, Corporate\u002FWholesale Banking, Retail Banking and Other Banking Operations. The Treasury Operations segment includes all financial markets activities undertaken on behalf of the Bank\u0027s customers, trading, maintenance of reserve requirements and resource mobilization from other banks and financial institutions. The Corporate\u002FWholesale Banking segment includes lending, deposit taking and other services offered to corporate customers. The Retail Banking segment includes lending, deposit taking and other services offered to retail customers. The Other Banking Operations segment includes para banking activities like third party product distribution, merchant banking. The Bank has approximately 200 branches and approximately 410 automated teller machine (ATM) centers."
+} ]
+, "management" : [
+{
+"name" : "Murali M. Natrajan",
+"age" : "53",
+"title" : "Chief Executive Officer, Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Bharat Laxmidas Sampat",
+"age" : "54",
+"title" : "Chief Financial Officer, Executive Vice President"
+}
+,
+{
+"name" : "Sameer Jaini",
+"title" : "Chief Technology Officer"
+}
+,
+{
+"name" : "Rubi Chaturvedi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sridhar Seshadri",
+"age" : "53",
+"title" : "Financial Controller"
+}
+,
+{
+"name" : "Damodar Agarwal",
+"title" : "Head – Alternate Channels \u0026 Retail Securitization"
+}
+,
+{
+"name" : "Sukesh Bhowal",
+"age" : "43",
+"title" : "Head – Mortgages \u0026 Loan Against Gold"
+}
+,
+{
+"name" : "Abhijit Bose",
+"age" : "51",
+"title" : "Head - Retail Assets \u0026 Strategic Alliances"
+}
+,
+{
+"name" : "Manoj Joshi",
+"title" : "Business Head – Trade Finance"
+}
+,
+{
+"name" : "Praveen Achuthan Kutty",
+"age" : "48",
+"title" : "Head - Retail \u0026 SME Banking"
+}
+]
+,"moreresources" : [
+]
+}]

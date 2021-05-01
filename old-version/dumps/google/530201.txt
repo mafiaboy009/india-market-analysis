@@ -1,0 +1,282 @@
+
+// [
+{
+"symbol" : "530201",
+"exchange" : "BOM",
+"id": "5004145",
+"t" : "530201",
+"e" : "BOM",
+"name" : "Kallam Spinning Mills Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KALS.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530201"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530201"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530201"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.89%",
+"annual" : "4.43%",
+"ttm" : "4.63%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.01%",
+"annual" : "11.40%",
+"ttm" : "8.82%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.14%",
+"ttm" : "13.32%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.61%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.63%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "330",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.75",
+"l" : "31.50",
+"cp" : "2.44",
+"ccol" : "chg",
+"op" : "31.45",
+"hi" : "31.60",
+"lo" : "31.00",
+"vo" : "93,658.00",
+"avvo" : "",
+"hi52" : "31.60",
+"lo52" : "13.06",
+"mc" : "1.35B",
+"pe" : "9.29",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.39",
+"dy" : "0.51",
+"ldiv" : "0.16",
+"shares" : "42.82M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5004145",
+"name" : "Kallam Spinning Mills Ltd",
+"t" : "530201",
+"e" : "BOM",
+"l" : "31.50",
+"c" : "+0.75",
+"mc" : "1.35B",
+"cp" : "2.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "721610",
+"name" : "Birla Cotsyn (India) Ltd",
+"t" : "533006",
+"e" : "BOM",
+"l" : "0.08",
+"c" : "0.00",
+"mc" : "214.93M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5386252",
+"name" : "Mafatlal Industries Ltd",
+"t" : "500264",
+"e" : "BOM",
+"l" : "290.00",
+"c" : "-0.85",
+"mc" : "4.05B",
+"cp" : "-0.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14211316",
+"name" : "P B M Polytex Ltd",
+"t" : "514087",
+"e" : "BOM",
+"l" : "90.65",
+"c" : "+0.35",
+"mc" : "746.07M",
+"cp" : "0.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5980140",
+"name" : "Bannari Amman Spinning Mills Ltd.",
+"t" : "BASML",
+"e" : "NSE",
+"l" : "281.60",
+"c" : "+5.95",
+"mc" : "4.41B",
+"cp" : "2.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7304025",
+"name" : "Suryalata Spinning Mills Ltd",
+"t" : "514138",
+"e" : "BOM",
+"l" : "159.00",
+"c" : "-1.20",
+"mc" : "678.45M",
+"cp" : "-0.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15905202",
+"name" : "Gtn Textiles Ltd",
+"t" : "GTNTEX",
+"e" : "NSE",
+"l" : "20.05",
+"c" : "+0.60",
+"mc" : "229.85M",
+"cp" : "3.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3091778",
+"name" : "Patspin India Ltd",
+"t" : "PATSPINLTD",
+"e" : "NSE",
+"l" : "21.85",
+"c" : "+0.30",
+"mc" : "681.93M",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12609898",
+"name" : "Alps Industries Ltd.",
+"t" : "ALPSINDUS",
+"e" : "NSE",
+"l" : "4.40",
+"c" : "-0.20",
+"mc" : "170.25M",
+"cp" : "-4.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14208119",
+"name" : "Soma Textiles and Industries Ltd",
+"t" : "SOMATEX",
+"e" : "NSE",
+"l" : "14.25",
+"c" : "-0.15",
+"mc" : "467.47M",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7933976",
+"name" : "Deepak Spinners Ltd",
+"t" : "514030",
+"e" : "BOM",
+"l" : "85.80",
+"c" : "-3.45",
+"mc" : "616.85M",
+"cp" : "-3.87",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Chowadavaram, GUNTUR, 522019, India",
+"phone": "+91-863-2344015",
+"fax": "+91-863-2344000",
+"url": "http:\u002F\u002Fwww.ksml.in\u002F",
+"overview" : "Kallam Spinning Mills Limited is engaged in manufacturing and sale of cotton and dyed yarn, and cotton and dyed fabrics. The Company\u0027s segments include Spinning, Weaving, Dyeing and Power. The Company\u0027s products include Single yarn - Weaving - Cared-Ne 20\u002F1 to Ne 40\u002F1\u002FNe 60\u002F1 and Ne 80\u002F1\u003B Combed -Ne 20\u002F1 to Ne 100\u002F1\u003B Knitting - Carded -Ne 20\u002F1 to Ne 40\u002F1\u003B Compact Yarn -Ne 40\u002F1 to Ne 100\u002F1\u003B Double Yarn - Ring Doubled - Carded -Ne 20\u002F2 to Ne 40\u002F2 and Combed - Ne-60\u002F2 to Ne 80\u002F2 two-for-one (TFO)\u003B Regular Grey Yarn\u003B Single\u002FTFO\u003B Compact Yarns\u003B Open-End Yarn 16\u0027s to 30\u0027s\u003B 60\u002F1 ELITE COMPACT\u003B 80\u002F1 ELITE COMPACT\u003B 40\u002F1 CW, and 40\u002F1 ELITE COMPACT. The Company has approximately company has three hydroelectric plants with four megawatts capacity at Nelakondapally Mandal, Khammam, Andhra Pradesh. The Company\u0027s spinning plant is located in Chowdavaram, Guntur, Andhra Pradesh. Its Weaving and Dyeing plants are located in Kunkupadu Village, Addanki Mandal, Prakasam District, Andhra Pradesh."
+} ]
+, "management" : [
+{
+"name" : "M. V. Subba Reddy",
+"title" : "Chief Financial Officer, Director - Finance, Whole Time Director"
+}
+,
+{
+"name" : "P. Venkateswara Reddy",
+"title" : "Compliance Officer, Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "Gurram Venkata Krishna Reddy",
+"title" : "Joint Managing Director, Non-Independent Executive Director"
+}
+,
+{
+"name" : "V. Bhargavi",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Ajeya Kallam",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "V. S. N. Murthy",
+"title" : "Independent Non-Executive Director - Nominee of IREDA"
+}
+,
+{
+"name" : "V. Ramgopal",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Swargam Pulla Rao",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

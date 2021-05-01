@@ -1,0 +1,294 @@
+
+// [
+{
+"symbol" : "533552",
+"exchange" : "BOM",
+"id": "1022394919356650",
+"t" : "533552",
+"e" : "BOM",
+"name" : "Rupa and Company Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533552"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533552"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533552"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002714)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.28%",
+"annual" : "6.61%",
+"ttm" : "7.31%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.47%",
+"annual" : "11.23%",
+"ttm" : "13.18%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.71%",
+"ttm" : "14.42%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "10.37%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "17.90%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "598",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.85",
+"l" : "422.00",
+"cp" : "-0.90",
+"ccol" : "chr",
+"op" : "427.50",
+"hi" : "432.35",
+"lo" : "422.00",
+"vo" : "1,417.00",
+"avvo" : "",
+"hi52" : "432.35",
+"lo52" : "132.00",
+"mc" : "33.54B",
+"pe" : "50.79",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.31",
+"dy" : "0.65",
+"ldiv" : "2.75",
+"shares" : "79.52M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1022394919356650",
+"name" : "Rupa and Company Ltd",
+"t" : "533552",
+"e" : "BOM",
+"l" : "422.00",
+"c" : "-3.85",
+"mc" : "33.54B",
+"cp" : "-0.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15247679",
+"name" : "T T Ltd",
+"t" : "TTL",
+"e" : "NSE",
+"l" : "87.85",
+"c" : "-3.15",
+"mc" : "1.88B",
+"cp" : "-3.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7936098",
+"name" : "Maral Overseas Limited",
+"t" : "MARALOVER",
+"e" : "NSE",
+"l" : "32.60",
+"c" : "0.00",
+"mc" : "1.35B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1631719",
+"name" : "Arvind Limited",
+"t" : "ARVIND",
+"e" : "NSE",
+"l" : "428.75",
+"c" : "-0.35",
+"mc" : "106.25B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4674509",
+"name" : "Reliance Industries Limited",
+"t" : "RELIANCE",
+"e" : "NSE",
+"l" : "986.00",
+"c" : "+4.85",
+"mc" : "6.19T",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14068503",
+"name" : "Brandhouse Retails Limited",
+"t" : "BRANDHOUSE",
+"e" : "NSE",
+"l" : "0.45",
+"c" : "",
+"mc" : "24.12M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "7168586",
+"name" : "SORIL INFRA RESOURCES LTD",
+"t" : "SORILINFRA",
+"e" : "NSE",
+"l" : "318.00",
+"c" : "+3.50",
+"mc" : "8.99B",
+"cp" : "1.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5942535",
+"name" : "Kewal Kiran Clothing Limited",
+"t" : "KKCL",
+"e" : "NSE",
+"l" : "1,560.00",
+"c" : "+32.00",
+"mc" : "19.10B",
+"cp" : "2.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "171732",
+"name" : "V2 Retail Ltd",
+"t" : "V2RETAIL",
+"e" : "NSE",
+"l" : "427.70",
+"c" : "-4.30",
+"mc" : "14.49B",
+"cp" : "-1.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "250628261766022",
+"name" : "Diggi Multitrade Ltd",
+"t" : "540811",
+"e" : "BOM",
+"l" : "9.74",
+"c" : "0.00",
+"mc" : "94.26M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16032883",
+"name" : "CESC Ltd",
+"t" : "CESC",
+"e" : "NSE",
+"l" : "1,059.05",
+"c" : "-0.45",
+"mc" : "139.86B",
+"cp" : "-0.04",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "METRO TOWER, 1, HD CHI MINH SARANI, KOLKATA, 700071, India",
+"phone": "+91-33-30573100",
+"fax": "+91-33-22881362",
+"url": "http:\u002F\u002Fwww.rupa.co.in\u002F",
+"overview" : "Rupa \u0026 Company Limited is engaged in the manufacture of knitted apparel, including hosiery. The Company offers textile, leather and other apparel products. It operates through garments and hosiery goods and related services segment. The Company provides a range of knitted garments from innerwear to casual wear. The Company offers mens, womens and kids innerwear\u003B infantwear\u003B knitted bermudas and loungers\u003B winterwear\u003B footwear\u003B leggings for women, and other fashionwear. The Company offers its products under the Frontline, Euro, Bumchums, Jon, Torrido, Softline, Femmora, Macroman, Macrowoman, Macroman M-series, Thermocot, Imoogi, and Footline brands. It has approximately four central warehouses\u003B over 8,000 stock keeping units (SKUs)\u003B approximately six exclusive business outlets (EBO)\u003B over 20 branch offices\u003B approximately 1,18,000 retailers, and various e-commerce portals that stock and sell the products of the Company."
+} ]
+, "management" : [
+{
+"name" : "Prahlad Rai Agarwala",
+"title" : "Executive Non-Independent Chairman of the Board"
+}
+,
+{
+"name" : "Ghanshyam Prasad Agarwala",
+"title" : "Executive Non-Independent Vice Chairman of the Board"
+}
+,
+{
+"name" : "Ramesh Agarwal",
+"title" : "Chief Financial Officer, Whole-time Director"
+}
+,
+{
+"name" : "Kundan Kumar Jha",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kunj Bihari Agarwal",
+"title" : "Managing Director, Executive Non-Independent Director"
+}
+,
+{
+"name" : "Mukesh Agarwal",
+"age" : "43",
+"title" : "Executive Non-Independent Director"
+}
+,
+{
+"name" : "Niraj Kabra",
+"title" : "Additional Executive Director"
+}
+,
+{
+"name" : "Dipak Kumar Banerjee",
+"age" : "68",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Alka Devi Bangur",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Satya Brata Ganguly",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

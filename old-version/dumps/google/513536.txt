@@ -1,0 +1,280 @@
+
+// [
+{
+"symbol" : "513536",
+"exchange" : "BOM",
+"id": "1852804",
+"t" : "513536",
+"e" : "BOM",
+"name" : "Gujarat Natural Resources Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GUJA.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:513536"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:513536"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:513536"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.47%",
+"annual" : "4.98%",
+"ttm" : "21.49%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.41%",
+"annual" : "1.16%",
+"ttm" : "24.64%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "28.70%",
+"ttm" : "63.25%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.29%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.47%",
+"ttm" : ""
+}
+]
+, "c" : "-0.85",
+"l" : "24.00",
+"cp" : "-3.42",
+"ccol" : "chr",
+"op" : "24.00",
+"hi" : "24.00",
+"lo" : "23.80",
+"vo" : "1,599.00",
+"avvo" : "",
+"hi52" : "38.45",
+"lo52" : "22.35",
+"mc" : "930.04M",
+"pe" : "55.97",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.43",
+"dy" : "0.42",
+"ldiv" : "0.10",
+"shares" : "38.75M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1852804",
+"name" : "Gujarat Natural Resources Ltd",
+"t" : "513536",
+"e" : "BOM",
+"l" : "24.00",
+"c" : "-0.85",
+"mc" : "930.04M",
+"cp" : "-3.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "674868",
+"name" : "Oil \u0026 Natural Gas Corporation Limited",
+"t" : "ONGC",
+"e" : "NSE",
+"l" : "189.95",
+"c" : "+0.15",
+"mc" : "2.43T",
+"cp" : "0.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7135544",
+"name" : "Hindustan Oil Exploration Company Ltd",
+"t" : "HINDOILEXP",
+"e" : "NSE",
+"l" : "118.30",
+"c" : "+1.60",
+"mc" : "15.42B",
+"cp" : "1.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13678046",
+"name" : "Trinity Tradelink Ltd",
+"t" : "512417",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "128.65M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3080725",
+"name" : "KGN INDUSTRIES LTD",
+"t" : "531612",
+"e" : "BOM",
+"l" : "1.86",
+"c" : "-0.02",
+"mc" : "413.85M",
+"cp" : "-1.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6038818",
+"name" : "Cairn India Limited",
+"t" : "CAIRN",
+"e" : "NSE",
+"l" : "285.00",
+"c" : "",
+"mc" : "535.28B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13281777",
+"name" : "Selan Exploration Technology Ltd.",
+"t" : "SELAN",
+"e" : "NSE",
+"l" : "208.80",
+"c" : "+1.45",
+"mc" : "3.41B",
+"cp" : "0.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "756546251615497",
+"name" : "Nagarjuna Oil Refinery Ltd",
+"t" : "NAGAROIL",
+"e" : "NSE",
+"l" : "4.10",
+"c" : "-0.05",
+"mc" : "1.76B",
+"cp" : "-1.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10639382",
+"name" : "Oil India Limited",
+"t" : "OIL",
+"e" : "NSE",
+"l" : "348.70",
+"c" : "+4.20",
+"mc" : "263.41B",
+"cp" : "1.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12588850",
+"name" : "Indian Oil Corporation Limited",
+"t" : "IOC",
+"e" : "NSE",
+"l" : "377.00",
+"c" : "+8.60",
+"mc" : "1.83T",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13363611",
+"name" : "Essar Oil Ltd",
+"t" : "ESSAROIL",
+"e" : "NSE",
+"l" : "263.00",
+"c" : "",
+"mc" : "381.53B",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "8, Sigma Corporate House Nr. Mann Party Plot, S. G. Highway Road, AHMEDABAD, 380059, India",
+"phone": "+91-79-40029806",
+"fax": "+91-79-40029806",
+"url": "http:\u002F\u002Fwww.gnrl.in\u002F",
+"overview" : "Gujarat Natural Resources Limited is an India-based company, which is engaged in oil and gas exploration. The Company, through its subsidiary, GNRL Oil \u0026 Gas Limited, has participating interests in approximately six producing blocks in Cambay basin. The Company\u0027s blocks include Kanawara Block, which covers an area of over 6.3 square kilometers and is located in the Tarapur Block north of Khambhat, Gujarat\u003B North Kathana Block, which covers an area of approximately 12.2 square kilometers and is located north of the Kathana Field\u003B Allora Field, which is located east of the Balol field and approximately 10 kilometers north west of Meshana town, India\u003B Dholasan Block, which is located onshore within the Cambay Basin north of the Nandasan and Lynch Fields, and covers over 8.7 square kilometers\u003B North Balol Block, which covers an area of approximately 27.3 square kilometers and is located west of the Meshana town, Gujarat, and Unawa Field, which is located northwest of Meshana, Gujarat."
+} ]
+, "management" : [
+{
+"name" : "Ashok C. Shah",
+"age" : "73",
+"title" : "Chairman of the Board"
+}
+,
+{
+"name" : "Bishwanath Agarwal",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Pramod Loharuka",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Vimal Kumar Taparia",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Mona Jagatramka",
+"age" : "51",
+"title" : "Director"
+}
+,
+{
+"name" : "Sarika Abhijit Kulkarni",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rajesh Kumar Agrawal",
+"age" : "47",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Amit Kumar Majumdar",
+"age" : "77",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

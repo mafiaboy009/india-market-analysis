@@ -1,0 +1,339 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 32443588608,
+            "fmt": "32.44B",
+            "longFmt": "32,443,588,608"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -2.00322,
+            "fmt": "-200.32%"
+          },
+          "floatShares": {
+            "raw": 197263996,
+            "fmt": "197.26M",
+            "longFmt": "197,263,996"
+          },
+          "sharesOutstanding": {
+            "raw": 238596992,
+            "fmt": "238.6M",
+            "longFmt": "238,596,992"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.168763,
+            "fmt": "1.17"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -38.835,
+            "fmt": "-38.83"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -25043793920,
+            "fmt": "-25.04B",
+            "longFmt": "-25,043,793,920"
+          },
+          "trailingEps": {
+            "raw": -105.883,
+            "fmt": "-105.88"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "5/1",
+          "lastSplitDate": {
+            "raw": 1280448000,
+            "fmt": "2010-07-30"
+          },
+          "enterpriseToRevenue": {
+            "raw": 2.595,
+            "fmt": "2.60"
+          },
+          "enterpriseToEbitda": {
+            "raw": -1.297,
+            "fmt": "-1.30"
+          },
+          "52WeekChange": {
+            "raw": -0.52759194,
+            "fmt": "-52.76%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 23017239000,
+                  "fmt": "23.02B",
+                  "longFmt": "23,017,239,000"
+                },
+                "earnings": {
+                  "raw": 153893000,
+                  "fmt": "153.89M",
+                  "longFmt": "153,893,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 31654948000,
+                  "fmt": "31.65B",
+                  "longFmt": "31,654,948,000"
+                },
+                "earnings": {
+                  "raw": 440823000,
+                  "fmt": "440.82M",
+                  "longFmt": "440,823,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 41263535000,
+                  "fmt": "41.26B",
+                  "longFmt": "41,263,535,000"
+                },
+                "earnings": {
+                  "raw": 264873000,
+                  "fmt": "264.87M",
+                  "longFmt": "264,873,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 16871453000,
+                  "fmt": "16.87B",
+                  "longFmt": "16,871,453,000"
+                },
+                "earnings": {
+                  "raw": -8393993000,
+                  "fmt": "-8.39B",
+                  "longFmt": "-8,393,993,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 3633253000,
+                  "fmt": "3.63B",
+                  "longFmt": "3,633,253,000"
+                },
+                "earnings": {
+                  "raw": -5821293000,
+                  "fmt": "-5.82B",
+                  "longFmt": "-5,821,293,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 4020100000,
+                  "fmt": "4.02B",
+                  "longFmt": "4,020,100,000"
+                },
+                "earnings": {
+                  "raw": -4187800000,
+                  "fmt": "-4.19B",
+                  "longFmt": "-4,187,800,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 2687500000,
+                  "fmt": "2.69B",
+                  "longFmt": "2,687,500,000"
+                },
+                "earnings": {
+                  "raw": -7489200000,
+                  "fmt": "-7.49B",
+                  "longFmt": "-7,489,200,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 2160800000,
+                  "fmt": "2.16B",
+                  "longFmt": "2,160,800,000"
+                },
+                "earnings": {
+                  "raw": -7545500000,
+                  "fmt": "-7.55B",
+                  "longFmt": "-7,545,500,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Phoenix Market City",
+          "address2": "Unit No. 1/B-56 & 1/B-57 Phoenix Paragon Plaza, LBS Marg Kurla (West)",
+          "city": "Mumbai",
+          "zip": "400070",
+          "country": "India",
+          "phone": "91 22 3955 9999",
+          "fax": "91 22 3955 9900",
+          "website": "http://www.pratibhagroup.com",
+          "industry": "General Contractors",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Pratibha Industries Limited provides engineering, procurement, and construction services in India. The company undertakes various infrastructure projects, including design, engineering, and execution/construction of complex and integrated water transmission and distribution projects, water treatment plants, elevated and underground reservoirs, mass housing projects, commercial complexes, pre-cast design and construction projects, road construction projects, and urban infrastructure projects. It also undertakes water supply and environmental engineering, surface transport, building, airport, railway station, retail infra, and hydrocarbon projects. In addition, the company manufactures helical SAW pipes for various applications, such as oil and gas transmission mains; low and medium pressure city gas mains; water supply transmission mains and distribution pipelines; steam, gas, and other piping requirements in chemical plants/petroleum refineries; and pilling, casing, mining, and dredging steel pipes, as well as for structural purposes. Further, it provides protective coatings for pipes. The company was founded in 1982 and is headquartered in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 5.4,
+            "fmt": "5.40"
+          },
+          "targetHighPrice": {
+            "raw": 70.0,
+            "fmt": "70.00"
+          },
+          "targetLowPrice": {
+            "raw": 70.0,
+            "fmt": "70.00"
+          },
+          "targetMeanPrice": {
+            "raw": 70.0,
+            "fmt": "70.00"
+          },
+          "targetMedianPrice": {
+            "raw": 70.0,
+            "fmt": "70.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 4636499968,
+            "fmt": "4.64B",
+            "longFmt": "4,636,499,968"
+          },
+          "totalCashPerShare": {
+            "raw": 19.43,
+            "fmt": "19.43"
+          },
+          "ebitda": {
+            "raw": -25007046656,
+            "fmt": "-25.01B",
+            "longFmt": "-25,007,046,656"
+          },
+          "totalDebt": {
+            "raw": 35457400832,
+            "fmt": "35.46B",
+            "longFmt": "35,457,400,832"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 12501752832,
+            "fmt": "12.5B",
+            "longFmt": "12,501,752,832"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 52.856,
+            "fmt": "52.86"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 188638000,
+            "fmt": "188.64M",
+            "longFmt": "188,638,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.265,
+            "fmt": "-26.50%"
+          },
+          "grossMargins": {
+            "raw": -1.68876,
+            "fmt": "-168.88%"
+          },
+          "ebitdaMargins": {
+            "raw": -2.00028,
+            "fmt": "-200.03%"
+          },
+          "operatingMargins": {
+            "raw": -2.0415602,
+            "fmt": "-204.16%"
+          },
+          "profitMargins": {
+            "raw": -2.00322,
+            "fmt": "-200.32%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "523120",
+"exchange" : "BOM",
+"id": "13034665",
+"t" : "523120",
+"e" : "BOM",
+"name" : "Ador Multi Products Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=ADML.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:523120"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:523120"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:523120"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-24.94%",
+"annual" : "3.55%",
+"ttm" : "-29.04%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-27.28%",
+"annual" : "-22.33%",
+"ttm" : "-25.11%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-20.26%",
+"ttm" : "-22.88%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.58%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.16%",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "23.15",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "28.50",
+"lo52" : "18.00",
+"mc" : "66.31M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-6.64",
+"dy" : "",
+"ldiv" : "",
+"shares" : "2.86M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "13034665",
+"name" : "Ador Multi Products Ltd",
+"t" : "523120",
+"e" : "BOM",
+"l" : "23.15",
+"c" : "0.00",
+"mc" : "66.31M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8740908",
+"name" : "JL Morison India Ltd",
+"t" : "506522",
+"e" : "BOM",
+"l" : "1,485.00",
+"c" : "+56.00",
+"mc" : "2.03B",
+"cp" : "3.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12054339",
+"name" : "Elder Health Care Ltd",
+"t" : "524830",
+"e" : "BOM",
+"l" : "8.55",
+"c" : "0.00",
+"mc" : "34.91M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4000544",
+"name" : "Paramount Cosmetics (India) Ltd",
+"t" : "507970",
+"e" : "BOM",
+"l" : "31.40",
+"c" : "-1.60",
+"mc" : "152.45M",
+"cp" : "-4.85",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7979933",
+"name" : "Synergy Cosmetics Exim Ltd",
+"t" : "531115",
+"e" : "BOM",
+"l" : "0.48",
+"c" : "0.00",
+"mc" : "5.44M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14753584",
+"name" : "Lykis Ltd",
+"t" : "530689",
+"e" : "BOM",
+"l" : "53.10",
+"c" : "+1.60",
+"mc" : "1.03B",
+"cp" : "3.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11882217",
+"name" : "Bajaj Corp Ltd",
+"t" : "BAJAJCORP",
+"e" : "NSE",
+"l" : "487.00",
+"c" : "+1.70",
+"mc" : "71.74B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "829919",
+"name" : "Dabur India Ltd",
+"t" : "DABUR",
+"e" : "NSE",
+"l" : "331.75",
+"c" : "+1.15",
+"mc" : "580.17B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12902388119303",
+"name" : "Marico Kaya Enterprises Ltd",
+"t" : "MAKE",
+"e" : "NSE",
+"l" : "1,555.00",
+"c" : "+7.95",
+"mc" : "",
+"cp" : "0.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2889377",
+"name" : "Gillette India Limited",
+"t" : "GILLETTE",
+"e" : "NSE",
+"l" : "6,649.95",
+"c" : "+3.90",
+"mc" : "217.80B",
+"cp" : "0.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14928615",
+"name" : "Farmax India Limited",
+"t" : "FARMAXIND",
+"e" : "NSE",
+"l" : "0.05",
+"c" : "0.00",
+"mc" : "26.71M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "ADOR HOUSE 5th Floor, 6, K. Dubash Marg, Fort,, MUMBAI, 400001, India",
+"phone": "+91-22-66239300",
+"fax": "+91-80-28361631",
+"url": "http:\u002F\u002Fwww.adormultiproducts.com\u002F",
+"overview" : "Ador Multiproducts Limited is an India-based contract manufacturer in personal care industry. The Company is engaged in the business of manufacturing of personal care products and trading in welding equipment and consumables. The Company operates through two operating segments: manufacturing of personal care products and job work thereon, and trading of welding equipment\u0027s and accessories. The Company offers a range of personal care products, including hand sanitizers, hand wash, skin care and face wash. The Company offers personal care products of various brands, such as Himalaya Drug Company, Bdel, Apollo Pharmacy Company and Spar. The Company has production facilities in Bangalore, which caters manufacturing for all the personal care products, such as alcohol-based and non-alcohol-based, and Pondicherry, which is engaged in talcum powder production. The Company has branches at Puducherry and Chennai."
+} ]
+, "management" : [
+{
+"name" : "Deep Ashda Lalvani",
+"title" : "Chief Financial Officer, Whole Time Director"
+}
+,
+{
+"name" : "C. K. Venugopal",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Gaurav Kumar Jain",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "S Parashar",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Ninotchka M. Nagpal",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Gaurav Lalvani",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Navroze S. Marshall",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Feb 9, 2018",
+"time": "",
+"future": 0,
+"desc": "Q3 2018 Ador Multi Products Ltd Earnings Release (Estimated)"
+}
+,
+{
+"date": "Dec 6, 2017",
+"time": "",
+"future": 0,
+"desc": "Q2 2018 Ador Multi Products Ltd Earnings Release"
+}
+]
+}]

@@ -1,0 +1,190 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 47345796,
+            "fmt": "47.35M",
+            "longFmt": "47,345,796"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.02308,
+            "fmt": "2.31%"
+          },
+          "floatShares": {
+            "raw": 32615642,
+            "fmt": "32.62M",
+            "longFmt": "32,615,642"
+          },
+          "sharesOutstanding": {
+            "raw": 35071000,
+            "fmt": "35.07M",
+            "longFmt": "35,071,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {},
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1427760000,
+            "fmt": "2015-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1364688000,
+            "fmt": "2013-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.795,
+            "fmt": "-79.50%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 3213416,
+            "fmt": "3.21M",
+            "longFmt": "3,213,416"
+          },
+          "trailingEps": {
+            "raw": 0.092,
+            "fmt": "0.09"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "1/10",
+          "lastSplitDate": {
+            "raw": 1288742400,
+            "fmt": "2010-11-03"
+          },
+          "enterpriseToRevenue": {
+            "raw": 0.34,
+            "fmt": "0.34"
+          },
+          "enterpriseToEbitda": {
+            "raw": 4.348,
+            "fmt": "4.35"
+          },
+          "52WeekChange": {
+            "raw": 0.298077,
+            "fmt": "29.81%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.1593206,
+            "fmt": "15.93%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Room No.302, Yashwant Shopping Center",
+          "address2": "3rd Floor Carter Road No.7, Opposite Railway Station Borivali (East)",
+          "city": "Mumbai",
+          "zip": "400066",
+          "country": "India",
+          "website": "http://www.asahiinfra.in",
+          "industry": "General Contractors",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Asahi Infrastructure & Projects Limited engages in the construction activities in India. The company undertakes construction of houses for slum poor's; and infrastructure, roads, highways, bridges, and irrigation projects, as well as pre-engineered housing projects. It also engages in general trading activities. The company was incorporated in 1988 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1.35,
+            "fmt": "1.35"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 10889436,
+            "fmt": "10.89M",
+            "longFmt": "10,889,436"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 139234672,
+            "fmt": "139.23M",
+            "longFmt": "139,234,672"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 3.97,
+            "fmt": "3.97"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 11134541,
+            "fmt": "11.13M",
+            "longFmt": "11,134,541"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 2.859,
+            "fmt": "285.90%"
+          },
+          "grossMargins": {
+            "raw": 0.07997,
+            "fmt": "8.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.07821,
+            "fmt": "7.82%"
+          },
+          "operatingMargins": {
+            "raw": 0.04002,
+            "fmt": "4.00%"
+          },
+          "profitMargins": {
+            "raw": 0.02308,
+            "fmt": "2.31%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

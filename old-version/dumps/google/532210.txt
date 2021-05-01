@@ -1,0 +1,296 @@
+
+// [
+{
+"symbol" : "532210",
+"exchange" : "BOM",
+"id": "706728",
+"t" : "532210",
+"e" : "BOM",
+"name" : "City Union Bank Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532210"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532210"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532210"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "31.80%",
+"annual" : "29.88%",
+"ttm" : "29.76%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "43.30%",
+"annual" : "41.17%",
+"ttm" : "39.68%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "46.29%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.50%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "15.18%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "4,689",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.30",
+"l" : "170.00",
+"cp" : "0.18",
+"ccol" : "chg",
+"op" : "171.30",
+"hi" : "173.00",
+"lo" : "168.90",
+"vo" : "39,078.00",
+"avvo" : "",
+"hi52" : "208.80",
+"lo52" : "124.55",
+"mc" : "112.36B",
+"pe" : "20.01",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.50",
+"dy" : "0.18",
+"ldiv" : "0.30",
+"shares" : "663.47M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "706728",
+"name" : "City Union Bank Ltd",
+"t" : "532210",
+"e" : "BOM",
+"l" : "170.00",
+"c" : "+0.30",
+"mc" : "112.36B",
+"cp" : "0.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "333651",
+"name" : "Punjab National Bank",
+"t" : "PNB",
+"e" : "NSE",
+"l" : "111.90",
+"c" : "-1.55",
+"mc" : "271.30B",
+"cp" : "-1.37",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2465758",
+"name" : "ING Vysya Bank Ltd",
+"t" : "INGVYSYABK",
+"e" : "NSE",
+"l" : "1,027.20",
+"c" : "",
+"mc" : "197.19B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12575761",
+"name" : "Indian Bank",
+"t" : "INDIANB",
+"e" : "NSE",
+"l" : "324.00",
+"c" : "+6.00",
+"mc" : "155.61B",
+"cp" : "1.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3261730",
+"name" : "Axis Bank Ltd",
+"t" : "AXISBANK",
+"e" : "NSE",
+"l" : "550.00",
+"c" : "+13.35",
+"mc" : "1.41T",
+"cp" : "2.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6038505",
+"name" : "Dhanlaxmi Bank Limited",
+"t" : "DHANBANK",
+"e" : "NSE",
+"l" : "22.85",
+"c" : "-0.25",
+"mc" : "5.78B",
+"cp" : "-1.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13082940",
+"name" : "HDFC Bank Limited",
+"t" : "HDFCBANK",
+"e" : "NSE",
+"l" : "1,912.50",
+"c" : "+31.95",
+"mc" : "4.97T",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678082",
+"name" : "Kotak Mahindra Bank Ltd",
+"t" : "KOTAKBANK",
+"e" : "NSE",
+"l" : "1,105.00",
+"c" : "+24.15",
+"mc" : "2.10T",
+"cp" : "2.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12976119",
+"name" : "Indusind Bank Ltd",
+"t" : "INDUSINDBK",
+"e" : "NSE",
+"l" : "1,691.35",
+"c" : "+47.85",
+"mc" : "1.01T",
+"cp" : "2.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6775936",
+"name" : "Canara Bank Ltd",
+"t" : "CANBK",
+"e" : "NSE",
+"l" : "309.80",
+"c" : "-4.05",
+"mc" : "185.13B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13564339",
+"name" : "State Bank of India",
+"t" : "SBIN",
+"e" : "NSE",
+"l" : "274.30",
+"c" : "-1.75",
+"mc" : "2.36T",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Narayana,No.24-B,, Gandhi Nagar, KUMBAKONAM, 612001, India",
+"phone": "+91-435-2402322",
+"fax": "+91-435-2431746",
+"url": "http:\u002F\u002Fwww.cityunionbank.com",
+"overview" : "City Union Bank Limited is a banking company. The Bank\u0027s segments include Treasury, Corporate and Wholesale Banking, Retail Banking and Other Banking Operations. It offers personal banking, corporate banking and non-resident Indian banking services. Its online banking services include utility bill payments, mobile banking, online shopping, book railway ticket and verified by Visa. It offers CUB Mobile Banking-mBank Plus, Mobile Passbook (mPassbook), immediate payment service (IMPS) in Internet banking for funds transfer across the banks and digital signature authentication for corporates as second factor authentication for Internet banking. It operates automated teller machines (ATMs) in approximately 1,320 locations, including over 660 off-site ATMs. It has installed check acceptor KIOSKs and self passbook printing KIOSKs. It offers CUB mobile wallet, which is a mobile-based software application and caters to customer utility services through mobile phone."
+} ]
+, "management" : [
+{
+"name" : "N. Kamakodi Ph.D.",
+"age" : "36",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "S. Sundar",
+"title" : "Chief Financial Officer, Senior General Manager"
+}
+,
+{
+"name" : "V. Ramesh",
+"title" : "Compliance Officer, Deputy General Manager, Company Secretary"
+}
+,
+{
+"name" : "R. Mohan",
+"age" : "60",
+"title" : "General Manager, Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "K. Jayaraman",
+"title" : "Assistant General Manager"
+}
+,
+{
+"name" : "S. Sekar",
+"title" : "Senior General Manager"
+}
+,
+{
+"name" : "K. P. Sridhar",
+"title" : "General Manager"
+}
+,
+{
+"name" : "R. Venkatasubramanian",
+"title" : "Senior General Manager"
+}
+,
+{
+"name" : "Seturaman Mahalingam",
+"age" : "69",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "S. Bernard",
+"age" : "62",
+"title" : "Additional Director"
+}
+]
+,"moreresources" : [
+]
+}]

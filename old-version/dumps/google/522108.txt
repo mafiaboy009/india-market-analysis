@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "522108",
+"exchange" : "BOM",
+"id": "5112781",
+"t" : "522108",
+"e" : "BOM",
+"name" : "Yuken India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=YUKE.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:522108"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:522108"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:522108"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-2.56%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "-1.54%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.74%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.79%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-9.67%",
+"ttm" : ""
+}
+]
+, "c" : "-27.25",
+"l" : "4,420.00",
+"cp" : "-0.61",
+"ccol" : "chr",
+"op" : "4,450.00",
+"hi" : "4,550.00",
+"lo" : "4,420.00",
+"vo" : "4,466.00",
+"avvo" : "",
+"hi52" : "4,990.00",
+"lo52" : "830.00",
+"mc" : "13.21B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "0.02",
+"ldiv" : "1.00",
+"shares" : "3.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "5112781",
+"name" : "Yuken India Ltd",
+"t" : "522108",
+"e" : "BOM",
+"l" : "4,420.00",
+"c" : "-27.25",
+"mc" : "13.21B",
+"cp" : "-0.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2893315",
+"name" : "Bemco Hydraulics Ltd",
+"t" : "522650",
+"e" : "BOM",
+"l" : "180.00",
+"c" : "+0.95",
+"mc" : "393.61M",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "431519",
+"name" : "Veljan Denison Limited",
+"t" : "505232",
+"e" : "BOM",
+"l" : "1,057.00",
+"c" : "+33.00",
+"mc" : "2.38B",
+"cp" : "3.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1863710",
+"name" : "Sundram Fasteners Limited",
+"t" : "SUNDRMFAST",
+"e" : "NSE",
+"l" : "559.00",
+"c" : "-14.65",
+"mc" : "116.98B",
+"cp" : "-2.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8564924",
+"name" : "Dynamatic Technologies Limited",
+"t" : "DYNAMATECH",
+"e" : "NSE",
+"l" : "1,914.00",
+"c" : "-33.65",
+"mc" : "12.14B",
+"cp" : "-1.73",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10896833",
+"name" : "Bharat Bijlee Ltd.",
+"t" : "BBL",
+"e" : "NSE",
+"l" : "1,525.00",
+"c" : "+82.75",
+"mc" : "8.61B",
+"cp" : "5.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13911996",
+"name" : "Everest Kanto Cylinder Ltd",
+"t" : "EKC",
+"e" : "NSE",
+"l" : "55.50",
+"c" : "+2.75",
+"mc" : "6.20B",
+"cp" : "5.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10144511",
+"name" : "Ut Ltd",
+"t" : "526879",
+"e" : "BOM",
+"l" : "6.57",
+"c" : "0.00",
+"mc" : "58.08M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16541201",
+"name" : "Minda Industries Ltd",
+"t" : "MINDAIND",
+"e" : "NSE",
+"l" : "1,122.00",
+"c" : "+17.70",
+"mc" : "97.07B",
+"cp" : "1.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "707721",
+"name" : "Eimco Elecon Ltd.",
+"t" : "EIMCOELECO",
+"e" : "NSE",
+"l" : "486.00",
+"c" : "-6.35",
+"mc" : "2.79B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15111055",
+"name" : "Magna Electro Castings Ltd",
+"t" : "517449",
+"e" : "BOM",
+"l" : "180.00",
+"c" : "-0.35",
+"mc" : "831.02M",
+"cp" : "-0.19",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "POST BOX No 16, Whitefield Road, BANGALORE, 560066, India",
+"phone": "+91-80-28457893",
+"fax": "+91-80-28452261",
+"url": "http:\u002F\u002Fwww.yukenindia.com\u002F",
+"overview" : "Yuken India Limited provides solutions for hydraulic applications. The Company\u0027s segments include Hydraulic and Other. Its product range includes pumps, such as piston pumps, vane pumps and gear pumps\u003B valves, such as pressure tools, flow controls, directional controls, mobile controls, modular controls, logic valves and proportional valves\u003B kiriko-automatic shaving compactor\u003B actuators, such as hydraulic cylinder\u003B accumulator\u003B hydraulic power units\u003B accessories and power saving products. Its products also include Electric Motor Variable Vane Pump Combination, Manual Operated Stop Valve, Pilot Operated Check Modular Valve, Throttle \u0026 check Modular Valve, 04 Series Modular Valve and Direct Operated Pressure Relief Valve. Its products have applications in various industries, including hydroelectric power generation, thermal power, wind, solar, steel mills, machine tools, plastics, marine, construction and heavy engineering. It offers hydraulics training through Yuken Hydraulic School."
+} ]
+, "management" : [
+{
+"name" : "Hideharu Nagahisa",
+"title" : "Additional Chairman of the Board"
+}
+,
+{
+"name" : "Subramanya Ullal",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "H. M. Narasinga Rao",
+"title" : "Chief Financial Officer, Chief Compliance Officer, Vice President - Finance"
+}
+,
+{
+"name" : "Vinayak S. Hegde",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "C. P. Rangachar",
+"title" : "Managing Director, Non Independent Executive Director"
+}
+,
+{
+"name" : "Koichi Oba",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Vidya Rangachar",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Yasuhiro Mukaide",
+"age" : "73",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "N. S. Mohanram",
+"age" : "78",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : ".. Premchander",
+"age" : "60",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

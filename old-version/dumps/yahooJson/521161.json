@@ -1,0 +1,213 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 42119592,
+            "fmt": "42.12M",
+            "longFmt": "42,119,592"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.05509,
+            "fmt": "-5.51%"
+          },
+          "floatShares": {
+            "raw": 1049806,
+            "fmt": "1.05M",
+            "longFmt": "1,049,806"
+          },
+          "sharesOutstanding": {
+            "raw": 3332750,
+            "fmt": "3.33M",
+            "longFmt": "3,332,750"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.399666,
+            "fmt": "0.4"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 24.646,
+            "fmt": "24.65"
+          },
+          "priceToBook": {
+            "raw": 0.5599286,
+            "fmt": "0.56"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -55753336,
+            "fmt": "-55.75M",
+            "longFmt": "-55,753,336"
+          },
+          "trailingEps": {
+            "raw": -16.723,
+            "fmt": "-16.72"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.042,
+            "fmt": "0.04"
+          },
+          "enterpriseToEbitda": {
+            "raw": -1.725,
+            "fmt": "-1.73"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "16, Krishnama Road",
+          "address2": "Nungambakkam",
+          "city": "Chennai",
+          "zip": "600034",
+          "country": "India",
+          "phone": "91 44 2822 3132",
+          "fax": "91 44 2826 0950",
+          "website": "http://www.slstindia.com",
+          "industry": "Textile Industrial",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Sri Lakshmi Saraswathi Textiles (Arni) Limited produces and sells cotton and polycotton yarns in India. Its products include cotton, polyester cotton, and open end yarns. The company also exports its products to Belgium, France, Finland, Germany, Italy, Portugal, Spain, Switzerland, Hong Kong, the Czech Republic, and the United States, Bahrain, Cyprus, Morocco, and other countries. The company was incorporated in 1964 and is based in Chennai, India.",
+          "fullTimeEmployees": 919,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 13.8,
+            "fmt": "13.80"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 33405000,
+            "fmt": "33.41M",
+            "longFmt": "33,405,000"
+          },
+          "totalCashPerShare": {
+            "raw": 10.037,
+            "fmt": "10.04"
+          },
+          "ebitda": {
+            "raw": -24414170,
+            "fmt": "-24.41M",
+            "longFmt": "-24,414,170"
+          },
+          "totalDebt": {
+            "raw": 9296000,
+            "fmt": "9.3M",
+            "longFmt": "9,296,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 1012012032,
+            "fmt": "1.01B",
+            "longFmt": "1,012,012,032"
+          },
+          "debtToEquity": {
+            "raw": 11.316,
+            "fmt": "11.32"
+          },
+          "revenuePerShare": {
+            "raw": 303.545,
+            "fmt": "303.55"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 316394868,
+            "fmt": "316.39M",
+            "longFmt": "316,394,868"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.196,
+            "fmt": "19.60%"
+          },
+          "grossMargins": {
+            "raw": 0.30718002,
+            "fmt": "30.72%"
+          },
+          "ebitdaMargins": {
+            "raw": -0.02412,
+            "fmt": "-2.41%"
+          },
+          "operatingMargins": {
+            "raw": -0.036849998,
+            "fmt": "-3.68%"
+          },
+          "profitMargins": {
+            "raw": -0.05509,
+            "fmt": "-5.51%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

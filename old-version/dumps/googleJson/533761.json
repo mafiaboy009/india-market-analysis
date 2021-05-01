@@ -1,0 +1,286 @@
+
+ [
+{
+"symbol" : "533761",
+"exchange" : "BOM",
+"id": "552834952369629",
+"t" : "533761",
+"e" : "BOM",
+"name" : "GPT Infraprojects"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GPTI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533761"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533761"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533761"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.95%",
+"annual" : "3.11%",
+"ttm" : "4.15%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.32%",
+"annual" : "9.79%",
+"ttm" : "9.73%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.31%",
+"ttm" : "13.92%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.54%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.84%",
+"ttm" : ""
+}
+]
+, "c" : "+2.65",
+"l" : "180.00",
+"cp" : "1.49",
+"ccol" : "chg",
+"op" : "180.25",
+"hi" : "183.10",
+"lo" : "179.00",
+"vo" : "14,365.00",
+"avvo" : "",
+"hi52" : "247.25",
+"lo52" : "101.30",
+"mc" : "5.23B",
+"pe" : "26.28",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.85",
+"dy" : "1.11",
+"ldiv" : "1.00",
+"shares" : "29.09M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "552834952369629",
+"name" : "GPT Infraprojects",
+"t" : "533761",
+"e" : "BOM",
+"l" : "180.00",
+"c" : "+2.65",
+"mc" : "5.23B",
+"cp" : "1.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9179965",
+"name" : "Jog Engineering Ltd",
+"t" : "507942",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "2042500",
+"name" : "Larsen \u0026 Toubro Limited",
+"t" : "LT",
+"e" : "NSE",
+"l" : "1,344.00",
+"c" : "+42.30",
+"mc" : "1.88T",
+"cp" : "3.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9676982",
+"name" : "Scope Industries (India) Limited",
+"t" : "531886",
+"e" : "BOM",
+"l" : "1.52",
+"c" : "0.00",
+"mc" : "16.63M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13797730",
+"name" : "J Kumar Infraprojects Ltd",
+"t" : "JKIL",
+"e" : "NSE",
+"l" : "326.50",
+"c" : "-7.40",
+"mc" : "24.62B",
+"cp" : "-2.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "502675419103617",
+"name" : "CMM Infraprojects Ltd",
+"t" : "CMMINFRA",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "729021",
+"name" : "Niraj Cement Structurals Ltd.",
+"t" : "532986",
+"e" : "BOM",
+"l" : "29.55",
+"c" : "-0.90",
+"mc" : "438.25M",
+"cp" : "-2.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10219186",
+"name" : "Tantia Constructions Limited",
+"t" : "TANTIACONS",
+"e" : "NSE",
+"l" : "15.30",
+"c" : "-0.55",
+"mc" : "439.75M",
+"cp" : "-3.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "142092",
+"name" : "Simplex Projects Ltd",
+"t" : "SIMPLEX",
+"e" : "NSE",
+"l" : "29.80",
+"c" : "-0.90",
+"mc" : "375.49M",
+"cp" : "-2.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1996623",
+"name" : "Bhagheeratha Engineering Ltd",
+"t" : "522136",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-12.15",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16542269",
+"name" : "Punj Lloyd Limited",
+"t" : "PUNJLLOYD",
+"e" : "NSE",
+"l" : "20.45",
+"c" : "-0.20",
+"mc" : "6.85B",
+"cp" : "-0.97",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "JC - 25, Sector - III, Salt Lake, KOLKATA, 700098, India",
+"phone": "+91-33-40507000",
+"fax": "+91-33-40507999",
+"url": "http:\u002F\u002Fwww.gptinfra.in\u002F",
+"overview" : "GPT Infraprojects Limited is an infrastructure company. The Company is engaged in the manufacturing of concrete sleepers and allied. It is also engaged in the fabrication of steel bridges. The Company\u0027s segments include Concrete Sleepers and Allied, which consists of manufacturing of concrete sleepers, supply of plant and machinery and components for manufacturing of concrete sleepers, and Infrastructure, which consists of execution of construction contracts and other infrastructure activities. It manufactures a range of monoblock and pre-stressed concrete (PSC) sleepers for varied track applications, such as Line sleepers, Bridge deck sleepers, and level crossing and switch expansion joint. It can offer a range of solutions for road and railway infrastructure, including planning, design, construction and maintenance. The Company primarily operates in India. It has its manufacturing unit at Panagarh (India), Tsumeb (Namibia) and Ladysmith (South Africa)."
+} ]
+, "management" : [
+{
+"name" : "Dwarika P Tantia",
+"title" : "Chairman"
+}
+,
+{
+"name" : "Arun K Dokania",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Vaibhav Tantia",
+"title" : "Chief Operating Officer, Whole-time Director"
+}
+,
+{
+"name" : "Shanti L Choraria",
+"title" : "Vice President"
+}
+,
+{
+"name" : "Gopa S Tantia",
+"title" : "Managing Director"
+}
+,
+{
+"name" : "Om Tantia",
+"title" : "Managing Director"
+}
+,
+{
+"name" : "Mrinal K Das",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Atul Tantia",
+"title" : "Director - Operations, Executive Director"
+}
+,
+{
+"name" : "Mamta Binani",
+"title" : "Director"
+}
+,
+{
+"name" : "Viswa N Purohit",
+"title" : "Director"
+}
+]
+,"moreresources" : [
+]
+}]

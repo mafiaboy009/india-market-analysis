@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "532714",
+"exchange" : "BOM",
+"id": "677573",
+"t" : "532714",
+"e" : "BOM",
+"name" : "KEC International Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532714"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532714"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532714"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.65%",
+"annual" : "3.48%",
+"ttm" : "4.40%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.02%",
+"annual" : "8.29%",
+"ttm" : "8.74%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.77%",
+"ttm" : "10.06%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.46%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "21.19%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5,496",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+27.65",
+"l" : "428.40",
+"cp" : "6.90",
+"ccol" : "chg",
+"op" : "396.00",
+"hi" : "437.95",
+"lo" : "387.70",
+"vo" : "372,322.00",
+"avvo" : "",
+"hi52" : "437.95",
+"lo52" : "160.00",
+"mc" : "110.22B",
+"pe" : "26.88",
+"fwpe" : "",
+"beta" : "",
+"eps" : "15.94",
+"dy" : "0.37",
+"ldiv" : "1.60",
+"shares" : "257.10M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677573",
+"name" : "KEC International Ltd",
+"t" : "532714",
+"e" : "BOM",
+"l" : "428.40",
+"c" : "+27.65",
+"mc" : "110.22B",
+"cp" : "6.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9964748",
+"name" : "Jyoti Structures Limited",
+"t" : "JYOTISTRUC",
+"e" : "NSE",
+"l" : "10.75",
+"c" : "+0.50",
+"mc" : "1.17B",
+"cp" : "4.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10762689",
+"name" : "Expo Gas Containers Ltd",
+"t" : "526614",
+"e" : "BOM",
+"l" : "11.00",
+"c" : "+0.01",
+"mc" : "209.40M",
+"cp" : "0.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15284677",
+"name" : "Kalpataru Power Transmission Limited",
+"t" : "KALPATPOWR",
+"e" : "NSE",
+"l" : "483.00",
+"c" : "+22.35",
+"mc" : "73.82B",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9747293",
+"name" : "Mukand Engineers Limited",
+"t" : "MUKANDENGG",
+"e" : "NSE",
+"l" : "42.75",
+"c" : "+0.90",
+"mc" : "538.11M",
+"cp" : "2.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "28179114825360",
+"name" : "Sharika Enterprises Ltd",
+"t" : "540786",
+"e" : "BOM",
+"l" : "55.25",
+"c" : "+3.75",
+"mc" : "598.08M",
+"cp" : "7.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15759472",
+"name" : "ICSA (India) Ltd",
+"t" : "ICSA",
+"e" : "NSE",
+"l" : "3.45",
+"c" : "+0.15",
+"mc" : "166.08M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "631678",
+"name" : "Technofab Engineering",
+"t" : "TECHNOFAB",
+"e" : "NSE",
+"l" : "235.00",
+"c" : "+4.90",
+"mc" : "2.46B",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "730951",
+"name" : "BS Ltd",
+"t" : "BSLIMITED",
+"e" : "NSE",
+"l" : "1.30",
+"c" : "+0.05",
+"mc" : "552.10M",
+"cp" : "4.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "189075724368911",
+"name" : "Tarini International Ltd",
+"t" : "538496",
+"e" : "BOM",
+"l" : "29.90",
+"c" : "0.00",
+"mc" : "388.64M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715522",
+"name" : "Techno Electric \u0026 Engineering. Co., Ltd.",
+"t" : "TECHNO",
+"e" : "NSE",
+"l" : "367.00",
+"c" : "+7.60",
+"mc" : "41.29B",
+"cp" : "2.11",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "RPG House 463, Dr. Annie Besant Road, Worli, MUMBAI, 400030, India",
+"phone": "+91-22-66670200",
+"fax": "+91-22-66670287",
+"url": "http:\u002F\u002Fwww.kecrpg.com\u002F",
+"overview" : "KEC International Limited is engaged in the construction of utility projects. Its geographical segments include India and Outside India. Its Power Transmission and Distribution business includes providing end-to-end solutions in power transmission and distribution. Its Cables service offerings include extra-high voltage (EHV) cabling solutions provided through Cable Selection and Cabling System, and manufacturing of a range of power (high tension and EHV cables), control, telecommunication and instrumentation cables. It offers services in all the functional segments of railways infrastructure, including construction of civil infrastructure, including bridges, tunnels, platforms, station buildings, along with workshop modernization. Its water services include waste water treatment, including treatment of sewage and industrial effluent, and water resource management, including building of canals, construction of dams and water system, and civil works related to thermal power projects."
+} ]
+, "management" : [
+{
+"name" : "Vimal Kejriwal",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Rajeev Aggarwal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rakesh Amol",
+"title" : "President - Infrastructure \u0026 Cables"
+}
+,
+{
+"name" : "Gustavo Cedeno",
+"title" : "Chief Executive Officer - SAE Towers"
+}
+,
+{
+"name" : "Rakesh Gaur",
+"title" : "Chief Executive - Railways"
+}
+,
+{
+"name" : "Neeraj Nanda",
+"title" : "President South Asia - Transmission \u0026 Distribution and Solar"
+}
+,
+{
+"name" : "Randeep Narang",
+"title" : "President - International (Transmission \u0026 Distribution)"
+}
+,
+{
+"name" : "Ch. V. Jagannadha Rao",
+"title" : "Vice President - Legal, Company Secretary"
+}
+,
+{
+"name" : "Anand Kulkarni",
+"title" : "Executive Director - Business Operations"
+}
+,
+{
+"name" : "Vasudevan Narasimha",
+"title" : "Executive Director - Human Resource"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "524598",
+"exchange" : "BOM",
+"id": "12487422",
+"t" : "524598",
+"e" : "BOM",
+"name" : "Aksharchem (India) Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=AKSH.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524598"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524598"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524598"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.12%",
+"annual" : "20.00%",
+"ttm" : "13.55%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.89%",
+"annual" : "28.82%",
+"ttm" : "13.96%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "30.62%",
+"ttm" : "16.07%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "28.32%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "47.45%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "105",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+4.75",
+"l" : "635.00",
+"cp" : "0.75",
+"ccol" : "chg",
+"op" : "621.05",
+"hi" : "637.50",
+"lo" : "621.05",
+"vo" : "1,054.00",
+"avvo" : "",
+"hi52" : "941.95",
+"lo52" : "608.55",
+"mc" : "5.21B",
+"pe" : "15.12",
+"fwpe" : "",
+"beta" : "",
+"eps" : "41.99",
+"dy" : "",
+"ldiv" : "",
+"shares" : "8.20M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12487422",
+"name" : "Aksharchem (India) Ltd",
+"t" : "524598",
+"e" : "BOM",
+"l" : "635.00",
+"c" : "+4.75",
+"mc" : "5.21B",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715857",
+"name" : "Shreyas Intermediates Limited",
+"t" : "526335",
+"e" : "BOM",
+"l" : "8.63",
+"c" : "-0.45",
+"mc" : "138.98M",
+"cp" : "-4.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15731547",
+"name" : "Camex Ltd",
+"t" : "524440",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "-0.35",
+"mc" : "408.35M",
+"cp" : "-0.87",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6107229",
+"name" : "Vipul Organics Ltd",
+"t" : "530627",
+"e" : "BOM",
+"l" : "176.50",
+"c" : "+1.70",
+"mc" : "1.36B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1990895",
+"name" : "Bhageria Industries Ltd",
+"t" : "530803",
+"e" : "BOM",
+"l" : "304.00",
+"c" : "+9.25",
+"mc" : "4.86B",
+"cp" : "3.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5182651",
+"name" : "Dynamic Industries Ltd",
+"t" : "524818",
+"e" : "BOM",
+"l" : "89.10",
+"c" : "-0.75",
+"mc" : "263.68M",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "701929",
+"name" : "Dynemic Products Ltd.",
+"t" : "532707",
+"e" : "BOM",
+"l" : "200.00",
+"c" : "-2.00",
+"mc" : "1.42B",
+"cp" : "-0.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11369691",
+"name" : "Indokem Ltd",
+"t" : "504092",
+"e" : "BOM",
+"l" : "26.05",
+"c" : "-1.15",
+"mc" : "142.17M",
+"cp" : "-4.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "55205",
+"name" : "Poddar Pigments Ltd",
+"t" : "524570",
+"e" : "BOM",
+"l" : "283.60",
+"c" : "+1.60",
+"mc" : "3.02B",
+"cp" : "0.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9418577",
+"name" : "Bagadia Colourchem Ltd",
+"t" : "530197",
+"e" : "BOM",
+"l" : "13.99",
+"c" : "0.00",
+"mc" : "51.62M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16167550",
+"name" : "Asahi Songwon Colors Limited",
+"t" : "ASAHISONG",
+"e" : "NSE",
+"l" : "348.70",
+"c" : "-4.30",
+"mc" : "4.28B",
+"cp" : "-1.22",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "166\u002F169 Village Indrad, Kadi-Kalol Road,, MEHSANA, 382715, India",
+"phone": "+91-2764-233007",
+"fax": "+91-2764-233020",
+"overview" : "AksharChem (India) Limited is an India-based company, which is engaged in the business of manufacturing and export of dyes and pigments. The Company\u0027s products include Vinyl Sulphone and copper phthalocyanine (CPC) Green. The Company\u0027s Vinyl Sulphone is the raw material for reactive dyes used in textile business. The Company\u0027s CPC Green is a raw material for the industries, such as printing inks, paints, rubber, plastics and leather. The Company exports its products to various locations, such as the Far East, Europe, South East Asia, North America and South America. The Company has operations in over 20 countries. The Company\u0027s plant is located at Mehsana, Gujarat. The Company\u0027s subsidiary is Akshar Pigments Private Limited."
+} ]
+, "management" : [
+{
+"name" : "Paru M Jaykrishna",
+"age" : "69",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Meet J. Joshi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Munjal M. Jaykrishna",
+"age" : "45",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Gautam M. Jain",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Gokul M. Jaykrishna",
+"age" : "46",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Pradeep Jha",
+"age" : "67",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Kiran J. Mehta",
+"age" : "59",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Jigar Mukesh Patel",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

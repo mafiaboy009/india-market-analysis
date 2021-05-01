@@ -1,0 +1,383 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 6843771904,
+            "fmt": "6.84B",
+            "longFmt": "6,843,771,904"
+          },
+          "forwardPE": {
+            "raw": 33.25751,
+            "fmt": "33.26"
+          },
+          "profitMargins": {
+            "raw": 0.030269999,
+            "fmt": "3.03%"
+          },
+          "floatShares": {
+            "raw": 2608568,
+            "fmt": "2.61M",
+            "longFmt": "2,608,568"
+          },
+          "sharesOutstanding": {
+            "raw": 14786000,
+            "fmt": "14.79M",
+            "longFmt": "14,786,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.316177,
+            "fmt": "0.32"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 77.991,
+            "fmt": "77.99"
+          },
+          "priceToBook": {
+            "raw": 4.967881,
+            "fmt": "4.97"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.151,
+            "fmt": "-15.10%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 102815000,
+            "fmt": "102.81M",
+            "longFmt": "102,815,000"
+          },
+          "trailingEps": {
+            "raw": 6.964,
+            "fmt": "6.96"
+          },
+          "forwardEps": {
+            "raw": 11.65,
+            "fmt": "11.65"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 2.015,
+            "fmt": "2.02"
+          },
+          "enterpriseToEbitda": {
+            "raw": 26.037,
+            "fmt": "26.04"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2016",
+                "actual": {
+                  "raw": 2.79,
+                  "fmt": "2.79"
+                },
+                "estimate": {
+                  "raw": 3.54,
+                  "fmt": "3.54"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 0.36,
+                  "fmt": "0.36"
+                },
+                "estimate": {
+                  "raw": 3.2,
+                  "fmt": "3.20"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "3Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 3140397000,
+                  "fmt": "3.14B",
+                  "longFmt": "3,140,397,000"
+                },
+                "earnings": {
+                  "raw": 115089000,
+                  "fmt": "115.09M",
+                  "longFmt": "115,089,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 3169349000,
+                  "fmt": "3.17B",
+                  "longFmt": "3,169,349,000"
+                },
+                "earnings": {
+                  "raw": 143241000,
+                  "fmt": "143.24M",
+                  "longFmt": "143,241,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 3438339000,
+                  "fmt": "3.44B",
+                  "longFmt": "3,438,339,000"
+                },
+                "earnings": {
+                  "raw": 183200000,
+                  "fmt": "183.2M",
+                  "longFmt": "183,200,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 3596660000,
+                  "fmt": "3.6B",
+                  "longFmt": "3,596,660,000"
+                },
+                "earnings": {
+                  "raw": 171694000,
+                  "fmt": "171.69M",
+                  "longFmt": "171,694,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 1037651000,
+                  "fmt": "1.04B",
+                  "longFmt": "1,037,651,000"
+                },
+                "earnings": {
+                  "raw": 56279000,
+                  "fmt": "56.28M",
+                  "longFmt": "56,279,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 674929000,
+                  "fmt": "674.93M",
+                  "longFmt": "674,929,000"
+                },
+                "earnings": {
+                  "raw": 5329000,
+                  "fmt": "5.33M",
+                  "longFmt": "5,329,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 786664000,
+                  "fmt": "786.66M",
+                  "longFmt": "786,664,000"
+                },
+                "earnings": {
+                  "raw": 16228000,
+                  "fmt": "16.23M",
+                  "longFmt": "16,228,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 823801000,
+                  "fmt": "823.8M",
+                  "longFmt": "823,801,000"
+                },
+                "earnings": {
+                  "raw": 25690000,
+                  "fmt": "25.69M",
+                  "longFmt": "25,690,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Satyam Towers",
+          "address2": "3, Alipore Road",
+          "city": "Kolkata",
+          "zip": "700027",
+          "country": "India",
+          "phone": "91 33 3041 2100",
+          "fax": "91 33 2479 0253",
+          "website": "http://www.lincpen.com",
+          "industry": "Business Equipment",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Linc Pen & Plastics Limited manufactures and markets writing instruments and stationery products in India. The company offers gel, ball, retractable ball, stick, and fountain pens; stationery products, including pens wallet packs, OHP markers, whiteboard markers, erasers, sharpeners, pencils, geo boxes, rulers, gum sticks, and mathematical instrument boxes; notebooks; zipper bags, zipper bag checks, expanding files, snap envelops, and collection pockets; and T-shirts and caps, chain bags, umbrellas, carton type products, poly bags, writing pads, hand towels, pen stands, danglers, posters, beat stickers, key chains, and foam banners. It also distributes and markets Uniball products. The company also exports its products to approximately 50 countries under the Linc brand. Linc Pen & Plastics Limited was founded in 1976 and is headquartered in Kolkata, India.",
+          "fullTimeEmployees": 708,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 387.45,
+            "fmt": "387.45"
+          },
+          "targetHighPrice": {
+            "raw": 480.0,
+            "fmt": "480.00"
+          },
+          "targetLowPrice": {
+            "raw": 480.0,
+            "fmt": "480.00"
+          },
+          "targetMeanPrice": {
+            "raw": 480.0,
+            "fmt": "480.00"
+          },
+          "targetMedianPrice": {
+            "raw": 480.0,
+            "fmt": "480.00"
+          },
+          "recommendationMean": {
+            "raw": 3.0,
+            "fmt": "3.00"
+          },
+          "recommendationKey": "hold",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 3761000,
+            "fmt": "3.76M",
+            "longFmt": "3,761,000"
+          },
+          "totalCashPerShare": {
+            "raw": 0.255,
+            "fmt": "0.25"
+          },
+          "ebitda": {
+            "raw": 262852256,
+            "fmt": "262.85M",
+            "longFmt": "262,852,256"
+          },
+          "totalDebt": {
+            "raw": 620660992,
+            "fmt": "620.66M",
+            "longFmt": "620,660,992"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 3396645888,
+            "fmt": "3.4B",
+            "longFmt": "3,396,645,888"
+          },
+          "debtToEquity": {
+            "raw": 53.943,
+            "fmt": "53.94"
+          },
+          "revenuePerShare": {
+            "raw": 230.052,
+            "fmt": "230.05"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 1271880000,
+            "fmt": "1.27B",
+            "longFmt": "1,271,880,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.151,
+            "fmt": "-15.10%"
+          },
+          "revenueGrowth": {
+            "raw": 0.006,
+            "fmt": "0.60%"
+          },
+          "grossMargins": {
+            "raw": 0.35446998,
+            "fmt": "35.45%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.07739,
+            "fmt": "7.74%"
+          },
+          "operatingMargins": {
+            "raw": 0.04976,
+            "fmt": "4.98%"
+          },
+          "profitMargins": {
+            "raw": 0.030269999,
+            "fmt": "3.03%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

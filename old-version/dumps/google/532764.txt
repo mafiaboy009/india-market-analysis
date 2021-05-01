@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "532764",
+"exchange" : "BOM",
+"id": "709625",
+"t" : "532764",
+"e" : "BOM",
+"name" : "GeeCee Ventures Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532764"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532764"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532764"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002710)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.08%",
+"annual" : "33.41%",
+"ttm" : "2.45%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-0.35%",
+"annual" : "32.86%",
+"ttm" : "2.55%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "35.04%",
+"ttm" : "4.26%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.01%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.08%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "28",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.45",
+"l" : "145.00",
+"cp" : "0.31",
+"ccol" : "chg",
+"op" : "145.00",
+"hi" : "147.00",
+"lo" : "145.00",
+"vo" : "929.00",
+"avvo" : "",
+"hi52" : "193.80",
+"lo52" : "106.75",
+"mc" : "3.15B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-16.01",
+"dy" : "",
+"ldiv" : "1.50",
+"shares" : "21.73M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "709625",
+"name" : "GeeCee Ventures Limited",
+"t" : "532764",
+"e" : "BOM",
+"l" : "145.00",
+"c" : "+0.45",
+"mc" : "3.15B",
+"cp" : "0.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715237",
+"name" : "Consolidated Finvest \u0026 Holdings Limited",
+"t" : "CONSOFINVT",
+"e" : "NSE",
+"l" : "73.35",
+"c" : "+1.55",
+"mc" : "2.39B",
+"cp" : "2.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "104123883389788",
+"name" : "A F Enterprises Ltd",
+"t" : "538351",
+"e" : "BOM",
+"l" : "4.21",
+"c" : "0.00",
+"mc" : "16.84M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3520231",
+"name" : "Pan India Corp Ltd",
+"t" : "511525",
+"e" : "BOM",
+"l" : "0.19",
+"c" : "0.00",
+"mc" : "40.71M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "569885212376531",
+"name" : "Jindal Poly Investment \u0026 Finance Co Ltd",
+"t" : "JPOLYINVST",
+"e" : "NSE",
+"l" : "63.15",
+"c" : "+0.40",
+"mc" : "669.70M",
+"cp" : "0.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1772375",
+"name" : "STEL Holdings Ltd",
+"t" : "STEL",
+"e" : "NSE",
+"l" : "106.00",
+"c" : "+0.95",
+"mc" : "1.98B",
+"cp" : "0.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11504124",
+"name" : "Noble Explochem Ltd",
+"t" : "506991",
+"e" : "BOM",
+"l" : "4.90",
+"c" : "0.00",
+"mc" : "94.22M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8064029",
+"name" : "Shricon Industries Ltd",
+"t" : "508961",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "0.00",
+"mc" : "49.60M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "715531",
+"name" : "Oscar Investments Ltd.",
+"t" : "501179",
+"e" : "BOM",
+"l" : "124.65",
+"c" : "-28.85",
+"mc" : "2.13B",
+"cp" : "-18.79",
+"ccol" : "chr"
+}
+,
+{
+"id" : "451613",
+"name" : "Global Infratech and Finance Ltd",
+"t" : "531463",
+"e" : "BOM",
+"l" : "80.05",
+"c" : "-1.60",
+"mc" : "2.10B",
+"cp" : "-1.96",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9480432",
+"name" : "Integrated Financial Services Ltd",
+"t" : "500212",
+"e" : "BOM",
+"l" : "37.90",
+"c" : "+1.80",
+"mc" : "227.40M",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "209-210 2ND FLOOR,ARCADIA BUILDING 195, NCPA MARG, NARIMAN POINT, MUMBAI, 400021, India",
+"phone": "+91-22-66708600",
+"fax": "+91-22-66708650",
+"url": "http:\u002F\u002Fwww.geeceeventures.com\u002F",
+"overview" : "GeeCee Ventures Limited (GeeCee Ventures) is an India-based holding company. The Company is engaged in the business of construction and development of real estate\u003B mobilization of capital, investing the funds of the Company in shares, stocks, debentures and other securities, and wind power generation. The Company operates through three segments: Real Estate, Investments \u002FFinancing and Wind Power Generation. The Company promotes the formation and mobilization of capital, to manage capital savings and investments. The Company is engaged in the development of Cloud 36 project, which is located at Ghansoli, Navi Mumbai. The Company is engaged in the development of affordable housing project at Karjat, Raigad District. The Company\u0027s subsidiaries include GCIL Finance Limited, GeeCee Logistics \u0026 Distributions Private Limited, GeeCee Business Private Limited, OldView Agriculture Private Limited, Neptune Farming Private Limited and Retold Farming Private Limited."
+} ]
+, "management" : [
+{
+"name" : "Vallabh Prasad Biyani",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Ashish Ranka",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Dipyanti Kanojia",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Gaurav Shyamsukha",
+"age" : "34",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Harisingh Shyamsukha",
+"age" : "64",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Vazhathara Vasudevan Sureshkumar",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Ashwin Kumar Kothari",
+"age" : "75",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Rohit A. Kothari",
+"age" : "37",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Neelam Nitin Sampat",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Rakesh Khanna",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

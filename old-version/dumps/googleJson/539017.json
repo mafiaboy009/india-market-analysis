@@ -1,0 +1,287 @@
+
+ [
+{
+"symbol" : "539017",
+"exchange" : "BOM",
+"id": "69987650553921",
+"t" : "539017",
+"e" : "BOM",
+"name" : "Akme Star Housing Finance Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=AKME.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539017"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539017"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539017"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "47.60%",
+"annual" : "41.34%",
+"ttm" : "47.99%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "58.15%",
+"annual" : "61.81%",
+"ttm" : "60.38%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "63.18%",
+"ttm" : "60.86%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.53%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.16%",
+"ttm" : ""
+}
+]
+, "c" : "-2.60",
+"l" : "110.50",
+"cp" : "-2.30",
+"ccol" : "chr",
+"op" : "121.00",
+"hi" : "121.00",
+"lo" : "108.65",
+"vo" : "2,037.00",
+"avvo" : "",
+"hi52" : "132.00",
+"lo52" : "34.00",
+"mc" : "1.31B",
+"pe" : "55.31",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.00",
+"dy" : "",
+"ldiv" : "",
+"shares" : "12.08M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "69987650553921",
+"name" : "Akme Star Housing Finance Ltd",
+"t" : "539017",
+"e" : "BOM",
+"l" : "110.50",
+"c" : "-2.60",
+"mc" : "1.31B",
+"cp" : "-2.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "683767871705564",
+"name" : "SRG Housing Finance Ltd",
+"t" : "534680",
+"e" : "BOM",
+"l" : "301.00",
+"c" : "-4.35",
+"mc" : "3.98B",
+"cp" : "-1.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1477704",
+"name" : "LIC Housing Finance Limited",
+"t" : "LICHSGFIN",
+"e" : "NSE",
+"l" : "516.15",
+"c" : "-1.50",
+"mc" : "260.38B",
+"cp" : "-0.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14573837",
+"name" : "IND Bank Housing Ltd",
+"t" : "523465",
+"e" : "BOM",
+"l" : "44.55",
+"c" : "-1.65",
+"mc" : "445.50M",
+"cp" : "-3.57",
+"ccol" : "chr"
+}
+,
+{
+"id" : "270560686392048",
+"name" : "Housing And Urban Development Corp Ltd",
+"t" : "HUDCO",
+"e" : "NSE",
+"l" : "79.10",
+"c" : "+0.30",
+"mc" : "157.55B",
+"cp" : "0.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "310734544955946",
+"name" : "PNB Housing Finance Ltd.",
+"t" : "PNBHOUSING",
+"e" : "NSE",
+"l" : "1,225.00",
+"c" : "+9.60",
+"mc" : "203.32B",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "787381",
+"name" : "Housing Development Finance Corp Ltd",
+"t" : "HDFC",
+"e" : "NSE",
+"l" : "1,842.00",
+"c" : "+17.80",
+"mc" : "2.95T",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "81569",
+"name" : "Indiabulls Financial Services Limited",
+"t" : "INDIABULLS",
+"e" : "NSE",
+"l" : "271.80",
+"c" : "0.00",
+"mc" : "84.92B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1705005",
+"name" : "TI Financial Holdings Ltd",
+"t" : "TIFIN",
+"e" : "NSE",
+"l" : "675.30",
+"c" : "+1.00",
+"mc" : "126.48B",
+"cp" : "0.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8456050",
+"name" : "Unisys Softwares and Holding Indus",
+"t" : "531831",
+"e" : "BOM",
+"l" : "22.90",
+"c" : "0.00",
+"mc" : "526.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16455919",
+"name" : "Cholamandalam Investment and Fin Co Ltd",
+"t" : "CHOLAFIN",
+"e" : "NSE",
+"l" : "1,438.00",
+"c" : "+22.40",
+"mc" : "223.74B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Akme Business Centre 4-5 Subcity Centre Savina Circle, UDAIPUR, 313002, India",
+"phone": "+91-294-2489501",
+"fax": "+91-294-2489501",
+"url": "http:\u002F\u002Fakmestarhousing.com\u002F",
+"overview" : "Akme Star Housing Finance Limited is a non-deposit-taking housing finance company, which is engaged in carrying out activities of housing finance companies. The Company operates in two business verticals: housing loan and non-housing loans. The Company provides loans for the purchase or construction of residential houses. Its loan products include home loan, mortgage loan and builder loan. The Company offers home loan for the purchase of flats and houses, renovation of existing units, extension of existing units and purchase of plot for construction of houses. It offers builder loan for the construction of residential flats. The Company is focused on providing financing products to the lower and middle-income (LMI) segments in India, primarily in Tier II and Tier III cities and towns."
+} ]
+, "management" : [
+{
+"name" : "Mohan Lal Nagda",
+"age" : "58",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Bhanwer Singh Kachhawaha",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ashish Jain",
+"age" : "45",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Nirmal Kumar Jain",
+"age" : "48",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Kalu Lal Jain",
+"age" : "44",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Paritosh Kothari",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Rajni Gehlot",
+"age" : "33",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rekha Jain",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Amrit Singh Rajpurohit",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

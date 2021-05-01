@@ -1,0 +1,295 @@
+
+// [
+{
+"symbol" : "590003",
+"exchange" : "BOM",
+"id": "677693",
+"t" : "590003",
+"e" : "BOM",
+"name" : "Karur Vysya Bank Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:590003"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:590003"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:590003"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.09%",
+"annual" : "21.22%",
+"ttm" : "16.23%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.27%",
+"annual" : "30.93%",
+"ttm" : "20.25%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "37.57%",
+"ttm" : "6.05%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.00%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.61%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "7,400",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.35",
+"l" : "110.40",
+"cp" : "0.32",
+"ccol" : "chg",
+"op" : "111.50",
+"hi" : "111.50",
+"lo" : "108.80",
+"vo" : "70,848.00",
+"avvo" : "",
+"hi52" : "161.20",
+"lo52" : "96.35",
+"mc" : "80.66B",
+"pe" : "14.18",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.79",
+"dy" : "2.19",
+"ldiv" : "2.42",
+"shares" : "726.64M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "677693",
+"name" : "Karur Vysya Bank Ltd",
+"t" : "590003",
+"e" : "BOM",
+"l" : "110.40",
+"c" : "+0.35",
+"mc" : "80.66B",
+"cp" : "0.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2465758",
+"name" : "ING Vysya Bank Ltd",
+"t" : "INGVYSYABK",
+"e" : "NSE",
+"l" : "1,027.20",
+"c" : "",
+"mc" : "197.19B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "15355585",
+"name" : "Andhra Bank",
+"t" : "ANDHRABANK",
+"e" : "NSE",
+"l" : "45.95",
+"c" : "+0.10",
+"mc" : "39.76B",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3473026",
+"name" : "Karnataka Bank Limited",
+"t" : "KTKBANK",
+"e" : "NSE",
+"l" : "135.60",
+"c" : "+2.15",
+"mc" : "38.25B",
+"cp" : "1.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14269401",
+"name" : "Syndicate Bank Ltd.",
+"t" : "SYNDIBANK",
+"e" : "NSE",
+"l" : "60.30",
+"c" : "-0.30",
+"mc" : "62.74B",
+"cp" : "-0.50",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4140132",
+"name" : "Vijaya Bank",
+"t" : "VIJAYABANK",
+"e" : "NSE",
+"l" : "57.10",
+"c" : "+0.10",
+"mc" : "63.04B",
+"cp" : "0.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678082",
+"name" : "Kotak Mahindra Bank Ltd",
+"t" : "KOTAKBANK",
+"e" : "NSE",
+"l" : "1,105.00",
+"c" : "+24.15",
+"mc" : "2.10T",
+"cp" : "2.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6038505",
+"name" : "Dhanlaxmi Bank Limited",
+"t" : "DHANBANK",
+"e" : "NSE",
+"l" : "22.85",
+"c" : "-0.25",
+"mc" : "5.78B",
+"cp" : "-1.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16345036",
+"name" : "ICICI Bank Ltd",
+"t" : "ICICIBANK",
+"e" : "NSE",
+"l" : "326.15",
+"c" : "+3.40",
+"mc" : "2.09T",
+"cp" : "1.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "333651",
+"name" : "Punjab National Bank",
+"t" : "PNB",
+"e" : "NSE",
+"l" : "111.90",
+"c" : "-1.55",
+"mc" : "271.30B",
+"cp" : "-1.37",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13082940",
+"name" : "HDFC Bank Limited",
+"t" : "HDFCBANK",
+"e" : "NSE",
+"l" : "1,912.50",
+"c" : "+31.95",
+"mc" : "4.97T",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Post Box No. 21, L.N.S. Post, Erode Road, KARUR, 639002, India",
+"phone": "+91-4324-226520",
+"fax": "+91-4324-225595",
+"url": "http:\u002F\u002Fwww.kvb.co.in\u002F",
+"overview" : "The Karur Vysya Bank Limited (the Bank) is an India-based banking company. The Bank is engaged in providing banking and financial services, including commercial banking and treasury operations. The Bank\u0027s business segments include Treasury, Corporate and Wholesale Banking, Retail Banking and Other Banking Operations. It offers Internet banking, mobile banking, cards, point of sale machines, transaction banking services, e-kiosks and para banking services. The Bank offers retail products, such as home loans, car loans and mortgage loans. It also offers products and services for corporate banking and forex business. Its Internet banking services provide real time gross settlement (RTGS) and national electronic funds transfer (NEFT) facilities, online payment of taxes and e-commerce facilities. It offers loan products, such as KVB Rice Plus, KVB Timber Plus, KVB Transport Plus and KVB Pharma Plus. The Bank has approximately 670 branches and over 1,650 automated teller machines (ATMs)."
+} ]
+, "management" : [
+{
+"name" : "K. Venkateswara Rao",
+"title" : "President, Chief Operating Officer"
+}
+,
+{
+"name" : "P R. Seshadri",
+"age" : "54",
+"title" : "Chief Executive Officer, Managing Director, Additional Director"
+}
+,
+{
+"name" : "T. Sivarama Prasad",
+"title" : "Chief Financial Officer, General Manager"
+}
+,
+{
+"name" : "K. Venkataraman",
+"age" : "61",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Srinivasa Rao Maddirala",
+"title" : "Assistant Company Secretary"
+}
+,
+{
+"name" : "B. Swaminathan",
+"age" : "67",
+"title" : "Non-Executive Part - Time Chairman of the Board"
+}
+,
+{
+"name" : "V. G. Mohan Prasad",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "K. S. Ravichandran",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "M. V. Srinivasamoorthi",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "A. K. Praburaj",
+"title" : "Additional Non-Executive Non-Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,216 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 434024000,
+            "fmt": "434.02M",
+            "longFmt": "434,024,000"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.051760003,
+            "fmt": "5.18%"
+          },
+          "floatShares": {
+            "raw": 4934994,
+            "fmt": "4.93M",
+            "longFmt": "4,934,994"
+          },
+          "sharesOutstanding": {
+            "raw": 14991000,
+            "fmt": "14.99M",
+            "longFmt": "14,991,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.446835,
+            "fmt": "-0.45"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 46.092,
+            "fmt": "46.09"
+          },
+          "priceToBook": {
+            "raw": 0.41438863,
+            "fmt": "0.41"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.011,
+            "fmt": "-1.10%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 30807000,
+            "fmt": "30.81M",
+            "longFmt": "30,807,000"
+          },
+          "trailingEps": {
+            "raw": 2.056,
+            "fmt": "2.06"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.729,
+            "fmt": "0.73"
+          },
+          "enterpriseToEbitda": {
+            "raw": 9.411,
+            "fmt": "9.41"
+          },
+          "52WeekChange": {
+            "raw": -0.25531918,
+            "fmt": "-25.53%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Sir R. N. M. House",
+          "address2": "4th Floor 3B, Lal Bazar Street",
+          "city": "Kolkata",
+          "zip": "700001",
+          "country": "India",
+          "phone": "91 33 2248 8672",
+          "fax": "91 33 2248 7571",
+          "website": "http://www.dianatea.in",
+          "industry": "Farm Products",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Diana Tea Company Limited cultivates, manufactures, and sells tea in India. It offers tea products in various forms, such as packet tea, bulk tea, and wooden keddies. The company was incorporated in 1911 and is based in Kolkata, India. Diana Tea Company Limited is a subsidiary of Diana Capital Limited.",
+          "fullTimeEmployees": 3647,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 19.1,
+            "fmt": "19.10"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 19561000,
+            "fmt": "19.56M",
+            "longFmt": "19,561,000"
+          },
+          "totalCashPerShare": {
+            "raw": 1.306,
+            "fmt": "1.31"
+          },
+          "ebitda": {
+            "raw": 46119100,
+            "fmt": "46.12M",
+            "longFmt": "46,119,100"
+          },
+          "totalDebt": {
+            "raw": 151036000,
+            "fmt": "151.04M",
+            "longFmt": "151,036,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 595233024,
+            "fmt": "595.23M",
+            "longFmt": "595,233,024"
+          },
+          "debtToEquity": {
+            "raw": 21.854,
+            "fmt": "21.85"
+          },
+          "revenuePerShare": {
+            "raw": 39.715,
+            "fmt": "39.72"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 487091000,
+            "fmt": "487.09M",
+            "longFmt": "487,091,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.009,
+            "fmt": "-0.90%"
+          },
+          "revenueGrowth": {
+            "raw": 0.138,
+            "fmt": "13.80%"
+          },
+          "grossMargins": {
+            "raw": 0.88467,
+            "fmt": "88.47%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.07748,
+            "fmt": "7.75%"
+          },
+          "operatingMargins": {
+            "raw": 0.057350002,
+            "fmt": "5.74%"
+          },
+          "profitMargins": {
+            "raw": 0.051760003,
+            "fmt": "5.18%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

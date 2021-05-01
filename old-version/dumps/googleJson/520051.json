@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "520051",
+"exchange" : "BOM",
+"id": "14829721",
+"t" : "520051",
+"e" : "BOM",
+"name" : "Jamna Auto Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:520051"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:520051"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:520051"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.75%",
+"annual" : "8.06%",
+"ttm" : "7.40%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.92%",
+"annual" : "10.80%",
+"ttm" : "10.57%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "14.47%",
+"ttm" : "12.94%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "20.09%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "36.39%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "956",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.15",
+"l" : "79.35",
+"cp" : "0.19",
+"ccol" : "chg",
+"op" : "80.40",
+"hi" : "80.80",
+"lo" : "79.30",
+"vo" : "251,235.00",
+"avvo" : "",
+"hi52" : "293.50",
+"lo52" : "51.70",
+"mc" : "31.52B",
+"pe" : "27.88",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.85",
+"dy" : "0.88",
+"ldiv" : "0.30",
+"shares" : "398.46M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "14829721",
+"name" : "Jamna Auto Industries Ltd",
+"t" : "520051",
+"e" : "BOM",
+"l" : "79.35",
+"c" : "+0.15",
+"mc" : "31.52B",
+"cp" : "0.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "459623",
+"name" : "Frontier Springs Ltd",
+"t" : "522195",
+"e" : "BOM",
+"l" : "184.00",
+"c" : "-3.65",
+"mc" : "723.34M",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2769878",
+"name" : "Coventry Coil-o-Matic (Haryana) Ltd",
+"t" : "523415",
+"e" : "BOM",
+"l" : "3.55",
+"c" : "0.00",
+"mc" : "16.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14428791",
+"name" : "Mahindra CIE Automotive Ltd",
+"t" : "MAHINDCIE",
+"e" : "NSE",
+"l" : "230.30",
+"c" : "+0.25",
+"mc" : "87.16B",
+"cp" : "0.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12678463",
+"name" : "Marmagoa Steel Ltd",
+"t" : "513355",
+"e" : "BOM",
+"l" : "1.83",
+"c" : "0.00",
+"mc" : "118.40M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15519942",
+"name" : "Vallabh Steels Ltd",
+"t" : "513397",
+"e" : "BOM",
+"l" : "29.95",
+"c" : "-1.55",
+"mc" : "148.25M",
+"cp" : "-4.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7597622",
+"name" : "Vardhman Industries Ltd",
+"t" : "513534",
+"e" : "BOM",
+"l" : "12.07",
+"c" : "-0.41",
+"mc" : "96.69M",
+"cp" : "-3.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1971031",
+"name" : "KEI Industries Limited",
+"t" : "KEI",
+"e" : "NSE",
+"l" : "383.00",
+"c" : "+9.60",
+"mc" : "30.05B",
+"cp" : "2.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1561382",
+"name" : "Rajratan Global Wire Ltd",
+"t" : "517522",
+"e" : "BOM",
+"l" : "584.00",
+"c" : "-1.55",
+"mc" : "2.52B",
+"cp" : "-0.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6782803",
+"name" : "Usha Martin Limited",
+"t" : "USHAMART",
+"e" : "NSE",
+"l" : "23.80",
+"c" : "+0.70",
+"mc" : "7.19B",
+"cp" : "3.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5683713",
+"name" : "Alchemist Ltd.",
+"t" : "ALCHEM",
+"e" : "NSE",
+"l" : "11.65",
+"c" : "-0.10",
+"mc" : "157.97M",
+"cp" : "-0.85",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "2, Park Lane, Kishangarh, Vasant Kunj, NEW DELHI, 110070, India",
+"phone": "+91-11-26896960",
+"fax": "+91-11-26893180",
+"url": "http:\u002F\u002Fwww.jaispring.com\u002F",
+"overview" : "Jamna Auto Industries Limited is engaged in providing automotive suspension solutions for commercial vehicles. The Company is engaged in the business of manufacturing and selling of parabolic and tapered leaf springs. The Company\u0027s products include Suspension Products, including Rear Air Suspension-Cow Horn Style\u003B Lift Axle-Steerable\u002FNon Steerable, and Bogie Suspension-Tandem Axle\u003B Multileaf Springs, and Parabolic Springs. The Company\u0027s Rear Air Suspension-Cow Horn Style features include upper v-link for lateral positioning, manageable axle thrust and pinion angle, and is designed to be serviceable using common tools. Its Lift Axle-Steerable\u002FNon Steerable features include auto load sensing system\u003B lift over ride in cab\u003B steer lock system, and reverse caster shocks. Its manufacturing plants are located in various areas, including Yamuna Nagar, Haryana\u003B Bhind, Madhya Pradesh\u003B Kharsawan, Jharkhand\u003B Krishnagiri, Tamil Nadu\u003B Pune, Maharashtra, and Sriperumbudur, Tamil Nadu."
+} ]
+, "management" : [
+{
+"name" : "Randeep Singh Jauhar",
+"title" : "Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Pankaj Gupta",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Pradeep Singh Jauhar",
+"age" : "50",
+"title" : "Chief Operating Officer, Executive Director"
+}
+,
+{
+"name" : "Praveen Lakhera",
+"title" : "Compliance Officer, Company Secretary \u0026 Head-Legal"
+}
+,
+{
+"name" : "Ashok Kumar Goyal",
+"title" : "Vice President and Head of Malanpur Plant"
+}
+,
+{
+"name" : "Shakti Goyal",
+"title" : "General Manager - Finance \u0026 Strategic Sourcing"
+}
+,
+{
+"name" : "S. P.S. Kohli",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Bhupinder Singh Jauhar",
+"age" : "80",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Payal Chawla",
+"title" : "Independent Woman Director"
+}
+,
+{
+"name" : "Rakesh Kalra",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

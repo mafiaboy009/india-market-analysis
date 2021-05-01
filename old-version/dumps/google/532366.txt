@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "532366",
+"exchange" : "BOM",
+"id": "715492",
+"t" : "532366",
+"e" : "BOM",
+"name" : "PNB Gilts Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532366"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532366"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532366"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-20.37%",
+"annual" : "33.40%",
+"ttm" : "10.20%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-31.37%",
+"annual" : "51.25%",
+"ttm" : "15.93%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "51.31%",
+"ttm" : "16.05%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.23%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "20.51%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "35",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.60",
+"l" : "38.30",
+"cp" : "7.28",
+"ccol" : "chg",
+"op" : "36.45",
+"hi" : "40.40",
+"lo" : "35.90",
+"vo" : "241,873.00",
+"avvo" : "",
+"hi52" : "60.00",
+"lo52" : "34.15",
+"mc" : "6.95B",
+"pe" : "18.42",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.08",
+"dy" : "6.53",
+"ldiv" : "2.50",
+"shares" : "180.01M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715492",
+"name" : "PNB Gilts Ltd.",
+"t" : "532366",
+"e" : "BOM",
+"l" : "38.30",
+"c" : "+2.60",
+"mc" : "6.95B",
+"cp" : "7.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "333651",
+"name" : "Punjab National Bank",
+"t" : "PNB",
+"e" : "NSE",
+"l" : "111.90",
+"c" : "-1.55",
+"mc" : "271.30B",
+"cp" : "-1.37",
+"ccol" : "chr"
+}
+,
+{
+"id" : "728727",
+"name" : "Lohia Securities Ltd.",
+"t" : "590082",
+"e" : "BOM",
+"l" : "52.30",
+"c" : "0.00",
+"mc" : "260.61M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13552477",
+"name" : "Religare Enterprises Limited",
+"t" : "RELIGARE",
+"e" : "NSE",
+"l" : "59.55",
+"c" : "+2.80",
+"mc" : "10.61B",
+"cp" : "4.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "717000",
+"name" : "Centrum Capital Ltd",
+"t" : "501150",
+"e" : "BOM",
+"l" : "64.20",
+"c" : "0.00",
+"mc" : "26.63B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16215470",
+"name" : "Aarya Global Shares and Securities Ltd",
+"t" : "531731",
+"e" : "BOM",
+"l" : "0.46",
+"c" : "0.00",
+"mc" : "9.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3851080",
+"name" : "Khandwala Securities Ltd",
+"t" : "KHANDSE",
+"e" : "NSE",
+"l" : "22.05",
+"c" : "-0.75",
+"mc" : "263.25M",
+"cp" : "-3.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722530",
+"name" : "Shardul Securities Limited",
+"t" : "512393",
+"e" : "BOM",
+"l" : "46.00",
+"c" : "0.00",
+"mc" : "787.80M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4566044",
+"name" : "Onelife Capital Advisors Ltd",
+"t" : "ONELIFECAP",
+"e" : "NSE",
+"l" : "24.80",
+"c" : "+0.15",
+"mc" : "331.33M",
+"cp" : "0.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6327012",
+"name" : "Industrial \u0026 Prudential Investment",
+"t" : "501298",
+"e" : "BOM",
+"l" : "1,250.00",
+"c" : "+0.05",
+"mc" : "2.18B",
+"cp" : "0.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14666911",
+"name" : "Almondz Global Securities Ltd",
+"t" : "ALMONDZ",
+"e" : "NSE",
+"l" : "26.35",
+"c" : "-1.00",
+"mc" : "685.83M",
+"cp" : "-3.66",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "5, Pnb Building, Parliament Street, NEW DELHI, 110001, India",
+"phone": "+91-11-23325759",
+"fax": "+91-11-23730537",
+"url": "http:\u002F\u002Fwww.pnbgilts.com\u002F",
+"overview" : "PNB Gilts Limited is engaged in dealing in government securities. The Company is engaged in the business of non-banking financial institution. The Company\u0027s segments include T-Bills\u002FCP\u002FCD, Corp. Bonds \u0026 Debentures, Govt. Securities, Derivatives, Fixed Deposits and Mutual Fund Comm. The Company is also engaged in the services of National Securities Depository Limited (NSDL), as an agency to provide remote e-voting facilities. As a dealer, the Company\u0027s primary activities include supporting government borrowing program through underwriting of government securities issuances and trading in a gamut of fixed income instruments, such as government securities, treasury bills, state development loans, corporate bonds, interest rate swaps, and various money market instruments, such as certificates of deposits and commercial papers. It also offers Gilts Investment Services, and Gilts Call and Inter Corporate Deposit (ICD) service, among others. It is a subsidiary of Punjab National Bank."
+} ]
+, "management" : [
+{
+"name" : "Sunita Gupta",
+"age" : "58",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Monika Kochar",
+"title" : "Compliance Officer, Company Secretary, Assistant Vice President"
+}
+,
+{
+"name" : "Shashi Kant Dubey",
+"age" : "63",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Usha Ananthasubramanian",
+"age" : "58",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Kunche Veeraj Brahmajee Rao",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Sunil Mehta",
+"title" : "Additional Non-Executive and Non-Independent Director"
+}
+,
+{
+"name" : "Rayaprolu Sambamoorthi Ramasubramaniam",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Kamal K. Gupta Ph.D.",
+"age" : "70",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

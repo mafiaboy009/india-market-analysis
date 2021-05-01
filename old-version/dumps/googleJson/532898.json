@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "532898",
+"exchange" : "BOM",
+"id": "715771",
+"t" : "532898",
+"e" : "BOM",
+"name" : "Power Grid Corporation of India Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532898"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532898"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532898"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002711)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "29.83%",
+"annual" : "28.71%",
+"ttm" : "31.03%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "56.21%",
+"annual" : "58.14%",
+"ttm" : "57.43%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "88.84%",
+"ttm" : "83.83%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.94%",
+"ttm" : "3.78%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "15.88%",
+"ttm" : "14.30%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "8,887",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+2.45",
+"l" : "195.70",
+"cp" : "1.27",
+"ccol" : "chg",
+"op" : "194.00",
+"hi" : "197.00",
+"lo" : "193.00",
+"vo" : "122,671.00",
+"avvo" : "",
+"hi52" : "226.40",
+"lo52" : "188.05",
+"mc" : "1.02T",
+"pe" : "31.92",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.13",
+"dy" : "2.96",
+"ldiv" : "2.45",
+"shares" : "5.23B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715771",
+"name" : "Power Grid Corporation of India Limited",
+"t" : "532898",
+"e" : "BOM",
+"l" : "195.70",
+"c" : "+2.45",
+"mc" : "1.02T",
+"cp" : "1.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15380646",
+"name" : "Nu Tek India Limited",
+"t" : "NUTEK",
+"e" : "NSE",
+"l" : "1.10",
+"c" : "0.00",
+"mc" : "162.58M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9928106",
+"name" : "ECE Industries Ltd",
+"t" : "ECEIND",
+"e" : "NSE",
+"l" : "362.85",
+"c" : "+10.80",
+"mc" : "2.65B",
+"cp" : "3.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6698190",
+"name" : "Bajaj Electricals Ltd",
+"t" : "BAJAJELEC",
+"e" : "NSE",
+"l" : "531.40",
+"c" : "+25.80",
+"mc" : "54.21B",
+"cp" : "5.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8331198",
+"name" : "Reliance Infrastructure Ltd",
+"t" : "RELINFRA",
+"e" : "NSE",
+"l" : "465.70",
+"c" : "+11.15",
+"mc" : "122.62B",
+"cp" : "2.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1334365",
+"name" : "GTL Limited",
+"t" : "GTL",
+"e" : "NSE",
+"l" : "13.10",
+"c" : "+0.10",
+"mc" : "2.06B",
+"cp" : "0.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "595279738366813",
+"name" : "HEC Infra Projects Ltd",
+"t" : "HECINFRA",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "715522",
+"name" : "Techno Electric \u0026 Engineering. Co., Ltd.",
+"t" : "TECHNO",
+"e" : "NSE",
+"l" : "367.00",
+"c" : "+7.60",
+"mc" : "41.29B",
+"cp" : "2.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8856663",
+"name" : "Diamond Power Infrastructure Ltd",
+"t" : "DIAPOWER",
+"e" : "NSE",
+"l" : "13.70",
+"c" : "0.00",
+"mc" : "3.70B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2289156",
+"name" : "Jaiprakash Power Ventures Limited",
+"t" : "JPPOWER",
+"e" : "NSE",
+"l" : "6.20",
+"c" : "-0.10",
+"mc" : "36.59B",
+"cp" : "-1.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6492243",
+"name" : "Adani Power Ltd",
+"t" : "ADANIPOWER",
+"e" : "NSE",
+"l" : "32.70",
+"c" : "+0.55",
+"mc" : "126.12B",
+"cp" : "1.71",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Saudamini Plot No.2, Sector 29, Near IFFCO Chowk, GURGAON, 122001, India",
+"phone": "+91-124-2822000",
+"fax": "+91-124-2571762",
+"url": "https:\u002F\u002Fwww.powergridindia.com\u002F",
+"overview" : "Power Grid Corporation of India Limited is a transmission company engaged in the power transmission business with responsibility for planning, implementation, operation and maintenance of Inter-State Transmission System and operation of National and Regional Load Dispatch Centers. The Company\u0027s segments include Transmission, Telecom and Consultancy. The Transmission segment includes extra high voltage\u002Fhigh voltage (EHV\u002FHV) networks and grid management. It also owns EHV alternating current (AC) and HV direct current (HVDC) sub-stations. The Consultancy segment includes planning, design, engineering, load dispatch, procurement management, operation and maintenance, financing and project management. The Telecom segment includes transmission infrastructure, enterprise services and topologies. It owns and operates over 129,350 circuit kilometers of EHV transmission lines. It has approximately 210 sub-stations. Its Smart Grid enables real time monitoring and control of power system."
+} ]
+, "management" : [
+{
+"name" : "I. S. Jha",
+"age" : "58",
+"title" : "Chairman of the Board, Managing Director, Director - Projects"
+}
+,
+{
+"name" : "Divya Tandon",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Rajesh Kumar",
+"title" : "General Manager - DMS"
+}
+,
+{
+"name" : "Anil Saberwal",
+"title" : "General Manager - POWERGRID Academy of Leadership(PAL)\u002FHRD"
+}
+,
+{
+"name" : "Ravi P. Singh",
+"age" : "57",
+"title" : "Director - Personnel, Whole Time Director"
+}
+,
+{
+"name" : "Sunil Agrawal",
+"title" : "Executive Director - LD\u0026C, CC"
+}
+,
+{
+"name" : "A. K. Arora",
+"title" : "Executive Director - Asset Management, CC"
+}
+,
+{
+"name" : "A. Chaudhary",
+"title" : "Executive Director - Commercial \u0026 Regulatory Cell"
+}
+,
+{
+"name" : "R. K. Chauhan",
+"title" : "Executive Director - Corporate Engg HVDC"
+}
+,
+{
+"name" : "Meenakshi Davar",
+"title" : "Executive Director - Human Resource, CC"
+}
+]
+,"moreresources" : [
+]
+}]

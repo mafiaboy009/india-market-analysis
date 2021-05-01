@@ -1,0 +1,287 @@
+
+// [
+{
+"symbol" : "540565",
+"exchange" : "BOM",
+"id": "471516779317357",
+"t" : "540565",
+"e" : "BOM",
+"name" : "India Grid Trust"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:540565"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:540565"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:540565"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "54.30%",
+"annual" : "-64.52%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "64.63%",
+"annual" : "12.25%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "93.70%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "7.08%",
+"annual" : "-7.51%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "9.58%",
+"annual" : "-358.51%",
+"ttm" : ""
+}
+]
+, "c" : "+0.44",
+"l" : "93.85",
+"cp" : "0.47",
+"ccol" : "chg",
+"op" : "94.00",
+"hi" : "94.00",
+"lo" : "93.80",
+"vo" : "45,927.00",
+"avvo" : "",
+"hi52" : "100.00",
+"lo52" : "90.51",
+"mc" : "26.67B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "6.99",
+"ldiv" : "2.89",
+"shares" : "270.20M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "471516779317357",
+"name" : "India Grid Trust",
+"t" : "540565",
+"e" : "BOM",
+"l" : "93.85",
+"c" : "+0.44",
+"mc" : "26.67B",
+"cp" : "0.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6524967",
+"name" : "HB Portfolio Ltd",
+"t" : "532333",
+"e" : "BOM",
+"l" : "37.05",
+"c" : "+1.75",
+"mc" : "444.32M",
+"cp" : "4.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4848133",
+"name" : "Maximaa System Ltd",
+"t" : "526538",
+"e" : "BOM",
+"l" : "7.07",
+"c" : "+0.76",
+"mc" : "361.08M",
+"cp" : "12.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4335471",
+"name" : "Apple Finance Ltd",
+"t" : "500014",
+"e" : "BOM",
+"l" : "3.30",
+"c" : "+0.12",
+"mc" : "185.47M",
+"cp" : "3.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12746359",
+"name" : "Ashirwad Capital Ltd",
+"t" : "512247",
+"e" : "BOM",
+"l" : "2.86",
+"c" : "+0.09",
+"mc" : "113.99M",
+"cp" : "3.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15417127",
+"name" : "Twentyfirst Century Management Srvcs Ltd",
+"t" : "526921",
+"e" : "BOM",
+"l" : "41.50",
+"c" : "-0.55",
+"mc" : "",
+"cp" : "-1.31",
+"ccol" : "chr"
+}
+,
+{
+"id" : "711333505706319",
+"name" : "Palash Securities Ltd",
+"t" : "PALASHSECU",
+"e" : "NSE",
+"l" : "73.95",
+"c" : "+2.30",
+"mc" : "739.73M",
+"cp" : "3.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "179887",
+"name" : "Vaarad Ventures Ltd",
+"t" : "532320",
+"e" : "BOM",
+"l" : "17.10",
+"c" : "0.00",
+"mc" : "4.27B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4930434",
+"name" : "Sindhu Trade Links Ltd",
+"t" : "532029",
+"e" : "BOM",
+"l" : "50.05",
+"c" : "0.00",
+"mc" : "2.57B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10126546",
+"name" : "Kirloskar Brothers Investments Ltd",
+"t" : "KBIL",
+"e" : "NSE",
+"l" : "4,455.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "716777",
+"name" : "Lila World Wide Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "F-1,The Mira Corporate Suites, 1 \u0026 2, Ishwar Nagr, Mathura Rd, NEW DELHI, 110065, India",
+"phone": "+91-11-49962200",
+"fax": "+91-11-49962288",
+"url": "http:\u002F\u002Fwww.indigrid.co.in\u002F",
+"overview" : "India Grid Trust is an India-based infrastructure investment trust. The Investment objectives of the Trust are to undertake activity as an infrastructure investment trust in accordance with the provisions of the infrastructure investment trust (InvIT) Regulations. The investment of the Trust shall be in infrastructure special purpose vehicles or infrastructure projects or securities of Indian companies in accordance with the provisions of the InvIT Regulations. The Trust is focused on providing stable and sustainable distributions to its unit holders. The Investment manager for the Trust is Sterlite Infraventures Limited."
+} ]
+, "management" : [
+{
+"name" : "Pratik Agarwal",
+"age" : "34",
+"title" : "Chief Executive Officer, Executive Director - Sterlite Infraventures Limited"
+}
+,
+{
+"name" : "Harsh Shah",
+"title" : "Chief Financial Officer - Sterlite Infraventures Limited"
+}
+,
+{
+"name" : "Kriti Narula",
+"title" : "Compliance Officer of Sterlite Infraventures Limited"
+}
+,
+{
+"name" : "Mithun Gole",
+"title" : "Head of Corporate Finance and Investor Relations - Sterlite Infraventures Limited"
+}
+,
+{
+"name" : "Ashish Gupta",
+"title" : "Strategy Lead - Sterlite Infraventures Limited"
+}
+,
+{
+"name" : "Harshit Gupta",
+"title" : "Head of Regulatory Affairs - Sterlite Infraventures Limited"
+}
+,
+{
+"name" : "Amitanshu Srivastava",
+"title" : "Head of Business Acquisitions of Sterlite Infraventures Limited"
+}
+,
+{
+"name" : "Kuldip Kumar Kaura",
+"age" : "69",
+"title" : "Additional Non-Executive Director - Sterlite Infraventures Limited"
+}
+,
+{
+"name" : "Tarun Kataria",
+"age" : "55",
+"title" : "Additional Independent Director of Sterlite Infraventures Limited"
+}
+,
+{
+"name" : "Rahul D. Asthana",
+"age" : "64",
+"title" : "Additional Non-Executive Independent Director of of Sterlite Investment Managers Limited"
+}
+]
+,"moreresources" : [
+]
+}]

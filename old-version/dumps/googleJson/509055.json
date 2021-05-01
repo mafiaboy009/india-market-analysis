@@ -1,0 +1,295 @@
+
+ [
+{
+"symbol" : "509055",
+"exchange" : "BOM",
+"id": "703247",
+"t" : "509055",
+"e" : "BOM",
+"name" : "Visaka Industries Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:509055"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:509055"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:509055"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.90%",
+"annual" : "4.22%",
+"ttm" : "5.91%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.65%",
+"annual" : "8.61%",
+"ttm" : "10.53%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.18%",
+"ttm" : "14.09%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.14%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "11.10%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,877",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+13.00",
+"l" : "693.00",
+"cp" : "1.91",
+"ccol" : "chg",
+"op" : "686.55",
+"hi" : "693.00",
+"lo" : "686.00",
+"vo" : "4,327.00",
+"avvo" : "",
+"hi52" : "839.90",
+"lo52" : "229.00",
+"mc" : "10.99B",
+"pe" : "17.93",
+"fwpe" : "",
+"beta" : "",
+"eps" : "38.65",
+"dy" : "0.87",
+"ldiv" : "6.00",
+"shares" : "15.88M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703247",
+"name" : "Visaka Industries Limited",
+"t" : "509055",
+"e" : "BOM",
+"l" : "693.00",
+"c" : "+13.00",
+"mc" : "10.99B",
+"cp" : "1.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2271368",
+"name" : "Vesuvius India Ltd",
+"t" : "VESUVIUS",
+"e" : "NSE",
+"l" : "1,334.00",
+"c" : "-3.15",
+"mc" : "27.16B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9484082",
+"name" : "Ramco Industries Ltd.",
+"t" : "RAMCOIND",
+"e" : "NSE",
+"l" : "257.95",
+"c" : "+1.20",
+"mc" : "22.33B",
+"cp" : "0.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9109443",
+"name" : "Surat Textile Mills Ltd",
+"t" : "530185",
+"e" : "BOM",
+"l" : "4.75",
+"c" : "-0.18",
+"mc" : "1.06B",
+"cp" : "-3.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13360983",
+"name" : "Trident Ltd",
+"t" : "TRIDENT",
+"e" : "NSE",
+"l" : "72.65",
+"c" : "-0.45",
+"mc" : "37.07B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12097295",
+"name" : "Inani Marbles And Industries Ltd",
+"t" : "531129",
+"e" : "BOM",
+"l" : "20.05",
+"c" : "-1.05",
+"mc" : "320.74M",
+"cp" : "-4.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722380",
+"name" : "DCM Shriram Industries Limited",
+"t" : "523369",
+"e" : "BOM",
+"l" : "253.90",
+"c" : "+2.45",
+"mc" : "4.41B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2765899",
+"name" : "Grasim Industries Ltd",
+"t" : "GRASIM",
+"e" : "NSE",
+"l" : "1,180.60",
+"c" : "+43.90",
+"mc" : "773.46B",
+"cp" : "3.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3330741",
+"name" : "Gujarat Ambuja Exports Limited",
+"t" : "GAEL",
+"e" : "NSE",
+"l" : "255.95",
+"c" : "+12.40",
+"mc" : "29.44B",
+"cp" : "5.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1915951",
+"name" : "NCL Industries Limited",
+"t" : "NCLIND",
+"e" : "NSE",
+"l" : "229.90",
+"c" : "-0.25",
+"mc" : "10.42B",
+"cp" : "-0.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "362071701943394",
+"name" : "Bansal Roofing Products Ltd",
+"t" : "538546",
+"e" : "BOM",
+"l" : "58.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Visaka Towers 1-8-303\u002F69\u002F3, S P Road, HYDERABAD, 500003, India",
+"phone": "+91-40-27813837",
+"fax": "+91-40-27891833",
+"url": "http:\u002F\u002Fwww.visaka.co\u002F",
+"overview" : "Visaka Industries Limited is engaged in the manufacture and sale of Cement Asbestos Sheets, Fiber Cement Sheets (V-Boards), and Panels and Spinning (Synthetic Spun Yarn). The Company offers products, including Cement Asbestos Products, Fibre Cement Flat Board Products and Textiles. The Company\u0027s operating segments include Building Products and Textile Synthetic Yarn. The Building Products segment produces asbestos sheets and accessories used as roofing material, and non-asbestos flat sheets and sandwich panels used as interiors. The Textile Synthetic Yarn segment manufactures Yarn out of blends of polyester, viscose and other materials, which go into the weaving of fabric. The Company offers its products under the brands, such as Visaka and Shakti. The Company has an installed capacity of approximately 802,000 tons per annum (TPA) of cement asbestos products spread across over eight manufacturing facilities. It owns a yarn spinning plant, which is capable of producing over 9,300 TPA."
+} ]
+, "management" : [
+{
+"name" : "Srinivas Itaboina",
+"title" : "Compliance Officer, Assistant Vice President - Corporate Affairs, Company Secretary"
+}
+,
+{
+"name" : "G. Saroja Vivekanand",
+"age" : "49",
+"title" : "Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "V. Vallinath",
+"title" : "Chief Financial Officer, Whole-time Director"
+}
+,
+{
+"name" : "G. Vamsi Krishna",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Pruthvidhar Rao",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Bhagirat B. Merchant",
+"age" : "68",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "G. Vivekanand M.D.",
+"age" : "51",
+"title" : "Non-Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Srikar Reddy",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Nagam Krishna Rao",
+"title" : "Non - Executive Non - Independent Director"
+}
+,
+{
+"name" : "Gusti Jall Noria",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

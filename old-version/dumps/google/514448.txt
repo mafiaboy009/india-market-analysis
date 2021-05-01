@@ -1,0 +1,277 @@
+
+// [
+{
+"symbol" : "514448",
+"exchange" : "BOM",
+"id": "4266271",
+"t" : "514448",
+"e" : "BOM",
+"name" : "Jyoti Resins and Adhesives Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=JYRA.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:514448"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:514448"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:514448"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.02%",
+"annual" : "0.48%",
+"ttm" : "0.34%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "0.17%",
+"annual" : "1.41%",
+"ttm" : "0.86%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.51%",
+"ttm" : "0.96%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "0.05%",
+"annual" : "1.01%",
+"ttm" : "0.70%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "0.50%",
+"annual" : "8.64%",
+"ttm" : "6.38%"
+}
+]
+, "c" : "+2.90",
+"l" : "64.50",
+"cp" : "4.71",
+"ccol" : "chg",
+"op" : "64.00",
+"hi" : "64.50",
+"lo" : "61.00",
+"vo" : "3,122.00",
+"avvo" : "",
+"hi52" : "224.95",
+"lo52" : "57.00",
+"mc" : "258.00M",
+"pe" : "80.30",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.80",
+"dy" : "",
+"ldiv" : "",
+"shares" : "4.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "4266271",
+"name" : "Jyoti Resins and Adhesives Ltd",
+"t" : "514448",
+"e" : "BOM",
+"l" : "64.50",
+"c" : "+2.90",
+"mc" : "258.00M",
+"cp" : "4.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13880149",
+"name" : "Pidilite Industries Limited",
+"t" : "PIDILITIND",
+"e" : "NSE",
+"l" : "889.00",
+"c" : "-11.70",
+"mc" : "457.77B",
+"cp" : "-1.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "246445095024882",
+"name" : "Yug Decor Ltd",
+"t" : "540550",
+"e" : "BOM",
+"l" : "31.25",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "722569",
+"name" : "Nikhil Adhesives Ltd",
+"t" : "526159",
+"e" : "BOM",
+"l" : "272.00",
+"c" : "+10.85",
+"mc" : "1.06B",
+"cp" : "4.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8829325",
+"name" : "DIC India Ltd",
+"t" : "DICIND",
+"e" : "NSE",
+"l" : "515.50",
+"c" : "-0.75",
+"mc" : "4.74B",
+"cp" : "-0.15",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6033784",
+"name" : "Clariant Chemicals (India) Ltd.",
+"t" : "CLNINDIA",
+"e" : "NSE",
+"l" : "595.00",
+"c" : "+19.85",
+"mc" : "13.76B",
+"cp" : "3.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715387",
+"name" : "Elantas Beck India Ltd",
+"t" : "500123",
+"e" : "BOM",
+"l" : "2,050.00",
+"c" : "-41.95",
+"mc" : "16.05B",
+"cp" : "-2.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1058986",
+"name" : "Apcotex Industries Limited",
+"t" : "APCOTEXIND",
+"e" : "NSE",
+"l" : "505.00",
+"c" : "-1.60",
+"mc" : "10.47B",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6504858",
+"name" : "3M India Ltd",
+"t" : "3MINDIA",
+"e" : "NSE",
+"l" : "20,651.05",
+"c" : "-82.75",
+"mc" : "233.15B",
+"cp" : "-0.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "722594",
+"name" : "Fineotex Chemical Ltd",
+"t" : "533333",
+"e" : "BOM",
+"l" : "68.05",
+"c" : "-2.00",
+"mc" : "7.59B",
+"cp" : "-2.86",
+"ccol" : "chr"
+}
+,
+{
+"id" : "111449",
+"name" : "Indag Rubber Ltd",
+"t" : "509162",
+"e" : "BOM",
+"l" : "168.00",
+"c" : "+0.20",
+"mc" : "4.43B",
+"cp" : "0.12",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "405-406, RAJKAMAL PLAZA - B, 4th Floor Opp. Sakar-III, Income Tax, AHMEDABAD, 380014, India",
+"phone": "+91-79-27540153",
+"fax": "+91-79-27544769",
+"url": "http:\u002F\u002Fwww.euro7000.com\u002F",
+"overview" : "JYOTI RESINS AND ADHESIVES LIMITED is an India-based manufacturer of synthetic resin adhesives. The Company manufactures various types of wood working adhesives under the brand name of EURO 7000. The Company\u0027s products include WP 2in1, Extreme3, Ultra 5in1, 2in1, PVC Glue and Xtra. WP 2in1, Xtra and 2in1 are used for bonding plywood\u002Fmedium density fiberboard (MDF)\u002Fparticle board. Ultra 5in1 and Extreme3 are used for joining wood and derived timber products, such as bonding of furniture internal structures, paneling, door and windows lamination. Ultra 5in1 and Extreme3 are used for edge bonding, finger jointing, handicraft, modular furniture and cold press\u002Fhot press. Its PVC Glue is suitable for acrylic sheet to wood for pre edge banding types. Xtra is an anti-termite formula. EURO7000 is available in various cities of India."
+} ]
+, "management" : [
+{
+"name" : "Jagdish N. Patel",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Pratik A. Patel",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Chandulal C. Patel",
+"age" : "60",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Utkarsh J. Patel",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Jyotika Jagdishbhai Patel",
+"title" : "Director"
+}
+,
+{
+"name" : "Praful Patel",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Suresh Patel",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Umakant G. Patel",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

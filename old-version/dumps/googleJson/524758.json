@@ -1,0 +1,275 @@
+
+ [
+{
+"symbol" : "524758",
+"exchange" : "BOM",
+"id": "478315",
+"t" : "524758",
+"e" : "BOM",
+"name" : "Wintac Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=WITL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:524758"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:524758"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:524758"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-5.67%",
+"annual" : "-26.49%",
+"ttm" : "-4.10%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-17.33%",
+"annual" : "-26.87%",
+"ttm" : "-6.09%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-20.62%",
+"ttm" : "-0.60%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-15.65%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-88.91%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "202",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-3.50",
+"l" : "236.50",
+"cp" : "-1.46",
+"ccol" : "chr",
+"op" : "250.75",
+"hi" : "250.75",
+"lo" : "235.00",
+"vo" : "269.00",
+"avvo" : "",
+"hi52" : "282.00",
+"lo52" : "147.50",
+"mc" : "2.37B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-1.94",
+"dy" : "",
+"ldiv" : "",
+"shares" : "10.02M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "478315",
+"name" : "Wintac Ltd",
+"t" : "524758",
+"e" : "BOM",
+"l" : "236.50",
+"c" : "-3.50",
+"mc" : "2.37B",
+"cp" : "-1.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6286747",
+"name" : "Anuh Pharma Ltd",
+"t" : "506260",
+"e" : "BOM",
+"l" : "169.00",
+"c" : "-0.05",
+"mc" : "4.19B",
+"cp" : "-0.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13439600",
+"name" : "Ahlcon Parenterals India Ltd",
+"t" : "524448",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "2986863",
+"name" : "Alpa Laboratories Limited",
+"t" : "ALPA",
+"e" : "NSE",
+"l" : "45.90",
+"c" : "+2.15",
+"mc" : "965.76M",
+"cp" : "4.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14022907",
+"name" : "F D C Ltd (Parent)",
+"t" : "FDC",
+"e" : "NSE",
+"l" : "285.10",
+"c" : "-3.45",
+"mc" : "50.62B",
+"cp" : "-1.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7222829",
+"name" : "Makers Laboratories Ltd",
+"t" : "506919",
+"e" : "BOM",
+"l" : "81.35",
+"c" : "+1.15",
+"mc" : "406.07M",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13396282",
+"name" : "Aarey Drugs and Pharmaceuticals Ltd",
+"t" : "524412",
+"e" : "BOM",
+"l" : "49.70",
+"c" : "-0.40",
+"mc" : "1.01B",
+"cp" : "-0.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5394531",
+"name" : "Neuland Laboratories Ltd.",
+"t" : "NEULANDLAB",
+"e" : "NSE",
+"l" : "707.35",
+"c" : "+0.70",
+"mc" : "6.28B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6809657",
+"name" : "Aarti Drugs Ltd.",
+"t" : "AARTIDRUGS",
+"e" : "NSE",
+"l" : "608.05",
+"c" : "-5.10",
+"mc" : "14.53B",
+"cp" : "-0.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9900991",
+"name" : "Themis Medicare Ltd",
+"t" : "THEMISMED",
+"e" : "NSE",
+"l" : "545.00",
+"c" : "+6.00",
+"mc" : "5.06B",
+"cp" : "1.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "663200192416002",
+"name" : "Bafna Pharmaceuticals Limited",
+"t" : "BAFNAPHARM",
+"e" : "NSE",
+"l" : "27.80",
+"c" : "+0.25",
+"mc" : "521.49M",
+"cp" : "0.91",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "54\u002F1, Boodihal Village, Nelamangala,, BANGALORE, 562123, India",
+"phone": "+91-80-27733370",
+"fax": "+91-80-27733369",
+"url": "http:\u002F\u002Fwww.wintaclimited.com\u002F",
+"overview" : "Wintac Limited is an India-based company, which is engaged in the formulations business. The Company is involved in formulation sales, manufacturing charges and formulation development. Its products are classified under categories, including injectable and ophthalmic. Its ophthalmic product range includes Timolol Maleate Eye Drops, Atropine Eye Drops, Fluorometholone Eye Drops, Olopatadine Eye Drops, Chloramphenicol Eye Drops, Diclofenac Eye Drops, Ketorolac Tromethamine Eye Drops and Bromfenac Eye Drops. Its injectable product range includes Diclofenac Injection, Pheniramine Maleate Injection, Iron Sucrose Injection, Pentoxifylline Injection, Atropine Injection, Hyoscine Butyl Bromide Injection, Ondansetron Injection, Metoclopramide Injection, Tramadol Injection, Analgin Injection, Gentamicin Sulphate Injection and Levofloxacin Injection. The Company carries out formulation development activities in the export market, including the United States, Canada, Australia and Europe."
+} ]
+, "management" : [
+{
+"name" : "B. P. Thyagaraj",
+"title" : "Assistant Vice President - Finance Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "S. Jayaprakash Mady",
+"age" : "53",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "S. T.R. Mady",
+"age" : "78",
+"title" : "Non-Executive Non-Independent Chairman of the Board"
+}
+,
+{
+"name" : "Arun Eashwar",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "K M. Ganga",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "K. Nagarajan",
+"age" : "86",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

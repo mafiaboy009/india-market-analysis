@@ -1,0 +1,302 @@
+
+ [
+{
+"symbol" : "539437",
+"exchange" : "BOM",
+"id": "726662067491773",
+"t" : "539437",
+"e" : "BOM",
+"name" : "IDFC Bank Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=IDFB.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539437"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539437"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539437"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "35.97%",
+"annual" : "34.48%",
+"ttm" : "34.48%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "49.00%",
+"annual" : "49.12%",
+"ttm" : "49.12%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "225.89%",
+"ttm" : "53.53%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.09%",
+"ttm" : "1.14%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.20%",
+"ttm" : "7.20%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,905",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.35",
+"l" : "52.30",
+"cp" : "0.67",
+"ccol" : "chg",
+"op" : "52.45",
+"hi" : "52.85",
+"lo" : "51.85",
+"vo" : "577,801.00",
+"avvo" : "",
+"hi52" : "70.35",
+"lo52" : "49.35",
+"mc" : "177.80B",
+"pe" : "17.56",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.98",
+"dy" : "1.43",
+"ldiv" : "0.75",
+"shares" : "3.40B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "726662067491773",
+"name" : "IDFC Bank Ltd",
+"t" : "539437",
+"e" : "BOM",
+"l" : "52.30",
+"c" : "+0.35",
+"mc" : "177.80B",
+"cp" : "0.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14153912",
+"name" : "IDFC Ltd",
+"t" : "IDFC",
+"e" : "NSE",
+"l" : "53.45",
+"c" : "+0.45",
+"mc" : "84.92B",
+"cp" : "0.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "333651",
+"name" : "Punjab National Bank",
+"t" : "PNB",
+"e" : "NSE",
+"l" : "111.90",
+"c" : "-1.55",
+"mc" : "271.30B",
+"cp" : "-1.37",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11734673",
+"name" : "Lakshmi Vilas Bank Ltd.",
+"t" : "LAKSHVILAS",
+"e" : "NSE",
+"l" : "114.45",
+"c" : "-0.55",
+"mc" : "29.32B",
+"cp" : "-0.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "184832",
+"name" : "PNB Gilts Ltd.",
+"t" : "PNBGILTS",
+"e" : "NSE",
+"l" : "38.00",
+"c" : "+2.20",
+"mc" : "6.88B",
+"cp" : "6.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7550297",
+"name" : "IDBI Bank Ltd",
+"t" : "IDBI",
+"e" : "NSE",
+"l" : "78.40",
+"c" : "+1.25",
+"mc" : "207.98B",
+"cp" : "1.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5904015",
+"name" : "Federal Bank Ltd",
+"t" : "FEDERALBNK",
+"e" : "NSE",
+"l" : "96.25",
+"c" : "+1.50",
+"mc" : "188.93B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "485802867974745",
+"name" : "Central Depository Services (India) Ltd",
+"t" : "CDSL",
+"e" : "NSE",
+"l" : "323.90",
+"c" : "+5.30",
+"mc" : "33.91B",
+"cp" : "1.66",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1731931",
+"name" : "State Bank Of Travancore",
+"t" : "SBT",
+"e" : "NSE",
+"l" : "605.00",
+"c" : "",
+"mc" : "43.02B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3261730",
+"name" : "Axis Bank Ltd",
+"t" : "AXISBANK",
+"e" : "NSE",
+"l" : "550.00",
+"c" : "+13.35",
+"mc" : "1.41T",
+"cp" : "2.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12575761",
+"name" : "Indian Bank",
+"t" : "INDIANB",
+"e" : "NSE",
+"l" : "324.00",
+"c" : "+6.00",
+"mc" : "155.61B",
+"cp" : "1.89",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Naman Chambers, C-32, G-Block Bandra-Kurla Complex, Bandra (East), MUMBAI, 400051, India",
+"phone": "+91-22-42222000",
+"fax": "+91-22-26540354",
+"url": "http:\u002F\u002Fwww.idfcbank.com\u002F",
+"overview" : "IDFC Bank Limited is a banking company. The Bank\u0027s segments include treasury, corporate\u002Fwholesale banking, retail banking and unallocated. The Treasury segment consists of its investment portfolio, and money market borrowing and lending, among others. The Corporate\u002FWholesale Banking segment provides loans, non-fund facilities and transaction services to corporate relationship not included under retail banking, corporate advisory, project appraisal placement and syndication. The Retail Banking segment constitutes lending to individuals\u002Fbusiness banking customers through the branch network and other delivery channels subject to the orientation, nature of product, granularity of the exposure and the quantum thereof. It operates approximately 65 branches, over 10 automated teller machines (ATMs) and approximately 15 offices, which are spread throughout India. It offers savings account, fixed deposit, recurring deposit, debit card, home loans, payments and online services, among others."
+} ]
+, "management" : [
+{
+"name" : "Rajiv B. Lall",
+"age" : "58",
+"title" : "Chief Executive Officer, Founder, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Bipin Gemani",
+"title" : "Interim Chief Financial Officer"
+}
+,
+{
+"name" : "Avtar Monga",
+"title" : "Chief Operating Officer, Executive Director"
+}
+,
+{
+"name" : "N. S. Rajan",
+"title" : "Chief Executive Officer - IDFC Foundation and Group Chief Human Resource Officer, Group Chief Marketing Officer"
+}
+,
+{
+"name" : "Mahendra N. Shah",
+"title" : "Chief Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Pavan Pal Kaushal",
+"title" : "Chief Risk Officer"
+}
+,
+{
+"name" : "Rajeev Uberoi",
+"title" : "General Counsel and Head - Legal \u0026 Audit"
+}
+,
+{
+"name" : "Ajay Mahajan",
+"title" : "Head - Commercial \u0026 Wholesale Banking"
+}
+,
+{
+"name" : "Ravi Shankar",
+"title" : "Head - Bharat Banking"
+}
+,
+{
+"name" : "Veena Mankar",
+"age" : "63",
+"title" : "Independent Non-Executive Chairman of the Board"
+}
+]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Jan 15, 2018",
+"time": "4:30PM GMT+5:30",
+"future": 0,
+"desc": "IDFC Bank Ltd to Discuss Merger of Capital First Ltd"
+}
+]
+}]

@@ -1,0 +1,296 @@
+
+// [
+{
+"symbol" : "538730",
+"exchange" : "BOM",
+"id": "558161478523597",
+"t" : "538730",
+"e" : "BOM",
+"name" : "PDS Multinational Fashions Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:538730"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:538730"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:538730"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.08%",
+"annual" : "0.83%",
+"ttm" : "0.22%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-0.05%",
+"annual" : "0.92%",
+"ttm" : "0.22%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "1.20%",
+"ttm" : "0.53%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.67%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.03%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "24",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+6.50",
+"l" : "294.00",
+"cp" : "2.26",
+"ccol" : "chg",
+"op" : "291.00",
+"hi" : "297.50",
+"lo" : "289.00",
+"vo" : "2,246.00",
+"avvo" : "",
+"hi52" : "365.00",
+"lo52" : "140.25",
+"mc" : "7.60B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-6.88",
+"dy" : "",
+"ldiv" : "",
+"shares" : "26.05M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "558161478523597",
+"name" : "PDS Multinational Fashions Ltd",
+"t" : "538730",
+"e" : "BOM",
+"l" : "294.00",
+"c" : "+6.50",
+"mc" : "7.60B",
+"cp" : "2.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "656087013987949",
+"name" : "Junction Fabrics and Apparels Ltd",
+"t" : "539216",
+"e" : "BOM",
+"l" : "33.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11846821",
+"name" : "Koutons Retail India Ltd.",
+"t" : "KOUTONS",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-2.45",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1160238",
+"name" : "Super Syncotex India Ltd",
+"t" : "503297",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-1.44",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1438982",
+"name" : "Acknit Industries Ltd",
+"t" : "530043",
+"e" : "BOM",
+"l" : "112.00",
+"c" : "+4.30",
+"mc" : "339.53M",
+"cp" : "3.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "842436344561843",
+"name" : "Future Lifestyle Fashions Ltd",
+"t" : "FLFL",
+"e" : "NSE",
+"l" : "376.00",
+"c" : "+7.40",
+"mc" : "73.29B",
+"cp" : "2.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5106933",
+"name" : "Sutlej Textiles And Industries Ltd",
+"t" : "SUTLEJTEX",
+"e" : "NSE",
+"l" : "80.80",
+"c" : "+0.15",
+"mc" : "13.30B",
+"cp" : "0.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8603694",
+"name" : "Super Tannery Ltd",
+"t" : "523842",
+"e" : "BOM",
+"l" : "6.56",
+"c" : "-0.94",
+"mc" : "727.71M",
+"cp" : "-12.53",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14836773",
+"name" : "Bang Overseas Limited",
+"t" : "BANG",
+"e" : "NSE",
+"l" : "30.60",
+"c" : "-0.70",
+"mc" : "414.27M",
+"cp" : "-2.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "269044",
+"name" : "S Kumars Nationwide Ltd",
+"t" : "SKUMARSYNF",
+"e" : "NSE",
+"l" : "2.85",
+"c" : "",
+"mc" : "728.64M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6186502",
+"name" : "Shree Bhavya Fabrics Ltd",
+"t" : "521131",
+"e" : "BOM",
+"l" : "9.80",
+"c" : "+0.20",
+"mc" : "93.10M",
+"cp" : "2.08",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": ", BANGALORE, 560102, India",
+"phone": "+91-80-67653030",
+"fax": "+91-80-67653000",
+"url": "http:\u002F\u002Fwww.pdsmultinational.com\u002F",
+"overview" : "PDS Multinational Fashions Limited is engaged in wholesale trade, except of motor vehicles and motorcycles. The Company, along with its subsidiaries, is primarily engaged in trading of garments, while the subsidiary and its sub-subsidiaries are engaged in investment holding, design, development, marketing, sourcing and distribution of readymade garments of various kinds and other consumer products around the world. The Company\u0027s segments include Garments \u0026 Other Consumer Products, and Other Segments. It offers a range of apparel solutions for ladies, men, essentials, kids and babies. It offers a range of accessories, which include bags, belts, hats, scarves, winter warmers and small leather goods, for ladies, men and kids. It creates new brands, develops concepts for private label brands, and sells and distributes these around the world. It has showrooms in the United Kingdom, Europe, the United States, Canada, Hong Kong, China, India and Australia."
+} ]
+, "management" : [
+{
+"name" : "Omprakash Makam Suryanarayan Setty",
+"title" : "Group Chief Financial Officer"
+}
+,
+{
+"name" : "B. Chandra Sekhara Reddy",
+"title" : "Company Secretary \u0026 Compliance Officer"
+}
+,
+{
+"name" : "Payel Seth",
+"age" : "57",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Deepak Kumar Seth",
+"age" : "64",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Pallak Seth",
+"age" : "38",
+"title" : "Non-Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Ashutosh Prabhudas Bhupatkar",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ashok Kumar Chhabra",
+"age" : "63",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ashok Kumar Sanghi",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Dec 13, 2017",
+"time": "",
+"future": 0,
+"desc": "Q2 2018 PDS Multinational Fashions Ltd Earnings Release"
+}
+]
+}]

@@ -1,0 +1,205 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 29927250,
+            "fmt": "29.93M",
+            "longFmt": "29,927,250"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.09105,
+            "fmt": "-9.10%"
+          },
+          "floatShares": {
+            "raw": 1996324,
+            "fmt": "2M",
+            "longFmt": "1,996,324"
+          },
+          "sharesOutstanding": {
+            "raw": 4118000,
+            "fmt": "4.12M",
+            "longFmt": "4,118,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.280558,
+            "fmt": "-0.28"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 45.569,
+            "fmt": "45.57"
+          },
+          "priceToBook": {
+            "raw": 0.44328383,
+            "fmt": "0.44"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -1435468,
+            "fmt": "-1.44M",
+            "longFmt": "-1,435,468"
+          },
+          "trailingEps": {
+            "raw": -0.357,
+            "fmt": "-0.36"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 1.898,
+            "fmt": "1.90"
+          },
+          "enterpriseToEbitda": {
+            "raw": 40.211,
+            "fmt": "40.21"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "602, 214 Raheja Centre",
+          "address2": "Free Press Journal Marg Nariman Point",
+          "city": "Mumbai",
+          "zip": "400021",
+          "country": "India",
+          "phone": "91 22 3029 1565",
+          "website": "http://www.volfltd.com",
+          "industry": "Investment Brokerage - National",
+          "sector": "Financial",
+          "longBusinessSummary": "Voltaire Leasing & Finance Limited operates as a finance company in India. The company provides financing services, including leasing, hire purchase, and finance leasing services. It is also involved in the purchase, sale, hire, and letting of plant and machinery, and equipment. The company was incorporated in 1984 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 20.2,
+            "fmt": "20.20"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 51759000,
+            "fmt": "51.76M",
+            "longFmt": "51,759,000"
+          },
+          "totalCashPerShare": {
+            "raw": 13.021,
+            "fmt": "13.02"
+          },
+          "ebitda": {
+            "raw": 744260,
+            "fmt": "744.26k",
+            "longFmt": "744,260"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 15765067,
+            "fmt": "15.77M",
+            "longFmt": "15,765,067"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 3.92,
+            "fmt": "3.92"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 9743875,
+            "fmt": "9.74M",
+            "longFmt": "9,743,875"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 1.433,
+            "fmt": "143.30%"
+          },
+          "grossMargins": {
+            "raw": 0.95362,
+            "fmt": "95.36%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.04721,
+            "fmt": "4.72%"
+          },
+          "operatingMargins": {
+            "raw": -0.0767,
+            "fmt": "-7.67%"
+          },
+          "profitMargins": {
+            "raw": -0.09105,
+            "fmt": "-9.10%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

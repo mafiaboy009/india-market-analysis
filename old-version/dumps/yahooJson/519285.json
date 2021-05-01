@@ -1,0 +1,195 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 81900000,
+            "fmt": "81.9M",
+            "longFmt": "81,900,000"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.30965,
+            "fmt": "-30.97%"
+          },
+          "floatShares": {
+            "raw": 4341820,
+            "fmt": "4.34M",
+            "longFmt": "4,341,820"
+          },
+          "sharesOutstanding": {
+            "raw": 17728100,
+            "fmt": "17.73M",
+            "longFmt": "17,728,100"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.545284,
+            "fmt": "1.55"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -19.934,
+            "fmt": "-19.93"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -11951677,
+            "fmt": "-11.95M",
+            "longFmt": "-11,951,677"
+          },
+          "trailingEps": {
+            "raw": -0.803,
+            "fmt": "-0.80"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 2.122,
+            "fmt": "2.12"
+          },
+          "enterpriseToEbitda": {
+            "raw": 18.915,
+            "fmt": "18.92"
+          },
+          "52WeekChange": {
+            "raw": -0.5057851,
+            "fmt": "-50.58%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Sandhu Farm",
+          "address2": "PO Box No. 18",
+          "city": "Rudrapur",
+          "zip": "263153",
+          "country": "India",
+          "phone": "91 59 4424 4304",
+          "website": "http://www.taraifoods.com",
+          "industry": "Farm Products",
+          "sector": "Consumer Goods",
+          "longBusinessSummary": "Tarai Foods Limited manufactures, processes, preserves, and sells fruits and vegetables in India. It provides frozen peas, frozen sweet corn, and frozen mixed vegetables; and fresh, frozen, and canned mushrooms, as well as mushroom spawn. The company was incorporated in 1990 and is headquartered in Rudrapur, India.",
+          "fullTimeEmployees": 11,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 2.91,
+            "fmt": "2.91"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 4329826,
+            "fmt": "4.33M",
+            "longFmt": "4,329,826"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 38596652,
+            "fmt": "38.6M",
+            "longFmt": "38,596,652"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 2.592,
+            "fmt": "2.59"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 19214884,
+            "fmt": "19.21M",
+            "longFmt": "19,214,884"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": -0.154,
+            "fmt": "-15.40%"
+          },
+          "grossMargins": {
+            "raw": 0.71496004,
+            "fmt": "71.50%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.11218,
+            "fmt": "11.22%"
+          },
+          "operatingMargins": {
+            "raw": 0.070879996,
+            "fmt": "7.09%"
+          },
+          "profitMargins": {
+            "raw": -0.30965,
+            "fmt": "-30.97%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

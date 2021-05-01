@@ -1,0 +1,282 @@
+
+// [
+{
+"symbol" : "530299",
+"exchange" : "BOM",
+"id": "715325",
+"t" : "530299",
+"e" : "BOM",
+"name" : "Kothari Products Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:530299"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:530299"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:530299"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002708)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "30.60%",
+"annual" : "1.20%",
+"ttm" : "25.65%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "42.05%",
+"annual" : "2.29%",
+"ttm" : "30.78%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "2.63%",
+"ttm" : "27.47%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.65%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "8.16%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "64",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.20",
+"l" : "168.30",
+"cp" : "-1.29",
+"ccol" : "chr",
+"op" : "170.00",
+"hi" : "171.45",
+"lo" : "167.15",
+"vo" : "3,901.00",
+"avvo" : "",
+"hi52" : "246.40",
+"lo52" : "165.20",
+"mc" : "5.03B",
+"pe" : "7.77",
+"fwpe" : "",
+"beta" : "",
+"eps" : "21.66",
+"dy" : "1.78",
+"ldiv" : "3.00",
+"shares" : "29.84M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715325",
+"name" : "Kothari Products Ltd.",
+"t" : "530299",
+"e" : "BOM",
+"l" : "168.30",
+"c" : "-2.20",
+"mc" : "5.03B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "869930308113672",
+"name" : "Sirohia \u0026 Sons Ltd",
+"t" : "538667",
+"e" : "BOM",
+"l" : "8.68",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1390952",
+"name" : "Taaza International Ltd",
+"t" : "537392",
+"e" : "BOM",
+"l" : "7.90",
+"c" : "-0.41",
+"mc" : "",
+"cp" : "-4.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4702518",
+"name" : "Godfrey Phillips India Limited",
+"t" : "GODFRYPHLP",
+"e" : "NSE",
+"l" : "906.50",
+"c" : "+30.80",
+"mc" : "47.22B",
+"cp" : "3.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13746705",
+"name" : "VST Industries Limited",
+"t" : "VSTIND",
+"e" : "NSE",
+"l" : "3,185.00",
+"c" : "-65.45",
+"mc" : "49.49B",
+"cp" : "-2.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16120009",
+"name" : "Golden Tobacco Ltd.",
+"t" : "GOLDENTOBC",
+"e" : "NSE",
+"l" : "63.10",
+"c" : "-0.90",
+"mc" : "1.11B",
+"cp" : "-1.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13622393",
+"name" : "Kalyani Forge Ltd",
+"t" : "KALYANIFRG",
+"e" : "NSE",
+"l" : "311.00",
+"c" : "-1.30",
+"mc" : "1.14B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2987318",
+"name" : "Bombay Burmah Trading Corporation Ltd",
+"t" : "BBTC",
+"e" : "NSE",
+"l" : "1,523.10",
+"c" : "-28.40",
+"mc" : "106.37B",
+"cp" : "-1.83",
+"ccol" : "chr"
+}
+,
+{
+"id" : "129447555669492",
+"name" : "Titan Company Ltd",
+"t" : "TITAN",
+"e" : "NSE",
+"l" : "823.00",
+"c" : "+8.80",
+"mc" : "730.24B",
+"cp" : "1.08",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715564",
+"name" : "IST Ltd.",
+"t" : "508807",
+"e" : "BOM",
+"l" : "1,085.00",
+"c" : "+23.00",
+"mc" : "6.33B",
+"cp" : "2.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7870516",
+"name" : "Birla Precision Technologies Ltd",
+"t" : "522105",
+"e" : "BOM",
+"l" : "6.95",
+"c" : "-0.01",
+"mc" : "364.36M",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Pan Parag House, 24\u002F19, TheMall, KANPUR, 208001, India",
+"phone": "+91-512-2312171",
+"fax": "+91-512-2312058",
+"url": "http:\u002F\u002Fwww.kothariproducts.in\u002F",
+"overview" : "Kothari Products Limited is engaged in wholesale trading of coal\u003B wholesale trading of oil\u003B wholesale trading of construction materials (such as tiles), and wholesale trading of machine and spares. The Company operates in two business segments: Trading Items and Real estate etc. The Company\u0027s businesses include international trade, real estate ventures and investment in securities. It is engaged in import-export trade of various products\u002Fcommodities, including agro-based commodities, minerals, metals, petroleum products and coal, tiles, notebook, copier paper, steel, scrap and polyvinyl chloride (PVC). The Company has investment in the real estate sector in the commercial, residential, retail, hospitality segments, land and development thereof. It possesses landmark commercial buildings in the business district of Bangalore, Mumbai and Pune. It has also invested its funds in stocks and Mutual Funds besides subscribing to the Share Capital of its subsidiaries."
+} ]
+, "management" : [
+{
+"name" : "Raj Kumar Gupta",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Mitesh Kothari",
+"age" : "38",
+"title" : "Executive Non-Independent Director"
+}
+,
+{
+"name" : "Deepak Kothari",
+"age" : "63",
+"title" : "Executive Non - Independent Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Poonam Acharya",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Vikas Chaturvedi",
+"age" : "51",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Avinash Gupta",
+"age" : "64",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Pramod Kumar Tandon",
+"age" : "74",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

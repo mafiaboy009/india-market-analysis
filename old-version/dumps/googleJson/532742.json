@@ -1,0 +1,277 @@
+
+ [
+{
+"symbol" : "532742",
+"exchange" : "BOM",
+"id": "10233196",
+"t" : "532742",
+"e" : "BOM",
+"name" : "Paushak Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=PAUS.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532742"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532742"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532742"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "17.12%",
+"annual" : "15.13%",
+"ttm" : "21.82%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "23.93%",
+"annual" : "12.57%",
+"ttm" : "20.87%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "17.01%",
+"ttm" : "24.90%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "12.42%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.43%",
+"ttm" : ""
+}
+]
+, "c" : "+16.05",
+"l" : "1,450.00",
+"cp" : "1.12",
+"ccol" : "chg",
+"op" : "1,433.95",
+"hi" : "1,450.00",
+"lo" : "1,410.00",
+"vo" : "549.00",
+"avvo" : "",
+"hi52" : "1,550.00",
+"lo52" : "540.05",
+"mc" : "4.66B",
+"pe" : "25.41",
+"fwpe" : "",
+"beta" : "",
+"eps" : "57.07",
+"dy" : "0.21",
+"ldiv" : "3.00",
+"shares" : "3.21M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10233196",
+"name" : "Paushak Ltd",
+"t" : "532742",
+"e" : "BOM",
+"l" : "1,450.00",
+"c" : "+16.05",
+"mc" : "4.66B",
+"cp" : "1.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12339328",
+"name" : "Deepak Nitrite Ltd.",
+"t" : "DEEPAKNTR",
+"e" : "NSE",
+"l" : "260.30",
+"c" : "+3.05",
+"mc" : "34.02B",
+"cp" : "1.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8346529",
+"name" : "Deepak Fertilisers \u0026 Petrochemicals Corp",
+"t" : "DEEPAKFERT",
+"e" : "NSE",
+"l" : "348.00",
+"c" : "-0.85",
+"mc" : "30.79B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10347650",
+"name" : "Bharat Rasayan Ltd",
+"t" : "BHARATRAS",
+"e" : "NSE",
+"l" : "4,591.80",
+"c" : "+18.95",
+"mc" : "19.39B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8499677",
+"name" : "Diamines And Chemicals Ltd",
+"t" : "500120",
+"e" : "BOM",
+"l" : "108.00",
+"c" : "+2.40",
+"mc" : "1.06B",
+"cp" : "2.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8732116",
+"name" : "Sunshield Chemicals Ltd",
+"t" : "530845",
+"e" : "BOM",
+"l" : "319.70",
+"c" : "+5.95",
+"mc" : "2.32B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1009034",
+"name" : "Resonance Specialties Ltd",
+"t" : "524218",
+"e" : "BOM",
+"l" : "34.65",
+"c" : "+2.10",
+"mc" : "401.23M",
+"cp" : "6.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5133642",
+"name" : "Vinati Organics Ltd",
+"t" : "VINATIORGA",
+"e" : "NSE",
+"l" : "786.70",
+"c" : "+4.95",
+"mc" : "40.73B",
+"cp" : "0.63",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16777150",
+"name" : "Dishman Pharmaceuticals\u0026Chemicals Ltd",
+"t" : "DISHMAN",
+"e" : "NSE",
+"l" : "300.60",
+"c" : "",
+"mc" : "48.61B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "12842530",
+"name" : "Sadhana Nitro Chem Ltd",
+"t" : "506642",
+"e" : "BOM",
+"l" : "218.75",
+"c" : "0.00",
+"mc" : "2.01B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "217120701046015",
+"name" : "Camlin Fine Sciences Ltd",
+"t" : "CAMLINFINE",
+"e" : "NSE",
+"l" : "121.00",
+"c" : "+7.85",
+"mc" : "14.64B",
+"cp" : "6.94",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Alembic Road, VADODARA, 390003, India",
+"phone": "+91-265-2280550",
+"fax": "+91-265-2282506",
+"url": "http:\u002F\u002Fwww.paushak.com\u002F",
+"overview" : "Paushak Limited is an India-based pharmaceutical company, which is engaged in the development and manufacturing of phosgene-based specialty chemicals and intermediates. The Company is engaged in the manufacturing of organic intermediates products, such as Isocyanates, which include 2-Phenyl Ethyl Isocyanate, 2- Cyclohexyl Isocyanate and Cyclohexyl Isocyanate\u003B Chloroformates, which include 2- Ethylhexyl Chloroformate, n-Hexyl Chloroformate, Isobutyl Chloroformate and Para Nitrophenyl Chloroformate\u003B Carbamoyl Chlorides, which include Diethylcarbamoyl Chloride, Diphenylcarbamoyl Chloride and N-Ethyl-N-Methylcarbamoyl Chloride, and Others, which include 3,4,4-Trichlorocarbanilide, Chloromethyl Isopropyl Carbonate and 4,5-Dimethyl-1, 3-Dioxolen-2-One. Its products under development include 2-Phenoxyethyl Chloroformate, Cetyl Chloroformate, Tert-Butyl Cyclohexyl Chloroformate, 4-Chloromethyl-5methyl-1,3-dioxol-2-one, Isopropyl chloroformate, Menthyl Chloroformate and others."
+} ]
+, "management" : [
+{
+"name" : "Charandeep Singh Saluja",
+"title" : "Compliance Officer, Assistant Company Secretary"
+}
+,
+{
+"name" : "Abhijit Joshi",
+"title" : "Additional Whole-time Director"
+}
+,
+{
+"name" : "Kaushil Shah",
+"title" : "Deputy Chief Financial Officer"
+}
+,
+{
+"name" : "Chirayu R. Amin",
+"age" : "66",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Udit C. Amin",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shamita Amin",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vijay H. Gandhi",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Amit M. Goradia",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

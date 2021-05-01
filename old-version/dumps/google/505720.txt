@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "505720",
+"exchange" : "BOM",
+"id": "715501",
+"t" : "505720",
+"e" : "BOM",
+"name" : "Hercules Hoists Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:505720"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:505720"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:505720"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "10.03%",
+"annual" : "8.09%",
+"ttm" : "8.76%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.37%",
+"annual" : "-1.35%",
+"ttm" : "-0.86%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-2.26%",
+"ttm" : "-1.13%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.66%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.15%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "132",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.95",
+"l" : "130.30",
+"cp" : "0.73",
+"ccol" : "chg",
+"op" : "128.55",
+"hi" : "131.40",
+"lo" : "128.55",
+"vo" : "2,443.00",
+"avvo" : "",
+"hi52" : "183.70",
+"lo52" : "125.00",
+"mc" : "4.19B",
+"pe" : "68.87",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.89",
+"dy" : "0.77",
+"ldiv" : "1.00",
+"shares" : "32.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715501",
+"name" : "Hercules Hoists Ltd.",
+"t" : "505720",
+"e" : "BOM",
+"l" : "130.30",
+"c" : "+0.95",
+"mc" : "4.19B",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6690180",
+"name" : "Action Construction Equipment Limited",
+"t" : "ACE",
+"e" : "NSE",
+"l" : "188.50",
+"c" : "+6.15",
+"mc" : "22.16B",
+"cp" : "3.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3721033",
+"name" : "Brady \u0026 Morris Engineering. Company Ltd",
+"t" : "505690",
+"e" : "BOM",
+"l" : "65.00",
+"c" : "0.00",
+"mc" : "146.25M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "713850",
+"name" : "Skyline Millars Ltd",
+"t" : "505650",
+"e" : "BOM",
+"l" : "3.55",
+"c" : "-0.11",
+"mc" : "142.80M",
+"cp" : "-3.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12943332",
+"name" : "International Conveyors Ltd",
+"t" : "509709",
+"e" : "BOM",
+"l" : "25.30",
+"c" : "+0.45",
+"mc" : "1.70B",
+"cp" : "1.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14583558",
+"name" : "Kulkarni Power Tools Ltd",
+"t" : "505299",
+"e" : "BOM",
+"l" : "59.45",
+"c" : "+2.80",
+"mc" : "201.77M",
+"cp" : "4.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4330041",
+"name" : "TRF Ltd.",
+"t" : "TRF",
+"e" : "NSE",
+"l" : "223.00",
+"c" : "-0.45",
+"mc" : "2.46B",
+"cp" : "-0.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2745957",
+"name" : "Birla Power Solutions Limited",
+"t" : "BIRLAPOWER",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-0.15",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16776638",
+"name" : "Remi Sales \u0026 Engg Ltd",
+"t" : "504360",
+"e" : "BOM",
+"l" : "14.70",
+"c" : "0.00",
+"mc" : "8.86M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15853858",
+"name" : "TIL Limited",
+"t" : "TIL",
+"e" : "NSE",
+"l" : "512.35",
+"c" : "+2.45",
+"mc" : "5.14B",
+"cp" : "0.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3952531",
+"name" : "Pennar Industries Ltd",
+"t" : "PENIND",
+"e" : "NSE",
+"l" : "61.50",
+"c" : "+2.15",
+"mc" : "7.40B",
+"cp" : "3.62",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "CTS No. 43\u002F2B, Savroli - Kharpada Road, KHOPOLI, 410202, India",
+"phone": "+91-2192-274135",
+"fax": "+91-2192-662504",
+"url": "http:\u002F\u002Fwww.indef.com",
+"overview" : "Hercules Hoists Limited is an India-based company engaged in the business of lifting and handling equipment. The Company provides products and solutions for unitized material handling. The Company operates through two segments: Material Handling Equipment and Windmill Power. Its products and solutions are categorized into groups, such as mechanical material handling equipment, electric chain hoists, electric wire rope hoists and winches, cranes and overhead material handling equipment, storage and retrieval solutions, and ergonomic handling solutions. The Company serves industry verticals, including automotive, engineering (both heavy and light), metals and metal processing, oil\u002Fgas\u002Fpetro-chemical, power generation, cement and infrastructure and food processing. The Company has approximately four windmills of over 1.25 megawatt (MW) generation capacity each. Its wind turbines are located in Dhule District, Maharashtra."
+} ]
+, "management" : [
+{
+"name" : "Prakash Subramaniam",
+"title" : "President, Chief Executive Officer"
+}
+,
+{
+"name" : "Vijay Singh",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Kiran Mukadam",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Hariprasad A. Nevatia",
+"age" : "78",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Shekhar P. Bajaj",
+"age" : "69",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Vandan Shah",
+"age" : "55",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Shruti Jatia",
+"title" : "Additional Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kishorilal F. Jhunjhunwala",
+"age" : "75",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vinaya L. Mehrotra",
+"age" : "83",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

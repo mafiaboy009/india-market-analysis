@@ -1,0 +1,184 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 41711600000,
+                  "fmt": "41.71B",
+                  "longFmt": "41,711,600,000"
+                },
+                "earnings": {
+                  "raw": -2746600000,
+                  "fmt": "-2.75B",
+                  "longFmt": "-2,746,600,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 42934300000,
+                  "fmt": "42.93B",
+                  "longFmt": "42,934,300,000"
+                },
+                "earnings": {
+                  "raw": 1950100000,
+                  "fmt": "1.95B",
+                  "longFmt": "1,950,100,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 40498800000,
+                  "fmt": "40.5B",
+                  "longFmt": "40,498,800,000"
+                },
+                "earnings": {
+                  "raw": 7816500000,
+                  "fmt": "7.82B",
+                  "longFmt": "7,816,500,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 34468700000,
+                  "fmt": "34.47B",
+                  "longFmt": "34,468,700,000"
+                },
+                "earnings": {
+                  "raw": 1756200000,
+                  "fmt": "1.76B",
+                  "longFmt": "1,756,200,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2015",
+                "revenue": {
+                  "raw": 10564600000,
+                  "fmt": "10.56B",
+                  "longFmt": "10,564,600,000"
+                },
+                "earnings": {
+                  "raw": 1635400000,
+                  "fmt": "1.64B",
+                  "longFmt": "1,635,400,000"
+                }
+              },
+              {
+                "date": "3Q2015",
+                "revenue": {
+                  "raw": 10850200000,
+                  "fmt": "10.85B",
+                  "longFmt": "10,850,200,000"
+                },
+                "earnings": {
+                  "raw": 1612100000,
+                  "fmt": "1.61B",
+                  "longFmt": "1,612,100,000"
+                }
+              },
+              {
+                "date": "4Q2015",
+                "revenue": {
+                  "raw": 9870400000,
+                  "fmt": "9.87B",
+                  "longFmt": "9,870,400,000"
+                },
+                "earnings": {
+                  "raw": 596600000,
+                  "fmt": "596.6M",
+                  "longFmt": "596,600,000"
+                }
+              },
+              {
+                "date": "1Q2016",
+                "revenue": {
+                  "raw": 11030000000,
+                  "fmt": "11.03B",
+                  "longFmt": "11,030,000,000"
+                },
+                "earnings": {
+                  "raw": 49900000,
+                  "fmt": "49.9M",
+                  "longFmt": "49,900,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 68.2,
+            "fmt": "68.20"
+          },
+          "targetHighPrice": {
+            "raw": 143.0,
+            "fmt": "143.00"
+          },
+          "targetLowPrice": {
+            "raw": 60.0,
+            "fmt": "60.00"
+          },
+          "targetMeanPrice": {
+            "raw": 101.5,
+            "fmt": "101.50"
+          },
+          "targetMedianPrice": {
+            "raw": 101.5,
+            "fmt": "101.50"
+          },
+          "recommendationMean": {
+            "raw": 1.0,
+            "fmt": "1.00"
+          },
+          "recommendationKey": "strong_buy",
+          "numberOfAnalystOpinions": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {},
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {},
+          "debtToEquity": {},
+          "revenuePerShare": {},
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 8479300000,
+            "fmt": "8.48B",
+            "longFmt": "8,479,300,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {},
+          "ebitdaMargins": {},
+          "operatingMargins": {},
+          "profitMargins": {},
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

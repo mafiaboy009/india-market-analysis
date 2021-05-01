@@ -1,0 +1,290 @@
+
+// [
+{
+"symbol" : "532726",
+"exchange" : "BOM",
+"id": "704048",
+"t" : "532726",
+"e" : "BOM",
+"name" : "Gallantt Metal Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532726"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532726"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532726"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.85%",
+"annual" : "4.39%",
+"ttm" : "6.21%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.82%",
+"annual" : "5.76%",
+"ttm" : "7.16%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.49%",
+"ttm" : "9.78%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.17%",
+"ttm" : "9.08%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.88%",
+"ttm" : "14.04%"
+}
+]
+, "c" : "-0.90",
+"l" : "44.40",
+"cp" : "-1.99",
+"ccol" : "chr",
+"op" : "43.05",
+"hi" : "46.90",
+"lo" : "43.05",
+"vo" : "6,917.00",
+"avvo" : "",
+"hi52" : "62.00",
+"lo52" : "33.95",
+"mc" : "3.54B",
+"pe" : "7.89",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.63",
+"dy" : "",
+"ldiv" : "",
+"shares" : "81.32M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "704048",
+"name" : "Gallantt Metal Limited",
+"t" : "532726",
+"e" : "BOM",
+"l" : "44.40",
+"c" : "-0.90",
+"mc" : "3.54B",
+"cp" : "-1.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715010",
+"name" : "Rathi Bars Limited",
+"t" : "532918",
+"e" : "BOM",
+"l" : "32.05",
+"c" : "0.00",
+"mc" : "526.67M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "677033",
+"name" : "Mukand Limited",
+"t" : "500460",
+"e" : "BOM",
+"l" : "78.70",
+"c" : "+3.20",
+"mc" : "11.05B",
+"cp" : "4.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15391558",
+"name" : "Kamdhenu Ltd",
+"t" : "KAMDHENU",
+"e" : "NSE",
+"l" : "266.85",
+"c" : "+12.70",
+"mc" : "6.24B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "726629",
+"name" : "Suraj Ltd",
+"t" : "531638",
+"e" : "BOM",
+"l" : "56.65",
+"c" : "-2.95",
+"mc" : "1.09B",
+"cp" : "-4.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "874709061795294",
+"name" : "G G Engineering Ltd",
+"t" : "540614",
+"e" : "BOM",
+"l" : "53.00",
+"c" : "0.00",
+"mc" : "221.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13788298",
+"name" : "Steel Tubes of India Ltd",
+"t" : "STEELTUBES",
+"e" : "NSE",
+"l" : "2.05",
+"c" : "",
+"mc" : "0.00",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13116934",
+"name" : "Mahalaxmi Seamless Ltd",
+"t" : "513460",
+"e" : "BOM",
+"l" : "9.12",
+"c" : "0.00",
+"mc" : "48.17M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16216547",
+"name" : "Gallantt Ispat Limited",
+"t" : "GALLISPAT",
+"e" : "NSE",
+"l" : "303.00",
+"c" : "+1.85",
+"mc" : "8.54B",
+"cp" : "0.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "116296903323442",
+"name" : "Skipper Ltd",
+"t" : "SKIPPER",
+"e" : "NSE",
+"l" : "240.00",
+"c" : "-1.05",
+"mc" : "24.68B",
+"cp" : "-0.44",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Near Toll Gate Village - Samakhyali,, Taluka - Bachau,, KUTCH, 370201, India",
+"phone": "+91-33-40642189",
+"fax": "+91-33-22312429",
+"overview" : "Gallantt Metal Limited is engaged in the business of production of iron, steel and power. The Company operates through two segments: Steel and Power. The Company\u0027s geographical segments include India and Rest of the World. The Company manufactures and produces various kinds of iron and steel products, such as sponge iron, pig iron, cast iron, bars, rods and billets. The Company also has a captive power plant of approximately 25 megawatts (MW). The Company sells a part of its production in Gujarat, Maharashtra and Rajasthan. The Company has a steel plant at Taluka-Bachau, Kutch, Gujrat, to manufacture sponge iron, mild steel billets and re-rolled products (thermo-mechanical treatment bars)."
+} ]
+, "management" : [
+{
+"name" : "Chandra Prakash Agarwal",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sandip Kumar Agarwal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Rajesh Upadhyaya",
+"title" : "Compliance Officer, Company Secretary, Manager - Accounts \u0026 Finance"
+}
+,
+{
+"name" : "Dinesh Kumar Raghubir Prasad Agarwal",
+"age" : "47",
+"title" : "Whole-time Director"
+}
+,
+{
+"name" : "Prashant Jalan",
+"age" : "42",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Ramesh Kumar Choudhary",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Nitin M. Kandoi",
+"age" : "45",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Jyotirindra Nath Dey",
+"age" : "75",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Rajesh Kumar Jain",
+"age" : "45",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Prasant Kankrania",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

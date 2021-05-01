@@ -1,0 +1,288 @@
+
+ [
+{
+"symbol" : "526650",
+"exchange" : "BOM",
+"id": "717139",
+"t" : "526650",
+"e" : "BOM",
+"name" : "Tourism Finance Corporation of India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:526650"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:526650"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:526650"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "38.44%",
+"annual" : "33.91%",
+"ttm" : "36.40%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "52.77%",
+"annual" : "35.19%",
+"ttm" : "47.93%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "35.48%",
+"ttm" : "48.25%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.28%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "13.19%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "32",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.70",
+"l" : "162.95",
+"cp" : "1.05",
+"ccol" : "chg",
+"op" : "162.00",
+"hi" : "164.50",
+"lo" : "162.00",
+"vo" : "33,465.00",
+"avvo" : "",
+"hi52" : "182.00",
+"lo52" : "55.90",
+"mc" : "13.10B",
+"pe" : "16.08",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.13",
+"dy" : "1.23",
+"ldiv" : "2.00",
+"shares" : "80.72M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "717139",
+"name" : "Tourism Finance Corporation of India Ltd",
+"t" : "526650",
+"e" : "BOM",
+"l" : "162.95",
+"c" : "+1.70",
+"mc" : "13.10B",
+"cp" : "1.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12957057",
+"name" : "Intec Capital Ltd",
+"t" : "526871",
+"e" : "BOM",
+"l" : "36.70",
+"c" : "0.00",
+"mc" : "674.04M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8460861",
+"name" : "Capri Global Capital Ltd",
+"t" : "CGCL",
+"e" : "NSE",
+"l" : "101.50",
+"c" : "+1.65",
+"mc" : "17.80B",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "138715870326043",
+"name" : "Money Masters Leasing and Finance Ltd",
+"t" : "535910",
+"e" : "BOM",
+"l" : "4.55",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7977316",
+"name" : "L\u0026T Finance Holdings Ltd",
+"t" : "L\u0026TFH",
+"e" : "NSE",
+"l" : "168.00",
+"c" : "+5.80",
+"mc" : "305.14B",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "399986380824131",
+"name" : "SRS Finance Ltd",
+"t" : "536799",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "-0.04",
+"mc" : "93.22M",
+"cp" : "-4.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7549254",
+"name" : "Baid Leasing \u0026 Finance Co",
+"t" : "511724",
+"e" : "BOM",
+"l" : "167.40",
+"c" : "+1.55",
+"mc" : "1.69B",
+"cp" : "0.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3873499",
+"name" : "Paragon Finance Ltd",
+"t" : "531255",
+"e" : "BOM",
+"l" : "24.90",
+"c" : "-2.60",
+"mc" : "105.82M",
+"cp" : "-9.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16455919",
+"name" : "Cholamandalam Investment and Fin Co Ltd",
+"t" : "CHOLAFIN",
+"e" : "NSE",
+"l" : "1,438.00",
+"c" : "+22.40",
+"mc" : "223.74B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7686660",
+"name" : "Shalibhadra Finance Ltd",
+"t" : "511754",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "-5.35",
+"mc" : "652.09M",
+"cp" : "-3.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11784956",
+"name" : "Mahindra \u0026 Mahindra Fin. Services Ltd.",
+"t" : "M\u0026MFIN",
+"e" : "NSE",
+"l" : "445.75",
+"c" : "+4.40",
+"mc" : "274.84B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "IFCI Tower, 61, Nehru Place, NEW DELHI, 110017, India",
+"phone": "+91-11-47472200",
+"fax": "+91-11-29561171",
+"url": "http:\u002F\u002Fwww.tfciltd.com",
+"overview" : "Tourism Finance Corporation of India Limited is a non-banking finance company, which offers financial services. The Company is engaged in financing of projects by way of loan or investment. It provides financial assistance to tourism related\u002Fother projects in the ordinary course of business. The Company provides financial assistance by way of rupee loan, subscription to equity\u002Fdebentures and corporate loans to hotel projects, amusement parks, ropeways, multiplexes and restaurants, among others. The Company\u0027s services include tourism project financing, other financing and tourism advisory services. Its tourism projects include hotels and resorts service apartments, travel and tour operating agencies, restaurant chains, convention halls, and education and sports. The Company provides project-related services to various private sector clients. It is involved in the development of project concepts around lakes\u002Fwater bodies and development of a multi-facility amusement park complex."
+} ]
+, "management" : [
+{
+"name" : "Anoop Bali",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sanjay Ahuja",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Satpal Kumar Arora",
+"title" : "Managing Director, Additional Director"
+}
+,
+{
+"name" : "Rajiv P. Singh",
+"title" : "Senior Company Secretary"
+}
+,
+{
+"name" : "Niraj Agarwal",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Suman Billa",
+"title" : "Director - Government Nominee"
+}
+,
+{
+"name" : "B. N. Nayak",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rudhra Gangadharan",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Bapi Munshi",
+"age" : "61",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

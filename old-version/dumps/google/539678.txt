@@ -1,0 +1,302 @@
+
+// [
+{
+"symbol" : "539678",
+"exchange" : "BOM",
+"id": "961347213516589",
+"t" : "539678",
+"e" : "BOM",
+"name" : "Quick Heal Technologies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:539678"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:539678"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:539678"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "18.00%",
+"annual" : "17.74%",
+"ttm" : "17.27%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "24.23%",
+"annual" : "18.52%",
+"ttm" : "23.29%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "30.22%",
+"ttm" : "30.31%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "12.17%",
+"annual" : "7.34%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "13.84%",
+"annual" : "8.25%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,332",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.80",
+"l" : "299.75",
+"cp" : "1.28",
+"ccol" : "chg",
+"op" : "299.40",
+"hi" : "304.60",
+"lo" : "298.95",
+"vo" : "44,697.00",
+"avvo" : "",
+"hi52" : "403.50",
+"lo52" : "172.75",
+"mc" : "21.07B",
+"pe" : "32.02",
+"fwpe" : "",
+"beta" : "",
+"eps" : "9.36",
+"dy" : "0.83",
+"ldiv" : "2.50",
+"shares" : "70.32M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "961347213516589",
+"name" : "Quick Heal Technologies Ltd",
+"t" : "539678",
+"e" : "BOM",
+"l" : "299.75",
+"c" : "+3.80",
+"mc" : "21.07B",
+"cp" : "1.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15923272",
+"name" : "Palred Technologies Ltd",
+"t" : "PALRED",
+"e" : "NSE",
+"l" : "46.80",
+"c" : "",
+"mc" : "1.82B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "10405902",
+"name" : "Vama Industries Ltd",
+"t" : "512175",
+"e" : "BOM",
+"l" : "25.20",
+"c" : "0.00",
+"mc" : "1.31B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16219596",
+"name" : "Persistent Systems Limited",
+"t" : "PERSISTENT",
+"e" : "NSE",
+"l" : "863.00",
+"c" : "+41.20",
+"mc" : "68.94B",
+"cp" : "5.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7860582",
+"name" : "IKF Technologies Limited",
+"t" : "532414",
+"e" : "BOM",
+"l" : "0.65",
+"c" : "-0.03",
+"mc" : "279.88M",
+"cp" : "-4.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4933239",
+"name" : "Diamond Infosystems Ltd",
+"t" : "530801",
+"e" : "BOM",
+"l" : "1.52",
+"c" : "0.00",
+"mc" : "611.04M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "706268",
+"name" : "Intense Technologies Ltd.",
+"t" : "532326",
+"e" : "BOM",
+"l" : "79.45",
+"c" : "+0.10",
+"mc" : "1.73B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15037027",
+"name" : "Infinite Computer Solutions (In) Ltd",
+"t" : "INFINITE",
+"e" : "NSE",
+"l" : "488.00",
+"c" : "-0.10",
+"mc" : "16.28B",
+"cp" : "-0.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2245864",
+"name" : "Ranklin Solutions Limited",
+"t" : "RANKLIN",
+"e" : "NSE",
+"l" : "2.20",
+"c" : "",
+"mc" : "26.49M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "16027965",
+"name" : "SQS India BFSI Ltd",
+"t" : "SQSBFSI",
+"e" : "NSE",
+"l" : "517.00",
+"c" : "-1.25",
+"mc" : "5.55B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12692899",
+"name" : "R Systems International Limited",
+"t" : "RSYSTEMS",
+"e" : "NSE",
+"l" : "39.65",
+"c" : "-1.40",
+"mc" : "4.96B",
+"cp" : "-3.41",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "603 Mayfair Towers II , Wakdewadi, Shivajinagar., PUNE, 411014, India",
+"phone": "+91-20-66813232",
+"fax": "+91-20-41060401",
+"url": "http:\u002F\u002Fwww.quickheal.co.in\u002F",
+"overview" : "Quick Heal Technologies Limited, formerly Quick Heal Technologies Pvt. Ltd, is a provider of security software products and solutions in India. The Company is engaged in the sale of Internet security products and software support services. Its anti-virus products are available across all the four segments: retail, small and medium business (SMB), enterprise and mobile. The Company offers products, including Quick Heal Total Security\u003B Quick Heal Internet Security\u003B Quick Heal AntiVirus Pro\u003B Quick Heal Total Security for Mac\u003B Quick Heal Tablet Security for Android\u003B Quick Heal Total Security for Android\u003B Quick Heal PCTuner 3.0\u003B Guardian NetSecure\u003B Quick Heal Mobile Security for Android\u003B Fonetastic Pro\u003B Quick Heal Gadget Securance\u003B Seqrite Endpoint Security\u003B Seqrite Mobile Device Management (MDM), and Seqrite Server Security. Its products are sold under two brands Quick Heal and Seqrite. Its solutions are designed to suit government establishments and corporate houses, among others."
+} ]
+, "management" : [
+{
+"name" : "Kailash Sahebrao Katkar",
+"age" : "49",
+"title" : "Executive Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Sanjay Sahebrao Katkar",
+"age" : "45",
+"title" : "Chief Technical Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Raghav Mulay",
+"age" : "29",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anupama K Katkar",
+"age" : "44",
+"title" : "Vice President - Human Resources, Administration, and Training and Development"
+}
+,
+{
+"name" : "Vivek Tuljapurkar",
+"age" : "55",
+"title" : "Vice President - Business Logic"
+}
+,
+{
+"name" : "Deepak Kalera",
+"age" : "38",
+"title" : "Finance Controller"
+}
+,
+{
+"name" : "Abhijit Kulkarni",
+"age" : "36",
+"title" : "Associate Director - Development"
+}
+,
+{
+"name" : "Ranjeet Menon",
+"age" : "37",
+"title" : "Associate Director - Threat Research and Response"
+}
+,
+{
+"name" : "Basant Sekhani",
+"age" : "37",
+"title" : "Associate Director - Quality Assurance"
+}
+,
+{
+"name" : "Abhijit Shantaram Jorvekar",
+"age" : "42",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

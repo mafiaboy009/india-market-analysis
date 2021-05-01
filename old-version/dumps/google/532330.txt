@@ -1,0 +1,270 @@
+
+// [
+{
+"symbol" : "532330",
+"exchange" : "BOM",
+"id": "15398212",
+"t" : "532330",
+"e" : "BOM",
+"name" : "Biopac India Corp Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=BIOP.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532330"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532330"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532330"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.86%",
+"annual" : "0.21%",
+"ttm" : "1.06%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.92%",
+"annual" : "9.51%",
+"ttm" : "10.38%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "21.01%",
+"ttm" : "21.31%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.16%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.49%",
+"ttm" : ""
+}
+]
+, "c" : "+1.20",
+"l" : "28.15",
+"cp" : "4.45",
+"ccol" : "chg",
+"op" : "27.85",
+"hi" : "28.25",
+"lo" : "26.80",
+"vo" : "16,621.00",
+"avvo" : "",
+"hi52" : "45.45",
+"lo52" : "15.55",
+"mc" : "485.59M",
+"pe" : "89.54",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.31",
+"dy" : "",
+"ldiv" : "",
+"shares" : "17.25M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15398212",
+"name" : "Biopac India Corp Ltd",
+"t" : "532330",
+"e" : "BOM",
+"l" : "28.15",
+"c" : "+1.20",
+"mc" : "485.59M",
+"cp" : "4.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6640481",
+"name" : "Beardsell Ltd",
+"t" : "BEARDSELL",
+"e" : "NSE",
+"l" : "56.35",
+"c" : "+1.60",
+"mc" : "1.61B",
+"cp" : "2.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3874594",
+"name" : "Ess Dee Aluminium Limited",
+"t" : "ESSDEE",
+"e" : "NSE",
+"l" : "65.00",
+"c" : "+0.30",
+"mc" : "2.07B",
+"cp" : "0.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15189846",
+"name" : "PG Foils Ltd",
+"t" : "526747",
+"e" : "BOM",
+"l" : "180.20",
+"c" : "-3.70",
+"mc" : "1.46B",
+"cp" : "-2.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9263360",
+"name" : "Parekh Aluminex Ltd",
+"t" : "PARAL",
+"e" : "NSE",
+"l" : "47.00",
+"c" : "",
+"mc" : "608.18M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "703857",
+"name" : "Bilcare Ltd",
+"t" : "526853",
+"e" : "BOM",
+"l" : "64.50",
+"c" : "+2.85",
+"mc" : "1.51B",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "434058941224572",
+"name" : "Arcotech Limited",
+"t" : "ARCOTECH",
+"e" : "NSE",
+"l" : "45.70",
+"c" : "+0.50",
+"mc" : "4.80B",
+"cp" : "1.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3722858",
+"name" : "MPL Plastics Ltd",
+"t" : "526143",
+"e" : "BOM",
+"l" : "18.35",
+"c" : "+0.35",
+"mc" : "228.08M",
+"cp" : "1.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6930783",
+"name" : "Tirupati Foam Ltd",
+"t" : "590035",
+"e" : "BOM",
+"l" : "54.05",
+"c" : "",
+"mc" : "238.20M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6453881",
+"name" : "Gujarat Metallic Coal and Coke Ltd",
+"t" : "531881",
+"e" : "BOM",
+"l" : "27.80",
+"c" : "-0.55",
+"mc" : "55.06M",
+"cp" : "-1.94",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7638190",
+"name" : "Innocorp Ltd",
+"t" : "531929",
+"e" : "BOM",
+"l" : "2.15",
+"c" : "0.00",
+"mc" : "17.07M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "301\u002F302 Sagar Avenue, S.V.Road, Andheri (West) 3rd Floor, Andheri (West), MUMBAI, 400093, India",
+"phone": "+91-22-28361041",
+"fax": "+91-22-28361046",
+"url": "http:\u002F\u002Fwww.biopacindia.com\u002F",
+"overview" : "Biopac India Corporation Limited manufactures foam disposable food service products. The Company manufactures approximately three compartment lunch boxes for office, school and picnic lunch box. It offers products in various categories, such as disposable dinnerware, food storage containers, foam boards and polypropylene\u002Fpolystyrene sheets (PP Sheets). The Company offers food storage containers in round, square, rectangle shapes with storage capacities ranging from 236 milliliters (ml) to 2 liters. Its foam boards category includes products, such as BIOFOAM PAPER LAMINATED-ALPHABOARD and BIOFOAM BOARDS-STANDARD. The Company\u0027s foam boards are used in applications, including flooring insulation, wall insulation, cold storage and roofing insulation. Its PP Sheets have applications, including thermoforming, vacuum forming, various food packaging product, blister packaging and industrial parts packaging, and display material, such as stationary item and packaging material."
+} ]
+, "management" : [
+{
+"name" : "Harish B. Doshi",
+"age" : "57",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Pankaj Bhupatrai Doshi",
+"age" : "54",
+"title" : "Compliance Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Pushpa Doshi",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Smita L. Sanghavi",
+"age" : "59",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "R. S. Maker",
+"age" : "64",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Mehul D. Patel",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

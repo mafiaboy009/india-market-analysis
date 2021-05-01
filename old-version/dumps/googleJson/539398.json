@@ -1,0 +1,290 @@
+
+ [
+{
+"symbol" : "539398",
+"exchange" : "BOM",
+"id": "815396118250062",
+"t" : "539398",
+"e" : "BOM",
+"name" : "Vishal Bearings Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=VSBE.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:539398"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:539398"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:539398"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.93%",
+"annual" : "2.46%",
+"ttm" : "4.99%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.03%",
+"annual" : "7.21%",
+"ttm" : "10.60%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "14.92%",
+"ttm" : "17.00%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "9.26%",
+"annual" : "2.35%",
+"ttm" : "5.98%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "35.71%",
+"annual" : "9.51%",
+"ttm" : "22.19%"
+}
+]
+, "c" : "0.00",
+"l" : "59.00",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "59.00",
+"hi" : "59.00",
+"lo" : "59.00",
+"vo" : "3,750.00",
+"avvo" : "",
+"hi52" : "78.00",
+"lo52" : "26.40",
+"mc" : "353.70M",
+"pe" : "16.55",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.56",
+"dy" : "",
+"ldiv" : "0.50",
+"shares" : "6.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "815396118250062",
+"name" : "Vishal Bearings Ltd",
+"t" : "539398",
+"e" : "BOM",
+"l" : "59.00",
+"c" : "0.00",
+"mc" : "353.70M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "704892",
+"name" : "ABC bearings Limited",
+"t" : "505665",
+"e" : "BOM",
+"l" : "449.15",
+"c" : "-6.05",
+"mc" : "5.20B",
+"cp" : "-1.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9762029",
+"name" : "Timken India Limited",
+"t" : "TIMKEN",
+"e" : "NSE",
+"l" : "802.00",
+"c" : "-18.80",
+"mc" : "54.79B",
+"cp" : "-2.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14285224",
+"name" : "NRB Bearings Limited",
+"t" : "NRBBEARING",
+"e" : "NSE",
+"l" : "163.45",
+"c" : "+2.45",
+"mc" : "15.81B",
+"cp" : "1.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "141293072577712",
+"name" : "NRB Industrial Bearings Ltd",
+"t" : "NIBL",
+"e" : "NSE",
+"l" : "25.35",
+"c" : "+0.15",
+"mc" : "615.47M",
+"cp" : "0.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11799720",
+"name" : "Austin Engineering Co Ltd",
+"t" : "522005",
+"e" : "BOM",
+"l" : "90.80",
+"c" : "-3.30",
+"mc" : "315.62M",
+"cp" : "-3.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6515568",
+"name" : "Shilp Gravures Ltd",
+"t" : "513709",
+"e" : "BOM",
+"l" : "139.80",
+"c" : "-0.35",
+"mc" : "859.74M",
+"cp" : "-0.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13463651",
+"name" : "SNL Bearings Ltd",
+"t" : "505827",
+"e" : "BOM",
+"l" : "373.85",
+"c" : "+11.80",
+"mc" : "1.34B",
+"cp" : "3.26",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1298120",
+"name" : "Schaeffler India Ltd",
+"t" : "SCHAEFFLER",
+"e" : "NSE",
+"l" : "5,280.00",
+"c" : "-68.90",
+"mc" : "88.05B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "677078",
+"name" : "Bimetal Bearings Limited",
+"t" : "505681",
+"e" : "BOM",
+"l" : "613.65",
+"c" : "+3.80",
+"mc" : "2.35B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10611276",
+"name" : "SKF India Ltd",
+"t" : "SKFINDIA",
+"e" : "NSE",
+"l" : "1,828.00",
+"c" : "-11.85",
+"mc" : "93.84B",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": ", VERAVAL, 360024, India",
+"phone": "+91-2827-252273",
+"fax": "+91-2827-253087",
+"url": "http:\u002F\u002Fwww.vishalbearings.com\u002F",
+"overview" : "Vishal Bearings Limited is an India-based company, which is engaged in manufacturing of bearing rollers and other allied activities. The Company is engaged in all kinds of automobile and engineering bearing parts, such as cons, tapper, balls, rollers and needles. The Company manufactures a range of taper rollers, cylindrical rollers and spherical rollers, which include taper bearing roller, cylindrical bearing roller and spherical bearing roller. Its products are sold through various channels, such as Domestic sales, Institutional, which includes original equipment manufacturers (OEMs), and Exports. Its products are used by end users in diverse industries, such as rail, light vehicles, off-highway, heavy trucks and auto-aftermarket industries classified as automobile industries and heavy industries, industrial processes, gear drives, energy and industrial distribution, as segments within the process industries. Its manufacturing facilities are located at Shapar (Veraval), Rajkot."
+} ]
+, "management" : [
+{
+"name" : "Dilipkumar Changela",
+"age" : "52",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Vishal Changela",
+"age" : "29",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Divyeshkumar Hiralal Changela",
+"age" : "39",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Dimpi Sampat",
+"age" : "24",
+"title" : "Company Secretary and Compliance Officer"
+}
+,
+{
+"name" : "Hiralal Changela",
+"age" : "65",
+"title" : "Whole- time Director"
+}
+,
+{
+"name" : "Vrajlal Changela",
+"age" : "62",
+"title" : "Whole- time Director"
+}
+,
+{
+"name" : "Urja Ghetiya",
+"age" : "23",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Nitesh Kumar Patel",
+"age" : "43",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rakesh Savani",
+"age" : "30",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

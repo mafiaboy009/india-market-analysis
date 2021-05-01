@@ -1,0 +1,293 @@
+
+ [
+{
+"symbol" : "530129",
+"exchange" : "BOM",
+"id": "13225581",
+"t" : "530129",
+"e" : "BOM",
+"name" : "Nile Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=NILE.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530129"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530129"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530129"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.10%",
+"annual" : "4.54%",
+"ttm" : "4.97%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.29%",
+"annual" : "8.42%",
+"ttm" : "8.68%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.01%",
+"ttm" : "9.29%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "21.08%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "30.42%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "435",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.80",
+"l" : "806.10",
+"cp" : "-0.35",
+"ccol" : "chr",
+"op" : "810.00",
+"hi" : "828.85",
+"lo" : "805.00",
+"vo" : "3,753.00",
+"avvo" : "",
+"hi52" : "1,164.00",
+"lo52" : "535.00",
+"mc" : "2.44B",
+"pe" : "7.97",
+"fwpe" : "",
+"beta" : "",
+"eps" : "101.19",
+"dy" : "0.71",
+"ldiv" : "2.00",
+"shares" : "3.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "13225581",
+"name" : "Nile Limited",
+"t" : "530129",
+"e" : "BOM",
+"l" : "806.10",
+"c" : "-2.80",
+"mc" : "2.44B",
+"cp" : "-0.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7408036",
+"name" : "Hindustan Zinc Ltd",
+"t" : "HINDZINC",
+"e" : "NSE",
+"l" : "332.75",
+"c" : "+4.75",
+"mc" : "1.41T",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9680794",
+"name" : "Sawaca Business Machines Ltd",
+"t" : "531893",
+"e" : "BOM",
+"l" : "2.34",
+"c" : "0.00",
+"mc" : "24.34M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11181481",
+"name" : "Deccan Gold Mines Ltd",
+"t" : "512068",
+"e" : "BOM",
+"l" : "34.95",
+"c" : "+0.05",
+"mc" : "3.25B",
+"cp" : "0.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1694733",
+"name" : "Vedanta Ltd",
+"t" : "VEDL",
+"e" : "NSE",
+"l" : "342.00",
+"c" : "+4.10",
+"mc" : "1.27T",
+"cp" : "1.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6118813",
+"name" : "Deccan Cements Ltd.",
+"t" : "DECCANCE",
+"e" : "NSE",
+"l" : "574.00",
+"c" : "-2.70",
+"mc" : "7.97B",
+"cp" : "-0.47",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5004145",
+"name" : "Kallam Spinning Mills Ltd",
+"t" : "530201",
+"e" : "BOM",
+"l" : "31.50",
+"c" : "+0.75",
+"mc" : "1.35B",
+"cp" : "2.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6078754",
+"name" : "Kakatiya Cement Sugar And Industries Ltd",
+"t" : "KAKATCEM",
+"e" : "NSE",
+"l" : "298.00",
+"c" : "+3.65",
+"mc" : "2.33B",
+"cp" : "1.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1374673",
+"name" : "Nava Bharat Ventures Limited",
+"t" : "NBVENTURES",
+"e" : "NSE",
+"l" : "152.00",
+"c" : "+0.60",
+"mc" : "26.86B",
+"cp" : "0.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715254",
+"name" : "Kanishk Steel Industries Ltd.",
+"t" : "513456",
+"e" : "BOM",
+"l" : "15.49",
+"c" : "+0.55",
+"mc" : "440.47M",
+"cp" : "3.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11033843",
+"name" : "Godawari Power and Ispat Limited",
+"t" : "GPIL",
+"e" : "NSE",
+"l" : "521.70",
+"c" : "+24.80",
+"mc" : "18.38B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Plot No 38 \u0026 40 Apiic Industrial Park Gajulamandyam Villege,Renigunta Mandal, HYDERABAD, 500034, India",
+"phone": "+91-40-23606641",
+"fax": "+91-40-23606640",
+"url": "http:\u002F\u002Fwww.nilelimited.com\u002F",
+"overview" : "Nile Limited is engaged in the manufacturing of lead and lead alloys. The Lead Division produces lead and lead alloys. The Company’s products include Lead Antimonial alloys, Lead Selenium alloys, Lead Calcium alloys and Lead Tin alloys. The Company\u0027s secondary lead recycling plants are located in Panthangi Village, Choutuppal Mandal Nalgonda District, Telangana, and APIIC Industrial Park, Gajulamandyam Village, Renigunta Mandal, Tirupati, Chittoor District, Andhra Pradesh. The Company\u0027s two-megawatt wind farm is located at Ramagiri, Ananthapur district, Andhra Pradesh. The Company’s Lead recycling capacity is 82,000 tons per annum. The Company\u0027s product range includes pure lead 99.97% purity, lead antimonial alloys, lead selenium alloys, lead calcium alloys and lead tin alloys. The Company caters to the lead acid battery manufacturers, polyvinyl chloride (PVC) stabilizers and lead oxide manufacturers."
+} ]
+, "management" : [
+{
+"name" : "V. Ramesh",
+"age" : "63",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Sandeep Ramesh",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Bikram Keshari Prusty",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "K. V. Ramana",
+"title" : "Chief Operating Officer - Non-Ferrous Division"
+}
+,
+{
+"name" : "V. Sridharan",
+"title" : "Chief Operating Officer - Glass Lining Division"
+}
+,
+{
+"name" : "Vuyyuru Rajeswari",
+"title" : "Director"
+}
+,
+{
+"name" : "Suketu Harish Shah",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Sridar Swamy",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "V. Ashok",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Satish Malladi",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

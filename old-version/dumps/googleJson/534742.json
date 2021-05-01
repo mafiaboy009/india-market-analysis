@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "534742",
+"exchange" : "BOM",
+"id": "835053155878614",
+"t" : "534742",
+"e" : "BOM",
+"name" : "Zuari Agro Chemicals Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:534742"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:534742"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:534742"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-0.68%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "5.08%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.29%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.56%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-3.99%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "727",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.10",
+"l" : "526.00",
+"cp" : "-0.21",
+"ccol" : "chr",
+"op" : "528.40",
+"hi" : "536.00",
+"lo" : "524.00",
+"vo" : "13,800.00",
+"avvo" : "",
+"hi52" : "689.45",
+"lo52" : "315.00",
+"mc" : "21.96B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "0.19",
+"ldiv" : "1.00",
+"shares" : "42.06M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "835053155878614",
+"name" : "Zuari Agro Chemicals Ltd",
+"t" : "534742",
+"e" : "BOM",
+"l" : "526.00",
+"c" : "-1.10",
+"mc" : "21.96B",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14459203",
+"name" : "Shiva Global Agro Industries Ltd",
+"t" : "530433",
+"e" : "BOM",
+"l" : "71.00",
+"c" : "+0.55",
+"mc" : "705.00M",
+"cp" : "0.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7150786265096",
+"name" : "Satia Industries Ltd",
+"t" : "539201",
+"e" : "BOM",
+"l" : "202.20",
+"c" : "0.00",
+"mc" : "2.02B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "726600898392511",
+"name" : "Aspinwall \u0026 Co Ltd",
+"t" : "ASPINWALL",
+"e" : "NSE",
+"l" : "420.00",
+"c" : "-0.45",
+"mc" : "3.23B",
+"cp" : "-0.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14596605",
+"name" : "Zuari Global Ltd",
+"t" : "ZUARIGLOB",
+"e" : "NSE",
+"l" : "195.00",
+"c" : "+4.85",
+"mc" : "5.75B",
+"cp" : "2.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13859287",
+"name" : "Madras Fertilizers Ltd",
+"t" : "MADRASFERT",
+"e" : "NSE",
+"l" : "32.45",
+"c" : "0.00",
+"mc" : "5.16B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5805358",
+"name" : "Chambal Fertilisers \u0026 Chemicals Ltd (P)",
+"t" : "CHAMBLFERT",
+"e" : "NSE",
+"l" : "171.50",
+"c" : "+14.00",
+"mc" : "71.38B",
+"cp" : "8.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15660854",
+"name" : "Mangalore Chemicals \u0026 Fertilizers Ltd.",
+"t" : "MANGCHEFER",
+"e" : "NSE",
+"l" : "67.75",
+"c" : "-0.40",
+"mc" : "8.07B",
+"cp" : "-0.59",
+"ccol" : "chr"
+}
+,
+{
+"id" : "728719",
+"name" : "Camson Bio Technologies Ltd",
+"t" : "538858",
+"e" : "BOM",
+"l" : "17.45",
+"c" : "+0.30",
+"mc" : "515.98M",
+"cp" : "1.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7203464",
+"name" : "Basant Agro Tech India Ltd",
+"t" : "524687",
+"e" : "BOM",
+"l" : "7.35",
+"c" : "-0.01",
+"mc" : "671.59M",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8063379",
+"name" : "Nagarjuna Fertilizers and Chemicals Ltd",
+"t" : "NAGARFERT",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Global Business Park Tower A, 5th Floor, M.G. Road, GURGAON, GOA 122002, India",
+"phone": "+91-832-4827800",
+"fax": "+91-832-4212046",
+"url": "http:\u002F\u002Fzuari.in\u002F",
+"overview" : "Zuari Agro Chemicals Limited is a fertilizer company. The Company is engaged in the manufacture, sale and trading of fertilizers and seeds. The Company is also an importer of fertilizers and farm nutrients. It produces fertilizers of various grades, along with seeds, pesticides, micro nutrients and specialty fertilizers. Its fertilizer plant has an annual installed capacity of approximately 1,059,300 metric tons of fertilizer. It has a manufacturing facility at Goa, which consists of over four plants. Its plants provide farmers with urea, diammonium phosphate (DAP), and nitrogen, phosphorous and potassium (NPK)-based fertilizers. Its products are marketed under the Jai Kisaan brand. It has approximately 3,300 dealers and over 11,000 sub dealers that market various brands of fertilizer and other agri-inputs. It has marketing offices that are spread over an area covering Andhra Pradesh and Tamil Nadu, among others. It operates in India and caters to the needs of the domestic market."
+} ]
+, "management" : [
+{
+"name" : "Sandeep Agrawal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Naveen Kapoor",
+"age" : "58",
+"title" : "President of Agri-Business"
+}
+,
+{
+"name" : "R. Y. Patil",
+"title" : "Compliance Officer, Chief General Manager, Company Secretary"
+}
+,
+{
+"name" : "V. K. Sinha",
+"age" : "48",
+"title" : "Vice President - Strategic Planning"
+}
+,
+{
+"name" : "N. Suresh Krishnan",
+"age" : "51",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Sunil Sethy",
+"title" : "Managing Director, Additional Director"
+}
+,
+{
+"name" : "Saroj Kumar Poddar",
+"age" : "69",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Kiran Dhingra",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Akshay Poddar",
+"age" : "39",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Jayant Narayan Godbole",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,192 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 46981124,
+            "fmt": "46.98M",
+            "longFmt": "46,981,124"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.07113,
+            "fmt": "-7.11%"
+          },
+          "floatShares": {
+            "raw": 1389576,
+            "fmt": "1.39M",
+            "longFmt": "1,389,576"
+          },
+          "sharesOutstanding": {
+            "raw": 6318900,
+            "fmt": "6.32M",
+            "longFmt": "6,318,900"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 10.701,
+            "fmt": "10.70"
+          },
+          "priceToBook": {
+            "raw": 0.66629285,
+            "fmt": "0.67"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1506729600,
+            "fmt": "2017-09-30"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -9326281,
+            "fmt": "-9.33M",
+            "longFmt": "-9,326,281"
+          },
+          "trailingEps": {
+            "raw": -1.484,
+            "fmt": "-1.48"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.358,
+            "fmt": "0.36"
+          },
+          "enterpriseToEbitda": {
+            "raw": 8.806,
+            "fmt": "8.81"
+          },
+          "52WeekChange": {
+            "raw": 0.459144,
+            "fmt": "45.91%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.1593206,
+            "fmt": "15.93%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "210 Shanti Bhawan",
+          "address2": "Bank More",
+          "city": "Dhanbad",
+          "zip": "826001",
+          "country": "India",
+          "phone": "91 32 6220 1333",
+          "fax": "91 32 6222 4414",
+          "website": "http://www.auroma.in",
+          "industry": "Industrial Metals & Minerals",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Auroma Coke Limited engages in the washing of raw coal and slurry in India. It manufactures and trades in ash metallurgical coke, hard coke, nut coke, sized coke, pearl coke, coke dust/breeze coke, washed/clean coking coal, washed low ash coal slurry, middlings, and coal rejects. Its products are used in steel and cement industries, furnaces for small castings, gas producers, and others. The company was founded in 1977 and is based in Dhanbad, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 7.13,
+            "fmt": "7.13"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 5335396,
+            "fmt": "5.34M",
+            "longFmt": "5,335,396"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 131108640,
+            "fmt": "131.11M",
+            "longFmt": "131,108,640"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 20.865,
+            "fmt": "20.86"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 24203275,
+            "fmt": "24.2M",
+            "longFmt": "24,203,275"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 1.093,
+            "fmt": "109.30%"
+          },
+          "grossMargins": {
+            "raw": 0.29995,
+            "fmt": "30.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.040689997,
+            "fmt": "4.07%"
+          },
+          "operatingMargins": {
+            "raw": 0.01363,
+            "fmt": "1.36%"
+          },
+          "profitMargins": {
+            "raw": -0.07113,
+            "fmt": "-7.11%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

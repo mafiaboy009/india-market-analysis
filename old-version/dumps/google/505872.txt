@@ -1,0 +1,279 @@
+
+// [
+{
+"symbol" : "505872",
+"exchange" : "BOM",
+"id": "1813947",
+"t" : "505872",
+"e" : "BOM",
+"name" : "WPIL Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=WRTH.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:505872"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:505872"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:505872"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "6.15%",
+"annual" : "-0.24%",
+"ttm" : "6.23%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.58%",
+"annual" : "5.95%",
+"ttm" : "11.63%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.83%",
+"ttm" : "12.24%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.21%",
+"ttm" : "8.74%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.93%",
+"ttm" : "36.66%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "434",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-16.70",
+"l" : "593.00",
+"cp" : "-2.74",
+"ccol" : "chr",
+"op" : "611.00",
+"hi" : "611.00",
+"lo" : "567.10",
+"vo" : "12,694.00",
+"avvo" : "",
+"hi52" : "799.00",
+"lo52" : "383.10",
+"mc" : "5.79B",
+"pe" : "21.11",
+"fwpe" : "",
+"beta" : "",
+"eps" : "28.09",
+"dy" : "0.34",
+"ldiv" : "2.00",
+"shares" : "9.77M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1813947",
+"name" : "WPIL Ltd",
+"t" : "505872",
+"e" : "BOM",
+"l" : "593.00",
+"c" : "-16.70",
+"mc" : "5.79B",
+"cp" : "-2.74",
+"ccol" : "chr"
+}
+,
+{
+"id" : "377372",
+"name" : "Shakti Pumps (India) Ltd",
+"t" : "SHAKTIPUMP",
+"e" : "NSE",
+"l" : "575.00",
+"c" : "+10.30",
+"mc" : "10.54B",
+"cp" : "1.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8274595",
+"name" : "Roto Pumps Limited",
+"t" : "517500",
+"e" : "BOM",
+"l" : "98.25",
+"c" : "-0.50",
+"mc" : "1.51B",
+"cp" : "-0.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12975418",
+"name" : "Kirloskar Brothers Limited",
+"t" : "KIRLOSBROS",
+"e" : "NSE",
+"l" : "327.50",
+"c" : "-4.65",
+"mc" : "25.98B",
+"cp" : "-1.40",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15667599",
+"name" : "KSB Pumps Limited",
+"t" : "KSBPUMPS",
+"e" : "NSE",
+"l" : "799.00",
+"c" : "+7.75",
+"mc" : "27.89B",
+"cp" : "0.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "706299",
+"name" : "Jyoti Ltd.",
+"t" : "504076",
+"e" : "BOM",
+"l" : "49.15",
+"c" : "+0.40",
+"mc" : "837.59M",
+"cp" : "0.82",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3389766",
+"name" : "JSL Industries Ltd",
+"t" : "504080",
+"e" : "BOM",
+"l" : "104.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "705514",
+"name" : "Kirloskar Pneumatic Company Ltd",
+"t" : "505283",
+"e" : "BOM",
+"l" : "880.10",
+"c" : "-5.90",
+"mc" : "11.30B",
+"cp" : "-0.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "431519",
+"name" : "Veljan Denison Limited",
+"t" : "505232",
+"e" : "BOM",
+"l" : "1,057.00",
+"c" : "+33.00",
+"mc" : "2.38B",
+"cp" : "3.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6938509",
+"name" : "Acrow India Ltd",
+"t" : "513149",
+"e" : "BOM",
+"l" : "139.85",
+"c" : "0.00",
+"mc" : "89.50M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "12988274",
+"name" : "Honda Siel Power Products Limited",
+"t" : "HONDAPOWER",
+"e" : "NSE",
+"l" : "1,500.00",
+"c" : "+3.55",
+"mc" : "15.35B",
+"cp" : "0.24",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "\u0022Trinity Plaza\u0022 , 3rd Floor, 84\u002F1A,, Topsia Road (South), KOLKATA, 700046, India",
+"phone": "+91-33-30216800",
+"fax": "+91-33-30216835",
+"url": "http:\u002F\u002Fwww.wpil.co.in\u002F",
+"overview" : "WPIL Limited is a holding company, which is engaged in providing pumps, and pumps spares and accessories. The Company is engaged in the business of design, development, manufacture, marketing, installation and servicing of vertical and horizontal pumps of various sizes required for lift irrigation\u002Firrigation schemes and thermal\u002Fnuclear power plants. It is also engaged in the business of fluid handling, from the supply of pumps to project execution. It supplies a range of pumps to the industrial, municipal, irrigation and power sectors. The Company also has a project division, which undertakes water management contracts in these sectors. Its products include sewage submersible pumps, vertical sump pumps, and borewell submersible motor and pumps. The Company has its manufacturing facilities in locations, including Kolkata, Nagpur, Ghaziabad and 24 Parganas. Its subsidiaries include Mody Industries (FC) Pvt. Ltd., Sterling Pumps Pty Limited and WPIL International Pte Ltd."
+} ]
+, "management" : [
+{
+"name" : "U. Chakravarty",
+"title" : "Compliance Officer, Company Secretary, General Manager - Finance"
+}
+,
+{
+"name" : "Prakash Agarwal",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "K. K. Ganeriwala",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Utpal Kumar Mukhopadhy",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "V. N. Agarwal",
+"age" : "74",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Anjan Dasgupta",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Samarendra Nath Roy",
+"age" : "69",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

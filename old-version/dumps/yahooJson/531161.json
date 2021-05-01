@@ -1,0 +1,352 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 1369701632,
+            "fmt": "1.37B",
+            "longFmt": "1,369,701,632"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.22688,
+            "fmt": "22.69%"
+          },
+          "floatShares": {
+            "raw": 3330630,
+            "fmt": "3.33M",
+            "longFmt": "3,330,630"
+          },
+          "sharesOutstanding": {
+            "raw": 20002200,
+            "fmt": "20M",
+            "longFmt": "20,002,200"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.968237,
+            "fmt": "0.97"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 70.106,
+            "fmt": "70.11"
+          },
+          "priceToBook": {
+            "raw": 1.3515248,
+            "fmt": "1.35"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.529,
+            "fmt": "-52.90%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 152212992,
+            "fmt": "152.21M",
+            "longFmt": "152,212,992"
+          },
+          "trailingEps": {
+            "raw": 7.605,
+            "fmt": "7.61"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1459987200,
+            "fmt": "2016-04-07"
+          },
+          "enterpriseToRevenue": {
+            "raw": 2.042,
+            "fmt": "2.04"
+          },
+          "enterpriseToEbitda": {
+            "raw": 6.161,
+            "fmt": "6.16"
+          },
+          "52WeekChange": {
+            "raw": -0.38844085,
+            "fmt": "-38.84%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 740683959,
+                  "fmt": "740.68M",
+                  "longFmt": "740,683,959"
+                },
+                "earnings": {
+                  "raw": 144837429,
+                  "fmt": "144.84M",
+                  "longFmt": "144,837,429"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 820899000,
+                  "fmt": "820.9M",
+                  "longFmt": "820,899,000"
+                },
+                "earnings": {
+                  "raw": 175114000,
+                  "fmt": "175.11M",
+                  "longFmt": "175,114,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 772021000,
+                  "fmt": "772.02M",
+                  "longFmt": "772,021,000"
+                },
+                "earnings": {
+                  "raw": 175711000,
+                  "fmt": "175.71M",
+                  "longFmt": "175,711,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 950811000,
+                  "fmt": "950.81M",
+                  "longFmt": "950,811,000"
+                },
+                "earnings": {
+                  "raw": 190513000,
+                  "fmt": "190.51M",
+                  "longFmt": "190,513,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 184823000,
+                  "fmt": "184.82M",
+                  "longFmt": "184,823,000"
+                },
+                "earnings": {
+                  "raw": 42089000,
+                  "fmt": "42.09M",
+                  "longFmt": "42,089,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 170644000,
+                  "fmt": "170.64M",
+                  "longFmt": "170,644,000"
+                },
+                "earnings": {
+                  "raw": 46310000,
+                  "fmt": "46.31M",
+                  "longFmt": "46,310,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 165775000,
+                  "fmt": "165.78M",
+                  "longFmt": "165,775,000"
+                },
+                "earnings": {
+                  "raw": 36720000,
+                  "fmt": "36.72M",
+                  "longFmt": "36,720,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 149662000,
+                  "fmt": "149.66M",
+                  "longFmt": "149,662,000"
+                },
+                "earnings": {
+                  "raw": 27062000,
+                  "fmt": "27.06M",
+                  "longFmt": "27,062,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "ABM House",
+          "address2": "Plot No. 268 Linking Road Bandra(West)",
+          "city": "Mumbai",
+          "zip": "400050",
+          "country": "India",
+          "phone": "91 22 4290 9700",
+          "fax": "91 22 4290 9701",
+          "website": "http://www.abmindia.com",
+          "industry": "Technical & System Software",
+          "sector": "Technology",
+          "longBusinessSummary": "ABM Knowledgeware Limited, an IT software and services company, provides e-governance software and solutions in India. It also engages in the computer programming, and consultancy and related activities. The company offers ABM MAINet, an integrated suite of application products to manage the working of a municipal corporation; ABM GRP, an integrated office automation system for government and other government bodies; AQUA super for water billing; ABM CFC and ABM CARE for power sector; tourism portal; double entry accounting reforms; and solutions for tax revenue reforms. It also provides ERP based integrated and holistic e-governance solution that covers citizen services, finance, e procurement, project monitoring and management, stores and materials management, vehicles and fleet management, management of real estate, and HRMS and payroll management. In addition, the company offers InstaSafe, a cloud based security-as-a-service solution that delivers protection to mobile and remote workers enabling them to access enterprise apps, email, and Web from anywhere on any network. It serves the government, urban local bodies, and power and water supply companies. The company was incorporated in 1993 and is based in Mumbai, India.",
+          "fullTimeEmployees": 769,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 94.75,
+            "fmt": "94.75"
+          },
+          "targetHighPrice": {
+            "raw": 146.0,
+            "fmt": "146.00"
+          },
+          "targetLowPrice": {
+            "raw": 146.0,
+            "fmt": "146.00"
+          },
+          "targetMeanPrice": {
+            "raw": 146.0,
+            "fmt": "146.00"
+          },
+          "targetMedianPrice": {
+            "raw": 146.0,
+            "fmt": "146.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 422404000,
+            "fmt": "422.4M",
+            "longFmt": "422,404,000"
+          },
+          "totalCashPerShare": {
+            "raw": 21.072,
+            "fmt": "21.07"
+          },
+          "ebitda": {
+            "raw": 222327008,
+            "fmt": "222.33M",
+            "longFmt": "222,327,008"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 670905024,
+            "fmt": "670.91M",
+            "longFmt": "670,905,024"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 33.519,
+            "fmt": "33.52"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 357335000,
+            "fmt": "357.33M",
+            "longFmt": "357,335,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.53,
+            "fmt": "-53.00%"
+          },
+          "revenueGrowth": {
+            "raw": -0.247,
+            "fmt": "-24.70%"
+          },
+          "grossMargins": {
+            "raw": 0.47083,
+            "fmt": "47.08%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.33138,
+            "fmt": "33.14%"
+          },
+          "operatingMargins": {
+            "raw": 0.31430998,
+            "fmt": "31.43%"
+          },
+          "profitMargins": {
+            "raw": 0.22688,
+            "fmt": "22.69%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

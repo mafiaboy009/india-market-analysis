@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "532343",
+"exchange" : "BOM",
+"id": "684607",
+"t" : "532343",
+"e" : "BOM",
+"name" : "TVS Motor Company Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532343"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532343"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532343"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002704)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.51%",
+"annual" : "3.75%",
+"ttm" : "4.52%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.81%",
+"annual" : "4.13%",
+"ttm" : "5.94%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "6.46%",
+"ttm" : "9.16%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "9.03%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "25.34%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5,267",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+12.65",
+"l" : "679.30",
+"cp" : "1.90",
+"ccol" : "chg",
+"op" : "668.00",
+"hi" : "681.65",
+"lo" : "667.90",
+"vo" : "54,834.00",
+"avvo" : "",
+"hi52" : "794.90",
+"lo52" : "414.00",
+"mc" : "323.74B",
+"pe" : "245.81",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.76",
+"dy" : "0.48",
+"ldiv" : "2.00",
+"shares" : "475.09M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "684607",
+"name" : "TVS Motor Company Limited",
+"t" : "532343",
+"e" : "BOM",
+"l" : "679.30",
+"c" : "+12.65",
+"mc" : "323.74B",
+"cp" : "1.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9051848",
+"name" : "Scooters India Ltd",
+"t" : "505141",
+"e" : "BOM",
+"l" : "47.60",
+"c" : "-0.55",
+"mc" : "4.06B",
+"cp" : "-1.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "147800850031861",
+"name" : "Atul Auto Ltd",
+"t" : "ATULAUTO",
+"e" : "NSE",
+"l" : "418.00",
+"c" : "+1.55",
+"mc" : "9.16B",
+"cp" : "0.37",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5627408",
+"name" : "Pricol Ltd",
+"t" : "PRICOL",
+"e" : "NSE",
+"l" : "92.35",
+"c" : "",
+"mc" : "8.75B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6565540",
+"name" : "Mahindra \u0026 Mahindra Limited",
+"t" : "M\u0026M",
+"e" : "NSE",
+"l" : "735.40",
+"c" : "+16.75",
+"mc" : "912.66B",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7147553",
+"name" : "Ashok Leyland Ltd",
+"t" : "ASHOKLEY",
+"e" : "NSE",
+"l" : "137.10",
+"c" : "+2.70",
+"mc" : "399.82B",
+"cp" : "2.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14302116",
+"name" : "Daewoo Motors India Ltd",
+"t" : "500100",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "11224188",
+"name" : "Hindustan Motors Limited",
+"t" : "HINDMOTORS",
+"e" : "NSE",
+"l" : "9.20",
+"c" : "-0.10",
+"mc" : "1.91B",
+"cp" : "-1.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7152373",
+"name" : "Maruti Suzuki India Ltd",
+"t" : "MARUTI",
+"e" : "NSE",
+"l" : "9,050.00",
+"c" : "+351.20",
+"mc" : "2.73T",
+"cp" : "4.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678138",
+"name" : "Force Motors Ltd",
+"t" : "500033",
+"e" : "BOM",
+"l" : "3,013.20",
+"c" : "+52.80",
+"mc" : "39.55B",
+"cp" : "1.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9708440",
+"name" : "Tata Motors Limited",
+"t" : "TATAMOTORS",
+"e" : "NSE",
+"l" : "372.80",
+"c" : "+12.60",
+"mc" : "1.18T",
+"cp" : "3.50",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Post Box No 4, Harita, Hosur, KRISHNAGIRI, 635109, India",
+"phone": "+91-4344-276780",
+"fax": "+91-4344-276878",
+"url": "http:\u002F\u002Fwww.tvsmotor.com\u002F",
+"overview" : "TVS Motor Company Limited is engaged in the manufacturing of motorcycles, scooters, mopeds, three wheelers, parts and accessories. The Company\u0027s motorcycles include Apache Series RTR, Phoenix 125, Victor, StaR City+, Sport and Max4R. Its scooters include Jupiter, Wego, Scooty Zest 110, Scooty Streak and Scooty Pep +. Its mopeds include XL 100, XL Super and XL Super Heavy Duty. Its three wheelers include TVS King. It has approximately four manufacturing plants, approximately three located in India (Hosur, Tamil Nadu\u003B Mysore, Karnataka, and Nalagarh, Himachal Pradesh) and one in Indonesia (Karawang). The Company\u0027s TVSM Service(Beta) mobile application features include service schedules, service booking, and news and updates, among others. Its subsidiaries include PT. TVS Motor Company Indonesia, TVS Motor Company (Europe) B.V., TVS Motor (Singapore) Pte. Limited, Sundaram Business Development Consulting (Shanghai) Company Limited and Sundaram Holding USA Inc., among others."
+} ]
+, "management" : [
+{
+"name" : "K N N. Radhakrishnan",
+"title" : "President, Chief Executive Officer"
+}
+,
+{
+"name" : "K Gopala Desikan",
+"age" : "53",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "K. S. Srinivasan",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sudarshan Venu",
+"age" : "25",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "Lakshmi Venu",
+"title" : "Director"
+}
+,
+{
+"name" : "H. Lakshmanan",
+"age" : "82",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Rajesh Narasimhan",
+"title" : "Non-Executive Non Independent Director"
+}
+,
+{
+"name" : "R. Ramakrishnan",
+"age" : "69",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Prince Asirvatham",
+"age" : "64",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

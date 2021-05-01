@@ -1,0 +1,282 @@
+
+// [
+{
+"symbol" : "505412",
+"exchange" : "BOM",
+"id": "715248",
+"t" : "505412",
+"e" : "BOM",
+"name" : "Wendt India Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:505412"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:505412"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:505412"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.12%",
+"annual" : "7.65%",
+"ttm" : "7.26%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "11.55%",
+"annual" : "9.56%",
+"ttm" : "8.43%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.91%",
+"ttm" : "15.33%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.34%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "10.99%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "321",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-8.35",
+"l" : "2,770.00",
+"cp" : "-0.30",
+"ccol" : "chr",
+"op" : "2,800.00",
+"hi" : "2,885.00",
+"lo" : "2,761.00",
+"vo" : "1,651.00",
+"avvo" : "",
+"hi52" : "4,260.00",
+"lo52" : "1,807.05",
+"mc" : "5.50B",
+"pe" : "51.15",
+"fwpe" : "",
+"beta" : "",
+"eps" : "54.16",
+"dy" : "0.36",
+"ldiv" : "10.00",
+"shares" : "2.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715248",
+"name" : "Wendt India Ltd.",
+"t" : "505412",
+"e" : "BOM",
+"l" : "2,770.00",
+"c" : "-8.35",
+"mc" : "5.50B",
+"cp" : "-0.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715420",
+"name" : "Batliboi Ltd.",
+"t" : "522004",
+"e" : "BOM",
+"l" : "28.50",
+"c" : "-1.50",
+"mc" : "818.40M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3788609",
+"name" : "Premier Limited",
+"t" : "PREMIER",
+"e" : "NSE",
+"l" : "29.10",
+"c" : "-0.15",
+"mc" : "896.10M",
+"cp" : "-0.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16425981",
+"name" : "Lokesh Machines Limited",
+"t" : "LOKESHMACH",
+"e" : "NSE",
+"l" : "68.00",
+"c" : "+0.65",
+"mc" : "1.22B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14583558",
+"name" : "Kulkarni Power Tools Ltd",
+"t" : "505299",
+"e" : "BOM",
+"l" : "59.45",
+"c" : "+2.80",
+"mc" : "201.77M",
+"cp" : "4.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "687625",
+"name" : "Kennametal India Limited",
+"t" : "505890",
+"e" : "BOM",
+"l" : "782.25",
+"c" : "+6.25",
+"mc" : "17.28B",
+"cp" : "0.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9166134",
+"name" : "Ador Welding Ltd.",
+"t" : "ADORWELD",
+"e" : "NSE",
+"l" : "431.00",
+"c" : "+3.20",
+"mc" : "5.90B",
+"cp" : "0.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8702951",
+"name" : "Esab India Limited (Parent)",
+"t" : "ESABINDIA",
+"e" : "NSE",
+"l" : "798.00",
+"c" : "-8.10",
+"mc" : "12.33B",
+"cp" : "-1.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13622393",
+"name" : "Kalyani Forge Ltd",
+"t" : "KALYANIFRG",
+"e" : "NSE",
+"l" : "311.00",
+"c" : "-1.30",
+"mc" : "1.14B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9851757",
+"name" : "Jbm Auto Ltd",
+"t" : "JBMA",
+"e" : "NSE",
+"l" : "442.05",
+"c" : "+1.20",
+"mc" : "17.91B",
+"cp" : "0.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "853607753016032",
+"name" : "Emkay Taps And Cutting Tools Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "#69\u002F70, SIPCOT Industrial Complex, HOSUR, 635126, India",
+"phone": "+91-4344-276851",
+"fax": "+91-4344-405620",
+"url": "https:\u002F\u002Fwww.wendtindia.com\u002F",
+"overview" : "Wendt (India) Limited is a manufacturer of super abrasives, grinding, honing and special purpose machines and components. The Company operates through the Super Abrasives\u003B Machines, Accessories and Components, and Others segments. The Company focuses on super abrasives, non-super abrasives and international business. The super abrasive business consists of Diamond\u002F cubic boron nitride (CBN) grinding wheels in various bonding systems, hones, dressing rolls, segmented products and stationary dressers. The Company also offers products, which include Vitrified Products for auto component, dressing rolls for bearing and certain other automotive applications, electroplated products for engineering and gear and brazed diamond products for paint industry. The Company\u0027s subsidiaries include Wendt Grinding Technologies Limited and Wendt Middle East FZE. The Company\u0027s manufacturing plant is located at Hosur, Tamil Nadu."
+} ]
+, "management" : [
+{
+"name" : "Rajesh Khanna",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Mukesh Kumar Hamirwasia",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Akanksha Bijawat",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Meenakshi M. Murugappan",
+"age" : "61",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Edmar Allitsch",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "K. Srinivasan",
+"age" : "59",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Hima Srinivas",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "K. S. Shetty",
+"age" : "67",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,279 @@
+
+// [
+{
+"symbol" : "531201",
+"exchange" : "BOM",
+"id": "6744385",
+"t" : "531201",
+"e" : "BOM",
+"name" : "Shilchar Technologies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SELC.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:531201"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:531201"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:531201"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.06%",
+"annual" : "11.23%",
+"ttm" : "7.57%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.24%",
+"annual" : "14.78%",
+"ttm" : "10.14%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "15.99%",
+"ttm" : "11.32%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "15.42%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "28.05%",
+"ttm" : ""
+}
+]
+, "c" : "+5.00",
+"l" : "390.00",
+"cp" : "1.30",
+"ccol" : "chg",
+"op" : "390.00",
+"hi" : "396.00",
+"lo" : "390.00",
+"vo" : "673.00",
+"avvo" : "",
+"hi52" : "510.00",
+"lo52" : "365.00",
+"mc" : "1.49B",
+"pe" : "20.60",
+"fwpe" : "",
+"beta" : "",
+"eps" : "18.93",
+"dy" : "0.77",
+"ldiv" : "3.00",
+"shares" : "3.81M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "6744385",
+"name" : "Shilchar Technologies Ltd",
+"t" : "531201",
+"e" : "BOM",
+"l" : "390.00",
+"c" : "+5.00",
+"mc" : "1.49B",
+"cp" : "1.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6476162",
+"name" : "R T S Power Corpn Ltd",
+"t" : "531215",
+"e" : "BOM",
+"l" : "58.00",
+"c" : "+1.00",
+"mc" : "473.77M",
+"cp" : "1.75",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8257960",
+"name" : "Tarapur Transformers Ltd",
+"t" : "TARAPUR",
+"e" : "NSE",
+"l" : "6.45",
+"c" : "-0.05",
+"mc" : "125.78M",
+"cp" : "-0.77",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1659606",
+"name" : "Marsons Ltd",
+"t" : "517467",
+"e" : "BOM",
+"l" : "4.72",
+"c" : "-0.14",
+"mc" : "117.04M",
+"cp" : "-2.88",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6638419",
+"name" : "Alfa Transformers Ltd",
+"t" : "517546",
+"e" : "BOM",
+"l" : "32.00",
+"c" : "-0.80",
+"mc" : "222.56M",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3425782",
+"name" : "CG Power and Industrial Solutions Ltd(P)",
+"t" : "CGPOWER",
+"e" : "NSE",
+"l" : "82.45",
+"c" : "-0.20",
+"mc" : "51.64B",
+"cp" : "-0.24",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11885845",
+"name" : "Accurate Transformers Ltd",
+"t" : "530513",
+"e" : "BOM",
+"l" : "24.35",
+"c" : "0.00",
+"mc" : "72.94M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15338302",
+"name" : "Indo Tech Transformers Limited",
+"t" : "INDOTECH",
+"e" : "NSE",
+"l" : "198.80",
+"c" : "+1.45",
+"mc" : "2.11B",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2758225",
+"name" : "IMP Powers Ltd",
+"t" : "INDLMETER",
+"e" : "NSE",
+"l" : "103.95",
+"c" : "-0.85",
+"mc" : "898.63M",
+"cp" : "-0.81",
+"ccol" : "chr"
+}
+,
+{
+"id" : "100085",
+"name" : "Voltamp Transformers Limited",
+"t" : "VOLTAMP",
+"e" : "NSE",
+"l" : "1,138.00",
+"c" : "+8.65",
+"mc" : "11.41B",
+"cp" : "0.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9928106",
+"name" : "ECE Industries Ltd",
+"t" : "ECEIND",
+"e" : "NSE",
+"l" : "362.85",
+"c" : "+10.80",
+"mc" : "2.65B",
+"cp" : "3.07",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Bil Road, Bil, VADODARA, 391410, India",
+"phone": "+91-265-2680466",
+"fax": "+91-265-2680611",
+"url": "http:\u002F\u002Fwww.shilchargroup.com\u002F",
+"overview" : "Shilchar Technologies Limited is engaged in the business of manufacturing of distribution and power transformers, as well as electronics and telecommunication transformers. The Company provides a range of linear transformers from R-core to EI and Toroidal to current transformers. It manufactures standard line transformers for R-core, as well as Toroidal Models. Its standard line transformers are available for nine or 18 volt output, 12 or 24 volt output and isolation transformers for 115 or 230 volt output. It manufactures telecom and data transformers. It offers distribution transformers with the capacity of over 25 kilo volt-ampere (KVA), 63KVA, 100KVA and 200KVA. Its facility has an annual manufacturing capacity of approximately 600 megavolt amperes. The Company caters to a range of industrial segments from utility to renewable energy sector and to individual retail customers across the globe. It has approximately three manufacturing plants to manufacture a range of transformers."
+} ]
+, "management" : [
+{
+"name" : "Prajesh Purohit",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Niki Paresh Tiwari",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Alay Jitendra Shah",
+"title" : "Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Jitendra C. Shah",
+"age" : "75",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Zarksis Parabia",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Reshma Patel",
+"title" : "Woman Independent Director"
+}
+,
+{
+"name" : "O. P. Khanna",
+"age" : "74",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Mukesh Dayabhai Patel",
+"age" : "59",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,275 @@
+
+// [
+{
+"symbol" : "524764",
+"exchange" : "BOM",
+"id": "11460194",
+"t" : "524764",
+"e" : "BOM",
+"name" : "Nutraplus India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=NUPI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524764"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524764"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524764"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.45%",
+"annual" : "-7.82%",
+"ttm" : "-7.37%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.57%",
+"annual" : "-4.32%",
+"ttm" : "-1.86%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-1.89%",
+"ttm" : "1.66%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-4.24%",
+"ttm" : "-3.84%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-10.94%",
+"ttm" : "-9.59%"
+}
+]
+, "c" : "0.00",
+"l" : "36.00",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "36.90",
+"hi" : "36.90",
+"lo" : "34.20",
+"vo" : "3,029.00",
+"avvo" : "",
+"hi52" : "51.05",
+"lo52" : "19.60",
+"mc" : "1.23B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-2.94",
+"dy" : "0.63",
+"ldiv" : "0.23",
+"shares" : "34.09M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11460194",
+"name" : "Nutraplus India Ltd",
+"t" : "524764",
+"e" : "BOM",
+"l" : "36.00",
+"c" : "0.00",
+"mc" : "1.23B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5397679",
+"name" : "Gennex Laboratories Ltd",
+"t" : "531739",
+"e" : "BOM",
+"l" : "4.43",
+"c" : "-0.15",
+"mc" : "567.85M",
+"cp" : "-3.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3285351",
+"name" : "Shamrock Industrial Co Ltd",
+"t" : "531240",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-3.44",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "260021",
+"name" : "NGL Fine-Chem Ltd",
+"t" : "524774",
+"e" : "BOM",
+"l" : "392.65",
+"c" : "+5.65",
+"mc" : "2.43B",
+"cp" : "1.46",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8874121",
+"name" : "Gujarat Themis Biosyn Ltd",
+"t" : "506879",
+"e" : "BOM",
+"l" : "43.30",
+"c" : "-3.05",
+"mc" : "625.72M",
+"cp" : "-6.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13868302",
+"name" : "Natural Capsules Ltd",
+"t" : "524654",
+"e" : "BOM",
+"l" : "116.00",
+"c" : "+5.05",
+"mc" : "722.99M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "451765",
+"name" : "J B Chemicals and Pharmaceuticals Ltd",
+"t" : "JBCHEPHARM",
+"e" : "NSE",
+"l" : "315.00",
+"c" : "+9.35",
+"mc" : "26.32B",
+"cp" : "3.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8708343",
+"name" : "SMS Pharmaceuticals Ltd",
+"t" : "SMSPHARMA",
+"e" : "NSE",
+"l" : "89.35",
+"c" : "+0.60",
+"mc" : "7.59B",
+"cp" : "0.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16777150",
+"name" : "Dishman Pharmaceuticals\u0026Chemicals Ltd",
+"t" : "DISHMAN",
+"e" : "NSE",
+"l" : "300.60",
+"c" : "",
+"mc" : "48.61B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "1333245",
+"name" : "Shilpa Medicare Ltd",
+"t" : "SHILPAMED",
+"e" : "NSE",
+"l" : "458.00",
+"c" : "+7.65",
+"mc" : "37.20B",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1180250",
+"name" : "Kopran Limited (Parent)",
+"t" : "KOPRAN",
+"e" : "NSE",
+"l" : "71.50",
+"c" : "+1.50",
+"mc" : "3.09B",
+"cp" : "2.14",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "7-A,VAKIL VILLA H.F. SOCIETY ROAD END JOGESHWARI EAST, MUMBAI, 400057, India",
+"phone": "+91-22-40140441",
+"fax": "+91-22-28212192",
+"url": "http:\u002F\u002Fwww.nutraplusindia.com\u002F",
+"overview" : "Nutraplus India Limited (NPIL) is a veteran producer of bulk drugs\u002Factive pharmaceutical ingredients (APIs), specialty chemicals and intermediates for treatment across therapeutic areas. The Company\u0027s segments include Active Pharma Ingredients \u0026 Intermediates and Pharma Equipments. The Company\u0027s core focus is on the APIs\u002Fbulk drugs and also on the pain\u002Fanalgesic drugs. The Company\u0027s products include Nimesulide, Bromhexine HCL, Aceclofenac, Lumefantrine, Diclofenac Sodium, Albendazole, Artemether, Lumefantrine, Arteether Ornidazole, Mefenamic acid and Doxofylline. The Company is engaged in the contract manufacturing of intermediates. The Company produces other complex products, such as Meta Chloro Anisloe and Meta Bromo Anisole. The Company operates through its manufacturing facilities located at Tarapur, Boisar, Maharashtra."
+} ]
+, "management" : [
+{
+"name" : "Mukesh D. Naik",
+"age" : "58",
+"title" : "Chairman of the Board, Compliance Officer, Managing Director"
+}
+,
+{
+"name" : "Dilip K. Pimple",
+"age" : "46",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Nidhi Naik",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Uday M. Desai",
+"age" : "27",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Kishor Ostwal",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Mukesh R. Desai",
+"age" : "51",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Nirad Mehta",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

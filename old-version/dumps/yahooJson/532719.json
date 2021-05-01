@@ -1,0 +1,385 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 8264964096,
+            "fmt": "8.26B",
+            "longFmt": "8,264,964,096"
+          },
+          "forwardPE": {
+            "raw": 40.52381,
+            "fmt": "40.52"
+          },
+          "profitMargins": {
+            "raw": -0.0146,
+            "fmt": "-1.46%"
+          },
+          "floatShares": {
+            "raw": 54955200,
+            "fmt": "54.96M",
+            "longFmt": "54,955,200"
+          },
+          "sharesOutstanding": {
+            "raw": 215440000,
+            "fmt": "215.44M",
+            "longFmt": "215,440,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 2.064922,
+            "fmt": "2.06"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 18.828,
+            "fmt": "18.83"
+          },
+          "priceToBook": {
+            "raw": 2.259932,
+            "fmt": "2.26"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1143763200,
+            "fmt": "2006-03-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -132466632,
+            "fmt": "-132.47M",
+            "longFmt": "-132,466,632"
+          },
+          "trailingEps": {
+            "raw": -0.645,
+            "fmt": "-0.64"
+          },
+          "forwardEps": {
+            "raw": 1.05,
+            "fmt": "1.05"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1285718400,
+            "fmt": "2010-09-29"
+          },
+          "enterpriseToRevenue": {
+            "raw": 0.911,
+            "fmt": "0.91"
+          },
+          "enterpriseToEbitda": {
+            "raw": 11.501,
+            "fmt": "11.50"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 0.42,
+                  "fmt": "0.42"
+                },
+                "estimate": {
+                  "raw": 0.1,
+                  "fmt": "0.10"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 13490809505,
+                  "fmt": "13.49B",
+                  "longFmt": "13,490,809,505"
+                },
+                "earnings": {
+                  "raw": -849566210,
+                  "fmt": "-849.57M",
+                  "longFmt": "-849,566,210"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 8343298362,
+                  "fmt": "8.34B",
+                  "longFmt": "8,343,298,362"
+                },
+                "earnings": {
+                  "raw": -578529376,
+                  "fmt": "-578.53M",
+                  "longFmt": "-578,529,376"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 8603038362,
+                  "fmt": "8.6B",
+                  "longFmt": "8,603,038,362"
+                },
+                "earnings": {
+                  "raw": -60020289,
+                  "fmt": "-60.02M",
+                  "longFmt": "-60,020,289"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 9076112832,
+                  "fmt": "9.08B",
+                  "longFmt": "9,076,112,832"
+                },
+                "earnings": {
+                  "raw": -132466632,
+                  "fmt": "-132.47M",
+                  "longFmt": "-132,466,632"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2005",
+                "revenue": {
+                  "raw": 1034370000,
+                  "fmt": "1.03B",
+                  "longFmt": "1,034,370,000"
+                },
+                "earnings": {
+                  "raw": 67460000,
+                  "fmt": "67.46M",
+                  "longFmt": "67,460,000"
+                }
+              },
+              {
+                "date": "3Q2005",
+                "revenue": {
+                  "raw": 1034370000,
+                  "fmt": "1.03B",
+                  "longFmt": "1,034,370,000"
+                },
+                "earnings": {
+                  "raw": 67460000,
+                  "fmt": "67.46M",
+                  "longFmt": "67,460,000"
+                }
+              },
+              {
+                "date": "4Q2005",
+                "revenue": {
+                  "raw": 1303540544,
+                  "fmt": "1.3B",
+                  "longFmt": "1,303,540,544"
+                },
+                "earnings": {
+                  "raw": 75179655,
+                  "fmt": "75.18M",
+                  "longFmt": "75,179,655"
+                }
+              },
+              {
+                "date": "1Q2006",
+                "revenue": {
+                  "raw": 1303540544,
+                  "fmt": "1.3B",
+                  "longFmt": "1,303,540,544"
+                },
+                "earnings": {
+                  "raw": 75179655,
+                  "fmt": "75.18M",
+                  "longFmt": "75,179,655"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "409, DLF Tower A",
+          "address2": "4th Floor Jasola",
+          "city": "New Delhi",
+          "zip": "110025",
+          "country": "India",
+          "phone": "91 11 4050 0300",
+          "fax": "91 11 4050 0333",
+          "website": "http://www.blkashyap.com",
+          "industry": "General Contractors",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "B.L. Kashyap and Sons Limited, together with its subsidiaries, engages in the construction and infrastructure development activities in India. The company constructs IT campuses, commercial spaces, malls, hotels, residential complexes, institutions, factories and manufacturing facilities, and healthcare and transportation facilities. It also undertakes turnkey projects, such as power generation plants, power transmission and distribution systems, integrated rail and metro systems, residential buildings, townships, commercial buildings, airports, industrial units, chemical process plants, and water and waste water management solutions. In addition, the company trades in residential flats; and operates a hotel in Mussourrie. B.L. Kashyap and Sons Limited was founded in 1978 and is based in New Delhi, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 42.55,
+            "fmt": "42.55"
+          },
+          "targetHighPrice": {
+            "raw": 11.0,
+            "fmt": "11.00"
+          },
+          "targetLowPrice": {
+            "raw": 11.0,
+            "fmt": "11.00"
+          },
+          "targetMeanPrice": {
+            "raw": 11.0,
+            "fmt": "11.00"
+          },
+          "targetMedianPrice": {
+            "raw": 11.0,
+            "fmt": "11.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 568524992,
+            "fmt": "568.52M",
+            "longFmt": "568,524,992"
+          },
+          "totalCashPerShare": {
+            "raw": 2.767,
+            "fmt": "2.77"
+          },
+          "ebitda": {
+            "raw": 718615424,
+            "fmt": "718.62M",
+            "longFmt": "718,615,424"
+          },
+          "totalDebt": {
+            "raw": 194736912,
+            "fmt": "194.74M",
+            "longFmt": "194,736,912"
+          },
+          "quickRatio": {
+            "raw": 0.475,
+            "fmt": "0.47"
+          },
+          "currentRatio": {
+            "raw": 1.076,
+            "fmt": "1.08"
+          },
+          "totalRevenue": {
+            "raw": 9076112384,
+            "fmt": "9.08B",
+            "longFmt": "9,076,112,384"
+          },
+          "debtToEquity": {
+            "raw": 7.951,
+            "fmt": "7.95"
+          },
+          "revenuePerShare": {
+            "raw": 44.179,
+            "fmt": "44.18"
+          },
+          "returnOnAssets": {
+            "raw": 0.01887,
+            "fmt": "1.89%"
+          },
+          "returnOnEquity": {
+            "raw": -0.03371,
+            "fmt": "-3.37%"
+          },
+          "grossProfits": {
+            "raw": 2858428690,
+            "fmt": "2.86B",
+            "longFmt": "2,858,428,690"
+          },
+          "freeCashflow": {
+            "raw": 430738592,
+            "fmt": "430.74M",
+            "longFmt": "430,738,592"
+          },
+          "operatingCashflow": {
+            "raw": 2470789888,
+            "fmt": "2.47B",
+            "longFmt": "2,470,789,888"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.31494,
+            "fmt": "31.49%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.07918,
+            "fmt": "7.92%"
+          },
+          "operatingMargins": {
+            "raw": 0.0589,
+            "fmt": "5.89%"
+          },
+          "profitMargins": {
+            "raw": -0.0146,
+            "fmt": "-1.46%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,268 @@
+
+// [
+{
+"symbol" : "526829",
+"exchange" : "BOM",
+"id": "722529",
+"t" : "526829",
+"e" : "BOM",
+"name" : "Confidence Petroleum India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=CONF.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:526829"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:526829"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:526829"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.76%",
+"annual" : "0.97%",
+"ttm" : "2.86%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.30%",
+"annual" : "3.44%",
+"ttm" : "5.85%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.30%",
+"ttm" : "10.27%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.26%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "2.34%",
+"ttm" : ""
+}
+]
+, "c" : "+1.50",
+"l" : "33.95",
+"cp" : "4.62",
+"ccol" : "chg",
+"op" : "32.85",
+"hi" : "34.30",
+"lo" : "32.20",
+"vo" : "606,763.00",
+"avvo" : "",
+"hi52" : "39.20",
+"lo52" : "7.60",
+"mc" : "8.77B",
+"pe" : "53.88",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.63",
+"dy" : "",
+"ldiv" : "0.05",
+"shares" : "258.84M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "722529",
+"name" : "Confidence Petroleum India Ltd",
+"t" : "526829",
+"e" : "BOM",
+"l" : "33.95",
+"c" : "+1.50",
+"mc" : "8.77B",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5615127",
+"name" : "Gujarat Gas Ltd",
+"t" : "GUJRATGAS",
+"e" : "NSE",
+"l" : "743.50",
+"c" : "",
+"mc" : "95.30B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "683450394046865",
+"name" : "Mahanagar Gas Ltd",
+"t" : "MGL",
+"e" : "NSE",
+"l" : "1,020.05",
+"c" : "-0.15",
+"mc" : "100.78B",
+"cp" : "-0.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6561604",
+"name" : "Indraprastha Gas Limited",
+"t" : "IGL",
+"e" : "NSE",
+"l" : "297.00",
+"c" : "+1.50",
+"mc" : "207.55B",
+"cp" : "0.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "627005",
+"name" : "Artson Engineering Ltd",
+"t" : "522134",
+"e" : "BOM",
+"l" : "84.50",
+"c" : "-0.70",
+"mc" : "3.14B",
+"cp" : "-0.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13911996",
+"name" : "Everest Kanto Cylinder Ltd",
+"t" : "EKC",
+"e" : "NSE",
+"l" : "55.50",
+"c" : "+2.75",
+"mc" : "6.20B",
+"cp" : "5.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "259492578898635",
+"name" : "Mauria Udyog Ltd",
+"t" : "539219",
+"e" : "BOM",
+"l" : "174.35",
+"c" : "-1.90",
+"mc" : "2.32B",
+"cp" : "-1.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7697023",
+"name" : "Sarthak Industries Ltd",
+"t" : "SARTHAKIND",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13137259",
+"name" : "Time Technoplast Limited",
+"t" : "TIMETECHNO",
+"e" : "NSE",
+"l" : "182.20",
+"c" : "-1.15",
+"mc" : "41.40B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11055298",
+"name" : "Ge Power India Ltd",
+"t" : "GEPIL",
+"e" : "NSE",
+"l" : "830.00",
+"c" : "-10.60",
+"mc" : "55.31B",
+"cp" : "-1.26",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715576",
+"name" : "GMM Pfaudler Ltd.",
+"t" : "505255",
+"e" : "BOM",
+"l" : "720.00",
+"c" : "+5.20",
+"mc" : "10.47B",
+"cp" : "0.73",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "404, Satyam Appartment 8 Wardha Road, Dhantoli, NAGPUR, 440012, India",
+"phone": "+91-712-3250318",
+"fax": "+91-712-6612083",
+"url": "http:\u002F\u002Fwww.confidencegroup.co\u002F",
+"overview" : "Confidence Petroleum India Limited is an India-based manufacturer of liquefied petroleum gas (LPG) cylinders for domestic, as well as commercial use. The Company is engaged in the sale of cylinder, LPG bottling, and filling\u002FDPT\u002Ftransport. Its segments include the LPG\u002FCNG Cylinder manufacturing, and the LPG Bottling \u0026 Marketing. The LPG\u002FCNG Cylinder manufacturing segment includes production and marketing operations of cylinder. The LPG Bottling \u0026 Marketing segment includes bottling of LPG and supplies for commercial usage. Its divisions include Cylinder division, auto LPG dispensing stations (ALDS) division and LPG Trading, Refilling and Packed division. It engages in the business of LPG and auto LPG manufacturing, packed cylinder in the brand name of Go Gas. It has over four blending plants and approximately 51 LPG bottling plants across India, engaged in blending propane and butane into LPG, and refilling LPG cylinders for industrial and household consumption, respectively."
+} ]
+, "management" : [
+{
+"name" : "Nitin Khara",
+"age" : "52",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Prity P Bhabhra",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Elesh Punamchand Khara",
+"age" : "44",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Vaibhav Dedhia",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Mansi Deogirkar",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sumant Jayatilal Sutaria",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

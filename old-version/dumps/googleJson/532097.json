@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "532097",
+"exchange" : "BOM",
+"id": "6675803",
+"t" : "532097",
+"e" : "BOM",
+"name" : "Mukand Engineers Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532097"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532097"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532097"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-16.01%",
+"annual" : "-1.34%",
+"ttm" : "-19.95%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-13.40%",
+"annual" : "3.32%",
+"ttm" : "-14.88%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "4.27%",
+"ttm" : "-13.44%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.91%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-3.02%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "80",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.20",
+"l" : "42.35",
+"cp" : "0.47",
+"ccol" : "chg",
+"op" : "42.00",
+"hi" : "43.30",
+"lo" : "41.90",
+"vo" : "25,370.00",
+"avvo" : "",
+"hi52" : "70.20",
+"lo52" : "38.50",
+"mc" : "520.62M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-12.82",
+"dy" : "",
+"ldiv" : "",
+"shares" : "12.58M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "6675803",
+"name" : "Mukand Engineers Limited",
+"t" : "532097",
+"e" : "BOM",
+"l" : "42.35",
+"c" : "+0.20",
+"mc" : "520.62M",
+"cp" : "0.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15284677",
+"name" : "Kalpataru Power Transmission Limited",
+"t" : "KALPATPOWR",
+"e" : "NSE",
+"l" : "483.00",
+"c" : "+22.35",
+"mc" : "73.82B",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "571281",
+"name" : "Premier Energy and Infrastructure Ltd",
+"t" : "533100",
+"e" : "BOM",
+"l" : "4.60",
+"c" : "0.00",
+"mc" : "190.21M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15510598",
+"name" : "KEC International Ltd",
+"t" : "KEC",
+"e" : "NSE",
+"l" : "427.70",
+"c" : "+26.45",
+"mc" : "109.76B",
+"cp" : "6.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "730951",
+"name" : "BS Ltd",
+"t" : "BSLIMITED",
+"e" : "NSE",
+"l" : "1.30",
+"c" : "+0.05",
+"mc" : "552.10M",
+"cp" : "4.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4100224",
+"name" : "Om Metals Infraprojects Ltd.",
+"t" : "OMMETALS",
+"e" : "NSE",
+"l" : "62.35",
+"c" : "+0.50",
+"mc" : "5.99B",
+"cp" : "0.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15759472",
+"name" : "ICSA (India) Ltd",
+"t" : "ICSA",
+"e" : "NSE",
+"l" : "3.45",
+"c" : "+0.15",
+"mc" : "166.08M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9964748",
+"name" : "Jyoti Structures Limited",
+"t" : "JYOTISTRUC",
+"e" : "NSE",
+"l" : "10.75",
+"c" : "+0.50",
+"mc" : "1.17B",
+"cp" : "4.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "28179114825360",
+"name" : "Sharika Enterprises Ltd",
+"t" : "540786",
+"e" : "BOM",
+"l" : "55.25",
+"c" : "+3.75",
+"mc" : "598.08M",
+"cp" : "7.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "631678",
+"name" : "Technofab Engineering",
+"t" : "TECHNOFAB",
+"e" : "NSE",
+"l" : "235.00",
+"c" : "+4.90",
+"mc" : "2.46B",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "189075724368911",
+"name" : "Tarini International Ltd",
+"t" : "538496",
+"e" : "BOM",
+"l" : "29.90",
+"c" : "0.00",
+"mc" : "388.64M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Thane-Belapur Road, Dighe, Kalwe, THANE, 400605, India",
+"phone": "+91-22-21727500",
+"fax": "+91-22-2534179",
+"url": "http:\u002F\u002Fwww.mukandengineers.com\u002F",
+"overview" : "Mukand Engineers Limited is engaged in engineering and construction. The Company operates through segments, including Construction and Infotech. The Construction segment is engaged in construction and engineering activities. The Infotech segment is engaged in Enterprise Resource Planning implementation and Infotech services. It is involved in various areas of project construction covering civil, structural, mechanical, piping, electrical and instrumentation works. The Company offers services in areas of engineering construction, including feasibility studies, planning, procurement, construction, erection and commissioning of projects across industries, such as petro chemicals, oil exploration and refineries, fertilizers, steel plants, aluminum plants, thermal and nuclear plants. It undertakes industrial civil works, including site development, roads, plant buildings, foundation and architectural work besides bulk shed structural works for projects, including heights over 50 meters."
+} ]
+, "management" : [
+{
+"name" : "Rajen G. Golatkar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Dhawal J. Vora",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "K. P. Jotwani",
+"title" : "Manager"
+}
+,
+{
+"name" : "Rajesh V. Shah",
+"age" : "64",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Niraj Ramkrishna Bajaj",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Prakash Vasantlal Mehta",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "N. Ramanathan",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "R. Sankaran",
+"age" : "63",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

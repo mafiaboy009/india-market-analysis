@@ -1,0 +1,200 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 40036500,
+            "fmt": "40.04M",
+            "longFmt": "40,036,500"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.19554001,
+            "fmt": "19.55%"
+          },
+          "floatShares": {
+            "raw": 3417858,
+            "fmt": "3.42M",
+            "longFmt": "3,417,858"
+          },
+          "sharesOutstanding": {
+            "raw": 10140000,
+            "fmt": "10.14M",
+            "longFmt": "10,140,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.040949,
+            "fmt": "0.04"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 11.943,
+            "fmt": "11.94"
+          },
+          "priceToBook": {
+            "raw": 0.27966172,
+            "fmt": "0.28"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.829,
+            "fmt": "-82.90%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1605946,
+            "fmt": "1.61M",
+            "longFmt": "1,605,946"
+          },
+          "trailingEps": {
+            "raw": 0.158,
+            "fmt": "0.16"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 4.875,
+            "fmt": "4.88"
+          },
+          "enterpriseToEbitda": {
+            "raw": 7.304,
+            "fmt": "7.30"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "The Agarwal Corporate House",
+          "address2": "5th Floor 1, Sanjana park Adjoining Agarwal public School BicholiMardana Road",
+          "city": "Indore",
+          "zip": "452016",
+          "country": "India",
+          "phone": "91 73 1494 8404",
+          "industry": "Credit Services",
+          "sector": "Financial",
+          "longBusinessSummary": "Anjani Finance Limited primarily generates and sells wind power in India. It operates through two businesses, Financial/Investment Activity and wind Mill Energy Generation. The company was incorporated in 1989 and is based in Indore, India.",
+          "fullTimeEmployees": 4,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 3.34,
+            "fmt": "3.34"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 5481166,
+            "fmt": "5.48M",
+            "longFmt": "5,481,166"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 8212764,
+            "fmt": "8.21M",
+            "longFmt": "8,212,764"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.809,
+            "fmt": "0.81"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 10631764,
+            "fmt": "10.63M",
+            "longFmt": "10,631,764"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": -0.833,
+            "fmt": "-83.30%"
+          },
+          "revenueGrowth": {
+            "raw": -0.4,
+            "fmt": "-40.00%"
+          },
+          "grossMargins": {
+            "raw": 1.0,
+            "fmt": "100.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.6674,
+            "fmt": "66.74%"
+          },
+          "operatingMargins": {
+            "raw": 0.63772,
+            "fmt": "63.77%"
+          },
+          "profitMargins": {
+            "raw": 0.19554001,
+            "fmt": "19.55%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

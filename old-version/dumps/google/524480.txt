@@ -1,0 +1,284 @@
+
+// [
+{
+"symbol" : "524480",
+"exchange" : "BOM",
+"id": "706256",
+"t" : "524480",
+"e" : "BOM",
+"name" : "Riddhi Siddhi Gluco Biols Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=RSGB.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524480"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524480"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524480"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.48%",
+"annual" : "-8.89%",
+"ttm" : "12.79%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-10.46%",
+"annual" : "-16.07%",
+"ttm" : "-12.17%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-9.24%",
+"ttm" : "-2.08%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-2.04%",
+"ttm" : "2.75%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-3.18%",
+"ttm" : "3.52%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "900",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+11.70",
+"l" : "852.00",
+"cp" : "1.39",
+"ccol" : "chg",
+"op" : "843.00",
+"hi" : "856.00",
+"lo" : "825.30",
+"vo" : "3,262.00",
+"avvo" : "",
+"hi52" : "953.00",
+"lo52" : "382.05",
+"mc" : "6.08B",
+"pe" : "15.13",
+"fwpe" : "",
+"beta" : "",
+"eps" : "56.32",
+"dy" : "",
+"ldiv" : "2.00",
+"shares" : "7.14M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "706256",
+"name" : "Riddhi Siddhi Gluco Biols Ltd.",
+"t" : "524480",
+"e" : "BOM",
+"l" : "852.00",
+"c" : "+11.70",
+"mc" : "6.08B",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12265286",
+"name" : "Dalmia Bharat Sugar and Industries Ltd",
+"t" : "DALMIASUG",
+"e" : "NSE",
+"l" : "106.00",
+"c" : "-1.10",
+"mc" : "8.66B",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9741051",
+"name" : "Origin Agrostar Ltd",
+"t" : "524170",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6247249",
+"name" : "Sukhjit Starch And Chemicals Ltd",
+"t" : "524542",
+"e" : "BOM",
+"l" : "504.00",
+"c" : "-10.00",
+"mc" : "3.64B",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "721010",
+"name" : "Anil Ltd",
+"t" : "532910",
+"e" : "BOM",
+"l" : "28.90",
+"c" : "0.00",
+"mc" : "282.24M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "729420",
+"name" : "Gayatri BioOrganics Limited",
+"t" : "524564",
+"e" : "BOM",
+"l" : "9.80",
+"c" : "+0.30",
+"mc" : "772.12M",
+"cp" : "3.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8222434",
+"name" : "Tirupati Starch and Chemicals Ltd",
+"t" : "524582",
+"e" : "BOM",
+"l" : "34.35",
+"c" : "+1.60",
+"mc" : "",
+"cp" : "4.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3330741",
+"name" : "Gujarat Ambuja Exports Limited",
+"t" : "GAEL",
+"e" : "NSE",
+"l" : "255.95",
+"c" : "+12.40",
+"mc" : "29.44B",
+"cp" : "5.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11888066",
+"name" : "South India Paper Mills Limited",
+"t" : "516108",
+"e" : "BOM",
+"l" : "121.00",
+"c" : "-4.00",
+"mc" : "1.82B",
+"cp" : "-3.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9826768",
+"name" : "Ellora Paper Mills Ltd",
+"t" : "502374",
+"e" : "BOM",
+"l" : "54.20",
+"c" : "0.00",
+"mc" : "119.56M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6133926",
+"name" : "The Mysore Paper Mills Ltd",
+"t" : "502405",
+"e" : "BOM",
+"l" : "7.40",
+"c" : "-0.02",
+"mc" : "882.19M",
+"cp" : "-0.27",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "701 Sakar-1, NR Nehru Bridge, Ashram Road, AHMEDABAD, 380058, India",
+"phone": "+91-2717-298600",
+"fax": "+91-79-26580894",
+"url": "http:\u002F\u002Fwww.riddhisiddhi.co.in",
+"overview" : "Riddhi Siddhi Gluco Biols Limited is engaged in agriculture and metal commodities, and generation of electricity through wind mill. The Company\u0027s segments include Wind Energy Generation and Trading business. The Company\u0027s plants are located at Alangulam\u002FTenkasi, Tirunelveli district in Tamilnadu\u003B KAS, Satara district in Maharashtra, and Vandhiya, Kutch district in Gujarat. The Company\u0027s windmills have generating capacity of approximately 33.5 megawatts. The Company\u0027s subsidiaries include Shree Rama Newsprint Limited and Riddhi Siddhi Estate Creator LLP. Shree Rama Newsprint Limited is engaged in providing unsecured loan (inter corporate deposit) and corporate guarantee."
+} ]
+, "management" : [
+{
+"name" : "Kinjal Shah",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ganpatraj L. Chowdhary",
+"age" : "48",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Mukesh R. Jain",
+"title" : "General Manager - Finance \u0026 Accounts"
+}
+,
+{
+"name" : "Siddharth Chowdhary",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Vaishali Patel",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Balveermal Singhvi",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Jaiprakash M. Patel",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "R. Sathyamurthi",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

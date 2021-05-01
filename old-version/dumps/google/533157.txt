@@ -1,0 +1,279 @@
+
+// [
+{
+"symbol" : "533157",
+"exchange" : "BOM",
+"id": "2880224",
+"t" : "533157",
+"e" : "BOM",
+"name" : "Syncom Healthcare Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533157"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533157"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533157"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.38%",
+"annual" : "-302.14%",
+"ttm" : "2.48%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-0.17%",
+"annual" : "-286.40%",
+"ttm" : "1.97%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-156.98%",
+"ttm" : "3.69%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-89.79%",
+"ttm" : "1.55%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-115.07%",
+"ttm" : "1.89%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "412",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.09",
+"l" : "5.50",
+"cp" : "-1.61",
+"ccol" : "chr",
+"op" : "5.85",
+"hi" : "5.85",
+"lo" : "5.50",
+"vo" : "57,344.00",
+"avvo" : "",
+"hi52" : "8.50",
+"lo52" : "4.00",
+"mc" : "213.63M",
+"pe" : "6.58",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.84",
+"dy" : "",
+"ldiv" : "",
+"shares" : "40.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2880224",
+"name" : "Syncom Healthcare Limited",
+"t" : "533157",
+"e" : "BOM",
+"l" : "5.50",
+"c" : "-0.09",
+"mc" : "213.63M",
+"cp" : "-1.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11018234",
+"name" : "Syncom Formulations India Ltd",
+"t" : "524470",
+"e" : "BOM",
+"l" : "1.53",
+"c" : "-0.04",
+"mc" : "1.19B",
+"cp" : "-2.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "321546676140049",
+"name" : "Ganga Pharmaceuticals Ltd",
+"t" : "539680",
+"e" : "BOM",
+"l" : "7.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11857064",
+"name" : "Gufic BioSciences Ltd",
+"t" : "GUFICBIO",
+"e" : "NSE",
+"l" : "120.05",
+"c" : "-0.75",
+"mc" : "9.27B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14985096",
+"name" : "Coral Laboratories Ltd",
+"t" : "524506",
+"e" : "BOM",
+"l" : "591.00",
+"c" : "+0.60",
+"mc" : "2.11B",
+"cp" : "0.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7489710",
+"name" : "Brooks Laboratories Ltd",
+"t" : "BROOKS",
+"e" : "NSE",
+"l" : "94.00",
+"c" : "-0.30",
+"mc" : "1.51B",
+"cp" : "-0.32",
+"ccol" : "chr"
+}
+,
+{
+"id" : "432750497476156",
+"name" : "Alkem Laboratories Ltd",
+"t" : "ALKEM",
+"e" : "NSE",
+"l" : "2,211.50",
+"c" : "+30.20",
+"mc" : "264.38B",
+"cp" : "1.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "679412034444482",
+"name" : "Bajaj Healthcare Ltd",
+"t" : "539872",
+"e" : "BOM",
+"l" : "378.75",
+"c" : "0.00",
+"mc" : "2.61B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1139837",
+"name" : "Parnax Lab Ltd",
+"t" : "506128",
+"e" : "BOM",
+"l" : "56.00",
+"c" : "-0.60",
+"mc" : "483.53M",
+"cp" : "-1.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3289388",
+"name" : "Medicamen Biotech Ltd",
+"t" : "531146",
+"e" : "BOM",
+"l" : "691.95",
+"c" : "+23.75",
+"mc" : "7.86B",
+"cp" : "3.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "657455857913932",
+"name" : "Kwality Pharmaceuticals Ltd",
+"t" : "539997",
+"e" : "BOM",
+"l" : "58.00",
+"c" : "-0.80",
+"mc" : "601.82M",
+"cp" : "-1.36",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "\u0022Syncom House\u0022 40, Niranjanpur, Dewas Naka, A. B. Road, INDORE, 452001, India",
+"phone": "+91-731-2577471",
+"fax": "+91-731-2577470",
+"url": "http:\u002F\u002Fwww.syncomhealthcare.com\u002F",
+"overview" : "Syncom Healthcare Limited is engaged in manufacturing of pharmaceuticals. The Company is an integrated international pharmaceutical company with businesses encompassing the value chain in the marketing, production (including job work) and distribution of pharmaceutical products. The Company operates through pharmaceuticals formulations segment. The Company in the domestic market, has approximately two main focus areas of operations: contract\u002Ftoll manufacturing and over the counter (OTC). Through its OTC operations, the Company functions in three segments namely, generic, ethical, and the pharma OTC. The Company undertakes contract manufacturing for various pharmaceutical formulations, neutraceutical products, food supplements and cosmetics, which include tablets, capsules, syrups\u002Fliquid orals, eye-ear drops, creams and ointments, oral dry powders (Non-beta lactam), protein powders, external preparations (Oils and Liniments) and herbal preparations."
+} ]
+, "management" : [
+{
+"name" : "Ajay Shankarlal Bankda",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Amit Satardekar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Charu Srivastava",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Bhishampal Singh Yadav",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Jagdish Prasad Bagaria",
+"age" : "67",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Jagdish Soneja",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Avichal Kasliwal",
+"age" : "56",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

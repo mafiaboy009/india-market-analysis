@@ -1,0 +1,278 @@
+
+// [
+{
+"symbol" : "511505",
+"exchange" : "BOM",
+"id": "9186082",
+"t" : "511505",
+"e" : "BOM",
+"name" : "Capital Trust Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=CAPT.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:511505"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:511505"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:511505"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "19.01%",
+"annual" : "30.34%",
+"ttm" : "5.98%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "32.22%",
+"annual" : "45.58%",
+"ttm" : "9.69%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "45.89%",
+"ttm" : "10.00%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "8.85%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "19.86%",
+"ttm" : ""
+}
+]
+, "c" : "-24.55",
+"l" : "465.00",
+"cp" : "-5.01",
+"ccol" : "chr",
+"op" : "472.90",
+"hi" : "488.60",
+"lo" : "465.00",
+"vo" : "2,188.00",
+"avvo" : "",
+"hi52" : "569.80",
+"lo52" : "355.00",
+"mc" : "7.67B",
+"pe" : "79.12",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.88",
+"dy" : "0.32",
+"ldiv" : "1.50",
+"shares" : "16.36M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9186082",
+"name" : "Capital Trust Ltd",
+"t" : "511505",
+"e" : "BOM",
+"l" : "465.00",
+"c" : "-24.55",
+"mc" : "7.67B",
+"cp" : "-5.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11138731",
+"name" : "Edelweiss Capital Limited",
+"t" : "EDELWEISS",
+"e" : "NSE",
+"l" : "264.65",
+"c" : "+4.05",
+"mc" : "241.74B",
+"cp" : "1.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "541955",
+"name" : "DFL Infrastructure Finance Ltd",
+"t" : "511393",
+"e" : "BOM",
+"l" : "0.72",
+"c" : "0.00",
+"mc" : "4.29M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13414243",
+"name" : "CSL Finance Ltd",
+"t" : "530067",
+"e" : "BOM",
+"l" : "602.20",
+"c" : "-7.80",
+"mc" : "3.56B",
+"cp" : "-1.28",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6507757",
+"name" : "Haryana Financial Corp",
+"t" : "530927",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-24.65",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1567356",
+"name" : "Sulabh Engineers and Services Ltd",
+"t" : "508969",
+"e" : "BOM",
+"l" : "9.84",
+"c" : "0.00",
+"mc" : "988.67M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14079515",
+"name" : "Picturehouse Media Ltd",
+"t" : "532355",
+"e" : "BOM",
+"l" : "4.97",
+"c" : "-0.37",
+"mc" : "259.68M",
+"cp" : "-6.93",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2713202",
+"name" : "Sainik Finance \u0026 Industires Ltd",
+"t" : "530265",
+"e" : "BOM",
+"l" : "32.75",
+"c" : "+1.10",
+"mc" : "356.32M",
+"cp" : "3.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6328798",
+"name" : "Esaar (India) Ltd",
+"t" : "531502",
+"e" : "BOM",
+"l" : "2.95",
+"c" : "0.00",
+"mc" : "60.31M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5685398",
+"name" : "Unno Industries Ltd",
+"t" : "519273",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "211.67M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9200439",
+"name" : "Gemstone Investments Ltd",
+"t" : "531137",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "71.01M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "366 Sultanpur,MG Road, NEW DELHI, 110030, India",
+"phone": "+91-11-41627007",
+"fax": "+91-11-41628485",
+"url": "http:\u002F\u002Fcapital-trust.com\u002F",
+"overview" : "Capital Trust Limited is an India-based non-banking financial company (NBFC). The Company is engaged in the activity of leasing and hire purchase, and financed items, such as plant and equipment, machinery, office equipment and generators. It offers enterprise loans in the micro, small and medium enterprise sector. The Company runs its business through approximately 85 branches spread over 20 districts in states of Uttar Pradesh, Uttarakhand, Haryana and Punjab. Its products include enterprise loans and microfinance loans. The Company provides retail finance for two wheelers and consumer durables, among others. The Company is engaged in providing loans to the customers that are engaged in a range of activities, such as dairy and livestock, services, retail, manufacturing, trading, food, agriculture, two-wheeler, home improvement loan and commercial vehicle."
+} ]
+, "management" : [
+{
+"name" : "Yogen Khosla",
+"age" : "49",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Tanya Sethi",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anju Khosla",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Surendra Mahanti",
+"age" : "72",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Sachin Kumar Bhartiya",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Manpreet Singh Chawla",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Joginder Pal Dua",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Hari Baskaran",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

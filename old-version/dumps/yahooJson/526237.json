@@ -1,0 +1,187 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 115114656,
+            "fmt": "115.11M",
+            "longFmt": "115,114,656"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 3.8524399,
+            "fmt": "385.24%"
+          },
+          "floatShares": {
+            "raw": 2080300,
+            "fmt": "2.08M",
+            "longFmt": "2,080,300"
+          },
+          "sharesOutstanding": {
+            "raw": 10000000,
+            "fmt": "10M",
+            "longFmt": "10,000,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 39.553,
+            "fmt": "39.55"
+          },
+          "priceToBook": {
+            "raw": 0.30895254,
+            "fmt": "0.31"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 643417,
+            "fmt": "643.42k",
+            "longFmt": "643,417"
+          },
+          "trailingEps": {
+            "raw": 0.067,
+            "fmt": "0.07"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 689.309,
+            "fmt": "689.31"
+          },
+          "enterpriseToEbitda": {
+            "raw": -41.725,
+            "fmt": "-41.72"
+          },
+          "52WeekChange": {
+            "raw": -0.07878786,
+            "fmt": "-7.88%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.1593206,
+            "fmt": "15.93%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "37, Ring Road",
+          "address2": "Lajpat Nagar IV",
+          "city": "New Delhi",
+          "zip": "110024",
+          "country": "India",
+          "phone": "91 11 2643 2601",
+          "website": "http://www.morganventures.in",
+          "industry": "Credit Services",
+          "sector": "Financial",
+          "longBusinessSummary": "Morgan Ventures Limited, a non-banking financial company, engages in the generation of power from windmills in India. It also engages in fund and non-fund based activities. The company was formerly known as Doogar Associates Limited and changed its name to Morgan Ventures Limited in 2004. Morgan Ventures Limited was incorporated in 1986 and is based in New Delhi, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 12.22,
+            "fmt": "12.22"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": -2758885,
+            "fmt": "-2.76M",
+            "longFmt": "-2,758,885"
+          },
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 167000,
+            "fmt": "167k",
+            "longFmt": "167,000"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.017,
+            "fmt": "0.02"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {},
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.124,
+            "fmt": "12.40%"
+          },
+          "grossMargins": {
+            "raw": 1.0,
+            "fmt": "100.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": -17.343102,
+            "fmt": "-1,734.31%"
+          },
+          "profitMargins": {
+            "raw": 3.8524399,
+            "fmt": "385.24%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

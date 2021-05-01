@@ -1,0 +1,401 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 61827657728,
+            "fmt": "61.83B",
+            "longFmt": "61,827,657,728"
+          },
+          "forwardPE": {
+            "raw": 30.527311,
+            "fmt": "30.53"
+          },
+          "profitMargins": {
+            "raw": 0.15877,
+            "fmt": "15.88%"
+          },
+          "floatShares": {
+            "raw": 32990546,
+            "fmt": "32.99M",
+            "longFmt": "32,990,546"
+          },
+          "sharesOutstanding": {
+            "raw": 62276400,
+            "fmt": "62.28M",
+            "longFmt": "62,276,400"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 97.053,
+            "fmt": "97.05"
+          },
+          "priceToBook": {
+            "raw": 13.30201,
+            "fmt": "13.30"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.433,
+            "fmt": "43.30%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 2117469952,
+            "fmt": "2.12B",
+            "longFmt": "2,117,469,952"
+          },
+          "trailingEps": {
+            "raw": 34.006,
+            "fmt": "34.01"
+          },
+          "forwardEps": {
+            "raw": 42.29,
+            "fmt": "42.29"
+          },
+          "pegRatio": {
+            "raw": 1.44,
+            "fmt": "1.44"
+          },
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1505692800,
+            "fmt": "2017-09-18"
+          },
+          "enterpriseToRevenue": {
+            "raw": 4.636,
+            "fmt": "4.64"
+          },
+          "enterpriseToEbitda": {
+            "raw": 18.591,
+            "fmt": "18.59"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 7.15,
+                  "fmt": "7.15"
+                },
+                "estimate": {
+                  "raw": 7.24,
+                  "fmt": "7.24"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 9.19,
+                  "fmt": "9.19"
+                },
+                "estimate": {
+                  "raw": 15.84,
+                  "fmt": "15.84"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 10.08,
+                  "fmt": "10.08"
+                },
+                "estimate": {
+                  "raw": 9.3,
+                  "fmt": "9.30"
+                }
+              }
+            ],
+            "currentQuarterEstimate": {
+              "raw": 10.39,
+              "fmt": "10.39"
+            },
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 7747857000,
+                  "fmt": "7.75B",
+                  "longFmt": "7,747,857,000"
+                },
+                "earnings": {
+                  "raw": 722619000,
+                  "fmt": "722.62M",
+                  "longFmt": "722,619,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 8494011000,
+                  "fmt": "8.49B",
+                  "longFmt": "8,494,011,000"
+                },
+                "earnings": {
+                  "raw": 1020209000,
+                  "fmt": "1.02B",
+                  "longFmt": "1,020,209,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 10752061000,
+                  "fmt": "10.75B",
+                  "longFmt": "10,752,061,000"
+                },
+                "earnings": {
+                  "raw": 1548101000,
+                  "fmt": "1.55B",
+                  "longFmt": "1,548,101,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 12330397000,
+                  "fmt": "12.33B",
+                  "longFmt": "12,330,397,000"
+                },
+                "earnings": {
+                  "raw": 1732914000,
+                  "fmt": "1.73B",
+                  "longFmt": "1,732,914,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 3260486000,
+                  "fmt": "3.26B",
+                  "longFmt": "3,260,486,000"
+                },
+                "earnings": {
+                  "raw": 444974000,
+                  "fmt": "444.97M",
+                  "longFmt": "444,974,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 3232296000,
+                  "fmt": "3.23B",
+                  "longFmt": "3,232,296,000"
+                },
+                "earnings": {
+                  "raw": 497432000,
+                  "fmt": "497.43M",
+                  "longFmt": "497,432,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 3421540000,
+                  "fmt": "3.42B",
+                  "longFmt": "3,421,540,000"
+                },
+                "earnings": {
+                  "raw": 572399000,
+                  "fmt": "572.4M",
+                  "longFmt": "572,399,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 3455364000,
+                  "fmt": "3.46B",
+                  "longFmt": "3,455,364,000"
+                },
+                "earnings": {
+                  "raw": 627656000,
+                  "fmt": "627.66M",
+                  "longFmt": "627,656,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "ITPB Road",
+          "address2": "Whitefield",
+          "city": "Bengaluru",
+          "zip": "560048",
+          "country": "India",
+          "phone": "91 80 2297 9123",
+          "fax": "91 80 2841 1474",
+          "website": "http://www.tataelxsi.com",
+          "industry": "Technical & System Software",
+          "sector": "Technology",
+          "longBusinessSummary": "Tata Elxsi Limited provides product design and engineering, and systems integration and support services in India, the United States, Europe, and internationally. The company operates through two segments, Software Development & Services; and Systems Integration & Support. It offers technology consulting, new product design, development, and testing services for the broadcast, consumer electronics, healthcare, telecom, and transportation industries; and electronics, software development, and system design services for the automotive, rail, and aerospace industries. The company also provides animation and visual effects services in the areas of 3D stereoscopy, CG animation, visual effects, and gaming for television service and commercials, custom content development, logos and graphics, and feature films. In addition, it engages in the research, development, testing, and maintenance engineering for broadcast, consumer electronics and communications; and provides industrial design and innovation services in the areas of consumer insight, branding, industrial design, visual design and merchandising, design engineering, and manufacturing support. Further, the company offers design, branding, and mechanical detailing for devices, sensors, and gateways; device, sensor, gateway hardware, system, and application development; communications integration and testing services; and cloud computing and analysis services, such as connectivity, device management, big data, network management, analysis and prediction models, and hosted services. Additionally, it implements and integrates systems and solutions for high-performance computing, computer aided design, virtual reality, storage, and disaster recovery; and offers professional services for maintenance and support of IT infrastructure. Tata Elxsi Limited was incorporated in 1989 and is headquartered in Bengaluru, India.",
+          "fullTimeEmployees": 5205,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 1291.0,
+            "fmt": "1,291.00"
+          },
+          "targetHighPrice": {
+            "raw": 1236.0,
+            "fmt": "1,236.00"
+          },
+          "targetLowPrice": {
+            "raw": 880.0,
+            "fmt": "880.00"
+          },
+          "targetMeanPrice": {
+            "raw": 1039.0,
+            "fmt": "1,039.00"
+          },
+          "targetMedianPrice": {
+            "raw": 1020.0,
+            "fmt": "1,020.00"
+          },
+          "recommendationMean": {
+            "raw": 3.0,
+            "fmt": "3.00"
+          },
+          "recommendationKey": "hold",
+          "numberOfAnalystOpinions": {
+            "raw": 4,
+            "fmt": "4",
+            "longFmt": "4"
+          },
+          "totalCash": {
+            "raw": 3216930048,
+            "fmt": "3.22B",
+            "longFmt": "3,216,930,048"
+          },
+          "totalCashPerShare": {
+            "raw": 51.663,
+            "fmt": "51.66"
+          },
+          "ebitda": {
+            "raw": 3325613312,
+            "fmt": "3.33B",
+            "longFmt": "3,325,613,312"
+          },
+          "totalDebt": {
+            "raw": 0,
+            "fmt": null,
+            "longFmt": "0"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 13336446976,
+            "fmt": "13.34B",
+            "longFmt": "13,336,446,976"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 214.183,
+            "fmt": "214.18"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 4765909000,
+            "fmt": "4.77B",
+            "longFmt": "4,765,909,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.434,
+            "fmt": "43.40%"
+          },
+          "revenueGrowth": {
+            "raw": 0.117,
+            "fmt": "11.70%"
+          },
+          "grossMargins": {
+            "raw": 0.38702,
+            "fmt": "38.70%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.24936001,
+            "fmt": "24.94%"
+          },
+          "operatingMargins": {
+            "raw": 0.2317,
+            "fmt": "23.17%"
+          },
+          "profitMargins": {
+            "raw": 0.15877,
+            "fmt": "15.88%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

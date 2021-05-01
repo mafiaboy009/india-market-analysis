@@ -1,0 +1,283 @@
+
+// [
+{
+"symbol" : "524470",
+"exchange" : "BOM",
+"id": "11018234",
+"t" : "524470",
+"e" : "BOM",
+"name" : "Syncom Formulations India Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SYFI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:524470"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:524470"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:524470"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.32%",
+"annual" : "5.70%",
+"ttm" : "5.39%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.53%",
+"annual" : "7.23%",
+"ttm" : "6.59%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.93%",
+"ttm" : "8.55%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.01%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.46%",
+"ttm" : ""
+}
+]
+, "c" : "-0.04",
+"l" : "1.53",
+"cp" : "-2.55",
+"ccol" : "chr",
+"op" : "1.58",
+"hi" : "1.63",
+"lo" : "1.51",
+"vo" : "170,478.00",
+"avvo" : "",
+"hi52" : "2.50",
+"lo52" : "1.17",
+"mc" : "1.19B",
+"pe" : "12.63",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.12",
+"dy" : "1.31",
+"ldiv" : "0.02",
+"shares" : "780.65M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11018234",
+"name" : "Syncom Formulations India Ltd",
+"t" : "524470",
+"e" : "BOM",
+"l" : "1.53",
+"c" : "-0.04",
+"mc" : "1.19B",
+"cp" : "-2.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13561029",
+"name" : "Syncom Healthcare Limited",
+"t" : "SYNCOM",
+"e" : "NSE",
+"l" : "5.60",
+"c" : "-0.10",
+"mc" : "222.05M",
+"cp" : "-1.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1139837",
+"name" : "Parnax Lab Ltd",
+"t" : "506128",
+"e" : "BOM",
+"l" : "56.00",
+"c" : "-0.60",
+"mc" : "483.53M",
+"cp" : "-1.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7222829",
+"name" : "Makers Laboratories Ltd",
+"t" : "506919",
+"e" : "BOM",
+"l" : "81.35",
+"c" : "+1.15",
+"mc" : "406.07M",
+"cp" : "1.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "663200192416002",
+"name" : "Bafna Pharmaceuticals Limited",
+"t" : "BAFNAPHARM",
+"e" : "NSE",
+"l" : "27.80",
+"c" : "+0.25",
+"mc" : "521.49M",
+"cp" : "0.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13151881",
+"name" : "Colinz Laboratories Ltd",
+"t" : "531210",
+"e" : "BOM",
+"l" : "15.00",
+"c" : "0.00",
+"mc" : "68.56M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16546949",
+"name" : "Lincoln Pharmaceuticals Ltd",
+"t" : "531633",
+"e" : "BOM",
+"l" : "239.25",
+"c" : "+9.05",
+"mc" : "4.77B",
+"cp" : "3.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3593756",
+"name" : "Vista Pharmaceuticals Ltd",
+"t" : "524711",
+"e" : "BOM",
+"l" : "44.10",
+"c" : "+1.55",
+"mc" : "1.26B",
+"cp" : "3.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8666279",
+"name" : "Jenburkt Pharmaceuticals Ltd",
+"t" : "524731",
+"e" : "BOM",
+"l" : "575.00",
+"c" : "+11.15",
+"mc" : "2.63B",
+"cp" : "1.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5391783",
+"name" : "Cipla Ltd",
+"t" : "CIPLA",
+"e" : "NSE",
+"l" : "589.50",
+"c" : "-6.15",
+"mc" : "475.86B",
+"cp" : "-1.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "478315",
+"name" : "Wintac Ltd",
+"t" : "524758",
+"e" : "BOM",
+"l" : "236.50",
+"c" : "-3.50",
+"mc" : "2.37B",
+"cp" : "-1.46",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "2nd Floor, \u0022Tagore Centre\u0022 (Dawa Bazar) 13-14, RNT Marg GPO P.B. No. 610, INDORE, 452001, India",
+"phone": "+91-731-3046786",
+"fax": "+91-731-3046870",
+"url": "http:\u002F\u002Fwww.syncomformulations.com\u002F",
+"overview" : "Syncom Formulations (India) Limited is a pharmaceutical company. The Company manufactures and markets over 300 pharmaceutical formulations products in various dosage forms, such as tablets, capsules, liquids orals, liquid vials and ampoule injections and dry vial injections, dry syrups, ointments, inhalers and herbals. It exports various commodities, such as pharmaceutical, including active pharmaceutical ingredients (APIs) and surgical products\u003B agro and confectionary products, including rice, wheat flour, chickpeas, soy de oiled cake, biscuits and candies, and industrial products, including fasteners, steel bars, roofing sheets and jute bags, and metal scrap. The Company\u0027s division, Cratus Life Care, is involved in taking care of domestic market\u0027s needs. Its antifungal products include Fluconazole Tablets 150 milligram (mg), Itrakonazole Tablets 100 mg, Furazolidone Capsules 100 mg and Itraconazole Capsules 100 mg. Its manufacturing facility is located at Pithampur, Madhya Pradesh."
+} ]
+, "management" : [
+{
+"name" : "Kedarmal Bankda",
+"age" : "59",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Ankit Bankda",
+"title" : "Chief Financial Officer, Additional Compliance Officer"
+}
+,
+{
+"name" : "Karishma Kakkar",
+"age" : "26",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vijay Bankda",
+"age" : "53",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Rinki Bankda",
+"age" : "30",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Praveen Jindal",
+"age" : "28",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vinod Kumar Kabra",
+"age" : "60",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Krishna Das Neema",
+"age" : "60",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

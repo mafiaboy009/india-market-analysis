@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "531411",
+"exchange" : "BOM",
+"id": "9430261",
+"t" : "531411",
+"e" : "BOM",
+"name" : "Tuni Textile Mills Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=TUTX.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531411"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531411"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531411"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.81%",
+"annual" : "0.20%",
+"ttm" : "-0.23%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.57%",
+"annual" : "3.25%",
+"ttm" : "3.15%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.38%",
+"ttm" : "4.92%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.23%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.45%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "41",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "0.49",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "0.49",
+"hi" : "0.49",
+"lo" : "0.49",
+"vo" : "4,803.00",
+"avvo" : "",
+"hi52" : "0.50",
+"lo52" : "0.49",
+"mc" : "64.01M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.01",
+"dy" : "",
+"ldiv" : "",
+"shares" : "130.63M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9430261",
+"name" : "Tuni Textile Mills Ltd",
+"t" : "531411",
+"e" : "BOM",
+"l" : "0.49",
+"c" : "0.00",
+"mc" : "64.01M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2352428",
+"name" : "Nandan Denim Ltd",
+"t" : "NDL",
+"e" : "NSE",
+"l" : "144.55",
+"c" : "+2.40",
+"mc" : "6.95B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11965403",
+"name" : "Aarvee Denims \u0026 Exports Ltd.",
+"t" : "AARVEEDEN",
+"e" : "NSE",
+"l" : "49.10",
+"c" : "-0.35",
+"mc" : "1.15B",
+"cp" : "-0.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2198142",
+"name" : "Hindoostan Mills Ltd",
+"t" : "509895",
+"e" : "BOM",
+"l" : "365.00",
+"c" : "+19.75",
+"mc" : "607.56M",
+"cp" : "5.72",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13360983",
+"name" : "Trident Ltd",
+"t" : "TRIDENT",
+"e" : "NSE",
+"l" : "72.65",
+"c" : "-0.45",
+"mc" : "37.07B",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8147180",
+"name" : "Bombay Dyeing and Manufacturing Company",
+"t" : "BOMDYEING",
+"e" : "NSE",
+"l" : "272.95",
+"c" : "-7.05",
+"mc" : "56.43B",
+"cp" : "-2.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1950076",
+"name" : "Eurotex Industries And Exports Ltd",
+"t" : "EUROTEXIND",
+"e" : "NSE",
+"l" : "36.05",
+"c" : "-0.90",
+"mc" : "315.43M",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9959485",
+"name" : "Silverton Spinners Ltd",
+"t" : "531118",
+"e" : "BOM",
+"l" : "0.58",
+"c" : "+0.02",
+"mc" : "21.74M",
+"cp" : "3.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705528",
+"name" : "Richa Industries Ltd",
+"t" : "532766",
+"e" : "BOM",
+"l" : "12.80",
+"c" : "-0.10",
+"mc" : "298.75M",
+"cp" : "-0.78",
+"ccol" : "chr"
+}
+,
+{
+"id" : "721610",
+"name" : "Birla Cotsyn (India) Ltd",
+"t" : "533006",
+"e" : "BOM",
+"l" : "0.08",
+"c" : "0.00",
+"mc" : "214.93M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7936098",
+"name" : "Maral Overseas Limited",
+"t" : "MARALOVER",
+"e" : "NSE",
+"l" : "37.10",
+"c" : "-0.25",
+"mc" : "1.54B",
+"cp" : "-0.67",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "63\u002F71 Dadiseth Agyari Lane, Kalbadevi, MUMBAI, 400002, India",
+"phone": "+91-22-22014577",
+"fax": "+91-22-22056350",
+"url": "http:\u002F\u002Fwww.tunitextiles.com\u002F",
+"overview" : "Tuni Textile Mills Limited is engaged in manufacturing grey fabrics, which include cotton and cotton mixture fabrics. The Company operates through textile segment. The Company is engaged in the business of manufacturing synthetic fabric. The Company\u0027s product range includes pick and pick, fil-a-fil, chambrays and other polyester cotton varieties. It manufactures fabrics for various end uses in the domestic and international apparel markets, such as uniform fabrics, shirting fabrics, suiting fabrics and trouser fabric. Its fabrics can be accommodated in various types of intricate weave structures, such as plain, twill, oxford, satin, herringbone and poplin. It is capable of manufacturing polyester, cotton, polyester-cotton, polyester-viscose, cotton-linen and various other blends. It is engaged in trading actives and job work. The Company is also engaged in trading in finished and Grieg cloth. The Company produces over 7.2 million meters per annum on European looms."
+} ]
+, "management" : [
+{
+"name" : "Narendra Kumar Sureka",
+"age" : "58",
+"title" : "Executive Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Archit P. Sureka",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Reshma Wadkar",
+"title" : "Compliance Officer"
+}
+,
+{
+"name" : "Pradeep Kumar Sureka",
+"age" : "51",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Urmila Sureka",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Pramod Kumar Bajaj",
+"age" : "56",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kamalji Wamanji Dixit",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Aditya Purushottam Khaitan",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

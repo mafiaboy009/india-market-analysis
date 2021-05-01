@@ -1,0 +1,285 @@
+
+// [
+{
+"symbol" : "523638",
+"exchange" : "BOM",
+"id": "676943",
+"t" : "523638",
+"e" : "BOM",
+"name" : "IP Rings Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=IPRI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:523638"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:523638"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:523638"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.64%",
+"annual" : "-0.76%",
+"ttm" : "3.70%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "9.79%",
+"annual" : "2.77%",
+"ttm" : "6.38%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "7.79%",
+"ttm" : "10.22%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.84%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-2.28%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "132",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+3.80",
+"l" : "183.40",
+"cp" : "2.12",
+"ccol" : "chg",
+"op" : "173.65",
+"hi" : "185.60",
+"lo" : "172.15",
+"vo" : "1,441.00",
+"avvo" : "",
+"hi52" : "278.80",
+"lo52" : "120.50",
+"mc" : "2.32B",
+"pe" : "33.45",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.48",
+"dy" : "",
+"ldiv" : "",
+"shares" : "12.68M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "676943",
+"name" : "IP Rings Limited",
+"t" : "523638",
+"e" : "BOM",
+"l" : "183.40",
+"c" : "+3.80",
+"mc" : "2.32B",
+"cp" : "2.12",
+"ccol" : "chg"
+}
+,
+{
+"id" : "972155",
+"name" : "Amtek Auto Ltd",
+"t" : "AMTEKAUTO",
+"e" : "NSE",
+"l" : "24.30",
+"c" : "+1.15",
+"mc" : "6.05B",
+"cp" : "4.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11867337",
+"name" : "Samkrg Pistons And Rings Ltd",
+"t" : "520075",
+"e" : "BOM",
+"l" : "304.00",
+"c" : "+1.75",
+"mc" : "3.03B",
+"cp" : "0.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "842984",
+"name" : "Menon Pistons Limited",
+"t" : "531727",
+"e" : "BOM",
+"l" : "29.70",
+"c" : "+1.20",
+"mc" : "1.48B",
+"cp" : "4.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2371222",
+"name" : "Ucal Fuel Systems Limited",
+"t" : "UCALFUEL",
+"e" : "NSE",
+"l" : "275.00",
+"c" : "+5.15",
+"mc" : "6.08B",
+"cp" : "1.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9429204",
+"name" : "Federal-Mogul Goetze (India) Limited",
+"t" : "FMGOETZE",
+"e" : "NSE",
+"l" : "487.00",
+"c" : "+1.45",
+"mc" : "27.12B",
+"cp" : "0.30",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6931017",
+"name" : "Rane Engine Valve Ltd",
+"t" : "RANEENGINE",
+"e" : "NSE",
+"l" : "530.00",
+"c" : "+3.70",
+"mc" : "3.56B",
+"cp" : "0.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9043051",
+"name" : "Rane (Madras) Limited",
+"t" : "RML",
+"e" : "NSE",
+"l" : "868.00",
+"c" : "+46.00",
+"mc" : "10.15B",
+"cp" : "5.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "30688",
+"name" : "Triton Valves Limited",
+"t" : "505978",
+"e" : "BOM",
+"l" : "1,884.00",
+"c" : "-19.30",
+"mc" : "1.87B",
+"cp" : "-1.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "752068",
+"name" : "Kar Mobiles Limited",
+"t" : "590053",
+"e" : "BOM",
+"l" : "380.00",
+"c" : "",
+"mc" : "851.42M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "1863710",
+"name" : "Sundram Fasteners Limited",
+"t" : "SUNDRMFAST",
+"e" : "NSE",
+"l" : "559.00",
+"c" : "-14.65",
+"mc" : "116.98B",
+"cp" : "-2.55",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "D11\u002F12 Industrial Estate,Mariamalai Nagar, KANCHIPURAM, 603209, India",
+"phone": "+91-44-27452816",
+"fax": "+91-44-27452560",
+"url": "http:\u002F\u002Fwww.iprings.com\u002F",
+"overview" : "IP Rings Ltd. is an automotive components manufacturer. The Company is engaged in the manufacturing of parts and accessories of engines. The Company operates through the segment of manufacture of Auto Component, including piston rings, differential gears, pole wheel and other transmission components. The Company specializes in the production of piston rings in high carbon high alloy steels and nodular iron with a range of surface coatings that find application in low emission engines. It also produces a series of transmission parts and other components for automotive and related industries employing a precision forging technology. It offers various types of rings, including Top Ring, Second Ring, Oil Ring and Honeywell (Turbo Charger). Its one-component foam (OCF) range of products include Rotor Shaft-1, Synchrocone with Lining, Synchrocone, Rotor Shaft-2, Gear Shift Sleeve, Gear and Pinion-Three Wheelers, Gear and Pinion-Tractors, Lock Ring, Nut Mutter, Dog Clutch and Polewheel-01."
+} ]
+, "management" : [
+{
+"name" : "A. Venkataramani Esq.",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "R. Venkataraman",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "S. Priyamvatha",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "N. Venkataramani Esq.",
+"age" : "68",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "R. Mahadevan Esq.",
+"age" : "70",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sandhya Shekhar",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "J. Shivakumar",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "R. Natarajan Esq.",
+"age" : "75",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

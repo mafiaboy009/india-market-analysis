@@ -1,0 +1,296 @@
+
+ [
+{
+"symbol" : "512070",
+"exchange" : "BOM",
+"id": "700531",
+"t" : "512070",
+"e" : "BOM",
+"name" : "UPL Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:512070"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:512070"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:512070"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q2 (Jun \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "12.33%",
+"annual" : "10.39%",
+"ttm" : "11.09%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "14.88%",
+"annual" : "14.82%",
+"ttm" : "13.83%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "19.36%",
+"ttm" : "18.23%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "9.28%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "26.16%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "5,714",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+19.90",
+"l" : "720.00",
+"cp" : "2.84",
+"ccol" : "chg",
+"op" : "709.90",
+"hi" : "725.85",
+"lo" : "706.50",
+"vo" : "134,193.00",
+"avvo" : "",
+"hi52" : "902.00",
+"lo52" : "675.10",
+"mc" : "366.54B",
+"pe" : "18.09",
+"fwpe" : "",
+"beta" : "",
+"eps" : "39.81",
+"dy" : "0.97",
+"ldiv" : "7.00",
+"shares" : "0.00",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "700531",
+"name" : "UPL Ltd",
+"t" : "512070",
+"e" : "BOM",
+"l" : "720.00",
+"c" : "+19.90",
+"mc" : "366.54B",
+"cp" : "2.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2451462",
+"name" : "P I Industries Ltd",
+"t" : "PIIND",
+"e" : "NSE",
+"l" : "940.00",
+"c" : "+102.45",
+"mc" : "129.40B",
+"cp" : "12.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "356893",
+"name" : "Excel Industries Limited",
+"t" : "EXCELINDUS",
+"e" : "NSE",
+"l" : "890.00",
+"c" : "+63.45",
+"mc" : "11.25B",
+"cp" : "7.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "844516788766421",
+"name" : "Shree Pushkar Chemicals \u0026 Fertilisrs Ltd",
+"t" : "SHREEPUSHK",
+"e" : "NSE",
+"l" : "225.40",
+"c" : "-5.80",
+"mc" : "6.76B",
+"cp" : "-2.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11089076",
+"name" : "Bayer CropScience Ltd",
+"t" : "BAYERCROP",
+"e" : "NSE",
+"l" : "3,899.90",
+"c" : "+68.15",
+"mc" : "133.96B",
+"cp" : "1.78",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10347650",
+"name" : "Bharat Rasayan Ltd",
+"t" : "BHARATRAS",
+"e" : "NSE",
+"l" : "4,591.80",
+"c" : "+18.95",
+"mc" : "19.39B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4970739",
+"name" : "Punjab Chemicals \u0026 Crop Protection Ltd",
+"t" : "PUNJABCHEM",
+"e" : "NSE",
+"l" : "409.00",
+"c" : "-22.15",
+"mc" : "5.02B",
+"cp" : "-5.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "8171990",
+"name" : "MEGHMANI ORGANICS",
+"t" : "MEGH",
+"e" : "NSE",
+"l" : "95.85",
+"c" : "+0.15",
+"mc" : "",
+"cp" : "0.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705748",
+"name" : "Chemcel BioTech Limited",
+"t" : "533026",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "28.16M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "439959355334624",
+"name" : "Rallis India Limited",
+"t" : "RALLIS",
+"e" : "NSE",
+"l" : "231.00",
+"c" : "+3.15",
+"mc" : "44.87B",
+"cp" : "1.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "84239716704146",
+"name" : "Sikko Industries Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Uniphos House,Madhu Park 11th Road, Chitrakar Dhurandar Marg Khar (West), MUMBAI, 400052, India",
+"phone": "+91-22-26468008",
+"fax": "+91-22-26041010",
+"url": "http:\u002F\u002Fwww.uplonline.com\u002F",
+"overview" : "UPL Limited provides crop protection solutions. The Company is engaged in the business of agrochemicals, industrial chemicals, chemical intermediates and specialty chemicals. The Company\u0027s segments include Agro activity and Non-agro activity. The Agro activity segment includes the manufacture and marketing of conventional agrochemical products, seeds and other agricultural related products. The Non-agro activity segment includes manufacture and marketing of industrial chemical and other non-agricultural related products. It offers fungicides, herbicides, insecticides, plant growth and regulators, rodenticides, industrial and specialty chemicals, and nutrifeeds. The Company sells its products in approximately 120 countries. It offers agrochemicals, such as Manzate Prostick, Vondozeb, Saaf, Cuprofix, Dost Super, Lifeline, Surflan, Saathi, Eros Gold, Phosphorus Trichloride, Phosphorus Oxychloride, Tri Ethyl Phosphite, Tri Iso Octyl Phosphite and Di Phenyl Iso Decyl Phosphite."
+} ]
+, "management" : [
+{
+"name" : "Rajnikant Devidas Shroff",
+"age" : "84",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Anand K. Vora",
+"age" : "53",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Arun C. Ashar",
+"age" : "69",
+"title" : "Director - Finance, Whole-time Director"
+}
+,
+{
+"name" : "Jaidev Rajnikant Shroff",
+"age" : "52",
+"title" : "Global Chief Executive Office of the Group, Non-Executive Director"
+}
+,
+{
+"name" : "Mukul Bhupendra Trivedi",
+"age" : "63",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kalyan M. Banerjee",
+"age" : "71",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Vikram Rajnikant Shroff",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Sandra Rajnikant Shroff",
+"title" : "Non-Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Vasant Prakash Gandhi",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Pradeep Vedprakash Goyal",
+"age" : "61",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

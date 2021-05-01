@@ -1,0 +1,278 @@
+
+ [
+{
+"symbol" : "532605",
+"exchange" : "BOM",
+"id": "959657",
+"t" : "532605",
+"e" : "BOM",
+"name" : "Jbm Auto Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532605"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532605"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532605"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.35%",
+"annual" : "4.12%",
+"ttm" : "4.23%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.50%",
+"annual" : "7.88%",
+"ttm" : "8.06%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.66%",
+"ttm" : "11.47%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.77%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "16.79%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "817",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+8.00",
+"l" : "450.00",
+"cp" : "1.81",
+"ccol" : "chg",
+"op" : "447.00",
+"hi" : "452.65",
+"lo" : "436.55",
+"vo" : "9,418.00",
+"avvo" : "",
+"hi52" : "628.50",
+"lo52" : "259.00",
+"mc" : "18.35B",
+"pe" : "29.23",
+"fwpe" : "",
+"beta" : "",
+"eps" : "15.40",
+"dy" : "0.44",
+"ldiv" : "2.00",
+"shares" : "40.80M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "959657",
+"name" : "Jbm Auto Ltd",
+"t" : "532605",
+"e" : "BOM",
+"l" : "450.00",
+"c" : "+8.00",
+"mc" : "18.35B",
+"cp" : "1.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "677068",
+"name" : "Automobile Corp Of Goa Ltd",
+"t" : "505036",
+"e" : "BOM",
+"l" : "1,194.90",
+"c" : "+50.20",
+"mc" : "7.66B",
+"cp" : "4.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6937233",
+"name" : "Machino Plastics Limited",
+"t" : "523248",
+"e" : "BOM",
+"l" : "232.50",
+"c" : "+1.60",
+"mc" : "1.44B",
+"cp" : "0.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3788609",
+"name" : "Premier Limited",
+"t" : "PREMIER",
+"e" : "NSE",
+"l" : "29.10",
+"c" : "-0.15",
+"mc" : "896.10M",
+"cp" : "-0.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "687625",
+"name" : "Kennametal India Limited",
+"t" : "505890",
+"e" : "BOM",
+"l" : "782.25",
+"c" : "+6.25",
+"mc" : "17.28B",
+"cp" : "0.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9708440",
+"name" : "Tata Motors Limited",
+"t" : "TATAMOTORS",
+"e" : "NSE",
+"l" : "372.80",
+"c" : "+12.60",
+"mc" : "1.18T",
+"cp" : "3.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "702890",
+"name" : "KEW Industries Limited",
+"t" : "532758",
+"e" : "BOM",
+"l" : "1.05",
+"c" : "0.00",
+"mc" : "15.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1989210",
+"name" : "Comerial Engirs \u0026 Bdy Blds Co Limited",
+"t" : "CEBBCO",
+"e" : "NSE",
+"l" : "15.95",
+"c" : "-0.55",
+"mc" : "876.34M",
+"cp" : "-3.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7152373",
+"name" : "Maruti Suzuki India Ltd",
+"t" : "MARUTI",
+"e" : "NSE",
+"l" : "9,050.00",
+"c" : "+351.20",
+"mc" : "2.73T",
+"cp" : "4.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "717002",
+"name" : "OK Play India Ltd",
+"t" : "526415",
+"e" : "BOM",
+"l" : "108.75",
+"c" : "-3.00",
+"mc" : "2.03B",
+"cp" : "-2.68",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13572853",
+"name" : "Sturdy Industries Ltd",
+"t" : "530611",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "143.69M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Plot No. 9 Institutional Area,, Sector -44, GURGAON, 122003, India",
+"phone": "+91-124-4674500",
+"fax": "+91-124-4674599",
+"url": "http:\u002F\u002Fwww.jbm-group.com\u002Finvestor-jal.asp",
+"overview" : "JBM Auto Limited is an automotive company that manufactures auto systems and city buses. The Company manufactures sheet metal components for automobiles, and tools and dies for automobiles. Its segments include Sheet Metal Components, Assemblies \u0026 Sub-assemblies\u003B Tool, Dies \u0026 Moulds, and Bus Division. The Sheet Metal Components, Assemblies \u0026 Sub-assemblies segment manufactures components. The Tool, Dies \u0026 Moulds segment manufactures dies for sheet metal segment or sells dies. The Bus Division includes activities related to development, design, manufacture, assembly and sale of bus, as well as parts, accessories and maintenance contracts of same. Its business divisions include Component Division and Tool Room Division. Its product portfolio includes chassis and suspension parts, air tanks, fuel tanks, exhaust systems and complete cowl assemblies. The Company manufactures skin panels, chassis and suspension systems, and cross car\u002Ftruck beam, among others."
+} ]
+, "management" : [
+{
+"name" : "Vivek ..",
+"title" : "Chief Financial Officer, Company Secretary"
+}
+,
+{
+"name" : "Sandip Sanyal",
+"title" : "Additional Whole-time Director"
+}
+,
+{
+"name" : "S. K. Arya",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Nishant Arya",
+"age" : "27",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Ashok Kumar Agarwal",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Pravin Tripathi",
+"title" : "Additional Woman Independent Director"
+}
+,
+{
+"name" : "Vimal Vasisht",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

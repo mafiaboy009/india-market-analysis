@@ -1,0 +1,279 @@
+
+// [
+{
+"symbol" : "534600",
+"exchange" : "BOM",
+"id": "1071917726516760",
+"t" : "534600",
+"e" : "BOM",
+"name" : "JTL Infra Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=JTLI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:534600"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:534600"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:534600"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.42%",
+"annual" : "1.22%",
+"ttm" : "4.60%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.90%",
+"annual" : "1.78%",
+"ttm" : "7.43%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "2.15%",
+"ttm" : "7.78%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.47%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.23%",
+"ttm" : ""
+}
+]
+, "c" : "-5.80",
+"l" : "167.75",
+"cp" : "-3.34",
+"ccol" : "chr",
+"op" : "173.00",
+"hi" : "173.50",
+"lo" : "166.00",
+"vo" : "25,191.00",
+"avvo" : "",
+"hi52" : "208.00",
+"lo52" : "41.25",
+"mc" : "1.68B",
+"pe" : "26.89",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.24",
+"dy" : "",
+"ldiv" : "",
+"shares" : "10.01M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1071917726516760",
+"name" : "JTL Infra Ltd",
+"t" : "534600",
+"e" : "BOM",
+"l" : "167.75",
+"c" : "-5.80",
+"mc" : "1.68B",
+"cp" : "-3.34",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15446767",
+"name" : "Ratnamani Metals and Tubes Limited",
+"t" : "RATNAMANI",
+"e" : "NSE",
+"l" : "922.85",
+"c" : "+21.45",
+"mc" : "43.67B",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722522",
+"name" : "India Steel Works Limited",
+"t" : "513361",
+"e" : "BOM",
+"l" : "3.09",
+"c" : "0.00",
+"mc" : "1.22B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "187423",
+"name" : "Prakash Industries Limited",
+"t" : "PRAKASH",
+"e" : "NSE",
+"l" : "217.00",
+"c" : "+0.75",
+"mc" : "33.50B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "554964",
+"name" : "Jindal Saw Limited",
+"t" : "JINDALSAW",
+"e" : "NSE",
+"l" : "142.25",
+"c" : "+3.55",
+"mc" : "45.73B",
+"cp" : "2.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6767376",
+"name" : "ISMT Ltd.",
+"t" : "ISMTLTD",
+"e" : "NSE",
+"l" : "14.10",
+"c" : "+0.05",
+"mc" : "2.07B",
+"cp" : "0.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9438165",
+"name" : "Zenith Birla (India) Limited",
+"t" : "ZENITHBIR",
+"e" : "NSE",
+"l" : "1.75",
+"c" : "+0.05",
+"mc" : "229.74M",
+"cp" : "2.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4154125",
+"name" : "Gyscoal Alloys Limited",
+"t" : "GAL",
+"e" : "NSE",
+"l" : "7.75",
+"c" : "-0.05",
+"mc" : "1.23B",
+"cp" : "-0.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6289026",
+"name" : "Uttam Value Steels Ltd",
+"t" : "UVSL",
+"e" : "NSE",
+"l" : "0.20",
+"c" : "-0.05",
+"mc" : "1.32B",
+"cp" : "-20.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2764048",
+"name" : "National Steel and Agro Industries",
+"t" : "NATNLSTEEL",
+"e" : "NSE",
+"l" : "36.75",
+"c" : "+0.05",
+"mc" : "1.62B",
+"cp" : "0.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12140686",
+"name" : "Ruchi Strips \u0026 Alloys Ltd",
+"t" : "513295",
+"e" : "BOM",
+"l" : "1.60",
+"c" : "+0.01",
+"mc" : "79.99M",
+"cp" : "0.63",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "SCO-18-19, Sector-28C, CHANDIGARH, 160002, India",
+"phone": "+91-172-4668000",
+"fax": "+91-172-4667111",
+"url": "http:\u002F\u002Fwww.jaganinternational.com\u002F",
+"overview" : "JTL Infra Limited manufactures and sells electric resistance welding (ERW) black and galvanized steel pipes, development of infrastructural activities and all other activities. The Company\u0027s products and services include black and galvanized ERW steel pipes and tubes, hollow sections and structural steel that are used in engineering and construction projects. It also offers scaffolding fittings and systems, mild steels angles\u002Fchannels, logistics services, and packaging and loading services. It designs and supplies steel pipes for water, air, agriculture, public health, irrigation, engineering sectors and for gas transport applications. It also manufactures fencing tubes and pre-galvanized tubes for use in steel fencings, road barriers, gates, parking barriers, fencings, steel gates and windows. It manufactures steel tubes for a range of applications, like Mild Steel tubes for structural purpose and mechanical and general engineering purpose."
+} ]
+, "management" : [
+{
+"name" : "Mithan Lal Singla",
+"title" : "Senior Executive Non-Independent Vice Chairman of the Board, Whole Time Director"
+}
+,
+{
+"name" : "Neeraj Kaushal",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Madan Mohan Singla",
+"age" : "50",
+"title" : "Managing Director, Executive Non-Independent Director"
+}
+,
+{
+"name" : "Rakesh Garg",
+"title" : "Whole Time Non-Independent Director"
+}
+,
+{
+"name" : "Vijay Singla",
+"age" : "49",
+"title" : "Whole-Time Non-Independent Director"
+}
+,
+{
+"name" : "Raj Kumar Gupta",
+"age" : "74",
+"title" : "Non-Executive Independent Chairman of the Board"
+}
+,
+{
+"name" : "Preet Kamal Kaur Bhatia",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Vikram Bansal",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

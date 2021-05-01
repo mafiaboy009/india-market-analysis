@@ -1,0 +1,260 @@
+
+// [
+{
+"symbol" : "532765",
+"exchange" : "BOM",
+"id": "709624",
+"t" : "532765",
+"e" : "BOM",
+"name" : "Usher Agro Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532765"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532765"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532765"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q2 (Jun \u002711)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "5.09%",
+"annual" : "-93.03%",
+"ttm" : "6.26%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "12.61%",
+"annual" : "-83.82%",
+"ttm" : "12.00%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-74.64%",
+"ttm" : "13.55%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-29.76%",
+"ttm" : "6.95%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : "20.71%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "482",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.28",
+"l" : "6.63",
+"cp" : "4.41",
+"ccol" : "chg",
+"op" : "6.35",
+"hi" : "6.63",
+"lo" : "6.35",
+"vo" : "5,074.00",
+"avvo" : "",
+"hi52" : "12.27",
+"lo52" : "5.82",
+"mc" : "519.02M",
+"pe" : "0.54",
+"fwpe" : "",
+"beta" : "",
+"eps" : "12.30",
+"dy" : "",
+"ldiv" : "",
+"shares" : "77.67M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "709624",
+"name" : "Usher Agro Limited",
+"t" : "532765",
+"e" : "BOM",
+"l" : "6.63",
+"c" : "+0.28",
+"mc" : "519.02M",
+"cp" : "4.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11848072",
+"name" : "Sita Shree Food Products Ltd.",
+"t" : "SITASHREE",
+"e" : "NSE",
+"l" : "4.05",
+"c" : "+0.05",
+"mc" : "109.98M",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "711521",
+"name" : "KLRF Ltd",
+"t" : "507598",
+"e" : "BOM",
+"l" : "78.50",
+"c" : "+3.50",
+"mc" : "394.12M",
+"cp" : "4.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7103167",
+"name" : "Super Bakers Ltd",
+"t" : "530735",
+"e" : "BOM",
+"l" : "11.70",
+"c" : "0.00",
+"mc" : "35.35M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1119887",
+"name" : "Kriti Nutrients Limited",
+"t" : "533210",
+"e" : "BOM",
+"l" : "48.50",
+"c" : "+1.50",
+"mc" : "2.38B",
+"cp" : "3.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12386349",
+"name" : "Prima Agro Products Ltd",
+"t" : "519262",
+"e" : "BOM",
+"l" : "33.80",
+"c" : "0.00",
+"mc" : "175.59M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11687726",
+"name" : "Vikas Granaries Limited",
+"t" : "531518",
+"e" : "BOM",
+"l" : "11.59",
+"c" : "+0.55",
+"mc" : "209.98M",
+"cp" : "4.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6650254",
+"name" : "Kohinoor Foods Ltd",
+"t" : "KOHINOOR",
+"e" : "NSE",
+"l" : "71.45",
+"c" : "+2.65",
+"mc" : "2.51B",
+"cp" : "3.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9407997",
+"name" : "Lakshmi Energy \u0026 Foods Ltd.",
+"t" : "LAKSHMIEFL",
+"e" : "NSE",
+"l" : "25.60",
+"c" : "+1.20",
+"mc" : "1.79B",
+"cp" : "4.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15300886",
+"name" : "LT Foods Ltd",
+"t" : "DAAWAT",
+"e" : "NSE",
+"l" : "95.80",
+"c" : "+1.15",
+"mc" : "30.54B",
+"cp" : "1.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4940416",
+"name" : "Chaman Lal Setia Exports Ltd",
+"t" : "530307",
+"e" : "BOM",
+"l" : "158.70",
+"c" : "+2.55",
+"mc" : "8.20B",
+"cp" : "1.63",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "212, Laxmi Plaza, Laxmi Industrial Est New link Road Andheri (W), MUMBAI, 400053, India",
+"phone": "+91-22-39381100",
+"fax": "+91-22-39381123",
+"url": "http:\u002F\u002Fwww.usheragro.com\u002F",
+"overview" : "Usher Agro Limited is operating in food processing industry. The Company is engaged in processing of non-basmati rice (including raw white rice, par-boiled rice and steam rice of different grades), basmati rice and wheat products, such as atta, maida and suji. The Company operates through two segments: Food Processing (including logistic operations) and Bio Mass Power Generation (except the captive power plant in the Company). The Company is also engaged in bio mass power generation and logistic. Its product portfolio includes raw rice, parboiled\u002Fsteamed rice and brown rice. The Company has a one megawatt co-generation (Rise Husk Power plant). The Company is selling its products to wholesalers and retailers under the brand name, Rasoi Raja. It operates in locations, including Uttar Pradesh, Bihar, Rajasthan, Gujarat, Madhya Pradesh and National Capital Region (NCR). The Company has three factories at Mathura, Chhata and Buxar."
+} ]
+, "management" : [
+{
+"name" : "Vinod Kumar Chaturvedi",
+"age" : "49",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Ajay Prakash Arora",
+"age" : "74",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Baljinder Kaur Mandal",
+"age" : "48",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

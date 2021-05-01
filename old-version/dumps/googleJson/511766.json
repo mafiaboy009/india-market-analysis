@@ -1,0 +1,276 @@
+
+ [
+{
+"symbol" : "511766",
+"exchange" : "BOM",
+"id": "12488147",
+"t" : "511766",
+"e" : "BOM",
+"name" : "Muthoot Capital Services Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:511766"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:511766"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:511766"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "14.93%",
+"annual" : "10.59%",
+"ttm" : "12.05%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "53.60%",
+"annual" : "56.96%",
+"ttm" : "50.83%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "57.31%",
+"ttm" : "51.09%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "2.56%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.47%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "2,139",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+32.20",
+"l" : "780.00",
+"cp" : "4.31",
+"ccol" : "chg",
+"op" : "749.40",
+"hi" : "788.00",
+"lo" : "737.85",
+"vo" : "826.00",
+"avvo" : "",
+"hi52" : "904.00",
+"lo52" : "222.00",
+"mc" : "12.95B",
+"pe" : "26.31",
+"fwpe" : "",
+"beta" : "",
+"eps" : "29.65",
+"dy" : "",
+"ldiv" : "",
+"shares" : "13.72M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12488147",
+"name" : "Muthoot Capital Services Ltd",
+"t" : "511766",
+"e" : "BOM",
+"l" : "780.00",
+"c" : "+32.20",
+"mc" : "12.95B",
+"cp" : "4.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12179797",
+"name" : "Sigrun Holdings Ltd",
+"t" : "531863",
+"e" : "BOM",
+"l" : "0.19",
+"c" : "0.00",
+"mc" : "103.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7549254",
+"name" : "Baid Leasing \u0026 Finance Co",
+"t" : "511724",
+"e" : "BOM",
+"l" : "167.40",
+"c" : "+1.55",
+"mc" : "1.69B",
+"cp" : "0.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10438521",
+"name" : "Kailash Auto Finance Ltd",
+"t" : "511357",
+"e" : "BOM",
+"l" : "0.64",
+"c" : "0.00",
+"mc" : "380.76M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3873499",
+"name" : "Paragon Finance Ltd",
+"t" : "531255",
+"e" : "BOM",
+"l" : "24.90",
+"c" : "-2.60",
+"mc" : "105.82M",
+"cp" : "-9.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6507757",
+"name" : "Haryana Financial Corp",
+"t" : "530927",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-24.65",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2203016",
+"name" : "Manappuram Finance Ltd",
+"t" : "MANAPPURAM",
+"e" : "NSE",
+"l" : "109.50",
+"c" : "+1.25",
+"mc" : "92.11B",
+"cp" : "1.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12485388",
+"name" : "Bajaj Finance Ltd",
+"t" : "BAJFINANCE",
+"e" : "NSE",
+"l" : "1,674.00",
+"c" : "+40.60",
+"mc" : "967.10B",
+"cp" : "2.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8292645",
+"name" : "Ceejay Finance Ltd",
+"t" : "530789",
+"e" : "BOM",
+"l" : "174.20",
+"c" : "+0.10",
+"mc" : "604.81M",
+"cp" : "0.06",
+"ccol" : "chg"
+}
+,
+{
+"id" : "411403",
+"name" : "Hasti Finance Ltd",
+"t" : "531387",
+"e" : "BOM",
+"l" : "6.84",
+"c" : "0.00",
+"mc" : "74.14M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "571829855338540",
+"name" : "Satkar Finlease Ltd",
+"t" : "536592",
+"e" : "BOM",
+"l" : "3.51",
+"c" : "-0.18",
+"mc" : "773.74M",
+"cp" : "-4.88",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "3rd Floor,Muthoot Towers,, M.G. Road, KOCHI, 682035, India",
+"phone": "+91-484-6619600",
+"fax": "+91-484-2381261",
+"url": "http:\u002F\u002Fmuthootcap.com\u002F",
+"overview" : "Muthoot Capital Services Limited is a deposit taking non-banking financial company (NBFC). The Company is engaged in financing for purchase of automobiles, including two wheelers, against hypothecation of the respective vehicles, and granting of personal\u002Fbusiness loans against demand promissory notes. The Company is also engaged in buying loan portfolios from other NBFCs financing the two wheelers\u002Fsmall business\u002Fmicro finance sector. The Company\u0027s portfolio includes commercial and consumer finance products, such as vehicle loans, gold loans, loans against property, bonds, deposits, investment products and advisory services. The Company also disburses loans against property, shares, gold exchange-traded funds (ETFs), small and medium enterprises (SME) loans, mortgage loans, leasing and hire purchase loans, and bill discounting. The Company has presence in the non-banking financial sector in rural and semi-urban areas. The Company operates primarily in India."
+} ]
+, "management" : [
+{
+"name" : "Vinodkumar M. Panicker",
+"title" : "Chief Financial Officer, Compliance Officer"
+}
+,
+{
+"name" : "Thomas George Muthoot",
+"age" : "63",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Thomas John Muthoot",
+"age" : "53",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "A. P. Kurian",
+"age" : "81",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "R. K. Nair",
+"age" : "73",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Radha Unni",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

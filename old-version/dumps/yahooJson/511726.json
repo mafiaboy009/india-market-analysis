@@ -1,0 +1,218 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 7373046272,
+            "fmt": "7.37B",
+            "longFmt": "7,373,046,272"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.042540003,
+            "fmt": "-4.25%"
+          },
+          "floatShares": {
+            "raw": 29745352,
+            "fmt": "29.75M",
+            "longFmt": "29,745,352"
+          },
+          "sharesOutstanding": {
+            "raw": 119984000,
+            "fmt": "119.98M",
+            "longFmt": "119,984,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.583073,
+            "fmt": "1.58"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 30.033,
+            "fmt": "30.03"
+          },
+          "priceToBook": {
+            "raw": 1.7314287,
+            "fmt": "1.73"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1277856000,
+            "fmt": "2010-06-30"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -98741728,
+            "fmt": "-98.74M",
+            "longFmt": "-98,741,728"
+          },
+          "trailingEps": {
+            "raw": -0.823,
+            "fmt": "-0.82"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1272931200,
+            "fmt": "2010-05-04"
+          },
+          "enterpriseToRevenue": {
+            "raw": 3.176,
+            "fmt": "3.18"
+          },
+          "enterpriseToEbitda": {
+            "raw": 27.171,
+            "fmt": "27.17"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Vipul TechSquare",
+          "address2": "Golf Course Road Sector-43",
+          "city": "Gurgaon",
+          "zip": "122009",
+          "country": "India",
+          "phone": "91 12 4406 5500",
+          "fax": "91 12 4406 1000",
+          "website": "http://www.vipulgroup.in",
+          "industry": "Real Estate Development",
+          "sector": "Financial",
+          "longBusinessSummary": "Vipul Limited engages in real estate development and services business in India. The company builds integrated townships, luxury apartments, independent floors, villas, and retail and commercial towers. Vipul Limited was founded in 2001 and is based in Gurgaon, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 52.0,
+            "fmt": "52.00"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {
+            "raw": 271359904,
+            "fmt": "271.36M",
+            "longFmt": "271,359,904"
+          },
+          "totalDebt": {},
+          "quickRatio": {
+            "raw": 0.343,
+            "fmt": "0.34"
+          },
+          "currentRatio": {
+            "raw": 1.801,
+            "fmt": "1.80"
+          },
+          "totalRevenue": {
+            "raw": 2321250560,
+            "fmt": "2.32B",
+            "longFmt": "2,321,250,560"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 19.346,
+            "fmt": "19.35"
+          },
+          "returnOnAssets": {
+            "raw": 0.00871,
+            "fmt": "0.87%"
+          },
+          "returnOnEquity": {
+            "raw": -0.026789999,
+            "fmt": "-2.68%"
+          },
+          "grossProfits": {
+            "raw": 572127186,
+            "fmt": "572.13M",
+            "longFmt": "572,127,186"
+          },
+          "freeCashflow": {
+            "raw": -954970176,
+            "fmt": "-954.97M",
+            "longFmt": "-954,970,176"
+          },
+          "operatingCashflow": {
+            "raw": -574113152,
+            "fmt": "-574.11M",
+            "longFmt": "-574,113,152"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.24646999,
+            "fmt": "24.65%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.1169,
+            "fmt": "11.69%"
+          },
+          "operatingMargins": {
+            "raw": 0.08929,
+            "fmt": "8.93%"
+          },
+          "profitMargins": {
+            "raw": -0.042540003,
+            "fmt": "-4.25%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

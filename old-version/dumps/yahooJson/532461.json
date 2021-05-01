@@ -1,0 +1,337 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 210562465792,
+            "fmt": "210.56B",
+            "longFmt": "210,562,465,792"
+          },
+          "forwardPE": {
+            "raw": 6.670429,
+            "fmt": "6.67"
+          },
+          "profitMargins": {
+            "raw": 0.10731,
+            "fmt": "10.73%"
+          },
+          "floatShares": {
+            "raw": 914260282,
+            "fmt": "914.26M",
+            "longFmt": "914,260,282"
+          },
+          "sharesOutstanding": {
+            "raw": 2425590016,
+            "fmt": "2.43B",
+            "longFmt": "2,425,590,016"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 2.50296,
+            "fmt": "2.5"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 202.845,
+            "fmt": "202.85"
+          },
+          "priceToBook": {
+            "raw": 0.4370332,
+            "fmt": "0.44"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {},
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 11872400384,
+            "fmt": "11.87B",
+            "longFmt": "11,872,400,384"
+          },
+          "trailingEps": {
+            "raw": 5.78,
+            "fmt": "5.78"
+          },
+          "forwardEps": {
+            "raw": 13.29,
+            "fmt": "13.29"
+          },
+          "pegRatio": {
+            "raw": 0.33,
+            "fmt": "0.33"
+          },
+          "lastSplitFactor": "5/1",
+          "lastSplitDate": {
+            "raw": 1418860800,
+            "fmt": "2014-12-18"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.903,
+            "fmt": "1.90"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 1.23,
+                  "fmt": "1.23"
+                },
+                "estimate": {
+                  "raw": 2.27,
+                  "fmt": "2.27"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "actual": {
+                  "raw": 1.61,
+                  "fmt": "1.61"
+                },
+                "estimate": {
+                  "raw": 1.8,
+                  "fmt": "1.80"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 2.63,
+                  "fmt": "2.63"
+                },
+                "estimate": {
+                  "raw": 1.72,
+                  "fmt": "1.72"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 1.04,
+                  "fmt": "1.04"
+                },
+                "estimate": {
+                  "raw": 2.54,
+                  "fmt": "2.54"
+                }
+              }
+            ],
+            "currentQuarterEstimate": {
+              "raw": 1.76,
+              "fmt": "1.76"
+            },
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 145509400000,
+                  "fmt": "145.51B",
+                  "longFmt": "145,509,400,000"
+                },
+                "earnings": {
+                  "raw": 36170700000,
+                  "fmt": "36.17B",
+                  "longFmt": "36,170,700,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 141504100000,
+                  "fmt": "141.5B",
+                  "longFmt": "141,504,100,000"
+                },
+                "earnings": {
+                  "raw": 33995900000,
+                  "fmt": "34B",
+                  "longFmt": "33,995,900,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 66866100000,
+                  "fmt": "66.87B",
+                  "longFmt": "66,866,100,000"
+                },
+                "earnings": {
+                  "raw": -36897700000,
+                  "fmt": "-36.9B",
+                  "longFmt": "-36,897,700,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 110636500000,
+                  "fmt": "110.64B",
+                  "longFmt": "110,636,500,000"
+                },
+                "earnings": {
+                  "raw": 11872400000,
+                  "fmt": "11.87B",
+                  "longFmt": "11,872,400,000"
+                }
+              }
+            ],
+            "quarterly": []
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Plot No. 4",
+          "address2": "Sector 10 Dwarka",
+          "city": "New Delhi",
+          "zip": "110075",
+          "country": "India",
+          "website": "http://www.pnbindia.in",
+          "industry": "Money Center Banks",
+          "sector": "Financial",
+          "longBusinessSummary": "Punjab National Bank provides banking and financial products and services in India. It offers personal banking products and services, including saving deposit accounts, current accounts, and fixed deposit and capital gain account schemes; various credit schemes, such as housing loans, car and two wheeler finance, personal loans, professional loans, education loans, and mortgage loans; and cards. The company also provides various micro, small, and medium enterprises schemes; banking products for government customers; agricultural banking services; social banking products and services; corporate banking products and services consisting of loans against future lease rentals, working capital financing, and term loans; EXIM finance and cash management services, as well as gold card schemes for exporters; and international banking products and services. In addition, it offers insurance services, such as life, fire, motor vehicle, marine, theft/burglary, fidelity guarantee, personal accident, health, travel, house hold goods, etc.; and depository, mutual fund, merchant banking, and application supported by blocked amount services. Further, the company provides mobile banking, SMS banking, missed call, e-statement, ATM, cash deposit machine, passbook updation machine, and electronic cheque deposit machine services. As of March 31, 2017, it operated a network of 13 zonal offices, 76 circle offices, 6938 branches, and 10681 ATMs. It also operates four branches and four representative offices internationally. The company was founded in 1895 and is headquartered in New Delhi, India.",
+          "fullTimeEmployees": 68986,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 88.65,
+            "fmt": "88.65"
+          },
+          "targetHighPrice": {
+            "raw": 250.0,
+            "fmt": "250.00"
+          },
+          "targetLowPrice": {
+            "raw": 105.0,
+            "fmt": "105.00"
+          },
+          "targetMeanPrice": {
+            "raw": 169.42,
+            "fmt": "169.42"
+          },
+          "targetMedianPrice": {
+            "raw": 175.0,
+            "fmt": "175.00"
+          },
+          "recommendationMean": {
+            "raw": 2.9,
+            "fmt": "2.90"
+          },
+          "recommendationKey": "hold",
+          "numberOfAnalystOpinions": {
+            "raw": 36,
+            "fmt": "36",
+            "longFmt": "36"
+          },
+          "totalCash": {},
+          "totalCashPerShare": {},
+          "ebitda": {},
+          "totalDebt": {},
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 110636498944,
+            "fmt": "110.64B",
+            "longFmt": "110,636,498,944"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 53.885,
+            "fmt": "53.88"
+          },
+          "returnOnAssets": {
+            "raw": 0.00171,
+            "fmt": "0.17%"
+          },
+          "returnOnEquity": {
+            "raw": 0.02866,
+            "fmt": "2.87%"
+          },
+          "grossProfits": {
+            "raw": 110636500000,
+            "fmt": "110.64B",
+            "longFmt": "110,636,500,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {
+            "raw": -373301903360,
+            "fmt": "-373.3B",
+            "longFmt": "-373,301,903,360"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.1392,
+            "fmt": "13.92%"
+          },
+          "profitMargins": {
+            "raw": 0.10731,
+            "fmt": "10.73%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

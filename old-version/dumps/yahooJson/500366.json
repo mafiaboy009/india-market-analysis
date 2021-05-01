@@ -1,0 +1,352 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 37719867392,
+            "fmt": "37.72B",
+            "longFmt": "37,719,867,392"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.05718,
+            "fmt": "5.72%"
+          },
+          "floatShares": {
+            "raw": 81984350,
+            "fmt": "81.98M",
+            "longFmt": "81,984,350"
+          },
+          "sharesOutstanding": {
+            "raw": 165266000,
+            "fmt": "165.27M",
+            "longFmt": "165,266,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {},
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 157.733,
+            "fmt": "157.73"
+          },
+          "priceToBook": {
+            "raw": 0.11570185,
+            "fmt": "0.12"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.446,
+            "fmt": "44.60%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1719699968,
+            "fmt": "1.72B",
+            "longFmt": "1,719,699,968"
+          },
+          "trailingEps": {
+            "raw": 10.21,
+            "fmt": "10.21"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "2/1",
+          "lastSplitDate": {
+            "raw": 1201132800,
+            "fmt": "2008-01-24"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.254,
+            "fmt": "1.25"
+          },
+          "enterpriseToEbitda": {
+            "raw": 4.755,
+            "fmt": "4.76"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": []
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 31236550000,
+                  "fmt": "31.24B",
+                  "longFmt": "31,236,550,000"
+                },
+                "earnings": {
+                  "raw": -2041500000,
+                  "fmt": "-2.04B",
+                  "longFmt": "-2,041,500,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 36811600000,
+                  "fmt": "36.81B",
+                  "longFmt": "36,811,600,000"
+                },
+                "earnings": {
+                  "raw": 2451700000,
+                  "fmt": "2.45B",
+                  "longFmt": "2,451,700,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 38177600000,
+                  "fmt": "38.18B",
+                  "longFmt": "38,177,600,000"
+                },
+                "earnings": {
+                  "raw": 1837900000,
+                  "fmt": "1.84B",
+                  "longFmt": "1,837,900,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 32107600000,
+                  "fmt": "32.11B",
+                  "longFmt": "32,107,600,000"
+                },
+                "earnings": {
+                  "raw": 1667400000,
+                  "fmt": "1.67B",
+                  "longFmt": "1,667,400,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 7621600000,
+                  "fmt": "7.62B",
+                  "longFmt": "7,621,600,000"
+                },
+                "earnings": {
+                  "raw": 523500000,
+                  "fmt": "523.5M",
+                  "longFmt": "523,500,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 7266500000,
+                  "fmt": "7.27B",
+                  "longFmt": "7,266,500,000"
+                },
+                "earnings": {
+                  "raw": 329100000,
+                  "fmt": "329.1M",
+                  "longFmt": "329,100,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 7601500000,
+                  "fmt": "7.6B",
+                  "longFmt": "7,601,500,000"
+                },
+                "earnings": {
+                  "raw": 333000000,
+                  "fmt": "333M",
+                  "longFmt": "333,000,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 7737300000,
+                  "fmt": "7.74B",
+                  "longFmt": "7,737,300,000"
+                },
+                "earnings": {
+                  "raw": 534100000,
+                  "fmt": "534.1M",
+                  "longFmt": "534,100,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Rolta Tower 'A'",
+          "address2": "Rolta Technology Park MIDC-Marol Andheri (East)",
+          "city": "Mumbai",
+          "zip": "400093",
+          "country": "India",
+          "phone": "91 22 2926 6666",
+          "fax": "91 22 2836 5992",
+          "website": "http://www.rolta.com",
+          "industry": "Information Technology Services",
+          "sector": "Technology",
+          "longBusinessSummary": "Rolta India Limited, together with its subsidiaries, provides various information technology (IT) consulting solutions and services in India and internationally. The company operates in two segments, Enterprise Geospatial and Engineering Solutions, and System Integration and Enterprise IT Solutions. Its solutions include BI and big data analytics, smart city, cloud security and IT transformation, geospatial fusion, enterprise applications and asset management, e-Governance, financial analytics, defense solutions, safety and security, and engineering AIM solutions. The company also provides application development and maintenance, managed, Rolta adviser, business consulting, enterprise performance management, GIS, and engineering services. Its products include Rolta OneView, a BI and big data analytics solution; Rolta IT-OT Fusion, a middleware integration solution; ROLTA iPerspective, an enterprise suite for SOA needs; Rolta SmartMigrate for SAP HANA; Rolta OnPoint, a spatial integration application; Rolta GeoCAD, an emergency response management solution; Rolta Command and Control Solution; Rolta Photogrammetry Suite, a solution to publish GIS data; Rolta Image Processing Suite; Rolta 3D Analysis and Visualization Suite; and Rolta Battlefield Management Systems. The company serves defense, homeland and maritime security, government, infrastructure and natural resources, oil and gas, chemicals, discrete manufacturing, transportation, banking and financial services, and retail and healthcare industries, as well as utilities comprising power, water, gas, and telecom. Rolta India Limited was incorporated in 1989 and is headquartered in Mumbai, India.",
+          "fullTimeEmployees": 2500,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 18.25,
+            "fmt": "18.25"
+          },
+          "targetHighPrice": {
+            "raw": 230.0,
+            "fmt": "230.00"
+          },
+          "targetLowPrice": {
+            "raw": 230.0,
+            "fmt": "230.00"
+          },
+          "targetMeanPrice": {
+            "raw": 230.0,
+            "fmt": "230.00"
+          },
+          "targetMedianPrice": {
+            "raw": 230.0,
+            "fmt": "230.00"
+          },
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 25045100544,
+            "fmt": "25.05B",
+            "longFmt": "25,045,100,544"
+          },
+          "totalCashPerShare": {
+            "raw": 150.055,
+            "fmt": "150.05"
+          },
+          "ebitda": {
+            "raw": 7932049920,
+            "fmt": "7.93B",
+            "longFmt": "7,932,049,920"
+          },
+          "totalDebt": {
+            "raw": 51315200000,
+            "fmt": "51.32B",
+            "longFmt": "51,315,200,000"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 30073899008,
+            "fmt": "30.07B",
+            "longFmt": "30,073,899,008"
+          },
+          "debtToEquity": {
+            "raw": 195.393,
+            "fmt": "195.39"
+          },
+          "revenuePerShare": {
+            "raw": 183.834,
+            "fmt": "183.83"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 11571200000,
+            "fmt": "11.57B",
+            "longFmt": "11,571,200,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.409,
+            "fmt": "40.90%"
+          },
+          "revenueGrowth": {
+            "raw": -0.151,
+            "fmt": "-15.10%"
+          },
+          "grossMargins": {
+            "raw": 0.38372,
+            "fmt": "38.37%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.26375,
+            "fmt": "26.37%"
+          },
+          "operatingMargins": {
+            "raw": 0.24601,
+            "fmt": "24.60%"
+          },
+          "profitMargins": {
+            "raw": 0.05718,
+            "fmt": "5.72%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,273 @@
+
+// [
+{
+"symbol" : "507598",
+"exchange" : "BOM",
+"id": "711521",
+"t" : "507598",
+"e" : "BOM",
+"name" : "KLRF Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=KLRF.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:507598"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:507598"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:507598"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-0.50%",
+"annual" : "1.65%",
+"ttm" : "0.70%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.31%",
+"annual" : "4.83%",
+"ttm" : "4.05%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.99%",
+"ttm" : "5.44%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.87%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.79%",
+"ttm" : ""
+}
+]
+, "c" : "+3.50",
+"l" : "78.50",
+"cp" : "4.67",
+"ccol" : "chg",
+"op" : "76.90",
+"hi" : "78.50",
+"lo" : "74.10",
+"vo" : "1,457.00",
+"avvo" : "",
+"hi52" : "138.00",
+"lo52" : "65.10",
+"mc" : "394.12M",
+"pe" : "28.52",
+"fwpe" : "",
+"beta" : "",
+"eps" : "2.75",
+"dy" : "",
+"ldiv" : "1.00",
+"shares" : "5.02M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "711521",
+"name" : "KLRF Ltd",
+"t" : "507598",
+"e" : "BOM",
+"l" : "78.50",
+"c" : "+3.50",
+"mc" : "394.12M",
+"cp" : "4.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11848072",
+"name" : "Sita Shree Food Products Ltd.",
+"t" : "SITASHREE",
+"e" : "NSE",
+"l" : "4.05",
+"c" : "+0.05",
+"mc" : "109.98M",
+"cp" : "1.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7785606",
+"name" : "Usher Agro Limited",
+"t" : "USHERAGRO",
+"e" : "NSE",
+"l" : "6.55",
+"c" : "+0.15",
+"mc" : "504.80M",
+"cp" : "2.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12386349",
+"name" : "Prima Agro Products Ltd",
+"t" : "519262",
+"e" : "BOM",
+"l" : "33.80",
+"c" : "0.00",
+"mc" : "175.59M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11687726",
+"name" : "Vikas Granaries Limited",
+"t" : "531518",
+"e" : "BOM",
+"l" : "11.59",
+"c" : "+0.55",
+"mc" : "209.98M",
+"cp" : "4.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7103167",
+"name" : "Super Bakers Ltd",
+"t" : "530735",
+"e" : "BOM",
+"l" : "11.70",
+"c" : "0.00",
+"mc" : "35.35M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1119887",
+"name" : "Kriti Nutrients Limited",
+"t" : "533210",
+"e" : "BOM",
+"l" : "48.50",
+"c" : "+1.50",
+"mc" : "2.38B",
+"cp" : "3.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "722448",
+"name" : "Rajkumar Forge limited",
+"t" : "513369",
+"e" : "BOM",
+"l" : "40.00",
+"c" : "+1.60",
+"mc" : "437.58M",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3330741",
+"name" : "Gujarat Ambuja Exports Limited",
+"t" : "GAEL",
+"e" : "NSE",
+"l" : "255.95",
+"c" : "+12.40",
+"mc" : "29.44B",
+"cp" : "5.09",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10700680",
+"name" : "Kesoram Industries Limited",
+"t" : "KESORAMIND",
+"e" : "NSE",
+"l" : "132.55",
+"c" : "-0.40",
+"mc" : "16.59B",
+"cp" : "-0.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12429102",
+"name" : "Gillanders Arbuthnot And Co Ltd",
+"t" : "GILLANDERS",
+"e" : "NSE",
+"l" : "72.65",
+"c" : "+0.30",
+"mc" : "1.55B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "75\u002F8, Benares Cape Road, Gangaikondan, TIRUNELVELI, 627352, India",
+"phone": "+91-462-2486532",
+"fax": "+91-462-2486132",
+"url": "http:\u002F\u002Fwww.klrf.in\u002F",
+"overview" : "KLRF Limited is an India-based company, which is engaged in flour milling, and iron and steel castings. The Company\u0027s segments include Food Division and Engineering Division. The Food Division offers maida, sooji, atta and wheat products under Kuthuvilakku, Kera and Alamaram brand names for bakeries, parotta makers, hoteliers, sweet stalls, confectioneries and domestic end users. Its Food Division is located in Gangaikondan, Tirunelveli District. The Engineering Division offers sheet metal products, including main door-speed frames and cover-printing machines. Its Engineering Division is located in Periyanaickenpalayam, Coimbatore. The Company\u0027s windmill is situated at Parameshwarapuram Village, Tirunelveli District."
+} ]
+, "management" : [
+{
+"name" : "R. Kannan",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "S. Piramuthu",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Suresh Jagannathan",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Rajagopal Gopinath",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "K. Gnanasekaran",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "B. Kalyani",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sudarsan Varadaraj",
+"age" : "57",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

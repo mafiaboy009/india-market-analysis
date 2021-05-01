@@ -1,0 +1,291 @@
+
+ [
+{
+"symbol" : "532754",
+"exchange" : "BOM",
+"id": "706021",
+"t" : "532754",
+"e" : "BOM",
+"name" : "GMR Infrastructure Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532754"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532754"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532754"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-28.25%",
+"annual" : "-6.66%",
+"ttm" : "-13.54%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.54%",
+"annual" : "18.72%",
+"ttm" : "14.40%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "38.47%",
+"ttm" : "29.23%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-1.35%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-17.52%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "719",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.30",
+"l" : "19.05",
+"cp" : "1.60",
+"ccol" : "chg",
+"op" : "19.30",
+"hi" : "19.40",
+"lo" : "18.80",
+"vo" : "2.74M",
+"avvo" : "",
+"hi52" : "25.00",
+"lo52" : "14.20",
+"mc" : "113.47B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-2.75",
+"dy" : "",
+"ldiv" : "",
+"shares" : "6.04B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "706021",
+"name" : "GMR Infrastructure Ltd",
+"t" : "532754",
+"e" : "BOM",
+"l" : "19.05",
+"c" : "+0.30",
+"mc" : "113.47B",
+"cp" : "1.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11228886",
+"name" : "GVK Power and Infrastructure Ltd.",
+"t" : "GVKPIL",
+"e" : "NSE",
+"l" : "17.10",
+"c" : "-0.45",
+"mc" : "26.93B",
+"cp" : "-2.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "703777",
+"name" : "SpiceJet Limited",
+"t" : "500285",
+"e" : "BOM",
+"l" : "140.20",
+"c" : "+2.70",
+"mc" : "84.20B",
+"cp" : "1.96",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7864646",
+"name" : "Blue Dart Express Limited",
+"t" : "BLUEDART",
+"e" : "NSE",
+"l" : "4,264.00",
+"c" : "+70.90",
+"mc" : "100.50B",
+"cp" : "1.69",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10115108",
+"name" : "Lanco Infratech Ltd",
+"t" : "LITL",
+"e" : "NSE",
+"l" : "1.35",
+"c" : "+0.05",
+"mc" : "4.47B",
+"cp" : "3.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12998886",
+"name" : "KSK Energy Ventures Limited",
+"t" : "KSK",
+"e" : "NSE",
+"l" : "11.75",
+"c" : "-0.60",
+"mc" : "4.94B",
+"cp" : "-4.86",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15284677",
+"name" : "Kalpataru Power Transmission Limited",
+"t" : "KALPATPOWR",
+"e" : "NSE",
+"l" : "483.00",
+"c" : "+22.35",
+"mc" : "73.82B",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2664266",
+"name" : "Energy Development Company Ltd.",
+"t" : "ENERGYDEV",
+"e" : "NSE",
+"l" : "24.60",
+"c" : "+0.30",
+"mc" : "1.17B",
+"cp" : "1.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6492243",
+"name" : "Adani Power Ltd",
+"t" : "ADANIPOWER",
+"e" : "NSE",
+"l" : "32.70",
+"c" : "+0.55",
+"mc" : "126.12B",
+"cp" : "1.71",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6864582",
+"name" : "Jaiprakash Associates Limited",
+"t" : "JPASSOCIAT",
+"e" : "NSE",
+"l" : "18.35",
+"c" : "-0.80",
+"mc" : "42.95B",
+"cp" : "-4.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1414659",
+"name" : "Carborundum Universal Ltd",
+"t" : "CARBORUNIV",
+"e" : "NSE",
+"l" : "358.35",
+"c" : "+1.45",
+"mc" : "67.68B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "New Udaan Bhavan complex , opp T3, IGI Airport, BANGALORE, 110037, India",
+"phone": "+91-11-49216708",
+"fax": "+91-11-49216723",
+"overview" : "GMR Infrastructure Limited (GIL) is engaged in generation of power, mining and exploration activities, development of highways, infrastructure development, such as development and maintenance of airports and special economic zone\u003B construction business, including engineering, procurement and construction (EPC) contracting activities and operation of airports and special economic zones. The Company operates through the segments, including Airports, Power, Roads, EPC and Others. Its Airports segment is engaged in the development and operation of airports. Its Power segment is engaged in generation of power and provision of related services and exploration and mining activities. The Roads segment is engaged in the development and operation of roadways. The EPC segment is engaged in handling of engineering, procurement and construction solution in the infrastructure sector. The Others segment is engaged in urban infrastructure and other activities."
+} ]
+, "management" : [
+{
+"name" : "G. M. Rao",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Kiran Kumar Grandhi",
+"age" : "42",
+"title" : "Chief Executive Officer, Managing Director, Director"
+}
+,
+{
+"name" : "Madhva Bhimacharya Terdal",
+"title" : "Group Chief Financial Officer"
+}
+,
+{
+"name" : "Tangirala Venkat Ramana",
+"age" : "44",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Vikas Deep Gupta",
+"age" : "41",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Boda Venkata Nageswara Rao",
+"age" : "63",
+"title" : "Group Director"
+}
+,
+{
+"name" : "Srinivas Bommidala",
+"age" : "53",
+"title" : "Group Non-Executive Promoter Director"
+}
+,
+{
+"name" : "G. B. S. Raju",
+"title" : "Group Non-Executive Director"
+}
+,
+{
+"name" : "Vissa Siva Kameswari",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

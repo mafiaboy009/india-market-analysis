@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "517421",
+"exchange" : "BOM",
+"id": "7447433",
+"t" : "517421",
+"e" : "BOM",
+"name" : "Butterfly Gandhimathi Appliances Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:517421"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:517421"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:517421"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.19%",
+"annual" : "-13.79%",
+"ttm" : "-3.17%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.99%",
+"annual" : "-9.56%",
+"ttm" : "-1.06%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-6.67%",
+"ttm" : "1.25%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-10.26%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-26.60%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,150",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+11.80",
+"l" : "516.15",
+"cp" : "2.34",
+"ccol" : "chg",
+"op" : "519.00",
+"hi" : "527.50",
+"lo" : "508.00",
+"vo" : "4,588.00",
+"avvo" : "",
+"hi52" : "661.00",
+"lo52" : "157.00",
+"mc" : "9.24B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-9.06",
+"dy" : "0.24",
+"ldiv" : "1.25",
+"shares" : "17.88M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7447433",
+"name" : "Butterfly Gandhimathi Appliances Ltd",
+"t" : "517421",
+"e" : "BOM",
+"l" : "516.15",
+"c" : "+11.80",
+"mc" : "9.24B",
+"cp" : "2.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2927142",
+"name" : "Jaipan Industries Ltd",
+"t" : "505840",
+"e" : "BOM",
+"l" : "47.70",
+"c" : "-0.30",
+"mc" : "290.96M",
+"cp" : "-0.62",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2323746",
+"name" : "Varun Industries Limited",
+"t" : "VARUN",
+"e" : "NSE",
+"l" : "6.05",
+"c" : "",
+"mc" : "96.08M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "11497805",
+"name" : "IFB Industries Ltd",
+"t" : "IFBIND",
+"e" : "NSE",
+"l" : "1,399.95",
+"c" : "+5.45",
+"mc" : "56.50B",
+"cp" : "0.39",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13770462",
+"name" : "TTK Prestige Limited (Parent)",
+"t" : "TTKPRESTIG",
+"e" : "NSE",
+"l" : "7,000.00",
+"c" : "-107.10",
+"mc" : "80.66B",
+"cp" : "-1.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7103082",
+"name" : "Sacheta Metals Ltd",
+"t" : "531869",
+"e" : "BOM",
+"l" : "48.00",
+"c" : "+1.00",
+"mc" : "909.12M",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6698190",
+"name" : "Bajaj Electricals Ltd",
+"t" : "BAJAJELEC",
+"e" : "NSE",
+"l" : "531.40",
+"c" : "+25.80",
+"mc" : "54.21B",
+"cp" : "5.10",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10055305",
+"name" : "Mirc Electronics Limited",
+"t" : "MIRCELECTR",
+"e" : "NSE",
+"l" : "50.10",
+"c" : "+0.80",
+"mc" : "11.64B",
+"cp" : "1.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4066028",
+"name" : "Videocon Industries Ltd.",
+"t" : "VIDEOIND",
+"e" : "NSE",
+"l" : "15.85",
+"c" : "-0.70",
+"mc" : "5.32B",
+"cp" : "-4.23",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1394990",
+"name" : "Whirlpool Of India Ltd.",
+"t" : "WHIRLPOOL",
+"e" : "NSE",
+"l" : "1,425.00",
+"c" : "+13.65",
+"mc" : "179.32B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5790633",
+"name" : "Sharp India Ltd",
+"t" : "523449",
+"e" : "BOM",
+"l" : "44.65",
+"c" : "-2.35",
+"mc" : "1.16B",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "NO: 143 Vandalur-Kelmbkm Rd Klmbkm Pudupakkam Village, KANCHIPURAM, 603103, India",
+"phone": "+91-44-49005100",
+"fax": "+91-44-49005172",
+"url": "http:\u002F\u002Fgandhimathiappliances.com\u002F",
+"overview" : "Butterfly Gandhimathi Appliances Limited is a manufacturer of domestic kitchen and domestic electrical appliances. The Company is engaged in manufacturing Liquefied Petroleum Gas (LPG) Stoves, Mixer Grinders, Table Top Wet Grinders and Pressure Cookers, among others. It offers products in various categories, such as kitchen appliances, home appliances, and cook and serve. Its products in kitchen appliances category include Juicer, Hand Blender, Chimney, Power Hob, Sandwich Maker and Water Kettle. Its products in home appliances category include Water Heater\u003B Electric Fans\u003B Air Coolers, such as Breeze, Desert Cooler and Ozone, and Electric Iron. Its products in cook and serve category include Stainless Steel, such as Dinner Set and Idly Cooker, and Non- Stick, such as Fry Pan, Kadai and Omni Tawa. It offers products under the Butterfly brand. It also exports its products to the United Kingdom, Mauritius, Sri Lanka and Japan, among others."
+} ]
+, "management" : [
+{
+"name" : "V. M. Lakshminarayanan",
+"age" : "64",
+"title" : "Non-Independent Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Prakash Iyer",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "V. M. Seshadri",
+"title" : "Chief Financial Officer, Managing Director, Director"
+}
+,
+{
+"name" : "K. S. Ramakrishnan",
+"title" : "General Manager - Legal, Company Secretary"
+}
+,
+{
+"name" : "V. M. Gangadharam",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "V. M. Kumaresan",
+"title" : "Whole-Time Director - Technical, Director"
+}
+,
+{
+"name" : "V. M. Balasubramaniam",
+"title" : "Non-Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Maheshwari Mohan",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "R. S. Prakash",
+"age" : "45",
+"title" : "Non-Executive Non-Independent Director - Nominee of Messrs.Reliance Alternative Investments Fund-Private Equity Scheme-I"
+}
+,
+{
+"name" : "T. R. Srinivasan",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,307 @@
+
+// [
+{
+"symbol" : "523736",
+"exchange" : "BOM",
+"id": "10265981",
+"t" : "523736",
+"e" : "BOM",
+"name" : "Dhunseri Petrochem Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:523736"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:523736"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:523736"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "465.28%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "1.14%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "3.31%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.61%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.94%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "324",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.35",
+"l" : "163.90",
+"cp" : "-0.82",
+"ccol" : "chr",
+"op" : "170.00",
+"hi" : "170.00",
+"lo" : "161.75",
+"vo" : "19,190.00",
+"avvo" : "",
+"hi52" : "196.00",
+"lo52" : "71.25",
+"mc" : "5.79B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "1.22",
+"ldiv" : "2.00",
+"shares" : "35.02M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "10265981",
+"name" : "Dhunseri Petrochem Ltd",
+"t" : "523736",
+"e" : "BOM",
+"l" : "163.90",
+"c" : "-1.35",
+"mc" : "5.79B",
+"cp" : "-0.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6368365",
+"name" : "Dhunseri Investments Ltd",
+"t" : "DHUNINV",
+"e" : "NSE",
+"l" : "409.00",
+"c" : "-12.75",
+"mc" : "2.48B",
+"cp" : "-3.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5691753",
+"name" : "Joonktollee Tea \u0026 Industries Ltd",
+"t" : "538092",
+"e" : "BOM",
+"l" : "177.00",
+"c" : "+2.90",
+"mc" : "732.96M",
+"cp" : "1.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7187739",
+"name" : "United Nilgiri Tea Estates Company Ltd",
+"t" : "UNITEDTEA",
+"e" : "NSE",
+"l" : "401.00",
+"c" : "-16.85",
+"mc" : "2.00B",
+"cp" : "-4.03",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16093456",
+"name" : "Jay Shree Tea \u0026 Industries Limited",
+"t" : "JAYSREETEA",
+"e" : "NSE",
+"l" : "103.10",
+"c" : "+1.20",
+"mc" : "3.00B",
+"cp" : "1.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4839971",
+"name" : "Tata Global Beverages Ltd",
+"t" : "TATAGLOBAL",
+"e" : "NSE",
+"l" : "274.80",
+"c" : "+4.10",
+"mc" : "173.11B",
+"cp" : "1.51",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8926652",
+"name" : "Asian Tea and Exports Ltd",
+"t" : "519532",
+"e" : "BOM",
+"l" : "16.50",
+"c" : "+0.60",
+"mc" : "165.00M",
+"cp" : "3.77",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715307",
+"name" : "Goodricke Group Ltd.",
+"t" : "500166",
+"e" : "BOM",
+"l" : "386.45",
+"c" : "-1.05",
+"mc" : "8.40B",
+"cp" : "-0.27",
+"ccol" : "chr"
+}
+,
+{
+"id" : "184593816927361",
+"name" : "KanCo Tea \u0026 Industries Ltd",
+"t" : "590130",
+"e" : "BOM",
+"l" : "93.20",
+"c" : "-1.50",
+"mc" : "324.52M",
+"cp" : "-1.58",
+"ccol" : "chr"
+}
+,
+{
+"id" : "703983",
+"name" : "McLeod Russel India Limited",
+"t" : "MCLEODRUSS",
+"e" : "NSE",
+"l" : "168.20",
+"c" : "+1.50",
+"mc" : "18.49B",
+"cp" : "0.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7987390",
+"name" : "B \u0026 A Ltd",
+"t" : "508136",
+"e" : "BOM",
+"l" : "287.70",
+"c" : "+3.95",
+"mc" : "891.87M",
+"cp" : "1.39",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Dhunseri House, 4A, Woodburn Park, KOLKATA, 700020, India",
+"phone": "+91-33-22836128",
+"fax": "+91-33-22801956",
+"url": "http:\u002F\u002Faspetindia.com\u002F",
+"overview" : "Dhunseri Petrochem Limited, formerly Dhunseri Petrochem \u0026 Tea Limited, is a holding company. The Company is a manufacturer of polyethylene terephthalate (PET) resin in India. The Company\u0027s segments are India and Egypt. Its product portfolio consists of various grades of PET resin (bottle), including hot fill and film grades that find application in various downstream sectors, such as packaged drinks, alcoholic beverages, edible oils, pharmaceuticals, dairy products and biaxially-oriented polyethylene terephthalate (BOPET), among others. Its polymer is used in the manufacture of packaging medium, such as PET bottles, jars and films. It markets PET resin under the ASPET brand. The Company\u0027s PET resin plants are located in West Bengal. It has marketing presence in approximately 40 countries across Asia, Africa, Europe, North America and South America. Its subsidiaries include Egyptian Indian Polyester Company S.A.E., Dhunseri Infrastructure Limited and Dhunseri Petglobal Limited."
+} ]
+, "management" : [
+{
+"name" : "Chandra Kumar Dhanuka",
+"age" : "61",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Mrigank Dhanuka",
+"age" : "32",
+"title" : "Vice Chairman of the Board"
+}
+,
+{
+"name" : "Rajiv Kumar Sharma",
+"age" : "49",
+"title" : "Executive Director - Finance, Director"
+}
+,
+{
+"name" : "P. C. Dhandhania",
+"title" : "Senior Vice President - Coo Tea Division"
+}
+,
+{
+"name" : "K. K. Tibrewalla",
+"title" : "Senior Vice President - IT Sez"
+}
+,
+{
+"name" : "Simerpreet Gulati",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Aruna Dhanuka",
+"age" : "57",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Pradip Kumar Khaitan",
+"age" : "74",
+"title" : "Non-Executive Non-Independent Director"
+}
+,
+{
+"name" : "Anurag Bagaria",
+"age" : "37",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Bharat Jhaver",
+"age" : "39",
+"title" : "Additional Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+, "events" : [
+{
+"date": "Feb 8, 2018",
+"time": "",
+"future": 0,
+"desc": "Q3 2018 Dhunseri Petrochem Ltd Earnings Release (Estimated)"
+}
+]
+}]

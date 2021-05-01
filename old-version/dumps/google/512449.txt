@@ -1,0 +1,273 @@
+
+// [
+{
+"symbol" : "512449",
+"exchange" : "BOM",
+"id": "726637",
+"t" : "512449",
+"e" : "BOM",
+"name" : "SVC Resources Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SVCR.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:512449"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:512449"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:512449"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "12.82%",
+"ttm" : "0.03%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "12.86%",
+"ttm" : "-14.11%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "13.32%",
+"ttm" : "-13.24%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.29%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "14.95",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "14.95",
+"lo52" : "7.70",
+"mc" : "103.98M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.00",
+"dy" : "",
+"ldiv" : "",
+"shares" : "6.96M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "726637",
+"name" : "SVC Resources Limited",
+"t" : "512449",
+"e" : "BOM",
+"l" : "14.95",
+"c" : "0.00",
+"mc" : "103.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1361228",
+"name" : "Resurgere Mines \u0026 Minerals India Limited",
+"t" : "RMMIL",
+"e" : "NSE",
+"l" : "0.40",
+"c" : "",
+"mc" : "79.55M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "3264795",
+"name" : "Meyer Apparel Ltd",
+"t" : "531613",
+"e" : "BOM",
+"l" : "3.62",
+"c" : "+0.16",
+"mc" : "291.40M",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11504807",
+"name" : "Minaxi Textiles Ltd",
+"t" : "531456",
+"e" : "BOM",
+"l" : "1.33",
+"c" : "0.00",
+"mc" : "65.72M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6889994",
+"name" : "Provogue (India) Limited",
+"t" : "PROVOGE",
+"e" : "NSE",
+"l" : "5.75",
+"c" : "-0.10",
+"mc" : "1.35B",
+"cp" : "-1.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11965403",
+"name" : "Aarvee Denims \u0026 Exports Ltd.",
+"t" : "AARVEEDEN",
+"e" : "NSE",
+"l" : "49.10",
+"c" : "-0.35",
+"mc" : "1.15B",
+"cp" : "-0.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6037069",
+"name" : "Orissa Minerals Development Company Ltd",
+"t" : "ORISSAMINE",
+"e" : "NSE",
+"l" : "1,695.10",
+"c" : "-1.65",
+"mc" : "10.15B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9863867",
+"name" : "NMDC Limited",
+"t" : "NMDC",
+"e" : "NSE",
+"l" : "132.00",
+"c" : "+1.85",
+"mc" : "416.83B",
+"cp" : "1.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4196813",
+"name" : "Sandur Manganese \u0026 Iron Ores Ltd.",
+"t" : "504918",
+"e" : "BOM",
+"l" : "1,263.90",
+"c" : "+22.40",
+"mc" : "11.15B",
+"cp" : "1.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11033843",
+"name" : "Godawari Power and Ispat Limited",
+"t" : "GPIL",
+"e" : "NSE",
+"l" : "521.70",
+"c" : "+24.80",
+"mc" : "18.38B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "523577665595574",
+"name" : "Momai Apparels Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "C-1, Fortune Delight, Hoshangabad Road, BHOPAL, 462206, India",
+"phone": "+91-22-23016761",
+"fax": "+91-22-23012517",
+"url": "http:\u002F\u002Fsvcresources.co.in\u002F",
+"overview" : "SVC Resources Limited is an India-based company engaged in mining and trading in minerals. The Company is engaged in providing advisory services. The Company is also engaged in providing mining related consultancy services. SVC Resources FZC is the Company\u0027s subsidiary."
+} ]
+, "management" : [
+{
+"name" : "Rajesh Shrivallabh Baheti",
+"title" : "Chairman of the Board, Chief Financial Officer"
+}
+,
+{
+"name" : "Akhilesh Malvi",
+"title" : "Compliance Officer, Managing Director"
+}
+,
+{
+"name" : "Rahul S. Gawande",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Shrishti Deora",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Neha Gandhi",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Sanam Barot",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Ghanshyam Chudasama",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Tulsa Netraprashad Silwal",
+"title" : "Independent Women Director"
+}
+]
+,"moreresources" : [
+]
+}]

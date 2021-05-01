@@ -1,0 +1,292 @@
+
+// [
+{
+"symbol" : "532663",
+"exchange" : "BOM",
+"id": "701413",
+"t" : "532663",
+"e" : "BOM",
+"name" : "Sasken Technologies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532663"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532663"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532663"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q3 (Sep \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "15.04%",
+"annual" : "18.12%",
+"ttm" : "18.78%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "13.72%",
+"annual" : "13.61%",
+"ttm" : "14.03%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "10.69%",
+"ttm" : "11.05%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "13.03%",
+"ttm" : "13.33%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "15.97%",
+"ttm" : "15.91%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,913",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.55",
+"l" : "748.00",
+"cp" : "-0.21",
+"ccol" : "chr",
+"op" : "744.75",
+"hi" : "759.00",
+"lo" : "743.30",
+"vo" : "1,658.00",
+"avvo" : "",
+"hi52" : "810.00",
+"lo52" : "375.00",
+"mc" : "12.85B",
+"pe" : "14.66",
+"fwpe" : "",
+"beta" : "",
+"eps" : "51.01",
+"dy" : "1.04",
+"ldiv" : "3.00",
+"shares" : "17.11M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "701413",
+"name" : "Sasken Technologies Ltd",
+"t" : "532663",
+"e" : "BOM",
+"l" : "748.00",
+"c" : "-1.55",
+"mc" : "12.85B",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15429873",
+"name" : "Ramco Systems Ltd",
+"t" : "RAMCOSYS",
+"e" : "NSE",
+"l" : "458.00",
+"c" : "+1.90",
+"mc" : "13.94B",
+"cp" : "0.42",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13920819",
+"name" : "Cura Technologies Ltd",
+"t" : "CURATECH",
+"e" : "NSE",
+"l" : "5.50",
+"c" : "0.00",
+"mc" : "52.55M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7114843",
+"name" : "Onward Technologies Limited",
+"t" : "ONWARDTEC",
+"e" : "NSE",
+"l" : "95.60",
+"c" : "-2.15",
+"mc" : "1.51B",
+"cp" : "-2.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4412851",
+"name" : "AGC Networks Ltd",
+"t" : "AGCNET",
+"e" : "NSE",
+"l" : "120.00",
+"c" : "-2.00",
+"mc" : "3.42B",
+"cp" : "-1.64",
+"ccol" : "chr"
+}
+,
+{
+"id" : "525833209731590",
+"name" : "Cigniti Technologies Ltd",
+"t" : "CIGNITITEC",
+"e" : "NSE",
+"l" : "250.00",
+"c" : "-3.05",
+"mc" : "6.63B",
+"cp" : "-1.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9055815",
+"name" : "Wipro Limited",
+"t" : "WIPRO",
+"e" : "NSE",
+"l" : "291.75",
+"c" : "-3.25",
+"mc" : "1.32T",
+"cp" : "-1.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "687619",
+"name" : "Athena Global Technologies Ltd",
+"t" : "517429",
+"e" : "BOM",
+"l" : "17.00",
+"c" : "0.00",
+"mc" : "176.27M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4410323",
+"name" : "Schneider Electric President Systems Ltd",
+"t" : "590033",
+"e" : "BOM",
+"l" : "155.10",
+"c" : "",
+"mc" : "938.04M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "9501731",
+"name" : "MindTree Ltd",
+"t" : "MINDTREE",
+"e" : "NSE",
+"l" : "797.10",
+"c" : "-14.80",
+"mc" : "130.17B",
+"cp" : "-1.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10707356",
+"name" : "Vakrangee Ltd",
+"t" : "VAKRANGEE",
+"e" : "NSE",
+"l" : "180.25",
+"c" : "-9.45",
+"mc" : "190.85B",
+"cp" : "-4.98",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "139 \u002F25, Ring Road, Domlur, BANGALORE, 560071, India",
+"phone": "+91-80-66943000",
+"fax": "+91-80-39813329",
+"url": "http:\u002F\u002Fwww.sasken.com\u002F",
+"overview" : "Sasken Technologies Limited, formerly Sasken Communication Technologies Limited, is a holding company, which is engaged in software development. It provides engineering research and development (ER\u0026D), and productized information technology (IT) services to customers in the communications and devices, retail, insurance and independent software sectors. Its segments include Software Services, Software Products and Others. It offers ER\u0026D services, including hardware and software development enveloping the entire product lifecycle from conceptualization to development followed by commercial launch enablement to post deployment support. Its offerings include connected enterprise mobility and digital enablement applications. It also offers testing solutions, as well as application and data services. It focuses on areas, including multimedia, connectivity, wireless broadband and their application in industry verticals, including automotive and consumer electronics, and semiconductors."
+} ]
+, "management" : [
+{
+"name" : "Rajiv Chandrakant Mody",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Neeta S. Revankar",
+"age" : "45",
+"title" : "Chief Financial Officer, Global Head - HR, IT and Administration, Executive Director"
+}
+,
+{
+"name" : "S. Prasad",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Krishna J. Jhaveri",
+"age" : "58",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Jyotindra B. Mody",
+"age" : "84",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Pranabh Dinesh Mody",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Gangadharan Venkatesh Ph.D.",
+"age" : "51",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sunirmal Talukdar",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Bansidhar S. Mehta",
+"age" : "82",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

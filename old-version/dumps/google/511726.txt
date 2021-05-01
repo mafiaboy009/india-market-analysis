@@ -1,0 +1,289 @@
+
+// [
+{
+"symbol" : "511726",
+"exchange" : "BOM",
+"id": "714512",
+"t" : "511726",
+"e" : "BOM",
+"name" : "Vipul Ltd."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=VIPL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:511726"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:511726"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:511726"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-4.25%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "8.30%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "11.08%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.66%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-2.70%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "215",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.40",
+"l" : "64.10",
+"cp" : "-2.14",
+"ccol" : "chr",
+"op" : "63.75",
+"hi" : "66.00",
+"lo" : "63.75",
+"vo" : "4,748.00",
+"avvo" : "",
+"hi52" : "102.45",
+"lo52" : "56.50",
+"mc" : "7.68B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "0.06",
+"ldiv" : "0.04",
+"shares" : "119.98M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "714512",
+"name" : "Vipul Ltd.",
+"t" : "511726",
+"e" : "BOM",
+"l" : "64.10",
+"c" : "-1.40",
+"mc" : "7.68B",
+"cp" : "-2.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "835863",
+"name" : "DLF Ltd",
+"t" : "DLF",
+"e" : "NSE",
+"l" : "228.20",
+"c" : "+3.05",
+"mc" : "408.12B",
+"cp" : "1.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1090136",
+"name" : "Eldeco Housing And Industries Ltd",
+"t" : "523329",
+"e" : "BOM",
+"l" : "2,049.95",
+"c" : "+70.80",
+"mc" : "3.99B",
+"cp" : "3.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1759904",
+"name" : "Kamanwala Housing Construction Ltd.",
+"t" : "511131",
+"e" : "BOM",
+"l" : "15.20",
+"c" : "+0.70",
+"mc" : "214.22M",
+"cp" : "4.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715238",
+"name" : "Satra Properties (India) Ltd.",
+"t" : "508996",
+"e" : "BOM",
+"l" : "5.08",
+"c" : "0.00",
+"mc" : "906.06M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "269681",
+"name" : "BSEL Infrastructure Realty Limited",
+"t" : "BSELINFRA",
+"e" : "NSE",
+"l" : "4.55",
+"c" : "0.00",
+"mc" : "367.82M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8591842",
+"name" : "D B Realty Ltd",
+"t" : "DBREALTY",
+"e" : "NSE",
+"l" : "58.10",
+"c" : "-0.05",
+"mc" : "14.19B",
+"cp" : "-0.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5638364",
+"name" : "Oberoi Realty Limited.",
+"t" : "OBEROIRLTY",
+"e" : "NSE",
+"l" : "548.80",
+"c" : "+67.85",
+"mc" : "186.35B",
+"cp" : "14.11",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4371740",
+"name" : "Peninsula Land Limited",
+"t" : "PENINLAND",
+"e" : "NSE",
+"l" : "28.85",
+"c" : "-0.35",
+"mc" : "8.11B",
+"cp" : "-1.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7981287",
+"name" : "SRS Real Infrastructure Ltd",
+"t" : "533305",
+"e" : "BOM",
+"l" : "5.20",
+"c" : "-0.49",
+"mc" : "2.09B",
+"cp" : "-8.61",
+"ccol" : "chr"
+}
+,
+{
+"id" : "168013438565075",
+"name" : "Pansari Developers Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Vipul Tech Square Golf Course Road, Sec-43, GURGAON, 122009, India",
+"phone": "+91-124-4065500",
+"fax": "+91-124-4061000",
+"url": "http:\u002F\u002Fwww.vipulgroup.in\u002Fabout-group",
+"overview" : "Vipul Limited is a real estate company. The Company operates in Real Estate Development \u0026 Services segment in India. Its portfolio comprises townships, villas, apartments, floors and commercial buildings. Its township projects are Vipul World Gurgaon, which covers area of approximately 150 acres, and Vipul World Ludhiana, which covers area of approximately 109 acres. Its Tatvam Villas are spread over an area of approximately 50 acres and are a part of township project, Vipul World. Tatvam Villas offer various types of villas, which include Gagan with plot size of over 960 square yards\u003B Soorya with plot size of approximately 750 square yards\u003B Vaayu with plot size of over 500 square yards\u003B Neer with plot size of approximately 360 square yards, and Bhoomi with plot size of approximately 288 square yards. Its apartments include Vipul Gardens, Vipul Greens and Lavanya Apartments. Its commercial projects include Vipul Business Park-Gurgaon, Vipul Plaza-Faridabad and Vipul Plaza-Bhubaneswar."
+} ]
+, "management" : [
+{
+"name" : "Guninder Singh",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "Ajay Agarwal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Vivek Chaudhary",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Punit Beriwala",
+"age" : "48",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Rajesh Batra",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ameeta Verma Duggal",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Kapil Dutta",
+"age" : "58",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vikram Kochhar",
+"age" : "63",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "B. Samal",
+"age" : "71",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

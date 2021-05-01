@@ -1,0 +1,210 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 638436608,
+            "fmt": "638.44M",
+            "longFmt": "638,436,608"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": -0.03958,
+            "fmt": "-3.96%"
+          },
+          "floatShares": {
+            "raw": 4817543,
+            "fmt": "4.82M",
+            "longFmt": "4,817,543"
+          },
+          "sharesOutstanding": {
+            "raw": 12443000,
+            "fmt": "12.44M",
+            "longFmt": "12,443,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.354891,
+            "fmt": "0.35"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 47.458,
+            "fmt": "47.46"
+          },
+          "priceToBook": {
+            "raw": 0.7079944,
+            "fmt": "0.71"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -37373000,
+            "fmt": "-37.37M",
+            "longFmt": "-37,373,000"
+          },
+          "trailingEps": {
+            "raw": -2.995,
+            "fmt": "-2.99"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 0.676,
+            "fmt": "0.68"
+          },
+          "enterpriseToEbitda": {
+            "raw": 23.764,
+            "fmt": "23.76"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Palmcout Complex",
+          "address2": "701, Palm Spring Link Road Malad (West)",
+          "city": "Mumbai",
+          "zip": "400064",
+          "country": "India",
+          "phone": "91 22 4042 6565",
+          "fax": "91 22 4042 6566",
+          "website": "http://www.hiltonmetal.com",
+          "industry": "Metal Fabrication",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Hilton Metal Forging Limited manufactures and sells iron and steel forgings for oil and gas, petrochemical, and refinery industries in India. The company offers stainless steel, high pressure, threaded, blind, weld neck, and socket welded flanges; and forged and hydraulic fittings. It also provides engineered parts; crank shafts; body bonnets; stub ends; forged components; top deck covers; and Christmas tree components, such as high pressure valve bodies, bonnets, choke bodies, crosses, casing spools, casing heads, and studs. The company also exports its products. Hilton Metal Forging Limited was founded in 1997 and is based in Mumbai, India.",
+          "fullTimeEmployees": 87,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 33.6,
+            "fmt": "33.60"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 14676000,
+            "fmt": "14.68M",
+            "longFmt": "14,676,000"
+          },
+          "totalCashPerShare": {
+            "raw": 1.178,
+            "fmt": "1.18"
+          },
+          "ebitda": {
+            "raw": 26865348,
+            "fmt": "26.87M",
+            "longFmt": "26,865,348"
+          },
+          "totalDebt": {
+            "raw": 280099008,
+            "fmt": "280.1M",
+            "longFmt": "280,099,008"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 944233984,
+            "fmt": "944.23M",
+            "longFmt": "944,233,984"
+          },
+          "debtToEquity": {
+            "raw": 47.443,
+            "fmt": "47.44"
+          },
+          "revenuePerShare": {
+            "raw": 75.561,
+            "fmt": "75.56"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 268415000,
+            "fmt": "268.42M",
+            "longFmt": "268,415,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {
+            "raw": 0.36,
+            "fmt": "36.00%"
+          },
+          "grossMargins": {
+            "raw": 0.31695998,
+            "fmt": "31.70%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.028450001,
+            "fmt": "2.85%"
+          },
+          "operatingMargins": {
+            "raw": 0.0059100003,
+            "fmt": "0.59%"
+          },
+          "profitMargins": {
+            "raw": -0.03958,
+            "fmt": "-3.96%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

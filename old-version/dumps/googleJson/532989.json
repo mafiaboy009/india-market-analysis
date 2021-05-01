@@ -1,0 +1,284 @@
+
+ [
+{
+"symbol" : "532989",
+"exchange" : "BOM",
+"id": "721611",
+"t" : "532989",
+"e" : "BOM",
+"name" : "Bafna Pharmaceuticals Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532989"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532989"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532989"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002712)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-6.03%",
+"annual" : "-29.96%",
+"ttm" : "1.52%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "0.85%",
+"annual" : "-15.44%",
+"ttm" : "7.35%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-8.94%",
+"ttm" : "12.48%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-10.47%",
+"ttm" : "1.07%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-38.01%",
+"ttm" : "3.12%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "572",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.40",
+"l" : "27.45",
+"cp" : "1.48",
+"ccol" : "chg",
+"op" : "27.05",
+"hi" : "28.30",
+"lo" : "27.05",
+"vo" : "925.00",
+"avvo" : "",
+"hi52" : "32.40",
+"lo52" : "20.00",
+"mc" : "522.55M",
+"pe" : "27.41",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.00",
+"dy" : "",
+"ldiv" : "",
+"shares" : "18.66M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "721611",
+"name" : "Bafna Pharmaceuticals Limited",
+"t" : "532989",
+"e" : "BOM",
+"l" : "27.45",
+"c" : "+0.40",
+"mc" : "522.55M",
+"cp" : "1.48",
+"ccol" : "chg"
+}
+,
+{
+"id" : "201905350059104",
+"name" : "Mercury Laboratories Ltd",
+"t" : "538964",
+"e" : "BOM",
+"l" : "420.25",
+"c" : "-5.00",
+"mc" : "504.30M",
+"cp" : "-1.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1139837",
+"name" : "Parnax Lab Ltd",
+"t" : "506128",
+"e" : "BOM",
+"l" : "56.00",
+"c" : "-0.60",
+"mc" : "483.53M",
+"cp" : "-1.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16546949",
+"name" : "Lincoln Pharmaceuticals Ltd",
+"t" : "531633",
+"e" : "BOM",
+"l" : "239.25",
+"c" : "+9.05",
+"mc" : "4.77B",
+"cp" : "3.93",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4270139",
+"name" : "Sun Pharma Advanced Research Company",
+"t" : "SPARC",
+"e" : "NSE",
+"l" : "439.80",
+"c" : "-18.20",
+"mc" : "111.24B",
+"cp" : "-3.97",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12069835",
+"name" : "Claris Lifesciences Ltd",
+"t" : "533288",
+"e" : "BOM",
+"l" : "393.05",
+"c" : "-0.30",
+"mc" : "21.44B",
+"cp" : "-0.08",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3578659",
+"name" : "Dr.Reddy\u0027s Laboratories Ltd",
+"t" : "DRREDDY",
+"e" : "NSE",
+"l" : "2,193.00",
+"c" : "+25.95",
+"mc" : "365.16B",
+"cp" : "1.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "478315",
+"name" : "Wintac Ltd",
+"t" : "524758",
+"e" : "BOM",
+"l" : "236.50",
+"c" : "-3.50",
+"mc" : "2.37B",
+"cp" : "-1.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "20411139269060",
+"name" : "Medico Remedies Ltd",
+"t" : "540937",
+"e" : "BOM",
+"l" : "97.00",
+"c" : "0.00",
+"mc" : "402.47M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11018234",
+"name" : "Syncom Formulations India Ltd",
+"t" : "524470",
+"e" : "BOM",
+"l" : "1.53",
+"c" : "-0.04",
+"mc" : "1.19B",
+"cp" : "-2.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6521463",
+"name" : "Parenteral Drugs (India) Ltd.",
+"t" : "PDPL",
+"e" : "NSE",
+"l" : "18.60",
+"c" : "-0.15",
+"mc" : "554.58M",
+"cp" : "-0.80",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Bafna Towers, 299, Thambu Chetty street, CHENNAI, 600001, India",
+"phone": "+91-44-42677555",
+"fax": "+91-44-42677599",
+"url": "http:\u002F\u002Fwww.bafnapharma.com\u002F",
+"overview" : "Bafna Pharmaceuticals Limited is a pharmaceutical company. The Company is engaged in the manufacture of drugs and medicines. The Company operates through generic pharmaceutical segment. The Company caters to both domestic and international markets. Its HAEMATINIC products include Raricap, Raricap Forte, Raricap L Suspension, Raricap Combi, Raricap Drops, Raricap M, Raricap Maa and Raricap S Injection. Raricap is indicated for iron deficiency anemia. Raricap Forte is indicated for iron deficiency anemia in pregnancy and lactation. Raricap L Suspension is indicated for iron deficiency anemia in children. Raricap Combi is indicated for iron deficiency anemia and calcium deficiency during pregnancy and lactation. Raricap Drops is indicated for iron deficiency and iron deficiency anemia in infants and toddlers. Its other products include LoPIH, BSF, Drofenac, I-Gest-200, Molev Syrup, AFENAC-P, AFENAC TH, NOCAF Syrup, IZABOF 250 milligram (MG), IZABOF 500 MG and IZABOF Suspension."
+} ]
+, "management" : [
+{
+"name" : "Bafna Mahaveer Chand",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Nirmala L",
+"age" : "28",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Paras Bafna",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Nirav Maniar",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "K. Sabitha",
+"title" : "Executive Non - Independent Director"
+}
+,
+{
+"name" : "U. Sunil Bafna",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "R. Dwarakanathan",
+"age" : "77",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "B. Kamlesh Kumar",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

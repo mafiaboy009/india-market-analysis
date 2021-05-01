@@ -1,0 +1,269 @@
+
+ [
+{
+"symbol" : "530127",
+"exchange" : "BOM",
+"id": "15397453",
+"t" : "530127",
+"e" : "BOM",
+"name" : "NPR Finance Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=NPRL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530127"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530127"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530127"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.96%",
+"annual" : "7.15%",
+"ttm" : "7.50%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.48%",
+"annual" : "10.53%",
+"ttm" : "9.21%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.13%",
+"ttm" : "10.78%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.52%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "7.78%",
+"ttm" : ""
+}
+]
+, "c" : "-0.70",
+"l" : "36.00",
+"cp" : "-1.91",
+"ccol" : "chr",
+"op" : "36.25",
+"hi" : "37.15",
+"lo" : "35.75",
+"vo" : "5,207.00",
+"avvo" : "",
+"hi52" : "54.75",
+"lo52" : "15.75",
+"mc" : "215.63M",
+"pe" : "7.40",
+"fwpe" : "",
+"beta" : "",
+"eps" : "4.86",
+"dy" : "",
+"ldiv" : "",
+"shares" : "5.99M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15397453",
+"name" : "NPR Finance Ltd",
+"t" : "530127",
+"e" : "BOM",
+"l" : "36.00",
+"c" : "-0.70",
+"mc" : "215.63M",
+"cp" : "-1.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12319603",
+"name" : "Escorts Finance Ltd",
+"t" : "511716",
+"e" : "BOM",
+"l" : "3.75",
+"c" : "-0.19",
+"mc" : "160.73M",
+"cp" : "-4.82",
+"ccol" : "chr"
+}
+,
+{
+"id" : "879018",
+"name" : "AD Manum Finance Ltd",
+"t" : "511359",
+"e" : "BOM",
+"l" : "37.00",
+"c" : "+1.90",
+"mc" : "277.50M",
+"cp" : "5.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16772206",
+"name" : "Wall Street Finance Ltd",
+"t" : "511147",
+"e" : "BOM",
+"l" : "36.20",
+"c" : "+0.20",
+"mc" : "418.90M",
+"cp" : "0.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "519110",
+"name" : "Trans Corp International Ltd",
+"t" : "532410",
+"e" : "BOM",
+"l" : "34.40",
+"c" : "+0.40",
+"mc" : "874.66M",
+"cp" : "1.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2732015",
+"name" : "Capital First Ltd",
+"t" : "CAPF",
+"e" : "NSE",
+"l" : "674.00",
+"c" : "+1.45",
+"mc" : "66.57B",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+,
+{
+"id" : "959156734803737",
+"name" : "Oasis Nutraceuticals Ltd",
+"t" : "504345",
+"e" : "BOM",
+"l" : "12.85",
+"c" : "0.00",
+"mc" : "1.27B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3287224",
+"name" : "Paisalo Digital Ltd",
+"t" : "PAISALO",
+"e" : "NSE",
+"l" : "297.50",
+"c" : "-3.15",
+"mc" : "12.02B",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6565540",
+"name" : "Mahindra \u0026 Mahindra Limited",
+"t" : "M\u0026M",
+"e" : "NSE",
+"l" : "735.40",
+"c" : "+16.75",
+"mc" : "912.66B",
+"cp" : "2.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3227891",
+"name" : "India Cements Capital Ltd",
+"t" : "511355",
+"e" : "BOM",
+"l" : "5.20",
+"c" : "-0.15",
+"mc" : "112.66M",
+"cp" : "-2.80",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1979135",
+"name" : "B.A.G Films \u0026 Media Ltd.",
+"t" : "BAGFILMS",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "-0.15",
+"mc" : "1.18B",
+"cp" : "-2.38",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Todi Mansion 9Th Floor, 1 Lu Shun Sarani, KOLKATA, 700073, India",
+"phone": "+91-33-22377201",
+"fax": "+91-33-22376111",
+"url": "http:\u002F\u002Fwww.nprfinance.com\u002F",
+"overview" : "NPR Finance Limited is a non-banking non-deposit taking company. The Company\u0027s segments are Financial, Money Changing, Wind Power Generation and Real Estate. Its financial activities include granting of loan covered by hypothecation agreements, inter corporate deposits, and shares and securities. The Company offers finance to used commercial vehicles and cars. The Company\u0027s money changing operations include sale of all major currencies and travelers checks\u003B encashment of all major currencies and travelers checks catering to public non-resident Indians (NRI), foreigners, banks and others\u003B appointment of franchisees to carry on restricted money changing activity facilitating availability of encashment facilities for the inbound travelers\u003B western union money transfer, and sale of banking through mobile (BTM) cards. The Company has setup approximately two wind turbine generators of 1.25 megawatts capacity each at Dhule and Sangli in the state of Maharashtra for generation of wind Power."
+} ]
+, "management" : [
+{
+"name" : "Sarika Mehra",
+"title" : "Executive Vice President, Chief Compliance Officer, Company Secretary, Additional Director"
+}
+,
+{
+"name" : "Pawan Kumar Todi",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Nand Lal Todi",
+"age" : "81",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Rajendra Kumar Duggar",
+"age" : "62",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Nitin Guha",
+"age" : "79",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Arun Charan Mukherjee",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

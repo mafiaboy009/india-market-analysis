@@ -1,0 +1,295 @@
+
+ [
+{
+"symbol" : "532731",
+"exchange" : "BOM",
+"id": "702384",
+"t" : "532731",
+"e" : "BOM",
+"name" : "Rohit Ferro-Tech Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532731"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532731"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532731"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002713)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "4.10%",
+"annual" : "-47.01%",
+"ttm" : "2.46%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "8.69%",
+"annual" : "-50.01%",
+"ttm" : "9.00%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-45.21%",
+"ttm" : "10.31%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-12.03%",
+"ttm" : "2.24%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : "8.06%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "73",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.06",
+"l" : "3.55",
+"cp" : "-1.66",
+"ccol" : "chr",
+"op" : "3.55",
+"hi" : "3.70",
+"lo" : "3.45",
+"vo" : "47,166.00",
+"avvo" : "",
+"hi52" : "7.90",
+"lo52" : "3.45",
+"mc" : "413.97M",
+"pe" : "0.56",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.34",
+"dy" : "",
+"ldiv" : "",
+"shares" : "113.78M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "702384",
+"name" : "Rohit Ferro-Tech Limited",
+"t" : "532731",
+"e" : "BOM",
+"l" : "3.55",
+"c" : "-0.06",
+"mc" : "413.97M",
+"cp" : "-1.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5394407",
+"name" : "Visa Steel Limited",
+"t" : "VISASTEEL",
+"e" : "NSE",
+"l" : "18.40",
+"c" : "-0.55",
+"mc" : "2.13B",
+"cp" : "-2.90",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14744034",
+"name" : "Sarda Energy \u0026 Minerals Limited",
+"t" : "SARDAEN",
+"e" : "NSE",
+"l" : "502.00",
+"c" : "+4.00",
+"mc" : "18.02B",
+"cp" : "0.80",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6774107",
+"name" : "Monnet Ispat \u0026 Energy Ltd.",
+"t" : "MONNETISPA",
+"e" : "NSE",
+"l" : "27.35",
+"c" : "+0.85",
+"mc" : "5.45B",
+"cp" : "3.21",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3078945",
+"name" : "SAL Steel Ltd.",
+"t" : "SALSTEEL",
+"e" : "NSE",
+"l" : "7.25",
+"c" : "+0.30",
+"mc" : "620.47M",
+"cp" : "4.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7019095",
+"name" : "Vikash Metal \u0026 Power Ltd.",
+"t" : "VIKASHMET",
+"e" : "NSE",
+"l" : "4.45",
+"c" : "0.00",
+"mc" : "316.80M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11539104",
+"name" : "Tata Steel Limited",
+"t" : "TATASTEEL",
+"e" : "NSE",
+"l" : "681.40",
+"c" : "+3.65",
+"mc" : "769.66B",
+"cp" : "0.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4775461",
+"name" : "Indsil Hydro Power and Manganese Ltd",
+"t" : "522165",
+"e" : "BOM",
+"l" : "189.00",
+"c" : "+1.10",
+"mc" : "3.00B",
+"cp" : "0.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7713642",
+"name" : "Maithan Alloys Ltd",
+"t" : "MAITHANALL",
+"e" : "NSE",
+"l" : "949.90",
+"c" : "-8.70",
+"mc" : "27.61B",
+"cp" : "-0.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11033843",
+"name" : "Godawari Power and Ispat Limited",
+"t" : "GPIL",
+"e" : "NSE",
+"l" : "521.70",
+"c" : "+24.80",
+"mc" : "18.38B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+,
+{
+"id" : "873220",
+"name" : "Facor Alloys Ltd",
+"t" : "532656",
+"e" : "BOM",
+"l" : "3.11",
+"c" : "-0.13",
+"mc" : "602.57M",
+"cp" : "-4.01",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "SKP HOUSE, 132A, S. P. Mukherjee Road, KOLKATA, 700026, India",
+"phone": "+91-33-40168000",
+"fax": "+91-33-40168107",
+"url": "http:\u002F\u002Fwww.rohitferrotech.com\u002F",
+"overview" : "Rohit Ferro-Tech Limited is a ferro-alloys manufacturing company. The Company is engaged in manufacturing of chromium and manganese-based ferro alloys, such as high carbon ferro chrome (H.C.FeCr), silico manganese (SiMn) and ferro manganese (FeMn) through submerged arc furnace (SAF) route. Its segments include Ferro Alloys and Minerals, and Iron and Steel. It produces various types of stainless steel, such as Austenitic, Ferritic, Martenistic, Austenitic-Ferritic grades and Stainless Steel with special grades of precipitation hardening, cold heading and electrode quality, among others. It has approximately three manufacturing facilities located at Bishnupur and Haldia in West Bengal and Jaipur in Orissa. It owns an equity stake in a coking coal mine in Indonesia through its subsidiary, SKP Overseas Pte. Ltd., Singapore. It also has an economic interest in a thermal coal mine in Indonesia."
+} ]
+, "management" : [
+{
+"name" : "Bishwanath Choudhary",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Anil Prasad Shaw",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Ankit Patni",
+"age" : "31",
+"title" : "Managing Director"
+}
+,
+{
+"name" : "R.K. Burnwal",
+"title" : "Executive Director - Works, Additional Director"
+}
+,
+{
+"name" : "Rohit Patni",
+"age" : "31",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Pramod Kumar Jain",
+"title" : "Key Managerial Personnel"
+}
+,
+{
+"name" : "Suresh Kumar Patni",
+"age" : "53",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sujata Agarwal",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Rohit Jain",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "P. B. Lahiri",
+"title" : "Director - Nominee of State Bank of India"
+}
+]
+,"moreresources" : [
+]
+}]

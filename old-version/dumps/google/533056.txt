@@ -1,0 +1,267 @@
+
+// [
+{
+"symbol" : "533056",
+"exchange" : "BOM",
+"id": "6371116",
+"t" : "533056",
+"e" : "BOM",
+"name" : "Vedvaag Systems Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=VEDA.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:533056"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:533056"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:533056"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "13.07%",
+"annual" : "10.21%",
+"ttm" : "12.50%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "18.61%",
+"annual" : "12.93%",
+"ttm" : "18.01%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "16.15%",
+"ttm" : "21.81%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.69%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "21.40%",
+"ttm" : ""
+}
+]
+, "c" : "+0.25",
+"l" : "56.65",
+"cp" : "0.44",
+"ccol" : "chg",
+"op" : "56.40",
+"hi" : "57.90",
+"lo" : "55.25",
+"vo" : "14,539.00",
+"avvo" : "",
+"hi52" : "92.00",
+"lo52" : "46.00",
+"mc" : "818.73M",
+"pe" : "5.69",
+"fwpe" : "",
+"beta" : "",
+"eps" : "9.95",
+"dy" : "1.59",
+"ldiv" : "0.90",
+"shares" : "14.35M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "6371116",
+"name" : "Vedvaag Systems Ltd",
+"t" : "533056",
+"e" : "BOM",
+"l" : "56.65",
+"c" : "+0.25",
+"mc" : "818.73M",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10291341",
+"name" : "Birla Shloka Edutech Ltd",
+"t" : "511607",
+"e" : "BOM",
+"l" : "1.46",
+"c" : "0.00",
+"mc" : "30.58M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9315954",
+"name" : "Wisec Global Ltd",
+"t" : "511642",
+"e" : "BOM",
+"l" : "5.51",
+"c" : "0.00",
+"mc" : "59.51M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7721410",
+"name" : "Kaashyap Technologies Ltd",
+"t" : "532283",
+"e" : "BOM",
+"l" : "0.17",
+"c" : "",
+"mc" : "114.72M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "9918391",
+"name" : "StarCom Information Technology Ltd",
+"t" : "531616",
+"e" : "BOM",
+"l" : "268.85",
+"c" : "-14.10",
+"mc" : "1.34B",
+"cp" : "-4.98",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10405902",
+"name" : "Vama Industries Ltd",
+"t" : "512175",
+"e" : "BOM",
+"l" : "25.20",
+"c" : "0.00",
+"mc" : "1.31B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "723391",
+"name" : "Computer Point Ltd",
+"t" : "507833",
+"e" : "BOM",
+"l" : "1.09",
+"c" : "-0.05",
+"mc" : "32.70M",
+"cp" : "-4.39",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14805179",
+"name" : "Rolta India Limited",
+"t" : "ROLTA",
+"e" : "NSE",
+"l" : "71.00",
+"c" : "-0.30",
+"mc" : "11.75B",
+"cp" : "-0.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6285453",
+"name" : "Hexaware Technologies Limited",
+"t" : "HEXAWARE",
+"e" : "NSE",
+"l" : "343.55",
+"c" : "-8.60",
+"mc" : "102.36B",
+"cp" : "-2.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11379576",
+"name" : "ASM Technologies Ltd",
+"t" : "526433",
+"e" : "BOM",
+"l" : "165.10",
+"c" : "-0.35",
+"mc" : "822.76M",
+"cp" : "-0.21",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13722993",
+"name" : "Mindteck (India) Ltd",
+"t" : "517344",
+"e" : "BOM",
+"l" : "67.85",
+"c" : "+1.10",
+"mc" : "1.72B",
+"cp" : "1.65",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "403, West Block Siri Sai Orchid, Hitech City MADHAPUR, HYDERABAD, 500081, India",
+"phone": "+91-40-40188140",
+"fax": "+91-40-40188141",
+"url": "http:\u002F\u002Fvedavaag.com\u002F",
+"overview" : "Vedavaag Systems Limited is engaged in providing information technology sales and services. The Company\u0027s business operations are divided into four verticals: e-governance solutions, knowledge center solutions and citizen service delivery platform management, new services e-integration. The e-governance solutions cover three business segments: local body management solutions, employment exchange solutions, and tourism and transport solutions. The knowledge center solutions provide infrastructure management solutions, content delivery management services and pre-employment training solutions. The citizen services delivery platform management provides its services through, ABHEE, which provides service at the door step. Its new services e-integration vertical offers private functional hall booking services, mobile retail mart and door delivery of e-governance services. Its subsidiaries include Vagdevi Sark Edutech Private Limited and Vedavag Common Service Centres Private Limited."
+} ]
+, "management" : [
+{
+"name" : "J. Murali Krishna",
+"age" : "51",
+"title" : "Compliance Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "J. S. R. Durga Prasad",
+"title" : "Non-Independent Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "B. Locabhiram",
+"title" : "Director"
+}
+,
+{
+"name" : "J. Sujatha",
+"title" : "Director"
+}
+,
+{
+"name" : "Srinivas Pannala",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "G. T. Murthy",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

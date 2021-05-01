@@ -1,0 +1,298 @@
+
+ [
+{
+"symbol" : "532886",
+"exchange" : "BOM",
+"id": "711813",
+"t" : "532886",
+"e" : "BOM",
+"name" : "Sel Manufacturing Company Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532886"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532886"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532886"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-107.62%",
+"annual" : "-27.52%",
+"ttm" : "-70.79%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-111.48%",
+"annual" : "-39.37%",
+"ttm" : "-116.06%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-31.79%",
+"ttm" : "-63.29%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-8.50%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-159.17%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,295",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.05",
+"l" : "2.45",
+"cp" : "-2.00",
+"ccol" : "chr",
+"op" : "2.50",
+"hi" : "2.55",
+"lo" : "2.41",
+"vo" : "52,716.00",
+"avvo" : "",
+"hi52" : "4.45",
+"lo52" : "2.22",
+"mc" : "811.80M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-35.70",
+"dy" : "",
+"ldiv" : "",
+"shares" : "331.35M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "711813",
+"name" : "Sel Manufacturing Company Ltd",
+"t" : "532886",
+"e" : "BOM",
+"l" : "2.45",
+"c" : "-0.05",
+"mc" : "811.80M",
+"cp" : "-2.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "728728",
+"name" : "Gloster Ltd",
+"t" : "538595",
+"e" : "BOM",
+"l" : "658.00",
+"c" : "-8.10",
+"mc" : "6.88B",
+"cp" : "-1.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1631719",
+"name" : "Arvind Limited",
+"t" : "ARVIND",
+"e" : "NSE",
+"l" : "416.85",
+"c" : "+6.15",
+"mc" : "107.59B",
+"cp" : "1.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8147180",
+"name" : "Bombay Dyeing and Manufacturing Company",
+"t" : "BOMDYEING",
+"e" : "NSE",
+"l" : "272.95",
+"c" : "-7.05",
+"mc" : "56.43B",
+"cp" : "-2.52",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16647924",
+"name" : "Suryavanshi Spinning Mills Ltd",
+"t" : "514140",
+"e" : "BOM",
+"l" : "6.10",
+"c" : "-0.21",
+"mc" : "29.94M",
+"cp" : "-3.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12609898",
+"name" : "Alps Industries Ltd.",
+"t" : "ALPSINDUS",
+"e" : "NSE",
+"l" : "4.40",
+"c" : "-0.20",
+"mc" : "170.25M",
+"cp" : "-4.35",
+"ccol" : "chr"
+}
+,
+{
+"id" : "446091006322676",
+"name" : "Runeecha Textiles Ltd",
+"t" : "590124",
+"e" : "BOM",
+"l" : "4.88",
+"c" : "0.00",
+"mc" : "109.78M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "716770",
+"name" : "Jai Corp Ltd",
+"t" : "512237",
+"e" : "BOM",
+"l" : "164.70",
+"c" : "+2.75",
+"mc" : "29.44B",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1432072",
+"name" : "Neo Corp International Ltd",
+"t" : "523820",
+"e" : "BOM",
+"l" : "3.01",
+"c" : "0.00",
+"mc" : "114.45M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "11726545",
+"name" : "Rishi Techtex Ltd",
+"t" : "523021",
+"e" : "BOM",
+"l" : "66.50",
+"c" : "-4.00",
+"mc" : "491.50M",
+"cp" : "-5.67",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6629361",
+"name" : "Flexituff International Ltd",
+"t" : "FLEXITUFF",
+"e" : "NSE",
+"l" : "70.50",
+"c" : "-0.60",
+"mc" : "1.76B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "274, Dhandari Khurd, G.T. Road, LUDHIANA, 141014, India",
+"phone": "+91-161-3238001",
+"fax": "+91-161-6611112",
+"url": "http:\u002F\u002Fwww.selindia.in\u002Fprofile.html",
+"overview" : "SEL Manufacturing Company Limited is an India-based vertically integrated multi-product textile company. The Company is engaged in the manufacturing, processing and trading of yarn, fabric, readymade garments and towel. It offers terry towels, such as beach towels, bath towels, kitchen towels and Christmas towels. The Company\u0027s products include t-shirts, tops, inner wears, night suits, boxers and sweaters. The Company offers a range of knitted garments, such as polo, crew neck, henley, raglan, hoody, v-neck, fleece jacket, track suit and boxers for men and boys. For women and girls, it offers a range products, such as tee, camisole, embellished top, cap sleeve top, strap tank top, vest and skirts. It also caters to the infants, toddlers and kids segments. The Company\u0027s production facilities are located at Ludhiana and NawanSheher in Punjab, Baddi in Himachal Pradesh and Sehore in Madhya Pradesh. It has two spinning units located at Neemrana (Rajasthan) and Hansi, Hissar (Haryana)."
+} ]
+, "management" : [
+{
+"name" : "Vinod Kumar Goyal",
+"age" : "55",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "Navneet Gupta",
+"title" : "Chief Financial Officer, Executive Director"
+}
+,
+{
+"name" : "Dhiraj Saluja",
+"age" : "42",
+"title" : "Joint Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Neeraj Saluja",
+"age" : "48",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Rahul Kapoor",
+"title" : "Secretary, IR Contact Officer"
+}
+,
+{
+"name" : "Ram Saran Saluja",
+"age" : "72",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Joginder Kumar Gupta",
+"title" : "Nominee Director of State Bank of Patiala"
+}
+,
+{
+"name" : "Paramjit Kaur",
+"title" : "Additional Non-Executive Director"
+}
+,
+{
+"name" : "Ashwani Kumar",
+"age" : "59",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ranjan Madaan",
+"age" : "39",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

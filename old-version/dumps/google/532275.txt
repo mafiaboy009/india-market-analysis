@@ -1,0 +1,286 @@
+
+// [
+{
+"symbol" : "532275",
+"exchange" : "BOM",
+"id": "15030776",
+"t" : "532275",
+"e" : "BOM",
+"name" : "Landmarc Leisure Corporation Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=LLCL.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532275"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532275"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532275"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "9.94%",
+"annual" : "-451.58%",
+"ttm" : "0.50%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.38%",
+"annual" : "-460.33%",
+"ttm" : "-3.16%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-368.16%",
+"ttm" : "17.90%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-9.83%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-11.82%",
+"ttm" : ""
+}
+]
+, "c" : "+0.01",
+"l" : "0.70",
+"cp" : "1.45",
+"ccol" : "chg",
+"op" : "0.72",
+"hi" : "0.72",
+"lo" : "0.66",
+"vo" : "50,220.00",
+"avvo" : "",
+"hi52" : "1.05",
+"lo52" : "0.48",
+"mc" : "544.23M",
+"pe" : "11,666.67",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.00",
+"dy" : "",
+"ldiv" : "",
+"shares" : "800.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15030776",
+"name" : "Landmarc Leisure Corporation Ltd",
+"t" : "532275",
+"e" : "BOM",
+"l" : "0.70",
+"c" : "+0.01",
+"mc" : "544.23M",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "515387340809167",
+"name" : "Sanghvi Brands Ltd",
+"t" : "540782",
+"e" : "BOM",
+"l" : "110.60",
+"c" : "+5.25",
+"mc" : "1.15B",
+"cp" : "4.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1291599",
+"name" : "Talwalkars Better Value Fitness Ltd",
+"t" : "TALWALKARS",
+"e" : "NSE",
+"l" : "309.00",
+"c" : "+3.20",
+"mc" : "9.54B",
+"cp" : "1.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "921104153722266",
+"name" : "Powerhouse GYM \u0026 Wellness Ltd",
+"t" : "538731",
+"e" : "BOM",
+"l" : "7.50",
+"c" : "-0.18",
+"mc" : "",
+"cp" : "-2.34",
+"ccol" : "chr"
+}
+,
+{
+"id" : "677375",
+"name" : "Marico Limited",
+"t" : "531642",
+"e" : "BOM",
+"l" : "306.65",
+"c" : "+0.40",
+"mc" : "395.94B",
+"cp" : "0.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "826759680749506",
+"name" : "Looks Health Services Ltd",
+"t" : "534422",
+"e" : "BOM",
+"l" : "15.70",
+"c" : "+0.70",
+"mc" : "164.85M",
+"cp" : "4.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "839692224082979",
+"name" : "Aditya Consumer Marketing Ltd",
+"t" : "540146",
+"e" : "BOM",
+"l" : "185.30",
+"c" : "-5.05",
+"mc" : "2.71B",
+"cp" : "-2.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "827220505989971",
+"name" : "Kaya Ltd",
+"t" : "KAYA",
+"e" : "NSE",
+"l" : "1,094.00",
+"c" : "+109.70",
+"mc" : "14.19B",
+"cp" : "11.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12606616",
+"name" : "Birla Pacific Medspa Limited",
+"t" : "533469",
+"e" : "BOM",
+"l" : "0.28",
+"c" : "0.00",
+"mc" : "30.60M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "347712390162697",
+"name" : "Khemani Distributors \u0026 Marketing Ltd",
+"t" : "539788",
+"e" : "BOM",
+"l" : "186.00",
+"c" : "0.00",
+"mc" : "2.14B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15979287",
+"name" : "H.S.India Ltd",
+"t" : "532145",
+"e" : "BOM",
+"l" : "10.20",
+"c" : "-0.06",
+"mc" : "166.61M",
+"cp" : "-0.58",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Avadh,Avadesh Parisar Shree Ram Mills Premises - Gate No. 2 G. K. Marg, Worli, MUMBAI, 400069, India",
+"phone": "+91-22-61669190",
+"fax": "+91-22-61669193",
+"url": "http:\u002F\u002Fllcl.co.in\u002F",
+"overview" : "Landmarc Leisure Corporation Limited (Landmarc Leisure) is an India-based company with interests in wellness, education and entertainment sectors. The Company operates through three segments: Management Consultancy, Wellness Business and Landmarc Films. The Company\u0027s principal products\u002Fservices include broadcasting and showing of original films, sound, recoding, radio and television program, and other beauty treatments services. The Company produces Marathi and documentary films. The Company focuses on making feature films in Hindi and other regional languages. It operates Svastii Spa \u0026 Salon, which is a unisex wellness destination. The Company also operates Svastii Wellness Academy, LLC and Svastii The New Age Wellness Haven."
+} ]
+, "management" : [
+{
+"name" : "S. D. Sinha",
+"age" : "62",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Deepak Nangalia",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sonal Agrawal",
+"age" : "25",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "K. R. Mahadevan",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Vidhi V. Kasliwal",
+"age" : "36",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Anand Padmanabha Palaye",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Siddhartha Gangwal",
+"age" : "31",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Samsher R. Garud",
+"age" : "37",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Rudra Narain Jha",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

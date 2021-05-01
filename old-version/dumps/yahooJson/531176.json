@@ -1,0 +1,215 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 188006288,
+            "fmt": "188.01M",
+            "longFmt": "188,006,288"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.11208,
+            "fmt": "11.21%"
+          },
+          "floatShares": {
+            "raw": 793824,
+            "fmt": "793.82k",
+            "longFmt": "793,824"
+          },
+          "sharesOutstanding": {
+            "raw": 9140170,
+            "fmt": "9.14M",
+            "longFmt": "9,140,170"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -0.382928,
+            "fmt": "-0.38"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 10.875,
+            "fmt": "10.88"
+          },
+          "priceToBook": {
+            "raw": 1.7425288,
+            "fmt": "1.74"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1309392000,
+            "fmt": "2011-06-30"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 6853104,
+            "fmt": "6.85M",
+            "longFmt": "6,853,104"
+          },
+          "trailingEps": {
+            "raw": 0.75,
+            "fmt": "0.75"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 3.075,
+            "fmt": "3.08"
+          },
+          "enterpriseToEbitda": {},
+          "52WeekChange": {
+            "raw": 0.6569525,
+            "fmt": "65.70%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Sanchi Building",
+          "address2": "5th Floor 77, Nehru Place",
+          "city": "New Delhi",
+          "zip": "110019",
+          "country": "India",
+          "phone": "91 11 4650 0500",
+          "fax": "91 11 4650 0550",
+          "website": "http://www.mefcom.in",
+          "industry": "Investment Brokerage - National",
+          "sector": "Financial",
+          "longBusinessSummary": "Mefcom Capital Markets Limited provides investment and financial services in India. The company offers trading services in equities, derivatives, and commodities for day traders, jobbers, and arbitrageurs; support services, including margin funding, loan against shares, and link to daily trading strategies; and currency trading services. It also provides value added services, such as SMS alerts; and daily/weekly newsletter giving information on daily/weekly market commentary, trading strategies, etc., as well as wealth management services, financial advisory services, and capital market solutions to domestic and multinational clients. In addition, the company offers investment planning services, including public issues management, capital restructuring, private equity, debt syndication, advisory, corporate, loan against equity shares, and valuation. Further, it provides investment banking services related to IPOs, private placement, and bond offerings, as well as acts as broker and carries through mergers and acquisitions; and invests in shares and securities. Mefcom Capital Markets Limited was founded in 1985 and is headquartered in New Delhi, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 18.95,
+            "fmt": "18.95"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 10831223,
+            "fmt": "10.83M",
+            "longFmt": "10,831,223"
+          },
+          "totalCashPerShare": {
+            "raw": 1.185,
+            "fmt": "1.18"
+          },
+          "ebitda": {},
+          "totalDebt": {
+            "raw": 28830392,
+            "fmt": "28.83M",
+            "longFmt": "28,830,392"
+          },
+          "quickRatio": {
+            "raw": 7.208,
+            "fmt": "7.21"
+          },
+          "currentRatio": {
+            "raw": 14.142,
+            "fmt": "14.14"
+          },
+          "totalRevenue": {
+            "raw": 61145848,
+            "fmt": "61.15M",
+            "longFmt": "61,145,848"
+          },
+          "debtToEquity": {
+            "raw": 12.666,
+            "fmt": "12.67"
+          },
+          "revenuePerShare": {
+            "raw": 6.69,
+            "fmt": "6.69"
+          },
+          "returnOnAssets": {
+            "raw": 0.07315,
+            "fmt": "7.32%"
+          },
+          "returnOnEquity": {
+            "raw": 0.07714,
+            "fmt": "7.71%"
+          },
+          "grossProfits": {
+            "raw": 26939615,
+            "fmt": "26.94M",
+            "longFmt": "26,939,615"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {
+            "raw": -24914702,
+            "fmt": "-24.91M",
+            "longFmt": "-24,914,702"
+          },
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.44057998,
+            "fmt": "44.06%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": 0.18712999,
+            "fmt": "18.71%"
+          },
+          "profitMargins": {
+            "raw": 0.11208,
+            "fmt": "11.21%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

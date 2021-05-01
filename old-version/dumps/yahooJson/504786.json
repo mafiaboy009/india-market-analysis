@@ -1,0 +1,393 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 2489565696,
+            "fmt": "2.49B",
+            "longFmt": "2,489,565,696"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.04598,
+            "fmt": "4.60%"
+          },
+          "floatShares": {
+            "raw": 1925900,
+            "fmt": "1.93M",
+            "longFmt": "1,925,900"
+          },
+          "sharesOutstanding": {
+            "raw": 5000000,
+            "fmt": "5M",
+            "longFmt": "5,000,000"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 2.284946,
+            "fmt": "2.28"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 110.369,
+            "fmt": "110.37"
+          },
+          "priceToBook": {
+            "raw": 3.3899915,
+            "fmt": "3.39"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1333152000,
+            "fmt": "2012-03-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.318,
+            "fmt": "-31.80%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 42311108,
+            "fmt": "42.31M",
+            "longFmt": "42,311,108"
+          },
+          "trailingEps": {
+            "raw": 8.46,
+            "fmt": "8.46"
+          },
+          "forwardEps": {
+            "raw": 11.05,
+            "fmt": "11.05"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": "4/1",
+          "lastSplitDate": {
+            "raw": 1156377600,
+            "fmt": "2006-08-24"
+          },
+          "enterpriseToRevenue": {
+            "raw": 2.706,
+            "fmt": "2.71"
+          },
+          "enterpriseToEbitda": {
+            "raw": 16.682,
+            "fmt": "16.68"
+          },
+          "52WeekChange": {
+            "raw": 0.28443563,
+            "fmt": "28.44%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "3Q2017",
+                "actual": {
+                  "raw": 5.34,
+                  "fmt": "5.34"
+                },
+                "estimate": {
+                  "raw": 2.74,
+                  "fmt": "2.74"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "4Q",
+            "currentQuarterEstimateYear": 2017
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 693712260,
+                  "fmt": "693.71M",
+                  "longFmt": "693,712,260"
+                },
+                "earnings": {
+                  "raw": 15846072,
+                  "fmt": "15.85M",
+                  "longFmt": "15,846,072"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 765470227,
+                  "fmt": "765.47M",
+                  "longFmt": "765,470,227"
+                },
+                "earnings": {
+                  "raw": 21413188,
+                  "fmt": "21.41M",
+                  "longFmt": "21,413,188"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 849272753,
+                  "fmt": "849.27M",
+                  "longFmt": "849,272,753"
+                },
+                "earnings": {
+                  "raw": 28272452,
+                  "fmt": "28.27M",
+                  "longFmt": "28,272,452"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 920087514,
+                  "fmt": "920.09M",
+                  "longFmt": "920,087,514"
+                },
+                "earnings": {
+                  "raw": 42311108,
+                  "fmt": "42.31M",
+                  "longFmt": "42,311,108"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "2Q2011",
+                "revenue": {
+                  "raw": 179354500,
+                  "fmt": "179.35M",
+                  "longFmt": "179,354,500"
+                },
+                "earnings": {
+                  "raw": 5249500,
+                  "fmt": "5.25M",
+                  "longFmt": "5,249,500"
+                }
+              },
+              {
+                "date": "3Q2011",
+                "revenue": {
+                  "raw": 185489000,
+                  "fmt": "185.49M",
+                  "longFmt": "185,489,000"
+                },
+                "earnings": {
+                  "raw": 4368000,
+                  "fmt": "4.37M",
+                  "longFmt": "4,368,000"
+                }
+              },
+              {
+                "date": "4Q2011",
+                "revenue": {
+                  "raw": 216484459,
+                  "fmt": "216.48M",
+                  "longFmt": "216,484,459"
+                },
+                "earnings": {
+                  "raw": 9177246,
+                  "fmt": "9.18M",
+                  "longFmt": "9,177,246"
+                }
+              },
+              {
+                "date": "1Q2012",
+                "revenue": {
+                  "raw": 216484459,
+                  "fmt": "216.48M",
+                  "longFmt": "216,484,459"
+                },
+                "earnings": {
+                  "raw": 9177246,
+                  "fmt": "9.18M",
+                  "longFmt": "9,177,246"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Nari Road",
+          "city": "Bhavnagar",
+          "zip": "364006",
+          "country": "India",
+          "phone": "91 27 8252 3300",
+          "fax": "91 27 8252 3500",
+          "website": "http://www.ipcl.in",
+          "industry": "Metal Fabrication",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Investment & Precision Castings Limited, together with its subsidiary, I&PCL Vacuum Cast Limited, engages in the investment casting business in India. The company offers transmission parts, such as gear shifter levers, forks, fingers, etc.; engine parts, including injector clamping brackets, and pre-combustion chambers; clutch parts; diffusers, gas boxes, coolant connections, gas tanks, etc. for exhaust gas recirculation; and parts of turbochargers for diesel engines. It also provides gimbal boxes, pedestal units, and structural castings for aircrafts and satellite launch vehicles; steam turbine blades, impellers, and diffusers for power plants; impellers, diffusers, and valve bodies for pumps and valves; knee joint and prosthetic assembly parts for medical implants; electrical and instrumentation parts comprising housing for flow meters and coil lugs; general engineering parts; electronic frames and body castings; and compressor connecting rods and pistons. In addition, the company offers artisan castings, such as sacral sculptures, statues, candle stands, lamps, etc.; and barstock machined components from various materials, such as steel, aluminum, nickel, copper, and cobalt based alloys. Investment & Precision Castings Limited was founded in 1975 and is based in Bhavnagar, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 374.15,
+            "fmt": "374.15"
+          },
+          "targetHighPrice": {
+            "raw": 138.0,
+            "fmt": "138.00"
+          },
+          "targetLowPrice": {
+            "raw": 138.0,
+            "fmt": "138.00"
+          },
+          "targetMeanPrice": {
+            "raw": 138.0,
+            "fmt": "138.00"
+          },
+          "targetMedianPrice": {
+            "raw": 138.0,
+            "fmt": "138.00"
+          },
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 1,
+            "fmt": "1",
+            "longFmt": "1"
+          },
+          "totalCash": {
+            "raw": 16772201,
+            "fmt": "16.77M",
+            "longFmt": "16,772,201"
+          },
+          "totalCashPerShare": {
+            "raw": 3.354,
+            "fmt": "3.35"
+          },
+          "ebitda": {
+            "raw": 149235936,
+            "fmt": "149.24M",
+            "longFmt": "149,235,936"
+          },
+          "totalDebt": {
+            "raw": 384837824,
+            "fmt": "384.84M",
+            "longFmt": "384,837,824"
+          },
+          "quickRatio": {
+            "raw": 0.546,
+            "fmt": "0.55"
+          },
+          "currentRatio": {
+            "raw": 1.324,
+            "fmt": "1.32"
+          },
+          "totalRevenue": {
+            "raw": 920087488,
+            "fmt": "920.09M",
+            "longFmt": "920,087,488"
+          },
+          "debtToEquity": {
+            "raw": 85.307,
+            "fmt": "85.31"
+          },
+          "revenuePerShare": {
+            "raw": 183.969,
+            "fmt": "183.97"
+          },
+          "returnOnAssets": {
+            "raw": 0.061389998,
+            "fmt": "6.14%"
+          },
+          "returnOnEquity": {
+            "raw": 0.079730004,
+            "fmt": "7.97%"
+          },
+          "grossProfits": {
+            "raw": 286742812,
+            "fmt": "286.74M",
+            "longFmt": "286,742,812"
+          },
+          "freeCashflow": {
+            "raw": 9395152,
+            "fmt": "9.4M",
+            "longFmt": "9,395,152"
+          },
+          "operatingCashflow": {
+            "raw": 99422000,
+            "fmt": "99.42M",
+            "longFmt": "99,422,000"
+          },
+          "earningsGrowth": {
+            "raw": -0.319,
+            "fmt": "-31.90%"
+          },
+          "revenueGrowth": {
+            "raw": 0.122,
+            "fmt": "12.20%"
+          },
+          "grossMargins": {
+            "raw": 0.31165,
+            "fmt": "31.17%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.16219999,
+            "fmt": "16.22%"
+          },
+          "operatingMargins": {
+            "raw": 0.10799,
+            "fmt": "10.80%"
+          },
+          "profitMargins": {
+            "raw": 0.04598,
+            "fmt": "4.60%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "530871",
+"exchange" : "BOM",
+"id": "2599551",
+"t" : "530871",
+"e" : "BOM",
+"name" : "Chembond Chemicals Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=CHEM.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:530871"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:530871"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:530871"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "7.88%",
+"annual" : "3.90%",
+"ttm" : "6.18%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "5.27%",
+"annual" : "3.88%",
+"ttm" : "3.69%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.24%",
+"ttm" : "5.01%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.69%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "3.69%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "307",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+10.50",
+"l" : "310.10",
+"cp" : "3.50",
+"ccol" : "chg",
+"op" : "305.00",
+"hi" : "318.00",
+"lo" : "296.00",
+"vo" : "57,534.00",
+"avvo" : "",
+"hi52" : "318.00",
+"lo52" : "179.70",
+"mc" : "4.16B",
+"pe" : "23.28",
+"fwpe" : "",
+"beta" : "",
+"eps" : "13.32",
+"dy" : "0.53",
+"ldiv" : "1.65",
+"shares" : "13.45M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2599551",
+"name" : "Chembond Chemicals Ltd",
+"t" : "530871",
+"e" : "BOM",
+"l" : "310.10",
+"c" : "+10.50",
+"mc" : "4.16B",
+"cp" : "3.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "809737",
+"name" : "Dai Ichi Karkaria Ltd",
+"t" : "526821",
+"e" : "BOM",
+"l" : "488.90",
+"c" : "+18.90",
+"mc" : "3.64B",
+"cp" : "4.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715387",
+"name" : "Elantas Beck India Ltd",
+"t" : "500123",
+"e" : "BOM",
+"l" : "2,050.00",
+"c" : "-41.95",
+"mc" : "16.05B",
+"cp" : "-2.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1720722",
+"name" : "Hardcastle \u0026 Waud Manufacturing Co Ltd",
+"t" : "509597",
+"e" : "BOM",
+"l" : "431.90",
+"c" : "+25.90",
+"mc" : "297.14M",
+"cp" : "6.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13937555",
+"name" : "Narmada Gelatines Ltd",
+"t" : "526739",
+"e" : "BOM",
+"l" : "157.10",
+"c" : "-0.70",
+"mc" : "954.62M",
+"cp" : "-0.44",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13815576",
+"name" : "Shree Hari Chemicals Export Ltd",
+"t" : "524336",
+"e" : "BOM",
+"l" : "44.80",
+"c" : "0.00",
+"mc" : "199.19M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3553663",
+"name" : "Nitta Gelatin India Ltd",
+"t" : "506532",
+"e" : "BOM",
+"l" : "227.35",
+"c" : "+3.25",
+"mc" : "2.03B",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11440516",
+"name" : "Indo Amines Ltd",
+"t" : "524648",
+"e" : "BOM",
+"l" : "99.50",
+"c" : "-0.10",
+"mc" : "3.28B",
+"cp" : "-0.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715223",
+"name" : "India Gelatine \u0026 Chemicals Ltd.",
+"t" : "531253",
+"e" : "BOM",
+"l" : "114.70",
+"c" : "+1.85",
+"mc" : "793.11M",
+"cp" : "1.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6354843",
+"name" : "NOCIL Limited",
+"t" : "NOCIL",
+"e" : "NSE",
+"l" : "186.95",
+"c" : "+2.70",
+"mc" : "30.69B",
+"cp" : "1.47",
+"ccol" : "chg"
+}
+,
+{
+"id" : "207459545594332",
+"name" : "Metroglobal Ltd",
+"t" : "500159",
+"e" : "BOM",
+"l" : "86.20",
+"c" : "+3.45",
+"mc" : "1.42B",
+"cp" : "4.17",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "B-23 2ND FLR,TODI INDSTRL EST NEW SUN MILL COMPUND LOWER PAREL, MUMBAI, 400013, India",
+"phone": "+91-22-39213000",
+"fax": "+91-22-27681294",
+"url": "http:\u002F\u002Fwww.chembondindia.com\u002F",
+"overview" : "Chembond Chemicals Limited is a manufacturer of a range of specialty chemicals, such as water treatment, polymers, construction chemicals, high performance coatings, animal nutrition\u0027s and industrial biotech products. The Company\u0027s segments include Speciality Chemicals and Water Treatment Plant. Its divisions include Water Technologies, Polymers, Trading, Construction Chemicals, Coatings and Biotechnology. It offers a range of water treatment chemicals, such as boiler water treatment chemicals, membrane treatment chemicals, raw water and effluent treatment polymers and defoamers. It offers a range of products, such as admixtures for concrete, sealants, grouts, concrete curing compounds, tile fixing adhesives and waterproofing chemicals, for applications in concrete modification, waterproofing, repair and rehabilitation of structures. The Company offers a range of products, such as Surface Tolerant Coatings, Food Grade Coatings, Anti-Carbonation Coatings and Elastomeric Coatings."
+} ]
+, "management" : [
+{
+"name" : "Sameer V. Shah",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Nirmal V. Shah",
+"title" : "Executive Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Rashmi Gavli",
+"title" : "Chief Financial Officer, Compliance Officer"
+}
+,
+{
+"name" : "Nitin Dambe",
+"title" : "General Manager – Technical"
+}
+,
+{
+"name" : "Mahesh Kulkarni",
+"title" : "General Manager - Industrial Coatings"
+}
+,
+{
+"name" : "Naresh Padia",
+"title" : "Senior General Manager Operations"
+}
+,
+{
+"name" : "Navneet Sahu",
+"title" : "General Manager – East \u0026 South"
+}
+,
+{
+"name" : "Ravikumar Mutaka",
+"title" : "Deputy General Manager – Operations"
+}
+,
+{
+"name" : "Poonam Malhotra",
+"title" : "Product Technology Manager"
+}
+,
+{
+"name" : "Ravindra Pandit",
+"title" : "Head – Human Resources"
+}
+]
+,"moreresources" : [
+]
+}]

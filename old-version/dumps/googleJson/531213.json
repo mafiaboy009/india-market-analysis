@@ -1,0 +1,296 @@
+
+ [
+{
+"symbol" : "531213",
+"exchange" : "BOM",
+"id": "4393521",
+"t" : "531213",
+"e" : "BOM",
+"name" : "Manappuram Finance Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:531213"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:531213"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:531213"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "19.86%",
+"annual" : "22.39%",
+"ttm" : "19.96%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "29.48%",
+"annual" : "33.78%",
+"ttm" : "29.10%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "35.65%",
+"ttm" : "31.02%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "5.42%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "24.70%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "18,933",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.95",
+"l" : "109.35",
+"cp" : "0.88",
+"ccol" : "chg",
+"op" : "108.90",
+"hi" : "110.25",
+"lo" : "108.55",
+"vo" : "249,350.00",
+"avvo" : "",
+"hi52" : "126.40",
+"lo52" : "81.50",
+"mc" : "92.03B",
+"pe" : "13.38",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.17",
+"dy" : "1.83",
+"ldiv" : "0.50",
+"shares" : "841.97M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "4393521",
+"name" : "Manappuram Finance Ltd",
+"t" : "531213",
+"e" : "BOM",
+"l" : "109.35",
+"c" : "+0.95",
+"mc" : "92.03B",
+"cp" : "0.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "641693922925115",
+"name" : "Shree Nidhi Trading Co Ltd",
+"t" : "540253",
+"e" : "BOM",
+"l" : "20.40",
+"c" : "0.00",
+"mc" : "158.99M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6143372",
+"name" : "Finkurve Financial Services Ltd",
+"t" : "508954",
+"e" : "BOM",
+"l" : "51.30",
+"c" : "0.00",
+"mc" : "4.96B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "867228353667786",
+"name" : "Srestha Finvest Ltd",
+"t" : "539217",
+"e" : "BOM",
+"l" : "12.19",
+"c" : "-0.64",
+"mc" : "905.08M",
+"cp" : "-4.99",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15373457",
+"name" : "IIFL Holdings Ltd",
+"t" : "IIFL",
+"e" : "NSE",
+"l" : "731.00",
+"c" : "-4.75",
+"mc" : "230.86B",
+"cp" : "-0.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7686660",
+"name" : "Shalibhadra Finance Ltd",
+"t" : "511754",
+"e" : "BOM",
+"l" : "130.00",
+"c" : "-5.35",
+"mc" : "652.09M",
+"cp" : "-3.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16455919",
+"name" : "Cholamandalam Investment and Fin Co Ltd",
+"t" : "CHOLAFIN",
+"e" : "NSE",
+"l" : "1,438.00",
+"c" : "+22.40",
+"mc" : "223.74B",
+"cp" : "1.58",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3873499",
+"name" : "Paragon Finance Ltd",
+"t" : "531255",
+"e" : "BOM",
+"l" : "24.90",
+"c" : "-2.60",
+"mc" : "105.82M",
+"cp" : "-9.45",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6743896",
+"name" : "Odyssey Corporation Ltd",
+"t" : "531996",
+"e" : "BOM",
+"l" : "1.99",
+"c" : "-0.10",
+"mc" : "78.39M",
+"cp" : "-4.78",
+"ccol" : "chr"
+}
+,
+{
+"id" : "686674002869578",
+"name" : "Shivom Investment and Consultancy Ltd",
+"t" : "539833",
+"e" : "BOM",
+"l" : "7.13",
+"c" : "0.00",
+"mc" : "498.75M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14153912",
+"name" : "IDFC Ltd",
+"t" : "IDFC",
+"e" : "NSE",
+"l" : "53.45",
+"c" : "+0.45",
+"mc" : "84.92B",
+"cp" : "0.85",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "IV \u002F 470 (old) W638A (New) Manappuram House,, Valapad, TRICHUR, 680567, India",
+"phone": "+91-487-3050000",
+"fax": "+91-487-2399298",
+"url": "http:\u002F\u002Fwww.manappuram.com",
+"overview" : "Manappuram Finance Limited is a non-banking financial company (NBFC). The Company is engaged in offering gold loans, microfinance, housing loans and commercial vehicle loans. The Company operates in financing segment. Its geographical segment includes domestic. Its activities include Gold Loan\u002FLoan Against Gold, Money Transfer, Domestic Money Transfer, Foreign Exchange, SME \u0026 Loan Against Property, Depository Services and Commercial Vehicle Loans. It provides loans against property to self employed professionals\u002Fnon professionals and individuals\u002Fproprietorship, partnership and limited companies. It provides Commercial Vehicle Loans to first time users\u002Fbuyers, captive customers, fleet owners, individuals\u002Fproprietorship, partnership and limited companies, and schools and colleges. Its securities available for Dematerialization (Demat) include equity shares, debt instruments, such as bonds and debentures (NCD) government securities, and mutual fund units."
+} ]
+, "management" : [
+{
+"name" : "Jagdish C. Capoor",
+"age" : "78",
+"title" : "Chairman of the Board, Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vazhappully Padmanabhan Nandakumar",
+"age" : "60",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Kapil Krishan",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ramesh Periasamy",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "B. N. Raveendra Babu",
+"age" : "62",
+"title" : "Joint Managing Director, Executive Director"
+}
+,
+{
+"name" : "N. R. Bahuleyan",
+"title" : "Chief General Manager"
+}
+,
+{
+"name" : "E. A. Kshirsagar",
+"title" : "Director - Nominee of M\u002Fs. Baring India Private Equity Fund III Listed Investment Limited"
+}
+,
+{
+"name" : "Gautam Narayan",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Pradeep Saxena",
+"title" : "Director - Nominee of Hudosn Equity Holdings Ltd."
+}
+,
+{
+"name" : "Amla Samanta",
+"age" : "60",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

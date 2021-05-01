@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "526917",
+"exchange" : "BOM",
+"id": "4621714",
+"t" : "526917",
+"e" : "BOM",
+"name" : "CHD Developers Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=CHDD.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:526917"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:526917"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:526917"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.76%",
+"annual" : "3.84%",
+"ttm" : "3.55%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.19%",
+"annual" : "11.48%",
+"ttm" : "10.61%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.95%",
+"ttm" : "12.02%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.97%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "4.61%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "235",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.10",
+"l" : "17.00",
+"cp" : "0.59",
+"ccol" : "chg",
+"op" : "16.90",
+"hi" : "17.45",
+"lo" : "16.55",
+"vo" : "68,251.00",
+"avvo" : "",
+"hi52" : "20.10",
+"lo52" : "7.31",
+"mc" : "1.92B",
+"pe" : "37.49",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.45",
+"dy" : "0.59",
+"ldiv" : "0.10",
+"shares" : "113.59M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "4621714",
+"name" : "CHD Developers Ltd",
+"t" : "526917",
+"e" : "BOM",
+"l" : "17.00",
+"c" : "+0.10",
+"mc" : "1.92B",
+"cp" : "0.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13257886",
+"name" : "Ansal Housing and Construction Ltd",
+"t" : "ANSALHSG",
+"e" : "NSE",
+"l" : "23.75",
+"c" : "+0.20",
+"mc" : "1.41B",
+"cp" : "0.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5524223",
+"name" : "Parsvnath Developers Limited",
+"t" : "PARSVNATH",
+"e" : "NSE",
+"l" : "21.70",
+"c" : "+0.40",
+"mc" : "9.44B",
+"cp" : "1.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "495804775077362",
+"name" : "Bronze InfraTech Ltd",
+"t" : "534731",
+"e" : "BOM",
+"l" : "0.85",
+"c" : "0.00",
+"mc" : "14.69M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2231171",
+"name" : "Nila Infrastructures Ltd",
+"t" : "530377",
+"e" : "BOM",
+"l" : "21.45",
+"c" : "0.00",
+"mc" : "8.41B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "185894",
+"name" : "Vas Infrastructure Ltd (cn)",
+"t" : "531574",
+"e" : "BOM",
+"l" : "10.70",
+"c" : "-1.07",
+"mc" : "147.13M",
+"cp" : "-9.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "713850",
+"name" : "Skyline Millars Ltd",
+"t" : "505650",
+"e" : "BOM",
+"l" : "3.55",
+"c" : "-0.11",
+"mc" : "142.80M",
+"cp" : "-3.01",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15071904",
+"name" : "MVL Ltd",
+"t" : "MVL",
+"e" : "NSE",
+"l" : "0.45",
+"c" : "+0.05",
+"mc" : "240.50M",
+"cp" : "12.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6248094060991",
+"name" : "Silverpoint Infratech Ltd",
+"t" : "536073",
+"e" : "BOM",
+"l" : "8.06",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9227507",
+"name" : "Emami Infrastructure Limited",
+"t" : "EMAMIINFRA",
+"e" : "NSE",
+"l" : "298.50",
+"c" : "-1.00",
+"mc" : "7.28B",
+"cp" : "-0.33",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5934788",
+"name" : "GI Engineering Solutions Ltd",
+"t" : "GISOLUTION",
+"e" : "NSE",
+"l" : "4.60",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "SF-16-17 FIRST FLOOR MADAME BHIKAJI CAMA BHAWA 11,BHIKAJI CAMA PLACE, NEW DELHI, 110066, India",
+"phone": "+91-11-40100100",
+"fax": "+91-11-40100190",
+"url": "http:\u002F\u002Fwww.chddevelopers.com\u002F",
+"overview" : "CHD Developers Limited is real estate developer engaged in the business of developing township and residential\u002Fcommercial complexes. The Company\u0027s operation spans all aspects of real estate development, from identification and acquisition of land, to planning, execution, construction and marketing projects. Its product portfolio includes residential, commercial, recreational and retail properties. It is focused on regions, such as Gurgaon and Karnal. In Gujarat, it has four ongoing projects across a total saleable area of approximately 3.21 million square feet. In Karnal, the Company has an integrated township project of which an area of approximately 3.69 million square feet has been delivered and over 1.82 million square feet, where development is ongoing. Its properties include CHD Vann, 106 Golf Avenue, CHD Avenue 71, Spanish Meadows, Lifestyle Premiere, CHD Lifestyle, Silver Country Villas, CHD EWay Towers, CHD Resortico, Karnal Business Centre and CHD Daana Paani."
+} ]
+, "management" : [
+{
+"name" : "R. K. Mittal",
+"title" : "Whole Time Chairman of the Board"
+}
+,
+{
+"name" : "Naresh Kumar Sharma",
+"age" : "49",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Sachin Kumar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Gaurav Mittal",
+"age" : "34",
+"title" : "Managing Director, Executive Director"
+}
+,
+{
+"name" : "Manav Jain",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Pran Nath",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shailly God",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Sunil Kumar Sachdeva",
+"age" : "59",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,292 @@
+
+ [
+{
+"symbol" : "533171",
+"exchange" : "BOM",
+"id": "2835199",
+"t" : "533171",
+"e" : "BOM",
+"name" : "United Bank of India"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533171"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533171"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533171"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-77.15%",
+"annual" : "5.34%",
+"ttm" : "-31.38%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-108.05%",
+"annual" : "-22.22%",
+"ttm" : "-73.90%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-8.14%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "-1.83%",
+"annual" : "0.16%",
+"ttm" : "-0.80%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "-36.91%",
+"annual" : "3.12%",
+"ttm" : "-16.31%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "15,836",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.40",
+"l" : "14.15",
+"cp" : "2.91",
+"ccol" : "chg",
+"op" : "14.35",
+"hi" : "14.35",
+"lo" : "13.80",
+"vo" : "444,168.00",
+"avvo" : "",
+"hi52" : "26.95",
+"lo52" : "13.50",
+"mc" : "21.94B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-7.35",
+"dy" : "",
+"ldiv" : "",
+"shares" : "1.56B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2835199",
+"name" : "United Bank of India",
+"t" : "533171",
+"e" : "BOM",
+"l" : "14.15",
+"c" : "+0.40",
+"mc" : "21.94B",
+"cp" : "2.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4165482",
+"name" : "Corporation Bank",
+"t" : "CORPBANK",
+"e" : "NSE",
+"l" : "32.80",
+"c" : "-0.55",
+"mc" : "36.90B",
+"cp" : "-1.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3261730",
+"name" : "Axis Bank Ltd",
+"t" : "AXISBANK",
+"e" : "NSE",
+"l" : "550.00",
+"c" : "+13.35",
+"mc" : "1.41T",
+"cp" : "2.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13564339",
+"name" : "State Bank of India",
+"t" : "SBIN",
+"e" : "NSE",
+"l" : "274.30",
+"c" : "-1.75",
+"mc" : "2.36T",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16345036",
+"name" : "ICICI Bank Ltd",
+"t" : "ICICIBANK",
+"e" : "NSE",
+"l" : "326.15",
+"c" : "+3.40",
+"mc" : "2.09T",
+"cp" : "1.05",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13082940",
+"name" : "HDFC Bank Limited",
+"t" : "HDFCBANK",
+"e" : "NSE",
+"l" : "1,912.50",
+"c" : "+31.95",
+"mc" : "4.97T",
+"cp" : "1.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "678082",
+"name" : "Kotak Mahindra Bank Ltd",
+"t" : "KOTAKBANK",
+"e" : "NSE",
+"l" : "1,105.00",
+"c" : "+24.15",
+"mc" : "2.10T",
+"cp" : "2.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14072945",
+"name" : "UCO Bank",
+"t" : "UCOBANK",
+"e" : "NSE",
+"l" : "26.65",
+"c" : "-0.50",
+"mc" : "49.66B",
+"cp" : "-1.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "236042",
+"name" : "Union Bank of India",
+"t" : "UNIONBANK",
+"e" : "NSE",
+"l" : "107.65",
+"c" : "-0.95",
+"mc" : "92.16B",
+"cp" : "-0.87",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6775936",
+"name" : "Canara Bank Ltd",
+"t" : "CANBK",
+"e" : "NSE",
+"l" : "309.80",
+"c" : "-4.05",
+"mc" : "185.13B",
+"cp" : "-1.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "333651",
+"name" : "Punjab National Bank",
+"t" : "PNB",
+"e" : "NSE",
+"l" : "111.90",
+"c" : "-1.55",
+"mc" : "271.30B",
+"cp" : "-1.37",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "11 Hemant Basu Sarani, KOLKATA, 700001, India",
+"phone": "+91-22-40429100",
+"fax": "+91-33-22489391",
+"url": "http:\u002F\u002Fwww.unitedbankofindia.com",
+"overview" : "United Bank of India is an India-based bank. The Banks operations are classified into two business segments: Treasury Operations, and Banking Operations, which include Corporate\u002FWholesale Banking, Retail Banking and Other Banking Operations. The Bank offers retail banking, corporate banking and international banking services. Its retail banking products and services include deposits, loans and lockers. Its corporate banking products and services include term loans, working capital finance, corporate loans, export credit, and cash management and remittances. Its international banking services include foreign exchange services and non-resident Indian services. The Bank offers finances for micro, small and medium enterprises (MSMEs). Its MSME products include United Doctor Plus, United Medical Plus, Artisan Credit Card, Swarojgar Credit Card, Laghu Udhyami Credit Card, United Shilpi Card and United Udyogshree Yojana. The Bank operates a network of approximately 2,010 branches\u002Foffices."
+} ]
+, "management" : [
+{
+"name" : "Pawan Kumar Bajaj",
+"title" : "Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Naresh Kumar Kapoor",
+"title" : "Chief Financial Officer, General Manager"
+}
+,
+{
+"name" : "Bikramjit Shom",
+"title" : "Assistant General Manager, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sunanda Basu",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Rathin De",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Manash Dhar",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Vikas Sitaram Khutwad",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Sanjay Kumar",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Debashish Mukherjee",
+"title" : "General Manager"
+}
+,
+{
+"name" : "Ambarisha Nanda",
+"title" : "Chief General Manager - Planning \u0026 Development"
+}
+]
+,"moreresources" : [
+]
+}]

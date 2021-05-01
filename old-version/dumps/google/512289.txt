@@ -1,0 +1,275 @@
+
+// [
+{
+"symbol" : "512289",
+"exchange" : "BOM",
+"id": "15201787",
+"t" : "512289",
+"e" : "BOM",
+"name" : "Shirpur Gold Refinery Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SHGR.NS",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:512289"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:512289"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:512289"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.25%",
+"annual" : "0.05%",
+"ttm" : "0.17%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "0.72%",
+"annual" : "0.64%",
+"ttm" : "0.83%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.80%",
+"ttm" : "0.97%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.25%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.83%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "85",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-2.00",
+"l" : "151.20",
+"cp" : "-1.31",
+"ccol" : "chr",
+"op" : "151.60",
+"hi" : "152.00",
+"lo" : "151.20",
+"vo" : "800.00",
+"avvo" : "",
+"hi52" : "152.00",
+"lo52" : "151.20",
+"mc" : "4.39B",
+"pe" : "46.76",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.23",
+"dy" : "",
+"ldiv" : "",
+"shares" : "29.14M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "15201787",
+"name" : "Shirpur Gold Refinery Ltd",
+"t" : "512289",
+"e" : "BOM",
+"l" : "151.20",
+"c" : "-2.00",
+"mc" : "4.39B",
+"cp" : "-1.31",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9807826",
+"name" : "Gravita India Limited",
+"t" : "GRAVITA",
+"e" : "NSE",
+"l" : "155.05",
+"c" : "+5.45",
+"mc" : "10.66B",
+"cp" : "3.64",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7408036",
+"name" : "Hindustan Zinc Ltd",
+"t" : "HINDZINC",
+"e" : "NSE",
+"l" : "332.75",
+"c" : "+4.75",
+"mc" : "1.41T",
+"cp" : "1.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7965024",
+"name" : "Binani Industries Ltd",
+"t" : "BINANIIND",
+"e" : "NSE",
+"l" : "114.55",
+"c" : "+5.45",
+"mc" : "3.59B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "278659848349838",
+"name" : "Starlit Power Systems Ltd",
+"t" : "538733",
+"e" : "BOM",
+"l" : "21.75",
+"c" : "+0.60",
+"mc" : "",
+"cp" : "2.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5120195",
+"name" : "Hindustan Copper Ltd.",
+"t" : "HINDCOPPER",
+"e" : "NSE",
+"l" : "74.30",
+"c" : "-0.15",
+"mc" : "68.74B",
+"cp" : "-0.20",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13541728",
+"name" : "Cubex Tubings Ltd.",
+"t" : "CUBEXTUB",
+"e" : "NSE",
+"l" : "27.00",
+"c" : "+0.85",
+"mc" : "386.61M",
+"cp" : "3.25",
+"ccol" : "chg"
+}
+,
+{
+"id" : "339177050687766",
+"name" : "RCI Industries \u0026 Technologies Ltd",
+"t" : "537254",
+"e" : "BOM",
+"l" : "187.55",
+"c" : "+7.25",
+"mc" : "2.48B",
+"cp" : "4.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11907943",
+"name" : "Modison Metals Ltd",
+"t" : "506261",
+"e" : "BOM",
+"l" : "69.45",
+"c" : "+1.45",
+"mc" : "2.25B",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13506035",
+"name" : "Parekh Platinum Ltd",
+"t" : "PAREKHPLAT",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-3.80",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2530422",
+"name" : "Cosmo Ferrites Ltd",
+"t" : "523100",
+"e" : "BOM",
+"l" : "26.00",
+"c" : "+1.20",
+"mc" : "312.78M",
+"cp" : "4.84",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "135, Continental Building Dr. Annie Besant Road Worli, MUMBAI, 400013, India",
+"phone": "+91-22-71227436",
+"fax": "+91-22-49106464",
+"url": "http:\u002F\u002Fwww.shirpurgold.com\u002F",
+"overview" : "Shirpur Gold Refinery Limited is engaged in the business of manufacturing and trading of gold bars, gold coins, gold jewelry and export of gold jewelry. The Company is also engaged in the business of refining, manufacturing and marketing of precious metals. The Company sells its products under Zee Gold brand. The products manufactured under Company\u0027s Zee Gold brand consist of gold bars of 100 grams, one kilogram gold and silver coins or different denominations of different purities. The Company has set up a green field precious metal refinery with installed capacity to refine approximately 210 metric tons per annum of gold and silver respectively in Shirpur, Maharashtra. The Company\u0027s subsidiaries include Zee Gold DMCC and Shirpur Gold Mining Company Private Limited."
+} ]
+, "management" : [
+{
+"name" : "Shyamal Padhiar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Kavita Kapahi",
+"age" : "45",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Manoj Agarwal",
+"age" : "44",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Mukund Galgali",
+"age" : "44",
+"title" : "Non-Executive Non- Independent Director"
+}
+,
+{
+"name" : "Anish M. Goel",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Dinesh Kanodia",
+"title" : "Non-Executive Non-Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,300 @@
+
+ [
+{
+"symbol" : "505537",
+"exchange" : "BOM",
+"id": "672876",
+"t" : "505537",
+"e" : "BOM",
+"name" : "Zee Entertainment Enterprises Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:505537"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:505537"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:505537"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "17.50%",
+"annual" : "34.51%",
+"ttm" : "41.27%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "29.59%",
+"annual" : "47.17%",
+"ttm" : "49.97%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "29.95%",
+"ttm" : "31.42%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "24.26%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "38.65%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,931",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+16.20",
+"l" : "586.40",
+"cp" : "2.84",
+"ccol" : "chg",
+"op" : "571.90",
+"hi" : "586.95",
+"lo" : "569.00",
+"vo" : "20,913.00",
+"avvo" : "",
+"hi52" : "619.35",
+"lo52" : "477.25",
+"mc" : "565.14B",
+"pe" : "21.02",
+"fwpe" : "",
+"beta" : "",
+"eps" : "27.90",
+"dy" : "0.43",
+"ldiv" : "2.50",
+"shares" : "960.45M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "672876",
+"name" : "Zee Entertainment Enterprises Limited",
+"t" : "505537",
+"e" : "BOM",
+"l" : "586.40",
+"c" : "+16.20",
+"mc" : "565.14B",
+"cp" : "2.84",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14104523",
+"name" : "Zee Media Corporation Ltd",
+"t" : "ZEEMEDIA",
+"e" : "NSE",
+"l" : "43.50",
+"c" : "+0.15",
+"mc" : "20.48B",
+"cp" : "0.35",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3950734",
+"name" : "TV18 Broadcast Ltd",
+"t" : "TV18BRDCST",
+"e" : "NSE",
+"l" : "60.00",
+"c" : "+1.55",
+"mc" : "102.69B",
+"cp" : "2.65",
+"ccol" : "chg"
+}
+,
+{
+"id" : "134378019443136",
+"name" : "Diksat Transworld Ltd",
+"t" : "540151",
+"e" : "BOM",
+"l" : "72.00",
+"c" : "0.00",
+"mc" : "1.24B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7989868",
+"name" : "Sun TV Network Ltd.",
+"t" : "SUNTV",
+"e" : "NSE",
+"l" : "947.50",
+"c" : "+18.95",
+"mc" : "373.94B",
+"cp" : "2.04",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1803644",
+"name" : "Jain Studios Ltd",
+"t" : "JAINSTUDIO",
+"e" : "NSE",
+"l" : "4.45",
+"c" : "-0.20",
+"mc" : "127.25M",
+"cp" : "-4.30",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3689364",
+"name" : "Raj Television Network Limited",
+"t" : "RAJTV",
+"e" : "NSE",
+"l" : "56.55",
+"c" : "+1.05",
+"mc" : "2.93B",
+"cp" : "1.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1979135",
+"name" : "B.A.G Films \u0026 Media Ltd.",
+"t" : "BAGFILMS",
+"e" : "NSE",
+"l" : "6.15",
+"c" : "-0.15",
+"mc" : "1.18B",
+"cp" : "-2.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "26837369213470",
+"name" : "Shemaroo Entertainment Ltd",
+"t" : "SHEMAROO",
+"e" : "NSE",
+"l" : "527.00",
+"c" : "+2.55",
+"mc" : "14.39B",
+"cp" : "0.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715516",
+"name" : "Sahara One Media \u0026 Entertainment Ltd.",
+"t" : "503691",
+"e" : "BOM",
+"l" : "44.05",
+"c" : "0.00",
+"mc" : "948.18M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5919896",
+"name" : "New Delhi Television Limited",
+"t" : "NDTV",
+"e" : "NSE",
+"l" : "43.30",
+"c" : "0.00",
+"mc" : "2.80B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "135, Dr. Annie Besant Road, Worli, MUMBAI, 400013, India",
+"phone": "+91-22-71061234",
+"fax": "+91-22-23002107",
+"url": "http:\u002F\u002Fwww.zeetelevision.com",
+"overview" : "Zee Entertainment Enterprises Limited is a media and entertainment company engaged in providing broadcasting services. The Company operates through Content and Broadcasting segment. It offers content in multiple languages and offers approximately 38 international and over 30 domestic channels. The Company has a library, housing over 222,703 hours of television content. The Company holds rights to approximately 3,820 movie titles. The Company\u0027s brands include Zee TV, Zee Cinema, Zee Action, Zee Classic, Zee Anmol, Zee Cafe, Zee Studio, Zee Salaam, Zing, ETC Bollywood, Zee Q and Zindagi. The Company has a range of offering in the regional language domain with channels, such as Zee Marathi, Zee Talkies, Zee Bangla, Zee Bangla Cinema, Zee Telugu, Zee Kannada, Zee Tamil and Sarthak TV. It high definition offerings include Zee TV HD, Zee Cinema HD, \u0026tv HD, Zee Studio HD, Zee Cafe HD, \u0026pictures HD, Ten 1 HD and Ten Golf HD. The Company has operations in over 170 countries."
+} ]
+, "management" : [
+{
+"name" : "Punit Goenka",
+"age" : "42",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Bharat Kedia",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Amit Goenka",
+"title" : "Chief Executive Officer - International Broadcasting Businesses"
+}
+,
+{
+"name" : "Rajeev Kheror",
+"age" : "53",
+"title" : "President – Strategy \u0026 Planning, International Business"
+}
+,
+{
+"name" : "Rajesh Sethi",
+"age" : "46",
+"title" : "CEO – Distribution Business"
+}
+,
+{
+"name" : "M. Lakshminarayanan",
+"age" : "54",
+"title" : "Chief Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Anurag Bedi",
+"age" : "40",
+"title" : "Cluster Head, Niche Channels \u0026 Zee Music Company"
+}
+,
+{
+"name" : "Sunil Buch",
+"age" : "53",
+"title" : "Chief Business Officer"
+}
+,
+{
+"name" : "Rajendra Kumar Mehta",
+"age" : "47",
+"title" : "Chief People Officer"
+}
+,
+{
+"name" : "Rajneesh Mittal",
+"age" : "38",
+"title" : "Head - Information Technology"
+}
+]
+,"moreresources" : [
+]
+}]

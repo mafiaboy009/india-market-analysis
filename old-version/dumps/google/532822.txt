@@ -1,0 +1,284 @@
+
+// [
+{
+"symbol" : "532822",
+"exchange" : "BOM",
+"id": "712114",
+"t" : "532822",
+"e" : "BOM",
+"name" : "Idea Cellular Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532822"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532822"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532822"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-19.73%",
+"annual" : "-1.12%",
+"ttm" : "-11.67%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-14.10%",
+"annual" : "6.79%",
+"ttm" : "-5.11%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "28.79%",
+"ttm" : "22.35%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.45%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-1.66%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "11,784",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "0.00",
+"l" : "82.20",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "82.90",
+"hi" : "83.45",
+"lo" : "81.00",
+"vo" : "658,701.00",
+"avvo" : "",
+"hi52" : "123.75",
+"lo52" : "71.50",
+"mc" : "322.22B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-9.98",
+"dy" : "0.73",
+"ldiv" : "0.60",
+"shares" : "3.93B",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "712114",
+"name" : "Idea Cellular Ltd",
+"t" : "532822",
+"e" : "BOM",
+"l" : "82.20",
+"c" : "0.00",
+"mc" : "322.22B",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3626083",
+"name" : "Bharti Airtel Limited",
+"t" : "BHARTIARTL",
+"e" : "NSE",
+"l" : "423.00",
+"c" : "-2.55",
+"mc" : "1.69T",
+"cp" : "-0.60",
+"ccol" : "chr"
+}
+,
+{
+"id" : "9075590",
+"name" : "Reliance Communications Ltd",
+"t" : "RCOM",
+"e" : "NSE",
+"l" : "29.65",
+"c" : "+2.05",
+"mc" : "82.15B",
+"cp" : "7.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12104121",
+"name" : "Tanla Solutions Limited",
+"t" : "TANLA",
+"e" : "NSE",
+"l" : "32.50",
+"c" : "+1.05",
+"mc" : "3.65B",
+"cp" : "3.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1144011",
+"name" : "Mobile Telecommunications Ltd",
+"t" : "532127",
+"e" : "BOM",
+"l" : "2.71",
+"c" : "0.00",
+"mc" : "377.91M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9383828",
+"name" : "Megasoft Ltd",
+"t" : "MEGASOFT",
+"e" : "NSE",
+"l" : "13.70",
+"c" : "+0.10",
+"mc" : "606.46M",
+"cp" : "0.74",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12508695",
+"name" : "Spanco Ltd",
+"t" : "SPANCO",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-10.50",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12394962",
+"name" : "Jauss Polymers Ltd",
+"t" : "526001",
+"e" : "BOM",
+"l" : "25.05",
+"c" : "-0.30",
+"mc" : "115.87M",
+"cp" : "-1.18",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2208972",
+"name" : "XL Energy Ltd",
+"t" : "XLENERGY",
+"e" : "NSE",
+"l" : "2.80",
+"c" : "+0.10",
+"mc" : "61.49M",
+"cp" : "3.70",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8202974",
+"name" : "Tata Communications Limited",
+"t" : "TATACOMM",
+"e" : "NSE",
+"l" : "635.00",
+"c" : "-4.15",
+"mc" : "180.96B",
+"cp" : "-0.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12552817",
+"name" : "Tata Teleservices (Maharashtra) Limited",
+"t" : "TTML",
+"e" : "NSE",
+"l" : "6.40",
+"c" : "+0.25",
+"mc" : "12.51B",
+"cp" : "4.07",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Windsor\u0027, 5th Floor, Off CST Road Near Vidya Nagari, Kalina, Santacruz(E), MUMBAI, 400030, India",
+"url": "http:\u002F\u002Fwww.ideacellular.com\u002F",
+"overview" : "Idea Cellular Limited is an India-based company engaged in wireless telecommunication services. The Company operates in two business segments: Mobility Services, which provides global system for mobile communication (GSM) based mobile and related telephony services, and International Long Distance (ILD), which provides international long distance services. It is a mobile telecommunications operator offering voice, data and other value added services (VAS). It provides GSM-based second-generation (2G) services in approximately 20 service areas in India. The Company offers third generation (3G) services in over 20 service areas. It offers 3G services in over 10 service areas pursuant to spectrum allocated to it and in remaining service areas through intra-circle roaming (ICR) arrangements with other mobile telecommunication service providers. It also offers fourth generation (4G) services in over 10 service areas through 1800-megahertz (MHz) spectrum."
+} ]
+, "management" : [
+{
+"name" : "Akshaya Moondra",
+"title" : "Chief Financial Officer, Whole-Time Director"
+}
+,
+{
+"name" : "Pankaj Kapdeo",
+"title" : "Chief Compliance Officer, Secretary"
+}
+,
+{
+"name" : "Himanshu Kapania",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Kumar Mangalam Birla",
+"age" : "50",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Sanjeev Aga",
+"age" : "65",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Rajashree Birla",
+"age" : "72",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shridhir Sariputta Hansa Wijayasuriya",
+"age" : "49",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Alka Bharucha",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

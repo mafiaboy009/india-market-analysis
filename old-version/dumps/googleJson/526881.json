@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "526881",
+"exchange" : "BOM",
+"id": "703726",
+"t" : "526881",
+"e" : "BOM",
+"name" : "63 Moons Technologies Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:526881"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:526881"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:526881"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002708)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "62.94%",
+"annual" : "10.53%",
+"ttm" : "60.65%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "83.98%",
+"annual" : "-72.05%",
+"ttm" : "81.36%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-57.03%",
+"ttm" : "82.91%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.58%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.73%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "872",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.75",
+"l" : "95.70",
+"cp" : "1.86",
+"ccol" : "chg",
+"op" : "96.30",
+"hi" : "97.20",
+"lo" : "95.00",
+"vo" : "58,871.00",
+"avvo" : "",
+"hi52" : "166.00",
+"lo52" : "53.80",
+"mc" : "4.42B",
+"pe" : "0.52",
+"fwpe" : "",
+"beta" : "",
+"eps" : "182.61",
+"dy" : "2.09",
+"ldiv" : "2.00",
+"shares" : "46.08M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "703726",
+"name" : "63 Moons Technologies Ltd",
+"t" : "526881",
+"e" : "BOM",
+"l" : "95.70",
+"c" : "+1.75",
+"mc" : "4.42B",
+"cp" : "1.86",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6580161",
+"name" : "Mefcom Capital Markets Ltd",
+"t" : "531176",
+"e" : "BOM",
+"l" : "19.95",
+"c" : "-0.95",
+"mc" : "182.35M",
+"cp" : "-4.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4992931",
+"name" : "Alka Securities Ltd",
+"t" : "532166",
+"e" : "BOM",
+"l" : "0.52",
+"c" : "-0.02",
+"mc" : "49.89M",
+"cp" : "-3.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "272295776418103",
+"name" : "Multi Commodity Exchange of India Ltd.",
+"t" : "MCX",
+"e" : "NSE",
+"l" : "754.00",
+"c" : "+1.35",
+"mc" : "38.20B",
+"cp" : "0.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6394377",
+"name" : "Network Ltd",
+"t" : "523558",
+"e" : "BOM",
+"l" : "5.00",
+"c" : "0.00",
+"mc" : "245.74M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "9113181",
+"name" : "Geojit Financial Services Ltd",
+"t" : "GEOJITFSL",
+"e" : "NSE",
+"l" : "98.55",
+"c" : "+0.20",
+"mc" : "23.07B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+,
+{
+"id" : "16215470",
+"name" : "Aarya Global Shares and Securities Ltd",
+"t" : "531731",
+"e" : "BOM",
+"l" : "0.46",
+"c" : "0.00",
+"mc" : "9.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7083285",
+"name" : "BNK Capital Markets Ltd",
+"t" : "500069",
+"e" : "BOM",
+"l" : "110.00",
+"c" : "+1.35",
+"mc" : "1.09B",
+"cp" : "1.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "866934787507947",
+"name" : "BSE Ltd",
+"t" : "BSE",
+"e" : "NSE",
+"l" : "807.90",
+"c" : "+7.10",
+"mc" : "43.36B",
+"cp" : "0.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4379740",
+"name" : "JainCo Projects (India) Ltd",
+"t" : "526865",
+"e" : "BOM",
+"l" : "2.42",
+"c" : "0.00",
+"mc" : "24.20M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "675530",
+"name" : "Infosys Ltd",
+"t" : "INFY",
+"e" : "NSE",
+"l" : "1,139.95",
+"c" : "-15.70",
+"mc" : "2.48T",
+"cp" : "-1.36",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "FT Tower, CTS No. 256 \u0026 257 Suren Road, Chakala Andheri (East),, MUMBAI, 400093, India",
+"phone": "+91-22-66861010",
+"fax": "+91-22-66497151",
+"url": "http:\u002F\u002Fwww.63moons.com",
+"overview" : "63 moons technologies limited is engaged in providing computer programming, consultancy and related services. The Company\u0027s segments include STP Technologies\u002Fsolutions, Exchange based, Storage \u0026 Allied Services, and Others. Its STP Technologies\u002Fsolutions segment offers straight through processing solutions and includes an integrated mix of various products, projects and services incidental thereto. The Exchange Based segment offers trading platform for multi asset class, such as commodity, equity, equity derivatives and forex-based derivatives. The Storage and Allied services segment offers warehousing and collateral management services. The Others segment consists of various services towards trading, procurement, process management, risk consultancy activities, shared business support services, information technology infrastructure sharing, non-banking financial company (NBFC) related activities, Internet telecommunication services and training, certification and franchise fees."
+} ]
+, "management" : [
+{
+"name" : "S. Rajendran",
+"age" : "65",
+"title" : "Chief Executive Officer, Managing Director, Additional Director"
+}
+,
+{
+"name" : "Devendra Agrawal",
+"title" : "Chief Financial Officer, Whole Time Director"
+}
+,
+{
+"name" : "Hariraj S. Chouhan",
+"title" : "Vice President, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Prashant Desai",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Rajendra Mehta",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Paras Ajmera",
+"title" : "Director - Operations"
+}
+,
+{
+"name" : "Venkat R. Chary",
+"age" : "75",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Suresh Salvi",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sunil Shah",
+"title" : "Non-Independent Non-Executive Director"
+}
+,
+{
+"name" : "Deepak Verma",
+"title" : "Additional Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

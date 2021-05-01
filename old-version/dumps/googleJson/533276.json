@@ -1,0 +1,258 @@
+
+ [
+{
+"symbol" : "533276",
+"exchange" : "BOM",
+"id": "9000801",
+"t" : "533276",
+"e" : "BOM",
+"name" : "BS Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533276"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533276"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533276"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.49%",
+"annual" : "-17.56%",
+"ttm" : "1.77%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "6.17%",
+"annual" : "-13.45%",
+"ttm" : "6.63%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-10.88%",
+"ttm" : "8.27%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "2.57%",
+"annual" : "-14.91%",
+"ttm" : "2.83%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "11.45%",
+"annual" : "-82.02%",
+"ttm" : "12.05%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "412",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.01",
+"l" : "1.27",
+"cp" : "0.79",
+"ccol" : "chg",
+"op" : "1.26",
+"hi" : "1.30",
+"lo" : "1.25",
+"vo" : "58,074.00",
+"avvo" : "",
+"hi52" : "2.64",
+"lo52" : "1.10",
+"mc" : "556.49M",
+"pe" : "0.74",
+"fwpe" : "",
+"beta" : "",
+"eps" : "1.72",
+"dy" : "",
+"ldiv" : "",
+"shares" : "441.68M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "9000801",
+"name" : "BS Ltd",
+"t" : "533276",
+"e" : "BOM",
+"l" : "1.27",
+"c" : "+0.01",
+"mc" : "556.49M",
+"cp" : "0.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9747293",
+"name" : "Mukand Engineers Limited",
+"t" : "MUKANDENGG",
+"e" : "NSE",
+"l" : "42.75",
+"c" : "+0.90",
+"mc" : "538.11M",
+"cp" : "2.15",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4100224",
+"name" : "Om Metals Infraprojects Ltd.",
+"t" : "OMMETALS",
+"e" : "NSE",
+"l" : "62.35",
+"c" : "+0.50",
+"mc" : "5.99B",
+"cp" : "0.81",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15284677",
+"name" : "Kalpataru Power Transmission Limited",
+"t" : "KALPATPOWR",
+"e" : "NSE",
+"l" : "483.00",
+"c" : "+22.35",
+"mc" : "73.82B",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "28179114825360",
+"name" : "Sharika Enterprises Ltd",
+"t" : "540786",
+"e" : "BOM",
+"l" : "55.25",
+"c" : "+3.75",
+"mc" : "598.08M",
+"cp" : "7.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9964748",
+"name" : "Jyoti Structures Limited",
+"t" : "JYOTISTRUC",
+"e" : "NSE",
+"l" : "10.75",
+"c" : "+0.50",
+"mc" : "1.17B",
+"cp" : "4.88",
+"ccol" : "chg"
+}
+,
+{
+"id" : "189075724368911",
+"name" : "Tarini International Ltd",
+"t" : "538496",
+"e" : "BOM",
+"l" : "29.90",
+"c" : "0.00",
+"mc" : "388.64M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "631678",
+"name" : "Technofab Engineering",
+"t" : "TECHNOFAB",
+"e" : "NSE",
+"l" : "235.00",
+"c" : "+4.90",
+"mc" : "2.46B",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15510598",
+"name" : "KEC International Ltd",
+"t" : "KEC",
+"e" : "NSE",
+"l" : "427.70",
+"c" : "+26.45",
+"mc" : "109.76B",
+"cp" : "6.59",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15759472",
+"name" : "ICSA (India) Ltd",
+"t" : "ICSA",
+"e" : "NSE",
+"l" : "3.45",
+"c" : "+0.15",
+"mc" : "166.08M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "571281",
+"name" : "Premier Energy and Infrastructure Ltd",
+"t" : "533100",
+"e" : "BOM",
+"l" : "4.60",
+"c" : "0.00",
+"mc" : "190.21M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "#504, Trendset Towers Road No. 2, Banjara Hills, HYDERABAD, 500034, India",
+"phone": "+91-40-44558888",
+"fax": "+91-40-66667268",
+"url": "http:\u002F\u002Fwww.bsgroup.in\u002F",
+"overview" : "BS Limited is an infrastructure operator in power transmission and distribution, and telecom managed services. The Company operates through two segments: Engineering, Procurement and Construction (EPC) business, and Trading business. Its portfolio includes tower manufacturing, power EPC, managed services, technology solutions, renewable energy and mineral resources. The Company undertakes power transmission projects across India and offers services in design, testing, commissioning, manufacturing, sourcing, supply and construction. BS Limited FZE, which trades in power transmission materials and coal, and provides related engineering services\u003B and BS Global Resources Private Limited, a sourcing firm and interface with the global mineral resource trading markets, are the subsidiaries of the Company."
+} ]
+, "management" : [
+{
+"name" : "Rajesh Agrawal",
+"age" : "44",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Arun Dogra",
+"title" : "Compliance Officer, Whole Time Director"
+}
+,
+{
+"name" : "Dimple Kaul",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

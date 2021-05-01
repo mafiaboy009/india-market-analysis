@@ -1,0 +1,211 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 562496640,
+            "fmt": "562.5M",
+            "longFmt": "562,496,640"
+          },
+          "forwardPE": {},
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "floatShares": {
+            "raw": 3014128,
+            "fmt": "3.01M",
+            "longFmt": "3,014,128"
+          },
+          "sharesOutstanding": {
+            "raw": 11576700,
+            "fmt": "11.58M",
+            "longFmt": "11,576,700"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 0.639556,
+            "fmt": "0.64"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": -71.025,
+            "fmt": "-71.03"
+          },
+          "priceToBook": {},
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {},
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": -56223000,
+            "fmt": "-56.22M",
+            "longFmt": "-56,223,000"
+          },
+          "trailingEps": {
+            "raw": -4.626,
+            "fmt": "-4.63"
+          },
+          "forwardEps": {},
+          "pegRatio": {},
+          "lastSplitFactor": "5/2",
+          "lastSplitDate": {
+            "raw": 1170979200,
+            "fmt": "2007-02-09"
+          },
+          "enterpriseToRevenue": {
+            "raw": 7031.208,
+            "fmt": "7,031.21"
+          },
+          "enterpriseToEbitda": {
+            "raw": -14.786,
+            "fmt": "-14.79"
+          },
+          "52WeekChange": {
+            "raw": -0.43037975,
+            "fmt": "-43.04%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "summaryProfile": {
+          "address1": "Hapur Road",
+          "city": "Modinagar",
+          "zip": "201204",
+          "country": "India",
+          "phone": "91 11 4608 2222",
+          "website": "http://www.modipon.net",
+          "industry": "Agricultural Chemicals",
+          "sector": "Basic Materials",
+          "longBusinessSummary": "Modipon Limited focuses on the real estate business in India. The company was incorporated in 1965 and is based in Modinagar, India.",
+          "fullTimeEmployees": 5,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 22.5,
+            "fmt": "22.50"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {},
+          "recommendationKey": "none",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 24590000,
+            "fmt": "24.59M",
+            "longFmt": "24,590,000"
+          },
+          "totalCashPerShare": {
+            "raw": 2.132,
+            "fmt": "2.13"
+          },
+          "ebitda": {
+            "raw": -38043248,
+            "fmt": "-38.04M",
+            "longFmt": "-38,043,248"
+          },
+          "totalDebt": {
+            "raw": 253798000,
+            "fmt": "253.8M",
+            "longFmt": "253,798,000"
+          },
+          "quickRatio": {
+            "raw": 0.042,
+            "fmt": "0.04"
+          },
+          "currentRatio": {
+            "raw": 0.024,
+            "fmt": "0.02"
+          },
+          "totalRevenue": {
+            "raw": 80000,
+            "fmt": "80k",
+            "longFmt": "80,000"
+          },
+          "debtToEquity": {},
+          "revenuePerShare": {
+            "raw": 0.007,
+            "fmt": "0.01"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": -38000,
+            "fmt": "-38k",
+            "longFmt": "-38,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {},
+          "revenueGrowth": {},
+          "grossMargins": {
+            "raw": 0.525,
+            "fmt": "52.50%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "operatingMargins": {
+            "raw": -477.7375,
+            "fmt": "-47,773.75%"
+          },
+          "profitMargins": {
+            "raw": 0.0,
+            "fmt": "0.00%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

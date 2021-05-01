@@ -1,0 +1,295 @@
+
+ [
+{
+"symbol" : "526217",
+"exchange" : "BOM",
+"id": "1172104",
+"t" : "526217",
+"e" : "BOM",
+"name" : "Hitech Corporation Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:526217"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:526217"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:526217"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "0.41%",
+"annual" : "2.93%",
+"ttm" : "1.33%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.10%",
+"annual" : "5.27%",
+"ttm" : "4.47%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "8.49%",
+"ttm" : "8.58%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.80%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.87%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "743",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.30",
+"l" : "155.80",
+"cp" : "-0.19",
+"ccol" : "chr",
+"op" : "157.55",
+"hi" : "160.00",
+"lo" : "155.80",
+"vo" : "199.00",
+"avvo" : "",
+"hi52" : "235.80",
+"lo52" : "149.60",
+"mc" : "2.69B",
+"pe" : "50.30",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.10",
+"dy" : "0.58",
+"ldiv" : "0.90",
+"shares" : "17.18M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "1172104",
+"name" : "Hitech Corporation Ltd",
+"t" : "526217",
+"e" : "BOM",
+"l" : "155.80",
+"c" : "-0.30",
+"mc" : "2.69B",
+"cp" : "-0.19",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6521682",
+"name" : "Pearl Polymers Ltd",
+"t" : "PEARLPOLY",
+"e" : "NSE",
+"l" : "30.05",
+"c" : "-0.95",
+"mc" : "505.89M",
+"cp" : "-3.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "711202514619087",
+"name" : "Mitsu Chem Plast Ltd",
+"t" : "540078",
+"e" : "BOM",
+"l" : "154.00",
+"c" : "0.00",
+"mc" : "542.85M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6391892",
+"name" : "Swadeshi Industries \u0026 Leasing Ltd",
+"t" : "506863",
+"e" : "BOM",
+"l" : "1.30",
+"c" : "0.00",
+"mc" : "140.63M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7627463",
+"name" : "Oricon Enterprises Ltd",
+"t" : "513121",
+"e" : "BOM",
+"l" : "61.90",
+"c" : "-0.35",
+"mc" : "9.73B",
+"cp" : "-0.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2688707",
+"name" : "Manjushree Technopack Ltd",
+"t" : "MANJUSHREE",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "13191887",
+"name" : "Mold Tek Packaging Ltd",
+"t" : "533080",
+"e" : "BOM",
+"l" : "319.60",
+"c" : "-1.80",
+"mc" : "8.86B",
+"cp" : "-0.56",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14543566",
+"name" : "Tokyo Plast International Ltd",
+"t" : "TOKYOPLAST",
+"e" : "NSE",
+"l" : "110.00",
+"c" : "+0.15",
+"mc" : "1.03B",
+"cp" : "0.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13137259",
+"name" : "Time Technoplast Limited",
+"t" : "TIMETECHNO",
+"e" : "NSE",
+"l" : "182.20",
+"c" : "-1.15",
+"mc" : "41.40B",
+"cp" : "-0.63",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12386053",
+"name" : "WIM Plast Ltd",
+"t" : "526586",
+"e" : "BOM",
+"l" : "1,150.00",
+"c" : "+3.90",
+"mc" : "13.88B",
+"cp" : "0.34",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7356167",
+"name" : "Kabra Extrusion Technik Limited",
+"t" : "KABRAEXTRU",
+"e" : "NSE",
+"l" : "126.25",
+"c" : "+0.45",
+"mc" : "4.00B",
+"cp" : "0.36",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "Welspun House, 2nd Floor Kamla City (Kamla Mills),Senapti Bpt Rd Lower Parel (W), MUMBAI, 400013, India",
+"phone": "+91-22-40016500",
+"fax": "+91-22-24955657",
+"overview" : "Hitech Corporation Limited, formerly Hitech Plast Limited, is engaged in manufacturing of packaging products of plastics. The Company operates through Plastic Containers segment. The Company is also a manufacturer of paint pails\u002Fcontainers. It is engaged in the manufacture and sale of polymer products to industries, such as paint, personal care, agro chemicals, healthcare, confectionary, lube and retail household products. Its products include paints, fast-moving consumer goods (FMCG), adhesives and construction chemicals, engineering components and innovations, and toys and games. The Company\u0027s services include creative services, decorating services and technical services. It provides support for a range of alternative decorating options, including pad printing, heat transfer labels, shrink sleeves, screen printing, and hot stamping and labeling. Its technical services include injection blow molding, injection stretch blow molding, extrusion blow molding and injection molding."
+} ]
+, "management" : [
+{
+"name" : "Ashok K. Goyal",
+"age" : "61",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "Bharat I. Gosalia",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Baskaran Nadar",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Namita Tiwari",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Malav A. Dani",
+"age" : "41",
+"title" : "Joint Managing Director, Non-Executive Director"
+}
+,
+{
+"name" : "Rajiv T. Gandhe",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Ashwin S. Dani",
+"age" : "75",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Venkatapathiah Srinivasa Murthy Arkalgud",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Mehernosh Adi Mehta",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Jalaj Ashwin Dani",
+"age" : "44",
+"title" : "Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

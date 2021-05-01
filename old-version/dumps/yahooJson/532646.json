@@ -1,0 +1,365 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 11889047552,
+            "fmt": "11.89B",
+            "longFmt": "11,889,047,552"
+          },
+          "forwardPE": {
+            "raw": 38.742332,
+            "fmt": "38.74"
+          },
+          "profitMargins": {
+            "raw": 0.06486,
+            "fmt": "6.49%"
+          },
+          "floatShares": {
+            "raw": 8214995,
+            "fmt": "8.21M",
+            "longFmt": "8,214,995"
+          },
+          "sharesOutstanding": {
+            "raw": 23907200,
+            "fmt": "23.91M",
+            "longFmt": "23,907,200"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": -2.567321,
+            "fmt": "-2.57"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 68.991,
+            "fmt": "68.99"
+          },
+          "priceToBook": {
+            "raw": 6.4073577,
+            "fmt": "6.41"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.653,
+            "fmt": "65.30%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 241295104,
+            "fmt": "241.3M",
+            "longFmt": "241,295,104"
+          },
+          "trailingEps": {
+            "raw": 10.401,
+            "fmt": "10.40"
+          },
+          "forwardEps": {
+            "raw": 11.41,
+            "fmt": "11.41"
+          },
+          "pegRatio": {},
+          "lastSplitFactor": null,
+          "lastSplitDate": {},
+          "enterpriseToRevenue": {
+            "raw": 3.196,
+            "fmt": "3.20"
+          },
+          "enterpriseToEbitda": {
+            "raw": 19.31,
+            "fmt": "19.31"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.12668931,
+            "fmt": "12.67%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "actual": {
+                  "raw": 1.9,
+                  "fmt": "1.90"
+                },
+                "estimate": {
+                  "raw": 1.05,
+                  "fmt": "1.05"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 3.55,
+                  "fmt": "3.55"
+                },
+                "estimate": {
+                  "raw": 2.35,
+                  "fmt": "2.35"
+                }
+              }
+            ],
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 1460332239,
+                  "fmt": "1.46B",
+                  "longFmt": "1,460,332,239"
+                },
+                "earnings": {
+                  "raw": -29488054,
+                  "fmt": "-29.49M",
+                  "longFmt": "-29,488,054"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 1074125278,
+                  "fmt": "1.07B",
+                  "longFmt": "1,074,125,278"
+                },
+                "earnings": {
+                  "raw": 3887177,
+                  "fmt": "3.89M",
+                  "longFmt": "3,887,177"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 1356871730,
+                  "fmt": "1.36B",
+                  "longFmt": "1,356,871,730"
+                },
+                "earnings": {
+                  "raw": 37920451,
+                  "fmt": "37.92M",
+                  "longFmt": "37,920,451"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 2746990596,
+                  "fmt": "2.75B",
+                  "longFmt": "2,746,990,596"
+                },
+                "earnings": {
+                  "raw": 132742101,
+                  "fmt": "132.74M",
+                  "longFmt": "132,742,101"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 1012444596,
+                  "fmt": "1.01B",
+                  "longFmt": "1,012,444,596"
+                },
+                "earnings": {
+                  "raw": 37368101,
+                  "fmt": "37.37M",
+                  "longFmt": "37,368,101"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 770480000,
+                  "fmt": "770.48M",
+                  "longFmt": "770,480,000"
+                },
+                "earnings": {
+                  "raw": 57599000,
+                  "fmt": "57.6M",
+                  "longFmt": "57,599,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 912072000,
+                  "fmt": "912.07M",
+                  "longFmt": "912,072,000"
+                },
+                "earnings": {
+                  "raw": 61450000,
+                  "fmt": "61.45M",
+                  "longFmt": "61,450,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 1025030000,
+                  "fmt": "1.03B",
+                  "longFmt": "1,025,030,000"
+                },
+                "earnings": {
+                  "raw": 84878000,
+                  "fmt": "84.88M",
+                  "longFmt": "84,878,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "No. 204, The Summit Business Bay",
+          "address2": "Level - 2 St. Janabai Road Near Western Express Highway, Vile Parle - (East)",
+          "city": "Mumbai",
+          "zip": "400057",
+          "country": "India",
+          "phone": "91 222 6100 0647",
+          "website": "http://www.uniply.in",
+          "industry": "Lumber, Wood Production",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Uniply Industries Limited manufactures and sells plywood and panel products in India and internationally. It offers veneer, plywood, and boards, as well as doors. The company offers its products primarily under the Uniply brand. Uniply Industries Limited was founded in 1996 and is based in Mumbai, India.",
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 442.05,
+            "fmt": "442.05"
+          },
+          "targetHighPrice": {},
+          "targetLowPrice": {},
+          "targetMeanPrice": {},
+          "targetMedianPrice": {},
+          "recommendationMean": {
+            "raw": 2.0,
+            "fmt": "2.00"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {},
+          "totalCash": {
+            "raw": 707921984,
+            "fmt": "707.92M",
+            "longFmt": "707,921,984"
+          },
+          "totalCashPerShare": {
+            "raw": 29.609,
+            "fmt": "29.61"
+          },
+          "ebitda": {
+            "raw": 615681664,
+            "fmt": "615.68M",
+            "longFmt": "615,681,664"
+          },
+          "totalDebt": {
+            "raw": 3273540096,
+            "fmt": "3.27B",
+            "longFmt": "3,273,540,096"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 3720026624,
+            "fmt": "3.72B",
+            "longFmt": "3,720,026,624"
+          },
+          "debtToEquity": {
+            "raw": 198.443,
+            "fmt": "198.44"
+          },
+          "revenuePerShare": {
+            "raw": 160.354,
+            "fmt": "160.35"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 855135860,
+            "fmt": "855.14M",
+            "longFmt": "855,135,860"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.461,
+            "fmt": "46.10%"
+          },
+          "revenueGrowth": {
+            "raw": 0.183,
+            "fmt": "18.30%"
+          },
+          "grossMargins": {
+            "raw": 0.32933998,
+            "fmt": "32.93%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.16549999,
+            "fmt": "16.55%"
+          },
+          "operatingMargins": {
+            "raw": 0.15553,
+            "fmt": "15.55%"
+          },
+          "profitMargins": {
+            "raw": 0.06486,
+            "fmt": "6.49%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

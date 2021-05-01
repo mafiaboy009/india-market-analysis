@@ -1,0 +1,279 @@
+
+ [
+{
+"symbol" : "533321",
+"exchange" : "BOM",
+"id": "2073891",
+"t" : "533321",
+"e" : "BOM",
+"name" : "Bil Energy Systems Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:533321"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:533321"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:533321"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-12.35%",
+"annual" : "-0.04%",
+"ttm" : "-7.60%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-28.24%",
+"annual" : "-10.02%",
+"ttm" : "-26.05%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "2.87%",
+"ttm" : "-7.97%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-0.01%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-0.05%",
+"ttm" : ""
+}
+]
+, "c" : "-0.06",
+"l" : "1.20",
+"cp" : "-4.76",
+"ccol" : "chr",
+"op" : "1.32",
+"hi" : "1.32",
+"lo" : "1.20",
+"vo" : "516,872.00",
+"avvo" : "",
+"hi52" : "2.04",
+"lo52" : "0.32",
+"mc" : "271.82M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.08",
+"dy" : "",
+"ldiv" : "",
+"shares" : "211.42M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "2073891",
+"name" : "Bil Energy Systems Ltd",
+"t" : "533321",
+"e" : "BOM",
+"l" : "1.20",
+"c" : "-0.06",
+"mc" : "271.82M",
+"cp" : "-4.76",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7103082",
+"name" : "Sacheta Metals Ltd",
+"t" : "531869",
+"e" : "BOM",
+"l" : "48.00",
+"c" : "+1.00",
+"mc" : "909.12M",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5537331",
+"name" : "Hawkins Cooker Ltd",
+"t" : "508486",
+"e" : "BOM",
+"l" : "2,890.70",
+"c" : "+85.00",
+"mc" : "15.32B",
+"cp" : "3.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13770462",
+"name" : "TTK Prestige Limited (Parent)",
+"t" : "TTKPRESTIG",
+"e" : "NSE",
+"l" : "7,000.00",
+"c" : "-107.10",
+"mc" : "80.66B",
+"cp" : "-1.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5996806",
+"name" : "Rasandik Engineering Industres India Ltd",
+"t" : "522207",
+"e" : "BOM",
+"l" : "192.00",
+"c" : "-8.75",
+"mc" : "897.14M",
+"cp" : "-4.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "554964",
+"name" : "Jindal Saw Limited",
+"t" : "JINDALSAW",
+"e" : "NSE",
+"l" : "142.25",
+"c" : "+3.55",
+"mc" : "45.73B",
+"cp" : "2.56",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6289026",
+"name" : "Uttam Value Steels Ltd",
+"t" : "UVSL",
+"e" : "NSE",
+"l" : "0.20",
+"c" : "-0.05",
+"mc" : "1.32B",
+"cp" : "-20.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "809826253821993",
+"name" : "Sarthak Metals Ltd",
+"t" : "540393",
+"e" : "BOM",
+"l" : "58.10",
+"c" : "0.00",
+"mc" : "795.37M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "189631",
+"name" : "Yashraj Containeurs Ltd",
+"t" : "530063",
+"e" : "BOM",
+"l" : "3.00",
+"c" : "0.00",
+"mc" : "51.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13156473",
+"name" : "Transformers \u0026 Rectifiers (India) Ltd.",
+"t" : "TRIL",
+"e" : "NSE",
+"l" : "31.60",
+"c" : "+0.75",
+"mc" : "4.18B",
+"cp" : "2.43",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2530422",
+"name" : "Cosmo Ferrites Ltd",
+"t" : "523100",
+"e" : "BOM",
+"l" : "26.00",
+"c" : "+1.20",
+"mc" : "312.78M",
+"cp" : "4.84",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "201-204, Vikas Chamber Junction of Link and Marve Road Mith Chowky, Malad (West), MUMBAI, 400064, India",
+"phone": "+91-22-40897777",
+"fax": "+91-22-28811225",
+"url": "http:\u002F\u002Fwww.bilenergy.com\u002F",
+"overview" : "Bil Energy Systems Limited provides electrical steel products and other steel products. The Company\u0027s products\u002Fservices include Electrical Lamination, Electrical Sheets, and Iron and Steel. It manufactures stamping rotating machines, and transformer core and laminations. It offers circular stampings up to 1,400-millimeter diameter and segmental stampings of width up to 1,250 millimeters with focused end products for alternators (domestic\u002Findustrial), motors, wind mill generators, hydro generators, turbo generators, compressors for air conditioners and refrigerators, alternate current\u002Fdirect current motors for agriculture pumps, fans, computer transformers and ballasts. It also offers IEC frame tools to manufacture circular stampings. It manufactures transformer cores and laminations in various shapes and sizes up to 1,000 millimeter width and also rectangular shaped cores with or without holes. It also supplies rotors, which are either loose wire tied, welded or aluminum die-casted."
+} ]
+, "management" : [
+{
+"name" : "Rajendra kumar Anandilal Choudhary",
+"age" : "55",
+"title" : "Chief Financial Officer, Chief Compliance Officer, Executive Director"
+}
+,
+{
+"name" : "Lalit Laxiram Agarwal",
+"title" : "Managing Director, Director"
+}
+,
+{
+"name" : "Astha Rathi",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Kiren Shrivastav",
+"title" : "Women Director"
+}
+,
+{
+"name" : "Naresh Kumar Choudhary",
+"age" : "55",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Suresh Kumar Anandilal Choudhary",
+"age" : "57",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "M. K. Sugathan",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Sugathan Mudakarapillil Kesavan",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,418 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 206280835072,
+            "fmt": "206.28B",
+            "longFmt": "206,280,835,072"
+          },
+          "forwardPE": {
+            "raw": 30.673548,
+            "fmt": "30.67"
+          },
+          "profitMargins": {
+            "raw": 0.08925,
+            "fmt": "8.92%"
+          },
+          "floatShares": {
+            "raw": 239538585,
+            "fmt": "239.54M",
+            "longFmt": "239,538,585"
+          },
+          "sharesOutstanding": {
+            "raw": 330884992,
+            "fmt": "330.88M",
+            "longFmt": "330,884,992"
+          },
+          "sharesShort": {},
+          "sharesShortPriorMonth": {},
+          "sharesShortPreviousMonthDate": {},
+          "dateShortInterest": {},
+          "sharesPercentSharesOut": {},
+          "heldPercentInsiders": {},
+          "heldPercentInstitutions": {},
+          "shortRatio": {},
+          "shortPercentOfFloat": {},
+          "beta": {
+            "raw": 1.73824,
+            "fmt": "1.74"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 106.978,
+            "fmt": "106.98"
+          },
+          "priceToBook": {
+            "raw": 5.2786555,
+            "fmt": "5.28"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1490918400,
+            "fmt": "2017-03-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1553990400,
+            "fmt": "2019-03-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1514678400,
+            "fmt": "2017-12-31"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": 0.241,
+            "fmt": "24.10%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 5703891968,
+            "fmt": "5.7B",
+            "longFmt": "5,703,891,968"
+          },
+          "trailingEps": {
+            "raw": 17.244,
+            "fmt": "17.24"
+          },
+          "forwardEps": {
+            "raw": 18.41,
+            "fmt": "18.41"
+          },
+          "pegRatio": {
+            "raw": 1.12,
+            "fmt": "1.12"
+          },
+          "lastSplitFactor": "10/1",
+          "lastSplitDate": {
+            "raw": 1158883200,
+            "fmt": "2006-09-22"
+          },
+          "enterpriseToRevenue": {
+            "raw": 3.228,
+            "fmt": "3.23"
+          },
+          "enterpriseToEbitda": {
+            "raw": 30.438,
+            "fmt": "30.44"
+          },
+          "52WeekChange": {
+            "raw": "Infinity",
+            "fmt": "\u00e2\u02c6\u017e%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.17201865,
+            "fmt": "17.20%"
+          },
+          "lastDividendValue": {},
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        },
+        "earnings": {
+          "maxAge": 86400,
+          "earningsChart": {
+            "quarterly": [
+              {
+                "date": "2Q2016",
+                "actual": {
+                  "raw": 4.73,
+                  "fmt": "4.73"
+                },
+                "estimate": {
+                  "raw": 3.7,
+                  "fmt": "3.70"
+                }
+              },
+              {
+                "date": "3Q2016",
+                "actual": {
+                  "raw": 2.18,
+                  "fmt": "2.18"
+                },
+                "estimate": {
+                  "raw": 1.88,
+                  "fmt": "1.88"
+                }
+              },
+              {
+                "date": "4Q2016",
+                "actual": {
+                  "raw": 2.42,
+                  "fmt": "2.42"
+                },
+                "estimate": {
+                  "raw": 1.8,
+                  "fmt": "1.80"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "actual": {
+                  "raw": 3.01,
+                  "fmt": "3.01"
+                },
+                "estimate": {
+                  "raw": 3.06,
+                  "fmt": "3.06"
+                }
+              }
+            ],
+            "currentQuarterEstimate": {
+              "raw": 6.22,
+              "fmt": "6.22"
+            },
+            "currentQuarterEstimateDate": "1Q",
+            "currentQuarterEstimateYear": 2018
+          },
+          "financialsChart": {
+            "yearly": [
+              {
+                "date": 2014,
+                "revenue": {
+                  "raw": 52660449000,
+                  "fmt": "52.66B",
+                  "longFmt": "52,660,449,000"
+                },
+                "earnings": {
+                  "raw": 2453571000,
+                  "fmt": "2.45B",
+                  "longFmt": "2,453,571,000"
+                }
+              },
+              {
+                "date": 2015,
+                "revenue": {
+                  "raw": 51830866000,
+                  "fmt": "51.83B",
+                  "longFmt": "51,830,866,000"
+                },
+                "earnings": {
+                  "raw": 3843369000,
+                  "fmt": "3.84B",
+                  "longFmt": "3,843,369,000"
+                }
+              },
+              {
+                "date": 2016,
+                "revenue": {
+                  "raw": 57198051000,
+                  "fmt": "57.2B",
+                  "longFmt": "57,198,051,000"
+                },
+                "earnings": {
+                  "raw": 3870932000,
+                  "fmt": "3.87B",
+                  "longFmt": "3,870,932,000"
+                }
+              },
+              {
+                "date": 2017,
+                "revenue": {
+                  "raw": 60328040000,
+                  "fmt": "60.33B",
+                  "longFmt": "60,328,040,000"
+                },
+                "earnings": {
+                  "raw": 5089992000,
+                  "fmt": "5.09B",
+                  "longFmt": "5,089,992,000"
+                }
+              }
+            ],
+            "quarterly": [
+              {
+                "date": "1Q2017",
+                "revenue": {
+                  "raw": 20350640000,
+                  "fmt": "20.35B",
+                  "longFmt": "20,350,640,000"
+                },
+                "earnings": {
+                  "raw": 1990792000,
+                  "fmt": "1.99B",
+                  "longFmt": "1,990,792,000"
+                }
+              },
+              {
+                "date": "2Q2017",
+                "revenue": {
+                  "raw": 19446200000,
+                  "fmt": "19.45B",
+                  "longFmt": "19,446,200,000"
+                },
+                "earnings": {
+                  "raw": 1856400000,
+                  "fmt": "1.86B",
+                  "longFmt": "1,856,400,000"
+                }
+              },
+              {
+                "date": "3Q2017",
+                "revenue": {
+                  "raw": 10367100000,
+                  "fmt": "10.37B",
+                  "longFmt": "10,367,100,000"
+                },
+                "earnings": {
+                  "raw": 946300000,
+                  "fmt": "946.3M",
+                  "longFmt": "946,300,000"
+                }
+              },
+              {
+                "date": "4Q2017",
+                "revenue": {
+                  "raw": 13746700000,
+                  "fmt": "13.75B",
+                  "longFmt": "13,746,700,000"
+                },
+                "earnings": {
+                  "raw": 994800000,
+                  "fmt": "994.8M",
+                  "longFmt": "994,800,000"
+                }
+              }
+            ]
+          },
+          "financialCurrency": "INR"
+        },
+        "summaryProfile": {
+          "address1": "Voltas House",
+          "address2": "A Block Dr. Babasaheb Ambedkar Road Chinchpokli",
+          "city": "Mumbai",
+          "zip": "400033",
+          "country": "India",
+          "phone": "91 22 6665 6666",
+          "fax": "91 22 6665 6311",
+          "website": "http://www.voltas.com",
+          "industry": "Diversified Machinery",
+          "sector": "Industrial Goods",
+          "longBusinessSummary": "Voltas Limited operates as an air conditioning (AC) and engineering company in India, the Middle East, and internationally. It operates through Electro-Mechanical Projects and Services, Engineering Products and Services, and Unitary Cooling Products for Comfort and Commercial Use segments. The company provides engineering, procurement, and construction contracting services for mechanical, electrical, and plumbing projects; and wastewater and sewage treatment services. It also manufactures water/wastewater/sewage treatment equipment, such as fixed and floating surface aerators, API oil separators, bridge/column mounted clarifiers, dissolved air flotation units, grit removal mechanisms, screens, reactor clarifiers, sludge thickeners, and screw pumps. In addition, the company offers mining and construction equipment, including loaders, dumpers, dump trucks, OTR tires, brakes, clutches, transmissions, fluid dispensing products and systems, electric rope excavators, gas detectors, and underground mine ventilation fans; minerals-processing-systems, paving and grading equipment, mobile mixers, and concrete optimizers; and stationary and mobile crushing plants and equipment, conveyors, screening system and equipment, ore washing systems, and parts. Further, it provides textile spinning, weaving, knitting, processing, and finishing machinery, as well as non-woven and technical textiles equipment, and accessories; heating, ventilation, AC, and refrigeration equipment, such as packaged and ductable split AC units, variable refrigerant flow systems, chillers and condensing units, vapor absorption machines, indoor air quality systems, STP/kitchen exhaust systems, UVGI systems, and air handling units; split system air conditioners; and commercial refrigeration products, and water coolers and dispensers. Voltas Limited was founded in 1954 and is headquartered in Mumbai, India.",
+          "fullTimeEmployees": 2845,
+          "companyOfficers": [],
+          "maxAge": 86400
+        },
+        "financialData": {
+          "maxAge": 86400,
+          "currentPrice": {
+            "raw": 564.7,
+            "fmt": "564.70"
+          },
+          "targetHighPrice": {
+            "raw": 795.0,
+            "fmt": "795.00"
+          },
+          "targetLowPrice": {
+            "raw": 425.0,
+            "fmt": "425.00"
+          },
+          "targetMeanPrice": {
+            "raw": 641.86,
+            "fmt": "641.86"
+          },
+          "targetMedianPrice": {
+            "raw": 647.5,
+            "fmt": "647.50"
+          },
+          "recommendationMean": {
+            "raw": 2.4,
+            "fmt": "2.40"
+          },
+          "recommendationKey": "buy",
+          "numberOfAnalystOpinions": {
+            "raw": 36,
+            "fmt": "36",
+            "longFmt": "36"
+          },
+          "totalCash": {
+            "raw": 3043099904,
+            "fmt": "3.04B",
+            "longFmt": "3,043,099,904"
+          },
+          "totalCashPerShare": {
+            "raw": 9.208,
+            "fmt": "9.21"
+          },
+          "ebitda": {
+            "raw": 6777020416,
+            "fmt": "6.78B",
+            "longFmt": "6,777,020,416"
+          },
+          "totalDebt": {
+            "raw": 1655299968,
+            "fmt": "1.66B",
+            "longFmt": "1,655,299,968"
+          },
+          "quickRatio": {},
+          "currentRatio": {},
+          "totalRevenue": {
+            "raw": 63910641664,
+            "fmt": "63.91B",
+            "longFmt": "63,910,641,664"
+          },
+          "debtToEquity": {
+            "raw": 4.638,
+            "fmt": "4.64"
+          },
+          "revenuePerShare": {
+            "raw": 193.213,
+            "fmt": "193.21"
+          },
+          "returnOnAssets": {},
+          "returnOnEquity": {},
+          "grossProfits": {
+            "raw": 17885028000,
+            "fmt": "17.89B",
+            "longFmt": "17,885,028,000"
+          },
+          "freeCashflow": {},
+          "operatingCashflow": {},
+          "earningsGrowth": {
+            "raw": 0.244,
+            "fmt": "24.40%"
+          },
+          "revenueGrowth": {
+            "raw": 0.164,
+            "fmt": "16.40%"
+          },
+          "grossMargins": {
+            "raw": 0.28651,
+            "fmt": "28.65%"
+          },
+          "ebitdaMargins": {
+            "raw": 0.10604,
+            "fmt": "10.60%"
+          },
+          "operatingMargins": {
+            "raw": 0.10288999,
+            "fmt": "10.29%"
+          },
+          "profitMargins": {
+            "raw": 0.08925,
+            "fmt": "8.92%"
+          },
+          "financialCurrency": "INR"
+        }
+      }
+    ],
+    "error": null
+  }
+}

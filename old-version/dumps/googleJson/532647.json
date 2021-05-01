@@ -1,0 +1,285 @@
+
+ [
+{
+"symbol" : "532647",
+"exchange" : "BOM",
+"id": "700523",
+"t" : "532647",
+"e" : "BOM",
+"name" : "Provogue (India) Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532647"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532647"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532647"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "",
+"annual" : "-73.64%",
+"ttm" : ""
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "",
+"annual" : "-59.94%",
+"ttm" : ""
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-57.85%",
+"ttm" : ""
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-32.54%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-77.25%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "235",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.14",
+"l" : "5.75",
+"cp" : "-2.38",
+"ccol" : "chr",
+"op" : "6.13",
+"hi" : "6.13",
+"lo" : "5.70",
+"vo" : "34,436.00",
+"avvo" : "",
+"hi52" : "11.11",
+"lo52" : "3.80",
+"mc" : "1.34B",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "",
+"dy" : "",
+"ldiv" : "",
+"shares" : "233.38M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "700523",
+"name" : "Provogue (India) Limited",
+"t" : "532647",
+"e" : "BOM",
+"l" : "5.75",
+"c" : "-0.14",
+"mc" : "1.34B",
+"cp" : "-2.38",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2756720",
+"name" : "Cantabil Retail India Limited",
+"t" : "CANTABIL",
+"e" : "NSE",
+"l" : "137.00",
+"c" : "+8.30",
+"mc" : "2.24B",
+"cp" : "6.45",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7956742",
+"name" : "Page Industries Limited",
+"t" : "PAGEIND",
+"e" : "NSE",
+"l" : "22,300.00",
+"c" : "-505.20",
+"mc" : "247.44B",
+"cp" : "-2.22",
+"ccol" : "chr"
+}
+,
+{
+"id" : "14671517",
+"name" : "Arrow Textiles Ltd",
+"t" : "ARROWTEX",
+"e" : "NSE",
+"l" : "40.10",
+"c" : "-0.75",
+"mc" : "769.31M",
+"cp" : "-1.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "11965403",
+"name" : "Aarvee Denims \u0026 Exports Ltd.",
+"t" : "AARVEEDEN",
+"e" : "NSE",
+"l" : "49.10",
+"c" : "-0.35",
+"mc" : "1.15B",
+"cp" : "-0.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7571332",
+"name" : "Evinix Industries Ltd",
+"t" : "EVINIX",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-0.60",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2411574",
+"name" : "Celebrity Fashions Limited",
+"t" : "CELEBRITY",
+"e" : "NSE",
+"l" : "19.55",
+"c" : "+0.80",
+"mc" : "820.31M",
+"cp" : "4.27",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13987133",
+"name" : "Gokaldas Exports Ltd.",
+"t" : "GOKEX",
+"e" : "NSE",
+"l" : "94.75",
+"c" : "-1.20",
+"mc" : "3.31B",
+"cp" : "-1.25",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3264795",
+"name" : "Meyer Apparel Ltd",
+"t" : "531613",
+"e" : "BOM",
+"l" : "3.62",
+"c" : "+0.16",
+"mc" : "291.40M",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13340468",
+"name" : "Sudar Industries Ltd",
+"t" : "SUDAR",
+"e" : "NSE",
+"l" : "0.95",
+"c" : "",
+"mc" : "21.38M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "523577665595574",
+"name" : "Momai Apparels Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "105\u002F106, 1ST FLOOR OFF NEW LINK ROAD, DREAM SQUARE ANDHERI WEST, MUMBAI, 400053, India",
+"phone": "+91-22-30680560",
+"fax": "+91-22-30680570",
+"url": "http:\u002F\u002Fcorporate.provogue.com\u002Fabout-us.html\u002F",
+"overview" : "Provogue (India) Limited is engaged in manufacturing of wearing apparel except for apparel. The Company\u0027s segments include Domestic and Exports. The Company offers shirts, t-shirts, jackets, suits and blazers, sweaters and sweatshirts, jeans, trousers and chinos, shorts, socks, sunglasses, shoes and trainers, and hoodies and sweatshirts. The Company offers dresses, shirts and blouses, and t-shirts and knitted tops for women. It also offers accessories for men and women, and men fragrances. It is a manufacturer and retailer of apparel under the brand Provogue. The Company retails its products through Provogue Stores and by opening shop-in-shop outlets in national chain stores (NCS) and multi brand outlets (MBO). The Company\u0027s subsidiaries include Millennium Accessories Limited, Provogue Infrastructure Private Limited, Acme Advertisements Private Limited, Proskins Fashions Private Limited and Brightland Developers Private Limited, among others."
+} ]
+, "management" : [
+{
+"name" : "Nikhil A Chaturvedi",
+"title" : "Chief Executive Officer, Managing Director, Executive Director"
+}
+,
+{
+"name" : "Deep S. Gupta",
+"age" : "47",
+"title" : "Chief Financial Officer, Whole Time Director"
+}
+,
+{
+"name" : "Vishant Shetty",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Salil Chaturvedi",
+"title" : "Deputy Managing Director, Executive Director"
+}
+,
+{
+"name" : "Akhil A. Chaturvedi",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Nigam A. Patel",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Dinesh Arya",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Hetal Hakani",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Gauri Sanjay Pote",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

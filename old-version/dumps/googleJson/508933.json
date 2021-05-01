@@ -1,0 +1,269 @@
+
+ [
+{
+"symbol" : "508933",
+"exchange" : "BOM",
+"id": "12923600",
+"t" : "508933",
+"e" : "BOM",
+"name" : "AYM Syntex Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=WLSY.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:508933"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:508933"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:508933"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.11%",
+"annual" : "5.10%",
+"ttm" : "1.53%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "4.10%",
+"annual" : "8.51%",
+"ttm" : "3.97%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.36%",
+"ttm" : "7.85%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "7.06%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "18.74%",
+"ttm" : ""
+}
+]
+, "c" : "+0.90",
+"l" : "68.50",
+"cp" : "1.33",
+"ccol" : "chg",
+"op" : "68.05",
+"hi" : "69.35",
+"lo" : "66.00",
+"vo" : "8,036.00",
+"avvo" : "",
+"hi52" : "87.15",
+"lo52" : "52.55",
+"mc" : "2.69B",
+"pe" : "20.93",
+"fwpe" : "",
+"beta" : "",
+"eps" : "3.27",
+"dy" : "",
+"ldiv" : "",
+"shares" : "39.24M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "12923600",
+"name" : "AYM Syntex Ltd",
+"t" : "508933",
+"e" : "BOM",
+"l" : "68.50",
+"c" : "+0.90",
+"mc" : "2.69B",
+"cp" : "1.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11730081",
+"name" : "Sumeet Industries Ltd",
+"t" : "SUMEETINDS",
+"e" : "NSE",
+"l" : "26.55",
+"c" : "+0.85",
+"mc" : "2.18B",
+"cp" : "3.31",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14166660",
+"name" : "Shree Rajasthan Syntex Ltd",
+"t" : "503837",
+"e" : "BOM",
+"l" : "17.30",
+"c" : "+0.80",
+"mc" : "237.05M",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7676883",
+"name" : "Century Enka Limited",
+"t" : "CENTENKA",
+"e" : "NSE",
+"l" : "350.55",
+"c" : "+2.15",
+"mc" : "7.65B",
+"cp" : "0.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "715247",
+"name" : "Maharaja Shree Umaid Mills Ltd.",
+"t" : "530059",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "11427267",
+"name" : "Uniworth Ltd",
+"t" : "514144",
+"e" : "BOM",
+"l" : "0.97",
+"c" : "0.00",
+"mc" : "32.97M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "709546",
+"name" : "Jagjanani Textiles Limited",
+"t" : "532825",
+"e" : "BOM",
+"l" : "0.55",
+"c" : "0.00",
+"mc" : "8.58M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "579602034236301",
+"name" : "Lakhotia Polyesters (India) Ltd",
+"t" : "535387",
+"e" : "BOM",
+"l" : "8.76",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8942841",
+"name" : "Bengal Tea and Fabrics Ltd",
+"t" : "532230",
+"e" : "BOM",
+"l" : "60.00",
+"c" : "-0.10",
+"mc" : "541.26M",
+"cp" : "-0.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1845525",
+"name" : "Vardhman Textiles Ltd.",
+"t" : "VTL",
+"e" : "NSE",
+"l" : "1,385.00",
+"c" : "+18.00",
+"mc" : "79.41B",
+"cp" : "1.32",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1511298",
+"name" : "Gupta Synthetics Ltd",
+"t" : "514116",
+"e" : "BOM",
+"l" : "2.36",
+"c" : "0.00",
+"mc" : "17.35M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+]
+, "summary" : [{
+"address": "Welspun House, 7th Floor Senapati Bapat Marg, Lower Parel Kamala Mills Compound, MUMBAI, 400013, India",
+"phone": "+91-22-66136000",
+"fax": "+91-22-24908020",
+"url": "http:\u002F\u002Fwww.aymsyntex.com",
+"overview" : "AYM Syntex Limited, formerly Welspun Syntex Limited, is an India-based company, which is engaged in the business of textiles. The Company is a manufacturer and exporter of polyester texturized filament yarn, nylon filament yarn, synthetic yarn and bulk continuous filament yarn. The Company\u0027s segments include India and Outside India. The Company manufactures partially oriented yarn (POY), texturized yarn\u002Fdyed yarn, bulk continuous filament yarn (BCF), polyester fully drawn yarns (FDY), polyester mono filament yarns (PMFY), polyester filament yarn (PFY), polyester draw texturized yarn (DTY\u002FPTY), air textured yarns (PATY), specialty polyester filament yarns (SPFY) and nylon yarns. Its POY products include Full Dull Raw White POY, Semi Dull Raw White POY, Bright Raw White POY and Super Bright Raw White POY. Its PMFY products include Semi Dull Raw White, Bright Trilobal and Dope Dyed. Its nylon yarns include Grey and Dyed Yarns, and Micro Dyed Yarn."
+} ]
+, "management" : [
+{
+"name" : "Bhalchandra Anant Kale",
+"title" : "Chief Executive Officer, Executive Director"
+}
+,
+{
+"name" : "Abhishek Mandawewala",
+"title" : "Chief Financial Officer, Managing Director"
+}
+,
+{
+"name" : "Rajesh R. Mandawewala",
+"age" : "54",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "K. H. Viswanathan",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Atul Desai",
+"age" : "65",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Mohan K. Tandon",
+"age" : "75",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,274 @@
+
+// [
+{
+"symbol" : "513687",
+"exchange" : "BOM",
+"id": "11345766",
+"t" : "513687",
+"e" : "BOM",
+"name" : "Spectra Industries Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SIND.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:513687"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:513687"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:513687"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-12.44%",
+"annual" : "0.96%",
+"ttm" : "-0.80%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-13.85%",
+"annual" : "-1.25%",
+"ttm" : "-1.85%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-0.72%",
+"ttm" : "-1.30%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "1.42%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.73%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "73",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-0.55",
+"l" : "25.60",
+"cp" : "-2.10",
+"ccol" : "chr",
+"op" : "26.15",
+"hi" : "26.15",
+"lo" : "25.60",
+"vo" : "1,027.00",
+"avvo" : "",
+"hi52" : "46.35",
+"lo52" : "15.20",
+"mc" : "181.56M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-1.40",
+"dy" : "",
+"ldiv" : "",
+"shares" : "7.08M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "11345766",
+"name" : "Spectra Industries Ltd",
+"t" : "513687",
+"e" : "BOM",
+"l" : "25.60",
+"c" : "-0.55",
+"mc" : "181.56M",
+"cp" : "-2.10",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10680092",
+"name" : "Ushdev International Ltd.",
+"t" : "511736",
+"e" : "BOM",
+"l" : "1.81",
+"c" : "0.00",
+"mc" : "612.67M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "13684280",
+"name" : "Hariyana Ship Breakers Ltd",
+"t" : "526931",
+"e" : "BOM",
+"l" : "97.50",
+"c" : "+1.35",
+"mc" : "595.98M",
+"cp" : "1.40",
+"ccol" : "chg"
+}
+,
+{
+"id" : "132789078893137",
+"name" : "Agrimony Commodities Ltd",
+"t" : "537492",
+"e" : "BOM",
+"l" : "3.00",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1044686203315341",
+"name" : "Hexa Tradex Ltd",
+"t" : "HEXATRADEX",
+"e" : "NSE",
+"l" : "54.90",
+"c" : "+2.45",
+"mc" : "3.07B",
+"cp" : "4.67",
+"ccol" : "chg"
+}
+,
+{
+"id" : "257471623794379",
+"name" : "Devhari Exports (India) Ltd",
+"t" : "539197",
+"e" : "BOM",
+"l" : "9.55",
+"c" : "0.00",
+"mc" : "709.41M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4294110",
+"name" : "Lesha Industries Ltd",
+"t" : "533602",
+"e" : "BOM",
+"l" : "10.25",
+"c" : "-0.50",
+"mc" : "11.60M",
+"cp" : "-4.65",
+"ccol" : "chr"
+}
+,
+{
+"id" : "870440331812253",
+"name" : "MRC Exim Ltd",
+"t" : "540809",
+"e" : "BOM",
+"l" : "8.00",
+"c" : "0.00",
+"mc" : "83.37M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "2754022821662",
+"name" : "Aseem Global Ltd",
+"t" : "534564",
+"e" : "BOM",
+"l" : "2.70",
+"c" : "0.00",
+"mc" : "28.57M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "859795182321279",
+"name" : "Omansh Enterprises Ltd",
+"t" : "538537",
+"e" : "BOM",
+"l" : "1.67",
+"c" : "0.00",
+"mc" : "29.64M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "211744694762293",
+"name" : "Best Steel Logistics Ltd",
+"t" : "538566",
+"e" : "BOM",
+"l" : "151.35",
+"c" : "+7.20",
+"mc" : "2.82B",
+"cp" : "4.99",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "202 S V Road Malad-W, Bombay, MUMBAI, 400064, India",
+"phone": "+91-22-28893933",
+"fax": "+91-22-28891342",
+"url": "http:\u002F\u002Fwww.spectraindustries.in\u002F",
+"overview" : "Spectra Industries Limited is engaged in trading of automobile products. The Company\u0027s business activities include automobile dealership business of light commercial vehicles (LCVs) and heavy commercial vehicles (HCVs), and trading in goods, such as steel items. The Company\u0027s segments include Manufacturing and Trading. The Company is engaged in trading business in various items, such as chemicals, foodgrains, steel, coal and various other commodities. It has sales and service workshop at Mira Road, Thane, and another workshop at Panvel, Navi Mumbai. The Company\u0027s unit, Spectra Automotives caters needs of sales, service and spares of LCVs in the range of 4 to 6 tons gross vehicle weight and HCVs in the range of 25 to 49 tons gross vehicle weight in the territory of entire Mumbai, Navi Mumbai, Thane and Raigad district. It includes construction tippers, haulage vehicles and tractor trailers. The Company provides doorstep service to the customers on their request in case of emergency."
+} ]
+, "management" : [
+{
+"name" : "Vinod Kumar Gupta",
+"age" : "67",
+"title" : "Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Jaidev Vinod Gupta",
+"age" : "31",
+"title" : "Whole-Time Director"
+}
+,
+{
+"name" : "Awinash M. Arondekar",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Prabhjot Singh Chandok",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Sanjeev Chirania",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Champalal Jodhraj Kotcher",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

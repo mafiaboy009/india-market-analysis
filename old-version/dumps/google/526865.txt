@@ -1,0 +1,260 @@
+
+// [
+{
+"symbol" : "526865",
+"exchange" : "BOM",
+"id": "4379740",
+"t" : "526865",
+"e" : "BOM",
+"name" : "JainCo Projects (India) Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=JNCO.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:526865"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:526865"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:526865"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-30.30%",
+"annual" : "0.17%",
+"ttm" : "-1.41%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "26.18%",
+"annual" : "0.11%",
+"ttm" : "-0.52%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "0.25%",
+"ttm" : "0.08%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.30%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "1.04%",
+"ttm" : ""
+}
+]
+, "c" : "0.00",
+"l" : "2.42",
+"cp" : "0.00",
+"ccol" : "chb",
+"op" : "",
+"hi" : "",
+"lo" : "",
+"vo" : "0.00",
+"avvo" : "",
+"hi52" : "4.60",
+"lo52" : "2.09",
+"mc" : "24.20M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-0.30",
+"dy" : "",
+"ldiv" : "",
+"shares" : "10.00M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "4379740",
+"name" : "JainCo Projects (India) Ltd",
+"t" : "526865",
+"e" : "BOM",
+"l" : "2.42",
+"c" : "0.00",
+"mc" : "24.20M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "636719",
+"name" : "Milestone Global Ltd",
+"t" : "531338",
+"e" : "BOM",
+"l" : "12.40",
+"c" : "0.00",
+"mc" : "62.22M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6394377",
+"name" : "Network Ltd",
+"t" : "523558",
+"e" : "BOM",
+"l" : "5.00",
+"c" : "0.00",
+"mc" : "245.74M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "4992931",
+"name" : "Alka Securities Ltd",
+"t" : "532166",
+"e" : "BOM",
+"l" : "0.52",
+"c" : "-0.02",
+"mc" : "49.89M",
+"cp" : "-3.70",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16215470",
+"name" : "Aarya Global Shares and Securities Ltd",
+"t" : "531731",
+"e" : "BOM",
+"l" : "0.46",
+"c" : "0.00",
+"mc" : "9.98M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "7083285",
+"name" : "BNK Capital Markets Ltd",
+"t" : "500069",
+"e" : "BOM",
+"l" : "110.00",
+"c" : "+1.35",
+"mc" : "1.09B",
+"cp" : "1.24",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9337190",
+"name" : "63 Moons Technologies Ltd",
+"t" : "63MOONS",
+"e" : "NSE",
+"l" : "95.45",
+"c" : "+1.40",
+"mc" : "4.39B",
+"cp" : "1.49",
+"ccol" : "chg"
+}
+,
+{
+"id" : "866934787507947",
+"name" : "BSE Ltd",
+"t" : "BSE",
+"e" : "NSE",
+"l" : "807.90",
+"c" : "+7.10",
+"mc" : "43.36B",
+"cp" : "0.89",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6580161",
+"name" : "Mefcom Capital Markets Ltd",
+"t" : "531176",
+"e" : "BOM",
+"l" : "19.95",
+"c" : "-0.95",
+"mc" : "182.35M",
+"cp" : "-4.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "272295776418103",
+"name" : "Multi Commodity Exchange of India Ltd.",
+"t" : "MCX",
+"e" : "NSE",
+"l" : "754.00",
+"c" : "+1.35",
+"mc" : "38.20B",
+"cp" : "0.18",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9113181",
+"name" : "Geojit Financial Services Ltd",
+"t" : "GEOJITFSL",
+"e" : "NSE",
+"l" : "98.55",
+"c" : "+0.20",
+"mc" : "23.07B",
+"cp" : "0.20",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "2 Clive Ghat Street Room No 4A 4th Floor, KOLKATA, 700001, India",
+"phone": "+91-33-22213549",
+"fax": "+91-33-22498826",
+"overview" : "Jainco Projects (India) Limited is an India-based company engaged in non-banking financial services. The Company is also engaged in the business of trading in real estate, to act as builder, promoter, developer and contractor for self and for other lands, buildings and building sites, and also purchase and sales of building materials and trading materials. The Company\u0027s subsidiary is Jainco Housing \u0026 Infra Limited."
+} ]
+, "management" : [
+{
+"name" : "Manik Pal",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Keya Saraswati",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Mantu Kumar Agarwal",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Nikhil Chopra",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Saibal Mondal",
+"title" : "Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,287 @@
+
+// [
+{
+"symbol" : "505250",
+"exchange" : "BOM",
+"id": "4785019",
+"t" : "505250",
+"e" : "BOM",
+"name" : "GG Dandeker Machine Works Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=GGDN.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:505250"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:505250"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:505250"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-62.28%",
+"annual" : "-20.31%",
+"ttm" : "-51.71%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-54.27%",
+"annual" : "-20.51%",
+"ttm" : "-49.02%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-9.92%",
+"ttm" : "-34.83%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-6.90%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "-10.05%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "249",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+1.20",
+"l" : "72.45",
+"cp" : "1.68",
+"ccol" : "chg",
+"op" : "72.45",
+"hi" : "72.45",
+"lo" : "72.45",
+"vo" : "1.00",
+"avvo" : "",
+"hi52" : "97.95",
+"lo52" : "50.00",
+"mc" : "336.69M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-9.19",
+"dy" : "",
+"ldiv" : "",
+"shares" : "4.76M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "4785019",
+"name" : "GG Dandeker Machine Works Ltd",
+"t" : "505250",
+"e" : "BOM",
+"l" : "72.45",
+"c" : "+1.20",
+"mc" : "336.69M",
+"cp" : "1.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2489274",
+"name" : "MPIL Corporation Ltd",
+"t" : "500450",
+"e" : "BOM",
+"l" : "250.00",
+"c" : "+11.00",
+"mc" : "142.89M",
+"cp" : "4.60",
+"ccol" : "chg"
+}
+,
+{
+"id" : "28501448889187",
+"name" : "Butterfly Gandhimathi Appliances Ltd",
+"t" : "BUTTERFLY",
+"e" : "NSE",
+"l" : "512.60",
+"c" : "+7.80",
+"mc" : "9.17B",
+"cp" : "1.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13456257",
+"name" : "Walchandnagar Industries Ltd.",
+"t" : "WALCHANNAG",
+"e" : "NSE",
+"l" : "188.20",
+"c" : "-0.20",
+"mc" : "7.16B",
+"cp" : "-0.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3241652",
+"name" : "Texmaco Infrastructure \u0026 Holdings Ltd",
+"t" : "TEXINFRA",
+"e" : "NSE",
+"l" : "61.75",
+"c" : "-0.10",
+"mc" : "7.90B",
+"cp" : "-0.16",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15438183",
+"name" : "Axtal Industries Ltd",
+"t" : "523850",
+"e" : "BOM",
+"l" : "100.90",
+"c" : "+1.40",
+"mc" : "1.57B",
+"cp" : "1.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14662864",
+"name" : "Veejay Lakshmi Engineering Works Ltd",
+"t" : "522267",
+"e" : "BOM",
+"l" : "55.00",
+"c" : "+0.50",
+"mc" : "278.85M",
+"cp" : "0.92",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5411987",
+"name" : "Stovec Industries Ltd",
+"t" : "504959",
+"e" : "BOM",
+"l" : "2,935.00",
+"c" : "-25.00",
+"mc" : "6.13B",
+"cp" : "-0.84",
+"ccol" : "chr"
+}
+,
+{
+"id" : "715420",
+"name" : "Batliboi Ltd.",
+"t" : "522004",
+"e" : "BOM",
+"l" : "28.50",
+"c" : "-1.50",
+"mc" : "818.40M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7870516",
+"name" : "Birla Precision Technologies Ltd",
+"t" : "522105",
+"e" : "BOM",
+"l" : "6.95",
+"c" : "-0.01",
+"mc" : "364.36M",
+"cp" : "-0.14",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6515568",
+"name" : "Shilp Gravures Ltd",
+"t" : "513709",
+"e" : "BOM",
+"l" : "139.80",
+"c" : "-0.35",
+"mc" : "859.74M",
+"cp" : "-0.25",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "Dandekarwadi, Bhiwandi, NAGPUR, 441122, India",
+"phone": "+91-7104-667300",
+"fax": "+91-7104-667302",
+"url": "http:\u002F\u002Fwww.ggdandekar.com\u002F",
+"overview" : "G. G. Dandekar Machine Works Limited is engaged in food processing machinery. The Company manufactures machinery for Rice Milling in India. It has installed Rice Milling Plants, Parboiling and Drying Plant in various grain-processing organizations in India and abroad. It is also engaged in polishing and grading business. Its products include Dandekar Cone Polishers, Paddy Sheller and Dandekar type Paddy Separator. It offers Vibro Cleaner for cleaning paddy, wheat, barley, corn and others\u003B Vibro Destoner for eliminating heavy particles, such as stones, magnetic and nonmagnetic metals, from paddy, cereals and other grains\u003B Pneumatic Rubber Roll Sheller, such as PNU-250\u003B Paddy Separator to separate paddy from brown rice\u003B Pearling Cone-cone Polisher for polishing of raw and parboiled rice\u003B Rice Whitening Machine\u003B Silky Polishers\u003B Negative Bran Suction\u003B Rotary Flat Sieve for gradation of rice and brokens\u003B Trieur Cylinder (Length Grader), and Color Sorters."
+} ]
+, "management" : [
+{
+"name" : "Sanket Gunjikar",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Pranav V. Deshpande",
+"title" : "Chief Operating Officer"
+}
+,
+{
+"name" : "Mangesh Joshi",
+"title" : "Compliance Officer, Executive Director"
+}
+,
+{
+"name" : "Saurabh Somani",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "Nihal Gautam Kulkarni",
+"title" : "Non-Executive Vice Chairman of the Board"
+}
+,
+{
+"name" : "Madhav R. Chandrachud",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Saurabh Patwardhan",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Rajesh Phadke",
+"title" : "Additional Independent Director"
+}
+,
+{
+"name" : "Savita Sahasrabudhe",
+"title" : "Additional Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,278 @@
+
+// [
+{
+"symbol" : "532948",
+"exchange" : "BOM",
+"id": "719203",
+"t" : "532948",
+"e" : "BOM",
+"name" : "Tulsi Extrusions Limited"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:532948"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:532948"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:532948"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-83.70%",
+"annual" : "-14.82%",
+"ttm" : "-44.49%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "-77.51%",
+"annual" : "-10.31%",
+"ttm" : "-39.51%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "-0.41%",
+"ttm" : "-27.92%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "-4.74%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "224",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.29",
+"l" : "2.85",
+"cp" : "11.33",
+"ccol" : "chg",
+"op" : "2.89",
+"hi" : "2.89",
+"lo" : "2.72",
+"vo" : "6,020.00",
+"avvo" : "",
+"hi52" : "5.80",
+"lo52" : "2.40",
+"mc" : "88.77M",
+"pe" : "",
+"fwpe" : "",
+"beta" : "",
+"eps" : "-5.61",
+"dy" : "",
+"ldiv" : "",
+"shares" : "27.49M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "719203",
+"name" : "Tulsi Extrusions Limited",
+"t" : "532948",
+"e" : "BOM",
+"l" : "2.85",
+"c" : "+0.29",
+"mc" : "88.77M",
+"cp" : "11.33",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11378130",
+"name" : "Texmo Pipes and products limited",
+"t" : "TEXMOPIPES",
+"e" : "NSE",
+"l" : "22.70",
+"c" : "+0.40",
+"mc" : "567.95M",
+"cp" : "1.79",
+"ccol" : "chg"
+}
+,
+{
+"id" : "754596606759916",
+"name" : "Captain Pipes Ltd",
+"t" : "538817",
+"e" : "BOM",
+"l" : "59.00",
+"c" : "0.00",
+"mc" : "245.35M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "8904073",
+"name" : "Tijaria Polypipes Ltd",
+"t" : "TIJARIA",
+"e" : "NSE",
+"l" : "10.80",
+"c" : "+0.50",
+"mc" : "255.17M",
+"cp" : "4.85",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4984349",
+"name" : "Kriti Industries India Ltd",
+"t" : "526423",
+"e" : "BOM",
+"l" : "52.00",
+"c" : "+0.50",
+"mc" : "2.58B",
+"cp" : "0.97",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4691478",
+"name" : "Dutron Polymers Ltd",
+"t" : "517437",
+"e" : "BOM",
+"l" : "129.20",
+"c" : "-6.80",
+"mc" : "775.20M",
+"cp" : "-5.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3393914",
+"name" : "Finolex Industries Ltd",
+"t" : "FINPIPE",
+"e" : "NSE",
+"l" : "648.20",
+"c" : "+7.85",
+"mc" : "79.24B",
+"cp" : "1.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4393042",
+"name" : "Astral Poly Technik Ltd",
+"t" : "ASTRAL",
+"e" : "NSE",
+"l" : "844.00",
+"c" : "+62.60",
+"mc" : "99.98B",
+"cp" : "8.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9526827",
+"name" : "Apollo Pipes Ltd",
+"t" : "531761",
+"e" : "BOM",
+"l" : "589.60",
+"c" : "+28.05",
+"mc" : "2.98B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "957998894687951",
+"name" : "Captain Polyplast Ltd",
+"t" : "536974",
+"e" : "BOM",
+"l" : "156.20",
+"c" : "-6.70",
+"mc" : "1.53B",
+"cp" : "-4.11",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10233386",
+"name" : "Sri KPR Industries Ltd",
+"t" : "514442",
+"e" : "BOM",
+"l" : "27.00",
+"c" : "-0.50",
+"mc" : "543.93M",
+"cp" : "-1.82",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "N-99\u002F100, M.I.D.C. Area,, JALGAON, 425003, India",
+"phone": "+91-257-2272732",
+"fax": "+91-257-2210052",
+"url": "http:\u002F\u002Fwww.tulsigroup.com\u002F",
+"overview" : "Tulsi Extrusions Limited is an India-based company, which is engaged in the production of plastic products. The Company operates in two categories: poly vinyl chloride (PVC) pipes and fittings, and micro irrigation systems (MIS). The Company\u0027s product offerings include PVC Pipes, PVC fabricated fittings, PVC casing and screen pipes, ASTM plumbing pipes and fittings, LLDPE pipes and fittings, HDPE pipes and fittings, SWR Pipes and Fittings, Moulded Fittings, Crates, Column Pipes and elastomeric sealing pipes. Its plastic piping systems include UPVC Pipes, Injection Molding PVC Fittings and Fabricated Fittings, LLDPE Pipe and Drip irrigation system, CPVC Pipes and Fittings. The Company\u0027s products are primarily used in irrigation sector, industrial sector, and infrastructure and housing sector. The Company has over three plants located at Maharashtra Industrial Development Corporation (MIDC) area in Jalgaon, Maharashtra."
+} ]
+, "management" : [
+{
+"name" : "Khiwanmal Jagdish Lohiya",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Ajay Jagdish Shrivastava",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Sanjay Ramgopal Taparia",
+"title" : "Chief Executive Officer, Director"
+}
+,
+{
+"name" : "Sachin Khiwanmal Lohiya",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Jayprakash Bhikulal Kabra",
+"age" : "59",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Chetana Rajendra Nannavare",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Vivek Madhukar Pingle",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

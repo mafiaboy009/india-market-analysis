@@ -1,0 +1,235 @@
+
+// [
+{
+"symbol" : "537253",
+"exchange" : "BOM",
+"id": "713538116363798",
+"t" : "537253",
+"e" : "BOM",
+"name" : "Sunil Healthcare Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=SUHC.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:537253"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:537253"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:537253"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.92%",
+"annual" : "5.60%",
+"ttm" : "5.60%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.65%",
+"annual" : "10.99%",
+"ttm" : "10.88%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "14.97%",
+"ttm" : "14.86%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "6.18%",
+"ttm" : "6.18%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "17.89%",
+"ttm" : "17.89%"
+}
+]
+, "c" : "-0.55",
+"l" : "76.45",
+"cp" : "-0.71",
+"ccol" : "chr",
+"op" : "80.00",
+"hi" : "80.00",
+"lo" : "76.45",
+"vo" : "312.00",
+"avvo" : "",
+"hi52" : "108.00",
+"lo52" : "65.50",
+"mc" : "796.39M",
+"pe" : "12.84",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.95",
+"dy" : "",
+"ldiv" : "",
+"shares" : "10.25M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "713538116363798",
+"name" : "Sunil Healthcare Ltd",
+"t" : "537253",
+"e" : "BOM",
+"l" : "76.45",
+"c" : "-0.55",
+"mc" : "796.39M",
+"cp" : "-0.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13868302",
+"name" : "Natural Capsules Ltd",
+"t" : "524654",
+"e" : "BOM",
+"l" : "116.00",
+"c" : "+5.05",
+"mc" : "722.99M",
+"cp" : "4.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2592931",
+"name" : "Medi Caps Ltd",
+"t" : "523144",
+"e" : "BOM",
+"l" : "25.65",
+"c" : "-0.70",
+"mc" : "321.07M",
+"cp" : "-2.66",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3289388",
+"name" : "Medicamen Biotech Ltd",
+"t" : "531146",
+"e" : "BOM",
+"l" : "691.95",
+"c" : "+23.75",
+"mc" : "7.86B",
+"cp" : "3.55",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2986863",
+"name" : "Alpa Laboratories Limited",
+"t" : "ALPA",
+"e" : "NSE",
+"l" : "45.90",
+"c" : "+2.15",
+"mc" : "965.76M",
+"cp" : "4.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8666279",
+"name" : "Jenburkt Pharmaceuticals Ltd",
+"t" : "524731",
+"e" : "BOM",
+"l" : "575.00",
+"c" : "+11.15",
+"mc" : "2.63B",
+"cp" : "1.98",
+"ccol" : "chg"
+}
+,
+{
+"id" : "6813187",
+"name" : "Nectar Lifesciences Ltd.",
+"t" : "NECLIFE",
+"e" : "NSE",
+"l" : "31.85",
+"c" : "-0.35",
+"mc" : "7.16B",
+"cp" : "-1.09",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13914165",
+"name" : "Strides Shasun Ltd",
+"t" : "STAR",
+"e" : "NSE",
+"l" : "710.00",
+"c" : "+16.50",
+"mc" : "63.59B",
+"cp" : "2.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11018234",
+"name" : "Syncom Formulations India Ltd",
+"t" : "524470",
+"e" : "BOM",
+"l" : "1.53",
+"c" : "-0.04",
+"mc" : "1.19B",
+"cp" : "-2.55",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2057138",
+"name" : "Ankur Drugs and Pharma Ltd.",
+"t" : "ANKURDRUGS",
+"e" : "NSE",
+"l" : "0.00",
+"c" : "-4.55",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "16070884",
+"name" : "Bliss GVS Pharma Limited",
+"t" : "BLISSGVS",
+"e" : "NSE",
+"l" : "198.00",
+"c" : "+8.55",
+"mc" : "20.47B",
+"cp" : "4.51",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": ", NEW DELHI, 110049, India",
+"phone": "+91-11-49435555",
+"fax": "+91-11-43850087",
+"url": "http:\u002F\u002Fwww.sunilhealthcare.com",
+"overview" : "Sunil Healthcare Limited is an India-based company, which is engaged in manufacturing hard gelatin capsule shells. The Company is also engaged in marketing of food product. The Company operates through two business segments: Empty Capsules and Marketing of Food Product. Its Empty Capsules segment deals in manufacturing or trading of capsule shells. Its Marketing of Food Product segment includes trading activities carried out on high sea sales basis. The Company\u0027s product types include HPMC\u002FVegetable Capsules, EHG Capsules, BSE\u002FTSE Free Gelatin Capsules, Pearl Capsules, Liquid Fill Capsules, Preservative Free Capsules, Flavored Capsules, Non-Azo Capsules, Stick Free Capsules and Natural Color Capsules. The Company is engaged in market survey and supply chain establishment by markets its products under the Sunloc Foods brand name. The Company has an installed capacity of approximately 10,930 million capsules per annum at its existing facility."
+} ]
+,"moreresources" : [
+]
+}]

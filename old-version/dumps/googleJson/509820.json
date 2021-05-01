@@ -1,0 +1,294 @@
+
+ [
+{
+"symbol" : "509820",
+"exchange" : "BOM",
+"id": "715544",
+"t" : "509820",
+"e" : "BOM",
+"name" : "Huhtamaki PPL Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:509820"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:509820"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:509820"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.73%",
+"annual" : "2.85%",
+"ttm" : "2.85%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.31%",
+"annual" : "6.09%",
+"ttm" : "6.09%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "9.91%",
+"ttm" : "9.91%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "4.42%",
+"ttm" : "4.42%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "12.02%",
+"ttm" : "12.02%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "3,263",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-7.70",
+"l" : "319.00",
+"cp" : "-2.36",
+"ccol" : "chr",
+"op" : "323.60",
+"hi" : "323.60",
+"lo" : "317.40",
+"vo" : "2,072.00",
+"avvo" : "",
+"hi52" : "387.00",
+"lo52" : "201.00",
+"mc" : "24.08B",
+"pe" : "37.88",
+"fwpe" : "",
+"beta" : "",
+"eps" : "8.42",
+"dy" : "0.94",
+"ldiv" : "3.00",
+"shares" : "75.52M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715544",
+"name" : "Huhtamaki PPL Ltd",
+"t" : "509820",
+"e" : "BOM",
+"l" : "319.00",
+"c" : "-7.70",
+"mc" : "24.08B",
+"cp" : "-2.36",
+"ccol" : "chr"
+}
+,
+{
+"id" : "720439",
+"name" : "Jhaveri Flexo India Limited",
+"t" : "JHAVFLEXO",
+"e" : "BOM",
+"l" : "24.50",
+"c" : "",
+"mc" : "616.44M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "15581307",
+"name" : "Uflex Ltd",
+"t" : "UFLEX",
+"e" : "NSE",
+"l" : "373.00",
+"c" : "+7.80",
+"mc" : "26.73B",
+"cp" : "2.14",
+"ccol" : "chg"
+}
+,
+{
+"id" : "3734908",
+"name" : "Radha Madhav Corporation Limited",
+"t" : "RMCL",
+"e" : "NSE",
+"l" : "28.50",
+"c" : "-0.30",
+"mc" : "1.91B",
+"cp" : "-1.04",
+"ccol" : "chr"
+}
+,
+{
+"id" : "4199041",
+"name" : "Glory Films Ltd",
+"t" : "GLORY",
+"e" : "NSE",
+"l" : "0.50",
+"c" : "",
+"mc" : "29.73M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "703857",
+"name" : "Bilcare Ltd",
+"t" : "526853",
+"e" : "BOM",
+"l" : "64.50",
+"c" : "+2.85",
+"mc" : "1.51B",
+"cp" : "4.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8292616",
+"name" : "Xpro India Limited",
+"t" : "XPROINDIA",
+"e" : "NSE",
+"l" : "54.40",
+"c" : "+1.85",
+"mc" : "642.65M",
+"cp" : "3.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "4290260",
+"name" : "Orient Press Ltd",
+"t" : "ORIENTLTD",
+"e" : "NSE",
+"l" : "235.05",
+"c" : "-2.15",
+"mc" : "2.35B",
+"cp" : "-0.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12261384",
+"name" : "Rollatainers Ltd",
+"t" : "502448",
+"e" : "BOM",
+"l" : "5.86",
+"c" : "-0.21",
+"mc" : "1.42B",
+"cp" : "-3.46",
+"ccol" : "chr"
+}
+,
+{
+"id" : "7356167",
+"name" : "Kabra Extrusion Technik Limited",
+"t" : "KABRAEXTRU",
+"e" : "NSE",
+"l" : "126.25",
+"c" : "+0.45",
+"mc" : "4.00B",
+"cp" : "0.36",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14712036",
+"name" : "Cosmo Films Ltd",
+"t" : "COSMOFILMS",
+"e" : "NSE",
+"l" : "290.00",
+"c" : "+0.65",
+"mc" : "5.59B",
+"cp" : "0.22",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "L.B.S Marg, Majiwade, THANE, 400601, India",
+"phone": "+91-22-25427051",
+"fax": "+91-22-21735599",
+"overview" : "Huhtamaki PPL Limited, formerly The Paper Products Limited, is an India-based consumer packaging company. The Company offers a range of products, which include specialized pouches, pressure sensitive labels, shrink sleeves, personal care and household, specialized cartons, wet strength labels, shrink sleeves, and automotive and industrial products. It operates through consumer packaging segment. It focuses on offering finished goods, such as laminates and converted, coated\u002Funcoated paper and films, and cartons. Its products are used in various packaging application, which include food and beverages\u003B personal, oral and healthcare\u003B tube laminate\u003B pharma and medical, and other specialties. It offers a portfolio of packaging solutions that include flexible packaging, including various pouching solutions, labelling technologies, shrink sleeve solutions and cylinder engraving. Its subsidiaries include Webtech Labels Private Limited and Positive Packaging Industries Limited."
+} ]
+, "management" : [
+{
+"name" : "Suresh Kumar Gupta",
+"age" : "62",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Parag Vyavahare",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Dakshinamurthy Lyer",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "A. Venkatrangan",
+"title" : "Vice president - Global Sourcing and Technology, Flexible Packaging Segment"
+}
+,
+{
+"name" : "Arup Basu",
+"age" : "49",
+"title" : "Managing Director, Additional Director"
+}
+,
+{
+"name" : "Olli Koponen",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Jukka Moisio",
+"age" : "53",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sukanya Kripalu",
+"title" : "Independent Director"
+}
+,
+{
+"name" : "Nripjit Singh Chawla",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Ramesh Kumar Dhir",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

@@ -1,0 +1,282 @@
+
+// [
+{
+"symbol" : "506285",
+"exchange" : "BOM",
+"id": "680773",
+"t" : "506285",
+"e" : "BOM",
+"name" : "Bayer CropScience Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:506285"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:506285"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:506285"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "2.23%",
+"annual" : "9.87%",
+"ttm" : "10.31%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.96%",
+"annual" : "13.49%",
+"ttm" : "12.48%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "14.47%",
+"ttm" : "13.68%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.06%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "14.94%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "1,126",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+70.15",
+"l" : "3,897.90",
+"cp" : "1.83",
+"ccol" : "chg",
+"op" : "3,929.65",
+"hi" : "3,943.45",
+"lo" : "3,875.70",
+"vo" : "283.00",
+"avvo" : "",
+"hi52" : "5,050.00",
+"lo52" : "3,685.00",
+"mc" : "134.24B",
+"pe" : "48.68",
+"fwpe" : "",
+"beta" : "",
+"eps" : "80.07",
+"dy" : "0.44",
+"ldiv" : "17.00",
+"shares" : "34.30M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "680773",
+"name" : "Bayer CropScience Ltd",
+"t" : "506285",
+"e" : "BOM",
+"l" : "3,897.90",
+"c" : "+70.15",
+"mc" : "134.24B",
+"cp" : "1.83",
+"ccol" : "chg"
+}
+,
+{
+"id" : "439959355334624",
+"name" : "Rallis India Limited",
+"t" : "RALLIS",
+"e" : "NSE",
+"l" : "231.00",
+"c" : "+3.15",
+"mc" : "44.87B",
+"cp" : "1.38",
+"ccol" : "chg"
+}
+,
+{
+"id" : "13135144",
+"name" : "UPL Ltd",
+"t" : "UPL",
+"e" : "NSE",
+"l" : "720.90",
+"c" : "+20.35",
+"mc" : "365.59B",
+"cp" : "2.90",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2451462",
+"name" : "P I Industries Ltd",
+"t" : "PIIND",
+"e" : "NSE",
+"l" : "940.00",
+"c" : "+102.45",
+"mc" : "129.40B",
+"cp" : "12.23",
+"ccol" : "chg"
+}
+,
+{
+"id" : "705748",
+"name" : "Chemcel BioTech Limited",
+"t" : "533026",
+"e" : "BOM",
+"l" : "0.95",
+"c" : "0.00",
+"mc" : "28.16M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "10347650",
+"name" : "Bharat Rasayan Ltd",
+"t" : "BHARATRAS",
+"e" : "NSE",
+"l" : "4,591.80",
+"c" : "+18.95",
+"mc" : "19.39B",
+"cp" : "0.41",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8171990",
+"name" : "MEGHMANI ORGANICS",
+"t" : "MEGH",
+"e" : "NSE",
+"l" : "95.85",
+"c" : "+0.15",
+"mc" : "",
+"cp" : "0.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "844516788766421",
+"name" : "Shree Pushkar Chemicals \u0026 Fertilisrs Ltd",
+"t" : "SHREEPUSHK",
+"e" : "NSE",
+"l" : "225.40",
+"c" : "-5.80",
+"mc" : "6.76B",
+"cp" : "-2.51",
+"ccol" : "chr"
+}
+,
+{
+"id" : "356893",
+"name" : "Excel Industries Limited",
+"t" : "EXCELINDUS",
+"e" : "NSE",
+"l" : "890.00",
+"c" : "+63.45",
+"mc" : "11.25B",
+"cp" : "7.68",
+"ccol" : "chg"
+}
+,
+{
+"id" : "720597595598874",
+"name" : "Shivalik Rasayan Ltd",
+"t" : "539148",
+"e" : "BOM",
+"l" : "696.45",
+"c" : "+33.15",
+"mc" : "2.93B",
+"cp" : "5.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "84239716704146",
+"name" : "Sikko Industries Ltd",
+"c" : "",
+"mc" : "",
+"cp" : "",
+"ccol" : ""
+}
+]
+, "summary" : [{
+"address": "Kolshet Road, Thane (West), THANE, 400607, India",
+"phone": "+91-22-25711234",
+"fax": "+91-22-25700147",
+"url": "http:\u002F\u002Fbayer.in\u002F",
+"overview" : "Bayer CropScience Limited is engaged in the manufacturing of insecticides, rodenticides, fungicides and herbicides. The Company operates through Agri Care segment. The Company offers crop solutions for various crops, such as cotton, fruits, millet, mustard, pulses, rice, soybeans, sugar cane, vegetables and wheat. The Company offers various pest management solutions, such as Professional Pest Management for household \u002F structural pests and Vector Management for pests that pose a threat to public health. The Company offers various brands, such as Aliette, Antracol, Folicur, Melody Duo and Nativo under the fungicides category\u003B Adora, Adue, Atlantis, Basta, Laudis, Lucifer, Raft, Ricestar and Topstar under the herbicides category\u003B Admire, Alanto, Confidor, Decis 100, Fame, Flotis, Jump, Larvin, Oberon and Spintor under the insecticides category\u003B Gaucho, Monceren, Raxil and Raxil Easy under the SeedGrowth category, and Ethrel and Planofix under the others category."
+} ]
+, "management" : [
+{
+"name" : "Richard van der Merwe",
+"title" : "Chief Executive Officer, Vice Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Ulrich Stefer",
+"title" : "Chief Financial Officer, Whole-Time Director"
+}
+,
+{
+"name" : "Rajiv Wani",
+"title" : "Vice President – Law, Patents \u0026 Compliance, Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Pankaj Patel",
+"title" : "Non-Executive Chairman of the Board"
+}
+,
+{
+"name" : "Miriam Colling-Hendelkens",
+"title" : "Additional Woman Director"
+}
+,
+{
+"name" : "Peter Mueller",
+"age" : "54",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Vimal Bhandari",
+"age" : "57",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sharad M. Kulkarni",
+"age" : "77",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

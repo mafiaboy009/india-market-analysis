@@ -1,0 +1,297 @@
+
+// [
+{
+"symbol" : "522073",
+"exchange" : "BOM",
+"id": "715453",
+"t" : "522073",
+"e" : "BOM",
+"name" : "Hi-Tech Gears Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:522073"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:522073"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:522073"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002717)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.25%",
+"annual" : "4.23%",
+"ttm" : "4.23%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "7.16%",
+"annual" : "6.99%",
+"ttm" : "6.81%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.08%",
+"ttm" : "11.91%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.99%",
+"ttm" : "3.99%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "9.99%",
+"ttm" : "9.99%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "824",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-6.30",
+"l" : "437.00",
+"cp" : "-1.42",
+"ccol" : "chr",
+"op" : "433.00",
+"hi" : "445.50",
+"lo" : "433.00",
+"vo" : "217.00",
+"avvo" : "",
+"hi52" : "601.90",
+"lo52" : "292.10",
+"mc" : "8.21B",
+"pe" : "41.08",
+"fwpe" : "",
+"beta" : "",
+"eps" : "10.64",
+"dy" : "0.63",
+"ldiv" : "1.50",
+"shares" : "18.77M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "715453",
+"name" : "Hi-Tech Gears Ltd",
+"t" : "522073",
+"e" : "BOM",
+"l" : "437.00",
+"c" : "-6.30",
+"mc" : "8.21B",
+"cp" : "-1.42",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13301226",
+"name" : "Gujarat Automotive Gears Ltd",
+"t" : "505712",
+"e" : "BOM",
+"l" : "290.00",
+"c" : "-11.25",
+"mc" : "507.50M",
+"cp" : "-3.73",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2336559",
+"name" : "RACL Geartech Ltd",
+"t" : "520073",
+"e" : "BOM",
+"l" : "66.45",
+"c" : "+0.40",
+"mc" : "654.01M",
+"cp" : "0.61",
+"ccol" : "chg"
+}
+,
+{
+"id" : "677050",
+"name" : "Kinetic Engineering Ltd",
+"t" : "500240",
+"e" : "BOM",
+"l" : "78.50",
+"c" : "-1.65",
+"mc" : "1.30B",
+"cp" : "-2.06",
+"ccol" : "chr"
+}
+,
+{
+"id" : "6093045",
+"name" : "Jay Bharat Maruti Ltd",
+"t" : "JAYBARMARU",
+"e" : "NSE",
+"l" : "469.00",
+"c" : "+2.35",
+"mc" : "10.10B",
+"cp" : "0.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8317119",
+"name" : "Clutch Auto Limited",
+"t" : "CLUTCHAUTO",
+"e" : "NSE",
+"l" : "10.65",
+"c" : "",
+"mc" : "199.78M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "606235793258688",
+"name" : "SAR Auto Products Ltd",
+"t" : "538992",
+"e" : "BOM",
+"l" : "173.90",
+"c" : "-3.05",
+"mc" : "828.59M",
+"cp" : "-1.72",
+"ccol" : "chr"
+}
+,
+{
+"id" : "447821",
+"name" : "Bharat Gears Ltd",
+"t" : "BHARATGEAR",
+"e" : "NSE",
+"l" : "197.30",
+"c" : "+2.50",
+"mc" : "1.60B",
+"cp" : "1.28",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1197334",
+"name" : "Automotive Axles Ltd.",
+"t" : "AUTOAXLES",
+"e" : "NSE",
+"l" : "1,545.00",
+"c" : "+1.05",
+"mc" : "23.41B",
+"cp" : "0.07",
+"ccol" : "chg"
+}
+,
+{
+"id" : "718501",
+"name" : "Porwal Auto Components Ltd",
+"t" : "532933",
+"e" : "BOM",
+"l" : "57.45",
+"c" : "+1.20",
+"mc" : "867.50M",
+"cp" : "2.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "665058605573895",
+"name" : "GNA Axles Ltd",
+"t" : "GNA",
+"e" : "NSE",
+"l" : "439.95",
+"c" : "+17.05",
+"mc" : "9.45B",
+"cp" : "4.03",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "14th Floor, Tower-B, Millennium Plaza Sushant Lok-I Sector 27, GURGAON, 122002, India",
+"phone": "+91-124-4715100",
+"fax": "+91-124-2806085",
+"url": "http:\u002F\u002Fwww.hitechgears.com\u002F",
+"overview" : "The Hi-Tech Gears Limited is an India-based company engaged in the manufacturing of auto components. The Company is primarily engaged in the business of gears and transmission components. The Company offers a range of parts and accessories for vehicles, including motorcycles\u002Fscooters, as well as toothed wheels, chain spocket and other transmission parts. Hi-Tech (E-Soft) is a division of the Company, which is engaged in the business of engineering software solutions. The Company\u0027s product ranges include auto components for power takeoff, two wheeler, car transmission and drive line components, commercial vehicle and precision forging. Its geographic segments are America, India and Others. It services diverse clients across the globe for engine and transmission components. Its forging customers include various national and international customers. Its operations also include gear honing, gear grinding, shaving, wet and dry hobbing, deep hole drilling and automatic straightening."
+} ]
+, "management" : [
+{
+"name" : "Deep Kapuria",
+"age" : "67",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "S. K. Khatri",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Pranav Kapuria",
+"age" : "39",
+"title" : "Managing Director, Whole Time Director"
+}
+,
+{
+"name" : "Vijay Mathur",
+"title" : "Sr. General Manager - Finance"
+}
+,
+{
+"name" : "Anuj Kapuria",
+"age" : "35",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Bidadi Anjani Kumar",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Malini Sud",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Ramesh Chandra Jain",
+"age" : "67",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Prosad Dasgupta",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Sandeep Dinodia",
+"age" : "52",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

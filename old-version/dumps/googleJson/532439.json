@@ -1,0 +1,289 @@
+
+ [
+{
+"symbol" : "532439",
+"exchange" : "BOM",
+"id": "178634",
+"t" : "532439",
+"e" : "BOM",
+"name" : "Goldstone Infratech Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532439"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532439"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532439"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002711)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "3.84%",
+"annual" : "5.73%",
+"ttm" : "4.77%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "10.00%",
+"annual" : "13.13%",
+"ttm" : "10.67%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "18.27%",
+"ttm" : "14.86%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "3.23%",
+"ttm" : "2.13%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "6.74%",
+"ttm" : "3.30%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "181",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+18.85",
+"l" : "214.70",
+"cp" : "9.62",
+"ccol" : "chg",
+"op" : "198.80",
+"hi" : "218.05",
+"lo" : "197.45",
+"vo" : "184,885.00",
+"avvo" : "",
+"hi52" : "248.70",
+"lo52" : "46.20",
+"mc" : "7.79B",
+"pe" : "239.48",
+"fwpe" : "",
+"beta" : "",
+"eps" : "0.90",
+"dy" : "",
+"ldiv" : "",
+"shares" : "50.18M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "178634",
+"name" : "Goldstone Infratech Ltd",
+"t" : "532439",
+"e" : "BOM",
+"l" : "214.70",
+"c" : "+18.85",
+"mc" : "7.79B",
+"cp" : "9.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14827397",
+"name" : "W.S. Industries India Ltd",
+"t" : "WSI",
+"e" : "NSE",
+"l" : "6.70",
+"c" : "+0.10",
+"mc" : "142.72M",
+"cp" : "1.52",
+"ccol" : "chg"
+}
+,
+{
+"id" : "11796396",
+"name" : "Permanent Magnets Limited",
+"t" : "504132",
+"e" : "BOM",
+"l" : "102.00",
+"c" : "-1.85",
+"mc" : "859.25M",
+"cp" : "-1.78",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5907309",
+"name" : "Aditya Birla Nuvo Ltd",
+"t" : "ABIRLANUVO",
+"e" : "NSE",
+"l" : "1,880.00",
+"c" : "",
+"mc" : "245.92B",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "6556362",
+"name" : "Vishal Malleables Ltd",
+"t" : "505930",
+"e" : "BOM",
+"l" : "27.95",
+"c" : "0.00",
+"mc" : "75.99M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "16667737",
+"name" : "HSIL Ltd",
+"t" : "HSIL",
+"e" : "NSE",
+"l" : "428.00",
+"c" : "+0.05",
+"mc" : "30.98B",
+"cp" : "0.01",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15670705",
+"name" : "Sezal Glass Limited",
+"t" : "SEZAL",
+"e" : "NSE",
+"l" : "4.90",
+"c" : "+0.15",
+"mc" : "164.40M",
+"cp" : "3.16",
+"ccol" : "chg"
+}
+,
+{
+"id" : "10458838",
+"name" : "Bombay Potteries \u0026 Tiles Ltd",
+"t" : "502216",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-2,505.30",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "3722858",
+"name" : "MPL Plastics Ltd",
+"t" : "526143",
+"e" : "BOM",
+"l" : "18.35",
+"c" : "+0.35",
+"mc" : "228.08M",
+"cp" : "1.94",
+"ccol" : "chg"
+}
+,
+{
+"id" : "14999165",
+"name" : "Somany Ceramics Ltd",
+"t" : "SOMANYCERA",
+"e" : "NSE",
+"l" : "650.00",
+"c" : "-11.30",
+"mc" : "27.65B",
+"cp" : "-1.71",
+"ccol" : "chr"
+}
+,
+{
+"id" : "5434661",
+"name" : "Grindwell Norton Ltd",
+"t" : "GRINDWELL",
+"e" : "NSE",
+"l" : "495.50",
+"c" : "-2.70",
+"mc" : "54.66B",
+"cp" : "-0.54",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "9-1-83 \u0026 84 Amarchand Complex , Sarojini Devi Road, SECUNDERABAD, 500003, India",
+"phone": "+91-40-27807640",
+"fax": "+91-40-27801910",
+"url": "http:\u002F\u002Fwww.goldstonepower.com\u002F",
+"overview" : "Goldstone Infratech Limited is engaged in manufacturing polymer insulators. The Company operates through Composite Polymer Insulators segment. The Company\u0027s products include power utilities and 25 kilovolts (KV) railway traction. The Company\u0027s power utilities products include 10-15 KV composite insulators, 22-28 KV composite insulators, 33-36 KV composite insulators, 52-77 KV composite insulators, 110-132 KV composite insulators, 220-245 KV composite insulators, 330- 420 KV composite insulators and 765-800 KV composite insulators. Its railway traction includes 25 kV nine-ton insulators, 25 KV bracket tube insulators and 25 KV stay arm insulators. The Company has also developed and tested approximately 1,200 KV insulators for Power Grid Corporation of India Limited. The Company\u0027s plants are located at Cherlapally, Hyderabad and Gaddapotharam, Jinnaram Mandal, Medak District, Telangana. The Company\u0027s subsidiary is TF Solar Power Private Limited."
+} ]
+, "management" : [
+{
+"name" : "B. Sharat Chandra",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "K. V. B Narayana",
+"title" : "Executive Vice President - Operations"
+}
+,
+{
+"name" : "D. P. K. Udas",
+"title" : "Vice President - Marketing"
+}
+,
+{
+"name" : "N. K. Rawal",
+"title" : "Managing Director, Additional Director"
+}
+,
+{
+"name" : "B. Kiran Reddy",
+"title" : "Assistant General Manager - Production"
+}
+,
+{
+"name" : "P. Hanuman Prasad",
+"title" : "Company Secretary"
+}
+,
+{
+"name" : "S. Murali Krishana",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "M. Gopalakrishna",
+"age" : "78",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "B. Appa Rao",
+"age" : "57",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

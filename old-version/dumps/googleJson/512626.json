@@ -1,0 +1,297 @@
+
+ [
+{
+"symbol" : "512626",
+"exchange" : "BOM",
+"id": "7305240",
+"t" : "512626",
+"e" : "BOM",
+"name" : "Orbit Exports Limited."
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:512626"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:512626"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:512626"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002714)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "8.24%",
+"annual" : "14.91%",
+"ttm" : "15.07%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "18.19%",
+"annual" : "21.83%",
+"ttm" : "21.24%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "27.10%",
+"ttm" : "23.88%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "11.63%",
+"ttm" : "18.01%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "17.50%",
+"ttm" : "34.07%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "479",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.65",
+"l" : "156.00",
+"cp" : "-1.05",
+"ccol" : "chr",
+"op" : "155.20",
+"hi" : "162.00",
+"lo" : "155.20",
+"vo" : "1,112.00",
+"avvo" : "",
+"hi52" : "190.00",
+"lo52" : "115.65",
+"mc" : "4.52B",
+"pe" : "21.00",
+"fwpe" : "",
+"beta" : "",
+"eps" : "7.43",
+"dy" : "1.03",
+"ldiv" : "0.60",
+"shares" : "28.70M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "7305240",
+"name" : "Orbit Exports Limited.",
+"t" : "512626",
+"e" : "BOM",
+"l" : "156.00",
+"c" : "-1.65",
+"mc" : "4.52B",
+"cp" : "-1.05",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2171282",
+"name" : "Eastern Silk Industries Ltd.",
+"t" : "EASTSILK",
+"e" : "NSE",
+"l" : "4.85",
+"c" : "+0.15",
+"mc" : "382.92M",
+"cp" : "3.19",
+"ccol" : "chg"
+}
+,
+{
+"id" : "1022713",
+"name" : "Loyal Textile Mills Ltd",
+"t" : "514036",
+"e" : "BOM",
+"l" : "643.00",
+"c" : "-2.65",
+"mc" : "3.11B",
+"cp" : "-0.41",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12388315",
+"name" : "Simplex Mills Company Limited",
+"t" : "533018",
+"e" : "BOM",
+"l" : "9.98",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "1631719",
+"name" : "Arvind Limited",
+"t" : "ARVIND",
+"e" : "NSE",
+"l" : "416.85",
+"c" : "+6.15",
+"mc" : "107.59B",
+"cp" : "1.50",
+"ccol" : "chg"
+}
+,
+{
+"id" : "885040",
+"name" : "Damodar Industries Ltd",
+"t" : "521220",
+"e" : "BOM",
+"l" : "135.90",
+"c" : "+4.75",
+"mc" : "1.52B",
+"cp" : "3.62",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8607562",
+"name" : "Ludlow Jute \u0026 Specialities Ltd",
+"t" : "526179",
+"e" : "BOM",
+"l" : "98.30",
+"c" : "+1.10",
+"mc" : "1.05B",
+"cp" : "1.13",
+"ccol" : "chg"
+}
+,
+{
+"id" : "8532916",
+"name" : "Prime Urban Development India Ltd",
+"t" : "521149",
+"e" : "BOM",
+"l" : "19.00",
+"c" : "+0.10",
+"mc" : "506.23M",
+"cp" : "0.53",
+"ccol" : "chg"
+}
+,
+{
+"id" : "12287391",
+"name" : "Ventura Textiles Ltd",
+"t" : "516098",
+"e" : "BOM",
+"l" : "4.24",
+"c" : "0.00",
+"mc" : "82.48M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "3426990",
+"name" : "Silktex Ltd",
+"t" : "526835",
+"e" : "BOM",
+"l" : "4.45",
+"c" : "",
+"mc" : "36.80M",
+"cp" : "",
+"ccol" : ""
+}
+,
+{
+"id" : "5523113",
+"name" : "Lahoti Overseas Ltd",
+"t" : "531842",
+"e" : "BOM",
+"l" : "22.00",
+"c" : "-0.60",
+"mc" : "634.75M",
+"cp" : "-2.65",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "32 Ground Floor Divyadarshan, 2Nd Fofalwadi, Bhuleshwar, MUMBAI, 400002, India",
+"phone": "+91-22-66256262",
+"fax": "+91-22-22822031",
+"url": "http:\u002F\u002Fwww.orbitexports.com\u002F",
+"overview" : "Orbit Exports Limited is a holding and weaving company. The Company operates through two segments: Windmill Power Generation and Manufacturing of Textile. It operates across multiple verticals, from women\u0027s apparel to Christmas crafts and home decor, and occasion specific fabrics and finished products. Its Silky Aspects\u0027 products include Jacquard, Dupion, Silky Charmeuse, Taffeta and Taj Mahal. Its Jacquard category of products include Sylvia and Monza Jacquard, Olivia Jacquard, New Sherwani Jacquard, Monochrome Jacquards, Mercury Jacquard, Impression Jacquard, Glossy Jacquard, Florence Jacquard, Feather Jacquard and Bamboo. Its Christmas Crafts\u0027 category of products include Christmas stockings, tree skirts and table runners. Its fabric are used for the purposes, including evening and fashion garments, Christmas\u002Fcarnival\u002FHalloween\u002FEaster festivals and church drapings. It has operations in the United States, Latin America, Africa, Europe and the Far East."
+} ]
+, "management" : [
+{
+"name" : "Pankaj S. Seth",
+"title" : "Executive Chairman of the Board, Chief Executive Officer, Managing Director"
+}
+,
+{
+"name" : "Mukesh Deopura",
+"title" : "Chief Financial Officer, Head - Finance"
+}
+,
+{
+"name" : "Bruce Larry Kieval",
+"age" : "56",
+"title" : "Executive Director"
+}
+,
+{
+"name" : "Anisha P. Seth",
+"age" : "47",
+"title" : "Whole Time Director"
+}
+,
+{
+"name" : "Neha Poddar",
+"title" : "Compliance Officer, Company Secretary"
+}
+,
+{
+"name" : "Pardeep Khosla",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Gopikrishna Bilasrai Bubna",
+"age" : "58",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Varun Daga",
+"age" : "27",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Saumil Ushakant Marfatia",
+"title" : "Independent Non-Executive Director"
+}
+,
+{
+"name" : "Balkrishna V. Patil",
+"age" : "63",
+"title" : "Independent Non-Executive Director"
+}
+]
+,"moreresources" : [
+]
+}]

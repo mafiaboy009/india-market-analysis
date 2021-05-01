@@ -1,0 +1,295 @@
+
+// [
+{
+"symbol" : "537840",
+"exchange" : "BOM",
+"id": "217743789286726",
+"t" : "537840",
+"e" : "BOM",
+"name" : "Raunaq EPC International Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=RAUI.BO",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http://www.google.com/finance?fstype=ii&q=BOM:537840"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http://www.google.com/finance?fstype=bi&q=BOM:537840"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http://www.google.com/finance?fstype=ci&q=BOM:537840"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q1 (Mar \u002715)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "-0.42%",
+"annual" : "0.47%",
+"ttm" : "2.17%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "3.83%",
+"annual" : "3.45%",
+"ttm" : "5.74%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "5.28%",
+"ttm" : "5.62%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "",
+"annual" : "0.37%",
+"ttm" : "2.30%"
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "",
+"annual" : "0.92%",
+"ttm" : "6.13%"
+},
+{
+"title" : "Employees",
+"recent_quarter" : "176",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "-1.45",
+"l" : "141.00",
+"cp" : "-1.02",
+"ccol" : "chr",
+"op" : "140.80",
+"hi" : "142.25",
+"lo" : "140.80",
+"vo" : "170.00",
+"avvo" : "",
+"hi52" : "219.95",
+"lo52" : "117.00",
+"mc" : "478.04M",
+"pe" : "22.17",
+"fwpe" : "",
+"beta" : "",
+"eps" : "6.36",
+"dy" : "",
+"ldiv" : "",
+"shares" : "3.34M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "217743789286726",
+"name" : "Raunaq EPC International Ltd",
+"t" : "537840",
+"e" : "BOM",
+"l" : "141.00",
+"c" : "-1.45",
+"mc" : "478.04M",
+"cp" : "-1.02",
+"ccol" : "chr"
+}
+,
+{
+"id" : "865921167692094",
+"name" : "NBCC (India) Ltd",
+"t" : "NBCC",
+"e" : "NSE",
+"l" : "99.90",
+"c" : "-1.50",
+"mc" : "181.91B",
+"cp" : "-1.48",
+"ccol" : "chr"
+}
+,
+{
+"id" : "10664031",
+"name" : "IVRCL Ltd",
+"t" : "IVRCLINFRA",
+"e" : "NSE",
+"l" : "3.05",
+"c" : "-0.10",
+"mc" : "2.39B",
+"cp" : "-3.17",
+"ccol" : "chr"
+}
+,
+{
+"id" : "561072630042219",
+"name" : "Jaihind Projects Limited",
+"t" : "JAIHINDPRO",
+"e" : "NSE",
+"l" : "4.90",
+"c" : "0.00",
+"mc" : "47.81M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "15829063",
+"name" : "Indian Hume Pipe Company Ltd",
+"t" : "INDIANHUME",
+"e" : "NSE",
+"l" : "322.50",
+"c" : "-2.95",
+"mc" : "15.78B",
+"cp" : "-0.91",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15009671",
+"name" : "Continental Construction Ltd",
+"t" : "507956",
+"e" : "BOM",
+"l" : "0.00",
+"c" : "-20.75",
+"mc" : "",
+"cp" : "-100.00",
+"ccol" : "chr"
+}
+,
+{
+"id" : "2134116",
+"name" : "SPML Infra Ltd",
+"t" : "SPMLINFRA",
+"e" : "NSE",
+"l" : "117.00",
+"c" : "+2.90",
+"mc" : "4.27B",
+"cp" : "2.54",
+"ccol" : "chg"
+}
+,
+{
+"id" : "5131410",
+"name" : "C \u0026 C Constructions Limited",
+"t" : "CANDC",
+"e" : "NSE",
+"l" : "44.10",
+"c" : "-2.20",
+"mc" : "1.21B",
+"cp" : "-4.75",
+"ccol" : "chr"
+}
+,
+{
+"id" : "13451471",
+"name" : "Fedders Electric \u0026 Engineering Ltd",
+"t" : "FEDDERELEC",
+"e" : "NSE",
+"l" : "66.85",
+"c" : "+0.60",
+"mc" : "2.28B",
+"cp" : "0.91",
+"ccol" : "chg"
+}
+,
+{
+"id" : "15284677",
+"name" : "Kalpataru Power Transmission Limited",
+"t" : "KALPATPOWR",
+"e" : "NSE",
+"l" : "494.95",
+"c" : "+4.90",
+"mc" : "76.72B",
+"cp" : "1.00",
+"ccol" : "chg"
+}
+,
+{
+"id" : "9747293",
+"name" : "Mukand Engineers Limited",
+"t" : "MUKANDENGG",
+"e" : "NSE",
+"l" : "36.20",
+"c" : "-0.55",
+"mc" : "462.44M",
+"cp" : "-1.50",
+"ccol" : "chr"
+}
+]
+, "summary" : [{
+"address": "20 K.M. Mathura Road, P.O. Amar Nagar P.O. Box 353, FARIDABAD, 121003, India",
+"phone": "+91-129-4288888",
+"fax": "+91-129-4288823",
+"url": "http:\u002F\u002Fwww.raunaqinternational.com\u002F",
+"overview" : "Raunaq EPC International Limited (REIL) is engaged in providing pipeline and storage infrastructure solutions. The Company is a diversified company with two business segments: engineering, procurement and construction (EPC), and auto components. The Company\u0027s segments are Construction activity (civil, mechanical and engineering) and manufacturing of Automobile Components. It undertakes medium-sized projects for the core infrastructure and industrial sectors in India, including power, chemicals, oil and gas, petrochemicals, hydro-carbon, metal, cross country pipelines and automobiles. Its operational fields include industrial piping system, cross country pipeline and piping systems, storage tanks and oil handling systems, ash water recirculation systems, compressed air systems, fire water systems, and site fabrication and equipment erection works. Xlerate Driveline India Limited is its subsidiary, which is engaged in the manufacture of automotive clutches for commercial vehicles."
+} ]
+, "management" : [
+{
+"name" : "Surinder Pal Kanwar",
+"age" : "61",
+"title" : "Executive Chairman of the Board, Managing Director"
+}
+,
+{
+"name" : "Rajan Malhotra",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "P. C. Kothari",
+"title" : "Vice President - Finance and Accounts"
+}
+,
+{
+"name" : "Ashwani Chaswal",
+"title" : "Vice President - Sales \u0026 Marketing"
+}
+,
+{
+"name" : "A. D. Jain",
+"title" : "Vice President - Construction"
+}
+,
+{
+"name" : "Sachit Kanwar",
+"age" : "27",
+"title" : "Joint Managing Director, Whole-Time Director"
+}
+,
+{
+"name" : "Seethalakshmi Venkataraman",
+"title" : "Director"
+}
+,
+{
+"name" : "Nagar Venkatraman Srinivasan",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Sanjeev Kumar",
+"age" : "56",
+"title" : "Non-Executive Independent Director"
+}
+,
+{
+"name" : "Pradeep Kumar Mittal",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]

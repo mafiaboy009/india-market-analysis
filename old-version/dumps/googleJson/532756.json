@@ -1,0 +1,295 @@
+
+ [
+{
+"symbol" : "532756",
+"exchange" : "BOM",
+"id": "711632",
+"t" : "532756",
+"e" : "BOM",
+"name" : "Mahindra CIE Automotive Ltd"
+, "f_reuters_url" : "http:\u002F\u002Fstocks.us.reuters.com\u002Fstocks\u002Fratios.asp?rpc=66\u0026symbol=",
+"f_recent_quarter_date" : "",
+"f_annual_date" : "",
+"f_ttm_date" : "",
+"financials" :
+[{
+"f_type" : "Income\u0026nbsp\u003BStatement"
+,"url" : "http:www.google.comfinance?fstype=ii&q=BOM:532756"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Balance\u0026nbsp\u003BSheet"
+,"url" : "http:www.google.comfinance?fstype=bi&q=BOM:532756"
+,"f_figures" :
+[
+]
+},
+{
+"f_type" : "Cash\u0026nbsp\u003BFlow"
+,"url" : "http:www.google.comfinance?fstype=ci&q=BOM:532756"
+,"f_figures" :
+[
+]
+}],
+"kr_recent_quarter_date" : "Q4 (Dec \u002716)",
+"kr_annual_date" : "2017",
+"kr_ttm_date" : "TTM",
+"keyratios" :
+[
+{
+"title" : "Net profit margin",
+"recent_quarter" : "1.50%",
+"annual" : "5.38%",
+"ttm" : "3.06%"
+},
+{
+"title" : "Operating margin",
+"recent_quarter" : "2.96%",
+"annual" : "8.02%",
+"ttm" : "5.24%"
+},
+{
+"title" : "EBITD margin",
+"recent_quarter" : "",
+"annual" : "12.34%",
+"ttm" : "9.61%"
+},
+{
+"title" : "Return on average assets",
+"recent_quarter" : "1.36%",
+"annual" : "4.94%",
+"ttm" : ""
+},
+{
+"title" : "Return on average equity",
+"recent_quarter" : "3.11%",
+"annual" : "10.27%",
+"ttm" : ""
+},
+{
+"title" : "Employees",
+"recent_quarter" : "7,258",
+"annual" : "-",
+"ttm" : "-"
+}
+]
+, "c" : "+0.05",
+"l" : "230.45",
+"cp" : "0.02",
+"ccol" : "chg",
+"op" : "230.50",
+"hi" : "232.00",
+"lo" : "230.00",
+"vo" : "12,760.00",
+"avvo" : "",
+"hi52" : "270.05",
+"lo52" : "198.00",
+"mc" : "87.21B",
+"pe" : "45.09",
+"fwpe" : "",
+"beta" : "",
+"eps" : "5.11",
+"dy" : "",
+"ldiv" : "",
+"shares" : "378.37M",
+"instown" : "",
+"eo":""
+, "related" : [
+{
+"id" : "711632",
+"name" : "Mahindra CIE Automotive Ltd",
+"t" : "532756",
+"e" : "BOM",
+"l" : "230.45",
+"c" : "+0.05",
+"mc" : "87.21B",
+"cp" : "0.02",
+"ccol" : "chg"
+}
+,
+{
+"id" : "7597622",
+"name" : "Vardhman Industries Ltd",
+"t" : "513534",
+"e" : "BOM",
+"l" : "12.07",
+"c" : "-0.41",
+"mc" : "96.69M",
+"cp" : "-3.29",
+"ccol" : "chr"
+}
+,
+{
+"id" : "15519942",
+"name" : "Vallabh Steels Ltd",
+"t" : "513397",
+"e" : "BOM",
+"l" : "29.95",
+"c" : "-1.55",
+"mc" : "148.25M",
+"cp" : "-4.92",
+"ccol" : "chr"
+}
+,
+{
+"id" : "12678463",
+"name" : "Marmagoa Steel Ltd",
+"t" : "513355",
+"e" : "BOM",
+"l" : "1.83",
+"c" : "0.00",
+"mc" : "118.40M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "5167887",
+"name" : "Jamna Auto Industries Ltd",
+"t" : "JAMNAAUTO",
+"e" : "NSE",
+"l" : "79.70",
+"c" : "+0.35",
+"mc" : "31.54B",
+"cp" : "0.44",
+"ccol" : "chg"
+}
+,
+{
+"id" : "459623",
+"name" : "Frontier Springs Ltd",
+"t" : "522195",
+"e" : "BOM",
+"l" : "184.00",
+"c" : "-3.65",
+"mc" : "723.34M",
+"cp" : "-1.95",
+"ccol" : "chr"
+}
+,
+{
+"id" : "1971031",
+"name" : "KEI Industries Limited",
+"t" : "KEI",
+"e" : "NSE",
+"l" : "383.00",
+"c" : "+9.60",
+"mc" : "30.05B",
+"cp" : "2.57",
+"ccol" : "chg"
+}
+,
+{
+"id" : "2769878",
+"name" : "Coventry Coil-o-Matic (Haryana) Ltd",
+"t" : "523415",
+"e" : "BOM",
+"l" : "3.55",
+"c" : "0.00",
+"mc" : "16.00M",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "6782803",
+"name" : "Usha Martin Limited",
+"t" : "USHAMART",
+"e" : "NSE",
+"l" : "23.80",
+"c" : "+0.70",
+"mc" : "7.19B",
+"cp" : "3.03",
+"ccol" : "chg"
+}
+,
+{
+"id" : "723366",
+"name" : "BCL Forgings Ltd.",
+"t" : "506093",
+"e" : "BOM",
+"l" : "3.91",
+"c" : "0.00",
+"mc" : "",
+"cp" : "0.00",
+"ccol" : "chb"
+}
+,
+{
+"id" : "14391076",
+"name" : "Jayaswal Neco Industries Limited",
+"t" : "JAYNECOIND",
+"e" : "NSE",
+"l" : "10.30",
+"c" : "+0.45",
+"mc" : "6.65B",
+"cp" : "4.57",
+"ccol" : "chg"
+}
+]
+, "summary" : [{
+"address": "1St Floor Mahindra Towers,P K Kurne Chowk, Worli, MUMBAI, 400018, India",
+"phone": "+91-22-24931449",
+"fax": "+91-22-24915890",
+"url": "http:\u002F\u002Fwww.mahindracie.com\u002Findex.php",
+"overview" : "Mahindra CIE Automotive Limited is an auto components supplier with presence in many technologies, which include forgings, castings, stampings, magnetic products and composites. The Company is focused on the automotive market, including cars, utility vehicles, commercial vehicles and tractors. The Company\u0027s Forgings business offers crankshafts, stub axles, forged and machined parts, front axle beams and steel pistons, flashless near nett forgings and forged steel parts\u003B Stampings business offers sheet metal stampings, components and assemblies\u003B Castings business offers turbocharger housings, axle and transmission parts\u003B Magnetic Products business offers soft and hard magnets, and magnetic induction lighting\u003B Composites business offers compounds, components, and products, and Gears business offers engine gears, timing gears, transmission gears, transmission drive shafts and crown wheel pinion. It operates in India, Italy, Spain, Lithuania, Germany and the United Kingdom."
+} ]
+, "management" : [
+{
+"name" : "Hemant Luthra",
+"title" : "Executive Chairman of the Board"
+}
+,
+{
+"name" : "Ander Arenaza Alvarez",
+"title" : "Chief Executive Officer"
+}
+,
+{
+"name" : "K. Jayaprakash",
+"age" : "52",
+"title" : "Chief Financial Officer"
+}
+,
+{
+"name" : "Manoj Menon",
+"age" : "50",
+"title" : "Chief Executive Officer - Foundry and Magnetic Products Divisions"
+}
+,
+{
+"name" : "Krishnan Shankar",
+"title" : "Compliance Officer, Company Secretary, Head - Legal"
+}
+,
+{
+"name" : "Pedro Jesus Echegaray Larrea",
+"title" : "Additional Executive Director"
+}
+,
+{
+"name" : "Zhooben Bhiwandiwala",
+"title" : "Additional Director"
+}
+,
+{
+"name" : "Antonio Maria Pradera Jauregui",
+"age" : "59",
+"title" : "Non-Executive Director"
+}
+,
+{
+"name" : "Shriprakash P. Shukla",
+"title" : "Additional Non-Executive Non- Independent Director"
+}
+,
+{
+"name" : "Jesus Mario Herrera Barandiaran",
+"title" : "Non-Executive Independent Director"
+}
+]
+,"moreresources" : [
+]
+}]
